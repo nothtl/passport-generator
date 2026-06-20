@@ -1,0 +1,128 @@
+{
+  "student_name": "Ousmane Diallo",
+  "email": "ousmane.diallo3@mail.citytech.cuny.edu",
+  "scores": {
+    "EC": {
+      "score": 15.0,
+      "sub_scores": {
+        "Verbal": 10.0,
+        "Written": 0.0,
+        "Interpersonal": 0.0,
+        "CrossCultural": 5.0
+      },
+      "source": "survey",
+      "data_coverage": 0.2,
+      "reasoning": "Ousmane Diallo's self-reported comfort with spoken English and fluency in French and Fulani demonstrate strong cross-cultural and verbal communication abilities."
+    },
+    "GC": {
+      "score": 15.0,
+      "sub_scores": {
+        "D1_Empathy": 0.0,
+        "D2_Community": 0.45,
+        "D3_Cultural": 0.3,
+        "D4_Network": 0.0,
+        "D5_Volunteering": 0.0
+      },
+      "source": "survey",
+      "data_coverage": 0.13,
+      "reasoning": "Ousmane Diallo self-reports understanding how cultural values shape career choices, demonstrating self-awareness."
+    },
+    "RFF": {
+      "score": 28.6,
+      "sub_scores": {
+        "D1_SelfReflection": 0.4,
+        "D2_GoalSetting": 0.245,
+        "D3_FutureCareer": 0.3333,
+        "D4_CollegePrep": 0.1667
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.26,
+      "reasoning": "Ousmane expresses a clear ambition to learn AI fundamentals in college for future career exploration."
+    },
+    "CR": {
+      "score": 45.0,
+      "sub_scores": {
+        "C1": 30,
+        "C2": 60.0,
+        "C3": 0,
+        "C4": 0
+      },
+      "source": "survey",
+      "data_coverage": 0.38,
+      "reasoning": "Ousmane Diallo attended 100% of scheduled sessions, demonstrating strong commitment to program engagement and learning."
+    },
+    "CT": {
+      "score": 0,
+      "thinking_arc": "Insufficient document evidence to evaluate critical thinking.",
+      "key_evidence": "No LinkedIn experience, GitHub projects, or resume experience found.",
+      "depth_signal": "surface",
+      "source": "insufficient_docs",
+      "reasoning": "Insufficient document evidence to evaluate critical thinking."
+    },
+    "CI": {
+      "score": 0,
+      "innovation_arc": "Insufficient document evidence to evaluate creative innovation.",
+      "key_evidence": "No LinkedIn, GitHub projects, or resume experience found.",
+      "innovation_signal": "conventional",
+      "source": "insufficient_docs",
+      "reasoning": "Insufficient document evidence to evaluate creative innovation."
+    }
+  },
+  "enriched_fields": {},
+  "fields_enriched_count": 0,
+  "fields_still_missing": [
+    "Pre Humble",
+    "FY helped realize doing well connects to my career goals",
+    "Pre Include Others Who Are Different",
+    "Pre Community Connected",
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership",
+    "How many individuals do you know who work in the career you are interested in",
+    "The Speaker inspired me to think more about my future career",
+    "The topic helped me think about my future career pathway",
+    "Listen to others (post)",
+    "Connected Champions",
+    "I feel ready and prepared for college",
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network",
+    "The Speaker helped me think about my future career pathway",
+    "Deal with conflicts - conflict management",
+    "CPC Anything else",
+    "Listen to others",
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round",
+    "I feel I am now more prepared for college",
+    "The Speaker was a relatable role model",
+    "Rate your Career Pathways Champion (1-10)",
+    "Pre Deal with Conflicts",
+    "Include others who are different from you diversity and inclusion",
+    "I feel more engaged in school and participate more than before",
+    "I made new friends during the Foundational Year",
+    "If you do not have a job, what is your ideal future career job",
+    "CPC What component skill did you cover",
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+    "Include others who are different - diversity and inclusion",
+    "CPC Resume additions",
+    "Pre Listen",
+    "The topic inspired me to think more about my future career",
+    "What are three skills you have that will help you in your future career",
+    "After meeting Champions, I better understand people who are different from me",
+    "What are three adjectives that describe the person you are and why",
+    "CPC Resume Text",
+    "CPC Why",
+    "Did you find a way to stay in touch",
+    "CPC What skill did you cover",
+    "Community Feel (Quant)",
+    "Deal with conflicts with other people conflict management",
+    "CPC All Session Text",
+    "FY1 Hours Volunteered",
+    "I feel I am now a stronger candidate for college and careers",
+    "I feel more prepared for my future career",
+    "Pre Lead With Authenticity",
+    "Any suggestions to make the Foundational Year a better experience",
+    "Pre Empathy",
+    "Meeting with my Champions during school helped me feel like I belong in school",
+    "Did you learn something about other careers from other Career Cohorts",
+    "FY1 - Hours Volunteered",
+    "Remember the SMART Goal you set - next round",
+    "CPC Discussion topics"
+  ],
+  "llm_calls_made": 5
+}

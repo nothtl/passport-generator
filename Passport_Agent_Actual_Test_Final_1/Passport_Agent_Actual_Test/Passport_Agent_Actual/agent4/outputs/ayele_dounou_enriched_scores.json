@@ -1,0 +1,168 @@
+{
+  "student_name": "Ayele Dounou",
+  "email": "ayele.dounou@ichsbronx.org",
+  "scores": {
+    "EC": {
+      "score": 46.25,
+      "sub_scores": {
+        "Verbal": 22.5,
+        "Written": 3.75,
+        "Interpersonal": 3.3333,
+        "CrossCultural": 16.6667
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.6,
+      "reasoning": "Ayele's role as Host at Havana Central demonstrates creating welcoming dining experiences and professionally addressing guest concerns."
+    },
+    "GC": {
+      "score": 64.4,
+      "sub_scores": {
+        "D1_Empathy": 0.4417,
+        "D2_Community": 0.59,
+        "D3_Cultural": 1.0,
+        "D4_Network": 0.76,
+        "D5_Volunteering": 0.415
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.52,
+      "reasoning": "Ayele's strong cultural awareness and volunteer experience show dedication to understanding and serving diverse communities."
+    },
+    "RFF": {
+      "score": 72.8,
+      "sub_scores": {
+        "D1_SelfReflection": 0.655,
+        "D2_GoalSetting": 0.445,
+        "D3_FutureCareer": 0.895,
+        "D4_CollegePrep": 0.9167
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.68,
+      "reasoning": "Ayele aims to \"Work Hard to achieve my goal because I know that good thing take time,\" demonstrating proactive future planning."
+    },
+    "CR": {
+      "score": 76.8,
+      "sub_scores": {
+        "C1": 40,
+        "C2": 92.0,
+        "C3": 75,
+        "C4": 100
+      },
+      "source": "survey+docs",
+      "data_coverage": 1.0,
+      "reasoning": "Ayele's role as Catering & Events Assistant demonstrates event coordination and adherence to safety standards, reflecting strong professionalism and foundational skills."
+    },
+    "CT": {
+      "score": 68,
+      "thinking_arc": "Ayele Dounou's translation work demonstrates nuanced analysis of meaning across languages and cultural contexts, facilitating academic success for students and families.",
+      "key_evidence": "Translation, Youth Ministry Leader, Volunteer",
+      "depth_signal": "developing",
+      "source": "docs",
+      "reasoning": "Ayele Dounou's translation work demonstrates nuanced analysis of meaning across languages and cultural contexts, facilitating academic success for students and families."
+    },
+    "CI": {
+      "score": 70,
+      "innovation_arc": "Ayele Dounou's volunteer work with Frères Unis demonstrates initiative in coordinating supply collection and distribution for families in need.",
+      "key_evidence": "Volunteer, Frères Unis",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Ayele Dounou's volunteer work with Frères Unis demonstrates initiative in coordinating supply collection and distribution for families in need."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts - conflict management": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": "Catering & Events Assistant at Havana Central, Host at Havana Central, Usher / Guest Services at Madison Square Garden Entertainment Corp., Crew Member / Cashier at Dunkin', Cashier / Customer Service Representative at Rose Boutique",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Empathy": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Humble": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Listen": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Include Others Who Are Different": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Deal with Conflicts": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Lead With Authenticity": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Community Connected": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "If you do not have a job, what is your ideal future career job": {
+      "value": "Hospitality & Guest Services Professional | SPEAKHIRE Alum",
+      "source": "docs",
+      "was_missing": true
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": false,
+      "doc_override": true
+    }
+  },
+  "fields_enriched_count": 17,
+  "fields_still_missing": [
+    "The Speaker was a relatable role model",
+    "The topic helped me think about my future career pathway",
+    "The Speaker inspired me to think more about my future career",
+    "The Speaker helped me think about my future career pathway",
+    "The topic inspired me to think more about my future career"
+  ],
+  "llm_calls_made": 21
+}

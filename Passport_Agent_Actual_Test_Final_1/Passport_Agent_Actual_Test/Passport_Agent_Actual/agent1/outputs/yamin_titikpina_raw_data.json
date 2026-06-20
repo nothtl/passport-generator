@@ -1,0 +1,426 @@
+{
+  "student_name": "Yamin Titikpina",
+  "email": "yamin.titikpina@ellisprep.com",
+  "found_in": [
+    "Interns_20260512T143927-0400.csv",
+    "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+    "FULL SpeakHire Database 2026.xlsx::Interns",
+    "FULL SpeakHire Database 2026.xlsx::Hub Users 226",
+    "SPEAKHIRE FY Internship Round Exit Survey.csv"
+  ],
+  "fields": {
+    "English - Spoken": {
+      "value": "Very Comfortable",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Rate your Career Pathways Champion (1-10)": {
+      "value": 9.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Community Feel (Quant)": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Any suggestions to make the Foundational Year a better experience": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Did you find a way to stay in touch": {
+      "value": "Yes I did",
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "What are three skills you have that will help you in your future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "Listen to others (post)": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Deal with conflicts - conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "After meeting Champions, I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Languages": {
+      "value": "French",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Pre Empathy": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Humble": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Listen": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Include Others Who Are Different": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Deal with Conflicts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Lead With Authenticity": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Listen to others": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Community Connected": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Culture Feel": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I understand how my cultural values can shape my career choices": {
+      "value": "7",
+      "source": "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round": {
+      "value": 1.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "Meeting with my Champions during school helped me feel like I belong in school": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I feel more engaged in school and participate more than before": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I made new friends during the Foundational Year": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "FY1 Ever Volunteered": {
+      "value": false,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "FY1 Hours Volunteered": {
+      "value": "90-100",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "What are three adjectives that describe the person you are and why": {
+      "value": "amiable ,approchable,cordial because i like the community , get to know others and share my opinions.",
+      "source": "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Hope to Gain": {
+      "value": "I hope to know better about my career.",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "What do you hope to gain by going through this program": {
+      "value": "I hope to know better about my career.",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "SMART GOAL": {
+      "value": "Specific: technology\nMeasurable: improve in science\nAttainable: from 3.5  to 4.0\nRelevant: applying to college\nTimely: succeed",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Remember the SMART Goal you set - next round": {
+      "value": "Go to college.",
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Know How To Pursue Careers": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel more prepared for my future career": {
+      "value": 1.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "If you do not have a job, what is your ideal future career job": {
+      "value": "engeneer",
+      "source": "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "I feel ready and prepared for college": {
+      "value": 5.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "FY1 Feel College Ready and Prepped": {
+      "value": 5.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "I feel I am now a stronger candidate for college and careers": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel I am now more prepared for college": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY helped realize doing well connects to my career goals": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker was a relatable role model": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY1 - Ever Volunteered?": {
+      "value": false,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Hours Volunteered": {
+      "value": "90-100",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Had Internship?": {
+      "value": false,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Had/Have Job?": {
+      "value": false,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Total Sessions Attended": {
+      "value": "27",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Total Sessions Scheduled": {
+      "value": "27",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Connected Champions": {
+      "value": "Benazir Fateh, Sahabia Ahmed, Lily Chu",
+      "source": "FULL SpeakHire Database 2026.xlsx::Interns",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC What skill did you cover": {
+      "value": "Introductions, objectives, skills | No skill - only introductions | Continual improvement | Continual improvement | Collaborate Effectively | Collaborate effectively with others | Communicating effectively | Continual Improvement | Continual Improvement | Leadership | Leadership | Communicating effectively | Communication | Continual Improvement | Collaborating with others | Communication",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC What component skill did you cover": {
+      "value": "Communication: Introduction | No skill - only introductions | Fixed versus growth mindsets | Studying effectively | Create Constructive Meetings | Resolving disagreements | Developing public speaking skills | Developing a Growth Mindset | Studying effectively | conflict resolution | Decisiveness | Creating a resume | Preparing for interviews | Time management | Persuasion | Public speaking",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Discussion topics": {
+      "value": "Skills disucussed for different career options, College interest | discussed what skills they would like to cover in their sessions. their future goals etc. | Introduction to mindsets | Memory Methods | Neither of my mentees had attended much structured meetings in the past - including being members of student-run clubs -  although Veronica brought up later she remembered attending meetings for a high school event she designed the flyer for. Both had run for student office recently - Veronica for VP and Jiaying as Secretary - although election issues had meant no one could  take office. | We talked about how disagreements can arise in work and at school, how different personalities and styles can clash. Both mentees noted they had not been taught conflict resolution skills. I had each mentee play one side of a disagreement and then had them play the opposing side. It was somewhat hard to get them to role play. Veronica has started filling in her resume but Jiaying has not. | Veronica noted many of their classes involve teams of students presenting. They haven't been given much advice about public speaking she remembers except to make notes on index cards. \n\nWe talked about ways to decrease anxiety, how to prepare a talk,  content and format. We talked about what makes a good speaker and a short TED video. Re-capped with how the TED speaker illustrated good public speaking skills. Veronica brought up the animated expression/ gestures and what the main idea of the talk was. \n\nI also brought up you can get the attention of the people you are speaking to/ wake them up by asking them questions during the talk, like \"How many of you are students? teachers? parents?\" for example when giving a talk to a school audience. Or ask their opinion: \"Raise your hand if you like virtual classes. How about in-person? And what about a hybrid?\" This was new to Veronica and she said she might try this next time. | After introducing ourselves to each other, I asked if either intern had heard of fixed vs. growth mindset. Ashmel had so I asked her to defined it for us, which she did. They took a short survey to given them an idea of whether their mindset was more or less fixed or growth-oriented. We talked about how a fixed vs. growth mindset differs and then some activities they can do to support a growth mindset. | Both mentees had never had a session where they were taught to study effectively and Yasmin specifically said he wanted to learn better methods. Ashmel uses Cornell notes and had heard of memory palaces so I asked her to describe what those methods were, which she did to some degree. We reviewed some effective methods and others that are regularly used (e.g. highlighting, re-reading notes) which are popular but not as useful. Ashmel said she would try quizzing herself more in the future and I told Yasmin I would send more details on Cornell and Memory Palace for him. He thanked me for the session. | talked about the resume. Benazir showed her resume to Devin. talked about How to be a leader... taking initiatives, developing trust and talked in detail about conflict resolution | application of decisiveness .. a small way to practive decisiveness, talked about mentor's network | As above. Ashmel has put looking for a job on hold due to family issues/ possible move. Yasmin has applied for a summer coding academy. | We talked about what to do before, during, and after interviews. Ashmel had gone to one job interview; Yamin had not had any interviewing experience. We talked about how Ashmel's interview went, what types of questions to ask the interviewer. | One mentee's job search is on hold due to her family's situation. The other completed their resume and is applying for an internship where May is the end of the deadline. We talked about examining one's free time and figuring out which pockets of time are being wasted, doing the most difficult thing first, prioritizing tasks, avoiding multi-tasking, decreasing distraction and tackling procrastination. For one mentee, they had virtually no private, quiet space to work in so one thought was to communicate with their family when they needed more quiet/ space. For the other mentee, their challenge was procrastination, a concept they weren't really aware of until we discussed it. | Why persuasion is important; different techniques to persuade people; circumstances when they've had to persuade people and what they tried; Yamin updated he was accepted to an engineering internship at Columbia U | See above",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Why": {
+      "value": "Because it was too short | Too short; wish we had more time | Both mentees brought up situations that involved disagreements they had in the past and mentioned this issue was quite common for them.  We engaged in a role play exercise where they pretended to be two students involved in a project where one did not feel the other was pulling their full weight. At the end, one mentee said this was a helpful session. | I was able to get Veronica to reflect on her past experiences and engage with the video. | Both mentees were interested, asked questions, and told me they found the information helpful. | Both mentees were interested enough to share their resumes during the session. We talked about the general format/ purpose of resumes. There were a few differences between the SPEAKHIRE resume and what I/both mentees thought: a) instead of the Objective section, the new \"trend\" is to summarize very briefly who you are/ what skills you have at the top and b) there is no space in the resume to list awards/ achievements. We looked at a job posting to see how a resume can be crafted to fit it. | We talked about preparing for interviews and Ashmel's experiences to date. | The mentees were somewhat less interactive this time. | Yamin was late about 20 minutes. The topic was a little difficult to get the mentees interacting today. | We talked about upcoming plans for the summer. Then about the mentees' previous experiences with public speakers. Talked about some general principles of public speaking and good vs. bad slides. Ashmel shared her slide presentation that she just did yesterday about her background.",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume additions": {
+      "value": "Objectives, education, and skills | nothing | Continuous improvement | How to study effectively | Create Constructive Meetings | Resolving disagreements | Public speaking skills | Developing a Growth Mindset | Studying Effectively | yes | It didn't make sense to add the skill to a resume. | Communication | Both interns already had a resume completed. | Deferred | Deferred",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Anything else": {
+      "value": "na | Everyone had Internet connectivity issues this time so that affected interaction. I was pleasantly surprised to see Veronica try a new method of note-taking we discussed last time: she proudly showed me the notes on camera! I was able to talk a bit more to Jiaying about her career plans: she revealed she had been taking dance classes like jazz and was interested in a performance/ choreography career. However, she had been told that could only a a part-time position. I told her there were lots of different careers available in dance. (However, I don't know anyone in that field anymore (used to know 1-2 professional dancers) so if there is anyone in SpeakHire that could guide her there, that might be helpful.) | I have informed both mentees twice I would be open to reviewing their resume with them but neither have shared them. I don't know if this is a tech issue (i.e. not knowing how to share a Google link) or if they are not ready yet as this is technically their first round. I would be open to advising Veronica further as she is interested in applying to my former college for university and I think she is starting to get more comfortable with me. Jiaying is also opening up more but her field (dance) is quite different from my own. I do want to commend her though for attending these sessions given she is abroad and it is often 1 AM there. She did mention to me during the resolving disagreement skill session we had she tried to ask for a more reasonable time. Virtual internships are hard for both their fields as dance and lab work require in-person training. | The mentees were at different grade levels (senior vs. sophomore), stages of the program (Round 3 vs. Round 1), levels of English learning (mostly fluent vs. less so) so I will try to adapt the sessions slightly to their different circumstances. Ashmel has family members who practiced medicine so she may know more about that field than Yasmin who doesn't know anyone who is an engineer. | We shared a pic with staff via e-mail. | This is for Session #7, in case anyone's linking this to a Session. I did not receive a link to a Google form this time. Also, while Ashmel is relatively easy to talk/ listen to even when she has to deal with other people in her space, Yamin is harder to interact with. I think some of this is likely technical (there may be a delay in sound/ camera). At times, he'll appear to look into the distance or be distracted (screen freezing?) or we (Ashmel and I) cannot hear him clearly but then he will ask a good question or want to share items on his screen.",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Session Count": {
+      "value": 16,
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC All Session Text": {
+      "value": "Introductions, objectives, skills | No skill - only introductions | Continual improvement | Continual improvement | Collaborate Effectively | Collaborate effectively with others | Communicating effectively | Continual Improvement | Continual Improvement | Leadership | Leadership | Communicating effectively | Communication | Continual Improvement | Collaborating with others | Communication | Communication: Introduction | No skill - only introductions | Fixed versus growth mindsets | Studying effectively | Create Constructive Meetings | Resolving disagreements | Developing public speaking skills | Developing a Growth Mindset | Studying effectively | conflict resolution | Decisiveness | Creating a resume | Preparing for interviews | Time management | Persuasion | Public speaking | Skills disucussed for different career options, College interest | discussed what skills they would like to cover in their sessions. their future goals etc. | Introduction to mindsets | Memory Methods | Neither of my mentees had attended much structured meetings in the past - including being members of student-run clubs -  although Veronica brought up later she remembered attending meetings for a high school event she designed the flyer for. Both had run for student office recently - Veronica for VP and Jiaying as Secretary - although election issues had meant no one could  take office. | We talked about how disagreements can arise in work and at school, how different personalities and styles can clash. Both mentees noted they had not been taught conflict resolution skills. I had each mentee play one side of a disagreement and then had them play the opposing side. It was somewhat hard to get them to role play. Veronica has started filling in her resume but Jiaying has not. | Veronica noted many of their classes involve teams of students presenting. They haven't been given much advice about public speaking she remembers except to make notes on index cards. \n\nWe talked about ways to decrease anxiety, how to prepare a talk,  content and format. We talked about what makes a good speaker and a short TED video. Re-capped with how the TED speaker illustrated good public speaking skills. Veronica brought up the animated expression/ gestures and what the main idea of the talk was. \n\nI also brought up you can get the attention of the people you are speaking to/ wake them up by asking them questions during the talk, like \"How many of you are students? teachers? parents?\" for example when giving a talk to a school audience. Or ask their opinion: \"Raise your hand if you like virtual classes. How about in-person? And what about a hybrid?\" This was new to Veronica and she said she might try this next time. | After introducing ourselves to each other, I asked if either intern had heard of fixed vs. growth mindset. Ashmel had so I asked her to defined it for us, which she did. They took a short survey to given them an idea of whether their mindset was more or less fixed or growth-oriented. We talked about how a fixed vs. growth mindset differs and then some activities they can do to support a growth mindset. | Both mentees had never had a session where they were taught to study effectively and Yasmin specifically said he wanted to learn better methods. Ashmel uses Cornell notes and had heard of memory palaces so I asked her to describe what those methods were, which she did to some degree. We reviewed some effective methods and others that are regularly used (e.g. highlighting, re-reading notes) which are popular but not as useful. Ashmel said she would try quizzing herself more in the future and I told Yasmin I would send more details on Cornell and Memory Palace for him. He thanked me for the session. | talked about the resume. Benazir showed her resume to Devin. talked about How to be a leader... taking initiatives, developing trust and talked in detail about conflict resolution | application of decisiveness .. a small way to practive decisiveness, talked about mentor's network | As above. Ashmel has put looking for a job on hold due to family issues/ possible move. Yasmin has applied for a summer coding academy. | We talked about what to do before, during, and after interviews. Ashmel had gone to one job interview; Yamin had not had any interviewing experience. We talked about how Ashmel's interview went, what types of questions to ask the interviewer. | One mentee's job search is on hold due to her family's situation. The other completed their resume and is applying for an internship where May is the end of the deadline. We talked about examining one's free time and figuring out which pockets of time are being wasted, doing the most difficult thing first, prioritizing tasks, avoiding multi-tasking, decreasing distraction and tackling procrastination. For one mentee, they had virtually no private, quiet space to work in so one thought was to communicate with their family when they needed more quiet/ space. For the other mentee, their challenge was procrastination, a concept they weren't really aware of until we discussed it. | Why persuasion is important; different techniques to persuade people; circumstances when they've had to persuade people and what they tried; Yamin updated he was accepted to an engineering internship at Columbia U | See above | Because it was too short | Too short; wish we had more time | Both mentees brought up situations that involved disagreements they had in the past and mentioned this issue was quite common for them.  We engaged in a role play exercise where they pretended to be two students involved in a project where one did not feel the other was pulling their full weight. At the end, one mentee said this was a helpful session. | I was able to get Veronica to reflect on her past experiences and engage with the video. | Both mentees were interested, asked questions, and told me they found the information helpful. | Both mentees were interested enough to share their resumes during the session. We talked about the general format/ purpose of resumes. There were a few differences between the SPEAKHIRE resume and what I/both mentees thought: a) instead of the Objective section, the new \"trend\" is to summarize very briefly who you are/ what skills you have at the top and b) there is no space in the resume to list awards/ achievements. We looked at a job posting to see how a resume can be crafted to fit it. | We talked about preparing for interviews and Ashmel's experiences to date. | The mentees were somewhat less interactive this time. | Yamin was late about 20 minutes. The topic was a little difficult to get the mentees interacting today. | We talked about upcoming plans for the summer. Then about the mentees' previous experiences with public speakers. Talked about some general principles of public speaking and good vs. bad slides. Ashmel shared her slide presentation that she just did yesterday about her background.",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume Text": {
+      "value": "Objectives, education, and skills | nothing | Continuous improvement | How to study effectively | Create Constructive Meetings | Resolving disagreements | Public speaking skills | Developing a Growth Mindset | Studying Effectively | yes | It didn't make sense to add the skill to a resume. | Communication | Both interns already had a resume completed. | Deferred | Deferred",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    }
+  },
+  "field_summary": {
+    "total": 68,
+    "found": 33,
+    "missing": 35
+  }
+}

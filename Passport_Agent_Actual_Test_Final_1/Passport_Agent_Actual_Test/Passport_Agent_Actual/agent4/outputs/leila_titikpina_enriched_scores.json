@@ -1,0 +1,223 @@
+{
+  "student_name": "Leila Titikpina",
+  "email": "leila.titikpina@ellisprep.com",
+  "scores": {
+    "EC": {
+      "score": 46.58,
+      "sub_scores": {
+        "Verbal": 25.8333,
+        "Written": 8.75,
+        "Interpersonal": 6.6667,
+        "CrossCultural": 5.3333
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.4,
+      "reasoning": "Leila demonstrated effective communication by training in college and career access and assisting peers with applications."
+    },
+    "GC": {
+      "score": 62.2,
+      "sub_scores": {
+        "D1_Empathy": 0.325,
+        "D2_Community": 0.6083,
+        "D3_Cultural": 1.0,
+        "D4_Network": 0.84,
+        "D5_Volunteering": 0.35
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.17,
+      "reasoning": "Leila demonstrates cultural awareness by understanding how her values shape career choices and engaging in diverse roles like home health aide and volunteer."
+    },
+    "RFF": {
+      "score": 36.8,
+      "sub_scores": {
+        "D1_SelfReflection": 0.1783,
+        "D2_GoalSetting": 0.645,
+        "D3_FutureCareer": 0.32,
+        "D4_CollegePrep": 0.3267
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.42,
+      "reasoning": "Leila aims to clarify career paths aligned with her skills, evidenced by her specific goal of attending medical school within 4-9 years."
+    },
+    "CR": {
+      "score": 67.2,
+      "sub_scores": {
+        "C1": 10,
+        "C2": 84.0,
+        "C3": 75,
+        "C4": 100
+      },
+      "source": "survey",
+      "data_coverage": 1.0,
+      "reasoning": "Leila's role as Home Health Aide, completing 75 hours of training, showcases her foundational professional development."
+    },
+    "CT": {
+      "score": 72,
+      "thinking_arc": "Leila Titikpina's case management internship demonstrates analytical initiative through creating condensed training materials and participating in brainstorming sessions.",
+      "key_evidence": "Case Management Intern, Microbiology Research Project, Home Health Aide, Physician Shadowing",
+      "depth_signal": "developing",
+      "source": "docs",
+      "reasoning": "Leila Titikpina's case management internship demonstrates analytical initiative through creating condensed training materials and participating in brainstorming sessions."
+    },
+    "CI": {
+      "score": 65,
+      "innovation_arc": "Leila Titikpina's microbiology research project with Professor Brossard indicates original work in studying antimicrobial resistance, exploring implications for human health.",
+      "key_evidence": "Microbiology Research Project, Antimicrobial Resistance",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Leila Titikpina's microbiology research project with Professor Brossard indicates original work in studying antimicrobial resistance, exploring implications for human health."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts - conflict management": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Any suggestions to make the Foundational Year a better experience": {
+      "value": "Health Science Graduate, Ithaca College | SPEAKHIRE Peer Leader Alum | Cum Laude",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": "Volunteer at Level 4 CNYMRC, Home Health Aide at Platinum Home Care, Case Management Intern at Woodhull Community Care (NYC Health+ Hospitals), Mentee at PrIMES Mentorship Program, Intern & Physician Shadowing at North Manhattan Eye Center, College Access Advisor at College Access: Research & Action (CARA)",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Community Feel (Quant)": {
+      "value": 6,
+      "source": "docs",
+      "was_missing": true
+    },
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": 6,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I made new friends during the Foundational Year": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Meeting with my Champions during school helped me feel like I belong in school": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel more engaged in school and participate more than before": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Empathy": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Humble": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Listen": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Include Others Who Are Different": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Deal with Conflicts": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Lead With Authenticity": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Community Connected": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Know How To Pursue Careers": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel I am now a stronger candidate for college and careers": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel I am now more prepared for college": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "FY1 Ever Volunteered": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": false,
+      "doc_override": true
+    }
+  },
+  "fields_enriched_count": 27,
+  "fields_still_missing": [
+    "FY1 Feel College Ready and Prepped",
+    "The topic inspired me to think more about my future career",
+    "FY helped realize doing well connects to my career goals",
+    "What are three skills you have that will help you in your future career",
+    "After meeting Champions, I better understand people who are different from me",
+    "Culture Feel",
+    "The Speaker helped me think about my future career pathway",
+    "The Speaker inspired me to think more about my future career",
+    "The topic helped me think about my future career pathway",
+    "The Speaker was a relatable role model"
+  ],
+  "llm_calls_made": 20
+}

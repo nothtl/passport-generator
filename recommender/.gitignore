@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.parquet
+*.parquet.tmp
+corpus/_open_jobs_full.parquet
+corpus/our_jobs.parquet
+data/onet/*.xlsx
+.env

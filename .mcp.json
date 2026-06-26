@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "speakhire-recommender": {
+      "command": "python",
+      "args": ["-m", "recommender.mcp_server"]
+    }
+  }
+}

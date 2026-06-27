@@ -114,11 +114,14 @@
     "soc_codes": ["15-1252.00"],
     "required_skills": [
       {"name": "software & technical", "importance": 5.0},
-      {"name": "problem solving", "importance": 4.5},
+      {"name": "ai & machine learning", "importance": 4.5},
+      {"name": "problem solving", "importance": 4.0},
+      {"name": "cloud infrastructure", "importance": 3.5},
       {"name": "data analysis", "importance": 3.5},
-      {"name": "communication", "importance": 3.0},
+      {"name": "software architecture", "importance": 3.0},
+      {"name": "leadership", "importance": 2.5},
       {"name": "project management", "importance": 2.5},
-      {"name": "data entry", "importance": 2.0},
+      {"name": "communication", "importance": 2.0},
       {"name": "time management", "importance": 2.0}
     ]
   },
@@ -132,7 +135,8 @@
       {"name": "problem solving", "importance": 3.0},
       {"name": "time management", "importance": 3.0},
       {"name": "inventory management", "importance": 2.0},
-      {"name": "logistics & driving", "importance": 2.0}
+      {"name": "logistics & driving", "importance": 2.0},
+      {"name": "communication", "importance": 2.0}
     ]
   },
   "food_service": {
@@ -140,6 +144,7 @@
     "level": "Entry",
     "soc_codes": ["35-3023.00"],
     "required_skills": [
+      {"name": "food service", "importance": 5.0},
       {"name": "customer service", "importance": 5.0},
       {"name": "time management", "importance": 4.0},
       {"name": "certifications", "importance": 3.5},
@@ -153,6 +158,7 @@
     "level": "Entry",
     "soc_codes": ["43-6014.00"],
     "required_skills": [
+      {"name": "administrative", "importance": 5.0},
       {"name": "data entry", "importance": 5.0},
       {"name": "scheduling", "importance": 4.5},
       {"name": "communication", "importance": 4.0},
@@ -185,7 +191,8 @@
       {"name": "time management", "importance": 3.0},
       {"name": "customer service", "importance": 2.5},
       {"name": "certifications", "importance": 2.5},
-      {"name": "problem solving", "importance": 2.0}
+      {"name": "problem solving", "importance": 2.0},
+      {"name": "communication", "importance": 2.0}
     ]
   },
   "hospitality_tourism": {

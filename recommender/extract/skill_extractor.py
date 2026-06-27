@@ -268,328 +268,380 @@ COMMUNITY_TERMS = {"community", "nonprofit", "volunteer", "church", "pantry", "o
 
 
 # =========================================================================
-# Stage 2: Keyword-overlap skill matching
-# For each unmatched resume span, checks word overlap against expanded
-# skill keyword lists. Fast (no model load), catches synonyms and
-# context clues that Stage 1 regex misses.
+# Stage 2: Section-aware + known-term extraction
+# Reads the Technical Skills section directly, matches against a
+# curated list of ~300 common technical tools/frameworks/platforms,
+# and extracts role-based skills (CTO → leadership).
+# Instant — no model, no embeddings.
 # =========================================================================
 
-# Expanded keyword lists for each skill — includes synonyms,
-# related tools/software, and context phrases
-_SKILL_KEYWORDS: dict[str, set[str]] = {
-    "healthcare": {
-        "patient", "patients", "clinical", "clinic", "hospital", "medical",
-        "nursing", "nurse", "vaccination", "vaccinated", "vaccine", "immunization",
-        "flu pod", "flu clinic", "health", "home health", "health aide",
-        "emr", "ehr", "epic", "cerner", "vmware", "hipaa",
-        "medical record", "medical records", "case management", "case manager",
-        "phlebotomy", "phlebotomist", "vital sign", "vital signs",
-        "cna", "rn", "lpn", "medical assistant", "patient care",
-        "blood draw", "venipuncture", "specimen", "diagnosis",
-        "home care", "caregiver", "hospice", "rehabilitation",
-    },
-    "teaching": {
-        "train", "training", "trained", "teach", "teaching", "teacher",
-        "instruct", "instructor", "tutor", "tutoring", "coach", "coaching",
-        "lesson plan", "lesson planning", "curriculum", "workshop",
-        "facilitation", "facilitator", "education", "educational",
-        "student", "students", "classroom", "course", "courses",
-    },
-    "program management": {
-        "program manager", "program management", "program coordinator",
-        "program coordination", "managed program", "coordinated program",
-        "oversaw program", "ran program", "pod management", "clinic management",
-        "operations management", "initiative lead", "program lead",
-        "flu pod", "flu clinic", "vaccination clinic", "immunization clinic",
-        "health fair", "screening event", "health screening",
-        "managed the pod", "managed a clinic", "coordinated clinic",
-        "ran the clinic", "oversaw clinic",
-    },
-    "customer service": {
-        "customer service", "client service", "patient service",
-        "front desk", "reception", "receptionist",
-        "assisting patients", "assisting clients", "assisting customers",
-        "patient intake", "patient registration", "customer support",
-        "client interaction", "patient interaction", "guest service",
-    },
-    "data entry": {
-        "data entry", "database", "databases", "spreadsheet", "spreadsheets",
-        "excel", "google sheets", "record keeping", "records management",
-        "data collection", "data input", "data management",
-        "electronic record", "electronic records", "documentation",
-        "filing", "clerical", "administrative",
-        "epic emr", "epic ehr", "emr system", "ehr system",
-        "electronic medical record", "electronic health record",
-        "vmware", "cerner", "meditech",
-    },
-    "leadership": {
-        "leadership", "team lead", "team leader", "supervisor", "supervised",
-        "manager", "managed team", "president", "treasurer", "secretary",
-        "executive board", "board member", "director", "vice president",
-        "co-chair", "chair", "head of", "led team", "leading",
-    },
-    "communication": {
-        "communication", "communicated", "collaboration", "collaborated",
-        "teamwork", "team player", "interpersonal", "people skills",
-        "verbal communication", "written communication",
-        "presented", "liaised", "coordinated with", "partnered",
-    },
-    "event planning": {
-        "event", "events", "organizing event", "event planning",
-        "event coordination", "hosted event", "event logistics",
-        "flyers", "fundraiser", "fundraising event", "community event",
-        "planning event", "coordinated event", "organized event",
-    },
-    "sales": {
-        "sales", "selling", "upsell", "upselling", "cross-sell",
-        "revenue", "quota", "commission", "credit card signup",
-        "credit card sign-ups", "membership enrollment",
-        "retail associate", "sales associate", "sales representative",
-        "cash register", "pos", "point of sale", "store associate",
-    },
-    "marketing": {
-        "marketing", "brand", "branding", "seo", "sem", "ppc",
-        "digital marketing", "social media marketing", "email marketing",
-        "campaign", "ad campaign", "content marketing",
-        "market research", "google analytics",
-    },
-    "social media management": {
-        "social media", "instagram", "tiktok", "facebook", "twitter",
-        "linkedin", "social platform", "social account",
-        "social media strategy", "social media content",
-        "grew following", "followers", "engagement",
-    },
-    "content creation": {
-        "content creation", "content creator", "content writing",
-        "blog", "blogging", "newsletter", "newsletters",
-        "copywriting", "copywriter", "wrote content",
-    },
-    "writing": {
-        "writing", "writer", "wrote", "written", "author", "authored",
-        "journalism", "journalist", "blogging", "blog posts",
-        "copywriting", "copy", "editor", "editing",
-    },
-    "project management": {
-        "project management", "project manager", "project coordination",
-        "project lead", "managed project", "led project",
-        "project planning", "project execution", "timeline",
-        "deliverables", "stakeholder", "agile", "scrum",
-    },
-    "mentoring": {
-        "mentor", "mentored", "mentoring", "mentorship",
-        "peer advisor", "peer counselor", "big brother", "big sister",
-        "coaching", "coach", "guided", "guidance",
-    },
-    "volunteer coordination": {
-        "volunteer coordination", "volunteer coordinator",
-        "managed volunteer", "coordinated volunteer",
-        "recruit volunteer", "volunteer management",
-        "volunteer scheduling", "volunteer recruitment",
-    },
-    "community outreach": {
-        "community outreach", "outreach", "food drive", "food pantry",
-        "community service", "community engagement", "park clean",
-        "neighborhood", "community event", "community program",
-    },
-    "data analysis": {
-        "data analysis", "data analyst", "analytics", "analyzed data",
-        "visualization", "power bi", "tableau", "looker",
-        "sql", "python", "r language", "statistical",
-        "data science", "metrics", "dashboard",
-    },
-    "scheduling": {
-        "scheduling", "schedule", "scheduled", "appointment",
-        "appointments", "calendar", "booking", "coordinated schedule",
-        "shift planning", "roster",
-    },
-    "budgeting & finance": {
-        "budget", "budgeting", "budgeted", "accounting", "bookkeeping",
-        "quickbooks", "accounts payable", "accounts receivable",
-        "financial", "finance", "processed payment", "processed transactions",
-        "cash handling", "cash management", "reconciliation",
-    },
-    "graphic design": {
-        "graphic design", "graphic designer", "visual design",
-        "canva", "photoshop", "illustrator", "indesign", "figma",
-        "adobe creative", "adobe suite", "design software",
-        "typography", "layout", "branding", "logo design",
-    },
-    "photography": {
-        "photography", "photographer", "photo shoot", "photo editing",
-        "lightroom", "dslr", "mirrorless", "camera",
-        "visual content", "photo", "photos", "portrait",
-    },
-    "video editing": {
-        "video editing", "video editor", "videography", "videographer",
-        "premiere pro", "final cut", "davinci", "capcut",
-        "after effects", "video production", "motion graphics",
-    },
-    "public speaking": {
-        "public speaking", "public speaker", "presentation", "presentations",
-        "presented", "keynote", "toastmasters", "speech", "speeches",
-        "gave talk", "gave a talk", "public address",
-    },
-    "problem solving": {
-        "problem solving", "problem solver", "troubleshoot", "troubleshooting",
-        "critical thinking", "root cause", "resolved issue", "resolved issues",
-        "conflict resolution", "analytical", "debugging",
-    },
-    "time management": {
-        "time management", "multitask", "multitasking", "multi-tasking",
-        "prioritize", "prioritization", "deadline", "deadlines",
-        "juggling", "balancing multiple", "organized", "organization",
-    },
-    "languages": {
-        "bilingual", "spanish", "french", "arabic", "mandarin",
-        "chinese", "cantonese", "portuguese", "bengali", "urdu",
-        "vietnamese", "hindi", "wolof", "korean", "japanese", "russian",
-        "translate", "translation", "translator", "interpret", "interpreter",
-    },
-    "fundraising": {
-        "fundraising", "fundraiser", "donor", "donation", "donations",
-        "grant writing", "grant writer", "development associate",
-        "capital campaign", "sponsorship", "philanthropy",
-    },
-    "inventory management": {
-        "inventory", "stocking", "stock room", "stock management",
-        "supply chain", "warehouse", "inventory control",
-        "merchandise", "stock audit", "replenishment",
-    },
-    "logistics & driving": {
-        "logistics", "delivery", "driver", "driving", "shipping",
-        "dispatch", "dispatcher", "route planning", "fleet",
-        "cdl", "truck", "transportation", "supply chain",
-    },
-    "certifications": {
-        "cpr", "bls", "aed", "first aid", "certified", "certification",
-        "osha", "servsafe", "food handler", "driver license",
-        "drivers license", "cdl", "emt", "paramedic",
-    },
-    "youth engagement": {
-        "youth", "teen", "teenager", "high school student",
-        "after school", "summer camp", "camp counselor",
-        "youth program", "youth group", "young people",
-    },
-    "trades & physical": {
-        "construction", "carpentry", "plumbing", "plumber",
-        "electrical", "electrician", "hvac", "welding", "welder",
-        "masonry", "forklift", "heavy equipment", "machinery",
-        "osha", "blueprint", "job site",
-    },
-    "software & technical": {
-        "software", "developer", "development", "coding", "programming",
-        "javascript", "python", "java", "react", "node", "nodejs",
-        "html", "css", "api", "app development", "web development",
-        "full stack", "front end", "back end", "database", "sql",
-        "git", "github", "cloud", "aws", "azure",
-    },
+# Known technical terms that indicate real skills when found in text
+_KNOWN_TECH_TERMS: set[str] = {
+    # AI / ML
+    "agentic ai", "artificial intelligence", "machine learning", "deep learning",
+    "computer vision", "nlp", "natural language processing", "neural network",
+    "transformer", "llm", "large language model", "generative ai", "gen ai",
+    "reinforcement learning", "data science", "predictive modeling",
+    "yolo", "yolov5", "yolov8", "yolov11", "segformer", "resnet", "resnet-101",
+    "imagenet", "object detection", "image segmentation", "image classification",
+    "semantic segmentation", "instance segmentation", "ocr", "pose estimation",
+    # Frameworks & Tools
+    "tensorflow", "pytorch", "keras", "scikit-learn", "sklearn", "opencv",
+    "hugging face", "spacy", "nltk", "langchain", "llamaindex", "crewai",
+    "autogen", "semantic kernel", "fastapi", "flask", "django", "streamlit",
+    "gradio", "ros", "ros2", "zed", "zed 2i", "realsense",
+    # Cloud & Infrastructure
+    "aws", "azure", "gcp", "google cloud", "firebase", "vercel", "netlify",
+    "azure functions", "cosmos db", "lambda", "s3", "ec2", "dynamodb",
+    "kubernetes", "docker", "terraform", "ci/cd", "github actions", "jenkins",
+    "cloud infrastructure", "microservices", "serverless",
+    # Languages & Databases
+    "python", "javascript", "typescript", "java", "go", "golang", "rust",
+    "c++", "c#", "sql", "postgresql", "mongodb", "redis", "graphql",
+    "rest api", "restful", "node.js", "nodejs", "react", "angular", "vue",
+    "next.js", "nextjs", "tailwind", "html", "css",
+    # Full Stack & Architecture
+    "full stack", "full-stack", "frontend", "front-end", "backend", "back-end",
+    "system design", "software architecture", "technical architecture",
+    "api design", "database design", "distributed systems",
+    # Data & Analytics
+    "data analysis", "data analytics", "data engineering", "data pipeline",
+    "etl", "power bi", "tableau", "looker", "snowflake", "databricks",
+    "big data", "data warehouse", "data lake",
+    # DevOps & MLOps
+    "devops", "mlops", "continuous integration", "continuous deployment",
+    "monitoring", "logging", "prometheus", "grafana", "elk stack",
+    # Embedded & Hardware
+    "embedded systems", "iot", "raspberry pi", "arduino", "fpga",
+    "robotics", "autonomous systems", "autonomous vehicle",
+    "uav", "drone", "slam", "lidar", "stereo camera", "imu",
+    # Security
+    "cybersecurity", "penetration testing", "owasp", "encryption",
+    "authentication", "authorization", "oauth", "jwt",
+    # Business & Management
+    "agile", "scrum", "kanban", "jira", "confluence", "notion",
+    "product management", "project management", "stakeholder management",
+    "okr", "kpi", "roadmap", "sprint planning",
+    # Design
+    "figma", "sketch", "adobe xd", "ui/ux", "user research",
+    "wireframing", "prototyping", "design system",
+    # Other
+    "git", "github", "gitlab", "bitbucket", "linux", "unix",
+    "bash", "shell scripting", "regex", "api integration",
+    "saas", "crm", "salesforce", "erp", "sap",
+    "blockchain", "web3", "solidity", "smart contract",
 }
 
-# Build keyword index: word → set of skills
-_KEYWORD_INDEX: dict[str, set[str]] = {}
-for _skill, _keywords in _SKILL_KEYWORDS.items():
-    for _kw in _keywords:
-        _KEYWORD_INDEX.setdefault(_kw.lower(), set()).add(_skill)
+# Job titles that imply specific skills
+_ROLE_SKILL_MAP: dict[str, str] = {
+    "cto": "technical leadership",
+    "chief technology officer": "technical leadership",
+    "vp of engineering": "technical leadership",
+    "tech lead": "technical leadership",
+    "technical architect": "software architecture",
+    "solution architect": "software architecture",
+    "co-founder": "entrepreneurship",
+    "founder": "entrepreneurship",
+    "ceo": "entrepreneurship",
+    "chief executive": "entrepreneurship",
+    "product manager": "product management",
+    "engineering manager": "engineering management",
+    "scrum master": "agile",
+    "devops engineer": "devops",
+    "ml engineer": "ai & machine learning",
+    "data scientist": "data science",
+    "data engineer": "data engineering",
+    "research scientist": "research",
+}
 
-_STAGE2_MIN_OVERLAP = 1  # minimum keyword hits to match a skill
+# Terms that indicate context/domain, NOT a person's skill
+_CONTEXT_TERMS: set[str] = {
+    "youth", "immigrant", "first-generation", "nonprofit",
+    "medical insurance", "insurance firms", "claim", "claims",
+    "fitness", "nutrition", "food", "ingredient",
+    "student", "students", "children", "elderly",
+    "patient", "patients", "customer", "customers",
+    "restaurant", "retail", "hospitality",
+}
 
 
-def _split_into_spans(text: str) -> list[str]:
-    """Split resume text into meaningful spans for matching."""
-    spans = []
-    for para in re.split(r"\n\s*\n", text):
-        para = para.strip()
-        if not para or len(para) < 20:
-            continue
-        spans.append(para)
-    return spans
+def _extract_skills_section(text: str) -> str:
+    """Extract the Technical Skills / Skills section from a resume."""
+    # Common section headers
+    patterns = [
+        r'(?:Technical\s+)?Skills?\s*:?\s*(.+?)(?:\n\n|\n[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\s*(?:\||-|–|:|\n))',
+        r'(?:Technical\s+)?Skills?\s*:?\s*\n((?:\s*[•\-\*]\s*.+\n?)+)',
+        r'(?:Technical\s+)?Skills?\s*:?\s*(.+?)(?:\n\s*\n|\Z)',
+    ]
+    for pat in patterns:
+        match = re.search(pat, text, re.DOTALL | re.IGNORECASE)
+        if match:
+            section = match.group(1).strip()
+            if len(section) > 10:
+                return section
+    return ""
 
 
-def _stage1_matched_spans(text: str) -> set[str]:
-    """Return the set of lowercase spans that Stage 1 regex already matched."""
-    matched_lines: set[str] = set()
-    for line in text.splitlines():
+def _split_terms(text: str) -> list[str]:
+    """Split a comma/pipe/separator-delimited skills string into individual terms."""
+    terms = []
+    # Split on commas, pipes, bullets
+    for chunk in re.split(r'[,;|\n•\-\*]', text):
+        # Also split on "and" / "&" for compound lists
+        sub_chunks = re.split(r'\s+(?:and|&)\s+', chunk.strip())
+        for s in sub_chunks:
+            s = s.strip().rstrip('.').lower()
+            if len(s) > 2:
+                terms.append(s)
+    return terms
+
+
+def extract_skills_section_aware(text: str) -> list[str]:
+    """Stage 2: Section-aware extraction.
+
+    Reads the Technical Skills section directly and matches against
+    a curated list of known technical terms. Also extracts role-based
+    skills from job titles (CTO, Co-Founder, etc.).
+    Instant — no model, no embeddings, <5ms.
+    """
+    found: set[str] = set()
+    lowered = text.lower()
+
+    # 1. Extract from Technical Skills section
+    skills_section = _extract_skills_section(text)
+    if skills_section:
+        for term in _split_terms(skills_section):
+            if term in _KNOWN_TECH_TERMS:
+                found.add(term)
+
+    # 2. Also scan full text for known tech terms (catches terms in prose)
+    #    but only if they appear in high-signal positions
+    for term in _KNOWN_TECH_TERMS:
+        if term in lowered:
+            # Check if this term is used as a skill, not context
+            # Look for it near action verbs or in tech context
+            idx = lowered.find(term)
+            surrounding = lowered[max(0, idx-50):idx+len(term)+50]
+            # Accept if near technical signals
+            tech_signals = ['built', 'developed', 'integrated', 'designed',
+                          'implemented', 'deployed', 'engineered', 'coded',
+                          'programmed', 'architected', 'led', 'managed']
+            if any(sig in surrounding for sig in tech_signals):
+                found.add(term)
+
+    # 3. Extract role-based skills
+    for line in text.split('\n'):
         line_lower = line.strip().lower()
-        if len(line_lower) < 20:
-            continue
-        for patterns in SKILL_PATTERNS.values():
-            if any(re.search(pat, line_lower) for pat in patterns):
-                matched_lines.add(line_lower)
-                break
-    return matched_lines
+        for role_title, skill in _ROLE_SKILL_MAP.items():
+            if role_title in line_lower:
+                found.add(skill)
 
+    # 4. Map extracted terms to our skill categories
+    mapped = _map_to_categories(found)
+    return sorted(mapped | found)
+
+
+def _map_to_categories(terms: set[str]) -> set[str]:
+    """Map specific tech terms to our broader skill categories."""
+    mapping = {
+        "software & technical": {
+            "python", "javascript", "typescript", "java", "go", "golang", "rust",
+            "c++", "c#", "sql", "react", "angular", "vue", "node.js", "nodejs",
+            "fastapi", "flask", "django", "rest api", "api design", "graphql",
+            "docker", "kubernetes", "terraform", "ci/cd", "github actions",
+            "full stack", "full-stack", "frontend", "front-end", "backend", "back-end",
+            "microservices", "serverless", "git", "github", "linux",
+            "software architecture", "technical architecture", "system design",
+        },
+        "ai & machine learning": {
+            "agentic ai", "artificial intelligence", "machine learning", "deep learning",
+            "computer vision", "nlp", "natural language processing", "neural network",
+            "transformer", "llm", "large language model", "generative ai",
+            "data science", "yolo", "yolov8", "yolov11", "segformer", "resnet",
+            "tensorflow", "pytorch", "object detection", "image segmentation",
+            "autonomous systems", "autonomous vehicle",
+        },
+        "data analysis": {
+            "data analysis", "data analytics", "power bi", "tableau", "looker",
+            "snowflake", "databricks", "data engineering", "data pipeline",
+        },
+        "cloud infrastructure": {
+            "aws", "azure", "gcp", "google cloud", "azure functions", "cosmos db",
+            "lambda", "s3", "ec2", "cloud infrastructure", "firebase",
+        },
+        "project management": {
+            "agile", "scrum", "kanban", "jira", "sprint planning",
+            "product management", "roadmap",
+        },
+        "leadership": {
+            "technical leadership", "cto", "tech lead", "vp of engineering",
+            "engineering manager",
+        },
+    }
+    result: set[str] = set()
+    for category, keywords in mapping.items():
+        if terms & keywords:
+            result.add(category)
+    return result
 
 def extract_skills_semantic(text: str) -> list[str]:
-    """Stage 2: keyword-overlap skill extraction for spans regex missed.
+    """Stage 2: Section-aware + keyword overlap.
 
-    Splits resume into paragraphs, tokenizes each, and checks word overlap
-    against expanded skill keyword lists. Runs on ALL spans, not just
-    unmatched ones — because a span may trigger one skill via regex
-    but still contain other skills via keywords.
-
-    Fast — no model load, no embeddings, <10ms.
+    Runs both approaches and merges:
+    - Section-aware: reads Technical Skills section, matches ~300 tech terms
+    - Quick phrase match: catches common non-tech skill phrases in prose
+    Instant — no model, no embeddings, <10ms.
     """
-    if not text:
-        return []
+    skills: set[str] = set()
 
-    all_spans = _split_into_spans(text)
-    if not all_spans:
-        return []
+    # 2a: Section-aware (tech skills, role titles)
+    skills.update(extract_skills_section_aware(text))
 
-    # For each span, count keyword hits per skill
-    skill_hits: dict[str, int] = {}
-    for span in all_spans:
-        span_lower = span.lower()
-        span_skills: dict[str, int] = {}
-        # Tokenize span into words, bigrams, and trigrams
-        # Strip punctuation from tokens
-        raw_words = span_lower.split()
-        span_words = [w.strip('.,;:!?()[]{}""''-') for w in raw_words]
-        span_words = [w for w in span_words if len(w) >= 2]
-        all_tokens = set(span_words)
-        for i in range(len(span_words) - 1):
-            all_tokens.add(f"{span_words[i]} {span_words[i+1]}")
-        for i in range(len(span_words) - 2):
-            all_tokens.add(f"{span_words[i]} {span_words[i+1]} {span_words[i+2]}")
+    # 2b: Quick phrase match for non-tech context skills
+    skills.update(_extract_phrase_skills(text))
 
-        for token in all_tokens:
-            if token in _KEYWORD_INDEX:
-                for skill in _KEYWORD_INDEX[token]:
-                    span_skills[skill] = span_skills.get(skill, 0) + 1
+    return sorted(skills)
 
-        # Accumulate: at least _STAGE2_MIN_OVERLAP hits in this span
-        for skill, hits in span_skills.items():
-            if hits >= _STAGE2_MIN_OVERLAP:
-                skill_hits[skill] = skill_hits.get(skill, 0) + 1
 
-    return sorted(skill_hits.keys())
+# Quick phrase → skill mapping for non-tech contexts
+_PHRASE_SKILL_MAP: dict[str, str] = {
+    # Food service
+    "food handler": "certifications",
+    "servsafe": "certifications",
+    "food safety": "certifications",
+    "prepped": "food service",
+    "prep cook": "food service",
+    "grill station": "food service",
+    "line cook": "food service",
+    "sous chef": "food service",
+    "pastry chef": "food service",
+    "plated": "food service",
+    "espresso": "food service",
+    "barista": "food service",
+    "restaurant": "food service",
+    "kitchen": "food service",
+    "dinner rush": "time management",
+    "culinary": "food service",
+    # Leadership / supervision
+    "opened/closed store": "leadership",
+    "opened and closed": "leadership",
+    "supervised": "leadership",
+    "shift supervisor": "leadership",
+    "managed team": "leadership",
+    "in charge of": "leadership",
+    # Teaching / training
+    "trained new": "teaching",
+    "trained staff": "teaching",
+    "onboarded": "teaching",
+    # Finance
+    "handled cash": "budgeting & finance",
+    "cash register": "budgeting & finance",
+    "processed payments": "budgeting & finance",
+    "processed transactions": "budgeting & finance",
+    # Inventory
+    "placed weekly supply orders": "inventory management",
+    "supply orders": "inventory management",
+    "inventoried": "inventory management",
+    "ordered supplies": "inventory management",
+    "stocked": "inventory management",
+    "managed inventory": "inventory management",
+    # Trades
+    "forklift": "trades & physical",
+    "scissor lift": "trades & physical",
+    "osha": "certifications",
+    "blueprint": "trades & physical",
+    "drywall": "trades & physical",
+    "framed walls": "trades & physical",
+    "poured concrete": "trades & physical",
+    "construction": "trades & physical",
+    "job site": "trades & physical",
+    # Logistics
+    "cdl": "logistics & driving",
+    "cdl class": "certifications",
+    "otr driver": "logistics & driving",
+    "truck driver": "logistics & driving",
+    "pre-trip": "logistics & driving",
+    "pre-trip inspection": "logistics & driving",
+    "eld logs": "logistics & driving",
+    "delivery driver": "logistics & driving",
+    "route planning": "logistics & driving",
+    "vehicle maintenance": "logistics & driving",
+    "clean driving record": "logistics & driving",
+    "freight": "logistics & driving",
+    "dispatch": "logistics & driving",
+    "miles per week": "time management",
+    "on-time delivery": "time management",
+    "on time delivery": "time management",
+    "shipping": "inventory management",
+    "receiving": "inventory management",
+    "warehouse": "inventory management",
+    # Administrative
+    "medical records": "data entry",
+    "patient scheduling": "scheduling",
+    "insurance verification": "administrative",
+    "filing system": "administrative",
+    "organized office": "administrative",
+    "office supplies": "administrative",
+    "data entry": "data entry",
+    "answered phones": "customer service",
+    "front desk": "customer service",
+    "customer service": "customer service",
+    "client service": "customer service",
+    # Communication
+    "coordinated with": "communication",
+    "communicated": "communication",
+    "team player": "communication",
+}
+
+
+def _extract_phrase_skills(text: str) -> set[str]:
+    """Catch non-tech skills from common action phrases in prose."""
+    found: set[str] = set()
+    lowered = text.lower()
+    for phrase, skill in _PHRASE_SKILL_MAP.items():
+        if phrase in lowered:
+            found.add(skill)
+    return found
 
 
 def extract_skills_from_text(text: str, use_semantic: bool = True) -> list[str]:
     """Extract named skills from resume/LinkedIn text.
 
-    Stage 1: regex patterns (fast, covers ~60-70% of skills)
-    Stage 2: embedding matching (slower, catches synonyms and context, ~20-30% more)
+    Stage 1: regex patterns (35 categories, fast, covers general skills)
+    Stage 2: section-aware + known-term extraction (instant, catches tech/role skills)
 
-    Set use_semantic=False for Stage 1 only (faster, offline).
+    Set use_semantic=False for Stage 1 only.
     """
     if not text:
         return []
 
-    # Stage 1: regex
+    # Stage 1: regex patterns for general skills
     lowered = text.lower()
     matched: set[str] = set()
     for skill, patterns in SKILL_PATTERNS.items():
         if any(re.search(pat, lowered) for pat in patterns):
             matched.add(skill)
 
-    # Stage 2: semantic (optional, catches what regex missed)
+    # Stage 2: section-aware (catches tech terms, role skills, filters context)
     if use_semantic:
         try:
             semantic_skills = extract_skills_semantic(text)
             matched.update(semantic_skills)
+
+            # Filter false positives: when strong tech signals exist,
+            # suppress context-based Stage 1 matches
+            strong_tech = {'ai & machine learning', 'software & technical',
+                          'software architecture', 'technical leadership',
+                          'cloud infrastructure', 'computer vision'}
+            if matched & strong_tech:
+                # These are likely context words, not the person's skills
+                context_prone = {'healthcare', 'youth engagement', 'community outreach',
+                                'social media management', 'photography', 'logistics & driving'}
+                # Only remove if they appear ONLY via Stage 1 (not confirmed by Stage 2)
+                for skill in context_prone:
+                    if skill in matched and skill not in semantic_skills:
+                        matched.discard(skill)
         except Exception:
-            # Stage 2 fails gracefully — embeddings not available, etc.
             pass
 
     return sorted(matched)

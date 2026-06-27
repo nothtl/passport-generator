@@ -201,36 +201,46 @@ def match_role_onet(text: str) -> dict | None:
     if not occs:
         return None
 
-    # Aggregate scores by function, pick best occupation per function
+    # Score functions: top occupation's score + bonus for additional matches
+    # within the same function (reduces with rank to prevent spam)
+    func_score: dict[str, float] = {}
     func_best: dict[str, tuple[float, str]] = {}
-    for occ in occs:
+    for rank, occ in enumerate(occs):
         func = occ["function"]
-        if func and (func not in func_best or occ["score"] > func_best[func][0]):
-            func_best[func] = (occ["score"], occ["title"])
+        if func:
+            # First occupation: full score. Additional: decaying bonus (÷3, ÷5, ÷7...)
+            if func not in func_score:
+                func_score[func] = occ["score"]
+            else:
+                bonus = occ["score"] / (3 + 2 * (rank - 1))
+                func_score[func] += bonus
+            if func not in func_best or occ["score"] > func_best[func][0]:
+                func_best[func] = (occ["score"], occ["title"])
 
     if not func_best:
         return None
 
-    # Sort functions by score
-    ranked = sorted(func_best.items(), key=lambda x: -x[1][0])
+    # Rank functions by score (top occupation + decaying bonuses for depth)
+    ranked = sorted(func_score.items(), key=lambda x: -x[1])
 
-    # Normalize scores: % of max theoretical overlap
-    # A typical resume has ~50-200 meaningful words; a perfect occupation match
-    # would cover maybe 30-40% of the occupation's task vocabulary.
-    # Divide by a reasonable ceiling so the numbers are interpretable.
-    CEILING = ranked[0][1][0] * 1.5 if ranked else 10  # top score ~67% ceiling
+    # Confidence: what fraction of total signal goes to each function?
+    total_signal = sum(s for _, s in ranked)
+    if total_signal == 0:
+        total_signal = 1
 
-    best_func, (best_score, best_title) = ranked[0]
-    match_pct = min(round(best_score / CEILING * 100), 99)
+    best_func, best_total = ranked[0]
+    best_title = func_best[best_func][1]
+    match_pct = round(best_total / total_signal * 100)
 
     alternatives = []
-    for func, (score, title) in ranked[1:4]:
-        pct = min(round(score / CEILING * 100), 99)
-        alternatives.append({
-            "function": func,
-            "match_pct": pct,
-            "onet_title": title,
-        })
+    for func, total in ranked[1:]:
+        pct = round(total / total_signal * 100)
+        if pct >= 5:
+            alternatives.append({
+                "function": func,
+                "match_pct": pct,
+                "onet_title": func_best[func][1],
+            })
 
     return {
         "function": best_func,
@@ -241,5 +251,5 @@ def match_role_onet(text: str) -> dict | None:
             {"title": o["title"], "score": o["score"], "function": o["function"]}
             for o in occs[:5]
         ],
-        "alternatives": alternatives,
+        "alternatives": alternatives[:5],
     }

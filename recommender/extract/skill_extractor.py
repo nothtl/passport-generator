@@ -186,6 +186,13 @@ SKILL_PATTERNS: dict[str, list[str]] = {
     "communication": [
         r"\bcommunicat", r"\b(collaborat|teamwork|interpersonal)\b",
         r"\b(verbal|written|oral) communication", r"\bpeople skills\b",
+        r"\bled (the |a |development |data )?(team|initiative)", r"\bcross.functional",
+        r"\bworked (with|alongside)", r"\bpartnered with",
+    ],
+    "teamwork": [
+        r"\bteamwork\b", r"\bteam player\b",
+        r"\bled (the |a )?team", r"\bcollaborat",
+        r"\bcross.functional team", r"\bworked with.*team",
     ],
     "problem solving": [
         r"\bproblem.solv", r"\bcritical think", r"\btroubleshoot",
@@ -587,10 +594,21 @@ _PHRASE_SKILL_MAP: dict[str, str] = {
     "front desk": "customer service",
     "customer service": "customer service",
     "client service": "customer service",
-    # Communication
+    # Communication & Teamwork
     "coordinated with": "communication",
     "communicated": "communication",
     "team player": "communication",
+    "led team": "communication",
+    "led the team": "communication",
+    "led a team": "communication",
+    "managed team": "communication",
+    "led development": "communication",
+    "cross-functional": "communication",
+    "collaborated": "communication",
+    "collaboration": "communication",
+    "worked with": "communication",
+    "worked alongside": "communication",
+    "partnered with": "communication",
 }
 
 

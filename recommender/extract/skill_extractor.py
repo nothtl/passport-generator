@@ -146,12 +146,25 @@ SKILL_PATTERNS: dict[str, list[str]] = {
         r"\bsales floor", r"\b(retail|inside|outside|b2b|b2c) sales\b",
         r"\b(upsell|cross.sell|revenue|quota|commission)\b",
         r"\b(credit card|membership|loyalty).*(sign.?up|enroll)",
+        r"\b(sales|revenue|profit).*(grew|increased|generated|drove|boosted)",
+        r"\b(closed|landed|secured).*(deal|sale|contract|account)",
+        r"\bexceed(ed|ing)?.*(quota|target|goal|sales)",
+        r"\bproduct (demo|demonstration|knowledge|presentation)",
+        r"\bpipeline (management|development|building)",
+    ],
+    "documentation": [
+        r"\bdocument(ed|ation|ing)?\b", r"\bwrote (docs|documentation|manuals|guides|reports|SOP)",
+        r"\brecord(ed|ing)?\b(?!.*(?:video|music|song))",
+        r"\btechnical (writing|documentation|reports|specs|specifications)",
+        r"\b(SOP|standard operating procedure|knowledge base|wiki)\b",
+        r"\b(created|maintained|updated|managed).*(documentation|records|reports|logs|filing)",
     ],
 
     # ── Operations & Logistics ──
     "inventory management": [
         r"\binventory", r"\bstock(ing|ed|room)?\b", r"\bsupply chain",
         r"\bwarehouse\b", r"\b(stock|inventory).*(manage|control|track|audit|organize)",
+        r"\bmerchandis", r"\bre(stock|plenish)", r"\bproduct (display|placement|rotation)",
     ],
     "scheduling": [
         r"\bschedul", r"\bappointment", r"\bcalendar management",
@@ -164,6 +177,8 @@ SKILL_PATTERNS: dict[str, list[str]] = {
         r"\b(manage|track|oversee).*(budget|finance|money|fund)",
         r"\b(handle|process).*(payment|transaction|cash)",
         r"\bquickbooks\b", r"\baccounts? (payable|receivable)\b",
+        r"\bcash (handling|management|register|reconciliation|counting)",
+        r"\b(counted|balanced|reconciled).*(cash|till|drawer|register|safe)",
     ],
 
     # ── Marketing ──

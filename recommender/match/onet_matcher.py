@@ -201,26 +201,33 @@ def match_role_onet(text: str) -> dict | None:
     if not occs:
         return None
 
-    # Score functions: top occupation's score + bonus for additional matches
-    # within the same function (reduces with rank to prevent spam)
-    func_score: dict[str, float] = {}
-    func_best: dict[str, tuple[float, str]] = {}
-    for rank, occ in enumerate(occs):
+    # Score functions: best occupation + breadth bonus.
+    # Breadth only matters as a tiebreaker when scores are close.
+    func_best_score: dict[str, float] = {}
+    func_best_title: dict[str, str] = {}
+    func_breadth: dict[str, int] = {}
+    for occ in occs:
         func = occ["function"]
         if func:
-            # First occupation: full score. Additional: decaying bonus (÷3, ÷5, ÷7...)
-            if func not in func_score:
-                func_score[func] = occ["score"]
-            else:
-                bonus = occ["score"] / (3 + 2 * (rank - 1))
-                func_score[func] += bonus
-            if func not in func_best or occ["score"] > func_best[func][0]:
-                func_best[func] = (occ["score"], occ["title"])
+            if func not in func_best_score or occ["score"] > func_best_score[func]:
+                func_best_score[func] = occ["score"]
+                func_best_title[func] = occ["title"]
+            # Count additional occupations with meaningful scores
+            if occ["score"] > 8:
+                func_breadth[func] = func_breadth.get(func, 0) + 1
 
-    if not func_best:
+    # Combine: best score + small breadth bonus (only for close calls)
+    func_score = {}
+    for func in func_best_score:
+        base = func_best_score[func]
+        breadth = func_breadth.get(func, 1)
+        # Each additional occupation beyond the first adds 10% of its score
+        func_score[func] = base * (1 + 0.1 * (breadth - 1))
+
+    if not func_best_score:
         return None
 
-    # Rank functions by score (top occupation + decaying bonuses for depth)
+    # Rank functions by score (best occupation + breadth bonus)
     ranked = sorted(func_score.items(), key=lambda x: -x[1])
 
     # Confidence: what fraction of total signal goes to each function?
@@ -228,18 +235,18 @@ def match_role_onet(text: str) -> dict | None:
     if total_signal == 0:
         total_signal = 1
 
-    best_func, best_total = ranked[0]
-    best_title = func_best[best_func][1]
-    match_pct = round(best_total / total_signal * 100)
+    best_func, best_score_val = ranked[0]
+    best_title = func_best_title[best_func]
+    match_pct = round(best_score_val / total_signal * 100)
 
     alternatives = []
-    for func, total in ranked[1:]:
-        pct = round(total / total_signal * 100)
+    for func, score_val in ranked[1:]:
+        pct = round(score_val / total_signal * 100)
         if pct >= 5:
             alternatives.append({
                 "function": func,
                 "match_pct": pct,
-                "onet_title": func_best[func][1],
+                "onet_title": func_best_title[func],
             })
 
     return {

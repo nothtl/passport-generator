@@ -114,9 +114,19 @@ def _build_onet_rows() -> list[dict]:
 
 
 def _download_open_jobs_rows() -> list[dict]:
+    """Download and filter open-jobs parquet.
+
+    The source file is ~22 GB. Downloads to a local temp file first,
+    then processes it with pyarrow. Falls back to ONET-only on failure.
+    Set OPEN_JOBS_URL env var to override the source.
+    Set OPEN_JOBS_SKIP=1 to skip entirely.
+    """
     import time as _time
 
-    max_retries = 2
+    if os.environ.get("OPEN_JOBS_SKIP", "").strip() == "1":
+        print("OPEN_JOBS_SKIP=1 — skipping open-jobs download (ONET-only corpus)")
+        return []
+
     source = os.environ.get(
         "OPEN_JOBS_URL",
         "https://download.jobscream.com/open-jobs.parquet",
@@ -129,54 +139,137 @@ def _download_open_jobs_rows() -> list[dict]:
     ]
     target_levels = ["intern", "entry", "junior", ""]
 
-    for attempt in range(max_retries + 1):
-        try:
-            import fsspec
-            import pyarrow.parquet as pq
-            import pandas as pd
+    # Already have it locally?
+    local_path = os.path.join(_SCRIPT_DIR, "_open_jobs_full.parquet")
+    if os.path.exists(local_path) and os.path.getsize(local_path) > 10_000_000:
+        print(f"Using local copy: {local_path} ({os.path.getsize(local_path)/1e9:.1f} GB)")
+        return _filter_parquet_file(local_path, target_functions, target_levels)
 
-            if attempt > 0:
-                wait = 2 ** attempt
-                print(f"Retry {attempt}/{max_retries} after {wait}s ...")
-                _time.sleep(wait)
+    if not source.startswith(("http://", "https://")):
+        return _filter_parquet_file(source, target_functions, target_levels)
 
-            print(f"Streaming and filtering {source} ...")
-            fs = fsspec.filesystem("http", headers={"User-Agent": "Mozilla/5.0"})
-            fh = fs.open(source, "rb")
-            pf = pq.ParquetFile(fh)
+    # Download to disk, then process
+    try:
+        import urllib.request
 
-            total_rows = pf.metadata.num_rows
-            print(f"  {total_rows:,} rows, {pf.metadata.num_row_groups} row groups")
+        # Get file size
+        req = urllib.request.Request(source, method="HEAD")
+        req.add_header("User-Agent", "Mozilla/5.0")
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            total = int(resp.headers.get("Content-Length", 0))
 
-            matched = []
-            for i in range(pf.metadata.num_row_groups):
-                table = pf.read_row_group(i, columns=[
-                    "id", "ats", "company", "title", "url", "jd_markdown",
-                    "level", "function", "skills", "country_code",
-                ])
-                df = table.to_pandas()
-                df = df[df["function"].str.lower().isin(target_functions)]
-                df = df[df["level"].str.lower().isin(target_levels)]
-                df = df[df["country_code"].str.upper().isin(["US", ""])]
-                matched.append(df)
-                print(f"  {i+1}/{pf.metadata.num_row_groups}, matched: {sum(len(r) for r in matched):>6,}", end="\r")
-
-            if matched:
-                result = pd.concat(matched, ignore_index=True)
-                fh.close()
-                print(f"\nDownloaded {len(result):,} rows (filtered from {total_rows:,})")
-                return result.to_dict("records")
-            fh.close()
-            print(f"\nNo rows matched ({total_rows:,} scanned)")
+        if total == 0:
+            print("Could not determine file size — skipping open-jobs")
             return []
-        except Exception as e:
-            print(f"\nAttempt {attempt}: streaming failed: {e}")
-            if attempt == max_retries:
-                import traceback
-                traceback.print_exc()
-                print("All retries exhausted. Corpus will be built from O*NET data only.")
-                return []
+
+        print(f"Downloading open-jobs ({total / 1e9:.1f} GB) to {local_path} ...")
+        print(f"(This is a one-time download. Set OPEN_JOBS_SKIP=1 to skip.)")
+
+        req = urllib.request.Request(source)
+        req.add_header("User-Agent", "Mozilla/5.0")
+
+        t0 = _time.time()
+        with urllib.request.urlopen(req, timeout=1800) as resp:
+            with open(local_path, "wb") as f:
+                downloaded = 0
+                while True:
+                    chunk = resp.read(8_388_608)  # 8 MB
+                    if not chunk:
+                        break
+                    f.write(chunk)
+                    downloaded += len(chunk)
+                    elapsed = _time.time() - t0
+                    speed = downloaded / max(1, elapsed) / 1e6
+                    pct = downloaded / total * 100
+                    print(f"  {downloaded/1e9:.1f}/{total/1e9:.1f} GB ({pct:.0f}%) "
+                          f"@ {speed:.1f} MB/s   ", end="\r")
+
+        elapsed = _time.time() - t0
+        print(f"\nDownloaded {downloaded/1e9:.1f} GB in {elapsed/60:.0f}m")
+
+        # Process the local file
+        rows = _filter_parquet_file(local_path, target_functions, target_levels)
+
+        # Delete the raw file to free space
+        os.remove(local_path)
+        print(f"Deleted {local_path} ({downloaded/1e9:.1f} GB freed)")
+
+        return rows
+
+    except Exception as e:
+        print(f"\nOpen-jobs download failed: {e}")
+        # Clean up partial download
+        if os.path.exists(local_path):
+            os.remove(local_path)
+        print("Corpus will be built from ONET data only.")
+        return []
+
+
+def _filter_parquet_file(path, target_functions, target_levels):
+    """Read and filter a local parquet file."""
+    import pyarrow.parquet as pq
+    import pandas as pd
+
+    pf = pq.ParquetFile(path)
+    print(f"  {pf.metadata.num_rows:,} rows, {pf.metadata.num_row_groups} row groups")
+
+    matched = []
+    for i in range(pf.metadata.num_row_groups):
+        table = pf.read_row_group(i, columns=[
+            "id", "ats", "company", "title", "url", "jd_markdown",
+            "level", "function", "skills", "country_code",
+        ])
+        df = table.to_pandas()
+        df = df[df["function"].str.lower().isin(target_functions)]
+        df = df[df["level"].str.lower().isin(target_levels)]
+        df = df[df["country_code"].str.upper().isin(["US", ""])]
+        matched.append(df)
+        if (i + 1) % 20 == 0:
+            print(f"  {i+1}/{pf.metadata.num_row_groups}, matched: {sum(len(r) for r in matched):>6,}",
+                  end="\r")
+
+    if matched:
+        result = pd.concat(matched, ignore_index=True)
+        print(f"\n  Filtered {len(result):,} rows from {pf.metadata.num_rows:,}")
+        return result.to_dict("records")
+    print(f"\n  No rows matched ({pf.metadata.num_rows:,} scanned)")
     return []
+
+
+def _download_sample(source, target_functions, target_levels, max_bytes=1_000_000_000):
+    """Download the first max_bytes of a remote file and extract what we can."""
+    import urllib.request
+
+    req = urllib.request.Request(source)
+    req.add_header("User-Agent", "Mozilla/5.0")
+    req.add_header("Range", f"bytes=0-{max_bytes - 1}")
+
+    chunks = []
+    downloaded = 0
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        while downloaded < max_bytes:
+            chunk = resp.read(8_388_608)  # 8 MB
+            if not chunk:
+                break
+            chunks.append(chunk)
+            downloaded += len(chunk)
+            print(f"  {downloaded / 1e6:.0f} MB / {max_bytes / 1e6:.0f} MB", end="\r")
+
+    data = b"".join(chunks)
+    print(f"\n  Downloaded {downloaded / 1e6:.0f} MB")
+
+    # Try to parse partial parquet
+    import io
+    try:
+        import pyarrow.parquet as pq
+        table = pq.read_table(io.BytesIO(data))
+        import pandas as pd
+        df = table.to_pandas()
+        return _filter_df(df, target_functions, target_levels)
+    except Exception as e:
+        print(f"  Cannot parse partial download: {e}")
+        print("  Falling back to ONET-only corpus.")
+        return []
 
 
 _ONET_OCCUPATIONS: list[dict] = [

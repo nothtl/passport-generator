@@ -18,7 +18,8 @@ if _PROJECT_DIR not in sys.path:
     sys.path.insert(0, _PROJECT_DIR)
 
 from recommender.extract.skill_extractor import extract_skills_from_text
-from recommender.match.role_matcher import match_role
+from recommender.match.role_matcher import match_role as _match_role_legacy
+from recommender.match.onet_matcher import match_role_onet
 from recommender.retrieve.retriever import retrieve_jds
 from recommender.profile.aggregator import aggregate_skills
 from recommender.profile.gap_analyzer import analyze_gaps
@@ -29,8 +30,11 @@ def analyze(resume_text: str, top_k: int = 10):
     # Stage 1+2: extract skills
     skills = extract_skills_from_text(resume_text, use_semantic=True)
 
-    # Match best role
-    best = match_role(skills)
+    # Match best role using O*NET
+    best = match_role_onet(resume_text)
+    if not best:
+        # Fall back to legacy lookup table
+        best = _match_role_legacy(skills)
     if not best:
         return {"error": "No matching role found", "skills_found": skills}
 
@@ -38,25 +42,29 @@ def analyze(resume_text: str, top_k: int = 10):
     jds = retrieve_jds(best["function"], best.get("level", "Entry"), skills, top_k=top_k)
 
     # Aggregate market skills + gaps
-    all_skills = aggregate_skills(jds, best["matched_skills"], best.get("missing_skills", []))
+    matched = best.get("matched_skills", skills)
+    missing = best.get("missing_skills", [])
+    all_skills = aggregate_skills(jds, matched, missing)
     result = analyze_gaps(
         role_title=best["function"],
         function=best["function"],
         level=best.get("level", "Entry"),
         match_pct=best["match_pct"],
-        matched_skills=best["matched_skills"],
-        missing_skills=best.get("missing_skills", []),
+        matched_skills=matched,
+        missing_skills=missing,
         all_skills=all_skills,
         ideal_passport={},
     )
 
-    # Add job openings + alternatives
+    # Add job openings + alternatives + O*NET data
     result["openings"] = [
         {"title": jd.get("title", ""), "company": jd.get("company", ""), "url": jd.get("url", "")}
         for jd in jds[:5]
     ]
     result["skills_extracted"] = skills
     result["alternatives"] = best.get("alternatives", [])
+    result["onet_title"] = best.get("onet_title", "")
+    result["top_occupations"] = best.get("top_occupations", [])
     return result
 
 
@@ -99,6 +107,16 @@ def main():
     print(f"  Match:     {result['match_pct']}%")
     print(f"  Has:       {', '.join(result['matched_skills'])}")
     print(f"  Missing:   {', '.join(result['missing_skills'])}")
+    if result.get("onet_title"):
+        print(f"  O*NET:     {result['onet_title']}")
+    if result.get("top_occupations"):
+        print(f"  Top O*NET matches:")
+        for occ in result["top_occupations"][:5]:
+            print(f"    [{occ['score']:.0f}] {occ['title']} [{occ.get('function', '') or '-'}]")
+    if result.get("alternatives"):
+        print(f"  Also consider:")
+        for alt in result["alternatives"][:3]:
+            print(f"    {alt['function']:20s} {alt['match_pct']}% — {alt.get('onet_title', '')[:40]}")
     print()
 
     print("=" * 60)

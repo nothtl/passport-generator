@@ -20,8 +20,10 @@ SKILL_PATTERNS: dict[str, list[str]] = {
         r"\bindesign\b", r"\bfigma\b",
     ],
     "photography": [
-        r"\bphotograph", r"\bvisual artist", r"\bphotoshop",
+        r"\bphotograph", r"\bvisual artist",
         r"\bphoto\s?(shoot|edit)", r"\blightroom\b", r"\bdslr\b",
+        r"\b(shot|took|taken|captured).*(photo|picture|image)",
+        r"\b(photo|picture|image).*(shot|took|taken|captured|editing)",
     ],
     "content creation": [
         r"\bcontent creat", r"\bwrote (and|&) creat", r"\bblog post",
@@ -88,6 +90,9 @@ SKILL_PATTERNS: dict[str, list[str]] = {
     "project management": [
         r"\bproject manag", r"\blead.*project", r"\bmanaged.*project",
         r"\bproject coordinat", r"\bproject lead",
+        r"\bstakeholder", r"\bmilestone", r"\bdeliverable",
+        r"\b(delivered|completed|finished|launched).*(on time|on schedule|under budget)",
+        r"\b(managed|controlled|tracked).*(scope|timeline|budget|resource)",
     ],
     "event planning": [
         r"\bevent plan", r"\bevent coord", r"\borganiz.*event",
@@ -98,13 +103,18 @@ SKILL_PATTERNS: dict[str, list[str]] = {
         r"\bleadership", r"\bco-chair\b", r"\bexecutive board",
         r"\b(president|treasurer|secretary|vice president|vp)\b",
         r"\b(board member|board of directors)", r"\bteam lead",
+        r"\bspearhead", r"\bchaired\b", r"\bdrove initiative",
+        r"\b(led|lead|managed?|headed|directed).*(team|department|division|group|organization|committee)",
+        r"\b(delegated|oversaw|headed)\b",
     ],
 
     # ── Data & Technical ──
     "data entry": [
         r"\bdata entry\b", r"\bdatabase\b", r"\bgoogle maps\b",
-        r"\bexcel\b", r"\bspreadsheet", r"\bdata (input|collection|management)",
+        r"\bexcel\b(?!\s+(?:at|in|as|led|lent))", r"\bspreadsheet",
+        r"\bdata (input|collection|management)",
         r"\brecord.?keeping", r"\bdata.*(entry|enter)",
+        r"\bmicrosoft (excel|office|word|outlook|powerpoint)\b",
     ],
     "data analysis": [
         r"\bdata analy", r"\banalytics\b", r"\bvisualization",
@@ -212,10 +222,23 @@ SKILL_PATTERNS: dict[str, list[str]] = {
     "problem solving": [
         r"\bproblem.solv", r"\bcritical think", r"\btroubleshoot",
         r"\broot cause", r"\b(resolve|resolved|resolution).*(issue|problem|conflict)",
+        r"\bdebug", r"\bdiagnos", r"\boptimiz", r"\bstreamlin",
+        r"\b(improve|improved|enhanced?|increased?).*(efficiency|performance|process)",
+        r"\bautomated?\b.*(process|workflow|task|pipeline|system)",
     ],
     "time management": [
-        r"\btime manag", r"\bprioriti(z|s)ation", r"\bdeadline",
+        r"\btime manag", r"\bprioriti", r"\bdeadline",
         r"\bmulti.?task", r"\b(juggle|balance).*(multiple|many|several)",
+        r"\bfast.?pace", r"\bsimultaneous", r"\bunder pressure",
+        r"\bmet deadline", r"\bcompeting (priority|demand)",
+    ],
+
+    # ── Help Desk & IT Support ──
+    "help desk & it support": [
+        r"\bhelp\s?desk\b", r"\btechnical support\b", r"\btech support\b",
+        r"\b(it|technical|tech).*(support|help|assist)",
+        r"\bticketing\b", r"\bservice desk\b", r"\bIT support\b",
+        r"\bdesktop support\b", r"\buser support\b", r"\blevel [123] support\b",
     ],
 
     # ── Certifications ──

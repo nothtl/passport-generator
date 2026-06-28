@@ -20,6 +20,7 @@ if _PROJECT_DIR not in sys.path:
 from recommender.extract.skill_extractor import extract_skills_from_text
 from recommender.match.role_matcher import match_role as _match_role_legacy
 from recommender.match.onet_matcher import match_role_onet
+from recommender.match.classifier_matcher import match_role_classifier
 from recommender.retrieve.retriever import retrieve_jds
 from recommender.profile.aggregator import aggregate_skills
 from recommender.profile.gap_analyzer import analyze_gaps
@@ -30,10 +31,13 @@ def analyze(resume_text: str, top_k: int = 10):
     # Stage 1+2: extract skills
     skills = extract_skills_from_text(resume_text, use_semantic=True)
 
-    # Match best role using O*NET
-    best = match_role_onet(resume_text)
+    # Match best role using ML classifier (trained on 2,484 real resumes)
+    best = match_role_classifier(resume_text)
     if not best:
-        # Fall back to legacy lookup table
+        # Fall back to O*NET keyword matcher
+        best = match_role_onet(resume_text)
+    if not best:
+        # Last resort: legacy lookup table
         best = _match_role_legacy(skills)
     if not best:
         return {"error": "No matching role found", "skills_found": skills}

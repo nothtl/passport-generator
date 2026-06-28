@@ -297,6 +297,13 @@
     "valuables"
   ],
   "finance": [
+    "quickbooks",
+    "payroll",
+    "journal entries",
+    "reconciled",
+    "bookkeeping",
+    "general ledger",
+    "invoicing",
     "accountants",
     "securities",
     "income",
@@ -351,6 +358,21 @@
     "eligibility"
   ],
   "science": [
+    "experiments",
+    "samples",
+    "laboratory",
+    "lab",
+    "analyzed",
+    "findings",
+    "data",
+    "protocols",
+    "pcr",
+    "elisa",
+    "assay",
+    "pipette",
+    "microscope",
+    "cell culture",
+    "specimen",
     "economics",
     "colleges",
     "theories",
@@ -486,6 +508,11 @@
     "start"
   ],
   "legal": [
+    "westlaw",
+    "deposition",
+    "discovery",
+    "litigation",
+    "notary",
     "wills",
     "briefs",
     "statutes",
@@ -593,6 +620,20 @@
     "laundry"
   ],
   "support": [
+    "resolved",
+    "calls",
+    "billing",
+    "returns",
+    "customer service",
+    "helped",
+    "assisted",
+    "answered",
+    "troubleshoot",
+    "ticketing",
+    "helpdesk",
+    "zendesk",
+    "freshdesk",
+    "service desk",
     "causes",
     "shipping",
     "issue",
@@ -608,5 +649,23 @@
     "recommend",
     "keep",
     "problems"
+  ],
+  "hospitality": [
+    "guests",
+    "reservations",
+    "checking in",
+    "checked in",
+    "check ins",
+    "cleaned rooms",
+    "amenities",
+    "restocked",
+    "opera",
+    "guest",
+    "check-in",
+    "checkout",
+    "reservation",
+    "housekeeping",
+    "front desk",
+    "concierge"
   ]
 }

@@ -162,6 +162,34 @@ _FUNC_BONUS_WORDS: dict[str, list[str]] = {
 }
 
 
+_FUNC_BONUS_WORDS: dict[str, list[str]] = {
+    "administrative": ["calendars", "ledgers", "invoices", "postage", "principal", "agendas", "minutes", "appointment", "memos", "mailing", "accounts", "mail", "bookkeeping", "payment", "documents", "account", "affix", "transactions", "file", "answer", "correspondence", "telephones", "proofread", "expedite", "inquiries"],
+    "agriculture": ["seed", "seedlings", "agricultural", "harvesting", "livestock", "planting", "farmers", "logging", "lands", "thinning", "seeds", "insects", "forest", "farm", "forestry", "weed", "insect", "growers", "competing", "planted", "nursery", "reforestation", "grazing", "trees", "weeds"],
+    "arts-media": ["logos", "branding", "illustrator", "photoshop", "indesign", "canva", "figma", "sketch", "wireframe", "broadcast", "cues", "dramatic", "stories", "shot", "rehearsal", "roles", "broadcasts", "edit", "live", "actors", "plays", "acting", "writers", "productions", "story", "producers", "scripts", "films", "news", "audition", "footage", "filming", "audience", "musical"],
+    "building-grounds": ["carpets", "scrubbing", "squeegees", "driveways", "mow", "mops", "cleaners", "representations", "insecticides", "infestation", "mowers", "lawns", "trimmers", "sewers", "shovels", "conserve", "landscaping", "sidewalks", "scrub", "brooms", "basins", "mud", "drainage", "vacuuming", "ditches"],
+    "design": ["decoration", "illustrations", "artwork", "ideas", "creations", "looks", "sketch", "characters", "success", "intended", "concepts", "render", "illustration", "animation", "script", "arrangement", "brochures", "designs", "sketches", "art", "shows", "venues", "backgrounds", "drawings", "three"],
+    "education": ["internship", "advisers", "classroom", "class", "homework", "bibliographies", "campus", "moderate", "syllabi", "classrooms", "curricula", "teacher", "textbooks", "experiential", "handouts", "vocational", "faculty", "lessons", "supplement", "provides", "academic", "persevere", "challenging", "teaching", "lectures"],
+    "finance": ["quickbooks", "payroll", "journal entries", "reconciled", "bookkeeping", "general ledger", "invoicing", "accountants", "securities", "income", "valuation", "investment", "owed", "influences", "traders", "informal", "capital", "audit", "debt", "liabilities", "investments", "returns", "quantify", "trading", "deductions", "assets", "stocks", "finance", "financial", "tax", "estate", "theory"],
+    "food-service": ["kitchen", "utensils", "coffee", "cook", "drinks", "sandwiches", "kitchens", "salads", "foods", "desserts", "silverware", "menus", "cooking", "dishes", "cooks", "drink", "beverages", "breads", "garnish", "soups", "meats", "cooked", "served", "taste", "pastries"],
+    "healthcare": ["immunizations", "caregivers", "respiratory", "wounds", "electrocardiograms", "patient", "ekgs", "intravenous", "patients", "therapy", "urine", "diagnosis", "nursing", "pain", "medication", "acute", "operative", "surgery", "treatment", "medical", "vital", "medicine", "interventions", "chronic", "physicians"],
+    "hospitality": ["guests", "reservations", "checking in", "checked in", "check ins", "cleaned rooms", "amenities", "restocked", "opera", "guest", "check-in", "checkout", "reservation", "housekeeping", "front desk", "concierge"],
+    "legal": ["westlaw", "deposition", "discovery", "litigation", "notary", "wills", "briefs", "statutes", "appeals", "facts", "trial", "witnesses", "disputes", "legislation", "search", "court", "law", "decisions", "file", "cases", "contracts", "gather", "legal", "documents", "clients", "public", "meet", "analyze", "data"],
+    "logistics": ["loaded", "warehouse", "plugs", "tank", "weighing", "loads", "navigation", "contents", "gps", "delivered", "spark", "drivers", "unload", "capacities", "bulbs", "connecting", "safely", "tire", "railroad", "lower", "transport", "vehicles", "trucks", "global", "tires"],
+    "manufacturing": ["spindles", "jammed", "handwheels", "coolants", "arbors", "tensions", "guides", "conveyors", "speeds", "sharpen", "extruded", "cams", "strokes", "feed", "workpieces", "tend", "stops", "turn", "machine", "holding", "setup", "dies", "hoppers", "thread", "start"],
+    "marketing": ["strategy", "pricing", "forecasting", "analyzing", "buying", "satisfaction", "developers", "text", "demand", "promotion", "markets", "marketing", "communications", "promotional", "trade", "company", "trends", "sales", "integrate", "affecting", "commercial", "strategies", "advertising", "vendors", "surveys"],
+    "ops": ["disciplinary", "hires", "budgets", "hire", "promotions", "employee", "worker", "recruit", "grievances", "employees", "investors", "harassment", "vacancies", "ranges", "experienced", "complaints", "staffing", "manage", "managers", "operational", "company", "timely", "oversee", "policies", "transfers"],
+    "personal-care": ["caskets", "pallbearers", "beards", "razors", "scalp", "sanitize", "casket", "cremations", "funerals", "burial", "floral", "bereaved", "shampoo", "clippers", "lotions", "funeral", "nail", "caring", "shave", "scissors", "flowers", "liquid", "skin", "homes", "laundry"],
+    "protective-service": ["tampering", "secured", "suspects", "police", "fingerprints", "apprehend", "patrol", "violators", "survivors", "disturbances", "inmates", "correctional", "inmate", "prohibited", "persons", "crimes", "guard", "suspicious", "officers", "crime", "search", "occurrences", "prisoners", "entrances", "valuables"],
+    "sales": ["warranties", "reorder", "prospective", "dealers", "offers", "expand", "profitability", "retailers", "territories", "quotes", "emphasize", "trade", "quote", "sales", "leads", "behalf", "markets", "purchased", "credit", "advertised", "complicated", "drops", "price", "features", "contracts"],
+    "science": ["experiments", "samples", "laboratory", "lab", "analyzed", "findings", "data", "protocols", "pcr", "elisa", "assay", "pipette", "microscope", "cell culture", "specimen", "economics", "colleges", "theories", "fact", "universities", "historical", "interpreting", "phenomena", "scientific", "geographic", "manuscripts", "bioinformatics", "satellites", "fieldwork", "imagery", "interviewers", "science", "habitat", "applied", "species"],
+    "skilled-trade": ["pistons", "ceiling", "paneling", "carburetors", "ignition", "tile", "insulated", "couplings", "hangers", "distortion", "scaffolding", "reassemble", "scaffolds", "freshly", "float", "shoring", "carburetor", "caulking", "cover", "plumbing", "ceilings", "ladders", "holes", "walls", "engine"],
+    "social-service": ["dependencies", "overcoming", "crises", "counseling", "referral", "advocate", "options", "family", "client", "consultation", "education", "housing", "share", "informed", "community", "psychologists", "supporting", "mental", "goals", "dealing", "understanding", "engage", "refer", "making", "eligibility"],
+    "support": ["resolved", "calls", "billing", "returns", "customer service", "helped", "assisted", "answered", "troubleshoot", "ticketing", "helpdesk", "zendesk", "freshdesk", "service desk", "causes", "shipping", "issue", "details", "departments", "complaints", "resolve", "arrange", "service", "orders", "changes", "customers", "recommend", "keep", "problems"],
+    "technology": ["logical", "user", "engineering", "qualification", "prototype", "prototypes", "engineers", "network", "validation", "server", "users", "software", "configure", "manufacturing", "patent", "system", "technologies", "hardware", "analysts", "integration", "theoretical", "interoperability", "nano", "backup", "interface"],
+    "unmapped": ["pipelines", "protractors", "climb", "rigging", "derricks", "shapes", "exteriors", "patch", "stretch", "sides", "furnace", "hammers", "solvents", "crane", "cranes", "hand", "cable", "imperfections", "poles", "signal", "alteration", "warn", "plot", "horizontal", "flows"],
+}
+
+
 def _build_index() -> dict:
     """Build keyword→occupation index from O*NET Task Statements."""
     import pandas as pd
@@ -265,6 +293,24 @@ def match_onet_occupations(
         if matches:
             func_bonus[func] = 1 + 1.0 * len(matches)  # 100% boost per distinctive word
     
+    if func_bonus:
+        for occ_idx in list(occ_scores.keys()):
+            func = _occ_to_function(occs[occ_idx]["title"])
+            if func and func in func_bonus:
+                occ_scores[occ_idx] *= func_bonus[func]
+
+    # Apply function-specific bonus: distinctive words boost their function
+    resume_words = set(wc.keys())
+    resume_lower = text.lower()
+    func_bonus = {}
+    for func, bonus_words in _FUNC_BONUS_WORDS.items():
+        matches = set()
+        for bw in bonus_words:
+            if " " in bw:
+                if bw in resume_lower: matches.add(bw)
+            elif bw in resume_words: matches.add(bw)
+        if matches:
+            func_bonus[func] = 1 + 1.0 * len(matches)
     if func_bonus:
         for occ_idx in list(occ_scores.keys()):
             func = _occ_to_function(occs[occ_idx]["title"])

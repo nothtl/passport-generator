@@ -34,12 +34,27 @@ def analyze(resume_text: str, top_k: int = 10):
     # Step 2: Extract skills using smart extractor (ESCO vocab + n-grams)
     skills = _extract_skills(resume_text)
 
+    # Load function features for skill filtering
+    import json
+    cls_path = os.path.join(os.path.dirname(__file__), 'data', 'classifier_skills.json')
+    with open(cls_path) as f:
+        func_features = json.load(f)
+
     # Step 3: Get has/missing from classifier features
     from recommender.extract.skill_extractor import extract_skills_for_function
     has_skills, missing_skills = extract_skills_for_function(resume_text, func)
 
-    # Step 4: Retrieve real job openings
-    jds = retrieve_jds(func, "Entry", skills, top_k=top_k)
+    # Step 4: Filter to multi-word phrases for precise job matching
+    # Single words (building, career, claims) are too noisy for JD search
+    job_skills = [s for s in skills if ' ' in s and len(s) > 8]  # multi-word phrases
+    # Also include tech acronyms from original text (before lowercasing)
+    import re as _re
+    tech_acronyms = set(t.lower() for t in _re.findall(r'\b[A-Z]{2,}(?:\d+)?\b', resume_text))
+    job_skills += [s for s in skills if s in tech_acronyms and s not in job_skills]
+    job_skills = job_skills[:25] or skills[:25]
+
+    # Step 5: Retrieve real job openings
+    jds = retrieve_jds(func, "Entry", job_skills, top_k=top_k)
 
     return {
         "function": func,

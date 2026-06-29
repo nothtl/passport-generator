@@ -67,6 +67,14 @@ def retrieve_jds(
         return re.sub(r'[- ]', '', s.lower())
 
     student_set = set(_norm(s) for s in student_skills)
+    # Also build expanded set from aggregator's synonym map
+    try:
+        from recommender.profile.aggregator import _SKILL_SYNONYMS
+        for canonical, aliases in _SKILL_SYNONYMS.items():
+            if any(_norm(a) in student_set for a in aliases):
+                student_set.add(_norm(canonical))
+    except ImportError:
+        pass
     scores = df["skills"].apply(
         lambda row: sum(1 for s in row if isinstance(s, str) and _norm(s) in student_set)
         if row is not None else 0

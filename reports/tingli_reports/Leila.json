@@ -1,8 +1,7 @@
 {
   "function": "healthcare",
-  "level": "Entry",
-  "match_pct": 15,
-  "skills_extracted": [
+  "confidence": 15,
+  "skills": [
     "-- case management",
     "-- home health",
     "-- volunteer",
@@ -28,41 +27,7 @@
     "training",
     "vmware"
   ],
-  "related_skills": [
-    [
-      "socialstudies",
-      5.93
-    ],
-    [
-      "stem",
-      5.24
-    ],
-    [
-      "communityresources",
-      4.7
-    ],
-    [
-      "advocacy",
-      3.89
-    ],
-    [
-      "familyservices",
-      3.89
-    ],
-    [
-      "reading",
-      3.74
-    ],
-    [
-      "math",
-      3.57
-    ],
-    [
-      "counseling",
-      3.38
-    ]
-  ],
-  "market_skills": [
+  "market_relevant": [
     "-- case management",
     "-- volunteer",
     "aide",
@@ -72,11 +37,13 @@
     "students",
     "training"
   ],
-  "has_skills": [
-    "science",
-    "students"
+  "inferred": [
+    "communication",
+    "teamwork",
+    "documentation",
+    "organization"
   ],
-  "missing_skills": [
+  "gaps": [
     "classroommanagement",
     "childdevelopment",
     "childcare",
@@ -89,239 +56,108 @@
     "parentcommunication",
     "datacollection"
   ],
+  "related": [
+    {
+      "skill": "socialstudies",
+      "pmi": 5.93
+    },
+    {
+      "skill": "stem",
+      "pmi": 5.24
+    },
+    {
+      "skill": "communityresources",
+      "pmi": 4.7
+    },
+    {
+      "skill": "advocacy",
+      "pmi": 3.89
+    },
+    {
+      "skill": "familyservices",
+      "pmi": 3.89
+    },
+    {
+      "skill": "reading",
+      "pmi": 3.74
+    },
+    {
+      "skill": "math",
+      "pmi": 3.57
+    },
+    {
+      "skill": "counseling",
+      "pmi": 3.38
+    }
+  ],
   "alternatives": [
     {
       "function": "healthcare",
-      "match_pct": 14
+      "pct": 14
     },
     {
       "function": "technology",
-      "match_pct": 10
+      "pct": 10
     },
     {
       "function": "ops",
-      "match_pct": 7
+      "pct": 7
     },
     {
       "function": "social-service",
-      "match_pct": 5
+      "pct": 5
     },
     {
       "function": "agriculture",
-      "match_pct": 5
+      "pct": 5
     }
   ],
-  "all_probas": {
-    "education": 15.2,
-    "healthcare": 14.2,
-    "technology": 9.5,
-    "ops": 6.7,
-    "social-service": 4.8,
-    "agriculture": 4.8,
-    "legal": 4.3,
-    "science": 4.3,
-    "sales": 3.9,
-    "skilled-trade": 3.8
-  },
-  "openings": [
-    {
-      "title": "Trainer I",
-      "company": "kansashealthsystem",
-      "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/job/Shawnee-Mission-KS/Trainer-I_R-53647-1"
-    },
-    {
-      "title": "SY 26/27 PreK - 4th Grade Paraprofessional",
-      "company": "KIPP",
-      "url": "https://jobs.smartrecruiters.com/KIPP/744000113263917"
-    },
-    {
-      "title": "Montessori Assistant Teacher: Louisville, KY",
-      "company": "day1academies",
-      "url": "https://job-boards.greenhouse.io/day1academies/jobs/8577926002"
-    },
-    {
-      "title": "Internships / Volunteer Opportunities!",
-      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982"
-    },
-    {
-      "title": "School Age Child Care Site Coordinator E Syracuse-Minoa- Part Time",
-      "company": "87e48064-1e87-4bbe-abe0-6d65e861917a",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3971698"
-    }
-  ],
-  "llm_enhanced": true,
-  "llm_reclassified": true,
-  "llm_reasoning": "The resume includes a BS in Health Science, volunteer work managing a flu vaccination clinic, home health aide training, and a case management internship in a healthcare setting. All experiences are directly related to healthcare.",
-  "inferred_skills": [
-    "documentation",
-    "organization",
-    "teamwork",
-    "communication"
-  ],
-  "skill_evidence": [
-    {
-      "skill": "case management",
-      "evidence": "Created training for case management including Epic and VMware.",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "home health",
-      "evidence": "Platinum Home Care -- Home Health Aide",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "volunteer",
-      "evidence": "Level 4 CNYMRC -- Volunteer",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "aide",
-      "evidence": "Platinum Home Care -- Home Health Aide",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "assisting",
-      "evidence": "Completed 75 hours of training focused on assisting patients at home.",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "assisting patients",
-      "evidence": "Completed 75 hours of training focused on assisting patients at home.",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "care",
-      "evidence": "Woodhull Community Care -- Case Management Intern",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "care -- home",
-      "evidence": "Platinum Home Care -- Home Health Aide",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "epic",
-      "evidence": "Created training for case management including Epic and VMware.",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "flu",
-      "evidence": "Managed the Flu POD on campus with 520 students and staff vaccinated.",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "health",
-      "evidence": "Ithaca College, BS in Health Science, Graduated May 2026",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "home",
-      "evidence": "Platinum Home Care -- Home Health Aide",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "home care",
-      "evidence": "Platinum Home Care -- Home Health Aide",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "home health aide",
-      "evidence": "Platinum Home Care -- Home Health Aide",
-      "proficiency": "proficient"
-    },
-    {
-      "skill": "hours",
-      "evidence": "Completed 75 hours of training focused on assisting patients at home.",
-      "proficiency": "proficient"
-    }
-  ],
-  "gap_explanation": "The most critical gaps are 'classroommanagement', 'childdevelopment', and 'lessonplanning', as these are foundational for roles in pediatric or educational healthcare settings, which often require structured patient interaction and developmental support. Without these, you may be overlooked for positions involving children or group care. To bridge this, consider volunteering in a school health program or taking a short course on child development to gain relevant experience.",
-  "job_evaluations": [
-    {
-      "job_index": 1,
-      "fit": 65,
-      "label": "target",
-      "why_fits": "Your home health and caregiving experience provides a foundation for training roles, and your familiarity with healthcare settings (e.g., Epic, home health) aligns with the health system context.",
-      "remaining_gaps": "No direct training or teaching experience; may lack presentation skills and knowledge of adult learning principles."
-    },
-    {
-      "job_index": 2,
-      "fit": 70,
-      "label": "target",
-      "why_fits": "Your experience assisting and caring for others, especially in home health and volunteer roles, translates well to supporting young children in a classroom setting.",
-      "remaining_gaps": "No formal experience in PreK-4th grade education or paraprofessional duties; may need to learn classroom management and curriculum support."
-    },
-    {
-      "job_index": 3,
-      "fit": 75,
-      "label": "ready",
-      "why_fits": "Your aide and assistant experience, along with caregiving in home health, directly applies to supporting a Montessori teacher and working with children.",
-      "remaining_gaps": "No specific Montessori training; may need to familiarize with Montessori philosophy and materials."
-    },
-    {
-      "job_index": 4,
-      "fit": 85,
-      "label": "ready",
-      "why_fits": "Your volunteer background and caregiving skills make you a strong candidate for internships or volunteer opportunities, especially in health or social services.",
-      "remaining_gaps": "No specific gaps identified; ensure alignment with the organization's mission and any required certifications."
-    },
-    {
-      "job_index": 5,
-      "fit": 60,
-      "label": "target",
-      "why_fits": "Your experience in caregiving and assisting can be applied to supervising children in a school-age care setting, and your flexibility with part-time hours is a plus.",
-      "remaining_gaps": "No direct site coordination or supervisory experience; may need to develop leadership, scheduling, and program management skills."
-    }
-  ],
-  "ready_jobs": [
-    {
-      "title": "Montessori Assistant Teacher: Louisville, KY",
-      "company": "day1academies",
-      "url": "https://job-boards.greenhouse.io/day1academies/jobs/8577926002",
-      "fit": 75,
-      "label": "ready",
-      "why_fits": "Your aide and assistant experience, along with caregiving in home health, directly applies to supporting a Montessori teacher and working with children.",
-      "remaining_gaps": "No specific Montessori training; may need to familiarize with Montessori philosophy and materials."
-    },
+  "coach_notes": "The most critical gaps are classroom management, child development, and lesson planning, as these are foundational for roles in pediatric or school-based healthcare settings where you'd need to structure educational activities and manage groups of children. Without these, you may lack the skills to effectively engage young patients in therapeutic or developmental programs. To address this, consider taking a short online course in early childhood education or volunteering in a classroom to gain hands-on experience.",
+  "jobs": [
     {
       "title": "Internships / Volunteer Opportunities!",
       "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
       "fit": 85,
       "label": "ready",
-      "why_fits": "Your volunteer background and caregiving skills make you a strong candidate for internships or volunteer opportunities, especially in health or social services.",
-      "remaining_gaps": "No specific gaps identified; ensure alignment with the organization's mission and any required certifications."
-    }
-  ],
-  "target_jobs": [
+      "why": "Your extensive volunteer and aide experience aligns perfectly with internship/volunteer opportunities. Your caregiving background demonstrates reliability and compassion.",
+      "gaps": "May need to clarify specific interests or skills for certain roles; no major gaps for general volunteer work."
+    },
     {
       "title": "Trainer I",
       "company": "kansashealthsystem",
       "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/job/Shawnee-Mission-KS/Trainer-I_R-53647-1",
-      "fit": 65,
+      "fit": 70,
       "label": "target",
-      "why_fits": "Your home health and caregiving experience provides a foundation for training roles, and your familiarity with healthcare settings (e.g., Epic, home health) aligns with the health system context.",
-      "remaining_gaps": "No direct training or teaching experience; may lack presentation skills and knowledge of adult learning principles."
+      "why": "Your home health and caregiving experience shows you can handle patient interactions, and your familiarity with Epic is a plus for healthcare training roles. Your volunteer and aide background demonstrates patience and instructional ability.",
+      "gaps": "No formal training or teaching experience; may need to develop curriculum delivery skills and knowledge of adult learning principles."
     },
     {
       "title": "SY 26/27 PreK - 4th Grade Paraprofessional",
       "company": "KIPP",
       "url": "https://jobs.smartrecruiters.com/KIPP/744000113263917",
-      "fit": 70,
+      "fit": 65,
       "label": "target",
-      "why_fits": "Your experience assisting and caring for others, especially in home health and volunteer roles, translates well to supporting young children in a classroom setting.",
-      "remaining_gaps": "No formal experience in PreK-4th grade education or paraprofessional duties; may need to learn classroom management and curriculum support."
+      "why": "Your experience assisting and caring for individuals, especially in home health, translates well to supporting young children in a classroom. Your volunteer work shows commitment to helping others.",
+      "gaps": "No direct experience in a school setting or with PreK-4th grade curriculum; may need to learn classroom management and educational support techniques."
+    },
+    {
+      "title": "Montessori Assistant Teacher: Louisville, KY",
+      "company": "day1academies",
+      "url": "https://job-boards.greenhouse.io/day1academies/jobs/8577926002",
+      "fit": 60,
+      "label": "target",
+      "why": "Your aide and assisting roles, along with home health care, provide a foundation for supporting children in a Montessori environment. Your patience and care skills are relevant.",
+      "gaps": "No Montessori training or experience; may need to understand Montessori philosophy and methods. Also lacks formal early childhood education background."
     },
     {
       "title": "School Age Child Care Site Coordinator E Syracuse-Minoa- Part Time",
       "company": "87e48064-1e87-4bbe-abe0-6d65e861917a",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3971698",
-      "fit": 60,
-      "label": "target",
-      "why_fits": "Your experience in caregiving and assisting can be applied to supervising children in a school-age care setting, and your flexibility with part-time hours is a plus.",
-      "remaining_gaps": "No direct site coordination or supervisory experience; may need to develop leadership, scheduling, and program management skills."
+      "fit": 55,
+      "label": "reach",
+      "why": "Your experience caring for others and assisting in home health shows you can handle responsibility and supervision, which is relevant for a site coordinator role.",
+      "gaps": "No experience in school-age child care coordination, program management, or supervisory duties. May lack knowledge of licensing requirements and administrative tasks."
     }
-  ],
-  "llm_timing_ms": 14726
+  ]
 }

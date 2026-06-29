@@ -1,8 +1,7 @@
 {
   "function": "arts-media",
-  "level": "Entry",
-  "match_pct": 33,
-  "skills_extracted": [
+  "confidence": 33,
+  "skills": [
     "- present",
     "activities",
     "application process",
@@ -39,41 +38,7 @@
     "volunteer",
     "write"
   ],
-  "related_skills": [
-    [
-      "housekeeping",
-      3.59
-    ],
-    [
-      "vacuuming",
-      3.44
-    ],
-    [
-      "physicalstamina",
-      2.86
-    ],
-    [
-      "ui",
-      2.63
-    ],
-    [
-      "ux",
-      2.57
-    ],
-    [
-      "wordpress",
-      2.35
-    ],
-    [
-      "wayfinding",
-      2.17
-    ],
-    [
-      "exhibitiondesign",
-      2.17
-    ]
-  ],
-  "market_skills": [
+  "market_relevant": [
     "cleaning",
     "creative",
     "design",
@@ -81,14 +46,15 @@
     "graphic design",
     "maps"
   ],
-  "has_skills": [
-    "events",
-    "music",
-    "intern",
-    "creative",
-    "outreach"
+  "inferred": [
+    "adobecreativesuite",
+    "photoshop",
+    "illustrator",
+    "typography",
+    "layout",
+    "figma"
   ],
-  "missing_skills": [
+  "gaps": [
     "customerservice",
     "teamwork",
     "communication",
@@ -99,124 +65,81 @@
     "sanitation",
     "inventorymanagement"
   ],
+  "related": [
+    {
+      "skill": "housekeeping",
+      "pmi": 3.59
+    },
+    {
+      "skill": "vacuuming",
+      "pmi": 3.44
+    },
+    {
+      "skill": "physicalstamina",
+      "pmi": 2.86
+    },
+    {
+      "skill": "ui",
+      "pmi": 2.63
+    },
+    {
+      "skill": "ux",
+      "pmi": 2.57
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 2.35
+    },
+    {
+      "skill": "wayfinding",
+      "pmi": 2.17
+    },
+    {
+      "skill": "exhibitiondesign",
+      "pmi": 2.17
+    }
+  ],
   "alternatives": [
     {
       "function": "education",
-      "match_pct": 10
+      "pct": 10
     },
     {
       "function": "design",
-      "match_pct": 8
+      "pct": 8
     },
     {
       "function": "technology",
-      "match_pct": 7
+      "pct": 7
     },
     {
       "function": "finance",
-      "match_pct": 7
+      "pct": 7
     },
     {
       "function": "healthcare",
-      "match_pct": 5
+      "pct": 5
     }
   ],
-  "all_probas": {
-    "arts-media": 33.3,
-    "education": 9.8,
-    "design": 7.8,
-    "technology": 6.9,
-    "finance": 6.6,
-    "healthcare": 4.8,
-    "agriculture": 4.1,
-    "ops": 3.1,
-    "skilled-trade": 3.1,
-    "legal": 2.7
-  },
-  "openings": [
-    {
-      "title": "Level I Instructional Designer (contract contingent)",
-      "company": "prosidianconsulting",
-      "url": "https://jobs.smartrecruiters.com/prosidianconsulting/94546307"
-    },
-    {
-      "title": "Fall 2026 Creative (Paid) Intern",
-      "company": "9e989de2-d327-4d1e-ab67-f4833685bfa6",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208272"
-    },
-    {
-      "title": "Planning Technician",
-      "company": "lakewood",
-      "url": "https://lakewood.wd503.myworkdayjobs.com/job/Lakewood-CO/Planning-Technician_JR103799"
-    },
+  "coach_notes": "The gaps in 'customerservice', 'teamwork', and 'communication' are most critical because arts-media roles often involve collaborating with clients, teams, and stakeholders to execute projects like events or content creation. Without these skills, you may struggle to effectively present ideas, coordinate activities, or manage the application process for opportunities. To address this, practice active listening in group settings and seek feedback on your interpersonal interactions.",
+  "jobs": [
     {
       "title": "Junior Designer",
       "company": "56acb34b-70f4-4003-bddd-9a1d5a1b36c1",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3215762"
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3215762",
+      "fit": 80,
+      "label": "ready",
+      "why": "Your graphic design, creative, and content skills directly match junior designer role. Experience with design tools and events shows you can create visual materials.",
+      "gaps": "No professional design experience listed. May need to provide portfolio. Junior level may expect some agency or in-house work."
     },
-    {
-      "title": "A&F Co. Design Sophomore Summit - Summer 2026",
-      "company": "AbercrombieAndFitchCo",
-      "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000124138375"
-    }
-  ],
-  "llm_enhanced": true,
-  "inferred_skills": [
-    "adobecreativesuite",
-    "photoshop",
-    "illustrator",
-    "typography",
-    "layout",
-    "figma"
-  ],
-  "gap_explanation": "The most critical gaps are customerservice, teamwork, and communication, as these are foundational for collaborative arts-media roles like event coordination or content production. Without them, you'll struggle to engage audiences, collaborate on creative projects, or manage client relationships. To close these gaps, practice active listening in group settings, volunteer for team-based events, and take a free online course on professional communication.",
-  "job_evaluations": [
-    {
-      "job_index": 1,
-      "fit": 40,
-      "label": "reach",
-      "why_fits": "You have skills in content, design, and graphic design which are relevant to instructional design. Your ability to present and work with databases could support course development.",
-      "remaining_gaps": "Lack of specific instructional design experience, knowledge of learning theories, and familiarity with authoring tools like Articulate or Captivate. No mention of training or education background."
-    },
-    {
-      "job_index": 2,
-      "fit": 70,
-      "label": "target",
-      "why_fits": "Your creative, design, and graphic design skills align with a creative internship. Experience with events and content creation is valuable.",
-      "remaining_gaps": "No specific portfolio or examples of creative work mentioned. The internship is for Fall 2026, which may be far off. Need to demonstrate relevant projects or coursework."
-    },
-    {
-      "job_index": 3,
-      "fit": 30,
-      "label": "reach",
-      "why_fits": "You have experience with Google Maps and database skills which could be useful for planning and data management tasks.",
-      "remaining_gaps": "No background in urban planning, zoning, or technical planning software. The role likely requires specialized knowledge and possibly a degree in planning or related field."
-    },
-    {
-      "job_index": 4,
-      "fit": 65,
-      "label": "target",
-      "why_fits": "Your graphic design, creative, and design skills are directly relevant. Experience with content and events shows you can handle creative projects.",
-      "remaining_gaps": "No mention of a design portfolio or specific software proficiency (e.g., Adobe Creative Suite). May need to demonstrate ability to work in a team and meet deadlines."
-    },
-    {
-      "job_index": 5,
-      "fit": 50,
-      "label": "target",
-      "why_fits": "Your creative and design skills, along with intern experience, are relevant. Interest in fashion/retail could be a plus.",
-      "remaining_gaps": "No specific fashion or retail experience. The summit is for sophomores, so you need to be in that academic year. Need to show passion for the brand and industry."
-    }
-  ],
-  "ready_jobs": [],
-  "target_jobs": [
     {
       "title": "Level I Instructional Designer (contract contingent)",
       "company": "prosidianconsulting",
       "url": "https://jobs.smartrecruiters.com/prosidianconsulting/94546307",
-      "fit": 40,
-      "label": "reach",
-      "why_fits": "You have skills in content, design, and graphic design which are relevant to instructional design. Your ability to present and work with databases could support course development.",
-      "remaining_gaps": "Lack of specific instructional design experience, knowledge of learning theories, and familiarity with authoring tools like Articulate or Captivate. No mention of training or education background."
+      "fit": 55,
+      "label": "target",
+      "why": "Your background in content creation, design, and events suggests you can develop instructional materials and manage learning activities. Experience with databases and Google tools supports content organization and delivery.",
+      "gaps": "No direct instructional design experience or formal training in learning theories. Contract role may require prior portfolio of instructional materials."
     },
     {
       "title": "Fall 2026 Creative (Paid) Intern",
@@ -224,8 +147,8 @@
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208272",
       "fit": 70,
       "label": "target",
-      "why_fits": "Your creative, design, and graphic design skills align with a creative internship. Experience with events and content creation is valuable.",
-      "remaining_gaps": "No specific portfolio or examples of creative work mentioned. The internship is for Fall 2026, which may be far off. Need to demonstrate relevant projects or coursework."
+      "why": "Your creative skills, graphic design, and content creation align with a creative internship. Experience with events and activities shows you can contribute to team projects.",
+      "gaps": "No specific creative internship experience. May need to demonstrate portfolio of creative work. Internship is for Fall 2026, so timing is far out."
     },
     {
       "title": "Planning Technician",
@@ -233,27 +156,17 @@
       "url": "https://lakewood.wd503.myworkdayjobs.com/job/Lakewood-CO/Planning-Technician_JR103799",
       "fit": 30,
       "label": "reach",
-      "why_fits": "You have experience with Google Maps and database skills which could be useful for planning and data management tasks.",
-      "remaining_gaps": "No background in urban planning, zoning, or technical planning software. The role likely requires specialized knowledge and possibly a degree in planning or related field."
-    },
-    {
-      "title": "Junior Designer",
-      "company": "56acb34b-70f4-4003-bddd-9a1d5a1b36c1",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3215762",
-      "fit": 65,
-      "label": "target",
-      "why_fits": "Your graphic design, creative, and design skills are directly relevant. Experience with content and events shows you can handle creative projects.",
-      "remaining_gaps": "No mention of a design portfolio or specific software proficiency (e.g., Adobe Creative Suite). May need to demonstrate ability to work in a team and meet deadlines."
+      "why": "Your database skills and experience with Google Maps could be relevant to planning tasks. Attention to detail from design work may help.",
+      "gaps": "No planning or technical background. Requires knowledge of zoning, land use, or municipal processes. High school diploma may not meet minimum requirements."
     },
     {
       "title": "A&F Co. Design Sophomore Summit - Summer 2026",
       "company": "AbercrombieAndFitchCo",
       "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000124138375",
-      "fit": 50,
+      "fit": 65,
       "label": "target",
-      "why_fits": "Your creative and design skills, along with intern experience, are relevant. Interest in fashion/retail could be a plus.",
-      "remaining_gaps": "No specific fashion or retail experience. The summit is for sophomores, so you need to be in that academic year. Need to show passion for the brand and industry."
+      "why": "Your creative and design skills align with a design summit. Experience with activities and events shows you can collaborate in a team setting.",
+      "gaps": "No specific fashion or retail design experience. Summit is for sophomores, and your high school diploma may not meet college student requirement. Need to confirm eligibility."
     }
-  ],
-  "llm_timing_ms": 13036
+  ]
 }

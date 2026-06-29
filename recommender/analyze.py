@@ -111,12 +111,29 @@ def analyze(resume_text: str, top_k: int = 10):
     }
     result = llm_enhance(result, resume_text)
 
+    # Rule-based coach fallback if LLM unavailable
+    if not result.get("coach_notes") and result.get("missing_skills"):
+        top_gaps = result["missing_skills"][:5]
+        func = result["function"]
+        result["coach_notes"] = (
+            f"For a {func} career, focus on developing: {', '.join(top_gaps)}. "
+            f"These skills appear most frequently in real job postings for this field."
+        )
+
     # Simplify for output: keep only human-relevant fields
+    import re as _re3
+    def _clean_company(name):
+        """Filter out UUID-looking company names."""
+        if not name: return ""
+        if _re3.match(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', name):
+            return ""
+        return name
+
     jobs = []
     for j in result.get("ready_jobs", []) + result.get("target_jobs", []):
         jobs.append({
             "title": j.get("title", ""),
-            "company": j.get("company", ""),
+            "company": _clean_company(j.get("company", "")),
             "url": j.get("url", ""),
             "fit": j.get("fit", 0),
             "label": j.get("label", ""),
@@ -127,7 +144,7 @@ def analyze(resume_text: str, top_k: int = 10):
         for jd in result.get("openings", []):
             jobs.append({
                 "title": jd.get("title", ""),
-                "company": jd.get("company", ""),
+                "company": _clean_company(jd.get("company", "")),
                 "url": jd.get("url", ""),
                 "fit": 0, "label": "", "why": "", "gaps": "",
             })

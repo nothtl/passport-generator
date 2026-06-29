@@ -35,7 +35,8 @@ def analyze(resume_text: str, top_k: int = 10):
     # Step 2: Extract skills using smart extractor (ESCO vocab + n-grams)
     skills = _extract_skills(resume_text)
 
-    # Filter noise: keep multi-word skills + top 20 single words by IDF
+    # Filter noise: keep multi-word skills + single words above median IDF
+    # Threshold comes from the data (median IDF of this function's skills), not hardcoded
     from recommender.retrieve.retriever import _compute_idf
     try:
         idf = _compute_idf(func)
@@ -43,14 +44,14 @@ def analyze(resume_text: str, top_k: int = 10):
         _norm2 = lambda s: _re2.sub(r'[- ,/]', '', s.lower())
         multi = [s for s in skills if ' ' in s]
         single = [(s, idf.get(_norm2(s), 0)) for s in skills if ' ' not in s]
-        single.sort(key=lambda x: -x[1])
-        top_single = [s for s, _ in single[:20]]
-        skills = multi + top_single
+        if single:
+            single.sort(key=lambda x: -x[1])
+            median_idf = sorted([v for _, v in single])[len(single)//2]
+            threshold = max(0.5, median_idf)  # at least 0.5
+            top_single = [s for s, v in single if v >= threshold]
+            skills = multi + top_single
     except Exception:
         pass
-
-    # Cap at 30 skills for readability
-    skills = skills[:30]
 
     # Load function features for skill filtering
     import json

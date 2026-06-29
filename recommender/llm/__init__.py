@@ -222,9 +222,11 @@ def enhance(analysis: dict, resume_text: str) -> dict:
         result.get("missing_skills", []),
     )
     if inferred:
-        result["inferred_skills"] = inferred[:5]  # cap at 5
+        # Keep at most 30% of total gaps, minimum 3
+        max_infer = max(3, int(len(result.get("missing_skills", [])) * 0.3))
+        result["inferred_skills"] = inferred[:max_infer]
         # Remove inferred from gaps
-        result["missing_skills"] = [s for s in result.get("missing_skills", []) if s not in inferred]
+        result["missing_skills"] = [s for s in result.get("missing_skills", []) if s not in inferred[:max_infer]]
 
     # 3. Skill evidence
     evidence = extract_skill_evidence(resume_text, result.get("skills_extracted", [])[:15])

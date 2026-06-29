@@ -306,10 +306,13 @@ def match_role(text: str) -> dict | None:
       - O*NET:      0.15 (niche occupation vocabulary)
       - Embeddings:  0.35 (semantic bridge)
     """
-    # Get all three signals
+    # Get signals — embedding may fail if sentence_transformers unavailable
     s1 = _classifier_probas(text)
     s2 = _onet_probas(text)
-    s3 = _embedding_probas(text)
+    try:
+        s3 = _embedding_probas(text)
+    except Exception:
+        s3 = {}  # graceful degradation
 
     # Expert voting: each signal gets one vote (its top pick).
     # If 2+ experts agree, that wins. Otherwise, highest confidence wins.

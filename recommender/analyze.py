@@ -171,6 +171,13 @@ def main():
             print(f"  {alt['function']:25s} {alt['match_pct']}%")
         print()
 
+    if result.get("inferred_skills"):
+        print("=" * 60)
+        print("INFERRED SKILLS (AI deduces these from your other skills)")
+        print("=" * 60)
+        print("  " + ", ".join(result["inferred_skills"]))
+        print()
+
     if result.get("gap_explanation"):
         print("=" * 60)
         print("COACH NOTES (AI)")
@@ -185,17 +192,19 @@ def main():
         if result.get("ready_jobs"):
             print("  READY (apply now):")
             for j in result["ready_jobs"][:3]:
-                why = j.get("why", "")[:80]
                 print("    [{}%] {} @ {}".format(j.get("fit",0), j.get("title","")[:50], j.get("company","")[:25]))
-                if why:
-                    print("          " + why)
+                if j.get("why_fits"):
+                    print("          Why:  " + j["why_fits"][:120])
+                if j.get("remaining_gaps"):
+                    print("          Gaps: " + j["remaining_gaps"][:120])
         if result.get("target_jobs"):
             print("  TARGET (growth path):")
             for j in result["target_jobs"][:3]:
-                why = j.get("why", "")[:80]
                 print("    [{}%] {} @ {}".format(j.get("fit",0), j.get("title","")[:50], j.get("company","")[:25]))
-                if why:
-                    print("          " + why)
+                if j.get("why_fits"):
+                    print("          Why:  " + j["why_fits"][:120])
+                if j.get("remaining_gaps"):
+                    print("          Gaps: " + j["remaining_gaps"][:120])
         print()
 
     if result.get("openings"):

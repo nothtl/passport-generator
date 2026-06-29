@@ -144,11 +144,11 @@ def evaluate_jobs(resume_text: str, jobs: list[dict], skills: list[str]) -> list
         for i, j in enumerate(jobs[:5])
     )
 
-    prompt = f"""Rate each job for this resume (0-100 fit). Label: "ready" (apply now),
-"target" (growth path), or "reach" (major gaps).
+    prompt = f"""For each job, rate fit (0-100). Label: "ready" (apply now), "target" (growth path), or "reach" (major gaps).
+Include WHY this job fits and what specific gaps remain.
 
 Return JSON: {{"evaluations": [
-  {{"job_index": 1, "fit": 75, "label": "ready", "why": "..."}},
+  {{"job_index": 1, "fit": 75, "label": "ready", "why_fits": "...", "remaining_gaps": "..."}},
   ...
 ]}}
 
@@ -252,7 +252,8 @@ def enhance(analysis: dict, resume_text: str) -> dict:
                 job = dict(result["openings"][idx])
                 job["fit"] = ev.get("fit", 0)
                 job["label"] = ev.get("label", "target")
-                job["why"] = ev.get("why", "")
+                job["why_fits"] = ev.get("why_fits", ev.get("why", ""))
+                job["remaining_gaps"] = ev.get("remaining_gaps", "")
                 if ev.get("label") == "ready":
                     result["ready_jobs"].append(job)
                 else:

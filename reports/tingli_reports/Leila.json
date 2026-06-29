@@ -84,7 +84,6 @@
     "customerservice",
     "earlychildhoodeducation",
     "coaching",
-    "firstaid",
     "teamcollaboration",
     "parentcommunication",
     "datacollection"
@@ -152,18 +151,19 @@
   ],
   "llm_enhanced": true,
   "llm_reclassified": true,
-  "llm_reasoning": "The resume shows a BS in Health Science, volunteer work managing a flu vaccination POD, home health aide training, and a case management internship in a community care setting. All experiences are directly related to healthcare delivery and administration.",
+  "llm_reasoning": "The resume includes a BS in Health Science, volunteer experience managing a flu vaccination clinic, training as a home health aide, and a case management internship in a community care setting. All of these are directly related to the healthcare field.",
   "inferred_skills": [
     "communication",
     "teamwork",
     "documentation",
-    "organization"
+    "organization",
+    "firstaid"
   ],
   "skill_evidence": [
     {
       "skill": "case management",
       "evidence": "Created training for case management including Epic and VMware.",
-      "proficiency": "proficient"
+      "proficiency": "developing"
     },
     {
       "skill": "home health",
@@ -192,8 +192,8 @@
     },
     {
       "skill": "care",
-      "evidence": "Platinum Home Care -- Home Health Aide",
-      "proficiency": "proficient"
+      "evidence": "Woodhull Community Care -- Case Management Intern",
+      "proficiency": "developing"
     },
     {
       "skill": "care -- home",
@@ -203,7 +203,7 @@
     {
       "skill": "epic",
       "evidence": "Created training for case management including Epic and VMware.",
-      "proficiency": "proficient"
+      "proficiency": "developing"
     },
     {
       "skill": "flu",
@@ -236,82 +236,6 @@
       "proficiency": "proficient"
     }
   ],
-  "gap_explanation": "The most critical gaps are classroom management, child development, and lesson planning, as these are foundational for roles in pediatric or school-based healthcare settings where structured educational environments are common. Without these, you may lack the ability to manage groups of children effectively or tailor care to developmental stages. To address this, consider taking a short course in early childhood education or volunteering in a classroom setting to gain hands-on experience.",
-  "job_evaluations": [
-    {
-      "job_index": 1,
-      "fit": 70,
-      "label": "target",
-      "why": "Strong match in healthcare and training skills; home health and case management experience are relevant, but may lack formal trainer role experience."
-    },
-    {
-      "job_index": 2,
-      "fit": 55,
-      "label": "target",
-      "why": "Experience with care and assisting children is relevant, but lacks specific PreK-4th grade paraprofessional or classroom experience."
-    },
-    {
-      "job_index": 3,
-      "fit": 60,
-      "label": "target",
-      "why": "Care and assisting skills align with assistant teacher role; however, no Montessori or formal teaching experience is evident."
-    },
-    {
-      "job_index": 4,
-      "fit": 80,
-      "label": "ready",
-      "why": "Volunteer experience and care background are directly applicable; internship/volunteer roles are a good fit for entry-level or growth."
-    },
-    {
-      "job_index": 5,
-      "fit": 65,
-      "label": "target",
-      "why": "Child care and coordination skills are relevant, but lacks specific school-age site coordination experience; part-time may be a good growth step."
-    }
-  ],
-  "ready_jobs": [
-    {
-      "title": "Internships / Volunteer Opportunities!",
-      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
-      "fit": 80,
-      "label": "ready",
-      "why": "Volunteer experience and care background are directly applicable; internship/volunteer roles are a good fit for entry-level or growth."
-    }
-  ],
-  "target_jobs": [
-    {
-      "title": "Trainer I",
-      "company": "kansashealthsystem",
-      "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/job/Shawnee-Mission-KS/Trainer-I_R-53647-1",
-      "fit": 70,
-      "label": "target",
-      "why": "Strong match in healthcare and training skills; home health and case management experience are relevant, but may lack formal trainer role experience."
-    },
-    {
-      "title": "SY 26/27 PreK - 4th Grade Paraprofessional",
-      "company": "KIPP",
-      "url": "https://jobs.smartrecruiters.com/KIPP/744000113263917",
-      "fit": 55,
-      "label": "target",
-      "why": "Experience with care and assisting children is relevant, but lacks specific PreK-4th grade paraprofessional or classroom experience."
-    },
-    {
-      "title": "Montessori Assistant Teacher: Louisville, KY",
-      "company": "day1academies",
-      "url": "https://job-boards.greenhouse.io/day1academies/jobs/8577926002",
-      "fit": 60,
-      "label": "target",
-      "why": "Care and assisting skills align with assistant teacher role; however, no Montessori or formal teaching experience is evident."
-    },
-    {
-      "title": "School Age Child Care Site Coordinator E Syracuse-Minoa- Part Time",
-      "company": "87e48064-1e87-4bbe-abe0-6d65e861917a",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3971698",
-      "fit": 65,
-      "label": "target",
-      "why": "Child care and coordination skills are relevant, but lacks specific school-age site coordination experience; part-time may be a good growth step."
-    }
-  ],
-  "llm_timing_ms": 13497
+  "gap_explanation": "The most critical gaps are classroom management, child development, and lesson planning, as these are core requirements for roles in pediatric or school-based healthcare settings, which often involve coordinating care plans and educational activities. To bridge these gaps, you could take a free online course in early childhood education or volunteer in a classroom setting to gain hands-on experience with lesson planning and child behavior management. This will directly align your background in case management and home health with the specific needs of these job postings.",
+  "llm_timing_ms": 17138
 }

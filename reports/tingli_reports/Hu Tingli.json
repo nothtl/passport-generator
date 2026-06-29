@@ -124,6 +124,7 @@
     "architecture"
   ],
   "missing_skills": [
+    "sql",
     "javascript",
     "troubleshooting",
     "dataanalysis",
@@ -131,7 +132,6 @@
     "java",
     "typescript",
     "react",
-    "linux",
     "c++"
   ],
   "alternatives": [
@@ -199,12 +199,12 @@
   "inferred_skills": [
     "python",
     "cloud deployment",
-    "documentation",
-    "sql",
-    "testing",
     "data analysis",
+    "documentation",
+    "testing",
+    "debugging",
     "git",
-    "debugging"
+    "linux"
   ],
   "skill_evidence": [
     {
@@ -234,7 +234,7 @@
     },
     {
       "skill": "autonomous systems",
-      "evidence": "Technical Skills: ... Autonomous Systems.",
+      "evidence": "Technical Skills: Autonomous Systems.",
       "proficiency": "proficient"
     },
     {
@@ -259,22 +259,22 @@
     },
     {
       "skill": "cloud",
-      "evidence": "Technical Skills: ... Cloud Infrastructure",
+      "evidence": "Technical Skills: Cloud Infrastructure",
       "proficiency": "proficient"
     },
     {
       "skill": "cloud infrastructure",
-      "evidence": "Technical Skills: ... Cloud Infrastructure",
+      "evidence": "Technical Skills: Cloud Infrastructure",
       "proficiency": "proficient"
     },
     {
       "skill": "computer",
-      "evidence": "Technical Skills: ... Computer Vision",
+      "evidence": "Technical Skills: Computer Vision",
       "proficiency": "proficient"
     },
     {
       "skill": "computer vision",
-      "evidence": "Technical Skills: ... Computer Vision",
+      "evidence": "Technical Skills: Computer Vision",
       "proficiency": "proficient"
     },
     {
@@ -283,37 +283,42 @@
       "proficiency": "proficient"
     }
   ],
-  "gap_explanation": "The most critical gaps are JavaScript and TypeScript, as they are foundational for front-end and full-stack development roles, which are prevalent in tech. Additionally, communication is vital for collaborating with teams and stakeholders, especially in architecture and automation roles. To address these, focus on building a portfolio project using React with TypeScript and practice explaining technical concepts clearly in mock interviews.",
+  "gap_explanation": "SQL and data analysis are critical gaps because nearly all technology roles require querying databases and deriving insights from data, which are foundational for AI/ML and automation work. Communication is also essential for articulating complex technical solutions to stakeholders and collaborating effectively on cross-functional teams. Prioritize learning SQL through hands-on projects and practice articulating your AI work in clear, non-technical terms to bridge these gaps.",
   "job_evaluations": [
     {
       "job_index": 1,
-      "fit": 75,
+      "fit": 80,
       "label": "ready",
-      "why": "Strong match with backend Python development, cloud infrastructure, and Azure skills. Junior role aligns with career-readiness."
+      "why_fits": "Strong alignment with Python backend development, cloud infrastructure (Azure), and automation skills. Junior role matches career-readiness level.",
+      "remaining_gaps": "No specific mention of AI/ML or agentic AI, which are core strengths. May need to demonstrate basic backend frameworks (e.g., FastAPI, Django) if not already in resume."
     },
     {
       "job_index": 2,
-      "fit": 30,
+      "fit": 45,
       "label": "reach",
-      "why": "Requires US government clearance and specialized domain expertise; resume lacks government or security-specific experience."
+      "why_fits": "Relevant skills in cloud, automation, and AI could apply to government software engineering. Internship provides growth opportunity.",
+      "remaining_gaps": "Major gaps: US Government clearance requirement (likely citizenship needed), no explicit Palantir-like platform experience, and internship level may require stronger software engineering fundamentals beyond current resume focus."
     },
     {
       "job_index": 3,
-      "fit": 85,
+      "fit": 90,
       "label": "ready",
-      "why": "Excellent alignment with AI/ML, agentic AI, and automation skills. Directly applicable to AI developer role."
+      "why_fits": "Direct match with AI development, AI/ML, agentic AI, and automation. Cloud and Azure skills are highly relevant.",
+      "remaining_gaps": "No specific mention of Atlassian tools (e.g., Jira, Confluence) or experience with their ecosystem. May need to highlight any prior work with similar platforms."
     },
     {
       "job_index": 4,
-      "fit": 20,
+      "fit": 30,
       "label": "reach",
-      "why": "Mandatory bilingualism in English and Japanese/Korean not indicated; systems engineering focus diverges from AI/cloud strengths."
+      "why_fits": "Systems engineering internship could leverage cloud infrastructure and automation skills.",
+      "remaining_gaps": "Major gaps: Must be bilingual in English and Japanese/Korean (not indicated in resume). No explicit systems engineering or networking experience. Internship level may require different technical focus."
     },
     {
       "job_index": 5,
-      "fit": 60,
+      "fit": 70,
       "label": "target",
-      "why": "Software engineering intern role fits general skills but lacks specific Replit or platform experience; growth path to full-stack or cloud roles."
+      "why_fits": "Software engineering internship aligns with cloud, automation, and AI skills. Replit's focus on developer tools matches career-readiness.",
+      "remaining_gaps": "Gaps: No specific mention of Replit platform or collaborative coding environments. May need to strengthen full-stack or web development skills beyond current AI/cloud focus."
     }
   ],
   "ready_jobs": [
@@ -321,17 +326,19 @@
       "title": "Programmeur(euse) junior BackEnd Python",
       "company": "tehora",
       "url": "https://apply.workable.com/j/7BECF7E823",
-      "fit": 75,
+      "fit": 80,
       "label": "ready",
-      "why": "Strong match with backend Python development, cloud infrastructure, and Azure skills. Junior role aligns with career-readiness."
+      "why_fits": "Strong alignment with Python backend development, cloud infrastructure (Azure), and automation skills. Junior role matches career-readiness level.",
+      "remaining_gaps": "No specific mention of AI/ML or agentic AI, which are core strengths. May need to demonstrate basic backend frameworks (e.g., FastAPI, Django) if not already in resume."
     },
     {
       "title": "AI Developer ",
       "company": "atlassand",
       "url": "https://job-boards.greenhouse.io/atlassand/jobs/8589983002",
-      "fit": 85,
+      "fit": 90,
       "label": "ready",
-      "why": "Excellent alignment with AI/ML, agentic AI, and automation skills. Directly applicable to AI developer role."
+      "why_fits": "Direct match with AI development, AI/ML, agentic AI, and automation. Cloud and Azure skills are highly relevant.",
+      "remaining_gaps": "No specific mention of Atlassian tools (e.g., Jira, Confluence) or experience with their ecosystem. May need to highlight any prior work with similar platforms."
     }
   ],
   "target_jobs": [
@@ -339,26 +346,29 @@
       "title": "Forward Deployed Software Engineer, Internship - US Government",
       "company": "palantir",
       "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
-      "fit": 30,
+      "fit": 45,
       "label": "reach",
-      "why": "Requires US government clearance and specialized domain expertise; resume lacks government or security-specific experience."
+      "why_fits": "Relevant skills in cloud, automation, and AI could apply to government software engineering. Internship provides growth opportunity.",
+      "remaining_gaps": "Major gaps: US Government clearance requirement (likely citizenship needed), no explicit Palantir-like platform experience, and internship level may require stronger software engineering fundamentals beyond current resume focus."
     },
     {
       "title": "Intern - Systems Engineering - Must Be Bilingual in English and Japanese/Korean",
       "company": "extremenetworks",
       "url": "https://jobs.lever.co/extremenetworks/ebbd4bf7-15a0-43f6-b54c-bf087d9d14ab",
-      "fit": 20,
+      "fit": 30,
       "label": "reach",
-      "why": "Mandatory bilingualism in English and Japanese/Korean not indicated; systems engineering focus diverges from AI/cloud strengths."
+      "why_fits": "Systems engineering internship could leverage cloud infrastructure and automation skills.",
+      "remaining_gaps": "Major gaps: Must be bilingual in English and Japanese/Korean (not indicated in resume). No explicit systems engineering or networking experience. Internship level may require different technical focus."
     },
     {
       "title": "Software Engineering Intern (Summer 2026)",
       "company": "replit",
       "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
-      "fit": 60,
+      "fit": 70,
       "label": "target",
-      "why": "Software engineering intern role fits general skills but lacks specific Replit or platform experience; growth path to full-stack or cloud roles."
+      "why_fits": "Software engineering internship aligns with cloud, automation, and AI skills. Replit's focus on developer tools matches career-readiness.",
+      "remaining_gaps": "Gaps: No specific mention of Replit platform or collaborative coding environments. May need to strengthen full-stack or web development skills beyond current AI/cloud focus."
     }
   ],
-  "llm_timing_ms": 11276
+  "llm_timing_ms": 14775
 }

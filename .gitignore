@@ -1,1 +1,3 @@
 jd_exports/*.csv
+.env
+reports/tingli_reports/*.json

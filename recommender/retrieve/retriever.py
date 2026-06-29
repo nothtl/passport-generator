@@ -35,6 +35,7 @@ _FALLBACK_MAP = {
 
 _cached_df: dict[str, Any] = {}
 _cached_idf: dict[str, dict[str, float]] = {}
+_cached_pmi: dict[str, dict[tuple[str, str], float]] = {}
 
 
 def _resolve_func(func_lower: str) -> str:
@@ -113,6 +114,77 @@ def _compute_idf(func_lower: str) -> dict[str, float]:
     return idf
 
 
+
+
+def _compute_pmi(func_lower: str) -> dict[tuple[str, str], float]:
+    """Compute PMI for skill pairs in this function's JD corpus."""
+    df = _load_df(func_lower)
+    if df is None or "skills" not in df.columns:
+        return {}
+
+    N = len(df)
+
+    def _norm(s):
+        return re.sub(r"[- ,/]", "", str(s).lower())
+
+    single_freq: dict[str, int] = {}
+    pair_freq: dict[tuple[str, str], int] = {}
+
+    for skills in df["skills"]:
+        if skills is None:
+            continue
+        normed = []
+        seen = set()
+        for s in (list(skills) if hasattr(skills, "__iter__") else []):
+            if isinstance(s, str):
+                n = _norm(s)
+                if n and n not in seen:
+                    normed.append(n)
+                    seen.add(n)
+        for n in normed:
+            single_freq[n] = single_freq.get(n, 0) + 1
+        for i in range(len(normed)):
+            for j in range(i + 1, len(normed)):
+                a, b = normed[i], normed[j]
+                if a > b:
+                    a, b = b, a
+                pair_freq[(a, b)] = pair_freq.get((a, b), 0) + 1
+
+    pmi = {}
+    for (a, b), pair_count in pair_freq.items():
+        if pair_count < 3:
+            continue
+        p_a = single_freq.get(a, 0) / N
+        p_b = single_freq.get(b, 0) / N
+        if p_a <= 0 or p_b <= 0:
+            continue
+        p_ab = pair_count / N
+        score = math.log(p_ab / (p_a * p_b))
+        if score > 0.15:
+            pmi[(a, b)] = round(score, 3)
+
+    return pmi
+
+
+def get_related_skills(function: str, student_skills: list[str], top_k: int = 10) -> list[tuple[str, float]]:
+    """Find skills the student lacks that co-occur with ones they have."""
+    def _norm(s):
+        return re.sub(r"[- ,/]", "", str(s).lower())
+
+    pmi = _compute_pmi(function.lower())
+    student_normed = {_norm(s) for s in student_skills}
+
+    related = {}
+    for (a, b), score in pmi.items():
+        has_a = a in student_normed
+        has_b = b in student_normed
+        if has_a and not has_b:
+            related[b] = max(related.get(b, 0), score)
+        elif has_b and not has_a:
+            related[a] = max(related.get(a, 0), score)
+
+    ranked = sorted(related.items(), key=lambda x: -x[1])
+    return ranked[:top_k]
 
 
 def get_jd_skill_vocabulary(function: str) -> set[str]:

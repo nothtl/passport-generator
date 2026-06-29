@@ -19,7 +19,7 @@ if _PROJECT_DIR not in sys.path:
 
 from recommender.extract.skill_extractor import extract_skills_from_text as _extract_skills
 from recommender.match.ensemble_matcher import match_role as _match_role
-from recommender.retrieve.retriever import retrieve_jds
+from recommender.retrieve.retriever import retrieve_jds, get_related_skills
 
 
 def analyze(resume_text: str, top_k: int = 10):
@@ -44,7 +44,10 @@ def analyze(resume_text: str, top_k: int = 10):
     from recommender.extract.skill_extractor import extract_skills_for_function
     has_skills, missing_skills = extract_skills_for_function(resume_text, func)
 
-    # Step 4: Retrieve real job openings (IDF weighting handles skill relevance)
+    # Step 4: Find related skills via PMI
+    related_skills = get_related_skills(func, skills)
+
+    # Step 5: Retrieve real job openings
     jds = retrieve_jds(func, "Entry", skills, top_k=top_k)
 
     # Step 5: Filter skills to JD vocabulary for meaningful gap display
@@ -76,6 +79,7 @@ def analyze(resume_text: str, top_k: int = 10):
         "level": "Entry",
         "match_pct": best["match_pct"],
         "skills_extracted": skills,
+        "related_skills": [(s, round(sc, 2)) for s, sc in related_skills[:8]],
         "market_skills": market_skills,
         "has_skills": has_skills,
         "missing_skills": market_missing,
@@ -128,6 +132,14 @@ def main():
             row = all_skills[i:i+cols]
             print(f"    " + "  ".join(f"[Y] {s:<30s}" for s in row))
     print()
+    related = result.get('related_skills', [])
+    if related:
+        print("=" * 60)
+        print("RELATED SKILLS (co-occur with yours in real job postings)")
+        print("=" * 60)
+        items = ", ".join("{} ({:.1f})".format(s, sc) for s, sc in related)
+        print("  " + items)
+        print()
     market = result.get('market_skills', [])
     print(f"  Market-relevant ({len(market)}/{len(all_skills)} appear in job postings)")
     print()

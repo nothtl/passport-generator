@@ -17,25 +17,28 @@ _PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 if _PROJECT_DIR not in sys.path:
     sys.path.insert(0, _PROJECT_DIR)
 
-from recommender.extract.skill_extractor import extract_skills_from_text, extract_skills_for_function
+from recommender.extract.skill_extractor import extract_skills_from_text as _extract_skills
 from recommender.match.ensemble_matcher import match_role as _match_role
 from recommender.retrieve.retriever import retrieve_jds
 
 
 def analyze(resume_text: str, top_k: int = 10):
     """Run the full pipeline and return a dict."""
-    # Step 1: Classify into function using ML model
+    # Step 1: Classify into function
     best = _match_role(resume_text)
     if not best:
         return {"error": "Could not classify resume", "skills_found": []}
 
     func = best["function"]
 
-    # Step 2: Extract skills using that function's data-driven features
-    skills = extract_skills_from_text(resume_text, function=func)
+    # Step 2: Extract skills using smart extractor (ESCO vocab + n-grams)
+    skills = _extract_skills(resume_text)
+
+    # Step 3: Get has/missing from classifier features
+    from recommender.extract.skill_extractor import extract_skills_for_function
     has_skills, missing_skills = extract_skills_for_function(resume_text, func)
 
-    # Step 3: Retrieve real job openings
+    # Step 4: Retrieve real job openings
     jds = retrieve_jds(func, "Entry", skills, top_k=top_k)
 
     return {
@@ -84,10 +87,17 @@ def main():
     print()
 
     print("=" * 60)
-    print("SKILLS (data-driven from ML model)")
+    print("SKILLS (ESCO vocabulary + tech term detection)")
     print("=" * 60)
-    print(f"  Has ({len(result['has_skills'])}):    {', '.join(result['has_skills'][:15])}")
-    print(f"  Missing ({len(result['missing_skills'])}): {', '.join(result['missing_skills'][:10])}")
+    skills = result.get('skills_extracted', [])
+    print(f"  Found ({len(skills)}):")
+    cols = 3
+    for i in range(0, len(skills), cols):
+        row = skills[i:i+cols]
+        print(f"    " + "  ".join(f"[Y] {s:<35s}" for s in row))
+    print()
+    if result.get('has_skills'):
+        print(f"  Matched classifier features: {', '.join(result['has_skills'][:10])}")
     print()
 
     if result.get("all_probas"):

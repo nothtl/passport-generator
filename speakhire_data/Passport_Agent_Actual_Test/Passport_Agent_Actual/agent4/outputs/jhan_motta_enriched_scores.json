@@ -1,0 +1,155 @@
+{
+  "student_name": "Jhan Motta",
+  "email": "jhanmottap@gmail.com",
+  "scores": {
+    "EC": {
+      "score": 30.17,
+      "sub_scores": {
+        "Verbal": 19.1667,
+        "Written": 5.0,
+        "Interpersonal": 0.0,
+        "CrossCultural": 6.0
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.6,
+      "reasoning": "Jhan Motta finds value in maintaining professional connections via LinkedIn and Email, showcasing proactive communication efforts."
+    },
+    "GC": {
+      "score": 45.8,
+      "sub_scores": {
+        "D1_Empathy": 0.0083,
+        "D2_Community": 0.6483,
+        "D3_Cultural": 0.95,
+        "D4_Network": 0.68,
+        "D5_Volunteering": 0.0
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.48,
+      "reasoning": "Jhan Motta demonstrates strong cultural awareness and community connection through a stated understanding of how cultural values shape career choices and a high community feel."
+    },
+    "RFF": {
+      "score": 66.4,
+      "sub_scores": {
+        "D1_SelfReflection": 0.685,
+        "D2_GoalSetting": 0.61,
+        "D3_FutureCareer": 0.5233,
+        "D4_CollegePrep": 0.8367
+      },
+      "source": "survey+docs",
+      "data_coverage": 1.0,
+      "reasoning": "Jhan aspires to an acting career, demonstrating future career clarity and a clear goal for professional growth."
+    },
+    "CR": {
+      "score": 61.2,
+      "sub_scores": {
+        "C1": 0,
+        "C2": 60.0,
+        "C3": 85,
+        "C4": 100
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.88,
+      "reasoning": "Jhan developed strong technical skills and a 100% resume quality, demonstrating readiness."
+    },
+    "CT": {
+      "score": 25,
+      "thinking_arc": "Jhan Motta's fashion modeling experience demonstrates an ability to adapt to different professional contexts and present effectively.",
+      "key_evidence": "Fashion Model",
+      "depth_signal": "surface",
+      "source": "docs",
+      "reasoning": "Jhan Motta's fashion modeling experience demonstrates an ability to adapt to different professional contexts and present effectively."
+    },
+    "CI": {
+      "score": 65,
+      "innovation_arc": "Jhan Motta's work as an actor in short films showcases an ability to creatively embody characters and contribute to artistic productions.",
+      "key_evidence": "Actor, Short Film, Theatre Student",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Jhan Motta's work as an actor in short films showcases an ability to creatively embody characters and contribute to artistic productions."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts - conflict management": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": "Stage Light Management at Lehman College, Actor at Behind Immigration (Short Film), Fashion Model at Independent",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Empathy": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Humble": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Listen": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Include Others Who Are Different": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Deal with Conflicts": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Lead With Authenticity": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Community Connected": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    }
+  },
+  "fields_enriched_count": 15,
+  "fields_still_missing": [
+    "FY1 Hours Volunteered",
+    "Connected Champions",
+    "FY1 - Hours Volunteered"
+  ],
+  "llm_calls_made": 20
+}

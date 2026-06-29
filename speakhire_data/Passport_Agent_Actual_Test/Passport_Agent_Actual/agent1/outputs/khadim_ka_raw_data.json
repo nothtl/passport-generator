@@ -1,0 +1,425 @@
+{
+  "student_name": "Khadim Ka",
+  "email": "khadim.ka@ellisprep.com",
+  "found_in": [
+    "Interns_20260512T143927-0400.csv",
+    "FULL SpeakHire Database 2026.xlsx::Interns",
+    "FULL SpeakHire Database 2026.xlsx::Hub Users 226",
+    "SPEAKHIRE FY Internship Round Exit Survey.csv"
+  ],
+  "fields": {
+    "English - Spoken": {
+      "value": "Very Comfortable",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Rate your Career Pathways Champion (1-10)": {
+      "value": 10.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Community Feel (Quant)": {
+      "value": 7.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "Any suggestions to make the Foundational Year a better experience": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Did you find a way to stay in touch": {
+      "value": "Yes",
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "What are three skills you have that will help you in your future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "Listen to others (post)": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Deal with conflicts - conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "After meeting Champions, I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Languages": {
+      "value": "Wolof, French",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Pre Empathy": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Humble": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Listen": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Include Others Who Are Different": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Deal with Conflicts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Lead With Authenticity": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Listen to others": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Community Connected": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Culture Feel": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I understand how my cultural values can shape my career choices": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round": {
+      "value": 1.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "Meeting with my Champions during school helped me feel like I belong in school": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I feel more engaged in school and participate more than before": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I made new friends during the Foundational Year": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "FY1 Ever Volunteered": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "FY1 Hours Volunteered": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "What are three adjectives that describe the person you are and why": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "Hope to Gain": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "What do you hope to gain by going through this program": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "SMART GOAL": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "Remember the SMART Goal you set - next round": {
+      "value": "I will improve my overall average, Measurable: by 5 points, Attainable: from a 90 to 95 Relevant: by applying the skills I learn from my Champions in my academic work, Timely: by the end of the school year",
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Know How To Pursue Careers": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel more prepared for my future career": {
+      "value": 1.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "If you do not have a job, what is your ideal future career job": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel ready and prepared for college": {
+      "value": 7.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "FY1 Feel College Ready and Prepped": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel I am now a stronger candidate for college and careers": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel I am now more prepared for college": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY helped realize doing well connects to my career goals": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker was a relatable role model": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY1 - Ever Volunteered?": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "CR"
+    },
+    "FY1 - Hours Volunteered": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "CR"
+    },
+    "FY1 - Had Internship?": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "CR"
+    },
+    "FY1 - Had/Have Job?": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "CR"
+    },
+    "Total Sessions Attended": {
+      "value": "16",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Total Sessions Scheduled": {
+      "value": "16",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Connected Champions": {
+      "value": "Sunkyung Park, Christina Thomas",
+      "source": "FULL SpeakHire Database 2026.xlsx::Interns",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC What skill did you cover": {
+      "value": "Competitive Research | Competitive Research & Analysis | We wrapped up the \"competitive research\" skill this week. | Planning an Event/Meeting | Planning an event/meeting | We met and introduced ourselves, learned more about each other's interests and career potential. We will begin covering skills next week. | Competitive research & analysis | Planning an event or a meeting | We discussed Communication skills. | Competitive Research - we will go over this in more detail next week | Competitive Research & Analysis | Planning an Event | Event Planning | Event Planning | Communication | Communication | Today we reviewed the career ecosystem | We reviewed the three skills that are going to be covered this round. | Competitive Research & Analysis | Planning an event/meeting | Planning a meeting/event especially when it comes to Informational Interviews. | Communication | We did not review specific skills yet, just went over the 3 skills that we will cover over the next 9 sessions | Competitive research & analysis | Resumes | Resume building and planning events | we covered planning an event/meeting | Presentations/ Emotional Intelligence | We covered networking and articles to expand on their interestss | Presentations, Organizing tasks, and Resume | Networking, Presentations, Internships, Volunteering | We discussed their resumes and interviews | Interviewing | Interviews",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC What component skill did you cover": {
+      "value": "Identify Your Objective | Identifying Competitors | Session 3 was \"how to summarize research & learnings\". I intend to share this in the 2/24 session in more detail  hopefully when Nazim is also in the session! | Pre-production/Planning | Hosting an event/delegating tasks as a leader of an event | We reviewed the overall skills we will go over during this round. We did not go into specific detail on a component skill yet! | Identifying the objective of doing the competitive research | Hosting the day of, delegating tasks, running an event the day of | We reviewed interviews - the different types of interviews there are, whether for yourself or as part of your job (interviewing someone for public relations, etc.) | Identifying your objective - we will go over this in more detail next week | How To Summarize/Present Your Research | Pre-production of planning an event | Hosting the event/day-of responsibilities | Post-event recaps/post-event summaries | Writing/Written Communication | Presentations | We will cover skills/components next week! | Identifying competitors | Leading and delegating | Planning a meeting/event especially when it comes to Informational Interviews. | Interviewing | identifying your objective, and identifying your competitors | Building out our resume | Marketing an event or recurring meeting | we covered the 5 W's of an event, post session summaries | Dos and Donts for slides, the importance of EQ | Networking | Presentations and Time management | Emotional Intelligence and Presentations | Asking the right questions and preparing for interviews | Asking questions | Interviewing",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Discussion topics": {
+      "value": "We discussed Nazim's wish to review more about Cover Letters, her interest in geometry and geography as school subjects, and also how Sancho wants to work in law enforcement and the steps to get there. To illustrate competitive research, Nazim gave a recent example of shopping for makeup online and how she compared different colors, textures, and brands. Sancho shared how he would ask current law enforcement officers about their jobs and how they got there to gather more information on the process. | We discussed that it is okay to be undecided on what major/career to pursue, and that competitive research skills can be applied to identify pros and cons of major or career interests. Nazim shared a great example of how she googled different banks to open a bank account. She compared Wells Fargo (which her father uses), Bank of America, and TD Bank, and decided to open Bank of America because of how easy it was to sign up. Sanat shared his interest in video games and the difference between Epic Games vs EA. He outlined the different games that are under each company and why he prefers Epic Games. \n\nWe wrapped up the session discussing different ways Nazim/Sanat are bringing in their unique global perspective and international experience into the classroom, and I shared how this is applied in my career. I was happy to learn that Nazim was sharing her experience of growing up in Kazakhstan in a recent class. | Sanat shared that he is engaging in different activities in his community to really build up his candidacy for the police academy. He understands that he needs to be a part of the community and this will help him with his future career path. | Real life examples, how planning an event is also a great way to show leadership, Determining the WHO WHAT WHERE WHEN WHY of a meeting so there is a clear objective and communication. | We discussed summer plans, and potential internships for the summer as it is a good time to be thinking about and applying to summer internship programs. I shared my experiences of doing summer internships in high school and how I found them (reached out/emailed for opportunities). Sancho is going to his home country for the summer so we discussed different ways for him to still use his skills and communication strengths while he is there (local tourguide for english speakers). | Mouhamed shared his aspirations of becoming a doctor, and Zakaria shared his aspirations of being a physical therapist and/or something in business. I shared my background in marketing and how marketing can be used across various industries/disciplines. | We discussed different ways we use competitive research and sometimes subconsciously analyze and make these decisions. We compared different approaches and reasons for joining specific gyms, and how we apply this critical thinking in our daily lives. | We discussed how due to covid it has been difficult to plan events but that it is possible, potentially planning events for the community based on their interests, and did some role play on hosting an event | I asked them to think about Informational Interviews so they can both explore more of their career interests. Next week I hope that they will each bring 2-3 questions they have for someone they want to do an informational interview with. | I learned a bit more about the student's interests. Yuzhi is interested in business, his favorite class being mathematics, Elian is interested in tourism and soccer, and Cleidy is interested in arts, design, and paiting. | Application of skills in future jobs/careers, the added benefit of presenting competitive research in an internship setting | Real life examples of large scale events like the Olympics, and smaller community events. We also talked about planning a potential event using Speakhire as an example. | Website design, website analytics and how this relates to marketing, planning an event | Discussed summer plans and potential internships, events we have attended or planned in the past and what went well, what we could improve. | Copywriting, how writing/communication carry through in Websites, Email, Social Media, Information Interviews and how to request one. | We discussed the different format of presentations, whether it is a powerpoint or a live event, there are many ways to give and deliver a presentation. | We discussed our interests, potential summer internship/job plans, career interests, favorite subjects. | We discussed our favorite subjects in school, what our interests are, and potential future college/career opportunities. | We reviewed advertising, market size, comparing different brands, and minimum advertised price (MAP). | We reviewed a version of a photoshoot call-sheet and how and when this is shared, we role-played a photoshoot and who would be doing what, etc., we made sure to take some time and look at the internship database and different opportunities with deadlines that may be coming up in January. | Discussed LinkedIn and its resources and tools, how to look up different industries and jobs to understand the prerequisites and expectations. | communication, interviews, preparing for mock interviews, different types of interviews and their use, professions that manage this (i.e. public relations, publicists, etc.) | I shared my experience in Marketing and my background. | we discussed different career interests and potential areas of study, we discussed upcoming school projects/papers (history), future summer plans and preparing our resumes | Different formats for resumes and adding in skills/education backgrounds in resumes. | linkedin, resumes, and communication skills | we discussed summer plans, future event planning and leadership building, and we role played a potential Speakhire Event to build awareness for underclassmen to learn about the program. | We spoke about internship opportunities and the importance of getting involved and networking. | We got to know each other and discuss volunteering and how to learn more about areas of interest. | We discussed how to prepare for presentations, time management and organization, and the interns' career interests | We discussed the value of volunteering, maintain relationships, building confidence outside of school, part time jobs and how to be a well rounded professional | Interview questions and professional development | How to prepare for interviews, we did a mock interview, and discussed continuous improvement | Discussed strengths/weakness",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Why": {
+      "value": "It was lovely meeting Nazim and Sanat (Sancho). I learned about their interests both in school and outside of school, and we discussed their aspirations and goals for this round. | Nazim and I had about 10-15 minutes for 1:1 time as Sanat was late to the session. I think she opened up more in the beginning because it was just the two of us. She seemed a bit more relaxed. Once Sanat/Sancho joined, we backtracked a bit to review what we had previously discussed, but looped him into the discussion quickly. | This is for the session on February 17th. Sanat and I had a 1:1 session as Nazim was not available. This was a good opportunity to get to know Sanat a bit more and his aspirations, his family, friends, and school life. I enjoyed speaking to him about how he plans to prepare to enter law enforcement. | Had a nice discussion and shared a real life example of an NYPD press conference that occurred in front of my office building. I think both Sanat and Nazim enjoyed the real-life example on planning an event. | It's always a pleasure to speak with Nazim and Sanat - they always bring a unique perspective on how to apply some of the skills that we review into their real life. | It was really nice meeting both Mouhamed and Zakaria! | I'm glad we didn't have any tech issues and I was able to see both interns on video! It took a little bit to get both interns warmed up, but once they did we had a nice convo. | I enjoyed the session with Zakaria and Mohammed, they brought great energy and enthusiasm and we got to know each other more. | It's always a pleasure to see Zakaria and Mouhamed on Mondays! | The students were a little shy this session which I find is the case with the first few sessions. Since we started the overall session as a group reviewing the video, we didn't have enough time to review the full Session 1 skill set/component. We will continue this in the upcoming session. | We had a great session reviewing Competitive Research and some examples of my past work in presenting my findings | I always enjoy the sessions with Elian and Tom - unfortunately Cleidy was absent today. | We finally were able to all meet together and catch up on everything! | We were able to finish our 2nd skill: Event Planning. We discussed summer plans as well. | We were able to successfully have a makeup session with all 3 of the interns! | We discussed the last skill component under Communication/Presentation and was able to complete the round and all of the things we wanted to cover! | It was so lovely to meet the new interns for this round! We had a great time introducing ourselves and sharing what our interests are. | It was a pleasure meeting the interns. We missed Jhoana but hope she can join next time. | Everyone was in attendance and we had a great discussion about Competitive Research | The students were all engaged, kept their cameras on, and had some nice updates to share regarding their ongoing school projects. | We discussed different types of interviews and the importance of communication | It was a great session to get to know the new interns, we discussed the previous round and what they found was helpful, and also the areas of interest for study/profession. | We had a productive discussion about competitive research and used real life examples and career interests to drive our research discussions. | We were able to review resumes in more depth in this session | We were able to bring on another intern today and get him up to speed on Marketing and some of our lessons. | we were able to discuss a wide range of topics | The interns asked great questions! There were some bumps in the initial session before the breakout room, but I am sure subsequent meetings will be smoother. | It was good to speak to Mezaher 1:1 but the other interns dropped. | The interns asked really amazing questions about volunteering and part time jobs and scholarships.",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume additions": {
+      "value": "Competitive Research & Analysis | Competitive Research & Analysis | Competitive Research & Analysis, Communication | Event Planning | Event Planning | We reviewed the 3 skills that we want to add this round. | Competitive research and analysis | Event planning | Communication | N/a | Competitive Research & Analysis | Planning An Event | Event Planning | Event Planning | Communication Skills | Communication! | We reviewed where the resume lives, and the Interns will make a copy and save their versions for next week. | Competitive Research | Event Planning | Event Planning/Meeting Planning/Organization | Communication | Competitive research and analysis | Speakhire experience should be added to intern resumes | event planning | Planning an event | Presentations | Networking | We discussed tailoring resumes to different job types. They will be sending me their resumes, so we can have more in depth future discussions. | Networking | I am reviewing their resumes | Communication",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Anything else": {
+      "value": "I am planning to share some more visual resources in a powerpoint/presentation format so Nazim and Sanat can both hear and read what we are discussing. We are looking forward to reviewing cover letters and resumes in more detail next week and I have asked both to plan to share screens! | Sanat mentioned he was having trouble with a teacher, who was unfairly marking him as \"absent\" and booting him off the class. He has spoken to a counselor about it and still feels that the issue has not been resolved. I informed him that perhaps the teacher that is connected to the SPEAKHIRE program can further support him, but it looks like she may be on leave of absence. I'm wondering if there's anything that can be done on my end to support him. | We had some tech issues and poor connection the first few minutes so it took us some time to get set up. Next time we are hoping it is a smoother start so we can go right into the skill review!",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Session Count": {
+      "value": 34,
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC All Session Text": {
+      "value": "Competitive Research | Competitive Research & Analysis | We wrapped up the \"competitive research\" skill this week. | Planning an Event/Meeting | Planning an event/meeting | We met and introduced ourselves, learned more about each other's interests and career potential. We will begin covering skills next week. | Competitive research & analysis | Planning an event or a meeting | We discussed Communication skills. | Competitive Research - we will go over this in more detail next week | Competitive Research & Analysis | Planning an Event | Event Planning | Event Planning | Communication | Communication | Today we reviewed the career ecosystem | We reviewed the three skills that are going to be covered this round. | Competitive Research & Analysis | Planning an event/meeting | Planning a meeting/event especially when it comes to Informational Interviews. | Communication | We did not review specific skills yet, just went over the 3 skills that we will cover over the next 9 sessions | Competitive research & analysis | Resumes | Resume building and planning events | we covered planning an event/meeting | Presentations/ Emotional Intelligence | We covered networking and articles to expand on their interestss | Presentations, Organizing tasks, and Resume | Networking, Presentations, Internships, Volunteering | We discussed their resumes and interviews | Interviewing | Interviews | Identify Your Objective | Identifying Competitors | Session 3 was \"how to summarize research & learnings\". I intend to share this in the 2/24 session in more detail  hopefully when Nazim is also in the session! | Pre-production/Planning | Hosting an event/delegating tasks as a leader of an event | We reviewed the overall skills we will go over during this round. We did not go into specific detail on a component skill yet! | Identifying the objective of doing the competitive research | Hosting the day of, delegating tasks, running an event the day of | We reviewed interviews - the different types of interviews there are, whether for yourself or as part of your job (interviewing someone for public relations, etc.) | Identifying your objective - we will go over this in more detail next week | How To Summarize/Present Your Research | Pre-production of planning an event | Hosting the event/day-of responsibilities | Post-event recaps/post-event summaries | Writing/Written Communication | Presentations | We will cover skills/components next week! | Identifying competitors | Leading and delegating | Planning a meeting/event especially when it comes to Informational Interviews. | Interviewing | identifying your objective, and identifying your competitors | Building out our resume | Marketing an event or recurring meeting | we covered the 5 W's of an event, post session summaries | Dos and Donts for slides, the importance of EQ | Networking | Presentations and Time management | Emotional Intelligence and Presentations | Asking the right questions and preparing for interviews | Asking questions | Interviewing | We discussed Nazim's wish to review more about Cover Letters, her interest in geometry and geography as school subjects, and also how Sancho wants to work in law enforcement and the steps to get there. To illustrate competitive research, Nazim gave a recent example of shopping for makeup online and how she compared different colors, textures, and brands. Sancho shared how he would ask current law enforcement officers about their jobs and how they got there to gather more information on the process. | We discussed that it is okay to be undecided on what major/career to pursue, and that competitive research skills can be applied to identify pros and cons of major or career interests. Nazim shared a great example of how she googled different banks to open a bank account. She compared Wells Fargo (which her father uses), Bank of America, and TD Bank, and decided to open Bank of America because of how easy it was to sign up. Sanat shared his interest in video games and the difference between Epic Games vs EA. He outlined the different games that are under each company and why he prefers Epic Games. \n\nWe wrapped up the session discussing different ways Nazim/Sanat are bringing in their unique global perspective and international experience into the classroom, and I shared how this is applied in my career. I was happy to learn that Nazim was sharing her experience of growing up in Kazakhstan in a recent class. | Sanat shared that he is engaging in different activities in his community to really build up his candidacy for the police academy. He understands that he needs to be a part of the community and this will help him with his future career path. | Real life examples, how planning an event is also a great way to show leadership, Determining the WHO WHAT WHERE WHEN WHY of a meeting so there is a clear objective and communication. | We discussed summer plans, and potential internships for the summer as it is a good time to be thinking about and applying to summer internship programs. I shared my experiences of doing summer internships in high school and how I found them (reached out/emailed for opportunities). Sancho is going to his home country for the summer so we discussed different ways for him to still use his skills and communication strengths while he is there (local tourguide for english speakers). | Mouhamed shared his aspirations of becoming a doctor, and Zakaria shared his aspirations of being a physical therapist and/or something in business. I shared my background in marketing and how marketing can be used across various industries/disciplines. | We discussed different ways we use competitive research and sometimes subconsciously analyze and make these decisions. We compared different approaches and reasons for joining specific gyms, and how we apply this critical thinking in our daily lives. | We discussed how due to covid it has been difficult to plan events but that it is possible, potentially planning events for the community based on their interests, and did some role play on hosting an event | I asked them to think about Informational Interviews so they can both explore more of their career interests. Next week I hope that they will each bring 2-3 questions they have for someone they want to do an informational interview with. | I learned a bit more about the student's interests. Yuzhi is interested in business, his favorite class being mathematics, Elian is interested in tourism and soccer, and Cleidy is interested in arts, design, and paiting. | Application of skills in future jobs/careers, the added benefit of presenting competitive research in an internship setting | Real life examples of large scale events like the Olympics, and smaller community events. We also talked about planning a potential event using Speakhire as an example. | Website design, website analytics and how this relates to marketing, planning an event | Discussed summer plans and potential internships, events we have attended or planned in the past and what went well, what we could improve. | Copywriting, how writing/communication carry through in Websites, Email, Social Media, Information Interviews and how to request one. | We discussed the different format of presentations, whether it is a powerpoint or a live event, there are many ways to give and deliver a presentation. | We discussed our interests, potential summer internship/job plans, career interests, favorite subjects. | We discussed our favorite subjects in school, what our interests are, and potential future college/career opportunities. | We reviewed advertising, market size, comparing different brands, and minimum advertised price (MAP). | We reviewed a version of a photoshoot call-sheet and how and when this is shared, we role-played a photoshoot and who would be doing what, etc., we made sure to take some time and look at the internship database and different opportunities with deadlines that may be coming up in January. | Discussed LinkedIn and its resources and tools, how to look up different industries and jobs to understand the prerequisites and expectations. | communication, interviews, preparing for mock interviews, different types of interviews and their use, professions that manage this (i.e. public relations, publicists, etc.) | I shared my experience in Marketing and my background. | we discussed different career interests and potential areas of study, we discussed upcoming school projects/papers (history), future summer plans and preparing our resumes | Different formats for resumes and adding in skills/education backgrounds in resumes. | linkedin, resumes, and communication skills | we discussed summer plans, future event planning and leadership building, and we role played a potential Speakhire Event to build awareness for underclassmen to learn about the program. | We spoke about internship opportunities and the importance of getting involved and networking. | We got to know each other and discuss volunteering and how to learn more about areas of interest. | We discussed how to prepare for presentations, time management and organization, and the interns' career interests | We discussed the value of volunteering, maintain relationships, building confidence outside of school, part time jobs and how to be a well rounded professional | Interview questions and professional development | How to prepare for interviews, we did a mock interview, and discussed continuous improvement | Discussed strengths/weakness | It was lovely meeting Nazim and Sanat (Sancho). I learned about their interests both in school and outside of school, and we discussed their aspirations and goals for this round. | Nazim and I had about 10-15 minutes for 1:1 time as Sanat was late to the session. I think she opened up more in the beginning because it was just the two of us. She seemed a bit more relaxed. Once Sanat/Sancho joined, we backtracked a bit to review what we had previously discussed, but looped him into the discussion quickly. | This is for the session on February 17th. Sanat and I had a 1:1 session as Nazim was not available. This was a good opportunity to get to know Sanat a bit more and his aspirations, his family, friends, and school life. I enjoyed speaking to him about how he plans to prepare to enter law enforcement. | Had a nice discussion and shared a real life example of an NYPD press conference that occurred in front of my office building. I think both Sanat and Nazim enjoyed the real-life example on planning an event. | It's always a pleasure to speak with Nazim and Sanat - they always bring a unique perspective on how to apply some of the skills that we review into their real life. | It was really nice meeting both Mouhamed and Zakaria! | I'm glad we didn't have any tech issues and I was able to see both interns on video! It took a little bit to get both interns warmed up, but once they did we had a nice convo. | I enjoyed the session with Zakaria and Mohammed, they brought great energy and enthusiasm and we got to know each other more. | It's always a pleasure to see Zakaria and Mouhamed on Mondays! | The students were a little shy this session which I find is the case with the first few sessions. Since we started the overall session as a group reviewing the video, we didn't have enough time to review the full Session 1 skill set/component. We will continue this in the upcoming session. | We had a great session reviewing Competitive Research and some examples of my past work in presenting my findings | I always enjoy the sessions with Elian and Tom - unfortunately Cleidy was absent today. | We finally were able to all meet together and catch up on everything! | We were able to finish our 2nd skill: Event Planning. We discussed summer plans as well. | We were able to successfully have a makeup session with all 3 of the interns! | We discussed the last skill component under Communication/Presentation and was able to complete the round and all of the things we wanted to cover! | It was so lovely to meet the new interns for this round! We had a great time introducing ourselves and sharing what our interests are. | It was a pleasure meeting the interns. We missed Jhoana but hope she can join next time. | Everyone was in attendance and we had a great discussion about Competitive Research | The students were all engaged, kept their cameras on, and had some nice updates to share regarding their ongoing school projects. | We discussed different types of interviews and the importance of communication | It was a great session to get to know the new interns, we discussed the previous round and what they found was helpful, and also the areas of interest for study/profession. | We had a productive discussion about competitive research and used real life examples and career interests to drive our research discussions. | We were able to review resumes in more depth in this session | We were able to bring on another intern today and get him up to speed on Marketing and some of our lessons. | we were able to discuss a wide range of topics | The interns asked great questions! There were some bumps in the initial session before the breakout room, but I am sure subsequent meetings will be smoother. | It was good to speak to Mezaher 1:1 but the other interns dropped. | The interns asked really amazing questions about volunteering and part time jobs and scholarships.",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume Text": {
+      "value": "Competitive Research & Analysis | Competitive Research & Analysis | Competitive Research & Analysis, Communication | Event Planning | Event Planning | We reviewed the 3 skills that we want to add this round. | Competitive research and analysis | Event planning | Communication | N/a | Competitive Research & Analysis | Planning An Event | Event Planning | Event Planning | Communication Skills | Communication! | We reviewed where the resume lives, and the Interns will make a copy and save their versions for next week. | Competitive Research | Event Planning | Event Planning/Meeting Planning/Organization | Communication | Competitive research and analysis | Speakhire experience should be added to intern resumes | event planning | Planning an event | Presentations | Networking | We discussed tailoring resumes to different job types. They will be sending me their resumes, so we can have more in depth future discussions. | Networking | I am reviewing their resumes | Communication",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    }
+  },
+  "field_summary": {
+    "total": 68,
+    "found": 21,
+    "missing": 47
+  }
+}

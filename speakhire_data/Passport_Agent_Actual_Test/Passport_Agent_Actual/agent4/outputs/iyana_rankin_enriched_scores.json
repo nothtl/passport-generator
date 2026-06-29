@@ -1,0 +1,209 @@
+{
+  "student_name": "Iyana Rankin",
+  "email": "iyanarankin05@gmail.com",
+  "scores": {
+    "EC": {
+      "score": 23.92,
+      "sub_scores": {
+        "Verbal": 5.0,
+        "Written": 1.25,
+        "Interpersonal": 13.3333,
+        "CrossCultural": 4.3333
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.2,
+      "reasoning": "Iyana Rankin demonstrated effective communication by spending time getting to know others and discussing personal branding in her recent sessions."
+    },
+    "GC": {
+      "score": 32.5,
+      "sub_scores": {
+        "D1_Empathy": 0.325,
+        "D2_Community": 0.295,
+        "D3_Cultural": 0.15,
+        "D4_Network": 0.42,
+        "D5_Volunteering": 0.545
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.17,
+      "reasoning": "As Team Lead at Madrag, Iyana Rankin organized store displays, demonstrating a proactive approach to community engagement through visual presentation."
+    },
+    "RFF": {
+      "score": 30.7,
+      "sub_scores": {
+        "D1_SelfReflection": 0.52,
+        "D2_GoalSetting": 0.49,
+        "D3_FutureCareer": 0.0,
+        "D4_CollegePrep": 0.2167
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.26,
+      "reasoning": "Iyana aspires to gain skills for a future job and has set a SMART goal to improve drawing anatomy and develop an art style."
+    },
+    "CR": {
+      "score": 65.2,
+      "sub_scores": {
+        "C1": 30,
+        "C2": 76.0,
+        "C3": 55,
+        "C4": 100
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.94,
+      "reasoning": "Iyana Rankin demonstrates leadership by managing store operations and training as a Team Lead, showcasing professionalism and responsibility."
+    },
+    "CT": {
+      "score": 45,
+      "thinking_arc": "Iyana Rankin's experience as a Youth Intern demonstrates analytical initiative through collaborative problem-solving and the development of communication skills.",
+      "key_evidence": "Youth Intern, Counselor, Team Lead",
+      "depth_signal": "surface",
+      "source": "docs",
+      "reasoning": "Iyana Rankin's experience as a Youth Intern demonstrates analytical initiative through collaborative problem-solving and the development of communication skills."
+    },
+    "CI": {
+      "score": 50,
+      "innovation_arc": "Iyana Rankin's work as a Team Lead at Madrag involved creative merchandising and store re-organization, showcasing initiative beyond standard retail tasks.",
+      "key_evidence": "Madrag Team Lead, Visual Merchandising, Store Reorganization",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Iyana Rankin's work as a Team Lead at Madrag involved creative merchandising and store re-organization, showcasing initiative beyond standard retail tasks."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts - conflict management": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "What are three skills you have that will help you in your future career": {
+      "value": "Highly organized \n\n  Great communication \n\n  Time and task management \n\n  Basic Computer Skills \n\n  Responsible \n\n  Team Player \n\n  Sensitive to Needs \n\n  Problem Solving \n\n  G suite \n\n  Microsoft/Zoom",
+      "source": "docs",
+      "was_missing": true
+    },
+    "FY1 Hours Volunteered": {
+      "value": "10-20",
+      "source": "docs",
+      "was_missing": true
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I made new friends during the Foundational Year": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Empathy": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Humble": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Listen": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Include Others Who Are Different": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Deal with Conflicts": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Lead With Authenticity": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Community Connected": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel ready and prepared for college": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel more prepared for my future career": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "FY1 Ever Volunteered": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": false,
+      "doc_override": true
+    }
+  },
+  "fields_enriched_count": 22,
+  "fields_still_missing": [
+    "Any suggestions to make the Foundational Year a better experience",
+    "Rate your Career Pathways Champion (1-10)",
+    "FY helped realize doing well connects to my career goals",
+    "The Speaker helped me think about my future career pathway",
+    "The topic inspired me to think more about my future career",
+    "FY1 - Hours Volunteered",
+    "After meeting Champions, I better understand people who are different from me",
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+    "Did you learn something about other careers from other Career Cohorts",
+    "Meeting with my Champions during school helped me feel like I belong in school",
+    "The Speaker was a relatable role model",
+    "I feel I am now a stronger candidate for college and careers",
+    "If you do not have a job, what is your ideal future career job",
+    "I feel more engaged in school and participate more than before",
+    "I feel I am now more prepared for college",
+    "The Speaker inspired me to think more about my future career",
+    "What are three adjectives that describe the person you are and why",
+    "The topic helped me think about my future career pathway",
+    "Remember the SMART Goal you set - next round",
+    "Did you find a way to stay in touch",
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round"
+  ],
+  "llm_calls_made": 16
+}

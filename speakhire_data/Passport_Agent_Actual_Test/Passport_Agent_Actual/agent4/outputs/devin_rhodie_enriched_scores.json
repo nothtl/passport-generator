@@ -1,0 +1,192 @@
+{
+  "student_name": "Devin Rhodie",
+  "email": "devinrhodie@gmail.com",
+  "scores": {
+    "EC": {
+      "score": 36.83,
+      "sub_scores": {
+        "Verbal": 22.9167,
+        "Written": 6.25,
+        "Interpersonal": 5.0,
+        "CrossCultural": 2.6667
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.4,
+      "reasoning": "Devin's experience developing a web app to display recycling centers demonstrates communication skills through user-friendly interface design and location-based search integration."
+    },
+    "GC": {
+      "score": 49.1,
+      "sub_scores": {
+        "D1_Empathy": 0.1,
+        "D2_Community": 0.7833,
+        "D3_Cultural": 0.6,
+        "D4_Network": 0.42,
+        "D5_Volunteering": 1.0
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.26,
+      "reasoning": "Devin's 90-100 hours of volunteering and high community feel demonstrate commitment to civic engagement and supporting others."
+    },
+    "RFF": {
+      "score": 66.4,
+      "sub_scores": {
+        "D1_SelfReflection": 0.715,
+        "D2_GoalSetting": 0.69,
+        "D3_FutureCareer": 0.71,
+        "D4_CollegePrep": 0.5417
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.58,
+      "reasoning": "Devin's goal to boost grades by 90's using program skills shows clear future planning."
+    },
+    "CR": {
+      "score": 78.8,
+      "sub_scores": {
+        "C1": 40,
+        "C2": 100.0,
+        "C3": 75,
+        "C4": 100
+      },
+      "source": "survey+docs",
+      "data_coverage": 1.0,
+      "reasoning": "Devin's Software Engineer Intern roles demonstrate applied technical skills and professionalism, evidenced by refactoring React components for improved usability."
+    },
+    "CT": {
+      "score": 75,
+      "thinking_arc": "Devin Rhodie's refactoring of React modal components demonstrates analytical problem-solving and technical reasoning in a software development context.",
+      "key_evidence": "Software engineering, React refactoring, UI debranding, Program management, C++ programming",
+      "depth_signal": "deep",
+      "source": "docs",
+      "reasoning": "Devin Rhodie's refactoring of React modal components demonstrates analytical problem-solving and technical reasoning in a software development context."
+    },
+    "CI": {
+      "score": 75,
+      "innovation_arc": "Devin Rhodie's 'MIDI App' demonstrates original creation by designing cross-device software for real-time music playback with unique input methods.",
+      "key_evidence": "MIDI App, COMIX GUI Application",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Devin Rhodie's 'MIDI App' demonstrates original creation by designing cross-device software for real-time music playback with unique input methods."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts - conflict management": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Any suggestions to make the Foundational Year a better experience": {
+      "value": "Software Engineering Student at Rochester Institute of Technology | Dean's List",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": "Software Engineer Intern at RIT SCOOP, Software Engineer Intern at UpperLine Code",
+      "source": "docs",
+      "was_missing": true
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Meeting with my Champions during school helped me feel like I belong in school": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel more engaged in school and participate more than before": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Empathy": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Humble": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Listen": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Include Others Who Are Different": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Deal with Conflicts": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Lead With Authenticity": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Community Connected": {
+      "value": 1,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel I am now a stronger candidate for college and careers": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel I am now more prepared for college": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    }
+  },
+  "fields_enriched_count": 21,
+  "fields_still_missing": [
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+    "I made new friends during the Foundational Year",
+    "The Speaker was a relatable role model",
+    "The topic inspired me to think more about my future career",
+    "The topic helped me think about my future career pathway",
+    "The Speaker inspired me to think more about my future career",
+    "After meeting Champions, I better understand people who are different from me",
+    "The Speaker helped me think about my future career pathway",
+    "FY helped realize doing well connects to my career goals",
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network"
+  ],
+  "llm_calls_made": 22
+}

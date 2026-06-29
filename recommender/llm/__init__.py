@@ -144,7 +144,7 @@ def evaluate_jobs(resume_text: str, jobs: list[dict], skills: list[str]) -> list
         return []
 
     job_descriptions = "\n\n".join(
-        f"JOB {i+1}: {j.get('title', '')} at {j.get('company', '')}"
+        f"JOB {i+1}: {j.get('title', '')[:80]}"
         for i, j in enumerate(jobs[:5])
     )
 

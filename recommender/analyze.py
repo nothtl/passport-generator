@@ -35,6 +35,20 @@ def analyze(resume_text: str, top_k: int = 10):
     # Step 2: Extract skills using smart extractor (ESCO vocab + n-grams)
     skills = _extract_skills(resume_text)
 
+    # Filter noise: keep multi-word skills + top 20 single words by IDF
+    from recommender.retrieve.retriever import _compute_idf
+    try:
+        idf = _compute_idf(func)
+        import re as _re2
+        _norm2 = lambda s: _re2.sub(r'[- ,/]', '', s.lower())
+        multi = [s for s in skills if ' ' in s]
+        single = [(s, idf.get(_norm2(s), 0)) for s in skills if ' ' not in s]
+        single.sort(key=lambda x: -x[1])
+        top_single = [s for s, _ in single[:20]]
+        skills = multi + top_single
+    except Exception:
+        pass
+
     # Load function features for skill filtering
     import json
     cls_path = os.path.join(os.path.dirname(__file__), 'data', 'classifier_skills.json')

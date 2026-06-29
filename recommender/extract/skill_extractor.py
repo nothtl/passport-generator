@@ -1,13 +1,14 @@
 """
-Data-driven skill extraction — vocabulary membership only.
+Data-driven skill extraction — JD vocabulary membership with fuzzy matching.
 
 1. Tokenize resume into 1-3 grams
-2. Check each n-gram against 110K-term ESCO + O*NET vocabulary
-3. Return matched terms
+2. Normalize each n-gram (strip hyphens/spaces)
+3. Check normalized form against normalized JD vocabulary
+4. Return display-form matches
 
-No skip lists, no length filters, no regex patterns, no proper noun detection.
-The 110K vocabulary is the only filter — terms not in the vocabulary are simply
-not skills. IDF weighting happens downstream in the retriever.
+Both the vocabulary and normalization are purely data-driven.
+The vocabulary is built from all JD parquet files (~67K unique skills).
+No hand-coded rules, no ESCO dependency.
 """
 
 from __future__ import annotations
@@ -23,60 +24,66 @@ if TYPE_CHECKING:
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _VOCAB_PATH = os.path.join(_HERE, "..", "data", "skill_vocabulary.json")
 
-_vocabulary: set[str] | None = None
+_vocab_normalized: set[str] | None = None
 
 
-def _load_vocabulary() -> set[str]:
-    global _vocabulary
-    if _vocabulary is None:
+def _load_vocab_norm() -> set[str]:
+    global _vocab_normalized
+    if _vocab_normalized is None:
         with open(_VOCAB_PATH, encoding="utf-8") as f:
-            _vocabulary = set(json.load(f))
-    return _vocabulary
+            raw = json.load(f)
+        _vocab_normalized = {re.sub(r"[- ]", "", s) for s in raw}
+    return _vocab_normalized
 
 
-def _tokenize(text: str) -> list[str]:
-    """Generate 1-3 grams from text. Pure algorithm, no hand-coded rules."""
-    cleaned = re.sub(r"[^a-z\s]", " ", text.lower())
+def _tokenize(text: str) -> list[tuple[str, str]]:
+    """Generate 1-3 grams. Returns (display, normalized) pairs."""
+    cleaned = re.sub(r"[^a-z\s-]", " ", text.lower())
     cleaned = re.sub(r"\s+", " ", cleaned).strip()
     words = cleaned.split()
     if not words:
         return []
 
+    def _norm(s):
+        return re.sub(r"[- ]", "", s)
+
     ngrams = []
     for i in range(len(words)):
-        ngrams.append(words[i])
+        ngrams.append((words[i], _norm(words[i])))
         if i + 1 < len(words):
-            ngrams.append(f"{words[i]} {words[i+1]}")
+            phrase = f"{words[i]} {words[i+1]}"
+            ngrams.append((phrase, _norm(phrase)))
         if i + 2 < len(words):
-            ngrams.append(f"{words[i]} {words[i+1]} {words[i+2]}")
+            phrase = f"{words[i]} {words[i+1]} {words[i+2]}"
+            ngrams.append((phrase, _norm(phrase)))
     return ngrams
 
 
 def extract_skills_from_text(text: str, function: str | None = None) -> list[str]:
-    """Extract skills: tokenize → check vocabulary → return matches.
+    """Extract skills: tokenize -> normalize -> check JD vocabulary -> return display forms.
 
-    ~1ms. No hand-coded rules. The 110K ESCO+O*NET vocabulary is the sole filter.
+    ~2ms. Normalization bridges "computer vision" <-> "computer-vision".
+    Vocabulary from 67K JD skill names. No hand-coded rules.
     """
     if not text:
         return []
 
-    vocabulary = _load_vocabulary()
+    vocab_norm = _load_vocab_norm()
     candidates = _tokenize(text)
 
     seen = set()
     skills = []
-    for phrase in candidates:
-        if phrase in seen or len(phrase) < 3:
+    for display, normed in candidates:
+        if normed in seen or len(normed) < 3:
             continue
-        if phrase in vocabulary:
-            skills.append(phrase)
-            seen.add(phrase)
+        if normed in vocab_norm:
+            skills.append(display)
+            seen.add(normed)
 
     return sorted(skills)
 
 
 def extract_skills_for_function(text: str, function: str) -> tuple[list[str], list[str]]:
-    """Extract skills and compute has/missing vs function's expected skills."""
     found = extract_skills_from_text(text)
     cls_path = os.path.join(_HERE, "..", "data", "classifier_skills.json")
     with open(cls_path) as f:

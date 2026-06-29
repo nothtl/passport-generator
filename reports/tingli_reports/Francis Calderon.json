@@ -1,0 +1,161 @@
+{
+  "function": "arts-media",
+  "confidence": 18,
+  "skills": [
+    "- bilingual",
+    "- typingskills",
+    "activities",
+    "care",
+    "cat",
+    "children",
+    "dance",
+    "education",
+    "exhibits",
+    "extracurricular activities",
+    "games",
+    "gmail",
+    "high school",
+    "intern",
+    "meals",
+    "paint",
+    "pdf",
+    "resume",
+    "sitter",
+    "spring"
+  ],
+  "market_relevant": [
+    "- bilingual",
+    "activities",
+    "care",
+    "children",
+    "dance",
+    "education",
+    "extracurricular activities",
+    "games",
+    "gmail",
+    "high school"
+  ],
+  "inferred": [
+    "communication",
+    "childcare",
+    "teamwork",
+    "organization"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "childdevelopment",
+    "lessonplanning",
+    "customerservice",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "teamcollaboration",
+    "parentcommunication",
+    "documentation",
+    "datacollection"
+  ],
+  "related": [
+    {
+      "skill": "drama",
+      "pmi": 5.83
+    },
+    {
+      "skill": "sports",
+      "pmi": 5.54
+    },
+    {
+      "skill": "artsandcrafts",
+      "pmi": 5.42
+    },
+    {
+      "skill": "translation",
+      "pmi": 4.26
+    },
+    {
+      "skill": "aquatics",
+      "pmi": 4.17
+    },
+    {
+      "skill": "spanish",
+      "pmi": 3.85
+    },
+    {
+      "skill": "campcounselor",
+      "pmi": 3.6
+    },
+    {
+      "skill": "psychology",
+      "pmi": 3.2
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 9
+    },
+    {
+      "function": "healthcare",
+      "pct": 8
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "ops",
+      "pct": 6
+    },
+    {
+      "function": "design",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational for any arts-media role involving children, such as teaching or leading creative workshops. Without these, you cannot effectively structure activities or ensure a safe, productive learning environment. To bridge these, consider taking a short online course in early childhood education basics and volunteering to assist in a classroom setting to gain hands-on experience.",
+  "jobs": [
+    {
+      "title": "Summer Camp Counselor - Memorial Jr. High ",
+      "company": "cleveymca",
+      "url": "https://jobs.dayforcehcm.com/cleveymca/CANDIDATEPORTAL/jobs/5321",
+      "fit": 80,
+      "label": "ready",
+      "why": "Your childcare and communication skills directly apply to camp counselor duties. Experience with activities and organization supports planning and supervising children.",
+      "gaps": "No specific experience with summer camps or working with middle schoolers mentioned. May need to highlight any relevant youth group or volunteer work."
+    },
+    {
+      "title": "SUN Extended Day Assistant",
+      "company": "6d37f9de-299c-4d37-a8dd-72b75d848703",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3953335",
+      "fit": 75,
+      "label": "ready",
+      "why": "Childcare and activity experience directly apply to extended day assistant role. Communication and organization skills support program coordination.",
+      "gaps": "No specific extended day or after-school program experience. May need to demonstrate ability to manage groups of children in a structured setting."
+    },
+    {
+      "title": "Instructional Aide Bilingual SY26-27",
+      "company": "districtofcolumbiainternationalschool",
+      "url": "https://job-boards.greenhouse.io/districtofcolumbiainternationalschool/jobs/5984531004",
+      "fit": 65,
+      "label": "target",
+      "why": "Bilingual skill is a strong match. Childcare and communication experience support instructional aide role. Organization skills help with classroom support.",
+      "gaps": "No formal teaching or classroom aide experience. Lacks specific bilingual education or school setting background. May need to develop understanding of instructional strategies."
+    },
+    {
+      "title": "NYS Certified Science Teacher",
+      "company": "williamsburgcharterhighschool",
+      "url": "https://williamsburgcharterhighschool.recruitee.com/o/nys-certified-science-teacher-3",
+      "fit": 10,
+      "label": "reach",
+      "why": "Communication and organization skills are transferable. Interest in education may align with teaching.",
+      "gaps": "No science background, teaching certification, or college degree in science. Major gaps in subject matter expertise and required credentials."
+    },
+    {
+      "title": "VRF/HVAC Sales Representative",
+      "company": "htseng",
+      "url": "https://jobs.dayforcehcm.com/htseng/CANDIDATEPORTAL/jobs/8215",
+      "fit": 15,
+      "label": "reach",
+      "why": "Communication skills are relevant for sales. Organization may help with client management.",
+      "gaps": "No sales experience, HVAC knowledge, or technical background. Major gaps in industry expertise and sales skills."
+    }
+  ]
+}

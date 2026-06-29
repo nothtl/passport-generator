@@ -1,0 +1,200 @@
+{
+  "function": "administrative",
+  "confidence": 21,
+  "skills": [
+    "- present",
+    "- resume",
+    "activities",
+    "bachelor",
+    "basketball",
+    "biking",
+    "business",
+    "canva",
+    "chinese",
+    "clerical",
+    "clerical support",
+    "css",
+    "databases",
+    "education",
+    "electronic",
+    "english",
+    "excel",
+    "feedback",
+    "friendly",
+    "gmail",
+    "html",
+    "html css",
+    "instagram",
+    "interpersonal",
+    "inventory",
+    "investment",
+    "javascript",
+    "leading",
+    "linkedin",
+    "mail",
+    "mail and packages",
+    "ms o",
+    "organizing",
+    "outgoing",
+    "pdf",
+    "physical",
+    "powerpoint",
+    "reading",
+    "replenishing supplies",
+    "reports",
+    "restaurant",
+    "science",
+    "service",
+    "structure",
+    "student",
+    "students",
+    "support",
+    "technical",
+    "technical skills",
+    "trash",
+    "volleyball",
+    "wait",
+    "wholesale",
+    "word",
+    "work study"
+  ],
+  "market_relevant": [
+    "clerical",
+    "clerical support",
+    "databases",
+    "education",
+    "english",
+    "excel",
+    "gmail",
+    "inventory",
+    "investment",
+    "outgoing",
+    "powerpoint",
+    "reports",
+    "technical skills",
+    "word"
+  ],
+  "inferred": [
+    "communication",
+    "attentiontodetail",
+    "dataentry"
+  ],
+  "gaps": [
+    "customerservice",
+    "accountspayable",
+    "financialreporting",
+    "cashhandling",
+    "accounting",
+    "accountsreceivable",
+    "generalledger",
+    "journalentries",
+    "compliance",
+    "financialanalysis",
+    "reconciliation",
+    "monthendclose"
+  ],
+  "related": [
+    {
+      "skill": "series63",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series65",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series66",
+      "pmi": 4.5
+    },
+    {
+      "skill": "series7",
+      "pmi": 4.27
+    },
+    {
+      "skill": "german",
+      "pmi": 4.12
+    },
+    {
+      "skill": "spanish",
+      "pmi": 3.93
+    },
+    {
+      "skill": "bilingual",
+      "pmi": 3.56
+    },
+    {
+      "skill": "accountmanagement",
+      "pmi": 3.52
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 15
+    },
+    {
+      "function": "arts-media",
+      "pct": 11
+    },
+    {
+      "function": "technology",
+      "pct": 9
+    },
+    {
+      "function": "ops",
+      "pct": 5
+    },
+    {
+      "function": "healthcare",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "The most critical gaps are customerservice, accountspayable, and financialreporting, as these are foundational for administrative roles involving client interaction and basic financial tasks. To address these, you should take online courses in customer service skills and accounting fundamentals (e.g., Coursera's 'Bookkeeping Basics'), and practice using accounting software like QuickBooks to gain hands-on experience.",
+  "jobs": [
+    {
+      "title": "Audit-Talent gesucht: Prüfungsassistent (m/w/d) mit Aufstiegsperspektive",
+      "company": "schwertfels",
+      "url": "https://apply.workable.com/j/1DEEDA2B3E",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Cash Collection Team Support",
+      "company": "dentons-europe",
+      "url": "https://apply.workable.com/j/E67EC1F481",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Bookkeeper and Administrative Coordinator (Remote, Part-Time)",
+      "company": "uptalent-dot-i-o",
+      "url": "https://apply.workable.com/j/54484520D3",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Bookkeeping Clerk",
+      "company": "4204149f-31b6-47f8-af48-b07a963a405a",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4255661",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Underwriter – Credit Insurance | Energy Transition Finance",
+      "company": "energeticcapital",
+      "url": "https://jobs.lever.co/energeticcapital/1885e3b8-7c8a-400b-90eb-40a914524988",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    }
+  ]
+}

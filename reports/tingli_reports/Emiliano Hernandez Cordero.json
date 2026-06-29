@@ -1,0 +1,236 @@
+{
+  "function": "food-service",
+  "confidence": 12,
+  "skills": [
+    "- resume",
+    "activities",
+    "bachelor",
+    "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
+    "can",
+    "canva",
+    "cash",
+    "cash transactions",
+    "classroom activities",
+    "cleanliness",
+    "cleanliness standards",
+    "communication",
+    "community events",
+    "criminal justice",
+    "customer service",
+    "distribution",
+    "documents",
+    "donations",
+    "education",
+    "efficiency",
+    "emails",
+    "english",
+    "english spanish",
+    "english spanish communication",
+    "event planning",
+    "events",
+    "fast-paced",
+    "food",
+    "food distribution",
+    "google",
+    "google suite",
+    "group instruction",
+    "high-volume",
+    "high-volume environment",
+    "hours",
+    "instruction",
+    "interpretation",
+    "languages",
+    "leadership",
+    "media",
+    "microsoft",
+    "microsoft office",
+    "multicultural",
+    "office",
+    "organized",
+    "pdf",
+    "planning",
+    "point-of-sale",
+    "point-of-sale systems",
+    "prepared food",
+    "program",
+    "quality",
+    "quality and cleanliness",
+    "safety",
+    "service",
+    "small group instruction",
+    "spanish",
+    "spanish communication",
+    "spanish-english",
+    "speak",
+    "sponsors",
+    "standards",
+    "student",
+    "student support",
+    "students",
+    "support",
+    "systems",
+    "teamwork",
+    "transactions",
+    "waitstaff"
+  ],
+  "market_relevant": [
+    "activities",
+    "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
+    "canva",
+    "classroom activities",
+    "cleanliness",
+    "communication",
+    "criminal justice",
+    "customer service",
+    "education",
+    "english",
+    "event planning",
+    "events",
+    "fast-paced",
+    "google suite",
+    "group instruction",
+    "instruction",
+    "interpretation",
+    "leadership",
+    "media",
+    "microsoft office",
+    "planning",
+    "point-of-sale",
+    "safety",
+    "service",
+    "small group instruction",
+    "spanish",
+    "spanish-english",
+    "student support",
+    "students",
+    "support",
+    "teamwork"
+  ],
+  "inferred": [
+    "organization",
+    "documentation",
+    "activityplanning"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "childdevelopment",
+    "childcare",
+    "lessonplanning",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "teamcollaboration",
+    "parentcommunication",
+    "datacollection",
+    "behaviormanagement",
+    "classmanagement"
+  ],
+  "related": [
+    {
+      "skill": "googleclassroom",
+      "pmi": 5.53
+    },
+    {
+      "skill": "privateinstruction",
+      "pmi": 4.37
+    },
+    {
+      "skill": "studentaffairs",
+      "pmi": 4.31
+    },
+    {
+      "skill": "translation",
+      "pmi": 4.26
+    },
+    {
+      "skill": "1on1instruction",
+      "pmi": 4.19
+    },
+    {
+      "skill": "mandarin",
+      "pmi": 4.13
+    },
+    {
+      "skill": "vendormanagement",
+      "pmi": 4.08
+    },
+    {
+      "skill": "dormmanagement",
+      "pmi": 4.02
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 9
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "ops",
+      "pct": 7
+    },
+    {
+      "function": "healthcare",
+      "pct": 6
+    },
+    {
+      "function": "food-service",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "The most critical gaps are classroom management, child development, and lesson planning, as these are foundational for roles in early childhood education or childcare settings, which often require direct interaction with children and structured learning activities. Without these skills, you may be ineligible for many food-service positions that involve school or daycare cafeterias, where supervising children and planning age-appropriate meals are key. To address this, consider taking a short online course in child development or classroom management, and highlight any volunteer work with children on your resume.",
+  "jobs": [
+    {
+      "title": "Dual Language Assistant",
+      "company": "14e61377-a63e-41e8-bf47-b84df4062da1",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
+      "fit": 85,
+      "label": "ready",
+      "why": "Strong alignment with bilingual skills (Spanish and English), multicultural experience, and communication abilities. Experience in fast-paced, organized environments supports this role.",
+      "gaps": "No specific experience listed in dual language education or working with children in an academic setting."
+    },
+    {
+      "title": "Subway Sandwich Artist",
+      "company": "PilotCompany",
+      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
+      "fit": 90,
+      "label": "ready",
+      "why": "Direct experience in high-volume food preparation, quality and cleanliness, and fast-paced environment. Bilingual skills are a plus for customer service.",
+      "gaps": "No specific mention of sandwich artistry or Subway procedures, but transferable skills are strong."
+    },
+    {
+      "title": "Mandarin - English Interpreter",
+      "company": "two95-international-inc-3",
+      "url": "https://apply.workable.com/j/4D6E7320EF",
+      "fit": 95,
+      "label": "ready",
+      "why": "Excellent match with bilingual (Spanish and English) and interpretation skills. Multicultural experience and strong communication abilities are directly applicable.",
+      "gaps": "No specific Mandarin language skills listed; job requires Mandarin-English interpretation, so this is a major gap unless the candidate has hidden Mandarin proficiency."
+    },
+    {
+      "title": "Temporary Tutor, Math",
+      "company": "palmbeachstate",
+      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Temporary-Tutor--Math_R0013816-1",
+      "fit": 40,
+      "label": "reach",
+      "why": "Organized and communication skills are relevant, and experience with Google Suite may be useful for administrative tasks.",
+      "gaps": "No math tutoring or teaching experience; lacks subject matter expertise in math and formal tutoring background."
+    },
+    {
+      "title": "Assistant Stunt Coach",
+      "company": "fedc287c-7ade-435f-98a1-2a72f595c7eb",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4160705",
+      "fit": 20,
+      "label": "reach",
+      "why": "Activity planning and organizational skills may be tangentially relevant. Fast-paced environment experience could help.",
+      "gaps": "No stunt coaching, physical training, or athletic background. Major gaps in required expertise and industry knowledge."
+    }
+  ]
+}

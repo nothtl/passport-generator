@@ -1,0 +1,258 @@
+{
+  "function": "protective-service",
+  "confidence": 16,
+  "skills": [
+    "- resume",
+    "access",
+    "access control",
+    "activity",
+    "assist",
+    "awareness",
+    "back of house",
+    "back-of-house operations",
+    "basic computer",
+    "basic computer skills",
+    "business",
+    "certifications",
+    "checks",
+    "cleanliness",
+    "cleanliness and safety",
+    "cleanup",
+    "closing",
+    "communication",
+    "compliance",
+    "computer",
+    "computer skills",
+    "control",
+    "courses",
+    "customer experience",
+    "customer service",
+    "customer-facing",
+    "customers",
+    "delivering",
+    "detail-oriented",
+    "english",
+    "equipment",
+    "equipment maintenance",
+    "fast-paced",
+    "flow",
+    "french",
+    "front-",
+    "guest satisfaction",
+    "hands-on",
+    "hands-on experience",
+    "high-end retail",
+    "license",
+    "loss prevention",
+    "luxury",
+    "luxury retail",
+    "maintenance",
+    "menu",
+    "menu knowledge",
+    "microsoft",
+    "microsoft word",
+    "movement",
+    "operations",
+    "pdf",
+    "policy",
+    "positive",
+    "positive customer experience",
+    "prep",
+    "prep work",
+    "presence",
+    "prevention",
+    "procedures",
+    "product",
+    "professional",
+    "professional communication",
+    "professional experience",
+    "relationships",
+    "reliable",
+    "reporting",
+    "restaurant",
+    "retail",
+    "retail environment",
+    "roles",
+    "safety",
+    "safety standards",
+    "sales",
+    "sales floor",
+    "satisfaction",
+    "security",
+    "security presence",
+    "security procedures",
+    "service",
+    "setup",
+    "setup cleanup",
+    "standards",
+    "stockroom",
+    "store policy",
+    "store security",
+    "table settings",
+    "traffic",
+    "waiter",
+    "windows",
+    "word",
+    "workstations"
+  ],
+  "market_relevant": [
+    "- resume",
+    "back of house",
+    "basic computer skills",
+    "cleanliness",
+    "cleanup",
+    "communication",
+    "compliance",
+    "computer skills",
+    "customer service",
+    "detail-oriented",
+    "english",
+    "equipment maintenance",
+    "fast-paced",
+    "hands-on",
+    "high-end retail",
+    "loss prevention",
+    "maintenance",
+    "menu knowledge",
+    "microsoft word",
+    "pdf",
+    "policy",
+    "prep",
+    "prep work",
+    "professional communication",
+    "reporting",
+    "restaurant",
+    "retail",
+    "safety",
+    "safety standards",
+    "sales",
+    "security",
+    "standards",
+    "table settings",
+    "windows",
+    "word"
+  ],
+  "inferred": [
+    "teamwork",
+    "foodsafety",
+    "sanitation",
+    "foodpreparation",
+    "multitasking",
+    "cashhandling",
+    "inventorymanagement"
+  ],
+  "gaps": [
+    "graphicdesign",
+    "adobecreativesuite",
+    "photoshop",
+    "illustrator",
+    "typography",
+    "layout",
+    "figma",
+    "visualmerchandising"
+  ],
+  "related": [
+    {
+      "skill": "microsoftexcel",
+      "pmi": 5.57
+    },
+    {
+      "skill": "audiovisual",
+      "pmi": 5.57
+    },
+    {
+      "skill": "network",
+      "pmi": 5.57
+    },
+    {
+      "skill": "wifi",
+      "pmi": 5.57
+    },
+    {
+      "skill": "telecom",
+      "pmi": 5.28
+    },
+    {
+      "skill": "ict",
+      "pmi": 5.28
+    },
+    {
+      "skill": "modeling",
+      "pmi": 4.87
+    },
+    {
+      "skill": "excel",
+      "pmi": 4.87
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "logistics",
+      "pct": 11
+    },
+    {
+      "function": "sales",
+      "pct": 8
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "arts-media",
+      "pct": 7
+    },
+    {
+      "function": "skilled-trade",
+      "pct": 6
+    }
+  ],
+  "coach_notes": "The most critical gaps are graphic design and Adobe Creative Suite (Photoshop, Illustrator), as these are core technical skills frequently required for roles involving visual communication, signage, or digital content in protective-service settings like security or facility management. Without them, you cannot create or edit visual materials for access control, emergency signage, or training aids. Focus on completing a short online course in Photoshop and Illustrator basics to bridge this gap quickly.",
+  "jobs": [
+    {
+      "title": "Designer II - Security",
+      "company": "teecom",
+      "url": "https://jobs.lever.co/teecom/69a20044-f193-4609-b052-0f279e992440",
+      "fit": 20,
+      "label": "reach",
+      "why": "Your resume includes security presence and loss prevention, which align with a security-focused role. Awareness and reporting are also relevant.",
+      "gaps": "This is a Designer II role requiring design skills and likely experience in security systems or architecture. Your resume lacks design, engineering, or technical security system experience."
+    },
+    {
+      "title": "STEP-Table Games Apprentice (Must be a Nisqually Tribal Member)",
+      "company": "bc5ffc37-3434-40de-bd25-025c780da335",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3011751",
+      "fit": 10,
+      "label": "reach",
+      "why": "You have multitasking and professional communication skills that could be useful in a table games environment.",
+      "gaps": "This role requires tribal membership (Nisqually) and specific table games apprenticeship training. Your resume shows no gaming or casino experience, and you likely do not meet the membership requirement."
+    },
+    {
+      "title": "Apprentice Piercer (Future Opportunity)",
+      "company": "studsinc",
+      "url": "https://job-boards.greenhouse.io/studsinc/jobs/5739940004",
+      "fit": 5,
+      "label": "reach",
+      "why": "Your resume includes presence and professional communication, which are relevant for customer-facing roles.",
+      "gaps": "Piercing requires specialized training, certification, and experience. Your resume lacks any body modification or piercing skills. This is a future opportunity, but you are not currently qualified."
+    },
+    {
+      "title": "Entry Level Kitchen Position, Brookfield Place",
+      "company": "diginnother",
+      "url": "https://job-boards.greenhouse.io/diginnother/jobs/7739772",
+      "fit": 50,
+      "label": "target",
+      "why": "You have stockroom experience, multitasking, and awareness, which are useful in a kitchen environment. Professional communication and delivering are also relevant.",
+      "gaps": "No direct kitchen or food service experience listed. You may need to learn food safety, kitchen equipment, and specific restaurant procedures."
+    },
+    {
+      "title": "PT Stylist - 7FAM",
+      "company": "08003db9-b302-4e6d-b586-bf97a7dcfc4c",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2244761",
+      "fit": 65,
+      "label": "target",
+      "why": "Your resume includes stockroom, product knowledge, and professional communication, which align with a stylist role. Multitasking and presence are also relevant.",
+      "gaps": "No direct styling or retail fashion experience. You may need to develop fashion knowledge, sales techniques, and customer styling skills."
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "function": "education",
+  "confidence": 42,
+  "skills": [
+    "- present",
+    "- resume",
+    "- spring",
+    "algebra",
+    "assessments",
+    "calculus",
+    "canva",
+    "cash",
+    "cash transactions",
+    "cashier",
+    "certificate",
+    "certification",
+    "clinical",
+    "clinical experience",
+    "customers",
+    "data",
+    "design",
+    "desmos",
+    "education",
+    "engaging",
+    "english",
+    "english language",
+    "english language learners",
+    "esl",
+    "events",
+    "exams",
+    "geometry",
+    "google",
+    "google classroom",
+    "google workspace",
+    "grades",
+    "high school",
+    "instruction",
+    "instructional materials",
+    "instructions",
+    "kahoot",
+    "lesson plans",
+    "literacy",
+    "mandarin",
+    "materials",
+    "mathematics",
+    "membership",
+    "microsoft",
+    "microsoft office",
+    "microsoft office suite",
+    "office",
+    "office suite",
+    "orders",
+    "organize",
+    "organized",
+    "paraprofessional",
+    "pdf",
+    "pilot",
+    "plans",
+    "professional",
+    "program",
+    "reading",
+    "references",
+    "research-",
+    "schedules",
+    "scholarship",
+    "schools",
+    "science",
+    "science of reading",
+    "student",
+    "students",
+    "teacher education",
+    "transactions",
+    "tutor",
+    "workspace"
+  ],
+  "market_relevant": [
+    "algebra",
+    "assessments",
+    "calculus",
+    "canva",
+    "certification",
+    "clinical experience",
+    "design",
+    "desmos",
+    "education",
+    "engaging",
+    "english",
+    "english language",
+    "english language learners",
+    "esl",
+    "events",
+    "geometry",
+    "google classroom",
+    "google workspace",
+    "grades",
+    "high school",
+    "instruction",
+    "instructional materials",
+    "kahoot",
+    "lesson plans",
+    "literacy",
+    "mandarin",
+    "mathematics",
+    "microsoft office",
+    "office suite",
+    "organize",
+    "paraprofessional",
+    "professional",
+    "reading",
+    "research-",
+    "scholarship",
+    "science",
+    "science of reading",
+    "students",
+    "teacher education",
+    "tutor"
+  ],
+  "inferred": [
+    "communication",
+    "teamwork",
+    "customerservice",
+    "organization"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "childdevelopment",
+    "childcare",
+    "lessonplanning",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "teamcollaboration",
+    "parentcommunication",
+    "documentation",
+    "datacollection"
+  ],
+  "related": [
+    {
+      "skill": "precalculus",
+      "pmi": 6.22
+    },
+    {
+      "skill": "socialstudies",
+      "pmi": 5.93
+    },
+    {
+      "skill": "veterinarystudent",
+      "pmi": 5.78
+    },
+    {
+      "skill": "trigonometry",
+      "pmi": 5.59
+    },
+    {
+      "skill": "googlesuite",
+      "pmi": 5.53
+    },
+    {
+      "skill": "statistics",
+      "pmi": 5.41
+    },
+    {
+      "skill": "mathproficiency",
+      "pmi": 5.38
+    },
+    {
+      "skill": "algebrai",
+      "pmi": 5.34
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 7
+    },
+    {
+      "function": "technology",
+      "pct": 6
+    },
+    {
+      "function": "design",
+      "pct": 4
+    },
+    {
+      "function": "finance",
+      "pct": 4
+    },
+    {
+      "function": "ops",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "Classroom management and lesson planning are the most critical gaps because they are foundational skills for any education role, directly impacting your ability to create a structured learning environment and deliver effective instruction. Without these, your experience in algebra and assessments may not translate into a classroom setting. To address this, take a free online course on classroom management strategies and practice writing lesson plans for your subject areas.",
+  "jobs": [
+    {
+      "title": "ASC Math Tutor",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/asc-math-tutor-dagKfG92rpv6Mz_kkmE47L?ref=rss&sid=68",
+      "fit": 75,
+      "label": "ready",
+      "why": "Your skills in math, communication, and organized planning align well with tutoring. Experience with assessments and working in schools is relevant.",
+      "gaps": "No specific college-level math tutoring experience mentioned; may need to demonstrate ability to tutor at the college level."
+    },
+    {
+      "title": "Tutor, Math",
+      "company": "palmbeachstate",
+      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Tutor--Math_R0012898-1",
+      "fit": 70,
+      "label": "ready",
+      "why": "Your math skills, communication, and organized approach are directly applicable. Experience with assessments and working in schools is beneficial.",
+      "gaps": "No specific tutoring experience at the college level mentioned; may need to highlight any relevant tutoring or teaching assistant roles."
+    },
+    {
+      "title": "Temporary Tutor, Math",
+      "company": "palmbeachstate",
+      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Boca-Raton-Campus/Temporary-Tutor--Math_R0013423-1",
+      "fit": 70,
+      "label": "ready",
+      "why": "Similar to Job 3, your math and communication skills fit well. Temporary nature may be easier to enter with your background.",
+      "gaps": "Same as Job 3: lack of explicit college tutoring experience; temporary position may require quick ramp-up."
+    },
+    {
+      "title": "Math Tutor / Teacher",
+      "company": "56200ebc-9335-49ca-a174-9aa455196ae5",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3078139",
+      "fit": 80,
+      "label": "ready",
+      "why": "Strong match for math tutoring/teaching roles; your skills in communication, organized planning, and assessments are directly applicable. Experience with schools and clinical experience may add value.",
+      "gaps": "No specific teaching certification or extensive tutoring experience listed; may need to demonstrate ability to teach math to various age groups."
+    },
+    {
+      "title": "Part-Time Lecturer - Mathematics (Boston)",
+      "company": "northeastern",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/job/Boston-MA-Main-Campus/Part-Time-Lecturer---Mathematics--Boston-_R136502",
+      "fit": 20,
+      "label": "reach",
+      "why": "Your math and communication skills are foundational, and you have some teaching-related experience.",
+      "gaps": "Requires a master's degree or higher in mathematics or related field; your resume does not indicate advanced degree or university-level teaching experience."
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "function": "social-service",
+  "confidence": 14,
+  "skills": [
+    "- resume",
+    "academy",
+    "activities",
+    "afterschool",
+    "as i",
+    "assistance",
+    "assisting",
+    "career paths",
+    "community engagement",
+    "community events",
+    "ecp",
+    "education",
+    "engagement",
+    "engaging",
+    "english",
+    "events",
+    "flag football",
+    "football",
+    "gmail",
+    "groups",
+    "high school",
+    "history",
+    "hours",
+    "i am",
+    "is a",
+    "junior",
+    "languages",
+    "leadership",
+    "leadership skills",
+    "learner",
+    "management",
+    "media",
+    "media management",
+    "name",
+    "native spanish",
+    "non-profit",
+    "non-profit organization",
+    "organization",
+    "organized",
+    "part",
+    "passionate",
+    "pdf",
+    "physically active",
+    "planning",
+    "problem solving",
+    "professionals",
+    "public speaking",
+    "quick learner",
+    "schools",
+    "social",
+    "social media",
+    "social media management",
+    "spanish",
+    "speaking",
+    "sports",
+    "student-athlete",
+    "students",
+    "team leadership",
+    "u s citizen",
+    "united states",
+    "volunteering",
+    "weekends"
+  ],
+  "market_relevant": [
+    "activities",
+    "afterschool",
+    "assistance",
+    "community engagement",
+    "education",
+    "engagement",
+    "engaging",
+    "english",
+    "events",
+    "flag football",
+    "football",
+    "gmail",
+    "high school",
+    "history",
+    "leadership",
+    "leadership skills",
+    "media",
+    "non-profit",
+    "organization",
+    "part",
+    "physically active",
+    "planning",
+    "problem solving",
+    "public speaking",
+    "social media",
+    "social media management",
+    "spanish",
+    "speaking",
+    "sports",
+    "student-athlete",
+    "students",
+    "team leadership"
+  ],
+  "inferred": [
+    "communication",
+    "teamwork",
+    "coaching",
+    "activityplanning"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "childdevelopment",
+    "childcare",
+    "lessonplanning",
+    "customerservice",
+    "earlychildhoodeducation",
+    "firstaid",
+    "teamcollaboration",
+    "parentcommunication",
+    "documentation",
+    "datacollection"
+  ],
+  "related": [
+    {
+      "skill": "games",
+      "pmi": 5.54
+    },
+    {
+      "skill": "drama",
+      "pmi": 5.36
+    },
+    {
+      "skill": "contentcreation",
+      "pmi": 5.12
+    },
+    {
+      "skill": "artsandcrafts",
+      "pmi": 4.8
+    },
+    {
+      "skill": "mandarin",
+      "pmi": 4.13
+    },
+    {
+      "skill": "bilingual",
+      "pmi": 3.85
+    },
+    {
+      "skill": "readwritespeakenglish",
+      "pmi": 3.84
+    },
+    {
+      "skill": "statequalifications",
+      "pmi": 3.72
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 12
+    },
+    {
+      "function": "technology",
+      "pct": 8
+    },
+    {
+      "function": "healthcare",
+      "pct": 7
+    },
+    {
+      "function": "ops",
+      "pct": 6
+    },
+    {
+      "function": "design",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "The gaps in classroom management, child development, and lesson planning are most critical because they are foundational for roles like teaching assistant or early childhood educator, which are common social-service career paths. Without these skills, you cannot effectively structure learning environments or support children's growth, which are core job requirements. To address this, pursue a short certification in early childhood education or volunteer in afterschool programs to gain hands-on experience with these competencies.",
+  "jobs": [
+    {
+      "title": "English and History tutor",
+      "company": "ajtutoring",
+      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
+      "fit": 85,
+      "label": "ready",
+      "why": "Your tutoring experience, communication skills, and organized nature directly match this role. Spanish could be an asset for diverse students.",
+      "gaps": "No explicit mention of English/history subject expertise; may need to highlight specific tutoring methods or curriculum knowledge."
+    },
+    {
+      "title": "Osmosis Health Leadership Initiative (Formerly OMEF)",
+      "company": "osmosis",
+      "url": "https://job-boards.greenhouse.io/osmosis/jobs/5628745003",
+      "fit": 65,
+      "label": "target",
+      "why": "Your management, media management, and communication skills align with leadership and outreach aspects of this role. Volunteering experience shows initiative.",
+      "gaps": "Lack of specific health leadership or OMEF-related experience; need to demonstrate deeper understanding of health systems and program coordination."
+    },
+    {
+      "title": "Cultural Site Interpreter",
+      "company": "thetrustees",
+      "url": "https://apply.workable.com/j/13E441BC84",
+      "fit": 70,
+      "label": "target",
+      "why": "Your volunteering, communication, and physically active background suit interpretation work. Media management skills could help with outreach.",
+      "gaps": "Lack of cultural site or interpretation experience; need to show knowledge of local history or heritage."
+    },
+    {
+      "title": "Graduate Assistant Youth Outreach",
+      "company": "a085370f-8bee-4614-9e58-b27ad633e78c",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/419397",
+      "fit": 60,
+      "label": "target",
+      "why": "Your assistance, management, and communication skills are relevant for youth outreach. Volunteering shows community engagement.",
+      "gaps": "No graduate degree or specific youth outreach experience; need to demonstrate understanding of program development for youth."
+    },
+    {
+      "title": "Industry Lab Workforce Development Specialist",
+      "company": "36ced8c3-c8bd-49d7-a643-b256184db7ff",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4270876",
+      "fit": 55,
+      "label": "reach",
+      "why": "Your management and media management skills could support workforce development initiatives. Organized nature helps with coordination.",
+      "gaps": "Lack of industry lab or workforce development experience; need technical knowledge of labor market trends and training programs."
+    }
+  ]
+}

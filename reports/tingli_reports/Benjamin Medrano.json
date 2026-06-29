@@ -1,0 +1,244 @@
+{
+  "function": "technology",
+  "confidence": 11,
+  "skills": [
+    "- resume",
+    "accessibility",
+    "activities",
+    "administrative",
+    "administrative tasks",
+    "assistance",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "diploma",
+    "education",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english",
+    "english spanish",
+    "excellence",
+    "gmail",
+    "guidance",
+    "hardware",
+    "hardware and software",
+    "healthcare",
+    "high school",
+    "high school diploma",
+    "high school graduate",
+    "intern",
+    "internship",
+    "inventory",
+    "it support",
+    "languages",
+    "leadership",
+    "motivated",
+    "office",
+    "office supplies",
+    "operations",
+    "organization",
+    "organizational",
+    "organizational skills",
+    "organized",
+    "pdf",
+    "productive",
+    "professional",
+    "professional experience",
+    "professional standards",
+    "projects",
+    "reliable",
+    "research",
+    "service",
+    "service excellence",
+    "software",
+    "software issues",
+    "spanish",
+    "spanish english",
+    "standards",
+    "strong organizational skills",
+    "student",
+    "students",
+    "support",
+    "teamwork",
+    "technical",
+    "technical skills",
+    "technical support",
+    "technical troubleshooting",
+    "translation",
+    "translation services",
+    "translations",
+    "troubleshooting",
+    "user experience",
+    "workspace"
+  ],
+  "market_relevant": [
+    "accessibility",
+    "activities",
+    "administrative",
+    "administrative tasks",
+    "assistance",
+    "bilingual",
+    "bilingualcommunication",
+    "communication",
+    "customer service",
+    "education",
+    "engaging",
+    "english",
+    "gmail",
+    "guidance",
+    "hardware",
+    "high school",
+    "high school diploma",
+    "internship",
+    "inventory",
+    "it support",
+    "leadership",
+    "motivated",
+    "operations",
+    "organization",
+    "organizational skills",
+    "professional",
+    "professional experience",
+    "reliable",
+    "research",
+    "service",
+    "service excellence",
+    "software",
+    "spanish",
+    "spanish english",
+    "students",
+    "support",
+    "teamwork",
+    "translation",
+    "troubleshooting"
+  ],
+  "inferred": [
+    "childdevelopment",
+    "activityplanning",
+    "teamcollaboration",
+    "parentcommunication",
+    "documentation"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "childcare",
+    "lessonplanning",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "datacollection",
+    "behaviormanagement",
+    "classmanagement",
+    "collaboration"
+  ],
+  "related": [
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "dishwashing",
+      "pmi": 4.55
+    },
+    {
+      "skill": "portioncontrol",
+      "pmi": 4.38
+    },
+    {
+      "skill": "temperaturecontrol",
+      "pmi": 4.23
+    },
+    {
+      "skill": "mandarin",
+      "pmi": 4.13
+    },
+    {
+      "skill": "readwritespeakenglish",
+      "pmi": 3.84
+    },
+    {
+      "skill": "statequalifications",
+      "pmi": 3.72
+    },
+    {
+      "skill": "sanitation",
+      "pmi": 3.68
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "healthcare",
+      "pct": 9
+    },
+    {
+      "function": "arts-media",
+      "pct": 9
+    },
+    {
+      "function": "technology",
+      "pct": 8
+    },
+    {
+      "function": "ops",
+      "pct": 6
+    },
+    {
+      "function": "finance",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational skills for roles in education or childcare that appear in the job postings. Without them, you cannot effectively lead a classroom or design curriculum, which are core responsibilities. To address this, consider taking a short online course in early childhood education or volunteering to assist in a classroom to gain hands-on experience.",
+  "jobs": [
+    {
+      "title": "Dual Language Assistant",
+      "company": "14e61377-a63e-41e8-bf47-b84df4062da1",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
+      "fit": 85,
+      "label": "ready",
+      "why": "Your skills in delivering, parent communication, child development, and activity planning align directly with a dual language assistant role. Your diploma and organized, reliable nature support this.",
+      "gaps": "No specific bilingual or dual language teaching experience mentioned; you may need to highlight any language proficiency or cultural competency."
+    },
+    {
+      "title": "Paraprofessional (Spanish Speaking)  (2026-2027)",
+      "company": "bricknetworks",
+      "url": "https://jobs.lever.co/bricknetworks/167c4621-b159-4f96-bea7-c717a449dca0",
+      "fit": 90,
+      "label": "ready",
+      "why": "Your skills in child development, parent communication, activity planning, and delivering align perfectly with a paraprofessional role. Teamwork and organized nature are strong fits.",
+      "gaps": "No specific mention of Spanish-speaking ability or experience working with Spanish-speaking students/families. The role requires bilingual proficiency."
+    },
+    {
+      "title": "Instructional Assistant Atlanta  (IT Support)",
+      "company": "perscholashires",
+      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4691467006",
+      "fit": 40,
+      "label": "reach",
+      "why": "Your background in delivering, research, and administrative tasks shows organizational and support skills relevant to an instructional assistant role. Customer service excellence and teamwork are transferable.",
+      "gaps": "The job is IT Support focused, requiring technical troubleshooting skills (e.g., software/hardware issues) which are not evident in your resume. No direct IT support experience or certifications listed."
+    },
+    {
+      "title": "Spanish Interpreter/Translator Intern",
+      "company": "CityOfNewYork",
+      "url": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990013318111",
+      "fit": 70,
+      "label": "target",
+      "why": "Your research skills, customer service, and administrative tasks are relevant for an interpreter/translator intern role. Organized and reliable traits are valued.",
+      "gaps": "No direct interpretation or translation experience or language proficiency listed. The role requires Spanish fluency and possibly formal training, which is not evident."
+    },
+    {
+      "title": "Learning Center Coordinator ",
+      "company": "thinkacademyus",
+      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7778505003",
+      "fit": 60,
+      "label": "target",
+      "why": "Your administrative tasks, organized, reliable, and customer service skills are relevant for a learning center coordinator. Research and activity planning show initiative.",
+      "gaps": "No direct coordination or management experience in an educational setting. The role may require supervisory or program development skills not evident in your resume."
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "function": "administrative",
+  "confidence": 12,
+  "skills": [
+    "- resume",
+    "accessibility",
+    "advisor",
+    "archival",
+    "archives",
+    "candidates",
+    "classroom setting",
+    "cleanliness",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "content",
+    "coordination",
+    "distribution",
+    "education",
+    "engagement",
+    "engaging",
+    "evaluation",
+    "events",
+    "feedback",
+    "fit",
+    "gmail",
+    "high school",
+    "hiring",
+    "history",
+    "intern",
+    "management",
+    "materials",
+    "media",
+    "media content",
+    "merchandise",
+    "office",
+    "organization",
+    "organizational",
+    "organized",
+    "participation",
+    "pastperfect",
+    "pdf",
+    "physical",
+    "point of contact",
+    "presentation",
+    "presentation skills",
+    "project",
+    "project management",
+    "purchasing",
+    "seniors",
+    "sheets",
+    "social",
+    "social engagement",
+    "social media",
+    "social media content",
+    "software",
+    "structured",
+    "structured feedback",
+    "student",
+    "surveys",
+    "teaching",
+    "team collaboration",
+    "trust",
+    "trust s"
+  ],
+  "market_relevant": [
+    "accessibility",
+    "classroom setting",
+    "cleanliness",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "coordination",
+    "education",
+    "engagement",
+    "engaging",
+    "evaluation",
+    "events",
+    "feedback",
+    "gmail",
+    "high school",
+    "hiring",
+    "history",
+    "media",
+    "organization",
+    "presentation",
+    "presentation skills",
+    "project management",
+    "purchasing",
+    "social media",
+    "software",
+    "surveys",
+    "teaching",
+    "team collaboration"
+  ],
+  "inferred": [
+    "teamwork",
+    "communication",
+    "documentation",
+    "coordination"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "childdevelopment",
+    "childcare",
+    "lessonplanning",
+    "customerservice",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "parentcommunication",
+    "datacollection",
+    "activityplanning",
+    "behaviormanagement",
+    "classmanagement"
+  ],
+  "related": [
+    {
+      "skill": "contentcreation",
+      "pmi": 5.12
+    },
+    {
+      "skill": "datadrivendecisionmaking",
+      "pmi": 4.22
+    },
+    {
+      "skill": "facilitation",
+      "pmi": 3.67
+    },
+    {
+      "skill": "classicaleducation",
+      "pmi": 3.66
+    },
+    {
+      "skill": "writing",
+      "pmi": 3.44
+    },
+    {
+      "skill": "academicresearch",
+      "pmi": 3.37
+    },
+    {
+      "skill": "equityandinclusion",
+      "pmi": 3.37
+    },
+    {
+      "skill": "undergraduateeducation",
+      "pmi": 3.37
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 10
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "ops",
+      "pct": 7
+    },
+    {
+      "function": "healthcare",
+      "pct": 7
+    },
+    {
+      "function": "personal-care",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "The most critical gaps are 'classroommanagement' and 'childdevelopment', as these are foundational for roles involving direct interaction with children, which many administrative positions in educational settings require. Without these, you may be overlooked for jobs that expect you to oversee classroom environments or understand developmental stages. To address this, consider taking a short online course in classroom management and child development basics, and highlight any volunteer work with children in your resume.",
+  "jobs": [
+    {
+      "title": "English and History tutor",
+      "company": "ajtutoring",
+      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
+      "fit": 85,
+      "label": "ready",
+      "why": "Strong overlap with your communication, collaboration, and classroom setting skills. Tutoring English and History directly leverages your high school background and presentation abilities.",
+      "gaps": "No specific mention of tutoring experience or subject matter expertise in English/History; may need to highlight relevant coursework or volunteer tutoring."
+    },
+    {
+      "title": "Youth Instructor & Program Support Specialist",
+      "company": "super-soccer-stars",
+      "url": "https://apply.workable.com/j/D82C956AFF",
+      "fit": 80,
+      "label": "ready",
+      "why": "Your social engagement, media content, and social media skills directly support youth program promotion and engagement. Management and collaboration fit program support duties.",
+      "gaps": "No specific youth instruction or sports-related experience mentioned; may need to emphasize any volunteer work with children or program coordination."
+    },
+    {
+      "title": "Training Specialist I",
+      "company": "df3330d4-f8fa-4d51-ab6c-6ca7896f235d",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4098942",
+      "fit": 70,
+      "label": "target",
+      "why": "Your skills in management, collaboration, communication, presentation, and evaluation align well with training delivery and program coordination. Experience as a point of contact and advisor supports learner engagement.",
+      "gaps": "No formal training or instructional design experience mentioned; may need to demonstrate ability to develop training materials and assess learning outcomes beyond classroom settings."
+    },
+    {
+      "title": "Instructional Assistant Atlanta  (IT Support)",
+      "company": "perscholashires",
+      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4691467006",
+      "fit": 45,
+      "label": "reach",
+      "why": "Your accessibility and organized skills could support IT support tasks, and collaboration is useful in a school environment.",
+      "gaps": "No IT support, technical troubleshooting, or instructional technology experience listed. Significant gap in technical skills required for this role."
+    },
+    {
+      "title": "NYS Certified Science Teacher",
+      "company": "williamsburgcharterhighschool",
+      "url": "https://williamsburgcharterhighschool.recruitee.com/o/nys-certified-science-teacher-3",
+      "fit": 30,
+      "label": "reach",
+      "why": "Your classroom setting, communication, and presentation skills are relevant to teaching, and high school background is a plus.",
+      "gaps": "No science teaching certification, subject matter expertise in science, or NYS certification mentioned. Major gap in required credentials and content knowledge."
+    }
+  ]
+}

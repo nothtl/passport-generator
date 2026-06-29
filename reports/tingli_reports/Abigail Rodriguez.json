@@ -1,0 +1,256 @@
+{
+  "function": "design",
+  "confidence": 13,
+  "skills": [
+    "- - bilingual",
+    "- bilingual spanish",
+    "- non-profit",
+    "- non-profit organization",
+    "- present",
+    "- resume",
+    "activities",
+    "adobe",
+    "application process",
+    "behavior",
+    "build",
+    "can",
+    "children",
+    "christian",
+    "cleaning",
+    "community outreach",
+    "content",
+    "creative",
+    "database",
+    "delivery",
+    "design",
+    "english",
+    "events",
+    "families",
+    "gmail",
+    "google",
+    "google maps",
+    "google suite",
+    "grades",
+    "graphic design",
+    "high school",
+    "home",
+    "http",
+    "https",
+    "i am",
+    "intern",
+    "internship",
+    "internship application",
+    "is a",
+    "kahoot",
+    "leadership",
+    "learning",
+    "linkedin",
+    "local",
+    "make",
+    "manager",
+    "maps",
+    "mentor",
+    "mentoring",
+    "mentorship",
+    "mentorship program",
+    "meta",
+    "music",
+    "navigate",
+    "networking",
+    "online ordering",
+    "ordering",
+    "organization",
+    "outreach",
+    "part",
+    "pdf",
+    "platform",
+    "platforms",
+    "posting",
+    "program",
+    "programs",
+    "public speaking",
+    "record",
+    "relationships",
+    "remote learning",
+    "spanish",
+    "spark",
+    "speaking",
+    "storytelling",
+    "student",
+    "students",
+    "support",
+    "technology",
+    "teens",
+    "train",
+    "volunteer",
+    "walk",
+    "write",
+    "written"
+  ],
+  "market_relevant": [
+    "- - bilingual",
+    "- bilingual spanish",
+    "- non-profit",
+    "activities",
+    "children",
+    "christian",
+    "cleaning",
+    "community outreach",
+    "creative",
+    "database",
+    "design",
+    "english",
+    "events",
+    "gmail",
+    "google suite",
+    "grades",
+    "high school",
+    "internship",
+    "kahoot",
+    "leadership",
+    "linkedin",
+    "mentor",
+    "mentoring",
+    "mentorship",
+    "music",
+    "networking",
+    "organization",
+    "outreach",
+    "part",
+    "public speaking",
+    "relationships",
+    "remote learning",
+    "spanish",
+    "spark",
+    "speaking",
+    "storytelling",
+    "students",
+    "support",
+    "technology",
+    "teens",
+    "volunteer"
+  ],
+  "inferred": [
+    "communication",
+    "teamwork",
+    "activityplanning",
+    "documentation"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "childdevelopment",
+    "childcare",
+    "lessonplanning",
+    "customerservice",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "teamcollaboration",
+    "parentcommunication",
+    "datacollection"
+  ],
+  "related": [
+    {
+      "skill": "cybersecurity",
+      "pmi": 5.83
+    },
+    {
+      "skill": "googleclassroom",
+      "pmi": 5.53
+    },
+    {
+      "skill": "clinicalexposure",
+      "pmi": 4.37
+    },
+    {
+      "skill": "translation",
+      "pmi": 4.26
+    },
+    {
+      "skill": "veterinarystudent",
+      "pmi": 4.25
+    },
+    {
+      "skill": "mandarin",
+      "pmi": 4.13
+    },
+    {
+      "skill": "clinicalexperience",
+      "pmi": 4.1
+    },
+    {
+      "skill": "externship",
+      "pmi": 3.91
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 11
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "healthcare",
+      "pct": 7
+    },
+    {
+      "function": "design",
+      "pct": 6
+    },
+    {
+      "function": "ops",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational skills for design roles in educational or child-focused settings. Without them, you cannot effectively create user-centered designs for young learners or manage collaborative design processes. To address this, take a short course in instructional design or child development, and volunteer to design educational materials for a non-profit to build relevant experience.",
+  "jobs": [
+    {
+      "title": "SUN Extended Day Assistant",
+      "company": "6d37f9de-299c-4d37-a8dd-72b75d848703",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3953335",
+      "fit": 85,
+      "label": "ready",
+      "why": "Your mentorship, volunteer, and ordering skills directly support extended day assistance; experience with families and grades is relevant.",
+      "gaps": "No specific mention of after-school program management; could strengthen time management examples."
+    },
+    {
+      "title": "Super Summer Bible Camp Counselor",
+      "company": "ee59da3b-f182-46bf-b3ce-e7bd915c5eab",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3130985",
+      "fit": 90,
+      "label": "ready",
+      "why": "Strong alignment with mentorship, volunteer, and camp counselor duties; experience with families and grades supports supervision.",
+      "gaps": "No explicit Bible camp or religious education experience; may need to emphasize adaptability and enthusiasm."
+    },
+    {
+      "title": "Summer Camp Counselor - Memorial Jr. High ",
+      "company": "cleveymca",
+      "url": "https://jobs.dayforcehcm.com/cleveymca/CANDIDATEPORTAL/jobs/5321",
+      "fit": 80,
+      "label": "ready",
+      "why": "Your mentorship, volunteer, and record skills are directly applicable; experience with youth and families is a plus.",
+      "gaps": "No specific mention of summer camp or YMCA experience; could highlight energy and activity planning."
+    },
+    {
+      "title": "Internship",
+      "company": "bucknerinternational",
+      "url": "https://www.buckner.org/current-nonprofit-job-openings/?gh_jid=6031848003",
+      "fit": 70,
+      "label": "target",
+      "why": "Your platform, database, and record skills align with administrative tasks; mentorship and volunteer experience show readiness for internship roles.",
+      "gaps": "No direct international or nonprofit experience; need to highlight cross-cultural adaptability."
+    },
+    {
+      "title": "Internships / Volunteer Opportunities!",
+      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
+      "fit": 65,
+      "label": "target",
+      "why": "Your volunteer and mentorship background fits general internship/volunteer roles; platform and build skills add value.",
+      "gaps": "Job description is vague; need to clarify specific duties and tailor your resume accordingly."
+    }
+  ]
+}

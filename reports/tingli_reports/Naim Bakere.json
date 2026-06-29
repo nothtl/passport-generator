@@ -1,0 +1,228 @@
+{
+  "function": "administrative",
+  "confidence": 11,
+  "skills": [
+    "- learning",
+    "- resume",
+    "- soccer",
+    "-present",
+    "academy",
+    "administrative",
+    "administrative tasks",
+    "assist",
+    "associate degree",
+    "attention to detail",
+    "awards",
+    "basic coding",
+    "business",
+    "can",
+    "certificate",
+    "cleaning",
+    "coding",
+    "communicating",
+    "communication",
+    "communication skills",
+    "customers",
+    "detail",
+    "education",
+    "english",
+    "english language",
+    "english language learners",
+    "express",
+    "french",
+    "goal-oriented",
+    "internship",
+    "internship experience",
+    "leadership",
+    "leadership skills",
+    "management",
+    "mats",
+    "modeling",
+    "motivated",
+    "multilingual",
+    "operation",
+    "ordering",
+    "organization",
+    "organizational",
+    "organizational skills",
+    "organizing",
+    "pdf",
+    "plan",
+    "prayer",
+    "readiness",
+    "secure",
+    "speak",
+    "sports",
+    "sportsmanship",
+    "stem",
+    "stock",
+    "teams",
+    "teamwork",
+    "tech",
+    "technical",
+    "time management",
+    "training",
+    "translator",
+    "video",
+    "volunteer",
+    "websites",
+    "writing"
+  ],
+  "market_relevant": [
+    "- soccer",
+    "administrative",
+    "administrative tasks",
+    "associate degree",
+    "attention to detail",
+    "cleaning",
+    "coding",
+    "communication",
+    "communication skills",
+    "education",
+    "english",
+    "english language",
+    "english language learners",
+    "french",
+    "internship",
+    "leadership",
+    "leadership skills",
+    "motivated",
+    "multilingual",
+    "organization",
+    "organizational skills",
+    "plan",
+    "sports",
+    "sportsmanship",
+    "stem",
+    "teams",
+    "teamwork",
+    "time management",
+    "training",
+    "video",
+    "volunteer",
+    "writing"
+  ],
+  "inferred": [
+    "childdevelopment",
+    "childcare",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "teamcollaboration",
+    "parentcommunication",
+    "activityplanning",
+    "behaviormanagement"
+  ],
+  "gaps": [
+    "classroommanagement",
+    "lessonplanning",
+    "customerservice",
+    "documentation",
+    "datacollection",
+    "classmanagement"
+  ],
+  "related": [
+    {
+      "skill": "robotics",
+      "pmi": 7.03
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "games",
+      "pmi": 5.54
+    },
+    {
+      "skill": "drama",
+      "pmi": 5.36
+    },
+    {
+      "skill": "science",
+      "pmi": 5.24
+    },
+    {
+      "skill": "artsandcrafts",
+      "pmi": 4.8
+    },
+    {
+      "skill": "readingcomprehension",
+      "pmi": 4.76
+    },
+    {
+      "skill": "mathematics",
+      "pmi": 4.44
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 9
+    },
+    {
+      "function": "technology",
+      "pct": 8
+    },
+    {
+      "function": "ops",
+      "pct": 7
+    },
+    {
+      "function": "healthcare",
+      "pct": 6
+    },
+    {
+      "function": "design",
+      "pct": 6
+    }
+  ],
+  "coach_notes": "The most critical gaps are classroom management and lesson planning, as these are foundational skills for administrative roles in educational settings, directly impacting student engagement and operational efficiency. Without these, you may struggle to support teachers effectively or handle scheduling and resource allocation. To address this, seek a volunteer role assisting in a classroom or take a short online course on classroom management strategies.",
+  "jobs": [
+    {
+      "title": "Internships / Volunteer Opportunities!",
+      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Education Steward - AmeriCorps",
+      "company": "78c2c01f-ca87-43be-b701-81ef8e0fc90a",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "English and History tutor",
+      "company": "ajtutoring",
+      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Fall 2026 Hatch Show Print Education and Administration (Paid) Intern",
+      "company": "9e989de2-d327-4d1e-ab67-f4833685bfa6",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208314",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Associate Curriculum Alignment Specialist",
+      "company": "ixllearning",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8531284002",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    }
+  ]
+}

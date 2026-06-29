@@ -239,17 +239,47 @@ def _load_occ_embeddings():
     return _occ_embeddings, _occ_funcs
 
 
+def _extract_job_title(text: str) -> str:
+    """Extract the most recent job title from resume text."""
+    # Common patterns: "Title at Company" or "Title, Company" or "Title | Company"
+    patterns = [
+        r'(?:^|\n)([^,\n]{5,60})\s+(?:at|@|[–|-])\s+[A-Z]',  # Title at Company
+        r'(?:^|\n)([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4})(?:\s*\||\s*–|\s*-|\s*,\s*)',  # Title | or Title,
+    ]
+    for pat in patterns:
+        match = re.search(pat, text[:500])  # search first 500 chars
+        if match:
+            title = match.group(1).strip()
+            if len(title) > 5:
+                return title
+    return ""
+
+
 def _embedding_probas(text: str) -> dict[str, float]:
-    """Score functions by cosine similarity of resume-vs-occupation embeddings."""
+    """Score functions by cosine similarity of resume-vs-occupation embeddings.
+    Job title gets 2x weight — it carries disproportionate signal about function.
+    """
     model = _load_embedder()
     occ_embs, occ_funcs = _load_occ_embeddings()
 
-    # Chunk long text
+    # Extract and weight job title more heavily
+    title = _extract_job_title(text)
+
+    # Chunk full text
     chunks = [text[i:i+500] for i in range(0, len(text), 500)]
     if not chunks:
         chunks = [text]
-    chunk_embs = model.encode(chunks, normalize_embeddings=True)
-    resume_emb = np.mean(chunk_embs, axis=0)
+
+    texts_to_embed = chunks.copy()
+    weights = [1.0] * len(chunks)
+
+    # Add job title with 2x weight
+    if title and len(title) > 5:
+        texts_to_embed.append(title)
+        weights.append(2.0)
+
+    embeddings = model.encode(texts_to_embed, normalize_embeddings=True)
+    resume_emb = np.average(embeddings, axis=0, weights=weights)
 
     # Cosine similarity against all occupations
     similarities = np.dot(resume_emb, occ_embs.T)

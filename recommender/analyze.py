@@ -188,48 +188,50 @@ def main():
     print("=" * 60)
     print("BEST MATCH")
     print("=" * 60)
-    print(f"  Function:   {result['function']} ({result['level']})")
-    print(f"  Confidence: {result['match_pct']}%")
+    print(f"  Function:   {result['function']}")
+    print(f"  Confidence: {result.get('confidence', result.get('match_pct', 0))}%")
     print()
 
     print("=" * 60)
     print("SKILLS FOUND")
     print("=" * 60)
-    all_skills = result.get('skills_extracted', [])
-    print(f"  All ({len(all_skills)}):")
+    all_skills = result.get('skills', [])
+    market = result.get('market_relevant', [])
+    print(f"  Total: {len(all_skills)} ({len(market)} appear in real job postings)")
     if all_skills:
         cols = 3
         for i in range(0, min(len(all_skills), 24), cols):
             row = all_skills[i:i+cols]
             print(f"    " + "  ".join(f"[Y] {s:<30s}" for s in row))
     print()
-    related = result.get('related_skills', [])
-    if related:
+
+    if result.get("inferred"):
         print("=" * 60)
-        print("RELATED SKILLS (co-occur with yours in real job postings)")
+        print("INFERRED SKILLS (AI)")
         print("=" * 60)
-        items = ", ".join("{} ({:.1f})".format(s, sc) for s, sc in related)
+        print("  " + ", ".join(result["inferred"]))
+        print()
+
+    if result.get("related"):
+        print("=" * 60)
+        print("RELATED SKILLS (co-occur in job postings)")
+        print("=" * 60)
+        items = ", ".join("{} ({:.1f})".format(s["skill"], s["pmi"]) for s in result["related"])
         print("  " + items)
         print()
-    market = result.get('market_skills', [])
-    print(f"  Market-relevant ({len(market)}/{len(all_skills)} appear in job postings)")
-    print()
-    missing = result.get('missing_skills', [])
-    if missing:
-        print("=" * 60)
-        print("MARKET GAPS (skills real jobs demand that you don't show)")
-        print("=" * 60)
-        print(f"  {', '.join(missing[:15])}")
-    print()
 
-    if result.get("all_probas"):
+    if result.get("gaps"):
         print("=" * 60)
-        print("ALL FUNCTION PROBABILITIES")
+        print("MARKET GAPS")
         print("=" * 60)
-        for func, prob in sorted(result["all_probas"].items(), key=lambda x: -x[1]):
-            if prob >= 3:
-                bar = "#" * int(prob / 5) + "." * (20 - int(prob / 5))
-                print(f"  {func:25s} [{bar}] {prob:5.1f}%")
+        print(f"  {', '.join(result['gaps'][:15])}")
+        print()
+
+    if result.get("coach_notes"):
+        print("=" * 60)
+        print("COACH NOTES")
+        print("=" * 60)
+        print("  " + result["coach_notes"])
         print()
 
     if result.get("alternatives"):
@@ -237,55 +239,28 @@ def main():
         print("ALSO CONSIDER")
         print("=" * 60)
         for alt in result["alternatives"][:3]:
-            print(f"  {alt['function']:25s} {alt['match_pct']}%")
+            print(f"  {alt['function']:25s} {alt['pct']}%")
         print()
 
-    if result.get("inferred_skills"):
-        print("=" * 60)
-        print("INFERRED SKILLS (AI deduces these from your other skills)")
-        print("=" * 60)
-        print("  " + ", ".join(result["inferred_skills"]))
-        print()
-
-    if result.get("gap_explanation"):
-        print("=" * 60)
-        print("COACH NOTES (AI)")
-        print("=" * 60)
-        print("  " + result["gap_explanation"])
-        print()
-
-    if result.get("ready_jobs") or result.get("target_jobs"):
-        print("=" * 60)
-        print("JOB FIT (AI)")
-        print("=" * 60)
-        if result.get("ready_jobs"):
-            print("  READY (apply now):")
-            for j in result["ready_jobs"][:3]:
-                print("    [{}%] {} @ {}".format(j.get("fit",0), j.get("title","")[:50], j.get("company","")[:25]))
-                if j.get("why_fits"):
-                    print("          Why:  " + j["why_fits"][:120])
-                if j.get("remaining_gaps"):
-                    print("          Gaps: " + j["remaining_gaps"][:120])
-        if result.get("target_jobs"):
-            print("  TARGET (growth path):")
-            for j in result["target_jobs"][:3]:
-                print("    [{}%] {} @ {}".format(j.get("fit",0), j.get("title","")[:50], j.get("company","")[:25]))
-                if j.get("why_fits"):
-                    print("          Why:  " + j["why_fits"][:120])
-                if j.get("remaining_gaps"):
-                    print("          Gaps: " + j["remaining_gaps"][:120])
-        print()
-
-    if result.get("openings"):
+    if result.get("jobs"):
         print("=" * 60)
         print("TOP JOB OPENINGS")
         print("=" * 60)
-        for i, jd in enumerate(result["openings"], 1):
-            title = str(jd.get("title", ""))[:70]
-            company = str(jd.get("company", ""))[:40]
-            print(f"  {i}. {title}")
+        for i, j in enumerate(result["jobs"], 1):
+            title = j.get("title", "")[:60]
+            company = j.get("company", "")
+            fit = j.get("fit", 0)
+            label = j.get("label", "")
+            label_str = f" [{fit}% {label}]" if fit > 0 and label else ""
+            print(f"  {i}. {title}{label_str}")
             if company:
                 print(f"     @ {company}")
+            if j.get("why"):
+                print(f"     Why:  {j['why'][:120]}")
+            if j.get("gaps"):
+                print(f"     Gaps: {j['gaps'][:120]}")
+            if j.get("url"):
+                print(f"     {j['url'][:80]}")
 
 
 if __name__ == "__main__":

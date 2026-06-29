@@ -1,0 +1,3234 @@
+{
+  "administrative": [
+    {
+      "feature": "hr",
+      "weight": 3.0922
+    },
+    {
+      "feature": "employee",
+      "weight": 1.0137
+    },
+    {
+      "feature": "hr assistant",
+      "weight": 0.7821
+    },
+    {
+      "feature": "employee relations",
+      "weight": 0.6857
+    },
+    {
+      "feature": "experience hr",
+      "weight": 0.6692
+    },
+    {
+      "feature": "human",
+      "weight": 0.6563
+    },
+    {
+      "feature": "performance management",
+      "weight": 0.6335
+    },
+    {
+      "feature": "employees",
+      "weight": 0.6311
+    },
+    {
+      "feature": "leave",
+      "weight": 0.6268
+    },
+    {
+      "feature": "administrative support",
+      "weight": 0.6141
+    },
+    {
+      "feature": "human resources",
+      "weight": 0.5953
+    },
+    {
+      "feature": "new hire",
+      "weight": 0.5598
+    },
+    {
+      "feature": "hire",
+      "weight": 0.5279
+    },
+    {
+      "feature": "payroll",
+      "weight": 0.5215
+    },
+    {
+      "feature": "assist",
+      "weight": 0.5067
+    },
+    {
+      "feature": "hire paperwork",
+      "weight": 0.5046
+    },
+    {
+      "feature": "unemployment",
+      "weight": 0.5027
+    },
+    {
+      "feature": "candidates",
+      "weight": 0.4944
+    },
+    {
+      "feature": "hr specialist",
+      "weight": 0.4257
+    },
+    {
+      "feature": "managers",
+      "weight": 0.4104
+    },
+    {
+      "feature": "resources",
+      "weight": 0.4099
+    },
+    {
+      "feature": "shrm",
+      "weight": 0.395
+    },
+    {
+      "feature": "hostess",
+      "weight": 0.3915
+    },
+    {
+      "feature": "business partner",
+      "weight": 0.3889
+    },
+    {
+      "feature": "confidential",
+      "weight": 0.37
+    },
+    {
+      "feature": "new employee",
+      "weight": 0.3657
+    },
+    {
+      "feature": "absence",
+      "weight": 0.3636
+    },
+    {
+      "feature": "assistant",
+      "weight": 0.3616
+    },
+    {
+      "feature": "administration",
+      "weight": 0.3588
+    },
+    {
+      "feature": "secretarial",
+      "weight": 0.3454
+    },
+    {
+      "feature": "filing",
+      "weight": 0.3448
+    },
+    {
+      "feature": "recruiting",
+      "weight": 0.3439
+    },
+    {
+      "feature": "workers compensation",
+      "weight": 0.3387
+    },
+    {
+      "feature": "hr manager",
+      "weight": 0.336
+    },
+    {
+      "feature": "union",
+      "weight": 0.3328
+    },
+    {
+      "feature": "finance",
+      "weight": 0.3328
+    },
+    {
+      "feature": "support",
+      "weight": 0.3303
+    },
+    {
+      "feature": "new",
+      "weight": 0.3265
+    },
+    {
+      "feature": "french",
+      "weight": 0.3225
+    },
+    {
+      "feature": "issues",
+      "weight": 0.3194
+    },
+    {
+      "feature": "job",
+      "weight": 0.3193
+    },
+    {
+      "feature": "induction",
+      "weight": 0.3183
+    },
+    {
+      "feature": "letters",
+      "weight": 0.3077
+    },
+    {
+      "feature": "scheduled",
+      "weight": 0.3063
+    },
+    {
+      "feature": "skills",
+      "weight": 0.3061
+    },
+    {
+      "feature": "complaint",
+      "weight": 0.3
+    },
+    {
+      "feature": "incoming calls",
+      "weight": 0.297
+    },
+    {
+      "feature": "organization",
+      "weight": 0.2964
+    },
+    {
+      "feature": "special projects",
+      "weight": 0.2956
+    },
+    {
+      "feature": "college",
+      "weight": 0.2953
+    }
+  ],
+  "agriculture": [
+    {
+      "feature": "agriculture",
+      "weight": 1.6101
+    },
+    {
+      "feature": "molecular",
+      "weight": 1.1265
+    },
+    {
+      "feature": "water",
+      "weight": 1.0594
+    },
+    {
+      "feature": "mi",
+      "weight": 1.0363
+    },
+    {
+      "feature": "agricultural",
+      "weight": 1.0297
+    },
+    {
+      "feature": "iowa",
+      "weight": 1.0073
+    },
+    {
+      "feature": "land",
+      "weight": 0.975
+    },
+    {
+      "feature": "formulation",
+      "weight": 0.9103
+    },
+    {
+      "feature": "epic",
+      "weight": 0.8703
+    },
+    {
+      "feature": "soil",
+      "weight": 0.8575
+    },
+    {
+      "feature": "dna",
+      "weight": 0.786
+    },
+    {
+      "feature": "land use",
+      "weight": 0.7696
+    },
+    {
+      "feature": "fraud",
+      "weight": 0.744
+    },
+    {
+      "feature": "chemistry",
+      "weight": 0.7135
+    },
+    {
+      "feature": "protein",
+      "weight": 0.708
+    },
+    {
+      "feature": "research",
+      "weight": 0.6847
+    },
+    {
+      "feature": "trees",
+      "weight": 0.6809
+    },
+    {
+      "feature": "association",
+      "weight": 0.6755
+    },
+    {
+      "feature": "samples",
+      "weight": 0.636
+    },
+    {
+      "feature": "accounts",
+      "weight": 0.6296
+    },
+    {
+      "feature": "berkeley",
+      "weight": 0.6205
+    },
+    {
+      "feature": "ap",
+      "weight": 0.6024
+    },
+    {
+      "feature": "computer",
+      "weight": 0.5973
+    },
+    {
+      "feature": "anthropology",
+      "weight": 0.5865
+    },
+    {
+      "feature": "supervisor",
+      "weight": 0.5777
+    },
+    {
+      "feature": "trade",
+      "weight": 0.5704
+    },
+    {
+      "feature": "public",
+      "weight": 0.5611
+    },
+    {
+      "feature": "practice",
+      "weight": 0.5432
+    },
+    {
+      "feature": "extension",
+      "weight": 0.5338
+    },
+    {
+      "feature": "extraction",
+      "weight": 0.5328
+    },
+    {
+      "feature": "security",
+      "weight": 0.5321
+    },
+    {
+      "feature": "conservation",
+      "weight": 0.5257
+    },
+    {
+      "feature": "controller",
+      "weight": 0.5199
+    },
+    {
+      "feature": "officer",
+      "weight": 0.5147
+    },
+    {
+      "feature": "georgia",
+      "weight": 0.5109
+    },
+    {
+      "feature": "review",
+      "weight": 0.5077
+    },
+    {
+      "feature": "batch",
+      "weight": 0.5033
+    },
+    {
+      "feature": "choir",
+      "weight": 0.4976
+    },
+    {
+      "feature": "counselors",
+      "weight": 0.4967
+    },
+    {
+      "feature": "irrigation",
+      "weight": 0.4895
+    },
+    {
+      "feature": "material",
+      "weight": 0.4878
+    },
+    {
+      "feature": "unit",
+      "weight": 0.485
+    },
+    {
+      "feature": "sap",
+      "weight": 0.4778
+    },
+    {
+      "feature": "contract",
+      "weight": 0.4752
+    },
+    {
+      "feature": "counseling",
+      "weight": 0.4745
+    },
+    {
+      "feature": "guidance",
+      "weight": 0.473
+    },
+    {
+      "feature": "drug",
+      "weight": 0.4697
+    },
+    {
+      "feature": "professional services",
+      "weight": 0.4683
+    },
+    {
+      "feature": "led",
+      "weight": 0.4656
+    },
+    {
+      "feature": "sharepoint",
+      "weight": 0.4606
+    }
+  ],
+  "arts-media": [
+    {
+      "feature": "arts",
+      "weight": 2.5648
+    },
+    {
+      "feature": "public relations",
+      "weight": 2.0785
+    },
+    {
+      "feature": "public",
+      "weight": 1.7419
+    },
+    {
+      "feature": "relations",
+      "weight": 1.5611
+    },
+    {
+      "feature": "language arts",
+      "weight": 1.2199
+    },
+    {
+      "feature": "events",
+      "weight": 1.1194
+    },
+    {
+      "feature": "arts teacher",
+      "weight": 1.0155
+    },
+    {
+      "feature": "dance",
+      "weight": 0.9151
+    },
+    {
+      "feature": "dental",
+      "weight": 0.9023
+    },
+    {
+      "feature": "martial arts",
+      "weight": 0.8793
+    },
+    {
+      "feature": "martial",
+      "weight": 0.8688
+    },
+    {
+      "feature": "media",
+      "weight": 0.8623
+    },
+    {
+      "feature": "school",
+      "weight": 0.7729
+    },
+    {
+      "feature": "music",
+      "weight": 0.7694
+    },
+    {
+      "feature": "press",
+      "weight": 0.7581
+    },
+    {
+      "feature": "ballet",
+      "weight": 0.6817
+    },
+    {
+      "feature": "english language",
+      "weight": 0.6238
+    },
+    {
+      "feature": "admissions",
+      "weight": 0.604
+    },
+    {
+      "feature": "middle school",
+      "weight": 0.5931
+    },
+    {
+      "feature": "art",
+      "weight": 0.5925
+    },
+    {
+      "feature": "language",
+      "weight": 0.5822
+    },
+    {
+      "feature": "communication",
+      "weight": 0.58
+    },
+    {
+      "feature": "reading",
+      "weight": 0.5685
+    },
+    {
+      "feature": "communications",
+      "weight": 0.5621
+    },
+    {
+      "feature": "middle",
+      "weight": 0.5515
+    },
+    {
+      "feature": "intern",
+      "weight": 0.5458
+    },
+    {
+      "feature": "special events",
+      "weight": 0.5444
+    },
+    {
+      "feature": "creative",
+      "weight": 0.5382
+    },
+    {
+      "feature": "outreach",
+      "weight": 0.5368
+    },
+    {
+      "feature": "press releases",
+      "weight": 0.5344
+    },
+    {
+      "feature": "professional development",
+      "weight": 0.5316
+    },
+    {
+      "feature": "vocal",
+      "weight": 0.5315
+    },
+    {
+      "feature": "liaison",
+      "weight": 0.5288
+    },
+    {
+      "feature": "june",
+      "weight": 0.5167
+    },
+    {
+      "feature": "english",
+      "weight": 0.5153
+    },
+    {
+      "feature": "billing",
+      "weight": 0.5011
+    },
+    {
+      "feature": "grade",
+      "weight": 0.5008
+    },
+    {
+      "feature": "game",
+      "weight": 0.5008
+    },
+    {
+      "feature": "theater",
+      "weight": 0.49
+    },
+    {
+      "feature": "research",
+      "weight": 0.4896
+    },
+    {
+      "feature": "parents",
+      "weight": 0.4813
+    },
+    {
+      "feature": "stories",
+      "weight": 0.4757
+    },
+    {
+      "feature": "writing",
+      "weight": 0.4692
+    },
+    {
+      "feature": "releases",
+      "weight": 0.4671
+    },
+    {
+      "feature": "event",
+      "weight": 0.4593
+    },
+    {
+      "feature": "summer",
+      "weight": 0.4588
+    },
+    {
+      "feature": "performing arts",
+      "weight": 0.4517
+    },
+    {
+      "feature": "relations manager",
+      "weight": 0.4507
+    },
+    {
+      "feature": "national",
+      "weight": 0.4463
+    },
+    {
+      "feature": "instructor",
+      "weight": 0.4404
+    }
+  ],
+  "design": [
+    {
+      "feature": "designer",
+      "weight": 2.6147
+    },
+    {
+      "feature": "apparel",
+      "weight": 2.2564
+    },
+    {
+      "feature": "merchandising",
+      "weight": 1.2969
+    },
+    {
+      "feature": "design",
+      "weight": 1.1882
+    },
+    {
+      "feature": "graphic designer",
+      "weight": 0.9623
+    },
+    {
+      "feature": "graphic",
+      "weight": 0.9521
+    },
+    {
+      "feature": "stylist",
+      "weight": 0.9131
+    },
+    {
+      "feature": "fashion",
+      "weight": 0.8962
+    },
+    {
+      "feature": "store",
+      "weight": 0.8016
+    },
+    {
+      "feature": "interior",
+      "weight": 0.7778
+    },
+    {
+      "feature": "designer company",
+      "weight": 0.7762
+    },
+    {
+      "feature": "brand",
+      "weight": 0.7729
+    },
+    {
+      "feature": "production",
+      "weight": 0.7411
+    },
+    {
+      "feature": "manager",
+      "weight": 0.7108
+    },
+    {
+      "feature": "warehouse",
+      "weight": 0.6841
+    },
+    {
+      "feature": "color",
+      "weight": 0.6714
+    },
+    {
+      "feature": "buyer",
+      "weight": 0.6619
+    },
+    {
+      "feature": "product development",
+      "weight": 0.6487
+    },
+    {
+      "feature": "cashier",
+      "weight": 0.6461
+    },
+    {
+      "feature": "makeup",
+      "weight": 0.6373
+    },
+    {
+      "feature": "shipping",
+      "weight": 0.5762
+    },
+    {
+      "feature": "special",
+      "weight": 0.5525
+    },
+    {
+      "feature": "women",
+      "weight": 0.5418
+    },
+    {
+      "feature": "company city",
+      "weight": 0.54
+    },
+    {
+      "feature": "grant",
+      "weight": 0.5385
+    },
+    {
+      "feature": "jewelry",
+      "weight": 0.5324
+    },
+    {
+      "feature": "product",
+      "weight": 0.5288
+    },
+    {
+      "feature": "prepare",
+      "weight": 0.5242
+    },
+    {
+      "feature": "sales floor",
+      "weight": 0.5184
+    },
+    {
+      "feature": "personal",
+      "weight": 0.5068
+    },
+    {
+      "feature": "swim",
+      "weight": 0.5048
+    },
+    {
+      "feature": "photographer",
+      "weight": 0.4917
+    },
+    {
+      "feature": "city state",
+      "weight": 0.4791
+    },
+    {
+      "feature": "holder",
+      "weight": 0.4702
+    },
+    {
+      "feature": "planner",
+      "weight": 0.4687
+    },
+    {
+      "feature": "key holder",
+      "weight": 0.4684
+    },
+    {
+      "feature": "fine",
+      "weight": 0.4669
+    },
+    {
+      "feature": "operating",
+      "weight": 0.4619
+    },
+    {
+      "feature": "illustrator",
+      "weight": 0.457
+    },
+    {
+      "feature": "merchandise",
+      "weight": 0.4502
+    },
+    {
+      "feature": "designer summary",
+      "weight": 0.449
+    },
+    {
+      "feature": "tim",
+      "weight": 0.4471
+    },
+    {
+      "feature": "artist",
+      "weight": 0.4426
+    },
+    {
+      "feature": "usability",
+      "weight": 0.441
+    },
+    {
+      "feature": "payroll",
+      "weight": 0.4331
+    },
+    {
+      "feature": "register",
+      "weight": 0.4327
+    },
+    {
+      "feature": "targets",
+      "weight": 0.4315
+    },
+    {
+      "feature": "seasonal",
+      "weight": 0.4302
+    },
+    {
+      "feature": "documents",
+      "weight": 0.4286
+    },
+    {
+      "feature": "key",
+      "weight": 0.4261
+    }
+  ],
+  "education": [
+    {
+      "feature": "teacher",
+      "weight": 2.6926
+    },
+    {
+      "feature": "preschool",
+      "weight": 1.2721
+    },
+    {
+      "feature": "classroom",
+      "weight": 1.0524
+    },
+    {
+      "feature": "teacher summary",
+      "weight": 1.0439
+    },
+    {
+      "feature": "th",
+      "weight": 0.7928
+    },
+    {
+      "feature": "teacher company",
+      "weight": 0.7664
+    },
+    {
+      "feature": "colombia",
+      "weight": 0.7216
+    },
+    {
+      "feature": "substitute",
+      "weight": 0.7208
+    },
+    {
+      "feature": "classroom environment",
+      "weight": 0.7143
+    },
+    {
+      "feature": "children",
+      "weight": 0.7115
+    },
+    {
+      "feature": "substitute teacher",
+      "weight": 0.6844
+    },
+    {
+      "feature": "science",
+      "weight": 0.6636
+    },
+    {
+      "feature": "play",
+      "weight": 0.6421
+    },
+    {
+      "feature": "th grade",
+      "weight": 0.6212
+    },
+    {
+      "feature": "class",
+      "weight": 0.6148
+    },
+    {
+      "feature": "teaching",
+      "weight": 0.5968
+    },
+    {
+      "feature": "social",
+      "weight": 0.5858
+    },
+    {
+      "feature": "community education",
+      "weight": 0.5757
+    },
+    {
+      "feature": "student athletes",
+      "weight": 0.5733
+    },
+    {
+      "feature": "floral",
+      "weight": 0.551
+    },
+    {
+      "feature": "lesson",
+      "weight": 0.5479
+    },
+    {
+      "feature": "activities",
+      "weight": 0.5179
+    },
+    {
+      "feature": "youth",
+      "weight": 0.4902
+    },
+    {
+      "feature": "students",
+      "weight": 0.4887
+    },
+    {
+      "feature": "experience teacher",
+      "weight": 0.4827
+    },
+    {
+      "feature": "student",
+      "weight": 0.4825
+    },
+    {
+      "feature": "passengers",
+      "weight": 0.4522
+    },
+    {
+      "feature": "games",
+      "weight": 0.4475
+    },
+    {
+      "feature": "cad",
+      "weight": 0.4463
+    },
+    {
+      "feature": "microbiology",
+      "weight": 0.4447
+    },
+    {
+      "feature": "spanish",
+      "weight": 0.4413
+    },
+    {
+      "feature": "special education",
+      "weight": 0.4355
+    },
+    {
+      "feature": "behavior",
+      "weight": 0.4349
+    },
+    {
+      "feature": "math",
+      "weight": 0.4337
+    },
+    {
+      "feature": "learning",
+      "weight": 0.4328
+    },
+    {
+      "feature": "teachers",
+      "weight": 0.4211
+    },
+    {
+      "feature": "learning activities",
+      "weight": 0.4179
+    },
+    {
+      "feature": "encouraged",
+      "weight": 0.4144
+    },
+    {
+      "feature": "education",
+      "weight": 0.4133
+    },
+    {
+      "feature": "purpose",
+      "weight": 0.4022
+    },
+    {
+      "feature": "autodesk",
+      "weight": 0.4002
+    },
+    {
+      "feature": "behaviors",
+      "weight": 0.4
+    },
+    {
+      "feature": "incorporating",
+      "weight": 0.3978
+    },
+    {
+      "feature": "honors society",
+      "weight": 0.3883
+    },
+    {
+      "feature": "parent",
+      "weight": 0.3841
+    },
+    {
+      "feature": "records",
+      "weight": 0.3835
+    },
+    {
+      "feature": "environment",
+      "weight": 0.3812
+    },
+    {
+      "feature": "athletes",
+      "weight": 0.3802
+    },
+    {
+      "feature": "social work",
+      "weight": 0.376
+    },
+    {
+      "feature": "assistant",
+      "weight": 0.3725
+    }
+  ],
+  "finance": [
+    {
+      "feature": "banking",
+      "weight": 2.7825
+    },
+    {
+      "feature": "accountant",
+      "weight": 2.6365
+    },
+    {
+      "feature": "bank",
+      "weight": 1.4665
+    },
+    {
+      "feature": "financial",
+      "weight": 1.3054
+    },
+    {
+      "feature": "accounting",
+      "weight": 1.039
+    },
+    {
+      "feature": "mortgage",
+      "weight": 0.7972
+    },
+    {
+      "feature": "accountant summary",
+      "weight": 0.7436
+    },
+    {
+      "feature": "cash",
+      "weight": 0.7128
+    },
+    {
+      "feature": "investment banking",
+      "weight": 0.6604
+    },
+    {
+      "feature": "lending",
+      "weight": 0.6412
+    },
+    {
+      "feature": "partners",
+      "weight": 0.6335
+    },
+    {
+      "feature": "entries",
+      "weight": 0.5912
+    },
+    {
+      "feature": "teradata",
+      "weight": 0.5857
+    },
+    {
+      "feature": "treasury",
+      "weight": 0.5828
+    },
+    {
+      "feature": "finance",
+      "weight": 0.5812
+    },
+    {
+      "feature": "teller",
+      "weight": 0.5678
+    },
+    {
+      "feature": "underwriting",
+      "weight": 0.5545
+    },
+    {
+      "feature": "loans",
+      "weight": 0.5495
+    },
+    {
+      "feature": "firm",
+      "weight": 0.546
+    },
+    {
+      "feature": "financial aid",
+      "weight": 0.5338
+    },
+    {
+      "feature": "accountant company",
+      "weight": 0.5256
+    },
+    {
+      "feature": "experience accountant",
+      "weight": 0.5256
+    },
+    {
+      "feature": "investment",
+      "weight": 0.5174
+    },
+    {
+      "feature": "portfolio",
+      "weight": 0.5075
+    },
+    {
+      "feature": "account",
+      "weight": 0.5013
+    },
+    {
+      "feature": "deposits",
+      "weight": 0.4897
+    },
+    {
+      "feature": "mortgage banking",
+      "weight": 0.4873
+    },
+    {
+      "feature": "equity",
+      "weight": 0.4779
+    },
+    {
+      "feature": "chase",
+      "weight": 0.4779
+    },
+    {
+      "feature": "regional sales",
+      "weight": 0.4737
+    },
+    {
+      "feature": "cash management",
+      "weight": 0.4717
+    },
+    {
+      "feature": "impact",
+      "weight": 0.4626
+    },
+    {
+      "feature": "payroll",
+      "weight": 0.4594
+    },
+    {
+      "feature": "credit",
+      "weight": 0.456
+    },
+    {
+      "feature": "business banking",
+      "weight": 0.4507
+    },
+    {
+      "feature": "client",
+      "weight": 0.4504
+    },
+    {
+      "feature": "bb",
+      "weight": 0.4477
+    },
+    {
+      "feature": "aid",
+      "weight": 0.4468
+    },
+    {
+      "feature": "ii",
+      "weight": 0.4465
+    },
+    {
+      "feature": "risk",
+      "weight": 0.4365
+    },
+    {
+      "feature": "center",
+      "weight": 0.4361
+    },
+    {
+      "feature": "online",
+      "weight": 0.4346
+    },
+    {
+      "feature": "different",
+      "weight": 0.4327
+    },
+    {
+      "feature": "staff accountant",
+      "weight": 0.4268
+    },
+    {
+      "feature": "financing",
+      "weight": 0.4256
+    },
+    {
+      "feature": "client service",
+      "weight": 0.4251
+    },
+    {
+      "feature": "compliance",
+      "weight": 0.4249
+    },
+    {
+      "feature": "banking center",
+      "weight": 0.417
+    },
+    {
+      "feature": "atm",
+      "weight": 0.4166
+    },
+    {
+      "feature": "reconciliations",
+      "weight": 0.4109
+    }
+  ],
+  "food-service": [
+    {
+      "feature": "chef",
+      "weight": 2.4617
+    },
+    {
+      "feature": "kitchen",
+      "weight": 1.4532
+    },
+    {
+      "feature": "culinary",
+      "weight": 0.9787
+    },
+    {
+      "feature": "food",
+      "weight": 0.9588
+    },
+    {
+      "feature": "cooking",
+      "weight": 0.8235
+    },
+    {
+      "feature": "pastry",
+      "weight": 0.7984
+    },
+    {
+      "feature": "sushi",
+      "weight": 0.7611
+    },
+    {
+      "feature": "meals",
+      "weight": 0.6435
+    },
+    {
+      "feature": "executive chef",
+      "weight": 0.6267
+    },
+    {
+      "feature": "cook",
+      "weight": 0.6265
+    },
+    {
+      "feature": "menu",
+      "weight": 0.5593
+    },
+    {
+      "feature": "fort",
+      "weight": 0.5418
+    },
+    {
+      "feature": "recipes",
+      "weight": 0.5236
+    },
+    {
+      "feature": "category",
+      "weight": 0.5226
+    },
+    {
+      "feature": "coding",
+      "weight": 0.4802
+    },
+    {
+      "feature": "olympics",
+      "weight": 0.4778
+    },
+    {
+      "feature": "room",
+      "weight": 0.4727
+    },
+    {
+      "feature": "math",
+      "weight": 0.4647
+    },
+    {
+      "feature": "banquet",
+      "weight": 0.4614
+    },
+    {
+      "feature": "restaurant",
+      "weight": 0.4544
+    },
+    {
+      "feature": "dishes",
+      "weight": 0.435
+    },
+    {
+      "feature": "utensils",
+      "weight": 0.4342
+    },
+    {
+      "feature": "demonstrations",
+      "weight": 0.4161
+    },
+    {
+      "feature": "human resource",
+      "weight": 0.4121
+    },
+    {
+      "feature": "recipe",
+      "weight": 0.4016
+    },
+    {
+      "feature": "veterans",
+      "weight": 0.4004
+    },
+    {
+      "feature": "credits",
+      "weight": 0.3947
+    },
+    {
+      "feature": "lawyers",
+      "weight": 0.3911
+    },
+    {
+      "feature": "cleaning",
+      "weight": 0.3843
+    },
+    {
+      "feature": "consultants",
+      "weight": 0.3842
+    },
+    {
+      "feature": "home",
+      "weight": 0.3674
+    },
+    {
+      "feature": "soccer",
+      "weight": 0.3617
+    },
+    {
+      "feature": "food quality",
+      "weight": 0.3585
+    },
+    {
+      "feature": "tutor",
+      "weight": 0.3503
+    },
+    {
+      "feature": "nutrition",
+      "weight": 0.3443
+    },
+    {
+      "feature": "course",
+      "weight": 0.3425
+    },
+    {
+      "feature": "relationship management",
+      "weight": 0.3416
+    },
+    {
+      "feature": "elementary",
+      "weight": 0.3415
+    },
+    {
+      "feature": "training",
+      "weight": 0.3408
+    },
+    {
+      "feature": "county community",
+      "weight": 0.3331
+    },
+    {
+      "feature": "gpa",
+      "weight": 0.3323
+    },
+    {
+      "feature": "april",
+      "weight": 0.3306
+    },
+    {
+      "feature": "dealer",
+      "weight": 0.3279
+    },
+    {
+      "feature": "statements",
+      "weight": 0.323
+    },
+    {
+      "feature": "community",
+      "weight": 0.3222
+    },
+    {
+      "feature": "kindergarten",
+      "weight": 0.3198
+    },
+    {
+      "feature": "scanning",
+      "weight": 0.3195
+    },
+    {
+      "feature": "prep",
+      "weight": 0.3161
+    },
+    {
+      "feature": "intelligence",
+      "weight": 0.3161
+    },
+    {
+      "feature": "management human",
+      "weight": 0.3153
+    }
+  ],
+  "healthcare": [
+    {
+      "feature": "healthcare",
+      "weight": 4.079
+    },
+    {
+      "feature": "medical",
+      "weight": 1.3579
+    },
+    {
+      "feature": "care",
+      "weight": 1.0851
+    },
+    {
+      "feature": "patients",
+      "weight": 0.7413
+    },
+    {
+      "feature": "reporting",
+      "weight": 0.7379
+    },
+    {
+      "feature": "billing",
+      "weight": 0.7269
+    },
+    {
+      "feature": "health information",
+      "weight": 0.7252
+    },
+    {
+      "feature": "home healthcare",
+      "weight": 0.6931
+    },
+    {
+      "feature": "home",
+      "weight": 0.6234
+    },
+    {
+      "feature": "charts",
+      "weight": 0.6059
+    },
+    {
+      "feature": "daily living",
+      "weight": 0.5821
+    },
+    {
+      "feature": "clinical",
+      "weight": 0.5793
+    },
+    {
+      "feature": "healthcare management",
+      "weight": 0.5729
+    },
+    {
+      "feature": "health",
+      "weight": 0.5595
+    },
+    {
+      "feature": "performs",
+      "weight": 0.5518
+    },
+    {
+      "feature": "arrangements",
+      "weight": 0.5507
+    },
+    {
+      "feature": "ehr",
+      "weight": 0.546
+    },
+    {
+      "feature": "salary",
+      "weight": 0.5392
+    },
+    {
+      "feature": "services",
+      "weight": 0.5324
+    },
+    {
+      "feature": "analytics",
+      "weight": 0.5222
+    },
+    {
+      "feature": "clinical research",
+      "weight": 0.5186
+    },
+    {
+      "feature": "recruiter",
+      "weight": 0.5065
+    },
+    {
+      "feature": "assisted",
+      "weight": 0.4985
+    },
+    {
+      "feature": "specialist",
+      "weight": 0.4954
+    },
+    {
+      "feature": "professionals",
+      "weight": 0.4927
+    },
+    {
+      "feature": "campaigns",
+      "weight": 0.4892
+    },
+    {
+      "feature": "tasks",
+      "weight": 0.4729
+    },
+    {
+      "feature": "candidates",
+      "weight": 0.4676
+    },
+    {
+      "feature": "hiring managers",
+      "weight": 0.4631
+    },
+    {
+      "feature": "management",
+      "weight": 0.4608
+    },
+    {
+      "feature": "administrative assistant",
+      "weight": 0.4587
+    },
+    {
+      "feature": "hospitals",
+      "weight": 0.4563
+    },
+    {
+      "feature": "planning",
+      "weight": 0.4546
+    },
+    {
+      "feature": "medical billing",
+      "weight": 0.4431
+    },
+    {
+      "feature": "staffing",
+      "weight": 0.4427
+    },
+    {
+      "feature": "clients",
+      "weight": 0.4414
+    },
+    {
+      "feature": "disease",
+      "weight": 0.4386
+    },
+    {
+      "feature": "state healthcare",
+      "weight": 0.438
+    },
+    {
+      "feature": "hvac",
+      "weight": 0.4363
+    },
+    {
+      "feature": "google analytics",
+      "weight": 0.4353
+    },
+    {
+      "feature": "using hand",
+      "weight": 0.432
+    },
+    {
+      "feature": "mba",
+      "weight": 0.4241
+    },
+    {
+      "feature": "policies procedures",
+      "weight": 0.4211
+    },
+    {
+      "feature": "therapy",
+      "weight": 0.4178
+    },
+    {
+      "feature": "data",
+      "weight": 0.4157
+    },
+    {
+      "feature": "recruitment",
+      "weight": 0.4119
+    },
+    {
+      "feature": "occupational",
+      "weight": 0.4118
+    },
+    {
+      "feature": "implementation",
+      "weight": 0.4104
+    },
+    {
+      "feature": "led",
+      "weight": 0.4104
+    },
+    {
+      "feature": "travel arrangements",
+      "weight": 0.4101
+    }
+  ],
+  "legal": [
+    {
+      "feature": "advocate",
+      "weight": 4.234
+    },
+    {
+      "feature": "child",
+      "weight": 1.333
+    },
+    {
+      "feature": "service advocate",
+      "weight": 1.2592
+    },
+    {
+      "feature": "illinois",
+      "weight": 0.8959
+    },
+    {
+      "feature": "aix",
+      "weight": 0.8672
+    },
+    {
+      "feature": "fundraising",
+      "weight": 0.7838
+    },
+    {
+      "feature": "provider",
+      "weight": 0.7517
+    },
+    {
+      "feature": "diagnosis",
+      "weight": 0.7072
+    },
+    {
+      "feature": "pharmacy technician",
+      "weight": 0.6879
+    },
+    {
+      "feature": "instrumentation",
+      "weight": 0.681
+    },
+    {
+      "feature": "biomedical",
+      "weight": 0.6799
+    },
+    {
+      "feature": "epic",
+      "weight": 0.6725
+    },
+    {
+      "feature": "reimbursement",
+      "weight": 0.6714
+    },
+    {
+      "feature": "administration",
+      "weight": 0.6688
+    },
+    {
+      "feature": "law",
+      "weight": 0.6373
+    },
+    {
+      "feature": "welfare",
+      "weight": 0.6241
+    },
+    {
+      "feature": "advocate summary",
+      "weight": 0.6196
+    },
+    {
+      "feature": "competition",
+      "weight": 0.6046
+    },
+    {
+      "feature": "advocate company",
+      "weight": 0.5839
+    },
+    {
+      "feature": "blood",
+      "weight": 0.5815
+    },
+    {
+      "feature": "collection",
+      "weight": 0.5769
+    },
+    {
+      "feature": "staff",
+      "weight": 0.5604
+    },
+    {
+      "feature": "svp",
+      "weight": 0.5604
+    },
+    {
+      "feature": "corporate",
+      "weight": 0.5593
+    },
+    {
+      "feature": "banker",
+      "weight": 0.5537
+    },
+    {
+      "feature": "violence",
+      "weight": 0.5535
+    },
+    {
+      "feature": "domestic violence",
+      "weight": 0.5512
+    },
+    {
+      "feature": "sales goals",
+      "weight": 0.5338
+    },
+    {
+      "feature": "cardiac",
+      "weight": 0.5302
+    },
+    {
+      "feature": "obtain",
+      "weight": 0.5266
+    },
+    {
+      "feature": "pediatric",
+      "weight": 0.5162
+    },
+    {
+      "feature": "families",
+      "weight": 0.5127
+    },
+    {
+      "feature": "compiled",
+      "weight": 0.4939
+    },
+    {
+      "feature": "delhi",
+      "weight": 0.4913
+    },
+    {
+      "feature": "bills",
+      "weight": 0.4892
+    },
+    {
+      "feature": "aug",
+      "weight": 0.4868
+    },
+    {
+      "feature": "insurance",
+      "weight": 0.4834
+    },
+    {
+      "feature": "credentialing",
+      "weight": 0.4816
+    },
+    {
+      "feature": "court",
+      "weight": 0.4749
+    },
+    {
+      "feature": "financial",
+      "weight": 0.4745
+    },
+    {
+      "feature": "agents",
+      "weight": 0.4721
+    },
+    {
+      "feature": "clinical",
+      "weight": 0.4627
+    },
+    {
+      "feature": "appropriate",
+      "weight": 0.4621
+    },
+    {
+      "feature": "assessment",
+      "weight": 0.4582
+    },
+    {
+      "feature": "supervisor",
+      "weight": 0.4511
+    },
+    {
+      "feature": "trauma",
+      "weight": 0.451
+    },
+    {
+      "feature": "salon",
+      "weight": 0.446
+    },
+    {
+      "feature": "behavior",
+      "weight": 0.4426
+    },
+    {
+      "feature": "interviewing",
+      "weight": 0.4414
+    },
+    {
+      "feature": "chicago",
+      "weight": 0.4327
+    }
+  ],
+  "logistics": [
+    {
+      "feature": "aviation",
+      "weight": 3.1961
+    },
+    {
+      "feature": "aircraft",
+      "weight": 2.5292
+    },
+    {
+      "feature": "flight",
+      "weight": 1.3975
+    },
+    {
+      "feature": "navy",
+      "weight": 1.1644
+    },
+    {
+      "feature": "ammunition",
+      "weight": 0.7519
+    },
+    {
+      "feature": "cargo",
+      "weight": 0.7196
+    },
+    {
+      "feature": "brigade",
+      "weight": 0.7091
+    },
+    {
+      "feature": "military",
+      "weight": 0.6626
+    },
+    {
+      "feature": "passenger",
+      "weight": 0.6608
+    },
+    {
+      "feature": "faa",
+      "weight": 0.6304
+    },
+    {
+      "feature": "mechanic",
+      "weight": 0.5948
+    },
+    {
+      "feature": "supply",
+      "weight": 0.5767
+    },
+    {
+      "feature": "maintenance",
+      "weight": 0.5763
+    },
+    {
+      "feature": "repair",
+      "weight": 0.5762
+    },
+    {
+      "feature": "travel",
+      "weight": 0.5743
+    },
+    {
+      "feature": "pump",
+      "weight": 0.5658
+    },
+    {
+      "feature": "squadron",
+      "weight": 0.562
+    },
+    {
+      "feature": "paint",
+      "weight": 0.5436
+    },
+    {
+      "feature": "avionics",
+      "weight": 0.5413
+    },
+    {
+      "feature": "operator",
+      "weight": 0.5376
+    },
+    {
+      "feature": "safety",
+      "weight": 0.5366
+    },
+    {
+      "feature": "airport",
+      "weight": 0.529
+    },
+    {
+      "feature": "pilots",
+      "weight": 0.5281
+    },
+    {
+      "feature": "ordnance",
+      "weight": 0.5227
+    },
+    {
+      "feature": "regulations",
+      "weight": 0.5042
+    },
+    {
+      "feature": "weapons",
+      "weight": 0.4972
+    },
+    {
+      "feature": "airline",
+      "weight": 0.4952
+    },
+    {
+      "feature": "engine",
+      "weight": 0.4909
+    },
+    {
+      "feature": "security",
+      "weight": 0.4874
+    },
+    {
+      "feature": "fuel",
+      "weight": 0.4799
+    },
+    {
+      "feature": "according",
+      "weight": 0.4757
+    },
+    {
+      "feature": "dod",
+      "weight": 0.4626
+    },
+    {
+      "feature": "naval",
+      "weight": 0.4572
+    },
+    {
+      "feature": "aerospace",
+      "weight": 0.4554
+    },
+    {
+      "feature": "systems engineering",
+      "weight": 0.4551
+    },
+    {
+      "feature": "fluid",
+      "weight": 0.45
+    },
+    {
+      "feature": "state aviation",
+      "weight": 0.4494
+    },
+    {
+      "feature": "paralegal",
+      "weight": 0.4434
+    },
+    {
+      "feature": "uk",
+      "weight": 0.4412
+    },
+    {
+      "feature": "unix",
+      "weight": 0.4393
+    },
+    {
+      "feature": "program",
+      "weight": 0.4351
+    },
+    {
+      "feature": "sigma",
+      "weight": 0.4339
+    },
+    {
+      "feature": "logistics",
+      "weight": 0.4328
+    },
+    {
+      "feature": "managing",
+      "weight": 0.4207
+    },
+    {
+      "feature": "loading",
+      "weight": 0.4091
+    },
+    {
+      "feature": "supervised",
+      "weight": 0.4041
+    },
+    {
+      "feature": "freight",
+      "weight": 0.3981
+    },
+    {
+      "feature": "crew",
+      "weight": 0.3971
+    },
+    {
+      "feature": "gpa",
+      "weight": 0.3905
+    },
+    {
+      "feature": "qualifications",
+      "weight": 0.3873
+    }
+  ],
+  "ops": [
+    {
+      "feature": "consultant",
+      "weight": 4.3778
+    },
+    {
+      "feature": "experience consultant",
+      "weight": 1.6428
+    },
+    {
+      "feature": "consultant summary",
+      "weight": 1.1697
+    },
+    {
+      "feature": "reservoir",
+      "weight": 0.867
+    },
+    {
+      "feature": "film",
+      "weight": 0.8091
+    },
+    {
+      "feature": "consultant current",
+      "weight": 0.7962
+    },
+    {
+      "feature": "drilling",
+      "weight": 0.7643
+    },
+    {
+      "feature": "deloitte",
+      "weight": 0.7367
+    },
+    {
+      "feature": "consulting",
+      "weight": 0.6838
+    },
+    {
+      "feature": "oil",
+      "weight": 0.6566
+    },
+    {
+      "feature": "consultant professional",
+      "weight": 0.6563
+    },
+    {
+      "feature": "russian",
+      "weight": 0.6512
+    },
+    {
+      "feature": "leasing",
+      "weight": 0.6259
+    },
+    {
+      "feature": "market",
+      "weight": 0.6231
+    },
+    {
+      "feature": "consultant company",
+      "weight": 0.6216
+    },
+    {
+      "feature": "oracle",
+      "weight": 0.6155
+    },
+    {
+      "feature": "pharmacist",
+      "weight": 0.6046
+    },
+    {
+      "feature": "iso",
+      "weight": 0.5944
+    },
+    {
+      "feature": "ibm",
+      "weight": 0.5846
+    },
+    {
+      "feature": "windows",
+      "weight": 0.5687
+    },
+    {
+      "feature": "asc",
+      "weight": 0.5521
+    },
+    {
+      "feature": "workflow",
+      "weight": 0.5515
+    },
+    {
+      "feature": "business",
+      "weight": 0.5499
+    },
+    {
+      "feature": "economics",
+      "weight": 0.5488
+    },
+    {
+      "feature": "aseptic",
+      "weight": 0.5479
+    },
+    {
+      "feature": "ed",
+      "weight": 0.5426
+    },
+    {
+      "feature": "vmware",
+      "weight": 0.5401
+    },
+    {
+      "feature": "managed",
+      "weight": 0.5378
+    },
+    {
+      "feature": "troubleshoot",
+      "weight": 0.5326
+    },
+    {
+      "feature": "resident",
+      "weight": 0.5269
+    },
+    {
+      "feature": "integration",
+      "weight": 0.5189
+    },
+    {
+      "feature": "jun",
+      "weight": 0.5156
+    },
+    {
+      "feature": "customer support",
+      "weight": 0.5145
+    },
+    {
+      "feature": "apple",
+      "weight": 0.5051
+    },
+    {
+      "feature": "desktops",
+      "weight": 0.5044
+    },
+    {
+      "feature": "communications",
+      "weight": 0.5024
+    },
+    {
+      "feature": "enterprise",
+      "weight": 0.498
+    },
+    {
+      "feature": "flows",
+      "weight": 0.4963
+    },
+    {
+      "feature": "environmental",
+      "weight": 0.4956
+    },
+    {
+      "feature": "mysql",
+      "weight": 0.4895
+    },
+    {
+      "feature": "operations",
+      "weight": 0.4835
+    },
+    {
+      "feature": "change management",
+      "weight": 0.4774
+    },
+    {
+      "feature": "personality",
+      "weight": 0.4759
+    },
+    {
+      "feature": "apartment",
+      "weight": 0.4721
+    },
+    {
+      "feature": "consultant january",
+      "weight": 0.4674
+    },
+    {
+      "feature": "costs",
+      "weight": 0.4665
+    },
+    {
+      "feature": "installed",
+      "weight": 0.4602
+    },
+    {
+      "feature": "ems",
+      "weight": 0.4591
+    },
+    {
+      "feature": "aaa",
+      "weight": 0.4483
+    },
+    {
+      "feature": "certification",
+      "weight": 0.4453
+    }
+  ],
+  "personal-care": [
+    {
+      "feature": "fitness",
+      "weight": 3.4787
+    },
+    {
+      "feature": "members",
+      "weight": 1.1077
+    },
+    {
+      "feature": "spa",
+      "weight": 1.0936
+    },
+    {
+      "feature": "club",
+      "weight": 1.0749
+    },
+    {
+      "feature": "surgical",
+      "weight": 0.8425
+    },
+    {
+      "feature": "instructor",
+      "weight": 0.8383
+    },
+    {
+      "feature": "fitness instructor",
+      "weight": 0.8081
+    },
+    {
+      "feature": "kids",
+      "weight": 0.7552
+    },
+    {
+      "feature": "facility",
+      "weight": 0.7395
+    },
+    {
+      "feature": "general manager",
+      "weight": 0.7129
+    },
+    {
+      "feature": "memberships",
+      "weight": 0.6961
+    },
+    {
+      "feature": "gym",
+      "weight": 0.6843
+    },
+    {
+      "feature": "membership",
+      "weight": 0.6816
+    },
+    {
+      "feature": "avid",
+      "weight": 0.6704
+    },
+    {
+      "feature": "sports",
+      "weight": 0.6605
+    },
+    {
+      "feature": "exercise",
+      "weight": 0.625
+    },
+    {
+      "feature": "zumba",
+      "weight": 0.6174
+    },
+    {
+      "feature": "cleanliness",
+      "weight": 0.6045
+    },
+    {
+      "feature": "august",
+      "weight": 0.596
+    },
+    {
+      "feature": "center",
+      "weight": 0.5784
+    },
+    {
+      "feature": "operate",
+      "weight": 0.5746
+    },
+    {
+      "feature": "trainer",
+      "weight": 0.5655
+    },
+    {
+      "feature": "gross",
+      "weight": 0.5651
+    },
+    {
+      "feature": "service",
+      "weight": 0.5498
+    },
+    {
+      "feature": "rehabilitation",
+      "weight": 0.5496
+    },
+    {
+      "feature": "dallas",
+      "weight": 0.5386
+    },
+    {
+      "feature": "radiology",
+      "weight": 0.531
+    },
+    {
+      "feature": "commodity",
+      "weight": 0.5288
+    },
+    {
+      "feature": "kronos",
+      "weight": 0.5277
+    },
+    {
+      "feature": "personal sales",
+      "weight": 0.523
+    },
+    {
+      "feature": "implementation",
+      "weight": 0.522
+    },
+    {
+      "feature": "operations",
+      "weight": 0.5188
+    },
+    {
+      "feature": "patient safety",
+      "weight": 0.5155
+    },
+    {
+      "feature": "operations manager",
+      "weight": 0.5126
+    },
+    {
+      "feature": "ensure",
+      "weight": 0.5019
+    },
+    {
+      "feature": "suspense",
+      "weight": 0.4977
+    },
+    {
+      "feature": "health promotion",
+      "weight": 0.4954
+    },
+    {
+      "feature": "animal",
+      "weight": 0.4876
+    },
+    {
+      "feature": "mechanical",
+      "weight": 0.4867
+    },
+    {
+      "feature": "wellness",
+      "weight": 0.4795
+    },
+    {
+      "feature": "heat",
+      "weight": 0.4702
+    },
+    {
+      "feature": "phone",
+      "weight": 0.4616
+    },
+    {
+      "feature": "general",
+      "weight": 0.4582
+    },
+    {
+      "feature": "assistant january",
+      "weight": 0.4546
+    },
+    {
+      "feature": "camp",
+      "weight": 0.4489
+    },
+    {
+      "feature": "classes",
+      "weight": 0.4475
+    },
+    {
+      "feature": "use",
+      "weight": 0.4464
+    },
+    {
+      "feature": "john",
+      "weight": 0.4461
+    },
+    {
+      "feature": "coaches",
+      "weight": 0.4433
+    },
+    {
+      "feature": "problem solver",
+      "weight": 0.4409
+    }
+  ],
+  "sales": [
+    {
+      "feature": "sales",
+      "weight": 2.8451
+    },
+    {
+      "feature": "experience sales",
+      "weight": 2.1012
+    },
+    {
+      "feature": "business development",
+      "weight": 1.9713
+    },
+    {
+      "feature": "sales associate",
+      "weight": 1.8983
+    },
+    {
+      "feature": "sales summary",
+      "weight": 0.8484
+    },
+    {
+      "feature": "customers",
+      "weight": 0.7801
+    },
+    {
+      "feature": "associate summary",
+      "weight": 0.7107
+    },
+    {
+      "feature": "current sales",
+      "weight": 0.6951
+    },
+    {
+      "feature": "development manager",
+      "weight": 0.6898
+    },
+    {
+      "feature": "associate",
+      "weight": 0.6703
+    },
+    {
+      "feature": "questions",
+      "weight": 0.6158
+    },
+    {
+      "feature": "associate company",
+      "weight": 0.5756
+    },
+    {
+      "feature": "forklift",
+      "weight": 0.5744
+    },
+    {
+      "feature": "development executive",
+      "weight": 0.5649
+    },
+    {
+      "feature": "director business",
+      "weight": 0.532
+    },
+    {
+      "feature": "identified",
+      "weight": 0.4833
+    },
+    {
+      "feature": "information",
+      "weight": 0.4777
+    },
+    {
+      "feature": "miami",
+      "weight": 0.4771
+    },
+    {
+      "feature": "native",
+      "weight": 0.4755
+    },
+    {
+      "feature": "credit",
+      "weight": 0.4698
+    },
+    {
+      "feature": "high school",
+      "weight": 0.466
+    },
+    {
+      "feature": "sales company",
+      "weight": 0.4604
+    },
+    {
+      "feature": "accurately",
+      "weight": 0.4603
+    },
+    {
+      "feature": "opportunities",
+      "weight": 0.4407
+    },
+    {
+      "feature": "proposal",
+      "weight": 0.4355
+    },
+    {
+      "feature": "dealership",
+      "weight": 0.43
+    },
+    {
+      "feature": "run",
+      "weight": 0.4279
+    },
+    {
+      "feature": "state sales",
+      "weight": 0.4255
+    },
+    {
+      "feature": "information systems",
+      "weight": 0.4102
+    },
+    {
+      "feature": "mail",
+      "weight": 0.4083
+    },
+    {
+      "feature": "email",
+      "weight": 0.4074
+    },
+    {
+      "feature": "experience business",
+      "weight": 0.4067
+    },
+    {
+      "feature": "atlanta",
+      "weight": 0.4058
+    },
+    {
+      "feature": "people",
+      "weight": 0.4018
+    },
+    {
+      "feature": "quick learner",
+      "weight": 0.3942
+    },
+    {
+      "feature": "services",
+      "weight": 0.3934
+    },
+    {
+      "feature": "sas",
+      "weight": 0.389
+    },
+    {
+      "feature": "data analytics",
+      "weight": 0.3851
+    },
+    {
+      "feature": "shelves",
+      "weight": 0.3813
+    },
+    {
+      "feature": "price",
+      "weight": 0.3769
+    },
+    {
+      "feature": "receive",
+      "weight": 0.3757
+    },
+    {
+      "feature": "cold",
+      "weight": 0.3696
+    },
+    {
+      "feature": "specific products",
+      "weight": 0.3692
+    },
+    {
+      "feature": "prospective customers",
+      "weight": 0.369
+    },
+    {
+      "feature": "option",
+      "weight": 0.3686
+    },
+    {
+      "feature": "project engineer",
+      "weight": 0.3672
+    },
+    {
+      "feature": "deals",
+      "weight": 0.3666
+    },
+    {
+      "feature": "hours",
+      "weight": 0.3622
+    },
+    {
+      "feature": "extensive",
+      "weight": 0.3618
+    },
+    {
+      "feature": "terms",
+      "weight": 0.3603
+    }
+  ],
+  "skilled-trade": [
+    {
+      "feature": "construction",
+      "weight": 4.036
+    },
+    {
+      "feature": "concrete",
+      "weight": 1.0712
+    },
+    {
+      "feature": "construction worker",
+      "weight": 0.7521
+    },
+    {
+      "feature": "que",
+      "weight": 0.6927
+    },
+    {
+      "feature": "cleaned",
+      "weight": 0.5946
+    },
+    {
+      "feature": "materials",
+      "weight": 0.5856
+    },
+    {
+      "feature": "energy",
+      "weight": 0.5521
+    },
+    {
+      "feature": "specifications",
+      "weight": 0.5496
+    },
+    {
+      "feature": "projects",
+      "weight": 0.5252
+    },
+    {
+      "feature": "osha",
+      "weight": 0.5242
+    },
+    {
+      "feature": "project",
+      "weight": 0.5226
+    },
+    {
+      "feature": "medal",
+      "weight": 0.5221
+    },
+    {
+      "feature": "worker",
+      "weight": 0.5172
+    },
+    {
+      "feature": "safety",
+      "weight": 0.503
+    },
+    {
+      "feature": "loan",
+      "weight": 0.5024
+    },
+    {
+      "feature": "equipment",
+      "weight": 0.4736
+    },
+    {
+      "feature": "fiber",
+      "weight": 0.4734
+    },
+    {
+      "feature": "helped",
+      "weight": 0.4585
+    },
+    {
+      "feature": "work",
+      "weight": 0.4525
+    },
+    {
+      "feature": "completion",
+      "weight": 0.4459
+    },
+    {
+      "feature": "construction projects",
+      "weight": 0.4455
+    },
+    {
+      "feature": "heavy",
+      "weight": 0.4396
+    },
+    {
+      "feature": "state construction",
+      "weight": 0.429
+    },
+    {
+      "feature": "la",
+      "weight": 0.4162
+    },
+    {
+      "feature": "inspection",
+      "weight": 0.4153
+    },
+    {
+      "feature": "inspections",
+      "weight": 0.3936
+    },
+    {
+      "feature": "operations",
+      "weight": 0.3906
+    },
+    {
+      "feature": "property",
+      "weight": 0.3903
+    },
+    {
+      "feature": "foreman",
+      "weight": 0.3896
+    },
+    {
+      "feature": "asphalt",
+      "weight": 0.3829
+    },
+    {
+      "feature": "inspector",
+      "weight": 0.3818
+    },
+    {
+      "feature": "experience construction",
+      "weight": 0.3787
+    },
+    {
+      "feature": "cost",
+      "weight": 0.3752
+    },
+    {
+      "feature": "general ledger",
+      "weight": 0.3743
+    },
+    {
+      "feature": "contractor",
+      "weight": 0.3726
+    },
+    {
+      "feature": "welder",
+      "weight": 0.3714
+    },
+    {
+      "feature": "construction management",
+      "weight": 0.3709
+    },
+    {
+      "feature": "estate",
+      "weight": 0.3691
+    },
+    {
+      "feature": "quickbooks",
+      "weight": 0.3635
+    },
+    {
+      "feature": "residential",
+      "weight": 0.3588
+    },
+    {
+      "feature": "facilities",
+      "weight": 0.3566
+    },
+    {
+      "feature": "electric",
+      "weight": 0.3514
+    },
+    {
+      "feature": "following",
+      "weight": 0.3507
+    },
+    {
+      "feature": "ledger",
+      "weight": 0.3459
+    },
+    {
+      "feature": "apartments",
+      "weight": 0.3377
+    },
+    {
+      "feature": "al",
+      "weight": 0.3359
+    },
+    {
+      "feature": "real estate",
+      "weight": 0.3358
+    },
+    {
+      "feature": "department chair",
+      "weight": 0.335
+    },
+    {
+      "feature": "carpenter",
+      "weight": 0.3333
+    },
+    {
+      "feature": "faculty",
+      "weight": 0.3299
+    }
+  ],
+  "support": [
+    {
+      "feature": "bpo",
+      "weight": 1.1082
+    },
+    {
+      "feature": "claims",
+      "weight": 0.8903
+    },
+    {
+      "feature": "configuration",
+      "weight": 0.8048
+    },
+    {
+      "feature": "testing",
+      "weight": 0.7669
+    },
+    {
+      "feature": "vendor",
+      "weight": 0.7328
+    },
+    {
+      "feature": "network",
+      "weight": 0.6898
+    },
+    {
+      "feature": "cisco",
+      "weight": 0.6743
+    },
+    {
+      "feature": "google",
+      "weight": 0.6313
+    },
+    {
+      "feature": "mortgage",
+      "weight": 0.5671
+    },
+    {
+      "feature": "agents",
+      "weight": 0.564
+    },
+    {
+      "feature": "travel",
+      "weight": 0.5381
+    },
+    {
+      "feature": "test cases",
+      "weight": 0.5233
+    },
+    {
+      "feature": "oversight",
+      "weight": 0.5092
+    },
+    {
+      "feature": "client",
+      "weight": 0.4993
+    },
+    {
+      "feature": "operations",
+      "weight": 0.4926
+    },
+    {
+      "feature": "guest",
+      "weight": 0.4879
+    },
+    {
+      "feature": "married",
+      "weight": 0.4741
+    },
+    {
+      "feature": "million",
+      "weight": 0.4698
+    },
+    {
+      "feature": "po",
+      "weight": 0.4695
+    },
+    {
+      "feature": "modification",
+      "weight": 0.4687
+    },
+    {
+      "feature": "server",
+      "weight": 0.4614
+    },
+    {
+      "feature": "status married",
+      "weight": 0.4522
+    },
+    {
+      "feature": "athletics",
+      "weight": 0.4468
+    },
+    {
+      "feature": "accruals",
+      "weight": 0.4455
+    },
+    {
+      "feature": "taking care",
+      "weight": 0.4324
+    },
+    {
+      "feature": "integration testing",
+      "weight": 0.4238
+    },
+    {
+      "feature": "reported",
+      "weight": 0.4226
+    },
+    {
+      "feature": "process",
+      "weight": 0.4213
+    },
+    {
+      "feature": "service delivery",
+      "weight": 0.4083
+    },
+    {
+      "feature": "key",
+      "weight": 0.4049
+    },
+    {
+      "feature": "functional",
+      "weight": 0.4022
+    },
+    {
+      "feature": "provisioning",
+      "weight": 0.398
+    },
+    {
+      "feature": "account",
+      "weight": 0.3947
+    },
+    {
+      "feature": "applicant",
+      "weight": 0.3945
+    },
+    {
+      "feature": "delivery",
+      "weight": 0.3941
+    },
+    {
+      "feature": "incident management",
+      "weight": 0.3922
+    },
+    {
+      "feature": "male",
+      "weight": 0.3885
+    },
+    {
+      "feature": "devices",
+      "weight": 0.3879
+    },
+    {
+      "feature": "service agent",
+      "weight": 0.385
+    },
+    {
+      "feature": "technical support",
+      "weight": 0.3844
+    },
+    {
+      "feature": "updating",
+      "weight": 0.3824
+    },
+    {
+      "feature": "marital status",
+      "weight": 0.3807
+    },
+    {
+      "feature": "metrics",
+      "weight": 0.3768
+    },
+    {
+      "feature": "marital",
+      "weight": 0.3762
+    },
+    {
+      "feature": "recruiting",
+      "weight": 0.3739
+    },
+    {
+      "feature": "escalations",
+      "weight": 0.3695
+    },
+    {
+      "feature": "matter expert",
+      "weight": 0.3694
+    },
+    {
+      "feature": "risk",
+      "weight": 0.3686
+    },
+    {
+      "feature": "father",
+      "weight": 0.3662
+    },
+    {
+      "feature": "sla",
+      "weight": 0.3625
+    }
+  ],
+  "technology": [
+    {
+      "feature": "engineering",
+      "weight": 3.6057
+    },
+    {
+      "feature": "information technology",
+      "weight": 1.4586
+    },
+    {
+      "feature": "engineering manager",
+      "weight": 1.1969
+    },
+    {
+      "feature": "engineering technician",
+      "weight": 1.1023
+    },
+    {
+      "feature": "qa",
+      "weight": 0.98
+    },
+    {
+      "feature": "experience engineering",
+      "weight": 0.9692
+    },
+    {
+      "feature": "technology",
+      "weight": 0.8359
+    },
+    {
+      "feature": "engineering intern",
+      "weight": 0.8183
+    },
+    {
+      "feature": "electrical",
+      "weight": 0.7407
+    },
+    {
+      "feature": "football",
+      "weight": 0.729
+    },
+    {
+      "feature": "manufacturing",
+      "weight": 0.7265
+    },
+    {
+      "feature": "automation",
+      "weight": 0.6707
+    },
+    {
+      "feature": "systems",
+      "weight": 0.641
+    },
+    {
+      "feature": "software",
+      "weight": 0.6404
+    },
+    {
+      "feature": "infrastructure",
+      "weight": 0.6282
+    },
+    {
+      "feature": "pm",
+      "weight": 0.6201
+    },
+    {
+      "feature": "letter",
+      "weight": 0.6191
+    },
+    {
+      "feature": "drafting",
+      "weight": 0.5976
+    },
+    {
+      "feature": "technology specialist",
+      "weight": 0.5625
+    },
+    {
+      "feature": "electronics",
+      "weight": 0.5548
+    },
+    {
+      "feature": "intel",
+      "weight": 0.5359
+    },
+    {
+      "feature": "plc",
+      "weight": 0.535
+    },
+    {
+      "feature": "sharepoint",
+      "weight": 0.5293
+    },
+    {
+      "feature": "equipment",
+      "weight": 0.5242
+    },
+    {
+      "feature": "python",
+      "weight": 0.5227
+    },
+    {
+      "feature": "robotics",
+      "weight": 0.5024
+    },
+    {
+      "feature": "intern",
+      "weight": 0.4965
+    },
+    {
+      "feature": "asp",
+      "weight": 0.4948
+    },
+    {
+      "feature": "architecture",
+      "weight": 0.4905
+    },
+    {
+      "feature": "process",
+      "weight": 0.4894
+    },
+    {
+      "feature": "upgrade",
+      "weight": 0.4805
+    },
+    {
+      "feature": "fabrication",
+      "weight": 0.4713
+    },
+    {
+      "feature": "spe",
+      "weight": 0.4708
+    },
+    {
+      "feature": "sap",
+      "weight": 0.4641
+    },
+    {
+      "feature": "mechanical engineering",
+      "weight": 0.4545
+    },
+    {
+      "feature": "mission",
+      "weight": 0.453
+    },
+    {
+      "feature": "volunteer",
+      "weight": 0.4293
+    },
+    {
+      "feature": "computers",
+      "weight": 0.4239
+    },
+    {
+      "feature": "cover letter",
+      "weight": 0.4229
+    },
+    {
+      "feature": "database",
+      "weight": 0.4221
+    },
+    {
+      "feature": "programming",
+      "weight": 0.4183
+    },
+    {
+      "feature": "intern company",
+      "weight": 0.4119
+    },
+    {
+      "feature": "mechanical",
+      "weight": 0.4118
+    },
+    {
+      "feature": "project",
+      "weight": 0.4106
+    },
+    {
+      "feature": "upgrades",
+      "weight": 0.4065
+    },
+    {
+      "feature": "application",
+      "weight": 0.4062
+    },
+    {
+      "feature": "directory",
+      "weight": 0.4043
+    },
+    {
+      "feature": "forms",
+      "weight": 0.4024
+    },
+    {
+      "feature": "autocad",
+      "weight": 0.3985
+    },
+    {
+      "feature": "json",
+      "weight": 0.3982
+    }
+  ]
+}

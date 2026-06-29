@@ -169,6 +169,91 @@
     "layout",
     "figma"
   ],
-  "gap_explanation": "The gaps in customerservice, teamwork, and communication are most critical for an arts-media career, as these skills are essential for collaborating on creative projects, engaging with audiences, and presenting work effectively. To address this, you should actively seek roles or volunteer opportunities that involve client interaction or group projects, and practice articulating your ideas clearly in portfolio reviews or networking events.",
-  "llm_timing_ms": 15393
+  "gap_explanation": "The most critical gaps are customerservice, teamwork, and communication, as these are foundational for collaborative arts-media roles like event coordination or content production. Without them, you'll struggle to engage audiences, collaborate on creative projects, or manage client relationships. To close these gaps, practice active listening in group settings, volunteer for team-based events, and take a free online course on professional communication.",
+  "job_evaluations": [
+    {
+      "job_index": 1,
+      "fit": 40,
+      "label": "reach",
+      "why_fits": "You have skills in content, design, and graphic design which are relevant to instructional design. Your ability to present and work with databases could support course development.",
+      "remaining_gaps": "Lack of specific instructional design experience, knowledge of learning theories, and familiarity with authoring tools like Articulate or Captivate. No mention of training or education background."
+    },
+    {
+      "job_index": 2,
+      "fit": 70,
+      "label": "target",
+      "why_fits": "Your creative, design, and graphic design skills align with a creative internship. Experience with events and content creation is valuable.",
+      "remaining_gaps": "No specific portfolio or examples of creative work mentioned. The internship is for Fall 2026, which may be far off. Need to demonstrate relevant projects or coursework."
+    },
+    {
+      "job_index": 3,
+      "fit": 30,
+      "label": "reach",
+      "why_fits": "You have experience with Google Maps and database skills which could be useful for planning and data management tasks.",
+      "remaining_gaps": "No background in urban planning, zoning, or technical planning software. The role likely requires specialized knowledge and possibly a degree in planning or related field."
+    },
+    {
+      "job_index": 4,
+      "fit": 65,
+      "label": "target",
+      "why_fits": "Your graphic design, creative, and design skills are directly relevant. Experience with content and events shows you can handle creative projects.",
+      "remaining_gaps": "No mention of a design portfolio or specific software proficiency (e.g., Adobe Creative Suite). May need to demonstrate ability to work in a team and meet deadlines."
+    },
+    {
+      "job_index": 5,
+      "fit": 50,
+      "label": "target",
+      "why_fits": "Your creative and design skills, along with intern experience, are relevant. Interest in fashion/retail could be a plus.",
+      "remaining_gaps": "No specific fashion or retail experience. The summit is for sophomores, so you need to be in that academic year. Need to show passion for the brand and industry."
+    }
+  ],
+  "ready_jobs": [],
+  "target_jobs": [
+    {
+      "title": "Level I Instructional Designer (contract contingent)",
+      "company": "prosidianconsulting",
+      "url": "https://jobs.smartrecruiters.com/prosidianconsulting/94546307",
+      "fit": 40,
+      "label": "reach",
+      "why_fits": "You have skills in content, design, and graphic design which are relevant to instructional design. Your ability to present and work with databases could support course development.",
+      "remaining_gaps": "Lack of specific instructional design experience, knowledge of learning theories, and familiarity with authoring tools like Articulate or Captivate. No mention of training or education background."
+    },
+    {
+      "title": "Fall 2026 Creative (Paid) Intern",
+      "company": "9e989de2-d327-4d1e-ab67-f4833685bfa6",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208272",
+      "fit": 70,
+      "label": "target",
+      "why_fits": "Your creative, design, and graphic design skills align with a creative internship. Experience with events and content creation is valuable.",
+      "remaining_gaps": "No specific portfolio or examples of creative work mentioned. The internship is for Fall 2026, which may be far off. Need to demonstrate relevant projects or coursework."
+    },
+    {
+      "title": "Planning Technician",
+      "company": "lakewood",
+      "url": "https://lakewood.wd503.myworkdayjobs.com/job/Lakewood-CO/Planning-Technician_JR103799",
+      "fit": 30,
+      "label": "reach",
+      "why_fits": "You have experience with Google Maps and database skills which could be useful for planning and data management tasks.",
+      "remaining_gaps": "No background in urban planning, zoning, or technical planning software. The role likely requires specialized knowledge and possibly a degree in planning or related field."
+    },
+    {
+      "title": "Junior Designer",
+      "company": "56acb34b-70f4-4003-bddd-9a1d5a1b36c1",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3215762",
+      "fit": 65,
+      "label": "target",
+      "why_fits": "Your graphic design, creative, and design skills are directly relevant. Experience with content and events shows you can handle creative projects.",
+      "remaining_gaps": "No mention of a design portfolio or specific software proficiency (e.g., Adobe Creative Suite). May need to demonstrate ability to work in a team and meet deadlines."
+    },
+    {
+      "title": "A&F Co. Design Sophomore Summit - Summer 2026",
+      "company": "AbercrombieAndFitchCo",
+      "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000124138375",
+      "fit": 50,
+      "label": "target",
+      "why_fits": "Your creative and design skills, along with intern experience, are relevant. Interest in fashion/retail could be a plus.",
+      "remaining_gaps": "No specific fashion or retail experience. The summit is for sophomores, so you need to be in that academic year. Need to show passion for the brand and industry."
+    }
+  ],
+  "llm_timing_ms": 13036
 }

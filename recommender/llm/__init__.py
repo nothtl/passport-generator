@@ -34,7 +34,7 @@ def is_enabled() -> bool:
     return _ENABLED
 
 
-def _call_llm(prompt: str, max_tokens: int = 500) -> str | None:
+def _call_llm(prompt: str, max_tokens: int = 500, max_retries: int = 2) -> str | None:
     if not _ENABLED:
         return None
 
@@ -50,23 +50,27 @@ def _call_llm(prompt: str, max_tokens: int = 500) -> str | None:
         "max_tokens": max_tokens,
     }).encode("utf-8")
 
-    req = urllib.request.Request(
-        _DEEPSEEK_URL,
-        data=body,
-        headers={
-            "Authorization": f"Bearer {_API_KEY}",
-            "Content-Type": "application/json",
-        },
-    )
-
-    try:
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            result = json.loads(resp.read().decode("utf-8"))
-        content = result["choices"][0]["message"]["content"]
-        return content
-    except Exception as e:
-        print(f"[LLM] API call failed: {e}")
-        return None
+    for attempt in range(max_retries + 1):
+        try:
+            req = urllib.request.Request(
+                _DEEPSEEK_URL,
+                data=body,
+                headers={
+                    "Authorization": f"Bearer {_API_KEY}",
+                    "Content-Type": "application/json",
+                },
+            )
+            with urllib.request.urlopen(req, timeout=45) as resp:
+                result = json.loads(resp.read().decode("utf-8"))
+            content = result["choices"][0]["message"]["content"]
+            return content
+        except Exception as e:
+            if attempt < max_retries:
+                time.sleep(2 ** attempt)
+                continue
+            print(f"[LLM] Failed after {max_retries+1} attempts: {e}")
+            return None
+    return None
 
 
 def classify_resume(resume_text: str) -> dict | None:
@@ -236,11 +240,12 @@ def enhance(analysis: dict, resume_text: str) -> dict:
     if explanation:
         result["gap_explanation"] = explanation
 
-    # 4. Job evaluations
+    # 4. Job evaluations — include inferred skills for better analysis
+    all_skills = list(set(result.get("skills_extracted", []) + result.get("inferred_skills", [])))
     evaluations = evaluate_jobs(
         resume_text,
         result.get("openings", []),
-        result.get("skills_extracted", []),
+        all_skills,
     )
     if evaluations:
         result["job_evaluations"] = evaluations

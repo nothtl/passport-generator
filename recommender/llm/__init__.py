@@ -166,6 +166,34 @@ Resume skills: {", ".join(skills[:15])}
         return []
 
 
+def infer_skills(resume_text: str, skills: list[str], missing: list[str]) -> list[str]:
+    """LLM infers skills the person likely has based on related skills they DO show.
+
+    E.g., someone using FastAPI + YOLO + PyTorch almost certainly knows Python,
+    even if they didn't list it. Returns list of inferred skill names.
+    """
+    if not missing or not _ENABLED:
+        return []
+
+    prompt = f"""This person's resume shows these skills: {', '.join(skills[:20])}
+These skills are listed as MISSING by our keyword scanner: {', '.join(missing[:15])}
+
+Which of the MISSING skills does this person ALMOST CERTAINLY have, based on inference?
+(e.g., someone who uses FastAPI, PyTorch, and ROS2 definitely knows Python.
+Someone using Azure Functions definitely knows cloud deployment.)
+
+Return JSON: {{"inferred": ["python", "cloud deployment", ...]}}
+Only include skills you are highly confident about. Skip uncertain ones."""
+
+    response = _call_llm(prompt, max_tokens=200)
+    if not response:
+        return []
+    try:
+        return json.loads(response).get("inferred", [])
+    except json.JSONDecodeError:
+        return []
+
+
 def enhance(analysis: dict, resume_text: str) -> dict:
     """Add LLM enrichments. No-op if no API key."""
     if not _ENABLED:
@@ -183,12 +211,23 @@ def enhance(analysis: dict, resume_text: str) -> dict:
             result["llm_reclassified"] = True
             result["llm_reasoning"] = llm_class.get("reasoning", "")
 
-    # 2. Skill evidence
+    # 2. Infer missing skills that person likely has
+    inferred = infer_skills(
+        resume_text,
+        result.get("skills_extracted", []),
+        result.get("missing_skills", []),
+    )
+    if inferred:
+        result["inferred_skills"] = inferred
+        # Remove inferred from gaps
+        result["missing_skills"] = [s for s in result.get("missing_skills", []) if s not in inferred]
+
+    # 3. Skill evidence
     evidence = extract_skill_evidence(resume_text, result.get("skills_extracted", [])[:15])
     if evidence:
         result["skill_evidence"] = evidence
 
-    # 3. Gap explanation
+    # 4. Gap explanation
     explanation = explain_gaps(
         result.get("missing_skills", []),
         result.get("skills_extracted", []),

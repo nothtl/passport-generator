@@ -17,16 +17,46 @@ from typing import Any
 
 _CORPUS_DIR = os.path.join(os.path.dirname(__file__), "..", "corpus")
 
+# Functions without dedicated parquets fall back to the closest related one
+_FALLBACK_MAP = {
+    "arts-media": "design",
+    "agriculture": "other",
+    "building-grounds": "other",
+    "personal-care": "other",
+    "protective-service": "security",
+    "science": "technology",
+    "social-service": "education",
+    "administrative": "ops",
+    "food-service": "other",
+    "hospitality": "other",
+    "logistics": "ops",
+    "manufacturing": "ops",
+}
+
 _cached_df: dict[str, Any] = {}
 _cached_idf: dict[str, dict[str, float]] = {}
 
 
-def _load_df(func_lower: str) -> Any:
-    if func_lower in _cached_df:
-        return _cached_df[func_lower]
+def _resolve_func(func_lower: str) -> str:
+    """Resolve function to parquet file, using fallback if missing."""
     path = os.path.join(_CORPUS_DIR, f"{func_lower}.parquet")
+    if os.path.exists(path):
+        return func_lower
+    fallback = _FALLBACK_MAP.get(func_lower)
+    if fallback:
+        return fallback
+    return func_lower
+
+
+def _load_df(func_lower: str) -> Any:
+    cache_key = func_lower  # always cache under original name
+    if cache_key in _cached_df:
+        return _cached_df[cache_key]
+
+    resolved = _resolve_func(func_lower)
+    path = os.path.join(_CORPUS_DIR, f"{resolved}.parquet")
     if not os.path.exists(path):
-        _cached_df[func_lower] = None
+        _cached_df[cache_key] = None
         return None
     import pyarrow.parquet as pq
     table = pq.read_table(
@@ -35,9 +65,9 @@ def _load_df(func_lower: str) -> Any:
     )
     df = table.to_pandas()
     if df.empty:
-        _cached_df[func_lower] = None
+        _cached_df[cache_key] = None
         return None
-    _cached_df[func_lower] = df
+    _cached_df[cache_key] = df
     return df
 
 

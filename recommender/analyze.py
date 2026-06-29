@@ -92,65 +92,40 @@ def analyze(resume_text: str, top_k: int = 10):
         ],
     }
     result = llm_enhance(result, resume_text)
-    return _clean_output(result)
 
-
-def _clean_output(r: dict) -> dict:
-    """Simplify output for readability — remove redundancy and internal fields."""
-    out = {
-        "function": r["function"],
-        "confidence": r["match_pct"],
-        "skills": r.get("skills_extracted", []),
-        "market_relevant": r.get("market_skills", []),
-        "related_skills": [
-            {"skill": s, "pmi": round(sc, 2)}
-            for s, sc in r.get("related_skills", [])
-        ],
-        "market_gaps": r.get("missing_skills", []),
-        "inferred_skills": r.get("inferred_skills", []),
-        "alternatives": [
-            {"function": a["function"], "confidence": a["match_pct"]}
-            for a in r.get("alternatives", [])
-        ],
-        "coach_notes": r.get("gap_explanation", ""),
-        "jobs": [],
-    }
-
-    # Merge ready/target jobs with evaluations
-    for job in r.get("ready_jobs", []):
-        out["jobs"].append({
-            "title": job.get("title", ""),
-            "company": job.get("company", ""),
-            "url": job.get("url", ""),
-            "fit": job.get("fit", 0),
-            "label": "ready",
-            "why_fits": job.get("why_fits", ""),
-            "remaining_gaps": job.get("remaining_gaps", ""),
+    # Simplify for output: keep only human-relevant fields
+    jobs = []
+    for j in result.get("ready_jobs", []) + result.get("target_jobs", []):
+        jobs.append({
+            "title": j.get("title", ""),
+            "company": j.get("company", ""),
+            "url": j.get("url", ""),
+            "fit": j.get("fit", 0),
+            "label": j.get("label", ""),
+            "why": j.get("why_fits", j.get("why", "")),
+            "gaps": j.get("remaining_gaps", ""),
         })
-    for job in r.get("target_jobs", []):
-        out["jobs"].append({
-            "title": job.get("title", ""),
-            "company": job.get("company", ""),
-            "url": job.get("url", ""),
-            "fit": job.get("fit", 0),
-            "label": "target",
-            "why_fits": job.get("why_fits", ""),
-            "remaining_gaps": job.get("remaining_gaps", ""),
-        })
-    # Fallback: use raw openings if LLM didn't evaluate
-    if not out["jobs"] and r.get("openings"):
-        for jd in r["openings"]:
-            out["jobs"].append({
+    if not jobs:
+        for jd in result.get("openings", []):
+            jobs.append({
                 "title": jd.get("title", ""),
                 "company": jd.get("company", ""),
                 "url": jd.get("url", ""),
-                "fit": 0,
-                "label": "target",
-                "why_fits": "",
-                "remaining_gaps": "",
+                "fit": 0, "label": "", "why": "", "gaps": "",
             })
 
-    return out
+    return {
+        "function": result["function"],
+        "confidence": result["match_pct"],
+        "skills": result.get("skills_extracted", []),
+        "market_relevant": result.get("market_skills", []),
+        "inferred": result.get("inferred_skills", []),
+        "gaps": result.get("missing_skills", []),
+        "related": [{"skill": s, "pmi": round(sc, 2)} for s, sc in result.get("related_skills", [])],
+        "alternatives": [{"function": a["function"], "pct": a["match_pct"]} for a in result.get("alternatives", [])[:5]],
+        "coach_notes": result.get("gap_explanation", ""),
+        "jobs": jobs,
+    }
 
 
 def main():

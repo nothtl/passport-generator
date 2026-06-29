@@ -118,21 +118,25 @@ def main():
     print()
 
     print("=" * 60)
-    print("SKILLS (matched to market JD vocabulary)")
+    print("SKILLS FOUND")
     print("=" * 60)
-    market = result.get('market_skills', [])
     all_skills = result.get('skills_extracted', [])
-    print(f"  Market-relevant ({len(market)}/{len(all_skills)}):")
-    if market:
+    print(f"  All ({len(all_skills)}):")
+    if all_skills:
         cols = 3
-        for i in range(0, min(len(market), 24), cols):
-            row = market[i:i+cols]
+        for i in range(0, min(len(all_skills), 24), cols):
+            row = all_skills[i:i+cols]
             print(f"    " + "  ".join(f"[Y] {s:<30s}" for s in row))
+    print()
+    market = result.get('market_skills', [])
+    print(f"  Market-relevant ({len(market)}/{len(all_skills)} appear in job postings)")
     print()
     missing = result.get('missing_skills', [])
     if missing:
-        print(f"  Market demands, you're missing ({len(missing)}):")
-        print(f"    {', '.join(missing[:15])}")
+        print("=" * 60)
+        print("MARKET GAPS (skills real jobs demand that you don't show)")
+        print("=" * 60)
+        print(f"  {', '.join(missing[:15])}")
     print()
 
     if result.get("all_probas"):

@@ -20,6 +20,7 @@ if _PROJECT_DIR not in sys.path:
 from recommender.extract.skill_extractor import extract_skills_from_text as _extract_skills
 from recommender.match.ensemble_matcher import match_role as _match_role
 from recommender.retrieve.retriever import retrieve_jds, get_related_skills
+from recommender.llm import enhance as llm_enhance, is_enabled as llm_enabled
 
 
 def analyze(resume_text: str, top_k: int = 10):
@@ -74,7 +75,7 @@ def analyze(resume_text: str, top_k: int = 10):
     market_gaps.sort(key=lambda x: -x[1])
     market_missing = [s for s, _ in market_gaps[:15]]
 
-    return {
+    result = {
         "function": func,
         "level": "Entry",
         "match_pct": best["match_pct"],
@@ -90,6 +91,7 @@ def analyze(resume_text: str, top_k: int = 10):
             for jd in jds[:5]
         ],
     }
+    return llm_enhance(result, resume_text)
 
 
 def main():

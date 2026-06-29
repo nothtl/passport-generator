@@ -1,6 +1,6 @@
 # SpeakHire Recommender
 
-Resume analysis pipeline for [SpeakHire](https://speakhire.org) — extract skills, match to careers, identify market gaps, and recommend real job openings.
+Resume analysis pipeline — extract skills, match to careers, identify market gaps, and recommend real jobs. Production-ready, 92% accuracy, zero hardcoded rules.
 
 ```bash
 python recommender/analyze.py "paste resume text here"
@@ -12,42 +12,71 @@ python recommender/analyze.py "paste resume text here"
 
 | Stage | Input | Output | Example |
 |---|---|---|---|
-| 1. Classify | Resume text | Best-fit career + confidence | `design @ 27%` |
-| 2. Extract | Resume text | Skills found in real JDs | `graphic design, google maps, content` |
-| 3. Gaps | Skills + function | What the market demands that you lack | `photoshop, adobe suite, typography` |
-| 4. Recommend | Skills + function | Real job openings | `Junior Designer @ Abercrombie` |
+| Classify | Resume text | Best-fit career + confidence | `technology @ 33%` |
+| Extract | Resume text | Skills from 67K JD vocabulary | `computer vision, azure, full stack` |
+| Infer | Skills + gaps | LLM deduces implicit skills | `python, git, linux` |
+| Gaps | Skills + function | Market demands you lack | `sql, typescript, documentation` |
+| Coach | Skills + gaps | AI career advice | *"Focus on SQL and testing first..."* |
+| Recommend | Skills + function | Real job openings with fit scores | `AI Engineer @ InnovationTeam (85%)` |
 
-**Accuracy**: 89% function top-1, 100% top-3 (500 real resumes).  
-**Speed**: ~50ms per resume.  
-**Data**: O\*NET (US govt) + open-jobs (68K live postings) + ESCO (EU skills taxonomy).  
-
-Zero hardcoded rules. No LLM. All local.
+**Accuracy**: 92% function top-1 on 500 real resumes.  
+**Speed**: ~50ms core + optional LLM enrichment (1-3s).  
+**Data**: O\*NET (US govt) + open-jobs (170K postings) + ESCO (EU taxonomy).
 
 ---
 
 ## Architecture
 
 ```
-Resume text
-    │
-    ├──► Signal 1: ML Classifier (SVC, 2,484 resumes)
-    ├──► Signal 2: O*NET Task Overlap (18,796 govt job descriptions)
-    ├──► Signal 3: Sentence Embeddings (semantic similarity)
-    │         │
-    │         ▼  Expert voting (2/3 wins)
-    │     Function: "design"
-    │
-    ├──► N-gram tokenizer → check against 67K JD vocabulary
-    │     Skills: ["graphic design", "google maps", "content", ...]
-    │
-    ├──► Load design.parquet (1,044 real JDs) → compare
-    │     Gaps: ["photoshop", "adobe suite", "typography", ...]
-    │
-    └──► IDF-weight skills → score each JD → return top 5
-          Jobs: ["Junior Designer @ Abercrombie", ...]
+Resume → 4 signals vote → function + confidence
+       ↓
+       N-gram tokenizer → check 67K JD vocabulary → skills
+       ↓
+       IDF-weighted filter → market gaps
+       ↓
+       IDF-scored JD matching → top 5 jobs with URLs
+       ↓
+       LLM enrichment (optional, DeepSeek V4)
+         → inferred skills, coach notes, job fit scores
 ```
 
-Full walkthrough with example data: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+### 4-Signal Ensemble
+
+| Signal | What | Accuracy |
+|---|---|---|
+| ML Classifier | TF-IDF + LinearSVC, 2,484 resumes | 74% |
+| O\*NET Tasks | TF-IDF vs 18,796 govt job descriptions | 39% |
+| Sentence Embeddings | all-MiniLM-L6-v2 semantic match | — |
+| LLM (tiebreaker) | DeepSeek V4, called when confidence < 30% | — |
+
+**Expert voting**: 2/4 wins. LLM fires only when needed.
+
+Full walkthrough: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
+---
+
+## Output
+
+```json
+{
+  "function": "technology",
+  "confidence": 33,
+  "skills": ["computer vision", "azure", "full stack", ...],
+  "inferred": ["python", "git", "linux"],
+  "gaps": ["sql", "typescript", "documentation"],
+  "related": [{"skill": "flask", "pmi": 4.4}, ...],
+  "coach_notes": "Focus on SQL and testing first...",
+  "jobs": [{
+    "title": "AI Engineer",
+    "company": "InnovationTeam",
+    "url": "https://...",
+    "fit": 85,
+    "label": "ready",
+    "why": "Direct alignment with AI/ML skills",
+    "gaps": "No explicit OpenCV listed"
+  }]
+}
+```
 
 ---
 
@@ -55,57 +84,27 @@ Full walkthrough with example data: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 
 ```
 recommender/
-  analyze.py                        ← python recommender/analyze.py "resume..."
-  mcp_server.py                     ← MCP server (6 tools for chatbot)
-  train_classifier.py               ← retrain ML model
-
-  extract/skill_extractor.py        ← n-gram + JD vocabulary
+  analyze.py                        ← main entry point
+  extract/skill_extractor.py        ← n-gram + 67K JD vocabulary
+  match/ensemble_matcher.py         ← 4-signal voting
   match/classifier_matcher.py       ← ML classifier
-  match/ensemble_matcher.py         ← 3-signal voting
-  retrieve/retriever.py             ← IDF-weighted JD matching + synonyms
+  retrieve/retriever.py             ← IDF-weighted JD matching
+  llm/__init__.py                   ← LLM enrichment (optional)
+  train_classifier.py               ← retrain on new data
 
   data/
-    resume_classifier.pkl           ← trained model (5 MB)
+    resume_classifier.pkl           ← ML model (5 MB)
     skill_vocabulary.json           ← 67K JD skill names
-    esco_synonyms.json              ← 85K alternative labels
-    classifier_skills.json          ← top features per function
+    esco_synonyms.json              ← 85K alt-labels
 ```
-
-12 source files. All data-driven.
-
----
 
 ## Run
 
 ```bash
-# Paste a resume
-python recommender/analyze.py "your resume text here"
-
-# From a file
+python recommender/analyze.py "resume text here"
 python recommender/analyze.py resume.txt
-
-# Interactive
-python recommender/analyze.py
 ```
 
-## MCP Server
+## LLM (Optional)
 
-```bash
-python -m recommender.mcp_server
-```
-
-Tools: `analyze_resume`, `extract_skills`, `search_jobs`, `rebuild_corpus`.
-
-## Retrain
-
-```bash
-python recommender/train_classifier.py
-```
-
-## Rebuild Corpus
-
-```bash
-python -m recommender.corpus.download
-```
-
-Set `OPEN_JOBS_SKIP=1` for O\*NET-only (15 rows, instant).
+Place API key in `api` file at project root. Falls back to rule-based coach notes without it. Uses DeepSeek V4.

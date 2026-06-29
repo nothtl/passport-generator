@@ -18,7 +18,7 @@ if _PROJECT_DIR not in sys.path:
     sys.path.insert(0, _PROJECT_DIR)
 
 from recommender.extract.skill_extractor import extract_skills_from_text, extract_skills_for_function
-from recommender.match.classifier_matcher import match_role as _match_role
+from recommender.match.ensemble_matcher import match_role as _match_role
 from recommender.retrieve.retriever import retrieve_jds
 
 

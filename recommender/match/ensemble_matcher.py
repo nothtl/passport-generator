@@ -347,6 +347,10 @@ def match_role(text: str) -> dict | None:
     w2 = 0.15 if t2 == winner else 0.15
     w3 = 0.35 if t3 == winner else 0.15
 
+    # Define all_funcs early
+    all_funcs = set(s1.keys()) | set(s2.keys()) | set(s3.keys()) | set(s4.keys())
+    fused: dict[str, float] = {}
+
     # If 2+ experts agree, boost winner weight
     if votes[winner] >= 2:
         w1 = 0.55 if t1 == winner else 0.08
@@ -357,12 +361,7 @@ def match_role(text: str) -> dict | None:
             w1 = 0.50 if t1 == winner else 0.05
             w2 = 0.10 if t2 == winner else 0.05
             w3 = 0.25 if t3 == winner else 0.05
-            # LLM weight
-            for func in all_funcs:
-                fused[func] = fused.get(func, 0) + 0.20 * s4.get(func, 0)
 
-    all_funcs = set(s1.keys()) | set(s2.keys()) | set(s3.keys()) | set(s4.keys())
-    fused: dict[str, float] = {}
     for func in all_funcs:
         p1 = s1.get(func, 0)
         p2 = s2.get(func, 0)

@@ -1,9 +1,28 @@
 {
   "function": "administrative",
-  "confidence": 21,
+  "confidence": 18,
   "skills": [
     "- present",
     "- resume",
+    "clerical support",
+    "html css",
+    "mail and packages",
+    "ms o",
+    "replenishing supplies",
+    "technical skills",
+    "work study",
+    "education",
+    "investment",
+    "outgoing",
+    "databases",
+    "gmail",
+    "clerical",
+    "inventory",
+    "reports",
+    "english",
+    "word",
+    "powerpoint",
+    "excel",
     "activities",
     "bachelor",
     "basketball",
@@ -11,72 +30,28 @@
     "business",
     "canva",
     "chinese",
-    "clerical",
-    "clerical support",
-    "css",
-    "databases",
-    "education",
-    "electronic",
-    "english",
-    "excel",
-    "feedback",
-    "friendly",
-    "gmail",
-    "html",
-    "html css",
-    "instagram",
-    "interpersonal",
-    "inventory",
-    "investment",
-    "javascript",
-    "leading",
-    "linkedin",
-    "mail",
-    "mail and packages",
-    "ms o",
-    "organizing",
-    "outgoing",
-    "pdf",
-    "physical",
-    "powerpoint",
-    "reading",
-    "replenishing supplies",
-    "reports",
-    "restaurant",
-    "science",
-    "service",
-    "structure",
-    "student",
-    "students",
-    "support",
-    "technical",
-    "technical skills",
-    "trash",
-    "volleyball",
-    "wait",
-    "wholesale",
-    "word",
-    "work study"
+    "css"
   ],
   "market_relevant": [
-    "clerical",
     "clerical support",
-    "databases",
+    "technical skills",
     "education",
-    "english",
-    "excel",
-    "gmail",
-    "inventory",
     "investment",
     "outgoing",
-    "powerpoint",
+    "databases",
+    "gmail",
+    "clerical",
+    "inventory",
     "reports",
-    "technical skills",
-    "word"
+    "english",
+    "word",
+    "powerpoint",
+    "excel"
   ],
   "inferred": [
     "communication",
-    "attentiontodetail"
+    "attentiontodetail",
+    "dataentry"
   ],
   "gaps": [
     "customerservice",
@@ -85,13 +60,12 @@
     "cashhandling",
     "accounting",
     "accountsreceivable",
-    "dataentry",
     "generalledger",
     "journalentries",
     "compliance",
     "financialanalysis",
-    "reconciliation",
-    "monthendclose"
+    "monthendclose",
+    "reconciliation"
   ],
   "related": [
     {
@@ -129,72 +103,72 @@
   ],
   "alternatives": [
     {
+      "function": "administrative",
+      "pct": 16
+    },
+    {
       "function": "education",
-      "pct": 15
+      "pct": 13
     },
     {
       "function": "arts-media",
-      "pct": 11
+      "pct": 10
     },
     {
       "function": "technology",
-      "pct": 9
+      "pct": 8
     },
     {
       "function": "ops",
       "pct": 5
-    },
-    {
-      "function": "healthcare",
-      "pct": 4
     }
   ],
-  "coach_notes": "The most critical gaps are customerservice, dataentry, and accounting because these are foundational for administrative roles, often appearing in job postings. To address these, you should highlight any customer-facing activities from your resume or basketball team coordination, practice data entry using free online tools, and take a short course on basic accounting principles like accounts payable and receivable.",
+  "coach_notes": "For the Audit-Talent position, the missing 'financialreporting' and 'compliance' gaps are critical, as auditing requires preparing reports and ensuring regulatory adherence. For the Bookkeeper role, 'accountspayable', 'accountsreceivable', and 'generalledger' are essential for managing financial transactions and records. The Cash Collection role demands 'cashhandling' and 'customerservice' to effectively process payments and interact with clients.",
   "jobs": [
+    {
+      "title": "Bookkeeper and Administrative Coordinator (Remote, Part-Time)",
+      "company": "uptalent-dot-i-o",
+      "url": "https://apply.workable.com/j/54484520D3",
+      "fit": 70,
+      "label": "ready",
+      "why": "Strong match with clerical support, data entry, Excel, and business skills. Remote work fits your profile. Part-time aligns with potential flexibility needs.",
+      "gaps": "May lack specific bookkeeping software experience (e.g., QuickBooks, Xero). No direct bookkeeping role history."
+    },
     {
       "title": "Audit-Talent gesucht: Prüfungsassistent (m/w/d) mit Aufstiegsperspektive",
       "company": "schwertfels",
       "url": "https://apply.workable.com/j/1DEEDA2B3E",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 20,
+      "label": "reach",
+      "why": "Your business and clerical support background shows some administrative capability, and you have a bachelor's degree which may meet basic educational requirements.",
+      "gaps": "Audit requires specialized accounting/finance knowledge, audit procedures, and professional certifications (e.g., CPA, ACCA). No evidence of audit experience or relevant coursework."
     },
     {
       "title": "Cash Collection Team Support",
       "company": "dentons-europe",
       "url": "https://apply.workable.com/j/E67EC1F481",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
-    },
-    {
-      "title": "Bookkeeper and Administrative Coordinator (Remote, Part-Time)",
-      "company": "uptalent-dot-i-o",
-      "url": "https://apply.workable.com/j/54484520D3",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 60,
+      "label": "target",
+      "why": "Your clerical support, data entry, Excel, and communication skills align with cash collection support tasks. Business background helps with client interaction.",
+      "gaps": "No direct cash collection or accounts receivable experience. May need training on specific collection software and debt recovery processes."
     },
     {
       "title": "Bookkeeping Clerk",
       "company": "4204149f-31b6-47f8-af48-b07a963a405a",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4255661",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 65,
+      "label": "target",
+      "why": "Clerical support, data entry, and Excel skills are directly applicable to bookkeeping clerk duties. Business background supports understanding of financial records.",
+      "gaps": "No specific bookkeeping experience or knowledge of accounting principles. May need training on bookkeeping software and double-entry accounting."
     },
     {
       "title": "Underwriter – Credit Insurance | Energy Transition Finance",
       "company": "energeticcapital",
       "url": "https://jobs.lever.co/energeticcapital/1885e3b8-7c8a-400b-90eb-40a914524988",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 10,
+      "label": "reach",
+      "why": "Your business background and bachelor's degree provide a foundational understanding of business concepts.",
+      "gaps": "Underwriting credit insurance requires deep knowledge of finance, risk assessment, energy transition, and insurance underwriting. No relevant experience or education in these areas."
     }
   ]
 }

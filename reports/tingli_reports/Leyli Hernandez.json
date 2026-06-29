@@ -1,109 +1,87 @@
 {
   "function": "social-service",
-  "confidence": 14,
+  "confidence": 23,
   "skills": [
     "- resume",
-    "academy",
-    "activities",
-    "afterschool",
     "as i",
-    "assistance",
-    "assisting",
     "career paths",
     "community engagement",
     "community events",
-    "ecp",
-    "education",
-    "engagement",
-    "engaging",
-    "english",
-    "events",
     "flag football",
-    "football",
-    "gmail",
-    "groups",
     "high school",
-    "history",
-    "hours",
     "i am",
     "is a",
-    "junior",
-    "languages",
-    "leadership",
     "leadership skills",
-    "learner",
-    "management",
-    "media",
     "media management",
-    "name",
     "native spanish",
-    "non-profit",
     "non-profit organization",
-    "organization",
-    "organized",
-    "part",
-    "passionate",
-    "pdf",
     "physically active",
-    "planning",
     "problem solving",
-    "professionals",
     "public speaking",
     "quick learner",
-    "schools",
-    "social",
     "social media",
     "social media management",
-    "spanish",
-    "speaking",
-    "sports",
-    "student-athlete",
-    "students",
     "team leadership",
     "u s citizen",
     "united states",
-    "volunteering",
-    "weekends"
-  ],
-  "market_relevant": [
-    "activities",
-    "afterschool",
-    "assistance",
-    "community engagement",
-    "education",
-    "engagement",
     "engaging",
-    "english",
     "events",
-    "flag football",
+    "media",
+    "part",
+    "speaking",
+    "student-athlete",
+    "activities",
     "football",
     "gmail",
-    "high school",
-    "history",
-    "leadership",
-    "leadership skills",
-    "media",
     "non-profit",
-    "organization",
-    "part",
-    "physically active",
+    "students",
+    "afterschool",
+    "assistance",
+    "history",
+    "engagement",
+    "sports",
+    "spanish",
     "planning",
+    "english",
+    "education"
+  ],
+  "market_relevant": [
+    "community engagement",
+    "flag football",
+    "high school",
+    "leadership skills",
+    "physically active",
     "problem solving",
     "public speaking",
     "social media",
     "social media management",
-    "spanish",
+    "team leadership",
+    "engaging",
+    "events",
+    "media",
+    "part",
     "speaking",
-    "sports",
     "student-athlete",
+    "activities",
+    "football",
+    "gmail",
+    "non-profit",
     "students",
-    "team leadership"
+    "afterschool",
+    "assistance",
+    "history",
+    "engagement",
+    "sports",
+    "spanish",
+    "planning",
+    "english",
+    "education"
   ],
   "inferred": [
     "communication",
     "teamwork",
-    "coaching",
-    "activityplanning"
+    "organization",
+    "leadership"
   ],
   "gaps": [
     "classroommanagement",
@@ -112,6 +90,7 @@
     "lessonplanning",
     "customerservice",
     "earlychildhoodeducation",
+    "coaching",
     "firstaid",
     "teamcollaboration",
     "parentcommunication",
@@ -154,72 +133,72 @@
   ],
   "alternatives": [
     {
+      "function": "education",
+      "pct": 11
+    },
+    {
       "function": "arts-media",
-      "pct": 12
+      "pct": 9
     },
     {
       "function": "technology",
-      "pct": 8
-    },
-    {
-      "function": "healthcare",
-      "pct": 7
-    },
-    {
-      "function": "ops",
       "pct": 6
     },
     {
-      "function": "design",
-      "pct": 4
+      "function": "healthcare",
+      "pct": 6
+    },
+    {
+      "function": "ops",
+      "pct": 5
     }
   ],
-  "coach_notes": "The gaps in classroom management, child development, and lesson planning are most critical because they are foundational for roles like teaching assistant or early childhood educator, which are common social-service career paths. Without these skills, you cannot effectively structure learning environments or support children's growth, which are core job requirements. To address this, pursue a short certification in early childhood education or volunteer in afterschool programs to gain hands-on experience with these competencies.",
+  "coach_notes": "For the Osmosis Health Leadership Initiative, lacking 'firstaid' and 'teamcollaboration' is critical, as this role likely involves health-related community work requiring emergency response and coordinated teamwork. For the Cultural Site Interpreter position, missing 'customerservice' and 'communityengagement' (though you have community events) is a gap, as interpreters need strong visitor interaction skills. For the English and History tutor role, lacking 'classroommanagement' and 'lessonplanning' is essential, as these are core to effective tutoring and structured learning sessions.",
   "jobs": [
+    {
+      "title": "Cultural Site Interpreter",
+      "company": "thetrustees",
+      "url": "https://apply.workable.com/j/13E441BC84",
+      "fit": 80,
+      "label": "ready",
+      "why": "Your public speaking, communication, and native Spanish are strong assets for interpreting cultural sites to diverse audiences. Activities and engagement show you can interact with visitors.",
+      "gaps": "No direct experience in cultural interpretation or history; may need to learn site-specific content quickly."
+    },
     {
       "title": "English and History tutor",
       "company": "ajtutoring",
       "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
       "fit": 85,
       "label": "ready",
-      "why": "Your tutoring experience, communication skills, and organized nature directly match this role. Spanish could be an asset for diverse students.",
-      "gaps": "No explicit mention of English/history subject expertise; may need to highlight specific tutoring methods or curriculum knowledge."
+      "why": "Your tutoring experience, communication, planning, and teamwork directly support this role. English and history align with your skills, and you have high school background.",
+      "gaps": "No specific mention of English or history tutoring; may need to highlight relevant subject knowledge."
     },
     {
       "title": "Osmosis Health Leadership Initiative (Formerly OMEF)",
       "company": "osmosis",
       "url": "https://job-boards.greenhouse.io/osmosis/jobs/5628745003",
-      "fit": 65,
-      "label": "target",
-      "why": "Your management, media management, and communication skills align with leadership and outreach aspects of this role. Volunteering experience shows initiative.",
-      "gaps": "Lack of specific health leadership or OMEF-related experience; need to demonstrate deeper understanding of health systems and program coordination."
-    },
-    {
-      "title": "Cultural Site Interpreter",
-      "company": "thetrustees",
-      "url": "https://apply.workable.com/j/13E441BC84",
       "fit": 70,
       "label": "target",
-      "why": "Your volunteering, communication, and physically active background suit interpretation work. Media management skills could help with outreach.",
-      "gaps": "Lack of cultural site or interpretation experience; need to show knowledge of local history or heritage."
+      "why": "Your leadership skills, team leadership, and communication align with a health leadership initiative. Public speaking and planning are also relevant for leading groups or presenting.",
+      "gaps": "No specific health or medical background mentioned; may need to demonstrate interest in health leadership or gain foundational knowledge."
     },
     {
-      "title": "Graduate Assistant Youth Outreach",
-      "company": "a085370f-8bee-4614-9e58-b27ad633e78c",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/419397",
+      "title": "Educator I",
+      "company": "90823d2f-67c8-43e2-b60a-bbe89f703024",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4270784",
       "fit": 60,
       "label": "target",
-      "why": "Your assistance, management, and communication skills are relevant for youth outreach. Volunteering shows community engagement.",
-      "gaps": "No graduate degree or specific youth outreach experience; need to demonstrate understanding of program development for youth."
+      "why": "Your engagement, teamwork, and communication skills are useful for an educator role. Planning and activities suggest you can design learning experiences.",
+      "gaps": "No formal education or teaching certification mentioned; may need to show experience with curriculum or classroom management."
     },
     {
-      "title": "Industry Lab Workforce Development Specialist",
-      "company": "36ced8c3-c8bd-49d7-a643-b256184db7ff",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4270876",
-      "fit": 55,
+      "title": "Temporary Tutor, Math",
+      "company": "palmbeachstate",
+      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Temporary-Tutor--Math_R0013816-1",
+      "fit": 50,
       "label": "reach",
-      "why": "Your management and media management skills could support workforce development initiatives. Organized nature helps with coordination.",
-      "gaps": "Lack of industry lab or workforce development experience; need technical knowledge of labor market trends and training programs."
+      "why": "Your tutoring experience and planning skills are relevant for a math tutor role. Teamwork and communication help in working with students.",
+      "gaps": "No math-specific skills or experience listed; major gap in subject expertise. Need to demonstrate math proficiency or relevant coursework."
     }
   ]
 }

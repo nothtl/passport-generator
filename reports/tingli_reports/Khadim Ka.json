@@ -1,258 +1,214 @@
 {
   "function": "protective-service",
-  "confidence": 16,
+  "confidence": 17,
   "skills": [
     "- resume",
-    "access",
     "access control",
-    "activity",
-    "assist",
-    "awareness",
     "back of house",
     "back-of-house operations",
     "basic computer",
     "basic computer skills",
-    "business",
-    "certifications",
-    "checks",
-    "cleanliness",
     "cleanliness and safety",
-    "cleanup",
-    "closing",
-    "communication",
-    "compliance",
-    "computer",
     "computer skills",
-    "control",
-    "courses",
     "customer experience",
     "customer service",
-    "customer-facing",
-    "customers",
-    "delivering",
-    "detail-oriented",
-    "english",
-    "equipment",
     "equipment maintenance",
-    "fast-paced",
-    "flow",
-    "french",
-    "front-",
     "guest satisfaction",
-    "hands-on",
     "hands-on experience",
     "high-end retail",
-    "license",
     "loss prevention",
-    "luxury",
     "luxury retail",
-    "maintenance",
-    "menu",
     "menu knowledge",
-    "microsoft",
     "microsoft word",
-    "movement",
-    "operations",
-    "pdf",
-    "policy",
-    "positive",
     "positive customer experience",
-    "prep",
     "prep work",
-    "presence",
-    "prevention",
-    "procedures",
-    "product",
-    "professional",
     "professional communication",
     "professional experience",
-    "relationships",
-    "reliable",
-    "reporting",
-    "restaurant",
-    "retail",
     "retail environment",
-    "roles",
-    "safety",
     "safety standards",
-    "sales",
     "sales floor",
-    "satisfaction",
-    "security",
     "security presence",
     "security procedures",
-    "service",
-    "setup",
     "setup cleanup",
-    "standards",
-    "stockroom",
     "store policy",
     "store security",
     "table settings",
-    "traffic",
-    "waiter",
-    "windows",
+    "access",
+    "awareness",
+    "control",
+    "front-",
+    "hands-on",
+    "microsoft",
+    "procedures",
+    "retail",
+    "roles",
     "word",
-    "workstations"
+    "customer-facing",
+    "certifications",
+    "english",
+    "safety",
+    "windows",
+    "reporting",
+    "compliance",
+    "security",
+    "communication",
+    "activity"
   ],
   "market_relevant": [
     "- resume",
-    "back of house",
+    "access control",
     "basic computer skills",
-    "cleanliness",
-    "cleanup",
-    "communication",
-    "compliance",
     "computer skills",
+    "customer experience",
     "customer service",
-    "detail-oriented",
-    "english",
     "equipment maintenance",
-    "fast-paced",
-    "hands-on",
-    "high-end retail",
     "loss prevention",
-    "maintenance",
-    "menu knowledge",
     "microsoft word",
-    "pdf",
-    "policy",
-    "prep",
     "prep work",
-    "professional communication",
-    "reporting",
-    "restaurant",
+    "security presence",
+    "security procedures",
+    "store security",
+    "access",
+    "awareness",
+    "control",
+    "front-",
+    "hands-on",
+    "microsoft",
+    "procedures",
     "retail",
+    "roles",
+    "word",
+    "customer-facing",
+    "certifications",
+    "english",
     "safety",
-    "safety standards",
-    "sales",
-    "security",
-    "standards",
-    "table settings",
     "windows",
-    "word"
+    "reporting",
+    "compliance",
+    "security",
+    "communication"
   ],
   "inferred": [
-    "teamwork",
-    "foodsafety",
-    "sanitation",
-    "foodpreparation",
-    "multitasking",
-    "cashhandling",
-    "inventorymanagement"
+    "patrol",
+    "emergencyresponse",
+    "incidentresponse",
+    "reportwriting",
+    "incidentreporting",
+    "documentation",
+    "securityoperations",
+    "surveillance",
+    "logkeeping"
   ],
   "gaps": [
-    "graphicdesign",
-    "adobecreativesuite",
-    "photoshop",
-    "illustrator",
-    "typography",
-    "layout",
-    "figma",
-    "visualmerchandising"
+    "firstaid",
+    "riskassessment",
+    "cybersecurity",
+    "riskmanagement",
+    "cpr",
+    "informationsecurity"
   ],
   "related": [
     {
-      "skill": "microsoftexcel",
-      "pmi": 5.57
+      "skill": "merchandisesecurity",
+      "pmi": 4.28
     },
     {
-      "skill": "audiovisual",
-      "pmi": 5.57
+      "skill": "assetprotection",
+      "pmi": 4.15
     },
     {
-      "skill": "network",
-      "pmi": 5.57
+      "skill": "macos",
+      "pmi": 4.03
     },
     {
-      "skill": "wifi",
-      "pmi": 5.57
+      "skill": "linux",
+      "pmi": 3.9
     },
     {
-      "skill": "telecom",
-      "pmi": 5.28
+      "skill": "inventorycontrol",
+      "pmi": 3.59
     },
     {
-      "skill": "ict",
-      "pmi": 5.28
+      "skill": "swimming",
+      "pmi": 3.18
     },
     {
-      "skill": "modeling",
-      "pmi": 4.87
+      "skill": "tcpip",
+      "pmi": 3.18
     },
     {
-      "skill": "excel",
-      "pmi": 4.87
+      "skill": "siem",
+      "pmi": 2.83
     }
   ],
   "alternatives": [
     {
+      "function": "design",
+      "pct": 14
+    },
+    {
       "function": "logistics",
-      "pct": 11
+      "pct": 9
     },
     {
       "function": "sales",
-      "pct": 8
+      "pct": 7
     },
     {
       "function": "technology",
-      "pct": 7
+      "pct": 6
     },
     {
       "function": "arts-media",
-      "pct": 7
-    },
-    {
-      "function": "skilled-trade",
       "pct": 6
     }
   ],
-  "coach_notes": "The most critical gaps are graphic design and Adobe Creative Suite (Photoshop, Illustrator), as these are core technical skills frequently required for roles involving visual communication, signage, or digital content in protective-service settings like security or facility management. Without them, you cannot create or edit visual materials for access control, emergency signage, or training aids. Focus on completing a short online course in Photoshop and Illustrator basics to bridge this gap quickly.",
+  "coach_notes": "For the Asset Protection roles listed, first aid and CPR are critical gaps because these positions often require immediate response to incidents like medical emergencies or injuries in the store. Risk assessment and risk management are also essential for identifying and mitigating theft and safety hazards, which are core responsibilities in these jobs. Prioritize obtaining first aid/CPR certification and learning basic risk assessment techniques to align with job requirements.",
   "jobs": [
     {
-      "title": "Designer II - Security",
-      "company": "teecom",
-      "url": "https://jobs.lever.co/teecom/69a20044-f193-4609-b052-0f279e992440",
-      "fit": 20,
-      "label": "reach",
-      "why": "Your resume includes security presence and loss prevention, which align with a security-focused role. Awareness and reporting are also relevant.",
-      "gaps": "This is a Designer II role requiring design skills and likely experience in security systems or architecture. Your resume lacks design, engineering, or technical security system experience."
+      "title": "Asset Protection Coordinator",
+      "company": "basspro",
+      "url": "https://basspro.wd1.myworkdayjobs.com/job/New-York-Victor-Bass-Pro-Shops/Asset-Protection-Coordinator_R257746",
+      "fit": 85,
+      "label": "ready",
+      "why": "Your skills in security operations, security procedures, compliance, store security, and emergency response align directly with asset protection. Experience in sales floor and back-of-house operations is relevant to retail environment.",
+      "gaps": "No specific gaps identified; ensure you highlight any inventory control or loss prevention experience in your resume."
     },
     {
-      "title": "STEP-Table Games Apprentice (Must be a Nisqually Tribal Member)",
-      "company": "bc5ffc37-3434-40de-bd25-025c780da335",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3011751",
-      "fit": 10,
-      "label": "reach",
-      "why": "You have multitasking and professional communication skills that could be useful in a table games environment.",
-      "gaps": "This role requires tribal membership (Nisqually) and specific table games apprenticeship training. Your resume shows no gaming or casino experience, and you likely do not meet the membership requirement."
-    },
-    {
-      "title": "Apprentice Piercer (Future Opportunity)",
-      "company": "studsinc",
-      "url": "https://job-boards.greenhouse.io/studsinc/jobs/5739940004",
-      "fit": 5,
-      "label": "reach",
-      "why": "Your resume includes presence and professional communication, which are relevant for customer-facing roles.",
-      "gaps": "Piercing requires specialized training, certification, and experience. Your resume lacks any body modification or piercing skills. This is a future opportunity, but you are not currently qualified."
-    },
-    {
-      "title": "Entry Level Kitchen Position, Brookfield Place",
-      "company": "diginnother",
-      "url": "https://job-boards.greenhouse.io/diginnother/jobs/7739772",
-      "fit": 50,
+      "title": "Asset Protection Specialist (Part Time), Henderson (Sunset) ",
+      "company": "greenthumbindustries",
+      "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7993873",
+      "fit": 70,
       "label": "target",
-      "why": "You have stockroom experience, multitasking, and awareness, which are useful in a kitchen environment. Professional communication and delivering are also relevant.",
-      "gaps": "No direct kitchen or food service experience listed. You may need to learn food safety, kitchen equipment, and specific restaurant procedures."
+      "why": "Security presence, security procedures, and compliance skills are directly applicable. Part-time flexibility matches your availability.",
+      "gaps": "May need industry-specific knowledge for cannabis retail regulations; no mention of inventory tracking or CCTV monitoring in your resume."
     },
     {
-      "title": "PT Stylist - 7FAM",
-      "company": "08003db9-b302-4e6d-b586-bf97a7dcfc4c",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2244761",
-      "fit": 65,
+      "title": "Asset Protection Specialist (Part Time)",
+      "company": "greenthumbindustries",
+      "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7958426",
+      "fit": 70,
       "label": "target",
-      "why": "Your resume includes stockroom, product knowledge, and professional communication, which align with a stylist role. Multitasking and presence are also relevant.",
-      "gaps": "No direct styling or retail fashion experience. You may need to develop fashion knowledge, sales techniques, and customer styling skills."
+      "why": "Similar to Job 2, your security and compliance skills are strong. Part-time role fits your schedule.",
+      "gaps": "Same as Job 2: potential need for cannabis industry knowledge and specific loss prevention tools."
+    },
+    {
+      "title": "Risk Associate - Walnut Street",
+      "company": "aritzia",
+      "url": "https://aritzia.wd3.myworkdayjobs.com/job/Philadelphia-PA-Walnut-Street/Risk-Associate---Walnut-Street_R0010348",
+      "fit": 60,
+      "label": "target",
+      "why": "Risk associate role leverages your compliance and security procedures background. Communication skills are important for this role.",
+      "gaps": "May require more analytical or risk assessment experience; no direct risk management or data analysis skills listed."
+    },
+    {
+      "title": "Detention Deputy Pre-Certified",
+      "company": "hcso",
+      "url": "https://hcso.wd1.myworkdayjobs.com/job/Training/Detention-Deputy-Pre-Certified_R-314",
+      "fit": 40,
+      "label": "reach",
+      "why": "Emergency response and security presence are relevant to detention deputy duties. Basic computer skills are a plus.",
+      "gaps": "Major gaps: no law enforcement or corrections training, no mention of physical fitness standards, legal knowledge, or weapon handling. Pre-certification requirement suggests need for specific training not in your resume."
     }
   ]
 }

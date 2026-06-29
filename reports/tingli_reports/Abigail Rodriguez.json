@@ -1,6 +1,6 @@
 {
   "function": "design",
-  "confidence": 13,
+  "confidence": 25,
   "skills": [
     "- - bilingual",
     "- bilingual spanish",
@@ -8,249 +8,181 @@
     "- non-profit organization",
     "- present",
     "- resume",
-    "activities",
-    "adobe",
     "application process",
+    "community outreach",
+    "google maps",
+    "google suite",
+    "graphic design",
+    "high school",
+    "i am",
+    "internship application",
+    "is a",
+    "mentorship program",
+    "online ordering",
+    "public speaking",
+    "remote learning",
+    "creative",
+    "events",
+    "maps",
+    "mentorship",
+    "networking",
+    "pdf",
+    "adobe",
+    "leadership",
+    "english",
+    "cleaning",
+    "design",
+    "storytelling",
+    "organization",
+    "activities",
     "behavior",
     "build",
     "can",
     "children",
     "christian",
-    "cleaning",
-    "community outreach",
-    "content",
-    "creative",
-    "database",
-    "delivery",
-    "design",
-    "english",
-    "events",
-    "families",
-    "gmail",
-    "google",
-    "google maps",
-    "google suite",
-    "grades",
-    "graphic design",
-    "high school",
-    "home",
-    "http",
-    "https",
-    "i am",
-    "intern",
-    "internship",
-    "internship application",
-    "is a",
-    "kahoot",
-    "leadership",
-    "learning",
-    "linkedin",
-    "local",
-    "make",
-    "manager",
-    "maps",
-    "mentor",
-    "mentoring",
-    "mentorship",
-    "mentorship program",
-    "meta",
-    "music",
-    "navigate",
-    "networking",
-    "online ordering",
-    "ordering",
-    "organization",
-    "outreach",
-    "part",
-    "pdf",
-    "platform",
-    "platforms",
-    "posting",
-    "program",
-    "programs",
-    "public speaking",
-    "record",
-    "relationships",
-    "remote learning",
-    "spanish",
-    "spark",
-    "speaking",
-    "storytelling",
-    "student",
-    "students",
-    "support",
-    "technology",
-    "teens",
-    "train",
-    "volunteer",
-    "walk",
-    "write",
-    "written"
+    "content"
   ],
   "market_relevant": [
-    "- - bilingual",
-    "- bilingual spanish",
-    "- non-profit",
-    "activities",
-    "children",
-    "christian",
-    "cleaning",
+    "- resume",
     "community outreach",
-    "creative",
-    "database",
-    "design",
-    "english",
-    "events",
-    "gmail",
     "google suite",
-    "grades",
-    "high school",
-    "internship",
-    "kahoot",
-    "leadership",
-    "linkedin",
-    "mentor",
-    "mentoring",
-    "mentorship",
-    "music",
-    "networking",
-    "organization",
-    "outreach",
-    "part",
+    "graphic design",
     "public speaking",
-    "relationships",
-    "remote learning",
-    "spanish",
-    "spark",
-    "speaking",
+    "creative",
+    "events",
+    "maps",
+    "mentorship",
+    "networking",
+    "pdf",
+    "adobe",
+    "leadership",
+    "english",
+    "cleaning",
+    "design",
     "storytelling",
-    "students",
-    "support",
-    "technology",
-    "teens",
-    "volunteer"
+    "organization"
   ],
   "inferred": [
-    "communication",
+    "customerservice",
     "teamwork",
-    "activityplanning",
-    "documentation"
+    "communication",
+    "adobecreativesuite",
+    "photoshop",
+    "illustrator",
+    "typography",
+    "layout",
+    "multitasking"
   ],
   "gaps": [
-    "classroommanagement",
-    "childdevelopment",
-    "childcare",
-    "lessonplanning",
-    "customerservice",
-    "earlychildhoodeducation",
-    "coaching",
-    "firstaid",
-    "teamcollaboration",
-    "parentcommunication",
-    "datacollection"
+    "foodsafety",
+    "foodpreparation",
+    "figma",
+    "cashhandling",
+    "sanitation",
+    "inventorymanagement"
   ],
   "related": [
     {
-      "skill": "cybersecurity",
-      "pmi": 5.83
+      "skill": "training",
+      "pmi": 4.47
     },
     {
-      "skill": "googleclassroom",
-      "pmi": 5.53
+      "skill": "wordpressadministration",
+      "pmi": 4.18
     },
     {
-      "skill": "clinicalexposure",
-      "pmi": 4.37
+      "skill": "websitepromotion",
+      "pmi": 4.18
     },
     {
-      "skill": "translation",
-      "pmi": 4.26
+      "skill": "facebookadministration",
+      "pmi": 4.04
     },
     {
-      "skill": "veterinarystudent",
-      "pmi": 4.25
+      "skill": "contentpublishing",
+      "pmi": 4.04
     },
     {
-      "skill": "mandarin",
-      "pmi": 4.13
+      "skill": "housekeeping",
+      "pmi": 3.59
     },
     {
-      "skill": "clinicalexperience",
-      "pmi": 4.1
+      "skill": "brandguidelines",
+      "pmi": 3.52
     },
     {
-      "skill": "externship",
-      "pmi": 3.91
+      "skill": "canva",
+      "pmi": 3.48
     }
   ],
   "alternatives": [
     {
-      "function": "arts-media",
+      "function": "education",
       "pct": 11
     },
     {
+      "function": "arts-media",
+      "pct": 9
+    },
+    {
       "function": "technology",
-      "pct": 7
-    },
-    {
-      "function": "healthcare",
-      "pct": 7
-    },
-    {
-      "function": "design",
       "pct": 6
     },
     {
-      "function": "ops",
+      "function": "healthcare",
       "pct": 5
+    },
+    {
+      "function": "ops",
+      "pct": 4
     }
   ],
-  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational skills for design roles in educational or child-focused settings. Without them, you cannot effectively create user-centered designs for young learners or manage collaborative design processes. To address this, take a short course in instructional design or child development, and volunteer to design educational materials for a non-profit to build relevant experience.",
+  "coach_notes": "For the Creative Designer role, lacking Figma is a critical gap since it's a standard tool for design work. For the Events and Ministry Coordinator position, missing food safety and food preparation skills could hinder hands-on event logistics. Prioritize learning Figma through online tutorials and consider a basic food safety certification to address these gaps.",
   "jobs": [
     {
-      "title": "SUN Extended Day Assistant",
-      "company": "6d37f9de-299c-4d37-a8dd-72b75d848703",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3953335",
-      "fit": 85,
-      "label": "ready",
-      "why": "Your mentorship, volunteer, and ordering skills directly support extended day assistance; experience with families and grades is relevant.",
-      "gaps": "No specific mention of after-school program management; could strengthen time management examples."
-    },
-    {
-      "title": "Super Summer Bible Camp Counselor",
-      "company": "ee59da3b-f182-46bf-b3ce-e7bd915c5eab",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3130985",
-      "fit": 90,
-      "label": "ready",
-      "why": "Strong alignment with mentorship, volunteer, and camp counselor duties; experience with families and grades supports supervision.",
-      "gaps": "No explicit Bible camp or religious education experience; may need to emphasize adaptability and enthusiasm."
-    },
-    {
-      "title": "Summer Camp Counselor - Memorial Jr. High ",
-      "company": "cleveymca",
-      "url": "https://jobs.dayforcehcm.com/cleveymca/CANDIDATEPORTAL/jobs/5321",
+      "title": "Creative Designer (Graphics & Video)",
+      "company": "virtuhire",
+      "url": "https://apply.workable.com/j/98FD7FFB29",
       "fit": 80,
       "label": "ready",
-      "why": "Your mentorship, volunteer, and record skills are directly applicable; experience with youth and families is a plus.",
-      "gaps": "No specific mention of summer camp or YMCA experience; could highlight energy and activity planning."
+      "why": "Adobe Creative Suite and Illustrator skills directly apply. Creative and communication skills support graphics and video work.",
+      "gaps": "No explicit video editing experience listed. May need to demonstrate proficiency with video software."
     },
     {
-      "title": "Internship",
-      "company": "bucknerinternational",
-      "url": "https://www.buckner.org/current-nonprofit-job-openings/?gh_jid=6031848003",
+      "title": "Social-First Content & Design Specialist",
+      "company": "virtuhire",
+      "url": "https://apply.workable.com/j/2328AF8F4A",
+      "fit": 75,
+      "label": "ready",
+      "why": "Strong fit for social-first content with creative, communication, and Adobe skills. Community outreach experience aids engagement.",
+      "gaps": "No specific social media management or content strategy experience listed. May need to show examples of social content creation."
+    },
+    {
+      "title": "Events and Ministry Coordinator (Onsite, Volunteer)",
+      "company": "apartmentlife",
+      "url": "https://job-boards.greenhouse.io/apartmentlife/jobs/4134079009",
       "fit": 70,
       "label": "target",
-      "why": "Your platform, database, and record skills align with administrative tasks; mentorship and volunteer experience show readiness for internship roles.",
-      "gaps": "No direct international or nonprofit experience; need to highlight cross-cultural adaptability."
+      "why": "Strong alignment with communication, community outreach, and teamwork skills. Experience in activities and public speaking supports event coordination.",
+      "gaps": "No direct event planning or ministry experience listed. Volunteer role may require specific religious or organizational knowledge."
     },
     {
-      "title": "Internships / Volunteer Opportunities!",
-      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
-      "fit": 65,
+      "title": "A&F Co. Design Sophomore Summit - Summer 2026",
+      "company": "AbercrombieAndFitchCo",
+      "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000124138375",
+      "fit": 60,
       "label": "target",
-      "why": "Your volunteer and mentorship background fits general internship/volunteer roles; platform and build skills add value.",
-      "gaps": "Job description is vague; need to clarify specific duties and tailor your resume accordingly."
+      "why": "Creative skills and Adobe Creative Suite proficiency are relevant. Interest in design and teamwork are assets.",
+      "gaps": "No formal design education or portfolio mentioned. Summit likely requires current enrollment in design program and specific application materials."
+    },
+    {
+      "title": "Wine Steward PT",
+      "company": "ohmc",
+      "url": "https://jobs.dayforcehcm.com/ohmc/CANDIDATEPORTAL/jobs/3778",
+      "fit": 20,
+      "label": "reach",
+      "why": "Communication and teamwork skills are transferable to customer-facing role.",
+      "gaps": "No wine knowledge or hospitality experience. Requires specific product expertise and possibly certification."
     }
   ]
 }

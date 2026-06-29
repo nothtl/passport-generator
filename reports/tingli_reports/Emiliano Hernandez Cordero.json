@@ -1,236 +1,205 @@
 {
   "function": "food-service",
-  "confidence": 12,
+  "confidence": 24,
   "skills": [
     "- resume",
-    "activities",
-    "bachelor",
-    "bilingual",
     "bilingual english",
     "bilingual english spanish",
-    "can",
-    "canva",
-    "cash",
     "cash transactions",
     "classroom activities",
-    "cleanliness",
     "cleanliness standards",
-    "communication",
     "community events",
     "criminal justice",
     "customer service",
-    "distribution",
-    "documents",
-    "donations",
-    "education",
-    "efficiency",
-    "emails",
-    "english",
     "english spanish",
     "english spanish communication",
     "event planning",
-    "events",
-    "fast-paced",
-    "food",
     "food distribution",
-    "google",
     "google suite",
     "group instruction",
-    "high-volume",
     "high-volume environment",
-    "hours",
-    "instruction",
-    "interpretation",
-    "languages",
-    "leadership",
-    "media",
-    "microsoft",
     "microsoft office",
-    "multicultural",
-    "office",
-    "organized",
-    "pdf",
-    "planning",
-    "point-of-sale",
     "point-of-sale systems",
     "prepared food",
-    "program",
-    "quality",
     "quality and cleanliness",
-    "safety",
-    "service",
     "small group instruction",
-    "spanish",
     "spanish communication",
-    "spanish-english",
-    "speak",
-    "sponsors",
-    "standards",
-    "student",
     "student support",
-    "students",
+    "instruction",
+    "quality",
+    "service",
     "support",
-    "systems",
-    "teamwork",
-    "transactions",
-    "waitstaff"
+    "distribution",
+    "office",
+    "canva",
+    "spanish",
+    "bilingual",
+    "high-volume",
+    "student",
+    "events",
+    "interpretation",
+    "education",
+    "planning",
+    "fast-paced",
+    "safety",
+    "leadership",
+    "english",
+    "point-of-sale"
   ],
   "market_relevant": [
-    "activities",
-    "bilingual",
-    "bilingual english",
+    "- resume",
     "bilingual english spanish",
-    "canva",
     "classroom activities",
-    "cleanliness",
-    "communication",
     "criminal justice",
     "customer service",
-    "education",
-    "english",
+    "english spanish communication",
     "event planning",
-    "events",
-    "fast-paced",
+    "food distribution",
     "google suite",
-    "group instruction",
-    "instruction",
-    "interpretation",
-    "leadership",
-    "media",
+    "high-volume environment",
     "microsoft office",
-    "planning",
-    "point-of-sale",
-    "safety",
+    "point-of-sale systems",
+    "instruction",
+    "quality",
     "service",
-    "small group instruction",
-    "spanish",
-    "spanish-english",
-    "student support",
-    "students",
     "support",
-    "teamwork"
+    "distribution",
+    "office",
+    "canva",
+    "spanish",
+    "bilingual",
+    "high-volume",
+    "student",
+    "events",
+    "interpretation",
+    "education",
+    "planning",
+    "fast-paced",
+    "safety",
+    "leadership",
+    "english",
+    "point-of-sale"
   ],
   "inferred": [
-    "organization",
+    "communication",
+    "teamwork",
+    "foodsafety",
+    "foodpreparation",
+    "multitasking",
+    "sanitation",
+    "timemanagement",
+    "cashhandling",
+    "foodservice",
+    "inventorymanagement",
     "documentation",
-    "activityplanning"
+    "problemsolving",
+    "attentiontodetail",
+    "organization",
+    "dataentry"
   ],
-  "gaps": [
-    "classroommanagement",
-    "childdevelopment",
-    "childcare",
-    "lessonplanning",
-    "earlychildhoodeducation",
-    "coaching",
-    "firstaid",
-    "teamcollaboration",
-    "parentcommunication",
-    "datacollection",
-    "behaviormanagement",
-    "classmanagement"
-  ],
+  "gaps": [],
   "related": [
     {
-      "skill": "googleclassroom",
-      "pmi": 5.53
+      "skill": "graphicdesign",
+      "pmi": 6.11
     },
     {
-      "skill": "privateinstruction",
-      "pmi": 4.37
+      "skill": "internship",
+      "pmi": 4.42
     },
     {
-      "skill": "studentaffairs",
-      "pmi": 4.31
+      "skill": "marketingmaterials",
+      "pmi": 3.71
     },
     {
-      "skill": "translation",
-      "pmi": 4.26
+      "skill": "performancemanagement",
+      "pmi": 3.65
     },
     {
-      "skill": "1on1instruction",
-      "pmi": 4.19
+      "skill": "financialmanagement",
+      "pmi": 3.65
     },
     {
-      "skill": "mandarin",
-      "pmi": 4.13
+      "skill": "stormwater",
+      "pmi": 3.63
     },
     {
-      "skill": "vendormanagement",
-      "pmi": 4.08
+      "skill": "projectcoordination",
+      "pmi": 3.59
     },
     {
-      "skill": "dormmanagement",
-      "pmi": 4.02
+      "skill": "teamdevelopment",
+      "pmi": 3.56
     }
   ],
   "alternatives": [
     {
+      "function": "education",
+      "pct": 10
+    },
+    {
       "function": "arts-media",
-      "pct": 9
+      "pct": 7
     },
     {
       "function": "technology",
-      "pct": 7
-    },
-    {
-      "function": "ops",
-      "pct": 7
-    },
-    {
-      "function": "healthcare",
       "pct": 6
     },
     {
-      "function": "food-service",
+      "function": "ops",
+      "pct": 6
+    },
+    {
+      "function": "healthcare",
       "pct": 5
     }
   ],
-  "coach_notes": "The most critical gaps are classroom management, child development, and lesson planning, as these are foundational for roles in early childhood education or childcare settings, which often require direct interaction with children and structured learning activities. Without these skills, you may be ineligible for many food-service positions that involve school or daycare cafeterias, where supervising children and planning age-appropriate meals are key. To address this, consider taking a short online course in child development or classroom management, and highlight any volunteer work with children on your resume.",
+  "coach_notes": "",
   "jobs": [
     {
-      "title": "Dual Language Assistant",
-      "company": "14e61377-a63e-41e8-bf47-b84df4062da1",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
-      "fit": 85,
+      "title": "Vietnamese Interpreter - Louisville, CO",
+      "company": "lsaweb",
+      "url": "https://jobs.lever.co/lsaweb/d0b4443f-b30d-4673-948d-6d1a6e1ab602",
+      "fit": 70,
       "label": "ready",
-      "why": "Strong alignment with bilingual skills (Spanish and English), multicultural experience, and communication abilities. Experience in fast-paced, organized environments supports this role.",
-      "gaps": "No specific experience listed in dual language education or working with children in an academic setting."
+      "why": "Strong communication skills and bilingual ability (English) align with interpreter role. Experience in service and teamwork supports client interaction.",
+      "gaps": "No specific Vietnamese language proficiency mentioned; need to verify or acquire that skill. Also lacks formal interpretation training or certification."
     },
     {
-      "title": "Subway Sandwich Artist",
-      "company": "PilotCompany",
-      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
-      "fit": 90,
+      "title": "Work From Home - Bilingual Client Services Representative",
+      "company": "globalelitecareers",
+      "url": "https://jobs.lever.co/globalelitecareers/3001d4e8-ce69-4e98-886f-89ccea6a93d5",
+      "fit": 75,
       "label": "ready",
-      "why": "Direct experience in high-volume food preparation, quality and cleanliness, and fast-paced environment. Bilingual skills are a plus for customer service.",
-      "gaps": "No specific mention of sandwich artistry or Subway procedures, but transferable skills are strong."
+      "why": "Bilingual (English) and strong communication, service, and data entry skills directly support client services. Work-from-home experience may be transferable.",
+      "gaps": "No specific bilingual language pair mentioned; need to confirm if Spanish or another language is required. Also lacks call center or CRM software experience."
     },
     {
-      "title": "Mandarin - English Interpreter",
-      "company": "two95-international-inc-3",
-      "url": "https://apply.workable.com/j/4D6E7320EF",
-      "fit": 95,
+      "title": "Community Resident Participation Specialist-CEN-25",
+      "company": "563a7c7d-3184-41bd-956a-081ff3c25f45",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2343699",
+      "fit": 80,
       "label": "ready",
-      "why": "Excellent match with bilingual (Spanish and English) and interpretation skills. Multicultural experience and strong communication abilities are directly applicable.",
-      "gaps": "No specific Mandarin language skills listed; job requires Mandarin-English interpretation, so this is a major gap unless the candidate has hidden Mandarin proficiency."
+      "why": "Experience in community events, event planning, and teamwork aligns with resident participation. Communication and service skills support engagement.",
+      "gaps": "No direct experience in community organizing or resident services; may need to learn specific outreach methods or local community dynamics."
     },
     {
-      "title": "Temporary Tutor, Math",
-      "company": "palmbeachstate",
-      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Temporary-Tutor--Math_R0013816-1",
-      "fit": 40,
+      "title": "Director Physical Plant Management (Maintenance Director)",
+      "company": "husadayforce",
+      "url": "https://jobs.dayforcehcm.com/husadayforce/CANDIDATEPORTAL/jobs/13353",
+      "fit": 15,
       "label": "reach",
-      "why": "Organized and communication skills are relevant, and experience with Google Suite may be useful for administrative tasks.",
-      "gaps": "No math tutoring or teaching experience; lacks subject matter expertise in math and formal tutoring background."
+      "why": "Planning and quality skills could apply to maintenance oversight, but no direct facilities management experience.",
+      "gaps": "Major gaps in physical plant management, maintenance operations, budgeting, and supervisory experience. Requires extensive technical knowledge and leadership."
     },
     {
-      "title": "Assistant Stunt Coach",
-      "company": "fedc287c-7ade-435f-98a1-2a72f595c7eb",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4160705",
-      "fit": 20,
-      "label": "reach",
-      "why": "Activity planning and organizational skills may be tangentially relevant. Fast-paced environment experience could help.",
-      "gaps": "No stunt coaching, physical training, or athletic background. Major gaps in required expertise and industry knowledge."
+      "title": "Stage Manager, Theater Program, Camp Kaleidoscope, Summer Day Camp",
+      "company": "jcc-greater-boston",
+      "url": "https://apply.workable.com/j/444F80EC19",
+      "fit": 55,
+      "label": "target",
+      "why": "Event planning and teamwork skills are relevant to stage management. Communication and time management support coordination.",
+      "gaps": "No theater or stage management experience; lacks knowledge of lighting, sound, and production logistics. Summer camp context may require youth supervision skills."
     }
   ]
 }

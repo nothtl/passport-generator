@@ -1,228 +1,197 @@
 {
   "function": "administrative",
-  "confidence": 11,
+  "confidence": 22,
   "skills": [
     "- learning",
     "- resume",
     "- soccer",
-    "-present",
-    "academy",
-    "administrative",
     "administrative tasks",
-    "assist",
     "associate degree",
     "attention to detail",
-    "awards",
     "basic coding",
-    "business",
-    "can",
-    "certificate",
-    "cleaning",
-    "coding",
-    "communicating",
-    "communication",
     "communication skills",
-    "customers",
-    "detail",
-    "education",
-    "english",
     "english language",
     "english language learners",
-    "express",
-    "french",
-    "goal-oriented",
-    "internship",
     "internship experience",
-    "leadership",
     "leadership skills",
-    "management",
-    "mats",
-    "modeling",
-    "motivated",
-    "multilingual",
-    "operation",
-    "ordering",
-    "organization",
-    "organizational",
     "organizational skills",
-    "organizing",
-    "pdf",
-    "plan",
-    "prayer",
-    "readiness",
-    "secure",
-    "speak",
-    "sports",
-    "sportsmanship",
-    "stem",
-    "stock",
-    "teams",
-    "teamwork",
-    "tech",
-    "technical",
     "time management",
-    "training",
+    "coding",
+    "communicating",
+    "mats",
+    "readiness",
+    "stock",
     "translator",
-    "video",
+    "education",
+    "goal-oriented",
+    "modeling",
+    "multilingual",
     "volunteer",
-    "websites",
+    "french",
+    "pdf",
+    "organizational",
+    "organizing",
+    "business",
+    "detail",
+    "teams",
+    "ordering",
     "writing"
   ],
   "market_relevant": [
-    "- soccer",
-    "administrative",
+    "- learning",
     "administrative tasks",
-    "associate degree",
     "attention to detail",
-    "cleaning",
-    "coding",
-    "communication",
     "communication skills",
-    "education",
-    "english",
     "english language",
-    "english language learners",
-    "french",
-    "internship",
-    "leadership",
-    "leadership skills",
-    "motivated",
-    "multilingual",
-    "organization",
+    "internship experience",
     "organizational skills",
-    "plan",
-    "sports",
-    "sportsmanship",
-    "stem",
-    "teams",
-    "teamwork",
     "time management",
-    "training",
-    "video",
+    "coding",
+    "communicating",
+    "mats",
+    "readiness",
+    "stock",
+    "translator",
+    "education",
+    "goal-oriented",
+    "modeling",
+    "multilingual",
     "volunteer",
+    "french",
+    "pdf",
+    "organizational",
+    "organizing",
+    "business",
+    "detail",
+    "teams",
+    "ordering",
     "writing"
   ],
   "inferred": [
-    "childdevelopment",
-    "earlychildhoodeducation",
-    "classroommanagement",
-    "behaviormanagement",
-    "lessonplanning",
-    "activityplanning",
-    "parentcommunication",
-    "teamcollaboration",
-    "firstaid",
-    "customerservice"
+    "communication",
+    "teamwork",
+    "organizational skills",
+    "time management",
+    "attention to detail",
+    "basic math"
   ],
   "gaps": [
-    "childcare",
-    "coaching",
-    "documentation",
-    "datacollection",
-    "classmanagement"
+    "customerservice",
+    "inventorymanagement",
+    "cashhandling",
+    "multitasking",
+    "dataentry",
+    "inventory",
+    "validdriverslicense",
+    "driving",
+    "orderprocessing",
+    "foodsafety",
+    "inventorycontrol",
+    "problemsolving",
+    "basicmath"
   ],
   "related": [
     {
-      "skill": "robotics",
-      "pmi": 7.03
+      "skill": "exteriorbuffing",
+      "pmi": 6.46
     },
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
+      "skill": "defectidentification",
+      "pmi": 6.46
     },
     {
-      "skill": "games",
-      "pmi": 5.54
+      "skill": "customerfacing",
+      "pmi": 6.2
     },
     {
-      "skill": "drama",
-      "pmi": 5.36
+      "skill": "interiorcleaning",
+      "pmi": 5.92
     },
     {
-      "skill": "science",
-      "pmi": 5.24
+      "skill": "reading",
+      "pmi": 5.74
     },
     {
-      "skill": "artsandcrafts",
-      "pmi": 4.8
+      "skill": "microsoft365",
+      "pmi": 5.57
     },
     {
-      "skill": "readingcomprehension",
-      "pmi": 4.76
+      "skill": "photography",
+      "pmi": 5.44
     },
     {
-      "skill": "mathematics",
-      "pmi": 4.44
+      "skill": "liftingupto60pounds",
+      "pmi": 5.33
     }
   ],
   "alternatives": [
     {
-      "function": "arts-media",
+      "function": "education",
       "pct": 9
     },
     {
-      "function": "technology",
-      "pct": 8
-    },
-    {
-      "function": "ops",
+      "function": "arts-media",
       "pct": 7
     },
     {
-      "function": "healthcare",
-      "pct": 6
+      "function": "technology",
+      "pct": 7
     },
     {
-      "function": "design",
-      "pct": 6
+      "function": "ops",
+      "pct": 5
+    },
+    {
+      "function": "healthcare",
+      "pct": 5
     }
   ],
-  "coach_notes": "The most critical gaps are documentation and data collection, as these are foundational for administrative roles involving record-keeping and reporting. To address this, you can highlight any experience with organizing files or tracking information from your administrative tasks or academy work, and consider taking a short online course on data entry or document management. Class management is also important if you aim for roles in educational or training settings, which you can bridge by volunteering to assist with scheduling or coordinating group activities.",
+  "coach_notes": "For the NSC/ASC Junior Procurement Analyst role, the missing 'dataentry' and 'orderprocessing' skills are critical, as these are core to managing procurement transactions and tracking orders. The Associate Order Management Representative position requires 'customerservice' and 'inventorymanagement' to handle client inquiries and stock levels effectively. For the Food Safety Coordinator job, lacking 'foodsafety' knowledge is a direct disqualifier, as it is the primary responsibility of the role.",
   "jobs": [
     {
-      "title": "Internships / Volunteer Opportunities!",
-      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
+      "title": "Associate Order Management Representative",
+      "company": "aksteel",
+      "url": "https://aksteel.wd1.myworkdayjobs.com/job/Indiana-Harbor/Associate-Order-Management-Representative_R12858",
+      "fit": 80,
+      "label": "ready",
+      "why": "Strong organizational, communication, and teamwork skills match order management. Multilingual ability and goal-orientation are assets.",
+      "gaps": "No specific order management or logistics experience; may need to learn industry-specific systems."
+    },
+    {
+      "title": "Assistant",
+      "company": "f263d6ee-3055-4d60-94ce-3c964d790daf",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3951182",
       "fit": 85,
       "label": "ready",
-      "why": "Strong alignment with organizational skills, volunteer experience, and team collaboration. Internship/volunteer roles typically value these soft skills and willingness to learn.",
-      "gaps": "No specific technical skills mentioned; may need to clarify interest area or tailor application to a specific role."
+      "why": "Strong administrative and organizational skills, plus communication and writing abilities, are ideal for an assistant role. Internship experience and readiness are key.",
+      "gaps": "No specific industry or software experience mentioned; may need to adapt to company tools."
     },
     {
-      "title": "Education Steward - AmeriCorps",
-      "company": "78c2c01f-ca87-43be-b701-81ef8e0fc90a",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
+      "title": "Clerical Associate",
+      "company": "prms",
+      "url": "https://job-boards.greenhouse.io/prms/jobs/4559708006",
+      "fit": 90,
+      "label": "ready",
+      "why": "Excellent fit: clerical roles require organizational, communication, and writing skills. Multilingual and goal-oriented traits add value.",
+      "gaps": "No specific clerical experience listed, but skills are highly transferable."
+    },
+    {
+      "title": "NSC/ASC Junior Procurement Analyst",
+      "company": "0229ddeb-c155-4df8-a06e-54da729657c5",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4229426",
       "fit": 70,
       "label": "target",
-      "why": "Relevant skills in management, training, and behavior management are applicable to an Education Steward role. Volunteer experience and organizational skills are also beneficial.",
-      "gaps": "AmeriCorps positions often require specific service commitment and may need additional experience in educational program coordination or direct student support."
+      "why": "Your business, organizational, and communication skills align with procurement analysis. Internship experience and goal-oriented mindset support learning.",
+      "gaps": "No direct procurement or supply chain experience; coding skills may not be directly applicable."
     },
     {
-      "title": "English and History tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
-      "fit": 60,
-      "label": "target",
-      "why": "Skills in communicating, organizing, and training can support tutoring. French language ability is a plus for language tutoring.",
-      "gaps": "No explicit teaching or tutoring experience listed; subject matter expertise in English and History is not directly demonstrated. May need to highlight any relevant coursework or informal tutoring."
-    },
-    {
-      "title": "Fall 2026 Hatch Show Print Education and Administration (Paid) Intern",
-      "company": "9e989de2-d327-4d1e-ab67-f4833685bfa6",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208314",
-      "fit": 50,
-      "label": "reach",
-      "why": "Organizational skills, time management, and team collaboration are relevant for an administrative internship. Volunteer experience shows community engagement.",
-      "gaps": "No experience in arts administration, education programming, or specific software (e.g., design tools). The role likely requires knowledge of printmaking or museum operations."
-    },
-    {
-      "title": "Associate Curriculum Alignment Specialist",
-      "company": "ixllearning",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8531284002",
+      "title": "Food Safety Coordinator",
+      "company": "stewleonards",
+      "url": "https://jobs.dayforcehcm.com/stewleonards/CANDIDATEPORTAL/jobs/25156",
       "fit": 40,
       "label": "reach",
-      "why": "Skills in modeling, training, and management could be applied to curriculum alignment work. Organizational skills are relevant.",
-      "gaps": "No experience in curriculum development, educational standards, or instructional design. The role likely requires deep knowledge of learning frameworks and assessment alignment."
+      "why": "Organizational skills and attention to detail are relevant to food safety coordination. Internship shows work ethic.",
+      "gaps": "No food safety, regulatory, or HACCP knowledge; lacks science/technical background."
     }
   ]
 }

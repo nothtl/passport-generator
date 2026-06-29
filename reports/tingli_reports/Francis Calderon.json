@@ -1,161 +1,122 @@
 {
   "function": "arts-media",
-  "confidence": 18,
+  "confidence": 41,
   "skills": [
     "- bilingual",
     "- typingskills",
+    "extracurricular activities",
+    "high school",
+    "paint",
+    "pdf",
+    "resume",
+    "education",
     "activities",
     "care",
     "cat",
     "children",
     "dance",
-    "education",
     "exhibits",
-    "extracurricular activities",
     "games",
     "gmail",
-    "high school",
     "intern",
     "meals",
-    "paint",
-    "pdf",
-    "resume",
     "sitter",
     "spring"
   ],
   "market_relevant": [
-    "- bilingual",
-    "activities",
-    "care",
-    "children",
-    "dance",
-    "education",
-    "extracurricular activities",
-    "games",
-    "gmail",
-    "high school"
+    "paint",
+    "pdf",
+    "resume",
+    "education"
   ],
   "inferred": [
-    "communication",
-    "childcare",
     "teamwork",
-    "organization"
+    "communication",
+    "multitasking"
   ],
   "gaps": [
-    "classroommanagement",
-    "childdevelopment",
-    "lessonplanning",
     "customerservice",
-    "earlychildhoodeducation",
-    "coaching",
-    "firstaid",
-    "teamcollaboration",
-    "parentcommunication",
-    "documentation",
-    "datacollection"
+    "foodsafety",
+    "graphicdesign",
+    "adobecreativesuite",
+    "photoshop",
+    "illustrator",
+    "typography",
+    "foodpreparation",
+    "layout",
+    "figma",
+    "cashhandling",
+    "sanitation"
   ],
-  "related": [
-    {
-      "skill": "drama",
-      "pmi": 5.83
-    },
-    {
-      "skill": "sports",
-      "pmi": 5.54
-    },
-    {
-      "skill": "artsandcrafts",
-      "pmi": 5.42
-    },
-    {
-      "skill": "translation",
-      "pmi": 4.26
-    },
-    {
-      "skill": "aquatics",
-      "pmi": 4.17
-    },
-    {
-      "skill": "spanish",
-      "pmi": 3.85
-    },
-    {
-      "skill": "campcounselor",
-      "pmi": 3.6
-    },
-    {
-      "skill": "psychology",
-      "pmi": 3.2
-    }
-  ],
+  "related": [],
   "alternatives": [
     {
-      "function": "arts-media",
+      "function": "education",
+      "pct": 12
+    },
+    {
+      "function": "finance",
       "pct": 9
     },
     {
-      "function": "healthcare",
-      "pct": 8
-    },
-    {
       "function": "technology",
-      "pct": 7
-    },
-    {
-      "function": "ops",
-      "pct": 6
-    },
-    {
-      "function": "design",
       "pct": 5
+    },
+    {
+      "function": "skilled-trade",
+      "pct": 4
+    },
+    {
+      "function": "healthcare",
+      "pct": 3
     }
   ],
-  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational for any arts-media role involving children, such as teaching or leading creative workshops. Without these, you cannot effectively structure activities or ensure a safe, productive learning environment. To bridge these, consider taking a short online course in early childhood education basics and volunteering to assist in a classroom setting to gain hands-on experience.",
+  "coach_notes": "For the Painter role, lacking 'foodpreparation' and 'foodsafety' is critical if the position involves culinary or food-related painting (e.g., murals in restaurants). For the Production Artist and Design Sophomore Summit roles, missing 'graphicdesign', 'adobecreativesuite', 'photoshop', 'illustrator', and 'figma' is a major gap since these are core tools for digital design and production work. To improve, focus on learning Adobe Creative Suite (especially Photoshop and Illustrator) and Figma through online courses or projects, and consider adding food safety certification if targeting food-industry painting jobs.",
   "jobs": [
     {
-      "title": "Summer Camp Counselor - Memorial Jr. High ",
-      "company": "cleveymca",
-      "url": "https://jobs.dayforcehcm.com/cleveymca/CANDIDATEPORTAL/jobs/5321",
-      "fit": 80,
-      "label": "ready",
-      "why": "Your childcare and communication skills directly apply to camp counselor duties. Experience with activities and organization supports planning and supervising children.",
-      "gaps": "No specific experience with summer camps or working with middle schoolers mentioned. May need to highlight any relevant youth group or volunteer work."
+      "title": "Painter",
+      "company": "d545e981-f27b-45c6-824e-cadacc1dabb3",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4143702",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
     },
     {
-      "title": "SUN Extended Day Assistant",
-      "company": "6d37f9de-299c-4d37-a8dd-72b75d848703",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3953335",
-      "fit": 75,
-      "label": "ready",
-      "why": "Childcare and activity experience directly apply to extended day assistant role. Communication and organization skills support program coordination.",
-      "gaps": "No specific extended day or after-school program experience. May need to demonstrate ability to manage groups of children in a structured setting."
+      "title": "Production Artist - Specialty",
+      "company": "6cc98349-88a0-4405-8336-cb340e1c9978",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4196209",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
     },
     {
-      "title": "Instructional Aide Bilingual SY26-27",
-      "company": "districtofcolumbiainternationalschool",
-      "url": "https://job-boards.greenhouse.io/districtofcolumbiainternationalschool/jobs/5984531004",
-      "fit": 65,
-      "label": "target",
-      "why": "Bilingual skill is a strong match. Childcare and communication experience support instructional aide role. Organization skills help with classroom support.",
-      "gaps": "No formal teaching or classroom aide experience. Lacks specific bilingual education or school setting background. May need to develop understanding of instructional strategies."
+      "title": "A&F Co. Design Sophomore Summit - Summer 2026",
+      "company": "AbercrombieAndFitchCo",
+      "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000124138375",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
     },
     {
-      "title": "NYS Certified Science Teacher",
-      "company": "williamsburgcharterhighschool",
-      "url": "https://williamsburgcharterhighschool.recruitee.com/o/nys-certified-science-teacher-3",
-      "fit": 10,
-      "label": "reach",
-      "why": "Communication and organization skills are transferable. Interest in education may align with teaching.",
-      "gaps": "No science background, teaching certification, or college degree in science. Major gaps in subject matter expertise and required credentials."
+      "title": "Consultant – State and Local Government North/Richmond market",
+      "company": "guidehouse",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/job/US---VA-Richmond/Consultant---State-and-Local-Government-North-Richmond-market---Campus-2026_33911",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
     },
     {
-      "title": "VRF/HVAC Sales Representative",
-      "company": "htseng",
-      "url": "https://jobs.dayforcehcm.com/htseng/CANDIDATEPORTAL/jobs/8215",
-      "fit": 15,
-      "label": "reach",
-      "why": "Communication skills are relevant for sales. Organization may help with client management.",
-      "gaps": "No sales experience, HVAC knowledge, or technical background. Major gaps in industry expertise and sales skills."
+      "title": "Associate Math Curriculum Designer, Takeoff",
+      "company": "ixllearning",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8582999002",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
     }
   ]
 }

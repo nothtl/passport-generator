@@ -1,221 +1,193 @@
 {
   "function": "administrative",
-  "confidence": 12,
+  "confidence": 22,
   "skills": [
     "- resume",
-    "accessibility",
-    "advisor",
-    "archival",
-    "archives",
-    "candidates",
     "classroom setting",
-    "cleanliness",
-    "collaboration",
-    "communication",
     "conflict resolution",
-    "content",
-    "coordination",
-    "distribution",
-    "education",
-    "engagement",
-    "engaging",
-    "evaluation",
-    "events",
-    "feedback",
-    "fit",
-    "gmail",
     "high school",
-    "hiring",
-    "history",
-    "intern",
-    "management",
-    "materials",
-    "media",
     "media content",
-    "merchandise",
-    "office",
-    "organization",
-    "organizational",
-    "organized",
-    "participation",
-    "pastperfect",
-    "pdf",
-    "physical",
     "point of contact",
-    "presentation",
     "presentation skills",
-    "project",
     "project management",
-    "purchasing",
-    "seniors",
-    "sheets",
-    "social",
     "social engagement",
     "social media",
     "social media content",
-    "software",
-    "structured",
     "structured feedback",
-    "student",
-    "surveys",
-    "teaching",
     "team collaboration",
-    "trust",
-    "trust s"
+    "trust s",
+    "archival",
+    "engagement",
+    "evaluation",
+    "feedback",
+    "organized",
+    "physical",
+    "project",
+    "education",
+    "pdf",
+    "surveys",
+    "organizational",
+    "sheets",
+    "software",
+    "office",
+    "gmail",
+    "merchandise",
+    "events",
+    "presentation",
+    "collaboration",
+    "distribution"
   ],
   "market_relevant": [
-    "accessibility",
-    "classroom setting",
-    "cleanliness",
-    "collaboration",
-    "communication",
     "conflict resolution",
-    "coordination",
-    "education",
-    "engagement",
-    "engaging",
-    "evaluation",
-    "events",
-    "feedback",
-    "gmail",
     "high school",
-    "hiring",
-    "history",
-    "media",
-    "organization",
-    "presentation",
+    "point of contact",
     "presentation skills",
     "project management",
-    "purchasing",
     "social media",
-    "software",
+    "social media content",
+    "team collaboration",
+    "archival",
+    "engagement",
+    "evaluation",
+    "feedback",
+    "organized",
+    "physical",
+    "project",
+    "education",
+    "pdf",
     "surveys",
-    "teaching",
-    "team collaboration"
+    "organizational",
+    "sheets",
+    "software",
+    "office",
+    "gmail",
+    "merchandise",
+    "events",
+    "presentation",
+    "collaboration",
+    "distribution"
   ],
   "inferred": [
-    "teamwork",
     "communication",
-    "documentation",
-    "coordination"
+    "teamwork",
+    "problemsolving"
   ],
   "gaps": [
-    "classroommanagement",
-    "childdevelopment",
-    "childcare",
-    "lessonplanning",
     "customerservice",
-    "earlychildhoodeducation",
-    "coaching",
-    "firstaid",
-    "parentcommunication",
-    "datacollection",
-    "activityplanning",
-    "behaviormanagement",
-    "classmanagement"
+    "inventorymanagement",
+    "cashhandling",
+    "multitasking",
+    "timemanagement",
+    "dataentry",
+    "inventory",
+    "validdriverslicense",
+    "driving",
+    "orderprocessing",
+    "foodsafety",
+    "inventorycontrol"
   ],
   "related": [
     {
-      "skill": "contentcreation",
-      "pmi": 5.12
+      "skill": "hardware",
+      "pmi": 8.28
     },
     {
-      "skill": "datadrivendecisionmaking",
-      "pmi": 4.22
+      "skill": "docs",
+      "pmi": 8.17
     },
     {
-      "skill": "facilitation",
-      "pmi": 3.67
+      "skill": "googledrive",
+      "pmi": 6.63
     },
     {
-      "skill": "classicaleducation",
-      "pmi": 3.66
+      "skill": "propertytour",
+      "pmi": 6.52
     },
     {
-      "skill": "writing",
-      "pmi": 3.44
+      "skill": "campusnetworking",
+      "pmi": 6.24
     },
     {
-      "skill": "academicresearch",
-      "pmi": 3.37
+      "skill": "customerfacing",
+      "pmi": 6.2
     },
     {
-      "skill": "equityandinclusion",
-      "pmi": 3.37
+      "skill": "marketresearch",
+      "pmi": 6.17
     },
     {
-      "skill": "undergraduateeducation",
-      "pmi": 3.37
+      "skill": "logmanagement",
+      "pmi": 6.12
     }
   ],
   "alternatives": [
     {
-      "function": "arts-media",
+      "function": "education",
       "pct": 10
     },
     {
+      "function": "arts-media",
+      "pct": 8
+    },
+    {
       "function": "technology",
-      "pct": 7
+      "pct": 6
     },
     {
       "function": "ops",
-      "pct": 7
+      "pct": 6
     },
     {
       "function": "healthcare",
-      "pct": 7
-    },
-    {
-      "function": "personal-care",
-      "pct": 4
+      "pct": 6
     }
   ],
-  "coach_notes": "The most critical gaps are 'classroommanagement' and 'childdevelopment', as these are foundational for roles involving direct interaction with children, which many administrative positions in educational settings require. Without these, you may be overlooked for jobs that expect you to oversee classroom environments or understand developmental stages. To address this, consider taking a short online course in classroom management and child development basics, and highlight any volunteer work with children in your resume.",
+  "coach_notes": "For the Business Executive Assistant and Administrative Assistant roles, 'multitasking' and 'timemanagement' are critical gaps, as these jobs require juggling multiple tasks and deadlines. For the Quality Control Specialist position, 'dataentry' and 'inventorymanagement' are essential for tracking quality metrics and supplies. Prioritize developing multitasking and data entry skills to align with these specific job demands.",
   "jobs": [
     {
-      "title": "English and History tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
-      "fit": 85,
+      "title": "Administrative Assistant",
+      "company": "purestorage",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/7616957",
+      "fit": 75,
       "label": "ready",
-      "why": "Strong overlap with your communication, collaboration, and classroom setting skills. Tutoring English and History directly leverages your high school background and presentation abilities.",
-      "gaps": "No specific mention of tutoring experience or subject matter expertise in English/History; may need to highlight relevant coursework or volunteer tutoring."
+      "why": "Administrative tasks match your organizational, communication, and Gmail/sheets skills. Classroom setting experience shows ability to manage multiple tasks.",
+      "gaps": "No experience with specific administrative software or corporate office procedures. May need to learn company-specific tools."
     },
     {
-      "title": "Youth Instructor & Program Support Specialist",
-      "company": "super-soccer-stars",
-      "url": "https://apply.workable.com/j/D82C956AFF",
-      "fit": 80,
-      "label": "ready",
-      "why": "Your social engagement, media content, and social media skills directly support youth program promotion and engagement. Management and collaboration fit program support duties.",
-      "gaps": "No specific youth instruction or sports-related experience mentioned; may need to emphasize any volunteer work with children or program coordination."
+      "title": "Quality Control Specialist",
+      "company": "neo-gg",
+      "url": "https://apply.workable.com/j/7AED058641",
+      "fit": 20,
+      "label": "reach",
+      "why": "Your organizational and attention-to-detail skills from project and classroom settings could support quality control tasks.",
+      "gaps": "No experience in quality control processes, technical inspection, or industry-specific standards. Missing relevant technical skills."
     },
     {
-      "title": "Training Specialist I",
-      "company": "df3330d4-f8fa-4d51-ab6c-6ca7896f235d",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4098942",
+      "title": "Business Executive Assistant (Remote, Full Time)",
+      "company": "uptalent-dot-i-o",
+      "url": "https://apply.workable.com/j/370342F1B1",
       "fit": 70,
       "label": "target",
-      "why": "Your skills in management, collaboration, communication, presentation, and evaluation align well with training delivery and program coordination. Experience as a point of contact and advisor supports learner engagement.",
-      "gaps": "No formal training or instructional design experience mentioned; may need to demonstrate ability to develop training materials and assess learning outcomes beyond classroom settings."
+      "why": "Strong communication, organizational, and social engagement skills align with executive support. Experience as a point of contact and with Gmail/sheets is relevant.",
+      "gaps": "No direct executive assistant experience. May need to develop calendar management, travel coordination, and remote work best practices."
     },
     {
-      "title": "Instructional Assistant Atlanta  (IT Support)",
-      "company": "perscholashires",
-      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4691467006",
-      "fit": 45,
-      "label": "reach",
-      "why": "Your accessibility and organized skills could support IT support tasks, and collaboration is useful in a school environment.",
-      "gaps": "No IT support, technical troubleshooting, or instructional technology experience listed. Significant gap in technical skills required for this role."
+      "title": "Services Coordinator & Bookkeeping $18-$20 per hour (DOE)",
+      "company": "odorzx",
+      "url": "https://apply.workable.com/j/144B6BCADE",
+      "fit": 65,
+      "label": "target",
+      "why": "Organizational and communication skills are key for coordination. Social engagement and teamwork show ability to work with clients and teams.",
+      "gaps": "No bookkeeping experience or knowledge of accounting software. Need to develop financial record-keeping skills."
     },
     {
-      "title": "NYS Certified Science Teacher",
-      "company": "williamsburgcharterhighschool",
-      "url": "https://williamsburgcharterhighschool.recruitee.com/o/nys-certified-science-teacher-3",
-      "fit": 30,
-      "label": "reach",
-      "why": "Your classroom setting, communication, and presentation skills are relevant to teaching, and high school background is a plus.",
-      "gaps": "No science teaching certification, subject matter expertise in science, or NYS certification mentioned. Major gap in required credentials and content knowledge."
+      "title": "Operations Associate",
+      "company": "erickson",
+      "url": "https://erickson.wd108.myworkdayjobs.com/job/Springfield-VA/Operations-Associate_R0098936",
+      "fit": 70,
+      "label": "target",
+      "why": "Project management, organizational skills, and teamwork are relevant. Experience with sheets and social media shows data handling and digital literacy.",
+      "gaps": "No direct operations experience. May need to learn supply chain, logistics, or operational processes specific to the company."
     }
   ]
 }

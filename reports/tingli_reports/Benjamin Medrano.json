@@ -1,244 +1,201 @@
 {
   "function": "technology",
-  "confidence": 11,
+  "confidence": 25,
   "skills": [
     "- resume",
-    "accessibility",
-    "activities",
-    "administrative",
     "administrative tasks",
-    "assistance",
-    "bilingual",
-    "bilingualcommunication",
-    "clients",
-    "communication",
-    "coordinating",
     "customer service",
     "customer service excellence",
-    "delivering",
-    "diploma",
-    "education",
-    "efficiency",
-    "efficient",
-    "engaging",
-    "english",
     "english spanish",
-    "excellence",
-    "gmail",
-    "guidance",
-    "hardware",
     "hardware and software",
-    "healthcare",
     "high school",
     "high school diploma",
     "high school graduate",
-    "intern",
-    "internship",
-    "inventory",
     "it support",
-    "languages",
-    "leadership",
-    "motivated",
-    "office",
     "office supplies",
-    "operations",
-    "organization",
-    "organizational",
     "organizational skills",
-    "organized",
-    "pdf",
-    "productive",
-    "professional",
     "professional experience",
     "professional standards",
-    "projects",
-    "reliable",
-    "research",
-    "service",
     "service excellence",
-    "software",
     "software issues",
-    "spanish",
     "spanish english",
-    "standards",
     "strong organizational skills",
-    "student",
-    "students",
-    "support",
-    "teamwork",
-    "technical",
     "technical skills",
     "technical support",
     "technical troubleshooting",
-    "translation",
     "translation services",
-    "translations",
-    "troubleshooting",
     "user experience",
-    "workspace"
+    "bilingual",
+    "pdf",
+    "spanish",
+    "standards",
+    "education",
+    "healthcare",
+    "inventory",
+    "translations",
+    "leadership",
+    "operations",
+    "translation",
+    "support",
+    "organization",
+    "accessibility",
+    "software",
+    "hardware",
+    "english",
+    "teamwork",
+    "research",
+    "communication"
   ],
   "market_relevant": [
-    "accessibility",
-    "activities",
-    "administrative",
-    "administrative tasks",
-    "assistance",
-    "bilingual",
-    "bilingualcommunication",
-    "communication",
     "customer service",
-    "education",
-    "engaging",
-    "english",
-    "gmail",
-    "guidance",
-    "hardware",
-    "high school",
     "high school diploma",
-    "internship",
-    "inventory",
     "it support",
-    "leadership",
-    "motivated",
-    "operations",
-    "organization",
     "organizational skills",
-    "professional",
-    "professional experience",
-    "reliable",
-    "research",
-    "service",
-    "service excellence",
-    "software",
+    "technical support",
+    "technical troubleshooting",
+    "user experience",
+    "bilingual",
+    "pdf",
     "spanish",
-    "spanish english",
-    "students",
-    "support",
-    "teamwork",
+    "standards",
+    "education",
+    "healthcare",
+    "inventory",
+    "translations",
+    "leadership",
+    "operations",
     "translation",
-    "troubleshooting"
+    "support",
+    "organization",
+    "accessibility",
+    "software",
+    "hardware",
+    "english",
+    "teamwork",
+    "research",
+    "communication"
   ],
   "inferred": [
-    "childdevelopment",
-    "activityplanning",
-    "teamcollaboration",
-    "parentcommunication",
-    "documentation"
+    "troubleshooting",
+    "debugging"
   ],
   "gaps": [
-    "classroommanagement",
-    "childcare",
-    "lessonplanning",
-    "earlychildhoodeducation",
-    "coaching",
-    "firstaid",
-    "datacollection",
-    "behaviormanagement",
-    "classmanagement",
-    "collaboration"
+    "python",
+    "documentation",
+    "sql",
+    "testing",
+    "javascript",
+    "dataanalysis",
+    "java",
+    "typescript",
+    "react",
+    "git",
+    "linux",
+    "c++",
+    "cicd"
   ],
   "related": [
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
+      "skill": "localization",
+      "pmi": 5.44
     },
     {
-      "skill": "dishwashing",
-      "pmi": 4.55
+      "skill": "productknowledge",
+      "pmi": 5.16
     },
     {
-      "skill": "portioncontrol",
-      "pmi": 4.38
+      "skill": "german",
+      "pmi": 4.47
     },
     {
-      "skill": "temperaturecontrol",
-      "pmi": 4.23
+      "skill": "network",
+      "pmi": 4.44
     },
     {
-      "skill": "mandarin",
-      "pmi": 4.13
+      "skill": "designsystems",
+      "pmi": 4.34
     },
     {
-      "skill": "readwritespeakenglish",
-      "pmi": 3.84
+      "skill": "linguistics",
+      "pmi": 4.27
     },
     {
-      "skill": "statequalifications",
-      "pmi": 3.72
+      "skill": "frontendtesting",
+      "pmi": 4.0
     },
     {
-      "skill": "sanitation",
-      "pmi": 3.68
+      "skill": "hvac",
+      "pmi": 3.95
     }
   ],
   "alternatives": [
     {
-      "function": "healthcare",
+      "function": "education",
       "pct": 9
+    },
+    {
+      "function": "healthcare",
+      "pct": 7
     },
     {
       "function": "arts-media",
-      "pct": 9
-    },
-    {
-      "function": "technology",
-      "pct": 8
+      "pct": 7
     },
     {
       "function": "ops",
-      "pct": 6
+      "pct": 5
     },
     {
       "function": "finance",
-      "pct": 5
+      "pct": 4
     }
   ],
-  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational skills for roles in education or childcare that appear in the job postings. Without them, you cannot effectively lead a classroom or design curriculum, which are core responsibilities. To address this, consider taking a short online course in early childhood education or volunteering to assist in a classroom to gain hands-on experience.",
+  "coach_notes": "For the Field Technical Support and Technical Solutions Analyst roles, SQL and Python are critical for querying databases and automating support tasks, while documentation skills are essential for the Junior Technical Writer position. JavaScript and testing knowledge would also strengthen your candidacy for the Technical Solutions Analyst role, as these are commonly required for troubleshooting web-based banking solutions. Focus on learning SQL and Python first, as they appear across multiple job descriptions and are foundational for technical support and analysis.",
   "jobs": [
     {
-      "title": "Dual Language Assistant",
-      "company": "14e61377-a63e-41e8-bf47-b84df4062da1",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
-      "fit": 85,
+      "title": "Field Technical Support",
+      "company": "octal-philippines-inc-4",
+      "url": "https://apply.workable.com/j/359D18DF7F",
+      "fit": 80,
       "label": "ready",
-      "why": "Your skills in delivering, parent communication, child development, and activity planning align directly with a dual language assistant role. Your diploma and organized, reliable nature support this.",
-      "gaps": "No specific bilingual or dual language teaching experience mentioned; you may need to highlight any language proficiency or cultural competency."
+      "why": "Strong match with technical troubleshooting, debugging, and communication skills. Experience in operations and inventory management supports field support role.",
+      "gaps": "No specific field experience or advanced technical certifications mentioned."
     },
     {
-      "title": "Paraprofessional (Spanish Speaking)  (2026-2027)",
-      "company": "bricknetworks",
-      "url": "https://jobs.lever.co/bricknetworks/167c4621-b159-4f96-bea7-c717a449dca0",
-      "fit": 90,
-      "label": "ready",
-      "why": "Your skills in child development, parent communication, activity planning, and delivering align perfectly with a paraprofessional role. Teamwork and organized nature are strong fits.",
-      "gaps": "No specific mention of Spanish-speaking ability or experience working with Spanish-speaking students/families. The role requires bilingual proficiency."
+      "title": "Junior Technical Writer for Banking Solutions (m/f/d)",
+      "company": "fioneer",
+      "url": "https://apply.workable.com/j/311DE9A4A0",
+      "fit": 65,
+      "label": "target",
+      "why": "Excellent communication and bilingual skills (English/Spanish) are valuable for writing. Organizational skills and attention to detail support documentation tasks.",
+      "gaps": "No experience in technical writing, banking domain knowledge, or familiarity with documentation tools."
     },
     {
-      "title": "Instructional Assistant Atlanta  (IT Support)",
-      "company": "perscholashires",
-      "url": "https://job-boards.greenhouse.io/perscholashires/jobs/4691467006",
-      "fit": 40,
-      "label": "reach",
-      "why": "Your background in delivering, research, and administrative tasks shows organizational and support skills relevant to an instructional assistant role. Customer service excellence and teamwork are transferable.",
-      "gaps": "The job is IT Support focused, requiring technical troubleshooting skills (e.g., software/hardware issues) which are not evident in your resume. No direct IT support experience or certifications listed."
-    },
-    {
-      "title": "Spanish Interpreter/Translator Intern",
-      "company": "CityOfNewYork",
-      "url": "https://jobs.smartrecruiters.com/CityOfNewYork/3743990013318111",
+      "title": "US- Technical Solutions Analyst",
+      "company": "pointclickcare",
+      "url": "https://jobs.lever.co/pointclickcare/64597a6f-76b4-404d-9632-1e031e56c585",
       "fit": 70,
       "label": "target",
-      "why": "Your research skills, customer service, and administrative tasks are relevant for an interpreter/translator intern role. Organized and reliable traits are valued.",
-      "gaps": "No direct interpretation or translation experience or language proficiency listed. The role requires Spanish fluency and possibly formal training, which is not evident."
+      "why": "Technical troubleshooting, debugging, and operations skills align with analyst role. Bilingual abilities and teamwork are assets.",
+      "gaps": "No healthcare IT experience or specific knowledge of point-of-care systems. May need additional training on industry-specific software."
     },
     {
-      "title": "Learning Center Coordinator ",
-      "company": "thinkacademyus",
-      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7778505003",
+      "title": "2026 Fall Information Systems Intern/Co-Op",
+      "company": "pca",
+      "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/56961",
       "fit": 60,
       "label": "target",
-      "why": "Your administrative tasks, organized, reliable, and customer service skills are relevant for a learning center coordinator. Research and activity planning show initiative.",
-      "gaps": "No direct coordination or management experience in an educational setting. The role may require supervisory or program development skills not evident in your resume."
+      "why": "Organizational skills, teamwork, and basic technical skills are relevant for an internship. Bilingualism and adaptability are pluses.",
+      "gaps": "No information systems coursework or project experience. High school diploma only; may need to pursue relevant degree or certifications."
+    },
+    {
+      "title": "Network Support Internship",
+      "company": "1ce6f339-3ba5-40d3-ad96-dd9b678b3f9b",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4132377",
+      "fit": 55,
+      "label": "reach",
+      "why": "Basic technical troubleshooting and debugging skills provide a foundation. Communication and teamwork are beneficial.",
+      "gaps": "No network-specific knowledge, certifications (e.g., CCNA), or hands-on experience with network equipment. Significant learning curve."
     }
   ]
 }

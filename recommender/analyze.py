@@ -49,6 +49,9 @@ def analyze(resume_text: str, top_k: int = 10):
     except Exception:
         pass
 
+    # Cap at 30 skills for readability
+    skills = skills[:30]
+
     # Load function features for skill filtering
     import json
     cls_path = os.path.join(os.path.dirname(__file__), 'data', 'classifier_skills.json')

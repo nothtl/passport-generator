@@ -68,12 +68,18 @@ def retrieve_jds(
 
     student_set = set(_norm(s) for s in student_skills)
     # Also build expanded set from aggregator's synonym map
+    # Expand using ESCO synonym map (85K alt-labels, data-driven)
     try:
-        from recommender.profile.aggregator import _SKILL_SYNONYMS
-        for canonical, aliases in _SKILL_SYNONYMS.items():
+        import json, os as _os
+        _syn_path = _os.path.join(_os.path.dirname(__file__), '..', 'data', 'esco_synonyms.json')
+        with open(_syn_path) as _f:
+            _esco_syns = json.load(_f)
+        for canonical, aliases in _esco_syns.items():
+            if _norm(canonical) in student_set:
+                continue  # already have it
             if any(_norm(a) in student_set for a in aliases):
                 student_set.add(_norm(canonical))
-    except ImportError:
+    except Exception:
         pass
     scores = df["skills"].apply(
         lambda row: sum(1 for s in row if isinstance(s, str) and _norm(s) in student_set)

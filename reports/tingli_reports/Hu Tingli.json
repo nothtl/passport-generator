@@ -1,0 +1,364 @@
+{
+  "function": "technology",
+  "level": "Entry",
+  "match_pct": 33,
+  "skills_extracted": [
+    "agentic ai",
+    "ai automation",
+    "ai ml",
+    "architecture",
+    "automation",
+    "autonomous systems",
+    "azure",
+    "azure functions",
+    "career-readiness",
+    "claims",
+    "cloud",
+    "cloud infrastructure",
+    "computer",
+    "computer vision",
+    "cosmos db",
+    "data",
+    "data science",
+    "development",
+    "engineering",
+    "fastapi",
+    "fraud",
+    "fraud claims",
+    "full stack",
+    "full stack development",
+    "infrastructure",
+    "intern",
+    "object detection",
+    "pipeline",
+    "platform",
+    "real-time",
+    "ros",
+    "science",
+    "semantic search",
+    "stack",
+    "systems",
+    "team building",
+    "teams",
+    "tech",
+    "technical",
+    "technical skills",
+    "uav",
+    "validation",
+    "vision"
+  ],
+  "related_skills": [
+    [
+      "azureservicebus",
+      6.17
+    ],
+    [
+      "ros2",
+      5.21
+    ],
+    [
+      "design",
+      4.56
+    ],
+    [
+      "flask",
+      4.44
+    ],
+    [
+      "sharepoint",
+      4.32
+    ],
+    [
+      "microsoft365",
+      4.3
+    ],
+    [
+      "motionplanning",
+      4.22
+    ],
+    [
+      "opencv",
+      4.0
+    ]
+  ],
+  "market_skills": [
+    "agentic ai",
+    "ai automation",
+    "ai ml",
+    "architecture",
+    "automation",
+    "autonomous systems",
+    "azure",
+    "azure functions",
+    "cloud",
+    "cloud infrastructure",
+    "computer vision",
+    "cosmos db",
+    "data",
+    "data science",
+    "development",
+    "engineering",
+    "fastapi",
+    "fraud",
+    "full stack",
+    "full stack development",
+    "infrastructure",
+    "object detection",
+    "pipeline",
+    "platform",
+    "real-time",
+    "ros",
+    "semantic search",
+    "systems",
+    "teams",
+    "uav",
+    "validation",
+    "vision"
+  ],
+  "has_skills": [
+    "engineering",
+    "automation",
+    "systems",
+    "infrastructure",
+    "intern",
+    "architecture"
+  ],
+  "missing_skills": [
+    "javascript",
+    "troubleshooting",
+    "dataanalysis",
+    "communication",
+    "java",
+    "typescript",
+    "react",
+    "linux",
+    "c++"
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "match_pct": 9
+    },
+    {
+      "function": "agriculture",
+      "match_pct": 9
+    },
+    {
+      "function": "education",
+      "match_pct": 5
+    },
+    {
+      "function": "healthcare",
+      "match_pct": 5
+    },
+    {
+      "function": "finance",
+      "match_pct": 5
+    }
+  ],
+  "all_probas": {
+    "technology": 33.0,
+    "arts-media": 9.4,
+    "agriculture": 8.8,
+    "education": 5.0,
+    "healthcare": 4.7,
+    "finance": 4.7,
+    "skilled-trade": 4.1,
+    "ops": 3.7,
+    "design": 3.4,
+    "sales": 3.0
+  },
+  "openings": [
+    {
+      "title": "Programmeur(euse) junior BackEnd Python",
+      "company": "tehora",
+      "url": "https://apply.workable.com/j/7BECF7E823"
+    },
+    {
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "company": "palantir",
+      "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2"
+    },
+    {
+      "title": "AI Developer ",
+      "company": "atlassand",
+      "url": "https://job-boards.greenhouse.io/atlassand/jobs/8589983002"
+    },
+    {
+      "title": "Intern - Systems Engineering - Must Be Bilingual in English and Japanese/Korean",
+      "company": "extremenetworks",
+      "url": "https://jobs.lever.co/extremenetworks/ebbd4bf7-15a0-43f6-b54c-bf087d9d14ab"
+    },
+    {
+      "title": "Software Engineering Intern (Summer 2026)",
+      "company": "replit",
+      "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1"
+    }
+  ],
+  "llm_enhanced": true,
+  "inferred_skills": [
+    "python",
+    "cloud deployment",
+    "documentation",
+    "sql",
+    "testing",
+    "data analysis",
+    "git",
+    "debugging"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "agentic ai",
+      "evidence": "Led agentic email-generation tool.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "ai automation",
+      "evidence": "Technical Skills: Agentic AI & Automation",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "ai ml",
+      "evidence": "AI/ML Intern | Computer-vision pipeline.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "architecture",
+      "evidence": "Led technical architecture.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "automation",
+      "evidence": "Technical Skills: Agentic AI & Automation",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "autonomous systems",
+      "evidence": "Technical Skills: ... Autonomous Systems.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "azure",
+      "evidence": "Integrated Azure Functions and Cosmos DB.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "azure functions",
+      "evidence": "Integrated Azure Functions and Cosmos DB.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "career-readiness",
+      "evidence": "Led data science team building AI career-readiness tool.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "claims",
+      "evidence": "AI-enabled fraud claims validation platform.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "cloud",
+      "evidence": "Technical Skills: ... Cloud Infrastructure",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "cloud infrastructure",
+      "evidence": "Technical Skills: ... Cloud Infrastructure",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "computer",
+      "evidence": "Technical Skills: ... Computer Vision",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "computer vision",
+      "evidence": "Technical Skills: ... Computer Vision",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "cosmos db",
+      "evidence": "Integrated Azure Functions and Cosmos DB.",
+      "proficiency": "proficient"
+    }
+  ],
+  "gap_explanation": "The most critical gaps are JavaScript and TypeScript, as they are foundational for front-end and full-stack development roles, which are prevalent in tech. Additionally, communication is vital for collaborating with teams and stakeholders, especially in architecture and automation roles. To address these, focus on building a portfolio project using React with TypeScript and practice explaining technical concepts clearly in mock interviews.",
+  "job_evaluations": [
+    {
+      "job_index": 1,
+      "fit": 75,
+      "label": "ready",
+      "why": "Strong match with backend Python development, cloud infrastructure, and Azure skills. Junior role aligns with career-readiness."
+    },
+    {
+      "job_index": 2,
+      "fit": 30,
+      "label": "reach",
+      "why": "Requires US government clearance and specialized domain expertise; resume lacks government or security-specific experience."
+    },
+    {
+      "job_index": 3,
+      "fit": 85,
+      "label": "ready",
+      "why": "Excellent alignment with AI/ML, agentic AI, and automation skills. Directly applicable to AI developer role."
+    },
+    {
+      "job_index": 4,
+      "fit": 20,
+      "label": "reach",
+      "why": "Mandatory bilingualism in English and Japanese/Korean not indicated; systems engineering focus diverges from AI/cloud strengths."
+    },
+    {
+      "job_index": 5,
+      "fit": 60,
+      "label": "target",
+      "why": "Software engineering intern role fits general skills but lacks specific Replit or platform experience; growth path to full-stack or cloud roles."
+    }
+  ],
+  "ready_jobs": [
+    {
+      "title": "Programmeur(euse) junior BackEnd Python",
+      "company": "tehora",
+      "url": "https://apply.workable.com/j/7BECF7E823",
+      "fit": 75,
+      "label": "ready",
+      "why": "Strong match with backend Python development, cloud infrastructure, and Azure skills. Junior role aligns with career-readiness."
+    },
+    {
+      "title": "AI Developer ",
+      "company": "atlassand",
+      "url": "https://job-boards.greenhouse.io/atlassand/jobs/8589983002",
+      "fit": 85,
+      "label": "ready",
+      "why": "Excellent alignment with AI/ML, agentic AI, and automation skills. Directly applicable to AI developer role."
+    }
+  ],
+  "target_jobs": [
+    {
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "company": "palantir",
+      "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2",
+      "fit": 30,
+      "label": "reach",
+      "why": "Requires US government clearance and specialized domain expertise; resume lacks government or security-specific experience."
+    },
+    {
+      "title": "Intern - Systems Engineering - Must Be Bilingual in English and Japanese/Korean",
+      "company": "extremenetworks",
+      "url": "https://jobs.lever.co/extremenetworks/ebbd4bf7-15a0-43f6-b54c-bf087d9d14ab",
+      "fit": 20,
+      "label": "reach",
+      "why": "Mandatory bilingualism in English and Japanese/Korean not indicated; systems engineering focus diverges from AI/cloud strengths."
+    },
+    {
+      "title": "Software Engineering Intern (Summer 2026)",
+      "company": "replit",
+      "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
+      "fit": 60,
+      "label": "target",
+      "why": "Software engineering intern role fits general skills but lacks specific Replit or platform experience; growth path to full-stack or cloud roles."
+    }
+  ],
+  "llm_timing_ms": 11276
+}

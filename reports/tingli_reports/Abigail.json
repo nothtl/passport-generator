@@ -1,0 +1,250 @@
+{
+  "function": "arts-media",
+  "level": "Entry",
+  "match_pct": 33,
+  "skills_extracted": [
+    "- present",
+    "activities",
+    "application process",
+    "children",
+    "cleaning",
+    "content",
+    "creative",
+    "database",
+    "design",
+    "events",
+    "google",
+    "google maps",
+    "graphic design",
+    "high school",
+    "intern",
+    "internship",
+    "internship application",
+    "learning",
+    "local",
+    "manager",
+    "maps",
+    "mentor",
+    "music",
+    "navigate",
+    "outreach",
+    "part",
+    "posting",
+    "program",
+    "record",
+    "remote learning",
+    "students",
+    "teens",
+    "train",
+    "volunteer",
+    "write"
+  ],
+  "related_skills": [
+    [
+      "housekeeping",
+      3.59
+    ],
+    [
+      "vacuuming",
+      3.44
+    ],
+    [
+      "physicalstamina",
+      2.86
+    ],
+    [
+      "ui",
+      2.63
+    ],
+    [
+      "ux",
+      2.57
+    ],
+    [
+      "wordpress",
+      2.35
+    ],
+    [
+      "wayfinding",
+      2.17
+    ],
+    [
+      "exhibitiondesign",
+      2.17
+    ]
+  ],
+  "market_skills": [
+    "cleaning",
+    "creative",
+    "design",
+    "events",
+    "graphic design",
+    "maps"
+  ],
+  "has_skills": [
+    "events",
+    "music",
+    "intern",
+    "creative",
+    "outreach"
+  ],
+  "missing_skills": [
+    "customerservice",
+    "teamwork",
+    "communication",
+    "foodsafety",
+    "foodpreparation",
+    "multitasking",
+    "cashhandling",
+    "sanitation",
+    "inventorymanagement"
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "match_pct": 10
+    },
+    {
+      "function": "design",
+      "match_pct": 8
+    },
+    {
+      "function": "technology",
+      "match_pct": 7
+    },
+    {
+      "function": "finance",
+      "match_pct": 7
+    },
+    {
+      "function": "healthcare",
+      "match_pct": 5
+    }
+  ],
+  "all_probas": {
+    "arts-media": 33.3,
+    "education": 9.8,
+    "design": 7.8,
+    "technology": 6.9,
+    "finance": 6.6,
+    "healthcare": 4.8,
+    "agriculture": 4.1,
+    "ops": 3.1,
+    "skilled-trade": 3.1,
+    "legal": 2.7
+  },
+  "openings": [
+    {
+      "title": "Level I Instructional Designer (contract contingent)",
+      "company": "prosidianconsulting",
+      "url": "https://jobs.smartrecruiters.com/prosidianconsulting/94546307"
+    },
+    {
+      "title": "Fall 2026 Creative (Paid) Intern",
+      "company": "9e989de2-d327-4d1e-ab67-f4833685bfa6",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208272"
+    },
+    {
+      "title": "Planning Technician",
+      "company": "lakewood",
+      "url": "https://lakewood.wd503.myworkdayjobs.com/job/Lakewood-CO/Planning-Technician_JR103799"
+    },
+    {
+      "title": "Junior Designer",
+      "company": "56acb34b-70f4-4003-bddd-9a1d5a1b36c1",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3215762"
+    },
+    {
+      "title": "A&F Co. Design Sophomore Summit - Summer 2026",
+      "company": "AbercrombieAndFitchCo",
+      "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000124138375"
+    }
+  ],
+  "llm_enhanced": true,
+  "inferred_skills": [
+    "adobecreativesuite",
+    "photoshop",
+    "illustrator",
+    "typography",
+    "layout",
+    "figma"
+  ],
+  "gap_explanation": "The most critical gaps are customerservice, teamwork, and communication, as these are foundational for client-facing roles in arts-media, such as event coordination or gallery management. Without these, you'll struggle to collaborate with teams and engage audiences effectively. To close these gaps, volunteer for group projects or take a short course in interpersonal skills.",
+  "job_evaluations": [
+    {
+      "job_index": 1,
+      "fit": 65,
+      "label": "target",
+      "why": "Resume has design and content skills, but lacks instructional design experience and contract-specific requirements."
+    },
+    {
+      "job_index": 2,
+      "fit": 80,
+      "label": "ready",
+      "why": "Strong match with creative, design, and intern experience; minor gap in specific creative portfolio details."
+    },
+    {
+      "job_index": 3,
+      "fit": 30,
+      "label": "reach",
+      "why": "Resume lacks planning, technical, and municipal experience; skills are mostly creative and administrative."
+    },
+    {
+      "job_index": 4,
+      "fit": 85,
+      "label": "ready",
+      "why": "Excellent alignment with junior designer role; design, creative, and database skills are directly relevant."
+    },
+    {
+      "job_index": 5,
+      "fit": 70,
+      "label": "target",
+      "why": "Good fit for design internship, but resume lacks retail/fashion-specific experience and summit program details."
+    }
+  ],
+  "ready_jobs": [
+    {
+      "title": "Fall 2026 Creative (Paid) Intern",
+      "company": "9e989de2-d327-4d1e-ab67-f4833685bfa6",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208272",
+      "fit": 80,
+      "label": "ready",
+      "why": "Strong match with creative, design, and intern experience; minor gap in specific creative portfolio details."
+    },
+    {
+      "title": "Junior Designer",
+      "company": "56acb34b-70f4-4003-bddd-9a1d5a1b36c1",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3215762",
+      "fit": 85,
+      "label": "ready",
+      "why": "Excellent alignment with junior designer role; design, creative, and database skills are directly relevant."
+    }
+  ],
+  "target_jobs": [
+    {
+      "title": "Level I Instructional Designer (contract contingent)",
+      "company": "prosidianconsulting",
+      "url": "https://jobs.smartrecruiters.com/prosidianconsulting/94546307",
+      "fit": 65,
+      "label": "target",
+      "why": "Resume has design and content skills, but lacks instructional design experience and contract-specific requirements."
+    },
+    {
+      "title": "Planning Technician",
+      "company": "lakewood",
+      "url": "https://lakewood.wd503.myworkdayjobs.com/job/Lakewood-CO/Planning-Technician_JR103799",
+      "fit": 30,
+      "label": "reach",
+      "why": "Resume lacks planning, technical, and municipal experience; skills are mostly creative and administrative."
+    },
+    {
+      "title": "A&F Co. Design Sophomore Summit - Summer 2026",
+      "company": "AbercrombieAndFitchCo",
+      "url": "https://jobs.smartrecruiters.com/AbercrombieAndFitchCo/744000124138375",
+      "fit": 70,
+      "label": "target",
+      "why": "Good fit for design internship, but resume lacks retail/fashion-specific experience and summit program details."
+    }
+  ],
+  "llm_timing_ms": 11344
+}

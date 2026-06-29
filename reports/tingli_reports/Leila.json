@@ -1,0 +1,317 @@
+{
+  "function": "healthcare",
+  "level": "Entry",
+  "match_pct": 15,
+  "skills_extracted": [
+    "-- case management",
+    "-- home health",
+    "-- volunteer",
+    "aide",
+    "assisting",
+    "assisting patients",
+    "care",
+    "care -- home",
+    "epic",
+    "flu",
+    "health",
+    "home",
+    "home care",
+    "home health aide",
+    "hours",
+    "intern",
+    "level",
+    "management",
+    "patients",
+    "pod",
+    "science",
+    "students",
+    "training",
+    "vmware"
+  ],
+  "related_skills": [
+    [
+      "socialstudies",
+      5.93
+    ],
+    [
+      "stem",
+      5.24
+    ],
+    [
+      "communityresources",
+      4.7
+    ],
+    [
+      "advocacy",
+      3.89
+    ],
+    [
+      "familyservices",
+      3.89
+    ],
+    [
+      "reading",
+      3.74
+    ],
+    [
+      "math",
+      3.57
+    ],
+    [
+      "counseling",
+      3.38
+    ]
+  ],
+  "market_skills": [
+    "-- case management",
+    "-- volunteer",
+    "aide",
+    "care",
+    "epic",
+    "science",
+    "students",
+    "training"
+  ],
+  "has_skills": [
+    "science",
+    "students"
+  ],
+  "missing_skills": [
+    "classroommanagement",
+    "childdevelopment",
+    "childcare",
+    "lessonplanning",
+    "customerservice",
+    "earlychildhoodeducation",
+    "coaching",
+    "firstaid",
+    "teamcollaboration",
+    "parentcommunication",
+    "datacollection"
+  ],
+  "alternatives": [
+    {
+      "function": "healthcare",
+      "match_pct": 14
+    },
+    {
+      "function": "technology",
+      "match_pct": 10
+    },
+    {
+      "function": "ops",
+      "match_pct": 7
+    },
+    {
+      "function": "social-service",
+      "match_pct": 5
+    },
+    {
+      "function": "agriculture",
+      "match_pct": 5
+    }
+  ],
+  "all_probas": {
+    "education": 15.2,
+    "healthcare": 14.2,
+    "technology": 9.5,
+    "ops": 6.7,
+    "social-service": 4.8,
+    "agriculture": 4.8,
+    "legal": 4.3,
+    "science": 4.3,
+    "sales": 3.9,
+    "skilled-trade": 3.8
+  },
+  "openings": [
+    {
+      "title": "Trainer I",
+      "company": "kansashealthsystem",
+      "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/job/Shawnee-Mission-KS/Trainer-I_R-53647-1"
+    },
+    {
+      "title": "SY 26/27 PreK - 4th Grade Paraprofessional",
+      "company": "KIPP",
+      "url": "https://jobs.smartrecruiters.com/KIPP/744000113263917"
+    },
+    {
+      "title": "Montessori Assistant Teacher: Louisville, KY",
+      "company": "day1academies",
+      "url": "https://job-boards.greenhouse.io/day1academies/jobs/8577926002"
+    },
+    {
+      "title": "Internships / Volunteer Opportunities!",
+      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982"
+    },
+    {
+      "title": "School Age Child Care Site Coordinator E Syracuse-Minoa- Part Time",
+      "company": "87e48064-1e87-4bbe-abe0-6d65e861917a",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3971698"
+    }
+  ],
+  "llm_enhanced": true,
+  "llm_reclassified": true,
+  "llm_reasoning": "The resume shows a BS in Health Science, volunteer work managing a flu vaccination POD, home health aide training, and a case management internship in a community care setting. All experiences are directly related to healthcare delivery and administration.",
+  "inferred_skills": [
+    "communication",
+    "teamwork",
+    "documentation",
+    "organization"
+  ],
+  "skill_evidence": [
+    {
+      "skill": "case management",
+      "evidence": "Created training for case management including Epic and VMware.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "home health",
+      "evidence": "Platinum Home Care -- Home Health Aide",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "volunteer",
+      "evidence": "Level 4 CNYMRC -- Volunteer",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "aide",
+      "evidence": "Platinum Home Care -- Home Health Aide",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "assisting",
+      "evidence": "Completed 75 hours of training focused on assisting patients at home.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "assisting patients",
+      "evidence": "Completed 75 hours of training focused on assisting patients at home.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "care",
+      "evidence": "Platinum Home Care -- Home Health Aide",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "care -- home",
+      "evidence": "Platinum Home Care -- Home Health Aide",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "epic",
+      "evidence": "Created training for case management including Epic and VMware.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "flu",
+      "evidence": "Managed the Flu POD on campus with 520 students and staff vaccinated.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "health",
+      "evidence": "Ithaca College, BS in Health Science, Graduated May 2026",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "home",
+      "evidence": "Completed 75 hours of training focused on assisting patients at home.",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "home care",
+      "evidence": "Platinum Home Care -- Home Health Aide",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "home health aide",
+      "evidence": "Platinum Home Care -- Home Health Aide",
+      "proficiency": "proficient"
+    },
+    {
+      "skill": "hours",
+      "evidence": "Completed 75 hours of training focused on assisting patients at home.",
+      "proficiency": "proficient"
+    }
+  ],
+  "gap_explanation": "The most critical gaps are classroom management, child development, and lesson planning, as these are foundational for roles in pediatric or school-based healthcare settings where structured educational environments are common. Without these, you may lack the ability to manage groups of children effectively or tailor care to developmental stages. To address this, consider taking a short course in early childhood education or volunteering in a classroom setting to gain hands-on experience.",
+  "job_evaluations": [
+    {
+      "job_index": 1,
+      "fit": 70,
+      "label": "target",
+      "why": "Strong match in healthcare and training skills; home health and case management experience are relevant, but may lack formal trainer role experience."
+    },
+    {
+      "job_index": 2,
+      "fit": 55,
+      "label": "target",
+      "why": "Experience with care and assisting children is relevant, but lacks specific PreK-4th grade paraprofessional or classroom experience."
+    },
+    {
+      "job_index": 3,
+      "fit": 60,
+      "label": "target",
+      "why": "Care and assisting skills align with assistant teacher role; however, no Montessori or formal teaching experience is evident."
+    },
+    {
+      "job_index": 4,
+      "fit": 80,
+      "label": "ready",
+      "why": "Volunteer experience and care background are directly applicable; internship/volunteer roles are a good fit for entry-level or growth."
+    },
+    {
+      "job_index": 5,
+      "fit": 65,
+      "label": "target",
+      "why": "Child care and coordination skills are relevant, but lacks specific school-age site coordination experience; part-time may be a good growth step."
+    }
+  ],
+  "ready_jobs": [
+    {
+      "title": "Internships / Volunteer Opportunities!",
+      "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
+      "fit": 80,
+      "label": "ready",
+      "why": "Volunteer experience and care background are directly applicable; internship/volunteer roles are a good fit for entry-level or growth."
+    }
+  ],
+  "target_jobs": [
+    {
+      "title": "Trainer I",
+      "company": "kansashealthsystem",
+      "url": "https://kansashealthsystem.wd1.myworkdayjobs.com/job/Shawnee-Mission-KS/Trainer-I_R-53647-1",
+      "fit": 70,
+      "label": "target",
+      "why": "Strong match in healthcare and training skills; home health and case management experience are relevant, but may lack formal trainer role experience."
+    },
+    {
+      "title": "SY 26/27 PreK - 4th Grade Paraprofessional",
+      "company": "KIPP",
+      "url": "https://jobs.smartrecruiters.com/KIPP/744000113263917",
+      "fit": 55,
+      "label": "target",
+      "why": "Experience with care and assisting children is relevant, but lacks specific PreK-4th grade paraprofessional or classroom experience."
+    },
+    {
+      "title": "Montessori Assistant Teacher: Louisville, KY",
+      "company": "day1academies",
+      "url": "https://job-boards.greenhouse.io/day1academies/jobs/8577926002",
+      "fit": 60,
+      "label": "target",
+      "why": "Care and assisting skills align with assistant teacher role; however, no Montessori or formal teaching experience is evident."
+    },
+    {
+      "title": "School Age Child Care Site Coordinator E Syracuse-Minoa- Part Time",
+      "company": "87e48064-1e87-4bbe-abe0-6d65e861917a",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3971698",
+      "fit": 65,
+      "label": "target",
+      "why": "Child care and coordination skills are relevant, but lacks specific school-age site coordination experience; part-time may be a good growth step."
+    }
+  ],
+  "llm_timing_ms": 13497
+}

@@ -83,6 +83,29 @@ def _compute_idf(func_lower: str) -> dict[str, float]:
     return idf
 
 
+
+
+def get_jd_skill_vocabulary(function: str) -> set[str]:
+    """Return the set of all unique skill names in this function's JDs.
+    Used for filtering student skills to only market-relevant ones."""
+    func_lower = function.lower()
+    df = _load_df(func_lower)
+    if df is None or 'skills' not in df.columns:
+        return set()
+    
+    import re
+    def _norm(s):
+        return re.sub(r'[- ,/]', '', str(s).lower())
+    
+    vocab = set()
+    for skills in df['skills']:
+        if skills is None: continue
+        for s in (list(skills) if hasattr(skills, '__iter__') else []):
+            if isinstance(s, str) and len(s) > 2:
+                vocab.add(_norm(s))
+    return vocab
+
+
 def retrieve_jds(
     function: str,
     level: str = "Entry",

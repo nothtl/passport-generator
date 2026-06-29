@@ -44,25 +44,41 @@ def analyze(resume_text: str, top_k: int = 10):
     from recommender.extract.skill_extractor import extract_skills_for_function
     has_skills, missing_skills = extract_skills_for_function(resume_text, func)
 
-    # Step 4: Filter to multi-word phrases for precise job matching
-    # Single words (building, career, claims) are too noisy for JD search
-    job_skills = [s for s in skills if ' ' in s and len(s) > 8]  # multi-word phrases
-    # Also include tech acronyms from original text (before lowercasing)
-    import re as _re
-    tech_acronyms = set(t.lower() for t in _re.findall(r'\b[A-Z]{2,}(?:\d+)?\b', resume_text))
-    job_skills += [s for s in skills if s in tech_acronyms and s not in job_skills]
-    job_skills = job_skills[:25] or skills[:25]
+    # Step 4: Retrieve real job openings (IDF weighting handles skill relevance)
+    jds = retrieve_jds(func, "Entry", skills, top_k=top_k)
 
-    # Step 5: Retrieve real job openings
-    jds = retrieve_jds(func, "Entry", job_skills, top_k=top_k)
+    # Step 5: Filter skills to JD vocabulary for meaningful gap display
+    from recommender.retrieve.retriever import get_jd_skill_vocabulary, _compute_idf
+    import re as _re
+    jd_vocab = get_jd_skill_vocabulary(func)
+    _norm = lambda s: _re.sub(r'[- ,/]', '', s.lower())
+    market_skills = [s for s in skills if _norm(s) in jd_vocab]
+
+    # Market gaps: skills that appear in MANY JDs but student doesn't have.
+    # Sort by document frequency (how many JDs list this skill), not IDF.
+    import math
+    idf = _compute_idf(func)
+    N = len(idf) or 1
+    student_normed = {_norm(s) for s in skills}
+    market_gaps = []
+    for raw_skill in jd_vocab:
+        normed = _norm(raw_skill)
+        if normed not in student_normed:
+            idf_val = idf.get(normed, 0)
+            df = int(N / math.exp(idf_val)) if idf_val > 0 else 0
+            if df >= 2:  # appears in at least 2 JDs
+                market_gaps.append((raw_skill, df))
+    market_gaps.sort(key=lambda x: -x[1])
+    market_missing = [s for s, _ in market_gaps[:15]]
 
     return {
         "function": func,
         "level": "Entry",
         "match_pct": best["match_pct"],
         "skills_extracted": skills,
+        "market_skills": market_skills,
         "has_skills": has_skills,
-        "missing_skills": missing_skills,
+        "missing_skills": market_missing,
         "alternatives": best.get("alternatives", []),
         "all_probas": best.get("all_probas", {}),
         "openings": [
@@ -102,17 +118,21 @@ def main():
     print()
 
     print("=" * 60)
-    print("SKILLS (ESCO vocabulary + tech term detection)")
+    print("SKILLS (matched to market JD vocabulary)")
     print("=" * 60)
-    skills = result.get('skills_extracted', [])
-    print(f"  Found ({len(skills)}):")
-    cols = 3
-    for i in range(0, len(skills), cols):
-        row = skills[i:i+cols]
-        print(f"    " + "  ".join(f"[Y] {s:<35s}" for s in row))
+    market = result.get('market_skills', [])
+    all_skills = result.get('skills_extracted', [])
+    print(f"  Market-relevant ({len(market)}/{len(all_skills)}):")
+    if market:
+        cols = 3
+        for i in range(0, min(len(market), 24), cols):
+            row = market[i:i+cols]
+            print(f"    " + "  ".join(f"[Y] {s:<30s}" for s in row))
     print()
-    if result.get('has_skills'):
-        print(f"  Matched classifier features: {', '.join(result['has_skills'][:10])}")
+    missing = result.get('missing_skills', [])
+    if missing:
+        print(f"  Market demands, you're missing ({len(missing)}):")
+        print(f"    {', '.join(missing[:15])}")
     print()
 
     if result.get("all_probas"):

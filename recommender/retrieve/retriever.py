@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+import re
 from typing import Any
 
 _CORPUS_DIR = os.path.join(os.path.dirname(__file__), "..", "corpus")
@@ -61,9 +62,13 @@ def retrieve_jds(
             extra = df.iloc[top_k:].sample(n=min(broad_sample, len(df) - top_k), random_state=42)
             result = pd.concat([result, extra])
         return result.to_dict("records")
-    student_set = set(s.lower() for s in student_skills)
+    # Normalize: strip hyphens and spaces for fuzzy matching
+    def _norm(s):
+        return re.sub(r'[- ]', '', s.lower())
+
+    student_set = set(_norm(s) for s in student_skills)
     scores = df["skills"].apply(
-        lambda row: sum(1 for s in row if isinstance(s, str) and s.lower() in student_set)
+        lambda row: sum(1 for s in row if isinstance(s, str) and _norm(s) in student_set)
         if row is not None else 0
     )
     ranked = df.iloc[(-scores).argsort()]

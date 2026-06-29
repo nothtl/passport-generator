@@ -184,7 +184,8 @@
     "activity planning",
     "documentation",
     "parent communication",
-    "team collaboration"
+    "team collaboration",
+    "first aid"
   ],
   "gaps": [
     "classroommanagement",
@@ -257,52 +258,52 @@
       "pct": 5
     }
   ],
-  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational skills for any education role involving direct student interaction. Without classroom management, you cannot effectively control the learning environment; without lesson planning, you lack the ability to structure educational activities; and without early childhood education knowledge, you miss the developmental understanding needed for younger students. To address these, consider taking a free online course in classroom management strategies, volunteering to assist with lesson planning in a local school, or pursuing a short certification in early childhood education.",
+  "coach_notes": "The most critical gaps are classroom management, lesson planning, and early childhood education, as these are foundational skills for any education role involving direct student interaction. Without classroom management, you cannot maintain a productive learning environment; without lesson planning, you cannot structure effective instruction; and without early childhood education knowledge, you may lack the developmental understanding needed for younger students. To address these, consider taking a free online course in classroom management strategies, volunteering to assist with lesson planning in a local school, or pursuing a certification in early childhood education through platforms like Coursera or edX.",
   "jobs": [
     {
       "title": "Youth Success Specialist Intern",
       "company": "theirc",
       "url": "https://theirc.wd1.myworkdayjobs.com/job/Baltimore-MD-USA/Youth-Success-Specialist-Intern_JR00003024",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
-    },
-    {
-      "title": "Intern, Emerging Scholars",
-      "company": "palmbeachstate",
-      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Intern--Emerging-Scholars_R0013796-1",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
-    },
-    {
-      "title": "Associate Trainer - Insurance Sales",
-      "company": "ace",
-      "url": "https://ace.wd5.myworkdayjobs.com/job/Costa-Mesa-CA/Associate-Trainer---Insurance-Sales_JR202636136-1",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 80,
+      "label": "ready",
+      "why": "Your background in administrative duties, communications, and working with residents/behavior aligns with supporting youth success. Experience in meetings, records, and shelter security shows you can handle the operational and safety aspects of this role.",
+      "gaps": "No direct youth development or internship experience listed; may need to highlight transferable skills from paraprofessional or administrative roles."
     },
     {
       "title": "Youth Development Professional (Houston Temple Corps)",
       "company": "tsa",
       "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/146148",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 85,
+      "label": "ready",
+      "why": "Strong alignment with your experience in behavior management, operations, and working with residents. Administrative duties and shelter security skills are directly applicable to youth development in a corps setting.",
+      "gaps": "May need to emphasize youth program planning or activity facilitation experience if not already highlighted."
     },
     {
       "title": "Youth Development Professional (Houston Pasadena Corps)",
       "company": "tsa",
       "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/146168",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 85,
+      "label": "ready",
+      "why": "Similar to Job 4, your skills in behavior, operations, and administrative support are a great match. Experience with records and communications supports program coordination.",
+      "gaps": "Same as Job 4: ensure youth engagement or program delivery experience is clearly communicated."
+    },
+    {
+      "title": "Intern, Emerging Scholars",
+      "company": "palmbeachstate",
+      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Intern--Emerging-Scholars_R0013796-1",
+      "fit": 70,
+      "label": "target",
+      "why": "Your administrative assistant and communication skills are relevant for supporting scholars. Experience with Excel and records management can help with program data.",
+      "gaps": "Lack of specific academic or higher education support experience; may need to develop knowledge of student services or academic programs."
+    },
+    {
+      "title": "Associate Trainer - Insurance Sales",
+      "company": "ace",
+      "url": "https://ace.wd5.myworkdayjobs.com/job/Costa-Mesa-CA/Associate-Trainer---Insurance-Sales_JR202636136-1",
+      "fit": 30,
+      "label": "reach",
+      "why": "Your communication and administrative skills could support training delivery, and criminal justice background may help with compliance aspects.",
+      "gaps": "No insurance sales or training experience; major gaps in industry knowledge, sales techniques, and adult learning methods."
     }
   ]
 }

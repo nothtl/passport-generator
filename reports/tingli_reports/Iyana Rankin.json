@@ -239,52 +239,52 @@
       "pct": 5
     }
   ],
-  "coach_notes": "The most critical gaps are graphic design, Adobe Creative Suite (Photoshop, Illustrator), and typography, as these are foundational skills for most arts-media roles involving visual content creation. Without them, you cannot meet basic job requirements for design positions. To close these gaps, take an online course like 'Graphic Design Specialization' on Coursera and practice creating sample projects to build your portfolio.",
+  "coach_notes": "The most critical gaps are graphic design, Adobe Creative Suite, and Figma, as these are foundational tools for arts-media roles involving visual content creation. Without proficiency in Photoshop, Illustrator, and typography, you'll be unable to meet core job requirements for layout and digital design tasks. Prioritize learning these through online courses or practice projects to align your resume with industry standards.",
   "jobs": [
+    {
+      "title": "(Part Time) Las Vegas South Premium Outlet Sales/Stock Stylist",
+      "company": "levistraussandco",
+      "url": "https://levistraussandco.wd5.myworkdayjobs.com/job/Las-Vegas-NV-USA/XMLNAME--Part-Time--Las-Vegas-South-Premium-Outlet-Sales-Stock-Stylist_R-0148841",
+      "fit": 85,
+      "label": "ready",
+      "why": "Your sampling, displays, closing, marketing strategies, and accuracy skills match sales/stylist duties well.",
+      "gaps": "No specific retail or stock management experience; may need to adapt to brand-specific procedures."
+    },
     {
       "title": "Associate Website Designer",
       "company": "cloudbeds",
       "url": "https://job-boards.greenhouse.io/cloudbeds/jobs/4647662005",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 20,
+      "label": "reach",
+      "why": "Your computer skills and communication abilities are relevant for a website designer role.",
+      "gaps": "No direct web design, HTML/CSS, or UX/UI experience listed. Significant skill gap in design tools and portfolio."
     },
     {
       "title": "Houseperson",
       "company": "57e19090-b4a5-4284-b3e0-a14a05570f45",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4207810",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 70,
+      "label": "target",
+      "why": "Your operations, inspecting, and closing procedures skills align with houseperson duties like cleaning and maintenance.",
+      "gaps": "No specific hospitality or housekeeping experience mentioned; may need to learn hotel-specific protocols."
     },
     {
       "title": "Bartender - Brothers Bar & Grill,  Broad Ripple, Indianapolis, IN",
       "company": "7c801d3e-b49e-4a5a-bde8-3aede36a219f",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1154352",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
-    },
-    {
-      "title": "(Part Time) Las Vegas South Premium Outlet Sales/Stock Stylist",
-      "company": "levistraussandco",
-      "url": "https://levistraussandco.wd5.myworkdayjobs.com/job/Las-Vegas-NV-USA/XMLNAME--Part-Time--Las-Vegas-South-Premium-Outlet-Sales-Stock-Stylist_R-0148841",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 60,
+      "label": "target",
+      "why": "Your closing, communication, and etiquette skills are directly applicable to bartending.",
+      "gaps": "No bartending or food service experience listed; need to learn drink recipes and service standards."
     },
     {
       "title": "Installation Apprentice",
       "company": "greatwindowsservices",
       "url": "https://jobs.hunterdouglas.com/division/greatwindowsservices/job/7777687003?gh_jid=7777687003",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 30,
+      "label": "reach",
+      "why": "Your monitoring and guidance skills could be useful for following installation instructions and ensuring quality.",
+      "gaps": "No construction, installation, or trade experience; lacks technical skills for window installation."
     }
   ]
 }

@@ -104,19 +104,19 @@
   ],
   "inferred": [
     "childdevelopment",
-    "childcare",
     "earlychildhoodeducation",
-    "coaching",
-    "firstaid",
-    "teamcollaboration",
-    "parentcommunication",
+    "classroommanagement",
+    "behaviormanagement",
+    "lessonplanning",
     "activityplanning",
-    "behaviormanagement"
+    "parentcommunication",
+    "teamcollaboration",
+    "firstaid",
+    "customerservice"
   ],
   "gaps": [
-    "classroommanagement",
-    "lessonplanning",
-    "customerservice",
+    "childcare",
+    "coaching",
     "documentation",
     "datacollection",
     "classmanagement"
@@ -177,52 +177,52 @@
       "pct": 6
     }
   ],
-  "coach_notes": "The most critical gaps are classroom management and lesson planning, as these are foundational skills for administrative roles in educational settings, directly impacting student engagement and operational efficiency. Without these, you may struggle to support teachers effectively or handle scheduling and resource allocation. To address this, seek a volunteer role assisting in a classroom or take a short online course on classroom management strategies.",
+  "coach_notes": "The most critical gaps are documentation and data collection, as these are foundational for administrative roles involving record-keeping and reporting. To address this, you can highlight any experience with organizing files or tracking information from your administrative tasks or academy work, and consider taking a short online course on data entry or document management. Class management is also important if you aim for roles in educational or training settings, which you can bridge by volunteering to assist with scheduling or coordinating group activities.",
   "jobs": [
     {
       "title": "Internships / Volunteer Opportunities!",
       "company": "1f6646e7-85ad-409e-a5ca-201986d6b243",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/190982",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 85,
+      "label": "ready",
+      "why": "Strong alignment with organizational skills, volunteer experience, and team collaboration. Internship/volunteer roles typically value these soft skills and willingness to learn.",
+      "gaps": "No specific technical skills mentioned; may need to clarify interest area or tailor application to a specific role."
     },
     {
       "title": "Education Steward - AmeriCorps",
       "company": "78c2c01f-ca87-43be-b701-81ef8e0fc90a",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 70,
+      "label": "target",
+      "why": "Relevant skills in management, training, and behavior management are applicable to an Education Steward role. Volunteer experience and organizational skills are also beneficial.",
+      "gaps": "AmeriCorps positions often require specific service commitment and may need additional experience in educational program coordination or direct student support."
     },
     {
       "title": "English and History tutor",
       "company": "ajtutoring",
       "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 60,
+      "label": "target",
+      "why": "Skills in communicating, organizing, and training can support tutoring. French language ability is a plus for language tutoring.",
+      "gaps": "No explicit teaching or tutoring experience listed; subject matter expertise in English and History is not directly demonstrated. May need to highlight any relevant coursework or informal tutoring."
     },
     {
       "title": "Fall 2026 Hatch Show Print Education and Administration (Paid) Intern",
       "company": "9e989de2-d327-4d1e-ab67-f4833685bfa6",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208314",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 50,
+      "label": "reach",
+      "why": "Organizational skills, time management, and team collaboration are relevant for an administrative internship. Volunteer experience shows community engagement.",
+      "gaps": "No experience in arts administration, education programming, or specific software (e.g., design tools). The role likely requires knowledge of printmaking or museum operations."
     },
     {
       "title": "Associate Curriculum Alignment Specialist",
       "company": "ixllearning",
       "url": "https://www.ixl.com/company/jobs?gh_jid=8531284002",
-      "fit": 0,
-      "label": "",
-      "why": "",
-      "gaps": ""
+      "fit": 40,
+      "label": "reach",
+      "why": "Skills in modeling, training, and management could be applied to curriculum alignment work. Organizational skills are relevant.",
+      "gaps": "No experience in curriculum development, educational standards, or instructional design. The role likely requires deep knowledge of learning frameworks and assessment alignment."
     }
   ]
 }

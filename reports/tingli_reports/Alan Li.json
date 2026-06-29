@@ -76,8 +76,7 @@
   ],
   "inferred": [
     "communication",
-    "attentiontodetail",
-    "dataentry"
+    "attentiontodetail"
   ],
   "gaps": [
     "customerservice",
@@ -86,6 +85,7 @@
     "cashhandling",
     "accounting",
     "accountsreceivable",
+    "dataentry",
     "generalledger",
     "journalentries",
     "compliance",
@@ -149,7 +149,7 @@
       "pct": 4
     }
   ],
-  "coach_notes": "The most critical gaps are customerservice, accountspayable, and financialreporting, as these are foundational for administrative roles involving client interaction and basic financial tasks. To address these, you should take online courses in customer service skills and accounting fundamentals (e.g., Coursera's 'Bookkeeping Basics'), and practice using accounting software like QuickBooks to gain hands-on experience.",
+  "coach_notes": "The most critical gaps are customerservice, dataentry, and accounting because these are foundational for administrative roles, often appearing in job postings. To address these, you should highlight any customer-facing activities from your resume or basketball team coordination, practice data entry using free online tools, and take a short course on basic accounting principles like accounts payable and receivable.",
   "jobs": [
     {
       "title": "Audit-Talent gesucht: Prüfungsassistent (m/w/d) mit Aufstiegsperspektive",

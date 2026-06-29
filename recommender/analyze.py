@@ -171,6 +171,33 @@ def main():
             print(f"  {alt['function']:25s} {alt['match_pct']}%")
         print()
 
+    if result.get("gap_explanation"):
+        print("=" * 60)
+        print("COACH NOTES (AI)")
+        print("=" * 60)
+        print("  " + result["gap_explanation"])
+        print()
+
+    if result.get("ready_jobs") or result.get("target_jobs"):
+        print("=" * 60)
+        print("JOB FIT (AI)")
+        print("=" * 60)
+        if result.get("ready_jobs"):
+            print("  READY (apply now):")
+            for j in result["ready_jobs"][:3]:
+                why = j.get("why", "")[:80]
+                print("    [{}%] {} @ {}".format(j.get("fit",0), j.get("title","")[:50], j.get("company","")[:25]))
+                if why:
+                    print("          " + why)
+        if result.get("target_jobs"):
+            print("  TARGET (growth path):")
+            for j in result["target_jobs"][:3]:
+                why = j.get("why", "")[:80]
+                print("    [{}%] {} @ {}".format(j.get("fit",0), j.get("title","")[:50], j.get("company","")[:25]))
+                if why:
+                    print("          " + why)
+        print()
+
     if result.get("openings"):
         print("=" * 60)
         print("TOP JOB OPENINGS")

@@ -119,15 +119,21 @@ Resume:
         return []
 
 
-def explain_gaps(missing_skills: list[str], has_skills: list[str], function: str) -> str | None:
+def explain_gaps(missing_skills: list[str], has_skills: list[str], function: str, job_titles: list[str] = None) -> str | None:
     if not missing_skills:
         return None
 
+    job_context = ""
+    if job_titles:
+        job_context = "Top matching jobs: " + ", ".join(job_titles[:3])
+
     prompt = f"""This person is pursuing a {function} career.
+{job_context}
 They HAVE: {", ".join(has_skills[:10])}
 They MISS (from real job postings): {", ".join(missing_skills[:10])}
 
-Write 2-3 sentences on which gaps matter most and why. Be specific, actionable.
+Write 2-3 sentences on which gaps matter most for THESE SPECIFIC JOBS.
+Be specific and actionable — tie each gap to the jobs listed above.
 Return JSON: {{"explanation": "..."}}"""
 
     response = _call_llm(prompt, max_tokens=200)
@@ -231,11 +237,13 @@ def enhance(analysis: dict, resume_text: str) -> dict:
     if evidence:
         result["skill_evidence"] = evidence
 
-    # 4. Gap explanation
+    # 4. Gap explanation — contextualized to actual jobs
+    job_titles = [j.get("title", "") for j in result.get("openings", [])[:3]]
     explanation = explain_gaps(
         result.get("missing_skills", []),
         result.get("skills_extracted", []),
         result["function"],
+        job_titles,
     )
     if explanation:
         result["gap_explanation"] = explanation

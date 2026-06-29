@@ -312,19 +312,30 @@ def match_role(text: str) -> dict | None:
     try:
         s3 = _embedding_probas(text)
     except Exception:
-        s3 = {}  # graceful degradation
+        s3 = {}
 
-    # Expert voting: each signal gets one vote (its top pick).
-    # If 2+ experts agree, that wins. Otherwise, highest confidence wins.
-    # Then blend probabilities for the winning function.
+    # Signal 4: LLM (only called if top 2 signals disagree or confidence < 30%)
     def top(func_probs):
         return max(func_probs, key=func_probs.get) if func_probs else None
 
     t1, t2, t3 = top(s1), top(s2), top(s3)
-    c1 = s1.get(t1, 0) if t1 else 0
-    c2 = s2.get(t2, 0) if t2 else 0
-    c3 = s3.get(t3, 0) if t3 else 0
-    top_picks = [p for p in [t1, t2, t3] if p]
+    max_conf = max(s1.get(t1, 0) if t1 else 0, s2.get(t2, 0) if t2 else 0, s3.get(t3, 0) if t3 else 0)
+    signals_disagree = len({t1, t2, t3} - {None}) >= 2 and not (t1 == t2 == t3)
+
+    s4 = {}
+    if signals_disagree or max_conf < 0.30:
+        try:
+            from recommender.llm import classify_resume
+            llm_result = classify_resume(text)
+            if llm_result and llm_result.get("function"):
+                func = llm_result["function"]
+                conf = llm_result.get("confidence", 50) / 100
+                s4 = {func: conf}
+        except Exception:
+            pass
+
+    t4 = top(s4) if s4 else None
+    top_picks = [p for p in [t1, t2, t3, t4] if p]
 
     # Count votes
     from collections import Counter
@@ -338,17 +349,28 @@ def match_role(text: str) -> dict | None:
 
     # If 2+ experts agree, boost winner weight
     if votes[winner] >= 2:
-        w1 = 0.60 if t1 == winner else 0.10
-        w2 = 0.15 if t2 == winner else 0.10
-        w3 = 0.40 if t3 == winner else 0.10
+        w1 = 0.55 if t1 == winner else 0.08
+        w2 = 0.12 if t2 == winner else 0.08
+        w3 = 0.30 if t3 == winner else 0.08
+        # LLM as tiebreaker: if it agrees with winner, boost further
+        if t4 == winner:
+            w1 = 0.50 if t1 == winner else 0.05
+            w2 = 0.10 if t2 == winner else 0.05
+            w3 = 0.25 if t3 == winner else 0.05
+            # LLM weight
+            for func in all_funcs:
+                fused[func] = fused.get(func, 0) + 0.20 * s4.get(func, 0)
 
-    all_funcs = set(s1.keys()) | set(s2.keys()) | set(s3.keys())
+    all_funcs = set(s1.keys()) | set(s2.keys()) | set(s3.keys()) | set(s4.keys())
     fused: dict[str, float] = {}
     for func in all_funcs:
         p1 = s1.get(func, 0)
         p2 = s2.get(func, 0)
         p3 = s3.get(func, 0)
+        p4 = s4.get(func, 0)
         fused[func] = w1 * p1 + w2 * p2 + w3 * p3
+        if s4:
+            fused[func] += 0.15 * p4  # LLM bonus
 
     # Normalize
     total = sum(fused.values()) or 1

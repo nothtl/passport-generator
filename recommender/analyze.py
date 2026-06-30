@@ -150,6 +150,7 @@ def analyze(resume_text: str, top_k: int = 10):
             })
 
     return {
+        "resume": resume_text.strip(),
         "function": result["function"],
         "confidence": result["match_pct"],
         "skills": result.get("skills_extracted", []),

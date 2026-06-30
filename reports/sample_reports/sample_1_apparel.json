@@ -1,0 +1,211 @@
+{
+  "resume": "BUYER/PLANNER           Summary    Detail-oriented, analytical-thinking, trilingual individual, with exceptional problem-solving skills looking to obtain an internship or full-time position that will allow me to utilize my education and work experience while gaining valuable work experience in a team-oriented work environment.      Education and Training      Bachelor of Science   :   Petroleum Engineering  ,   Jul    Texas A&M University   －   City  ,   State      Petroleum Engineering          [Number]  GPA           Skills          Solid Works, CAD, Matlab and MS Office  Process Implementation              Languages    English, Portuguese, Spanish)      Experience      Buyer/Planner    May 2016   to   Current     Company Name   －   City  ,   State      Plan and execute forecasting strategies for mass production planning.  Collaborate with cross-functional groups including Engineering, Shipping/Receiving, Purchasing, and Sales.  Negoatiate proposals for potential suppliers, including quantitative and qualitative research.  Obtain documents, clearances, certificates, and approvals from local, state and federal agencies.  Work closely with Production to convert weekly plan into daily work center schedules that manage constraints of manpower, equipment and optimize costs.          Logistics Analyst    February 2015   to   May 2016     Company Name   －   City  ,   State      Managed ERP system to monitor the status of incoming materials.  Released work orders to the production floor as inventory became available.  Coordinated expedited shipping orders request with Production Manager.  Interacted with cross-functional teams like sales, production, and the executives.  Analyzed incoming requisitions and shortages reports for quality, specification, pricing and delivery requirements.  Translated business needs and priorities into actionable logistics strategies.          Warehouse Executive    February 2011   to   January 2015     Company Name   －   City  ,   State      Represented the Operations Group in receiving all Inventories from Vendor deliveries.  Participated in joint receiving and inspection of all Shipyard Spare Parts deliveries and liaise closely with the Procurement Team on scheduled deliveries.  Utilized Maximo system to electronically track inventory flow, bin storage, and reconcile inventory.  Ensured Warehouse was kept in a safe and efficient manner with Inventory properly labeled and sorted for easy identification and picking.  Supervised periodic stock-take and conducted investigation for any discrepancies.  Carried out the daily issuance of Tools & Inventory to shipyard personnel base on Inventory requests and Work Orders.  Monitored Stock Levels and reordered Inventory when low.  Ensured Inventory is stored in accordance with best practices and chemical storage complies with GHS Classification.            Skills    CAD, delivery, English, ERP, forecasting, functional, inspection, Inventory, leadership skills, logistics, m",
+  "function": "design",
+  "confidence": 33,
+  "skills": [
+    "work orders",
+    "proposals",
+    "receiving",
+    "tools",
+    "warehouse",
+    "solid works",
+    "pricing",
+    "teams",
+    "analytical-thinking",
+    "education",
+    "production",
+    "production planning",
+    "detail-oriented",
+    "planning",
+    "leadership",
+    "materials",
+    "training",
+    "logistics",
+    "english",
+    "ms office",
+    "inventory",
+    "research",
+    "cad",
+    "sales",
+    "problem-solving",
+    "best practices",
+    "cross-functional teams",
+    "education and training",
+    "erp system",
+    "inventory flow",
+    "leadership skills",
+    "process implementation",
+    "qualitative research",
+    "receiving and inspection",
+    "shipping receiving",
+    "vendor deliveries"
+  ],
+  "skill_weights": {
+    "work orders": 7.0,
+    "proposals": 7.0,
+    "receiving": 7.0,
+    "tools": 7.0,
+    "warehouse": 7.0,
+    "solid works": 6.3,
+    "pricing": 6.3,
+    "teams": 6.3,
+    "analytical-thinking": 5.9,
+    "education": 5.9,
+    "production": 5.9,
+    "production planning": 5.6,
+    "detail-oriented": 5.6,
+    "planning": 5.3,
+    "leadership": 5.2
+  },
+  "market_relevant": [
+    "ms office",
+    "production planning",
+    "solid works",
+    "work orders",
+    "proposals",
+    "receiving",
+    "tools",
+    "warehouse",
+    "pricing",
+    "teams",
+    "analytical-thinking",
+    "education",
+    "production",
+    "detail-oriented",
+    "planning",
+    "leadership",
+    "materials",
+    "training",
+    "logistics",
+    "english",
+    "inventory",
+    "research",
+    "cad",
+    "sales",
+    "problem-solving"
+  ],
+  "inferred": [
+    "teamwork",
+    "communication",
+    "ms office"
+  ],
+  "gaps": [
+    "customerservice",
+    "foodsafety",
+    "graphicdesign",
+    "adobecreativesuite",
+    "photoshop",
+    "illustrator",
+    "typography",
+    "foodpreparation",
+    "layout",
+    "multitasking",
+    "cashhandling",
+    "figma",
+    "sanitation"
+  ],
+  "related": [
+    {
+      "skill": "onsiteeventsupport",
+      "pmi": 4.55
+    },
+    {
+      "skill": "onsitesupport",
+      "pmi": 4.55
+    },
+    {
+      "skill": "decorplacement",
+      "pmi": 4.55
+    },
+    {
+      "skill": "ff&e",
+      "pmi": 4.47
+    },
+    {
+      "skill": "timelinemanagement",
+      "pmi": 4.22
+    },
+    {
+      "skill": "wordpressadministration",
+      "pmi": 4.18
+    },
+    {
+      "skill": "websitepromotion",
+      "pmi": 4.18
+    },
+    {
+      "skill": "color",
+      "pmi": 4.06
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "logistics",
+      "pct": 19
+    },
+    {
+      "function": "technology",
+      "pct": 8
+    },
+    {
+      "function": "arts-media",
+      "pct": 5
+    },
+    {
+      "function": "finance",
+      "pct": 4
+    },
+    {
+      "function": "ops",
+      "pct": 3
+    }
+  ],
+  "coach_notes": "To build a strong design career, focus on mastering graphic design tools like Adobe Creative Suite (Photoshop, Illustrator) and typography, as these are foundational for most design roles. Start with free tutorials on platforms like YouTube or Coursera to learn the basics, then practice by recreating designs you admire. Your existing skills in cross-functional teams and leadership will help you collaborate effectively, so leverage those while building your technical design expertise.",
+  "jobs": [
+    {
+      "title": "Restaurant Shift Leader, Upper East Side",
+      "company": "diginnother",
+      "url": "https://job-boards.greenhouse.io/diginnother/jobs/7739281",
+      "fit": 70,
+      "label": "ready",
+      "why": "Strong overlap in communication, problem-solving, and cross-functional teams. Warehouse and receiving experience translate to inventory and shift logistics. Education and analytical thinking support scheduling and best practices.",
+      "gaps": "No direct restaurant or food service experience. May need to learn specific POS systems and health code compliance."
+    },
+    {
+      "title": "Customer Service Lead",
+      "company": "serenity-mental-health-centers",
+      "url": "https://apply.workable.com/j/A3F5ADE23E",
+      "fit": 80,
+      "label": "ready",
+      "why": "Sales, communication, and problem-solving directly apply to customer service leadership. Warehouse and receiving experience indicate logistics and team coordination. Cross-functional teams and best practices support process improvement.",
+      "gaps": "No explicit customer service management experience. May need to develop conflict resolution skills and CRM system knowledge."
+    },
+    {
+      "title": "Management Trainee",
+      "company": "AlphabeInsightInc",
+      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000093550996",
+      "fit": 75,
+      "label": "ready",
+      "why": "Education, problem-solving, and analytical thinking are key for management training. Sales and warehouse experience show operational understanding. Cross-functional teams and production planning align with trainee roles.",
+      "gaps": "No direct management experience. May need to learn company-specific processes and leadership techniques."
+    },
+    {
+      "title": "Junior Consultant",
+      "company": "ibmcid",
+      "url": "https://apply.workable.com/j/5D8990DEF9",
+      "fit": 65,
+      "label": "target",
+      "why": "Analytical thinking, problem-solving, and communication are core consulting skills. Experience with proposals and cross-functional teams aligns with client projects. Education provides a foundation.",
+      "gaps": "No formal consulting experience. May lack familiarity with specific consulting frameworks, data analysis tools (e.g., Excel, SQL), and client presentation skills."
+    },
+    {
+      "title": "Installation Apprentice",
+      "company": "greatwindowsservices",
+      "url": "https://jobs.hunterdouglas.com/division/greatwindowsservices/job/7777687003?gh_jid=7777687003",
+      "fit": 60,
+      "label": "target",
+      "why": "Tools, work orders, and process implementation experience are relevant. CAD and proposals indicate technical aptitude. Problem-solving and analytical thinking support installation troubleshooting.",
+      "gaps": "No hands-on installation or apprenticeship experience. May lack specific trade skills (e.g., electrical, plumbing) and safety certifications."
+    }
+  ]
+}

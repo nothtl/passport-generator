@@ -1,0 +1,208 @@
+{
+  "resume": "DESIGNER       Summary     To get a strong foothold on the career ladder by doing the best I can and more, with a company that supports teamwork and utilizes the abilities of its employees.       Highlights         Excellent team working skills ·    Planning and organizing events. ·    Creativity in working.   Time management skills. ·    Ability to work under pressure ·    Experienced in communicating, interacting, and building relationships with people of varying ethnic, religious, and cultural backgrounds. Computer literate and excellent typing skills. Fluency in MS Office (Word, Excel, PowerPoint, Access) and in World Wide Web (web search). ·Good Communication skills. · Leadership skills.               Experience      Designer   ,   02/2011      Company Name   －   City  ,   State      Designing a Jewelry collection for brides show.           Education      2009    American University in Dubai   －   City  ,     UAE    Bachelor of Fine Arts    Visual Communication     Visual Communication         2005    Al-Ma'arifa Private School (High School Level)              Business, Biology, Arabic, Religion, English, Food and Nutrition, Arts, TOEFL    Business, Biology, Arabic, Religion, English, Food and Nutrition, Arts, TOEFL        2004    Rosary School (IGCSE)   －   City              Subjects included English, Arabic, Biology, Physics, Chemistry, Business, Economics, Religion, Math, Arts        Interests     Painting, design, sports, fine dining, going out with friends, reading, and movies.       Languages    English (fluent) Arabic (fluent) French (basic)      Skills    photo, Advertising, Arabic, artist, Arts, Art, Agency, basic, Good Communication skills, Computer literate, Creativity, database, Dec, Designing, Economics, English, Filling, French, LANGUAGES, Leadership skills, Math, Access, Excel, MS Office, PowerPoint, Word, organizing, paint, Physics, POS, Selling, Time management, typing skills, World Wide Web      Additional Information",
+  "function": "design",
+  "confidence": 56,
+  "skills": [
+    "fine dining",
+    "work under pressure",
+    "creativity",
+    "events",
+    "math",
+    "nutrition",
+    "paint",
+    "advertising",
+    "education",
+    "painting",
+    "planning",
+    "leadership",
+    "word",
+    "communication skills",
+    "excel",
+    "powerpoint",
+    "visual communication",
+    "pos",
+    "english",
+    "ms office",
+    "design",
+    "time management",
+    "communication",
+    "teamwork",
+    "basic skills",
+    "building relationships",
+    "computer literate",
+    "english fluent",
+    "fluent french",
+    "good communication",
+    "good communication skills",
+    "high school",
+    "leadership skills",
+    "ms office powerpoint",
+    "ms office word",
+    "office powerpoint",
+    "office word",
+    "planning and organizing",
+    "team working",
+    "typing skills",
+    "under pressure",
+    "word excel",
+    "word excel powerpoint"
+  ],
+  "skill_weights": {
+    "fine dining": 7.0,
+    "work under pressure": 7.0,
+    "creativity": 7.0,
+    "events": 7.0,
+    "math": 7.0,
+    "nutrition": 7.0,
+    "paint": 7.0,
+    "advertising": 5.9,
+    "education": 5.9,
+    "painting": 5.9,
+    "planning": 5.3,
+    "leadership": 5.2,
+    "word": 5.2,
+    "communication skills": 5.0,
+    "excel": 4.9
+  },
+  "market_relevant": [
+    "communication skills",
+    "fine dining",
+    "ms office",
+    "time management",
+    "visual communication",
+    "work under pressure",
+    "creativity",
+    "events",
+    "math",
+    "nutrition",
+    "paint",
+    "advertising",
+    "education",
+    "painting",
+    "planning",
+    "leadership",
+    "word",
+    "excel",
+    "powerpoint",
+    "pos",
+    "english",
+    "design",
+    "communication",
+    "teamwork"
+  ],
+  "inferred": [
+    "customerservice",
+    "foodsafety",
+    "multitasking",
+    "cashhandling"
+  ],
+  "gaps": [
+    "graphicdesign",
+    "adobecreativesuite",
+    "photoshop",
+    "illustrator",
+    "typography",
+    "foodpreparation",
+    "layout",
+    "figma",
+    "sanitation",
+    "inventorymanagement",
+    "visualmerchandising"
+  ],
+  "related": [
+    {
+      "skill": "outlook",
+      "pmi": 4.87
+    },
+    {
+      "skill": "training",
+      "pmi": 4.47
+    },
+    {
+      "skill": "dataentry",
+      "pmi": 4.18
+    },
+    {
+      "skill": "wordpressadministration",
+      "pmi": 4.18
+    },
+    {
+      "skill": "websitepromotion",
+      "pmi": 4.18
+    },
+    {
+      "skill": "facebookadministration",
+      "pmi": 4.04
+    },
+    {
+      "skill": "contentpublishing",
+      "pmi": 4.04
+    },
+    {
+      "skill": "cocktails",
+      "pmi": 3.77
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 15
+    },
+    {
+      "function": "food-service",
+      "pct": 4
+    },
+    {
+      "function": "finance",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "Focus on mastering graphic design tools like Adobe Creative Suite (Photoshop, Illustrator) and Figma, as these are essential for most design roles. Start with free online tutorials on platforms like YouTube or Coursera, then practice by recreating designs you admire. Building a portfolio with even small projects will boost your confidence and show employers your growing skills.",
+  "jobs": [
+    {
+      "title": "Shift Leader",
+      "company": "insomniacookies",
+      "url": "https://jobs.lever.co/insomniacookies/81fd6a47-3f09-417c-bc2a-480bdc556b16",
+      "fit": 80,
+      "label": "ready",
+      "why": "Your cash handling, communication, ability to work under pressure, and Word/Excel skills are directly relevant. High school education and English fluency support the role.",
+      "gaps": "No explicit leadership or supervisory experience mentioned. May need to demonstrate team coordination and conflict resolution."
+    },
+    {
+      "title": "Painter",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4143702",
+      "fit": 85,
+      "label": "ready",
+      "why": "Your painting skill is directly applicable. Creativity, attention to detail, and ability to work under pressure are strong assets. Communication skills help with client interaction.",
+      "gaps": "No mention of specific painting techniques (e.g., spray, brush, decorative) or experience with large-scale projects. May need to demonstrate portfolio or safety knowledge."
+    },
+    {
+      "title": "Interior Design Coordinator",
+      "company": "perryhomes",
+      "url": "https://apply.workable.com/j/18ADC58884",
+      "fit": 70,
+      "label": "target",
+      "why": "Your skills in design, creativity, visual communication, and communication align well with interior design coordination. Education and high school background provide a foundation.",
+      "gaps": "No specific interior design software or project management experience mentioned. Lack of experience with client coordination and material sourcing."
+    },
+    {
+      "title": "Summer Theatre Production Assistant (Summer 2026 002920)",
+      "company": "middleburycollege",
+      "url": "https://apply.workable.com/j/A5B03B6D85",
+      "fit": 65,
+      "label": "target",
+      "why": "Your communication skills, creativity, and ability to work under pressure are valuable for theatre production. English fluency and teamwork are assets.",
+      "gaps": "No direct theatre or production experience. Missing skills in stage management, lighting, sound, or costume handling. Summer 2026 timing may require planning."
+    },
+    {
+      "title": "Assistant Designer – Girls (7-16, 4-6x) Apparel",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4081669",
+      "fit": 60,
+      "label": "target",
+      "why": "Your design, creativity, visual communication, and painting skills are relevant to apparel design. Education and communication skills support collaboration.",
+      "gaps": "No specific fashion design experience or knowledge of garment construction, textiles, or trend analysis. Missing portfolio or industry-specific software skills."
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "resume": "BPO TEAM LEADER       Summary    Seeking to provide top-quality support to ensure a competitive advantage in the global marketplace.      Accomplishments    Recognized for playing an instrumental role in exceeding company expectations for turn around time during 4th quarter at 95% in 4 days.   Achieved a strong relationship with agents/sales of company partners in exceeding groups expectation of service, and increased sales relations.      Experience      BPO Team Leader   02/2015   to   02/2017     Company Name   City  ,   State       Managed and motivate BPO Onboarding Team to meet team goals  Auditor of documentation and group implementation.  Interact with PPO Network management, clients, agents and sales  Executed and met project deadlines  Strong sense of urgency; able to resolve escalated issues immediately.  Developed and executed implementation workflow/processes.  Maintain 95% within 4 days TAT for implementation of groups, 5% above agreement with client.  Manage over 3000 clients and brokers.          BPO Implementation Specialist   05/2013   to   02/2015     Company Name   City  ,   State       Infrastructure for O drive and folders.  Developed a more efficient system for emails/BPO Workflow and manual  Enhanced and improved maintenance of agent/group information with DW (Data Warehouse program)   Assistant to Account management team and VP of Administration.       ​    ​         Re-pricing Coordinator   06/2009   to   06/2013     Company Name   City  ,   State       Re-pricing of HCFA and UB's claims.    Developed relationships with PPO network management vendors:    Select Health Partners, Encore, Multiplan, Medicare, DHS and Aetna claims.  Correspond with Examiners regarding status of RRT referrals.  Solely responsible for all Aetna claims, 30,000 lives.  Implemented workflow and first manual of Aetna process.  Improved and decreased errors with auditing process  Verification of Provider/Facility PPO status.             Administrative Assistant/HR Assistant   04/2004   to   04/2009     Company Name   City  ,   State       EZ-Movers - Long Distance Dispatcher Assistant.  Long Distance scheduling of drivers/trucks.  Administrative paperwork for pickup and delivery.  Data entry of information of customers.  Spreadsheet upkeep of scheduled deliveries.  Interact with customers and drivers in regards to pickups/deliveries and/or payments.  Rainbow Hospice - Receptionist.  Front desk duties.  Incoming and outgoing faxes.  Assist PCM, Clinical secretary, RN, Social workers.  Handle all incoming calls, to both main office and ARK location.  Process all faxes accordingly.  Keep accurate track of overnight calls, and team faxes.  General Administrative duties.  Answering phones.  Processing invoices.  Data entry of all purchase orders, using scanning system, batch invoices and close file.  AS400 used.          Administrative Assistant II/HR Coordinator   08/2002   to   01/2004     Company Name   City  ,   State       Assist managemen",
+  "function": "support",
+  "confidence": 33,
+  "skills": [
+    "answering phones",
+    "network management",
+    "clients",
+    "coordinator",
+    "deadlines",
+    "drive",
+    "emails",
+    "service",
+    "spreadsheet",
+    "warehouse",
+    "administrative assistant",
+    "auditing",
+    "drivers",
+    "implementation",
+    "workflow",
+    "- receptionist",
+    "faxes",
+    "medicare",
+    "verification",
+    "administrative duties",
+    "bpo",
+    "invoices",
+    "maintenance",
+    "network",
+    "orders",
+    "phones",
+    "office",
+    "purchase orders",
+    "scanning",
+    "support",
+    "referrals",
+    "administration",
+    "claims",
+    "delivery",
+    "paperwork",
+    "responsible",
+    "administrative",
+    "payments",
+    "onboarding",
+    "account management",
+    "sales",
+    "scheduling",
+    "front desk",
+    "documentation",
+    "data entry",
+    "administrative paperwork",
+    "data warehouse",
+    "front desk duties",
+    "general administrative",
+    "hr assistant",
+    "pickup and delivery",
+    "process verification",
+    "processing invoices",
+    "sales relations",
+    "scanning system",
+    "sense of urgency"
+  ],
+  "skill_weights": {
+    "answering phones": 8.9,
+    "network management": 8.9,
+    "clients": 8.9,
+    "coordinator": 8.9,
+    "deadlines": 8.9,
+    "drive": 8.9,
+    "emails": 8.9,
+    "service": 8.9,
+    "spreadsheet": 8.9,
+    "warehouse": 8.9,
+    "administrative assistant": 8.3,
+    "auditing": 8.3,
+    "drivers": 8.3,
+    "implementation": 8.3,
+    "workflow": 8.3
+  },
+  "market_relevant": [
+    "- receptionist",
+    "account management",
+    "administrative assistant",
+    "administrative duties",
+    "answering phones",
+    "data entry",
+    "front desk",
+    "network management",
+    "purchase orders",
+    "clients",
+    "coordinator",
+    "deadlines",
+    "drive",
+    "emails",
+    "service",
+    "spreadsheet",
+    "warehouse",
+    "auditing",
+    "drivers",
+    "implementation",
+    "workflow",
+    "faxes",
+    "medicare",
+    "verification",
+    "bpo",
+    "invoices",
+    "maintenance",
+    "network",
+    "orders",
+    "phones",
+    "office",
+    "scanning",
+    "support",
+    "referrals",
+    "administration",
+    "claims",
+    "delivery",
+    "paperwork",
+    "responsible",
+    "administrative",
+    "payments",
+    "onboarding",
+    "sales",
+    "scheduling",
+    "documentation"
+  ],
+  "inferred": [
+    "customerservice",
+    "communication",
+    "multitasking",
+    "teamwork"
+  ],
+  "gaps": [
+    "cashhandling",
+    "problemsolving",
+    "inventory",
+    "foodpreparation",
+    "orderprocessing",
+    "timemanagement",
+    "organization",
+    "basicmath",
+    "pointofsale",
+    "orderentry",
+    "verbalcommunication"
+  ],
+  "related": [
+    {
+      "skill": "server",
+      "pmi": 7.05
+    },
+    {
+      "skill": "productselection",
+      "pmi": 5.65
+    },
+    {
+      "skill": "procurement",
+      "pmi": 5.62
+    },
+    {
+      "skill": "benefits",
+      "pmi": 5.59
+    },
+    {
+      "skill": "eligibility",
+      "pmi": 5.55
+    },
+    {
+      "skill": "compassionate",
+      "pmi": 5.44
+    },
+    {
+      "skill": "reliable",
+      "pmi": 5.4
+    },
+    {
+      "skill": "patient",
+      "pmi": 5.26
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "ops",
+      "pct": 18
+    },
+    {
+      "function": "technology",
+      "pct": 6
+    },
+    {
+      "function": "arts-media",
+      "pct": 4
+    },
+    {
+      "function": "healthcare",
+      "pct": 4
+    },
+    {
+      "function": "education",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "To build a strong support career, focus on developing problem-solving and organization skills, as these are foundational for handling complex tasks and improving efficiency. You can practice problem-solving by tackling small challenges at work or using online scenarios, and improve organization by using tools like calendars and to-do lists. Your existing administrative and data entry experience gives you a great base—start by integrating these skills into your daily routine to boost your confidence and marketability.",
+  "jobs": [
+    {
+      "title": "Customer Service Representative",
+      "company": "sdms",
+      "url": "https://apply.workable.com/j/863A864B47",
+      "fit": 80,
+      "label": "ready",
+      "why": "Excellent communication, customer service, and order processing skills are core to this role.",
+      "gaps": "No specific mention of handling high-volume phone calls or CRM software experience."
+    },
+    {
+      "title": "Hospital Reference Test Clerk",
+      "company": "labcorp",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/job/Scottsdale-AZ/Processor_2614425",
+      "fit": 45,
+      "label": "reach",
+      "why": "Administrative paperwork and communication skills align with clerical duties in a hospital setting.",
+      "gaps": "No experience with medical reference testing, lab protocols, or healthcare-specific terminology."
+    },
+    {
+      "title": "Office Assistant-LH Orthopedics Odenton",
+      "company": "luminishealth",
+      "url": "https://boards.greenhouse.io/luminishealth/jobs/5193691008?gh_jid=5193691008",
+      "fit": 70,
+      "label": "target",
+      "why": "Strong administrative duties, scheduling, and communication skills directly apply to an orthopedics office assistant role.",
+      "gaps": "Lack of direct healthcare office experience and knowledge of medical terminology for orthopedics."
+    },
+    {
+      "title": "Customer Service - Self Storage Manager",
+      "company": "PublicStorage",
+      "url": "https://jobs.smartrecruiters.com/PublicStorage/744000133659650",
+      "fit": 60,
+      "label": "target",
+      "why": "Administrative duties, scheduling, and network management (for property systems) are relevant; warehouse experience helps with storage operations.",
+      "gaps": "No direct self-storage management experience, sales, or tenant relations background."
+    },
+    {
+      "title": "Office Assistant-Surgical Specialists   ",
+      "company": "luminishealth",
+      "url": "https://boards.greenhouse.io/luminishealth/jobs/5198182008?gh_jid=5198182008",
+      "fit": 65,
+      "label": "target",
+      "why": "Administrative duties, scheduling, and communication skills are directly applicable to a surgical specialists office.",
+      "gaps": "Lack of medical office experience, knowledge of surgical scheduling, and medical terminology."
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 {
+  "resume": "=== Benjamin Medrano - Resume.pdf ===\nContact \nmedranobenji2006@gmail.com \n(929) 267-6627 \nBronx, NY 10458 \n\nSkills \nCustomer Service \nIntermediate \nBilingualCommunication \nIntermediate \nTechnical Support \nIntermediate \n\nLanguages \nEnglish \nSpanish \n\nBenjamin Medrano \n\nMOTIVATED HIGH SCHOOL GRADUATE | BILINGUAL \nCUSTOMER SERVICE & IT SUPPORT \n\nProfessional Summary \n\nReliable and engaging high school graduate with proven customer service \nexcellence, bilingual communication abilities, and strong organizational \nskills. Demonstrated ability to work effectively in team environments, \nmanage multiple tasks, and maintain professional standards. Eager to \napply communication and service. \n\nProfessional Experience \n\nIntern – Duro Internship    2022-03 – 2022-09 \nR.A.I.N INC CENTER | Bronx, NY \nProvided technical support and organizational assistance in a professional \ninternship setting. \n\n•  Troubleshot hardware and software issues, improving user \n\nexperience. \n\n•  Assisted clients with technical problems, delivering clear and \n\neffective guidance. \n\n•  Organized office inventory, enhancing workspace efficiency and \n\naccessibility. \n\nStudent Intern    2023-05 – 2023-09 \nCrotona International High School | Bronx, NY \nSupported school activities and provided translation services to facilitate \ncommunication. \n\n•  Assisted with Spanish–English translations for students and teachers. \n•  Led group projects, coordinating responsibilities among peers. \n•  Collaborated effectively with classmates, demonstrating teamwork \n\nexcellence. \n\nIntern – Montefiore Einstein Comprehensive Cancer Center    \n2023-11 – 2024-05 \nMontefiore Einstein Cancer Center | Bronx, NY \nSupported administrative and organizational tasks within a healthcare \nresearch environment. \n\n•  Organized office supplies and inventory, streamlining operations. \n•  Assisted staff with technical troubleshooting and administrative \n\ntasks. \n\n•  Contributed to a productive work environment through efficient \n\norganization. \n\nEducation \n\nHigh School Diploma in Leadership, Bilingual Communication, and \nTechnical Skills \nCrotona International High School \n2021 - 2025-06",
   "function": "technology",
   "confidence": 25,
   "skills": [
@@ -44,7 +45,8 @@
     "english",
     "teamwork",
     "research",
-    "communication"
+    "communication",
+    "troubleshooting"
   ],
   "market_relevant": [
     "customer service",
@@ -73,12 +75,10 @@
     "english",
     "teamwork",
     "research",
-    "communication"
+    "communication",
+    "troubleshooting"
   ],
-  "inferred": [
-    "troubleshooting",
-    "debugging"
-  ],
+  "inferred": [],
   "gaps": [
     "python",
     "documentation",
@@ -92,7 +92,9 @@
     "git",
     "linux",
     "c++",
-    "cicd"
+    "debugging",
+    "cicd",
+    "aws"
   ],
   "related": [
     {
@@ -150,25 +152,25 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For the Field Technical Support and Technical Solutions Analyst roles, SQL and Python are critical for querying databases and automating support tasks, while documentation skills are essential for the Junior Technical Writer position. JavaScript and testing knowledge would also strengthen your candidacy for the Technical Solutions Analyst role, as these are commonly required for troubleshooting web-based banking solutions. Focus on learning SQL and Python first, as they appear across multiple job descriptions and are foundational for technical support and analysis.",
+  "coach_notes": "To build a strong technology career, focus on learning Python and SQL first, as they are foundational for many tech roles like data analysis and backend development. Start with free online resources like Codecademy or Coursera to practice coding, and build small projects to apply your skills. Your customer service and IT support background gives you a great base—combine it with these technical skills to become a well-rounded candidate.",
   "jobs": [
     {
       "title": "Field Technical Support",
       "company": "octal-philippines-inc-4",
       "url": "https://apply.workable.com/j/359D18DF7F",
-      "fit": 80,
+      "fit": 85,
       "label": "ready",
-      "why": "Strong match with technical troubleshooting, debugging, and communication skills. Experience in operations and inventory management supports field support role.",
-      "gaps": "No specific field experience or advanced technical certifications mentioned."
+      "why": "Strong alignment with IT support, hardware/software, and customer service skills. Bilingual ability (Spanish/English) is a plus for field support.",
+      "gaps": "No specific field experience or certifications (e.g., A+) mentioned; may need to demonstrate on-site troubleshooting skills."
     },
     {
-      "title": "Junior Technical Writer for Banking Solutions (m/f/d)",
-      "company": "fioneer",
-      "url": "https://apply.workable.com/j/311DE9A4A0",
-      "fit": 65,
-      "label": "target",
-      "why": "Excellent communication and bilingual skills (English/Spanish) are valuable for writing. Organizational skills and attention to detail support documentation tasks.",
-      "gaps": "No experience in technical writing, banking domain knowledge, or familiarity with documentation tools."
+      "title": "IT Technical Support",
+      "company": "optimiza-4",
+      "url": "https://apply.workable.com/j/F4A2376B64",
+      "fit": 90,
+      "label": "ready",
+      "why": "Direct match with IT support role; skills in customer service, hardware/software, and bilingual communication are highly relevant.",
+      "gaps": "May need to highlight specific support tools or ticketing systems experience; no advanced certifications mentioned."
     },
     {
       "title": "US- Technical Solutions Analyst",
@@ -176,26 +178,26 @@
       "url": "https://jobs.lever.co/pointclickcare/64597a6f-76b4-404d-9632-1e031e56c585",
       "fit": 70,
       "label": "target",
-      "why": "Technical troubleshooting, debugging, and operations skills align with analyst role. Bilingual abilities and teamwork are assets.",
-      "gaps": "No healthcare IT experience or specific knowledge of point-of-care systems. May need additional training on industry-specific software."
-    },
-    {
-      "title": "2026 Fall Information Systems Intern/Co-Op",
-      "company": "pca",
-      "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/56961",
-      "fit": 60,
-      "label": "target",
-      "why": "Organizational skills, teamwork, and basic technical skills are relevant for an internship. Bilingualism and adaptability are pluses.",
-      "gaps": "No information systems coursework or project experience. High school diploma only; may need to pursue relevant degree or certifications."
+      "why": "IT support and bilingual skills are relevant for technical solutions analysis. Organization and teamwork are transferable.",
+      "gaps": "Lacks experience in technical analysis, problem-solving at a higher level, and possibly knowledge of specific tools or methodologies."
     },
     {
       "title": "Network Support Internship",
-      "company": "1ce6f339-3ba5-40d3-ad96-dd9b678b3f9b",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4132377",
-      "fit": 55,
+      "fit": 60,
+      "label": "target",
+      "why": "Basic IT support and hardware/software knowledge provide a foundation for networking. Bilingual and teamwork skills are beneficial.",
+      "gaps": "No networking-specific experience or coursework; needs to develop skills in network protocols, configuration, and troubleshooting."
+    },
+    {
+      "title": "Junior Technical Writer for Banking Solutions (m/f/d)",
+      "company": "fioneer",
+      "url": "https://apply.workable.com/j/311DE9A4A0",
+      "fit": 30,
       "label": "reach",
-      "why": "Basic technical troubleshooting and debugging skills provide a foundation. Communication and teamwork are beneficial.",
-      "gaps": "No network-specific knowledge, certifications (e.g., CCNA), or hands-on experience with network equipment. Significant learning curve."
+      "why": "Bilingual skills (Spanish/English) and translation experience are relevant for technical writing in banking solutions.",
+      "gaps": "No technical writing experience, banking domain knowledge, or familiarity with documentation tools; major skill gaps in writing and finance."
     }
   ]
 }

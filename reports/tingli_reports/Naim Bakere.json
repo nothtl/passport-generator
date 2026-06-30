@@ -1,6 +1,7 @@
 {
+  "resume": "=== Naim Bakere - Resume.pdf ===\nNaim Bakere  \nBronx, NY 10460 | 929-422-1124  \n\nObjective  \n\nMotivated and goal-oriented college graduate with an Associate Degree in Business to secure a \n\nposition as a translator where I can utilize my linguistic, organizational skills, attention to detail, \n\nand experience in administrative tasks to contribute effectively to the smooth operation of the \n\norganization..   \n\nEducation  \nEnglish Language Learners and International Academy, Bronx, NY        June 2024  \n\nMonroe University, Bronx, NY                                                September 2024- December 2025  \nAAS in Business  \n\nInternship Experience  \nDusa STEM 2023-2024 ● Learning Coding (. )Learning (Technical Modeling)  \n\n● Developing (Video Programing)  \n\nPost Secondary Readiness 2023-2024 ● Building a resume , Improving communication skills in \n\nterms of language, and concentrating on the audience.  \n● Teamwork and improving writing skill by explaining the purpose of t(Members of seven) \n● Establishing a plan for college  \n\nCCNY STEM Tech 2021-2022 ● Creating Websites  \n\n● Introduction to basic coding skills. 3 day on weekday  \n\nSpeak Hire 2022-2023 ● Practicing time management  \n\n● Learning about business  \n● Increasing my leadership skills  \n\nWork Experience  \nVIM Store 2020-2022 Bronx, N.Y. 10458  \n\n● Training new hires  \n● Organizing store  \n● Communicating with customers  \n● Ordering products for stock  \n\nVolunteer  \nCommunity Mosque, Masjid al-Ummah 2021-Present ● Assist in setting up prayer \n\nmats and in also cleaning up afterwards  \n\nHonors/Awards  \n\nAll-Region Sportsmanship Award  December 2025 \nDean’s List Fall 2025  \nCCNY Stem Tech Completion Certificate 2021-2022 \nSoccer Team- Most Improved Player 2024-2025 \n\nSkills  \n\n● Multilingual: English, French, Tchamba, Kotokolie, & Awe  \n\nSports Teams  \nMonroe Express Soccer Team 2024-2025 \nKidsuper Samba Soccer Team 2021-2024  \nKennedy H.S. Soccer Team 2020-2023  Team Captain \n\n2",
   "function": "administrative",
-  "confidence": 22,
+  "confidence": 24,
   "skills": [
     "- learning",
     "- resume",
@@ -35,7 +36,13 @@
     "detail",
     "teams",
     "ordering",
-    "writing"
+    "writing",
+    "management",
+    "administrative",
+    "english",
+    "cleaning",
+    "organization",
+    "leadership"
   ],
   "market_relevant": [
     "- learning",
@@ -65,15 +72,19 @@
     "detail",
     "teams",
     "ordering",
-    "writing"
+    "writing",
+    "management",
+    "administrative",
+    "english",
+    "cleaning",
+    "organization",
+    "leadership"
   ],
   "inferred": [
     "communication",
     "teamwork",
     "organizational skills",
-    "time management",
-    "attention to detail",
-    "basic math"
+    "attention to detail"
   ],
   "gaps": [
     "customerservice",
@@ -104,6 +115,10 @@
       "pmi": 6.2
     },
     {
+      "skill": "staffmotivation",
+      "pmi": 6.2
+    },
+    {
       "skill": "interiorcleaning",
       "pmi": 5.92
     },
@@ -118,16 +133,12 @@
     {
       "skill": "photography",
       "pmi": 5.44
-    },
-    {
-      "skill": "liftingupto60pounds",
-      "pmi": 5.33
     }
   ],
   "alternatives": [
     {
       "function": "education",
-      "pct": 9
+      "pct": 8
     },
     {
       "function": "arts-media",
@@ -146,52 +157,52 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For the NSC/ASC Junior Procurement Analyst role, the missing 'dataentry' and 'orderprocessing' skills are critical, as these are core to managing procurement transactions and tracking orders. The Associate Order Management Representative position requires 'customerservice' and 'inventorymanagement' to handle client inquiries and stock levels effectively. For the Food Safety Coordinator job, lacking 'foodsafety' knowledge is a direct disqualifier, as it is the primary responsibility of the role.",
+  "coach_notes": "To build a strong administrative career, focus on developing customer service and data entry skills, as they are highly valued in office roles. You can start by taking free online courses on platforms like Coursera or LinkedIn Learning, and practice by volunteering for tasks that involve organizing information or assisting others. Your existing attention to detail and communication skills will give you a great foundation to grow these abilities quickly!",
   "jobs": [
     {
-      "title": "Associate Order Management Representative",
-      "company": "aksteel",
-      "url": "https://aksteel.wd1.myworkdayjobs.com/job/Indiana-Harbor/Associate-Order-Management-Representative_R12858",
-      "fit": 80,
-      "label": "ready",
-      "why": "Strong organizational, communication, and teamwork skills match order management. Multilingual ability and goal-orientation are assets.",
-      "gaps": "No specific order management or logistics experience; may need to learn industry-specific systems."
-    },
-    {
-      "title": "Assistant",
-      "company": "f263d6ee-3055-4d60-94ce-3c964d790daf",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3951182",
+      "title": "Scheduling Administrative Assistant",
+      "company": "arapahoe-fire",
+      "url": "https://arapahoe-fire.breezy.hr/p/260878507c4c-scheduling-administrative-assistant",
       "fit": 85,
       "label": "ready",
-      "why": "Strong administrative and organizational skills, plus communication and writing abilities, are ideal for an assistant role. Internship experience and readiness are key.",
-      "gaps": "No specific industry or software experience mentioned; may need to adapt to company tools."
+      "why": "Strong alignment with administrative tasks, organization, detail orientation, and scheduling. Your communication skills and teamwork are essential for this role.",
+      "gaps": "No explicit scheduling software experience mentioned; may need to adapt to specific tools used by the employer."
     },
     {
-      "title": "Clerical Associate",
-      "company": "prms",
-      "url": "https://job-boards.greenhouse.io/prms/jobs/4559708006",
-      "fit": 90,
-      "label": "ready",
-      "why": "Excellent fit: clerical roles require organizational, communication, and writing skills. Multilingual and goal-oriented traits add value.",
-      "gaps": "No specific clerical experience listed, but skills are highly transferable."
+      "title": "Internship: R&D Events & Project Coordination (H2/2026)",
+      "company": "quandela",
+      "url": "https://apply.workable.com/j/CDFED1CB7E",
+      "fit": 70,
+      "label": "target",
+      "why": "Your organizational and administrative skills, along with teamwork and communication, are directly applicable to coordinating events and projects. Detail orientation and readiness support planning and execution.",
+      "gaps": "No explicit event or project coordination experience; R&D context may require technical or scientific familiarity not evident in resume."
     },
     {
       "title": "NSC/ASC Junior Procurement Analyst",
-      "company": "0229ddeb-c155-4df8-a06e-54da729657c5",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4229426",
-      "fit": 70,
+      "fit": 60,
       "label": "target",
-      "why": "Your business, organizational, and communication skills align with procurement analysis. Internship experience and goal-oriented mindset support learning.",
-      "gaps": "No direct procurement or supply chain experience; coding skills may not be directly applicable."
+      "why": "Business acumen, organizational skills, and attention to detail are relevant to procurement analysis. Your coding and stock experience may support data handling and inventory concepts.",
+      "gaps": "No direct procurement or analyst experience; junior role may require specific procurement knowledge or tools (e.g., SAP)."
     },
     {
-      "title": "Food Safety Coordinator",
-      "company": "stewleonards",
-      "url": "https://jobs.dayforcehcm.com/stewleonards/CANDIDATEPORTAL/jobs/25156",
-      "fit": 40,
-      "label": "reach",
-      "why": "Organizational skills and attention to detail are relevant to food safety coordination. Internship shows work ethic.",
-      "gaps": "No food safety, regulatory, or HACCP knowledge; lacks science/technical background."
+      "title": "Assistant Manager",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3775101",
+      "fit": 65,
+      "label": "target",
+      "why": "Your organizational, teamwork, and communication skills support assistant management duties. Business and administrative experience provide a foundation.",
+      "gaps": "No direct management or supervisory experience; assistant manager roles often require leadership or decision-making examples."
+    },
+    {
+      "title": "Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3951182",
+      "fit": 65,
+      "label": "target",
+      "why": "General administrative and organizational skills are applicable. Detail orientation and readiness support assistant tasks.",
+      "gaps": "Job title 'Assistant' is vague; without more context, it's unclear if specific industry or technical skills are needed. No direct assistant role experience listed."
     }
   ]
 }

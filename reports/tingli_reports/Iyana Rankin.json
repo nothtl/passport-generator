@@ -1,4 +1,5 @@
 {
+  "resume": "=== Iyana Rankin - Resume.pdf ===\nIyana Rankin \n\nDetermined individual with a proven track record in stock and brand \nmanagement, poised to leverage this expertise into a progressive role. \nCommitted to delivering exceptional results and contributing effectively to \norganizational growth. \n\n68 Fallon Dr \nHamden, CT 06514 \n(347) 545-6409 \niyanarankin05@gmail.com \n\nEXPERIENCE \n\nSKILLS \n\nMadrag, North Haven,CT— Team Lead \n\n June 2024 - Present \n\nAs a team lead, my responsibilities include Opening and/or closing the store, \n\nopening and closing registers, counting the safe as well as making deposits \n\nHighly organized \n\n  Great communication \n\n  Time and task management \n\nas a part of closing procedures. As team lead I also handle projects such as \n\n  Basic Computer Skills \n\nreworking the visual walls and dressing the mannequins as well as \n\nre-organizing areas of the store. Essentially I act as a manager when the \n\nmanager is not present. \n\nAmazon, Danbury,CT — Warehouse Associate  \n\nOctober 2023 - February 2024 \n\nAs an Amazon Stock Associate, my primary responsibilities typically \n\n  Responsible \n\n  Team Player \n\n  Sensitive to Needs \n\n  Problem Solving \n\n  G suite \n\ninclude Receiving and inspecting incoming shipments of goods.Organizing \n\n  Microsoft/Zoom \n\nand storing inventory in designated locations within the warehouse. And \n\npicking and packing items for customer orders, ensuring accuracy and \n\nefﬁciency. \n\nPrimark, Brooklyn,NY — Overnight Replenishment Associate  \n\nMay 2023 - October 2023 \n\nAs a Replenishment Associate at Primark, my key duties typically include \nreplenishing merchandise on the sales ﬂoor to maintain attractive and fully \nstocked displays. Monitoring inventory levels and identifying areas \nrequiring restocking to meet customer demand.Efﬁciently unpacking and \nsorting incoming deliveries of merchandise.And ensuring accurate pricing \nand labeling of products before placing them on the sales ﬂoor. \n\nAlpine Scout Camp, Alpine,NJ — Counselor  \n\nJune 2020 - August 2020 \n\nWhile working as a counselor my duties included Supporting operations \nwithin the Arts and Theater Department by preparing necessary supplies \nand materials for camp activities. Provided guidance and instruction to \ncampers, explaining project requirements,and assisting them with their \ncreative endeavors. Ensured a positive and engaging experience for campers \nby offering support and encouragement throughout the artistic process. \n\n  EDUCATION \n\n  Cypress Hills Collegiate \n\nPreparatory High School, \n\nBrooklyn,Ny — High School \n\nDiploma \n\n  September 2018 - August 2021 \n\n  Graduated early with high \n\nhonors. \n\n \n \n   \n   \n\fBuilding Beats, Brooklyn,Ny — Youth Intern \n\nJune 2019 - August 2019 \n\nDuring my internship at the Summer Youth Employment Program, I \nactively collaborated with working professionals and fellow interns to \ndevelop a diverse skill set. This experience enabled me to enhance my \nabilities in personal branding, problem-solving, effective communication, \nand email etiquette. \n\nSpeakhire, Brooklyn,Ny — Intern \n\nNovember 2020- April 2021 \n\nDuring my internship, I enhanced proﬁciency in social media management \nand marketing strategies through practical application.Contributed to \nrecording and reﬁning sounds, demonstrating a commitment to audio \nproduction and development. Strengthened communication abilities by \npresenting end-of-summer projects encompassing sampling, tempo, beat, \nand album cover design.",
   "function": "retail",
   "confidence": 26,
   "skills": [
@@ -52,7 +53,9 @@
     "replenishment",
     "inventory",
     "design",
-    "sales"
+    "sales",
+    "branding",
+    "communication"
   ],
   "market_relevant": [
     "- resume",
@@ -87,13 +90,15 @@
     "replenishment",
     "inventory",
     "design",
-    "sales"
+    "sales",
+    "branding",
+    "communication"
   ],
   "inferred": [
     "customerservice",
     "teamwork",
-    "communication",
-    "multitasking"
+    "multitasking",
+    "cashhandling"
   ],
   "gaps": [
     "foodsafety",
@@ -105,8 +110,8 @@
     "foodpreparation",
     "layout",
     "figma",
-    "cashhandling",
-    "sanitation"
+    "sanitation",
+    "inventorymanagement"
   ],
   "related": [
     {
@@ -164,16 +169,16 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For the Houseperson role, 'foodsafety' and 'foodpreparation' are critical gaps since this job likely involves handling or cleaning food-related areas. For the Associate Website Designer position, missing 'graphicdesign', 'adobecreativesuite', 'photoshop', 'illustrator', 'typography', 'layout', and 'figma' are significant as these are core design tools and skills. For the Sales/Stock Stylist role, 'cashhandling' is a key gap for processing transactions, while 'foodsafety' may be less relevant unless the store sells food items.",
+  "coach_notes": "To build a strong retail career, focus on developing graphic design skills like Adobe Creative Suite, Photoshop, and Illustrator, as these are highly valued for creating visual merchandising and marketing materials. Start by taking free online tutorials on platforms like YouTube or Coursera, then practice by designing simple posters or social media graphics for your current role. Your existing skills in brand management and computer basics provide a solid foundation—leverage them to showcase your new abilities in real projects.",
   "jobs": [
     {
       "title": "Houseperson",
-      "company": "57e19090-b4a5-4284-b3e0-a14a05570f45",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4207810",
       "fit": 85,
       "label": "ready",
-      "why": "Your skills in receiving, inspecting, materials, and teamwork directly match houseperson duties like stocking supplies and maintaining cleanliness. Your store opening and team lead experience show you can handle physical tasks and coordinate with others.",
-      "gaps": "No specific gaps; ensure you highlight any prior hotel or hospitality experience if available."
+      "why": "Your experience with closing procedures, restocking, and teamwork directly align with houseperson duties like cleaning, stocking, and supporting operations.",
+      "gaps": "No specific experience in hotel/hospitality settings, but transferable skills are strong."
     },
     {
       "title": "(Part Time) Las Vegas South Premium Outlet Sales/Stock Stylist",
@@ -181,8 +186,8 @@
       "url": "https://levistraussandco.wd5.myworkdayjobs.com/job/Las-Vegas-NV-USA/XMLNAME--Part-Time--Las-Vegas-South-Premium-Outlet-Sales-Stock-Stylist_R-0148841",
       "fit": 90,
       "label": "ready",
-      "why": "Your picking and packing, accurate pricing, receiving, and team player skills are directly relevant to sales/stock styling. Store opening and teamwork experience align with retail operations.",
-      "gaps": "No significant gaps; consider highlighting any fashion or visual merchandising interest."
+      "why": "Your restocking, pricing/labeling, customer orders, and teamwork experience directly match sales/stock stylist duties in a retail outlet.",
+      "gaps": "No specific luxury or outlet retail experience, but skills are highly transferable."
     },
     {
       "title": "Associate Website Designer",
@@ -190,26 +195,26 @@
       "url": "https://job-boards.greenhouse.io/cloudbeds/jobs/4647662005",
       "fit": 20,
       "label": "reach",
-      "why": "Your creative and social media skills show some design sense, and problem-solving helps with technical challenges.",
-      "gaps": "Major gaps: no web design, coding, or UX/UI experience. Need portfolio and technical skills like HTML/CSS, design tools (e.g., Figma, Adobe XD)."
+      "why": "You have design and creative skills, and basic computer proficiency, which are foundational for website design.",
+      "gaps": "No experience with web design tools (e.g., HTML, CSS, JavaScript, CMS like WordPress), portfolio, or formal design training."
     },
     {
       "title": "Bartender - Brothers Bar & Grill,  Broad Ripple, Indianapolis, IN",
-      "company": "7c801d3e-b49e-4a5a-bde8-3aede36a219f",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1154352",
       "fit": 30,
       "label": "reach",
-      "why": "Your communication, teamwork, and problem-solving skills are useful in a fast-paced bar environment.",
-      "gaps": "Major gaps: no bartending experience, knowledge of drink recipes, or cash handling skills. Need training or certification."
+      "why": "Teamwork and customer order skills are relevant to bartending, and you have a high school diploma.",
+      "gaps": "No bartending experience, knowledge of drink recipes, or serving alcohol certification (e.g., TIPS)."
     },
     {
       "title": "Installation Apprentice",
       "company": "greatwindowsservices",
       "url": "https://jobs.hunterdouglas.com/division/greatwindowsservices/job/7777687003?gh_jid=7777687003",
-      "fit": 60,
+      "fit": 40,
       "label": "target",
-      "why": "Your materials, project, and problem-solving skills apply to installation tasks. Teamwork and receiving/inspecting help with on-site coordination.",
-      "gaps": "Gaps: no specific installation or construction experience, lack of technical trade skills (e.g., window fitting, tools). Apprenticeship may provide training."
+      "why": "Teamwork, basic computer skills, and being a team player are useful for an apprenticeship role that involves learning on the job.",
+      "gaps": "No experience in installation, construction, or trade skills; you would need to demonstrate willingness to learn and physical stamina."
     }
   ]
 }

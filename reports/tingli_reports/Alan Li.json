@@ -1,4 +1,5 @@
 {
+  "resume": "=== Alan Li - Resume.pdf ===\n“Alan Li  \n Brooklyn, New York •  347-318-6012    \n\n     Alanli2070@gmail.com • h@ps://www.linkedin.com/in/alan-li-765556344/   \n\nEDUCATION  \n\nUNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK  \nBachelor of Science, Business Administra=on  \nMarkeUng  \nGPA 3.3/4.00  \n\nEXPERIENCE  \n\nBig C Wholesale Inc.  \nOﬃce Assistant   \n• \n\nJune 2028  \n\nQueens, New York  \nJune 2023 - Present  \n\n• \n• \n• \n• \n\n• \n\nProvides general administraUve and clerical support to ensure smooth daily operaUons within an oﬃce \nenvironment.  \nOrganizing both physical and electronic ﬁles, ensuring informaUon is easily accessible  \nKeeping track of inventory and replenishing supplies as needed  \nSorUng, distribuUng, and preparing outgoing mail and packages  \nAssisUng with tasks like entering informaUon into databases and preparing reports.   \n\n  University at Buﬀalo – work study  \n  Garage Assistant   \n\nBuﬀalo, New York  \nNovember 2024 – May 2025  \n\nTook out trash from cans in all dorm buildings to help keep the area clean.  \n\n• \n•  Worked closely with staff members as a team to get tasks done  \n• \n• \n\nTalked with students and staﬀ to answer quesUons and provide friendly help.  \nHelped ﬁnish daily tasks by working together with the team.  \n\n  Kyoto restaurant  \n  Hostess   \n\nBuﬀalo, New York  \nAugust 2024 – November 2024  \n\nAs a hostess, I greeted and seated at least 100+ guests with a warm smile and helped reduce guest wait \nUmes by improving the seaUng structure  \nSolve guest concerns quickly, leading to good feedback and repeat visits  \n\n• \n•  Working smoothly with my team to run the service eﬃciently  \n• \n\nTrained new hostesses and improved team eﬃciency  \n\nTECHNICAL SKILLS  \n\nMS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity, \nCommunicaUon, Interpersonal, and CriUcal thinking  \n\n  \n \n  \n  \n  \n  \n  \n  \n  \n\fACTIVITIES  \n\nMarkeUng Club, Chinese Student AssociaUon, Hong Kong Student AssociaUon, Biking, Reading books, \nBasketball, Volleyball, Badminton, Bowling, Weightlihing, Investment, Parent-Child Rela0onship Associa0on, \nChinese, English, and Fuzhounese.",
   "function": "administrative",
   "confidence": 18,
   "skills": [
@@ -22,15 +23,7 @@
     "english",
     "word",
     "powerpoint",
-    "excel",
-    "activities",
-    "bachelor",
-    "basketball",
-    "biking",
-    "business",
-    "canva",
-    "chinese",
-    "css"
+    "excel"
   ],
   "market_relevant": [
     "clerical support",
@@ -50,8 +43,7 @@
   ],
   "inferred": [
     "communication",
-    "attentiontodetail",
-    "dataentry"
+    "attentiontodetail"
   ],
   "gaps": [
     "customerservice",
@@ -60,6 +52,7 @@
     "cashhandling",
     "accounting",
     "accountsreceivable",
+    "dataentry",
     "generalledger",
     "journalentries",
     "compliance",
@@ -123,25 +116,16 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For the Audit-Talent position, the missing 'financialreporting' and 'compliance' gaps are critical, as auditing requires preparing reports and ensuring regulatory adherence. For the Bookkeeper role, 'accountspayable', 'accountsreceivable', and 'generalledger' are essential for managing financial transactions and records. The Cash Collection role demands 'cashhandling' and 'customerservice' to effectively process payments and interact with clients.",
+  "coach_notes": "To build a strong administrative career, focus on developing customer service and accounting skills, as they are foundational for roles like office manager or executive assistant. Start by taking free online courses in customer service and basic accounting (e.g., Coursera or LinkedIn Learning), and practice data entry with spreadsheets. You already have a solid base with clerical support and technical skills—adding these will make you a more versatile and competitive candidate.",
   "jobs": [
-    {
-      "title": "Bookkeeper and Administrative Coordinator (Remote, Part-Time)",
-      "company": "uptalent-dot-i-o",
-      "url": "https://apply.workable.com/j/54484520D3",
-      "fit": 70,
-      "label": "ready",
-      "why": "Strong match with clerical support, data entry, Excel, and business skills. Remote work fits your profile. Part-time aligns with potential flexibility needs.",
-      "gaps": "May lack specific bookkeeping software experience (e.g., QuickBooks, Xero). No direct bookkeeping role history."
-    },
     {
       "title": "Audit-Talent gesucht: Prüfungsassistent (m/w/d) mit Aufstiegsperspektive",
       "company": "schwertfels",
       "url": "https://apply.workable.com/j/1DEEDA2B3E",
-      "fit": 20,
+      "fit": 30,
       "label": "reach",
-      "why": "Your business and clerical support background shows some administrative capability, and you have a bachelor's degree which may meet basic educational requirements.",
-      "gaps": "Audit requires specialized accounting/finance knowledge, audit procedures, and professional certifications (e.g., CPA, ACCA). No evidence of audit experience or relevant coursework."
+      "why": "Your clerical support and attention to detail are relevant for audit tasks. Basic Excel skills are a foundation for data analysis in auditing.",
+      "gaps": "No formal accounting or audit training, lack of German language skills (job is in German), no experience with audit software or financial statements."
     },
     {
       "title": "Cash Collection Team Support",
@@ -149,26 +133,35 @@
       "url": "https://apply.workable.com/j/E67EC1F481",
       "fit": 60,
       "label": "target",
-      "why": "Your clerical support, data entry, Excel, and communication skills align with cash collection support tasks. Business background helps with client interaction.",
-      "gaps": "No direct cash collection or accounts receivable experience. May need training on specific collection software and debt recovery processes."
+      "why": "Your clerical support, communication, and attention to detail are useful for cash collection support. Excel skills help with tracking payments.",
+      "gaps": "No direct collections or accounts receivable experience, lack of knowledge in cash collection processes or CRM systems."
+    },
+    {
+      "title": "Bookkeeper and Administrative Coordinator (Remote, Part-Time)",
+      "company": "uptalent-dot-i-o",
+      "url": "https://apply.workable.com/j/54484520D3",
+      "fit": 55,
+      "label": "target",
+      "why": "Your clerical support, attention to detail, and organizational skills are relevant for bookkeeping. Remote work aligns with your work study background.",
+      "gaps": "No formal bookkeeping training or experience with accounting software (e.g., QuickBooks), limited knowledge of financial record-keeping."
     },
     {
       "title": "Bookkeeping Clerk",
-      "company": "4204149f-31b6-47f8-af48-b07a963a405a",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4255661",
-      "fit": 65,
+      "fit": 50,
       "label": "target",
-      "why": "Clerical support, data entry, and Excel skills are directly applicable to bookkeeping clerk duties. Business background supports understanding of financial records.",
-      "gaps": "No specific bookkeeping experience or knowledge of accounting principles. May need training on bookkeeping software and double-entry accounting."
+      "why": "Your clerical support, attention to detail, and inventory experience are relevant for bookkeeping clerk duties. Basic Excel skills help with data entry.",
+      "gaps": "No direct bookkeeping experience, lack of knowledge in accounting principles or software, need to learn financial data management."
     },
     {
       "title": "Underwriter – Credit Insurance | Energy Transition Finance",
       "company": "energeticcapital",
       "url": "https://jobs.lever.co/energeticcapital/1885e3b8-7c8a-400b-90eb-40a914524988",
-      "fit": 10,
+      "fit": 20,
       "label": "reach",
-      "why": "Your business background and bachelor's degree provide a foundational understanding of business concepts.",
-      "gaps": "Underwriting credit insurance requires deep knowledge of finance, risk assessment, energy transition, and insurance underwriting. No relevant experience or education in these areas."
+      "why": "Your investment knowledge and attention to detail are relevant for underwriting. Communication skills help with client interactions.",
+      "gaps": "No underwriting or credit insurance experience, lack of knowledge in energy transition finance, no risk assessment or financial analysis background."
     }
   ]
 }

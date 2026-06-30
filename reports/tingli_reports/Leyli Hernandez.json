@@ -1,4 +1,5 @@
 {
+  "resume": "=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED \nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142 \n\nLEYLI  HERNANDEZ \n\nABOUT ME \n\nMy name is Leyli Hernandez, 17 years old. I’ve grown up and lived in Queens and am very \npassionate about helping my community in any way, anytime. I am constantly assisting in \nany event which has allowed me to be very engaging towards others whenever I get the \nopportunity. I love to stay physically active and always have something to do. I am always \ndown to try new things and expand my horizons. \n\nVOLUNTEERING  HISTORY \n\n● \n\n● \n\nI spend most of the weekends or afterschool hours volunteering with Elmhurst \nCommunity Partnership(ECP) which is a non-profit organization that provides free \nsports clubs, social groups, community assistance, community events and other \nactivities. \nI am also the Co-Chair of the Executive Board of another non-profit company I work \nwith called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and \nColleges to help students work on their leadership skills, career paths, and connects \nthese students with professionals based on their career interests. I am also chair to \nthe Media committee, and work with planning our monthly events to help them run \nsmoother. \n\n \n \n \n \n \n \n \n\fSKILLS \n\nTeam Leadership (Experienced), Community Engagement (Experienced), Problem Solving \n(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public \nSpeaking (Experienced). \n\nEDUCATION \n\nHIGH SCHOOL \n\n40-11 28th St, Astoria, NY 11101  \n\nCurrently a Junior Student-Athlete at Academy of American Studies High \nSchool as I am part of the Varsity Girls Flag Football team  \n\nLANGUAGES \n\nEnglish (Native), Spanish (Highly proficient).",
   "function": "social-service",
   "confidence": 23,
   "skills": [
@@ -81,7 +82,7 @@
     "communication",
     "teamwork",
     "organization",
-    "leadership"
+    "firstaid"
   ],
   "gaps": [
     "classroommanagement",
@@ -91,7 +92,6 @@
     "customerservice",
     "earlychildhoodeducation",
     "coaching",
-    "firstaid",
     "teamcollaboration",
     "parentcommunication",
     "documentation",
@@ -153,7 +153,7 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For the Osmosis Health Leadership Initiative, lacking 'firstaid' and 'teamcollaboration' is critical, as this role likely involves health-related community work requiring emergency response and coordinated teamwork. For the Cultural Site Interpreter position, missing 'customerservice' and 'communityengagement' (though you have community events) is a gap, as interpreters need strong visitor interaction skills. For the English and History tutor role, lacking 'classroommanagement' and 'lessonplanning' is essential, as these are core to effective tutoring and structured learning sessions.",
+  "coach_notes": "To strengthen your social-service career, focus on developing classroom management, child development, and lesson planning—these are core for roles like youth counselor or community program coordinator. Start by volunteering at local after-school programs or taking free online courses in early childhood education to build hands-on experience. Your existing skills in community engagement and leadership are a great foundation; combine them with these new competencies to make a bigger impact.",
   "jobs": [
     {
       "title": "Cultural Site Interpreter",
@@ -161,8 +161,8 @@
       "url": "https://apply.workable.com/j/13E441BC84",
       "fit": 80,
       "label": "ready",
-      "why": "Your public speaking, communication, and native Spanish are strong assets for interpreting cultural sites to diverse audiences. Activities and engagement show you can interact with visitors.",
-      "gaps": "No direct experience in cultural interpretation or history; may need to learn site-specific content quickly."
+      "why": "Native Spanish and social media skills are directly applicable to cultural interpretation. Organization and planning support site operations.",
+      "gaps": "Lack of formal interpretation or museum experience; may need to demonstrate cultural knowledge beyond language."
     },
     {
       "title": "English and History tutor",
@@ -170,8 +170,17 @@
       "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
       "fit": 85,
       "label": "ready",
-      "why": "Your tutoring experience, communication, planning, and teamwork directly support this role. English and history align with your skills, and you have high school background.",
-      "gaps": "No specific mention of English or history tutoring; may need to highlight relevant subject knowledge."
+      "why": "Strong match with English and History tutoring given your high school background and quick learner trait. Teamwork and communication skills are relevant.",
+      "gaps": "No formal tutoring experience listed; need to emphasize any informal teaching or mentoring roles."
+    },
+    {
+      "title": "Temporary Tutor, Math",
+      "company": "palmbeachstate",
+      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Temporary-Tutor--Math_R0013816-1",
+      "fit": 75,
+      "label": "ready",
+      "why": "Math tutoring aligns with your quick learner and teamwork skills. High school background provides foundational knowledge.",
+      "gaps": "No specific math tutoring experience; need to demonstrate proficiency in math topics beyond high school level."
     },
     {
       "title": "Osmosis Health Leadership Initiative (Formerly OMEF)",
@@ -179,26 +188,17 @@
       "url": "https://job-boards.greenhouse.io/osmosis/jobs/5628745003",
       "fit": 70,
       "label": "target",
-      "why": "Your leadership skills, team leadership, and communication align with a health leadership initiative. Public speaking and planning are also relevant for leading groups or presenting.",
-      "gaps": "No specific health or medical background mentioned; may need to demonstrate interest in health leadership or gain foundational knowledge."
+      "why": "Your community events and teamwork skills align with health leadership initiatives. Native Spanish and planning are assets for diverse outreach.",
+      "gaps": "No direct healthcare or leadership program experience; need to highlight transferable skills from student-athlete and event planning."
     },
     {
       "title": "Educator I",
-      "company": "90823d2f-67c8-43e2-b60a-bbe89f703024",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4270784",
       "fit": 60,
       "label": "target",
-      "why": "Your engagement, teamwork, and communication skills are useful for an educator role. Planning and activities suggest you can design learning experiences.",
-      "gaps": "No formal education or teaching certification mentioned; may need to show experience with curriculum or classroom management."
-    },
-    {
-      "title": "Temporary Tutor, Math",
-      "company": "palmbeachstate",
-      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Temporary-Tutor--Math_R0013816-1",
-      "fit": 50,
-      "label": "reach",
-      "why": "Your tutoring experience and planning skills are relevant for a math tutor role. Teamwork and communication help in working with students.",
-      "gaps": "No math-specific skills or experience listed; major gap in subject expertise. Need to demonstrate math proficiency or relevant coursework."
+      "why": "Your teamwork and leadership from student-athlete and community events can translate to educator role. Organization and planning are useful.",
+      "gaps": "No formal education or teaching experience; significant gap in curriculum development or classroom management skills."
     }
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "resume": "=== Jhan Motta - Resume.pdf ===\nJhan P. Motta  \n35-40 83th Street, Queens, NY 11372 \nPhone: 646-725-6084  ●  Email: Jhanmottap@gmail.com \n\nEDUCATION \n\nCUNY Brooklyn College — Brooklyn, NY \n Bachelor of Fine Arts (B.F.A.), Art (Photography Focus)                                                               Expected Graduation: 2028 \n\n●  Concentration in photography, visual arts, and performance \n\n●  Relevant coursework in theatre, art history, photography, and media studies \n\nEXPERIENCE \n\nFreelance Model — New York, NY                                                                                                                            2026 – Present \n\n●  Worked as a freelance fashion and commercial model for creative and branded projects \n\n●  Participated in professional photoshoots, castings, and on-camera productions \n\n●  Collaborated with photographers, directors, and creative teams to execute visual concepts \n\n●  Maintained strong on-set professionalism, punctuality, and adaptability to direction \n\n●  Built experience in editorial, commercial, and lifestyle modeling \n\nCommercial Model — iFLY Indoor Skydiving — New York, NY                                                                                              2025 \nCommercial Campaign  \n\n●  Selected to appear in a commercial campaign for iFLY Indoor Skydiving \n\n●  Performed on camera following scripted direction and production requirements \n\n●  Worked within a professional film set environment alongside directors and crew \n\n●  Contributed to brand storytelling through expressive physical and visual performance \n\nPhotographer & Visual Artist — New York, NY                                                                                                      2026 – Present \nDevelop conceptual photography projects exploring identity, emotion, and contemporary social themes \n\n●  Produce self-portraits and portrait work using both digital and film photography \n\n●  Manage the full creative process, including concept development, shooting, editing, and presentation \n\n●  Exhibit strong visual storytelling skills through composition, lighting, and mood \n\n●  Build a growing portfolio used for academic projects, exhibitions, and professional opportunities \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fJ.P. Dog Care and Walking Service,New York, NY \nDog Walker and Dog Caretaker  \n\n●  Responsible for dog Sitting for dogs differents ages for several families in Queens \n●  Provide dog walking,including pick up and drop off, for up to three dog at a time \n●  Communicate with clients to ensure that their requirements were fully met \n\nJuly 2022      \n\nAmbassade Home and Office Cleaning, New York, NY \nAssistant Cleaner \n\n               December  2021 - March 2022 \n\n●  Performed daily general cleaning and deep cleaning of desks and other office property \n●  Maintained a high level of caution when cleaning expensive and delicate items \n●  Cleaned the building, emptying trash and disinfecting the restrooms and lobby \n●  Performed the cleaning tasks with a duration of four hours \n\nACTIVITIES AND AWARDS \n\nThe Opportunity Network, New York, NY \nChosen as one of 162 New York City students for an intensive six-year experience cultivating skills and mindsets for \ncollege and career readiness, access, and success \n\nJune 2026 - Present \n\nSALT (Studio Art Learning & Training) Program — New York, NY                                                                                      2024 \nSelected to participate in an intensive studio-based arts program focused on portfolio development, critiques, and \nprofessional artistic practice. \n\nArt Ready Program, New York, NY \nParticipated as one of the student artists from 11 different New York City schools for an intensive mentoring \nexperience that provides professional and creative guidance for the development of your future as an artist \n\n               May 2022 \n\nRecognition of Best Social Justice Poster, New York, NY \nAwarded to the student who made the best social justice poster in the Arts class \n\nAdministrative Assistant Technician, Quindio, Colombia \nDegree awarded for completing two years of training in the business and assistance field \n\nJune 2021 \n\nDecember 2020 \n\nSKILLS AND INTERESTS \n\n●  Creative & Technical Skills: \n\n Photography (digital & film), visual storytelling, conceptual art, theatre performance, acting techniques, \neditorial & commercial modeling, on-camera performance, digital design, basic video editing \n\n●  Software & Tools: \n\n Adobe Photoshop, Adobe Illustrator, Paint Tool SAI, Adobe Lightroom Classic \n\n● \n\nLanguages: \n Spanish (Fluent), English (Proficient), French (Basic / Learning) \n\n●  Professional Skills: \n\n Collaboration, time management, adaptability, creative problem-solving, client communication, \nprofessionalism on set and stage \n\n \n \n \n \n \n \n \n \n \n \n\f● \n\nInterests: \n Photography, theatre and acting, fashion, contemporary art, performance studies, and visual culture",
   "function": "arts-media",
   "confidence": 48,
   "skills": [
@@ -58,7 +59,26 @@
     "production",
     "shooting",
     "network",
-    "video"
+    "video",
+    "adaptability",
+    "composition",
+    "training",
+    "lighting",
+    "modeling",
+    "portfolio",
+    "editing",
+    "english",
+    "fashion",
+    "cleaning",
+    "design",
+    "presentation",
+    "problem-solving",
+    "photography",
+    "storytelling",
+    "collaboration",
+    "illustrator",
+    "photoshop",
+    "communication"
   ],
   "market_relevant": [
     "- - email",
@@ -96,26 +116,45 @@
     "production",
     "shooting",
     "network",
-    "video"
+    "video",
+    "adaptability",
+    "composition",
+    "training",
+    "lighting",
+    "modeling",
+    "portfolio",
+    "editing",
+    "english",
+    "fashion",
+    "cleaning",
+    "design",
+    "presentation",
+    "problem-solving",
+    "photography",
+    "storytelling",
+    "collaboration",
+    "illustrator",
+    "photoshop",
+    "communication"
   ],
   "inferred": [
     "graphicdesign",
     "adobecreativesuite",
-    "photoshop",
-    "illustrator",
-    "typography",
-    "layout"
+    "visualdesign"
   ],
   "gaps": [
     "customerservice",
     "teamwork",
-    "communication",
     "foodsafety",
+    "typography",
     "foodpreparation",
+    "layout",
     "multitasking",
-    "figma",
     "cashhandling",
-    "sanitation"
+    "figma",
+    "sanitation",
+    "inventorymanagement",
+    "visualmerchandising"
   ],
   "related": [
     {
@@ -139,16 +178,16 @@
       "pmi": 5.28
     },
     {
-      "skill": "modeling",
-      "pmi": 4.87
+      "skill": "leadership",
+      "pmi": 4.47
     },
     {
       "skill": "coordination",
       "pmi": 4.18
     },
     {
-      "skill": "bim",
-      "pmi": 4.1
+      "skill": "wordpressadministration",
+      "pmi": 4.18
     }
   ],
   "alternatives": [
@@ -173,52 +212,52 @@
       "pct": 3
     }
   ],
-  "coach_notes": "For the Marketing Intern (Graphic Design Focus) and Associate Website Designer roles, Figma is a critical gap as it's a standard tool for web and digital design collaboration. For the Assistant Designer – Girls apparel position, teamwork and communication are essential since you'll coordinate with cross-functional teams on product development. Prioritize learning Figma through online tutorials and practice collaborative projects to address the most job-specific needs.",
+  "coach_notes": "For a strong arts-media career, focus on developing typography, layout, and Figma—these are core design skills that directly enhance your brand storytelling and Adobe expertise. Start by taking free online courses on platforms like Coursera or YouTube, and practice by redesigning a project using Figma and layout principles. You're already on a great path with your existing skills; adding these will make your portfolio even more compelling to employers.",
   "jobs": [
     {
-      "title": "Marketing Intern (Graphic Design Focus)",
-      "company": "86e648fe-96b9-43ba-9546-b5cece67027c",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3998040",
+      "title": "Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997593",
+      "fit": 85,
+      "label": "ready",
+      "why": "Strong alignment with photography skills, Adobe Lightroom, and basic video editing. Intern role expects learning, which matches your current experience.",
+      "gaps": "No professional photography internship experience listed; may need portfolio examples of event or studio work."
+    },
+    {
+      "title": "Content Creator",
+      "company": "vaynermedia",
+      "url": "https://vaynermedia.com/careers?gh_jid=4896914",
       "fit": 80,
       "label": "ready",
-      "why": "Strong alignment with graphic design focus; skills in Adobe Photoshop, Adobe Creative Suite, visual arts, and creativity directly support this role.",
-      "gaps": "No explicit marketing internship experience mentioned; may need to demonstrate understanding of marketing principles."
+      "why": "Content creation leverages photography, graphic design, and creative problem-solving. Social media content is a natural fit.",
+      "gaps": "No explicit content strategy or social media management experience; may need to demonstrate content calendar planning."
     },
     {
       "title": "Video Production Intern Summer 2026",
       "company": "lvcollective",
       "url": "https://apply.workable.com/j/4A6F867C9F",
-      "fit": 85,
-      "label": "ready",
-      "why": "Direct match with video production; skills in shooting, basic video editing, on-camera presence, and creativity are highly relevant.",
-      "gaps": "No professional video production internship experience; may need to showcase portfolio or advanced editing skills."
-    },
-    {
-      "title": "Associate Website Designer",
-      "company": "cloudbeds",
-      "url": "https://job-boards.greenhouse.io/cloudbeds/jobs/4647662005",
-      "fit": 60,
+      "fit": 70,
       "label": "target",
-      "why": "Adobe Creative Suite and visual arts skills are relevant for website design; creativity and professionalism are assets.",
-      "gaps": "No web design or development experience listed; lacks knowledge of website design tools like HTML/CSS or UX/UI principles."
+      "why": "Basic video editing and Adobe skills are relevant. Summer 2026 timeline allows for skill development.",
+      "gaps": "No specific video production or advanced editing software (e.g., Premiere Pro) mentioned; need to build a video portfolio."
     },
     {
-      "title": "Assistant Designer – Girls (7-16, 4-6x) Apparel",
-      "company": "1c4c976a-c6d1-4819-a327-e94d108a866e",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4081669",
-      "fit": 50,
-      "label": "target",
-      "why": "Visual arts and Adobe Creative Suite skills are applicable to apparel design; creativity is a plus.",
-      "gaps": "No fashion or apparel design experience; lacks understanding of garment construction, pattern making, or children's sizing."
-    },
-    {
-      "title": "Designer II - Security",
-      "company": "teecom",
-      "url": "https://jobs.lever.co/teecom/69a20044-f193-4609-b052-0f279e992440",
+      "title": "Associate Art Director (Video)",
+      "company": "Jerry.ai",
+      "url": "https://jobs.ashbyhq.com/Jerry.ai/4d3bc2e6-d738-43d2-b18e-0e9b0aac4564",
       "fit": 30,
       "label": "reach",
-      "why": "Design skills and Adobe proficiency could be foundational, but security focus requires specialized knowledge.",
-      "gaps": "No security design experience; lacks knowledge of security systems, compliance standards, or technical design requirements in security contexts."
+      "why": "Creative problem-solving and graphic design skills are foundational for art direction.",
+      "gaps": "No video production or art direction experience; lacks leadership, project management, and advanced video skills required for associate level."
+    },
+    {
+      "title": "Design_Videographer (Bilingual-Korean, English) Lyndhurst, NJ",
+      "company": "hmart",
+      "url": "https://jobs.dayforcehcm.com/hmart/CANDIDATEPORTAL/jobs/402",
+      "fit": 20,
+      "label": "reach",
+      "why": "Photography and video editing skills are relevant to the role.",
+      "gaps": "No bilingual Korean/English skills; lacks professional videography and design experience for a specialized role."
     }
   ]
 }

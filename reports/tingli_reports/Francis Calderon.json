@@ -1,4 +1,5 @@
 {
+  "resume": "=== aylin_calderon_resume.pdf ===\nAylin Calderon\n\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com\n\nEDUCATION\n\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n\nWork Experience\nLittle Pulp Arts Center, Glendale, NY\n\nIntern\n\n- Helped children learn to paint\n- Cleaned exhibits\n- Painted posters\n\nBabysitter & Pet Sitter:\n-cooked meals\n-played games with the children\n-Supervised children\n-fed and took care of their cat\n\nEXTRACURRICULAR ACTIVITIES\nFlushing International High School Dance lessons\n\nSKILLS\n\n- Goodteamplayer\n- Abilitytomultitaskandcompleteprojectsontime\n- Abilitytolearnquickly\n-    Bilingual:SpanishandEnglish\n- Typingskills\n\nHOBBIES & INTERESTS\n\n- Playingsoccer\n- Graphicdesigning\n- Videogaming\n\nSpring 2022\n\nSummer 2020",
   "function": "arts-media",
   "confidence": 41,
   "skills": [
@@ -9,19 +10,7 @@
     "paint",
     "pdf",
     "resume",
-    "education",
-    "activities",
-    "care",
-    "cat",
-    "children",
-    "dance",
-    "exhibits",
-    "games",
-    "gmail",
-    "intern",
-    "meals",
-    "sitter",
-    "spring"
+    "education"
   ],
   "market_relevant": [
     "paint",
@@ -30,8 +19,8 @@
     "education"
   ],
   "inferred": [
-    "teamwork",
     "communication",
+    "teamwork",
     "multitasking"
   ],
   "gaps": [
@@ -44,8 +33,8 @@
     "typography",
     "foodpreparation",
     "layout",
-    "figma",
     "cashhandling",
+    "figma",
     "sanitation"
   ],
   "related": [],
@@ -71,11 +60,11 @@
       "pct": 3
     }
   ],
-  "coach_notes": "For the Painter role, lacking 'foodpreparation' and 'foodsafety' is critical if the position involves culinary or food-related painting (e.g., murals in restaurants). For the Production Artist and Design Sophomore Summit roles, missing 'graphicdesign', 'adobecreativesuite', 'photoshop', 'illustrator', and 'figma' is a major gap since these are core tools for digital design and production work. To improve, focus on learning Adobe Creative Suite (especially Photoshop and Illustrator) and Figma through online courses or projects, and consider adding food safety certification if targeting food-industry painting jobs.",
+  "coach_notes": "To build a strong arts-media career, focus on developing graphic design, Adobe Creative Suite, and typography, as these are core to the field. Start by taking free online tutorials on platforms like YouTube or Coursera for Photoshop and Illustrator, then practice by creating personal projects or volunteering for small design tasks. Your bilingual ability and extracurricular experience are valuable assets—combine them with these new skills to stand out in creative roles.",
   "jobs": [
     {
       "title": "Painter",
-      "company": "d545e981-f27b-45c6-824e-cadacc1dabb3",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4143702",
       "fit": 0,
       "label": "",
@@ -84,7 +73,7 @@
     },
     {
       "title": "Production Artist - Specialty",
-      "company": "6cc98349-88a0-4405-8336-cb340e1c9978",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4196209",
       "fit": 0,
       "label": "",

@@ -1,4 +1,5 @@
 {
+  "resume": "=== Khadim Ka - Resume.pdf ===\nKhadim Ka\n\nBronx, New York 10459\n📞 929-503-7998 | ✉️ kak392@oneonta.edu\n\nProfessional Summary\n\nReliable and detail-oriented Security Professional with hands-on experience in luxury retail environments\n\nand customer-facing roles. Strong background in loss prevention, access control, and customer service.\n\nTrilingual (English, French, Wolof) with an active NYS security license and a proven ability to maintain safety\n\nwhile delivering a positive customer experience.\n\nCertifications & Skills\n\n• \n\nActive NYS Security License (8‑Hour & 16‑Hour Certifications)\n\n• \n\nLoss Prevention & Store Security Procedures\n\n• \n\nAccess Control & Bag Checks\n\n• \n• \n\nCustomer Service & Conflict Awareness\nTrilingual: English, French, Wolof\n\n• \n\nBasic Computer Skills (Windows, Microsoft Word)\n\n• \n\nProfessional Communication & Reporting\n\nProfessional Experience\n\nDior — New York, NY\n\nLuxury Store Security | 05/2022 – 04/2024\n\n• \n\nMaintained a visible security presence on the sales floor to deter theft and ensure customer and\n\nemployee safety.\n\n• \n\nMonitored customer traffic entering and exiting the store, identifying suspicious activity.\n\n• \n\nConducted employee bag checks at closing in compliance with store policy.\n\n• \n\nSecured stockroom areas and tracked product movement to reduce shrinkage.\n\n• \n\nGreeted customers professionally while supporting a high-end retail environment.\n\n1\n\n\fBaar Baar Indian Restaurant — New York, NY\n\nWaiter | 09/2021 – 05/2022\n\n• \n\nDelivered high-quality customer service in a fast-paced dining environment.\n\n• \n\nDemonstrated strong menu knowledge to assist guests and personalize service.\n\n• \n\nMaintained table settings, cleared courses, and ensured guest satisfaction.\n\n• \n\nBuilt positive guest relationships to enhance repeat business.\n\nBack of House Associate | 12/2020 – 08/2021\n\n• \n\nMaintained cleanliness and safety standards across assigned workstations.\n\n• \n\nAssisted with setup, cleanup, prep work, and equipment maintenance.\n\n• \n\nSupported front- and back-of-house operations to ensure smooth service flow.\n\n2",
   "function": "protective-service",
   "confidence": 17,
   "skills": [
@@ -51,8 +52,7 @@
     "reporting",
     "compliance",
     "security",
-    "communication",
-    "activity"
+    "communication"
   ],
   "market_relevant": [
     "- resume",
@@ -92,20 +92,20 @@
     "patrol",
     "emergencyresponse",
     "incidentresponse",
-    "reportwriting",
+    "reportwriting"
+  ],
+  "gaps": [
     "incidentreporting",
     "documentation",
     "securityoperations",
     "surveillance",
-    "logkeeping"
-  ],
-  "gaps": [
     "firstaid",
     "riskassessment",
     "cybersecurity",
     "riskmanagement",
     "cpr",
-    "informationsecurity"
+    "informationsecurity",
+    "logkeeping"
   ],
   "related": [
     {
@@ -163,34 +163,34 @@
       "pct": 6
     }
   ],
-  "coach_notes": "For the Asset Protection roles listed, first aid and CPR are critical gaps because these positions often require immediate response to incidents like medical emergencies or injuries in the store. Risk assessment and risk management are also essential for identifying and mitigating theft and safety hazards, which are core responsibilities in these jobs. Prioritize obtaining first aid/CPR certification and learning basic risk assessment techniques to align with job requirements.",
+  "coach_notes": "To build a strong protective-service career, prioritize developing incident reporting, documentation, and security operations, as these are foundational for roles like security officer or loss prevention. Start by taking free online courses in incident reporting and security operations from platforms like Coursera or ALICE Training, and practice writing clear reports in your current role. You already have excellent customer service and access control skills, which are valuable—combine them with these missing skills to become a standout candidate.",
   "jobs": [
     {
       "title": "Asset Protection Coordinator",
       "company": "basspro",
       "url": "https://basspro.wd1.myworkdayjobs.com/job/New-York-Victor-Bass-Pro-Shops/Asset-Protection-Coordinator_R257746",
-      "fit": 85,
+      "fit": 80,
       "label": "ready",
-      "why": "Your skills in security operations, security procedures, compliance, store security, and emergency response align directly with asset protection. Experience in sales floor and back-of-house operations is relevant to retail environment.",
-      "gaps": "No specific gaps identified; ensure you highlight any inventory control or loss prevention experience in your resume."
+      "why": "Strong alignment with security procedures, incident response, and emergency response skills. Customer service and awareness are directly applicable to asset protection coordination.",
+      "gaps": "No specific mention of coordination or supervisory experience; may need to demonstrate ability to manage multiple tasks or lead teams."
     },
     {
       "title": "Asset Protection Specialist (Part Time), Henderson (Sunset) ",
       "company": "greenthumbindustries",
       "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7993873",
-      "fit": 70,
-      "label": "target",
-      "why": "Security presence, security procedures, and compliance skills are directly applicable. Part-time flexibility matches your availability.",
-      "gaps": "May need industry-specific knowledge for cannabis retail regulations; no mention of inventory tracking or CCTV monitoring in your resume."
+      "fit": 85,
+      "label": "ready",
+      "why": "Part-time role matches hands-on experience in security procedures, incident response, and customer service. Skills in access and store policy are directly relevant.",
+      "gaps": "No specific retail or asset protection experience listed; may need to highlight transferable skills from other security roles."
     },
     {
       "title": "Asset Protection Specialist (Part Time)",
       "company": "greenthumbindustries",
       "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7958426",
-      "fit": 70,
-      "label": "target",
-      "why": "Similar to Job 2, your security and compliance skills are strong. Part-time role fits your schedule.",
-      "gaps": "Same as Job 2: potential need for cannabis industry knowledge and specific loss prevention tools."
+      "fit": 85,
+      "label": "ready",
+      "why": "Similar to job 2, part-time asset protection specialist role aligns with security procedures, incident response, and customer service skills. Awareness and emergency response are key.",
+      "gaps": "Lack of direct asset protection experience; emphasize hands-on security and customer interaction skills."
     },
     {
       "title": "Risk Associate - Walnut Street",
@@ -198,8 +198,8 @@
       "url": "https://aritzia.wd3.myworkdayjobs.com/job/Philadelphia-PA-Walnut-Street/Risk-Associate---Walnut-Street_R0010348",
       "fit": 60,
       "label": "target",
-      "why": "Risk associate role leverages your compliance and security procedures background. Communication skills are important for this role.",
-      "gaps": "May require more analytical or risk assessment experience; no direct risk management or data analysis skills listed."
+      "why": "Risk associate role may involve security and incident response, leveraging skills in awareness and emergency response. Customer service is a plus.",
+      "gaps": "No risk management or analytical skills listed; missing experience with risk assessment, data analysis, or financial loss prevention."
     },
     {
       "title": "Detention Deputy Pre-Certified",
@@ -207,8 +207,8 @@
       "url": "https://hcso.wd1.myworkdayjobs.com/job/Training/Detention-Deputy-Pre-Certified_R-314",
       "fit": 40,
       "label": "reach",
-      "why": "Emergency response and security presence are relevant to detention deputy duties. Basic computer skills are a plus.",
-      "gaps": "Major gaps: no law enforcement or corrections training, no mention of physical fitness standards, legal knowledge, or weapon handling. Pre-certification requirement suggests need for specific training not in your resume."
+      "why": "Detention deputy role requires security awareness and incident response, which are present in resume. Customer service may be useful in inmate interactions.",
+      "gaps": "No law enforcement or corrections experience; missing certification, physical fitness requirements, and knowledge of detention procedures. Major gap in pre-certification status."
     }
   ]
 }

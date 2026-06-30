@@ -1,4 +1,5 @@
 {
+  "resume": "=== Emiliano Hernandez Cordero - Resume.pdf ===\nEMILIANO HERNANDEZ CORDERO\nStaten Island, NY | (347) 544-3827 | emilianocordero122007@aol.com\n\nEDUCATION\nJohn Jay College of Criminal Justice – CUNY, New York, NY\nBachelor of Arts in Criminal Justice | Expected Graduation: 2029\n\nEXPERIENCE\nMcDonald’s – 600 W 125th St, New York, NY 10027\nCrew Member | Sept 20, 2025 – Dec 22, 2025\n(cid:127) Provided fast-paced customer service in a high-volume environment.\n(cid:127) Operated point-of-sale systems and handled cash transactions accurately.\n(cid:127) Prepared food according to safety, quality, and cleanliness standards.\n(cid:127) Collaborated with team members to maintain efficiency during peak hours.\n\nWe Can’t Breathe – Harlem & Brooklyn, NY | Founder’s Assistant | May 2024 – Aug 2024\n(cid:127) Researched organizations for donations and scholarships for low-income students.\n(cid:127) Created persuasive emails to engage sponsors and coordinated food distribution efforts.\n\nLa Colmena Staten Island Community Job Center – Staten Island, NY | Founder’s Assistant | Jan 2025\n– Apr 2025\n(cid:127) Provided Spanish-English interpretation and supported event planning.\n(cid:127) Organized documents and managed resource distribution at community events.\n\nEVC New Media Arts – New York, NY | Teacher’s Helper | May 2023 – Aug 2023\n(cid:127) Assisted with classroom activities, small group instruction, and student support.\n\nRosie O’Grady’s – New York, NY | Busboy | Jan 2021 – Sept 2021\n(cid:127) Maintained cleanliness, supported waitstaff, and prepared dining areas for service.\n\nEXTRACURRICULARS\nDream Team: Co-Leader, New York, NY\nAlianza Multicultural Group: Member, New York, NY\nSpeak Hire Communication Program: Participant, New York, NY\n\nSKILLS & LANGUAGES\nMicrosoft Office, Google Suite, Canva\nBilingual: English & Spanish\nCommunication, teamwork, leadership",
   "function": "food-service",
   "confidence": 24,
   "skills": [
@@ -44,7 +45,10 @@
     "safety",
     "leadership",
     "english",
-    "point-of-sale"
+    "point-of-sale",
+    "cleanliness",
+    "teamwork",
+    "communication"
   ],
   "market_relevant": [
     "- resume",
@@ -78,26 +82,30 @@
     "safety",
     "leadership",
     "english",
-    "point-of-sale"
+    "point-of-sale",
+    "cleanliness",
+    "teamwork",
+    "communication"
   ],
   "inferred": [
-    "communication",
-    "teamwork",
-    "foodsafety",
     "foodpreparation",
-    "multitasking",
     "sanitation",
+    "multitasking",
+    "cashhandling"
+  ],
+  "gaps": [
+    "foodsafety",
     "timemanagement",
-    "cashhandling",
     "foodservice",
     "inventorymanagement",
     "documentation",
     "problemsolving",
     "attentiontodetail",
     "organization",
-    "dataentry"
+    "dataentry",
+    "cleaning",
+    "inventory"
   ],
-  "gaps": [],
   "related": [
     {
       "skill": "graphicdesign",
@@ -154,52 +162,52 @@
       "pct": 5
     }
   ],
-  "coach_notes": "",
+  "coach_notes": "To build a strong food-service career, focus on developing food safety and time management first, as they are foundational for most roles. You can gain food safety certification through free online courses like ServSafe, and practice time management by setting daily goals during your shifts. Your bilingual skills and customer service experience are huge assets—pair them with these missing skills to stand out and advance quickly.",
   "jobs": [
     {
       "title": "Vietnamese Interpreter - Louisville, CO",
       "company": "lsaweb",
       "url": "https://jobs.lever.co/lsaweb/d0b4443f-b30d-4673-948d-6d1a6e1ab602",
-      "fit": 70,
+      "fit": 85,
       "label": "ready",
-      "why": "Strong communication skills and bilingual ability (English) align with interpreter role. Experience in service and teamwork supports client interaction.",
-      "gaps": "No specific Vietnamese language proficiency mentioned; need to verify or acquire that skill. Also lacks formal interpretation training or certification."
+      "why": "Strong bilingual skills (English/Spanish) and customer service experience align with interpreter role. Community events and group instruction show communication and cultural competency.",
+      "gaps": "No specific Vietnamese language skills mentioned. If Vietnamese is required, this is a major gap. Also lacks formal interpreter training or certification."
     },
     {
       "title": "Work From Home - Bilingual Client Services Representative",
       "company": "globalelitecareers",
       "url": "https://jobs.lever.co/globalelitecareers/3001d4e8-ce69-4e98-886f-89ccea6a93d5",
-      "fit": 75,
+      "fit": 90,
       "label": "ready",
-      "why": "Bilingual (English) and strong communication, service, and data entry skills directly support client services. Work-from-home experience may be transferable.",
-      "gaps": "No specific bilingual language pair mentioned; need to confirm if Spanish or another language is required. Also lacks call center or CRM software experience."
+      "why": "Bilingual (English/Spanish) and customer service experience directly match. Work from home fits self-motivation; Google Suite and planning skills support remote work.",
+      "gaps": "No specific experience in client services for this industry. May need training on company systems or protocols."
     },
     {
       "title": "Community Resident Participation Specialist-CEN-25",
-      "company": "563a7c7d-3184-41bd-956a-081ff3c25f45",
+      "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2343699",
       "fit": 80,
       "label": "ready",
-      "why": "Experience in community events, event planning, and teamwork aligns with resident participation. Communication and service skills support engagement.",
-      "gaps": "No direct experience in community organizing or resident services; may need to learn specific outreach methods or local community dynamics."
+      "why": "Community events, event planning, and group instruction experience directly support resident participation. Bilingual skills and teamwork are assets for community engagement.",
+      "gaps": "No direct experience in community resident participation or social services. May need to learn specific program requirements or regulations."
     },
     {
       "title": "Director Physical Plant Management (Maintenance Director)",
       "company": "husadayforce",
       "url": "https://jobs.dayforcehcm.com/husadayforce/CANDIDATEPORTAL/jobs/13353",
-      "fit": 15,
+      "fit": 10,
       "label": "reach",
-      "why": "Planning and quality skills could apply to maintenance oversight, but no direct facilities management experience.",
-      "gaps": "Major gaps in physical plant management, maintenance operations, budgeting, and supervisory experience. Requires extensive technical knowledge and leadership."
+      "why": "The role requires leadership and management of physical plant operations, which could leverage your planning and teamwork skills. Your bilingual ability may help in diverse teams.",
+      "gaps": "No experience in facility management, maintenance, or physical plant operations. Lacks technical knowledge of building systems, safety regulations, and supervisory experience."
     },
     {
-      "title": "Stage Manager, Theater Program, Camp Kaleidoscope, Summer Day Camp",
-      "company": "jcc-greater-boston",
-      "url": "https://apply.workable.com/j/444F80EC19",
-      "fit": 55,
+      "title": "Crew Member - Glendale",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4058404",
+      "fit": 70,
       "label": "target",
-      "why": "Event planning and teamwork skills are relevant to stage management. Communication and time management support coordination.",
-      "gaps": "No theater or stage management experience; lacks knowledge of lighting, sound, and production logistics. Summer camp context may require youth supervision skills."
+      "why": "Customer service, cash transactions, teamwork, and cleanliness standards align with crew member duties. Bilingual ability helps with diverse customers.",
+      "gaps": "No food service or fast-food experience. May need training on specific procedures, food safety, and speed of service."
     }
   ]
 }

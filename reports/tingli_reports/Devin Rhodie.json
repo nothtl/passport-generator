@@ -1,4 +1,5 @@
 {
+  "resume": "=== Devin Rhodie - Resume.pdf ===\nDevin Rhodie \n\n516-402-0127  •  dkr1418@rit.edu  •  www.linkedin.com/in/devin-rhodie-858bb5267 \n\nOBJECTIVE \n\nSoftware Engineering student seeking a full-time co-op/internship in software \ndevelopment or systems design for Spring/Summer 2026.   \n\nEDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences \n\nBachelor of  Science, Software Engineering Major  \n·  GPA: 3.0 | Awarded Dean’s List (Spring 2025)| ENGAGE Scholarship (Merit-Based)  \n·  Relevant Coursework: Software Design for computing systems, Web engineering, \nHuman-centered requirements and design, Software process and project management, \nSoftware testing, Intro to software engineering, Engineering of software subsystems, \nCybersecurity, Database systems, Computer systems concepts \n\n           Anticipated  May 2027 \n\nSKILLS \n\nTechnical Skills:  \nProgramming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development \nand Integration, object-oriented design  \nOperating Systems: Windows, Linux(Ubuntu), macOS \n\nPROJECT  Musical Instrument Digital Interface (MIDI) App    \nEXPERIENCE  ·  Created a cross device application handling MIDI protocols for real time music playback.  \n\nJan 2025 - Apr 2025 \n\n·  Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions. \n·  Implemented dual-mode input system supporting both terminal commands and physical \nbuttons \n·  Integrated LED feedback and event-driven state handling for real-time playback control. \nOct 2024 - Nov 2024 \nCOMIX GUI application \n·  Built a GUI-based comic book management app with tools for searching, adding, and editing \ncomics. \n·  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage. \n·  Collaborated in a team to combine different subsystem designs into a functional application. \n\nEXPERIENCE  RIT SCOOP \n\nRemote \nAug 2025- Dec 2025 \n\nSoftware Engineer Intern \n· Contributed to the development and maintenance of SCOOPortal, a web application \nsupporting the RIT SCOOP program for students and faculty. \n· Refactored complex React modal components to improve usability, state handling, and error \nmanagement across multiple user roles. \n· Led UI debranding efforts, updating styles, labels, and more for new platform requirements. \n· Implemented and enhanced confirmation modals to prevent accidental data loss and improve \nuser feedback during form submission workflows. \nUpperLine Code \nSoftware Engineer Intern \n·  Created a web application using HTML and JavaScript to display local recycling centers.  \n·  Collaborated with a partner, focusing on frontend development. \n·  Designed a user-friendly interface and integrated location based search functionality. \n·  Presented the project to a cohort of peers, explaining the development process and features. \n\nRemote  \n July 2023 - Aug 2023",
   "function": "technology",
   "confidence": 49,
   "skills": [
@@ -49,7 +50,28 @@
     "platform",
     "tools",
     "event-driven",
-    "next"
+    "next",
+    "object-oriented",
+    "requirements",
+    "development",
+    "protocols",
+    "storage",
+    "web",
+    "workflows",
+    "cybersecurity",
+    "systems",
+    "data",
+    "macos",
+    "editing",
+    "design",
+    "maintenance",
+    "xml",
+    "database",
+    "software",
+    "spring",
+    "api",
+    "integration",
+    "json"
   ],
   "market_relevant": [
     "api development",
@@ -90,17 +112,37 @@
     "platform",
     "tools",
     "event-driven",
-    "next"
+    "next",
+    "object-oriented",
+    "requirements",
+    "development",
+    "protocols",
+    "storage",
+    "web",
+    "workflows",
+    "cybersecurity",
+    "systems",
+    "data",
+    "macos",
+    "editing",
+    "design",
+    "maintenance",
+    "xml",
+    "database",
+    "software",
+    "spring",
+    "api",
+    "integration",
+    "json"
   ],
   "inferred": [
-    "python",
-    "sql",
-    "javascript",
     "linux",
     "git",
-    "debugging"
+    "sql",
+    "javascript"
   ],
   "gaps": [
+    "python",
     "documentation",
     "testing",
     "troubleshooting",
@@ -109,40 +151,41 @@
     "java",
     "typescript",
     "react",
-    "c++"
+    "c++",
+    "debugging"
   ],
   "related": [
     {
-      "skill": "ownership",
-      "pmi": 4.44
+      "skill": "mdm",
+      "pmi": 5.16
     },
     {
-      "skill": "concurrency",
-      "pmi": 3.89
+      "skill": "mhe",
+      "pmi": 4.85
     },
     {
-      "skill": "multithreading",
-      "pmi": 3.75
+      "skill": "networkdesign",
+      "pmi": 4.79
     },
     {
-      "skill": "scheduling",
-      "pmi": 3.6
+      "skill": "struts2",
+      "pmi": 4.72
     },
     {
-      "skill": "responsivedesign",
-      "pmi": 3.37
+      "skill": "electronicsystems",
+      "pmi": 4.72
     },
     {
-      "skill": "bugfixing",
-      "pmi": 3.31
+      "skill": "msword",
+      "pmi": 4.71
     },
     {
-      "skill": "pytest",
-      "pmi": 3.24
+      "skill": "mechanicalsystems",
+      "pmi": 4.65
     },
     {
-      "skill": "riskmanagement",
-      "pmi": 3.09
+      "skill": "plc",
+      "pmi": 4.64
     }
   ],
   "alternatives": [
@@ -167,52 +210,52 @@
       "pct": 3
     }
   ],
-  "coach_notes": "For the Binance Accelerator Program - Backend Engineer (KYC Technology) role, Java and C++ are critical gaps since the job likely requires backend systems development in these languages. For the Applications Software Engineer and Software Engineer Intern (Fullstack) positions, missing React and TypeScript is a major weakness because these are essential for modern fullstack development. Additionally, lacking testing and documentation skills will hinder your ability to produce reliable, maintainable code expected across all three roles.",
+  "coach_notes": "To build a strong technology career, focus on learning Python and React first, as they are widely used in modern development and data roles. Start with free online tutorials like Codecademy or freeCodeCamp for Python, and build small projects like a to-do app to practice React. Also, improve communication and documentation by contributing to open-source projects or writing technical blog posts, which will make you a more well-rounded candidate.",
   "jobs": [
-    {
-      "title": "Software Engineer Intern (Fullstack)",
-      "company": "n1",
-      "url": "https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064",
-      "fit": 80,
-      "label": "ready",
-      "why": "Your frontend development, HTML/CSS, and Python skills match fullstack intern roles. User feedback and project experience are relevant.",
-      "gaps": "May need more experience with fullstack frameworks (e.g., React, Node.js) and backend integration beyond basic skills."
-    },
-    {
-      "title": "New Grad Software Engineer (Full Stack)",
-      "company": "n1",
-      "url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a",
-      "fit": 75,
-      "label": "ready",
-      "why": "Your fullstack skills (frontend, Python, HTML/CSS) and project experience align with new grad requirements. User feedback shows product sense.",
-      "gaps": "Limited professional experience; may need to demonstrate ability to work in a fast-paced environment and handle production code."
-    },
     {
       "title": "Binance Accelerator Program - Backend Engineer (KYC Technology)",
       "company": "binance",
       "url": "https://jobs.lever.co/binance/7490b42d-ed2e-41f2-ab9c-8dd9268c2163",
-      "fit": 40,
-      "label": "reach",
-      "why": "Your Python and debugging skills are relevant for backend work, and you have experience with operating systems and Linux.",
-      "gaps": "No explicit backend engineering experience, especially in KYC or high-scale systems; missing skills like Java, SQL, or distributed systems."
-    },
-    {
-      "title": "Applications Software Engineer",
-      "company": "sunlight",
-      "url": "https://apply.workable.com/j/B915C550E7",
-      "fit": 60,
-      "label": "target",
-      "why": "Your Python, debugging, and object-oriented design skills align with software engineering. Ubuntu/Linux experience is a plus.",
-      "gaps": "Lack of professional software engineering experience; may need more depth in application development and specific tools used by Sunlight."
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
     },
     {
       "title": "Software Developer",
       "company": "freedomconsulting",
       "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/4740049007",
-      "fit": 50,
-      "label": "target",
-      "why": "Your Python, debugging, and Linux skills are applicable to software development. Project experience shows you can build software.",
-      "gaps": "No specific consulting or client-facing experience; may need stronger skills in full software development lifecycle and team collaboration."
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Web Developer / Software Engineering Intern",
+      "company": "Cahoot",
+      "url": "https://jobs.smartrecruiters.com/Cahoot/744000106160845",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Intern - Systems Engineering - Must Be Bilingual in English and Japanese/Korean",
+      "company": "extremenetworks",
+      "url": "https://jobs.lever.co/extremenetworks/ebbd4bf7-15a0-43f6-b54c-bf087d9d14ab",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
+    },
+    {
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "company": "palantir",
+      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e",
+      "fit": 0,
+      "label": "",
+      "why": "",
+      "gaps": ""
     }
   ]
 }

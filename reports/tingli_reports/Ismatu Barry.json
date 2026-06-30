@@ -1,4 +1,5 @@
 {
+  "resume": "=== Ismatu Barry - Resume.pdf ===\nIsmatu Barry \n(929) 535-2493 |  Ismatu.barry@jjay.cuny.edu \n LinkedIn: https://www.linkedin.com \n\nEducation \nJohn Jay College of Criminal Justice, CUNY  \nBachelor of Arts in Political Science, Minor in Public Administration  \nGPA: 3.862 | Dean’s List \n\nExpected Graduation May 2027 \n\nExperience \n\nP.S./I.S.224 \nParaprofessional  \n\n          Nov 2025 – Present \n\n●  Support teachers with classroom instruction and lesson preparation. \n●  Provide one-on-one and small group assistance to students to enhance learning \n\noutcomes. \n\n●  Maintain a safe, structured, and inclusive classroom environment. \n●  Assist with administrative duties such as attendance tracking and material \n\norganization. \n\n●  Monitor student behavior and reinforce school policies and expectations. \n\nInternational Community High School \nAdministrative Assistant & School Aide  \n\n       Sep 2024 –  Oct 2025 \n\n●  Managed staff schedules, coordinated meetings, and maintained organized records. \n●  Prepared reports, correspondence, and materials for school programs and events. \n●  Provided clerical support to administrators and faculty to ensure smooth daily \n\noperations. \n\n●  Supervised students during lunch periods and hallway transitions to ensure safety. \n●  Acted as a point of contact for students, staff, and visitors, delivering professional \n\nsupport. \n\nAccurate Communications   \nTranslator & Interpreter \n\nJul 2023 – Present \n\n●  Translated legal, immigration, and official documents between English, French, and \n\nFulani. \n\n●  Interpreted conversations between attorneys and clients to ensure accurate \n\ncommunication. \n\n●  Maintained strict confidentiality when handling sensitive legal information. \n●  Facilitated communication in confidential legal and administrative contexts. \n\nAllied,| Shelter \nSecurity Guard \n\n                                          Oct 2022 – 2025 \n\n●  Monitored building access and verified identification to maintain security protocols. \n●  Conducted regular patrols to ensure safety of residents and staff. \n●  Responded to incidents and emergencies following established procedures. \n●  Documented daily activities and security reports accurately. \n\n \n \n \n \n \n \n \n \n \n \n \n \n          \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\fLanguages:  \n\n●  Fulani (Native) \n●  French (Native) \n●  English (Fluent) \n\nSkills   \n\n●  Public Speaking & Presentations \n●  Multilingual Communication \n●  Time Management & Organization \n●  Teamwork & Communication \n●  Attention to Detail \n●  Microsoft Office Suite (Word, Excel, PowerPoint)",
   "function": "education",
   "confidence": 35,
   "skills": [
@@ -56,7 +57,23 @@
     "administration",
     "administrative",
     "assistance",
-    "clerical"
+    "clerical",
+    "science",
+    "communications",
+    "powerpoint",
+    "word",
+    "excel",
+    "one-on-one",
+    "attendance",
+    "paraprofessional",
+    "english",
+    "instruction",
+    "confidentiality",
+    "education",
+    "safety",
+    "organization",
+    "teamwork",
+    "communication"
   ],
   "market_relevant": [
     "administrative duties",
@@ -96,26 +113,42 @@
     "administration",
     "administrative",
     "assistance",
-    "clerical"
+    "clerical",
+    "science",
+    "communications",
+    "powerpoint",
+    "word",
+    "excel",
+    "one-on-one",
+    "attendance",
+    "paraprofessional",
+    "english",
+    "instruction",
+    "confidentiality",
+    "education",
+    "safety",
+    "organization",
+    "teamwork",
+    "communication"
   ],
   "inferred": [
-    "communication",
     "classroommanagement",
     "lessonplanning",
-    "organization",
-    "documentation"
+    "behaviormanagement",
+    "classmanagement"
   ],
   "gaps": [
     "childdevelopment",
     "childcare",
-    "teamwork",
     "customerservice",
     "earlychildhoodeducation",
     "coaching",
     "firstaid",
     "teamcollaboration",
     "parentcommunication",
-    "datacollection"
+    "documentation",
+    "datacollection",
+    "activityplanning"
   ],
   "related": [
     {
@@ -123,32 +156,32 @@
       "pmi": 5.93
     },
     {
+      "skill": "socialstudies",
+      "pmi": 5.93
+    },
+    {
+      "skill": "microsoftoffice365",
+      "pmi": 5.36
+    },
+    {
       "skill": "onetoonesupport",
       "pmi": 5.24
+    },
+    {
+      "skill": "stem",
+      "pmi": 5.24
+    },
+    {
+      "skill": "outlook",
+      "pmi": 5.19
     },
     {
       "skill": "coteaching",
       "pmi": 4.65
     },
     {
-      "skill": "headstartstandards",
-      "pmi": 4.14
-    },
-    {
-      "skill": "programleadership",
-      "pmi": 4.08
-    },
-    {
-      "skill": "relationshipbuilding",
-      "pmi": 3.97
-    },
-    {
-      "skill": "behaviordocumentation",
-      "pmi": 3.92
-    },
-    {
-      "skill": "regulatorycompliance",
-      "pmi": 3.91
+      "skill": "evidencebased",
+      "pmi": 4.63
     }
   ],
   "alternatives": [
@@ -173,52 +206,52 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For the Youth Success Specialist Intern role, the gaps in child development, early childhood education, and parent communication are critical, as this job likely involves working directly with children and families. For the Christian Camping Ministry Internship, missing coaching, first aid, and teamwork skills are significant, as these are essential for leading activities and ensuring safety in a camp setting. The FWS Student Assistant - Parsons Graduate Admission position may not require these gaps, but administrative duties and attention to detail are already covered.",
+  "coach_notes": "To build a strong education career, focus on developing early childhood education and child development skills, as these are foundational for understanding student needs. You can start by taking free online courses from platforms like Coursera or edX, and volunteering at local schools or daycare centers to gain hands-on experience. Your existing attention to detail and administrative skills will serve you well as you expand into these new areas—keep up the great momentum!",
   "jobs": [
-    {
-      "title": "Lab Tutor, Communications",
-      "company": "palmbeachstate",
-      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Lab-Tutor--Communications_R0013812-1",
-      "fit": 80,
-      "label": "ready",
-      "why": "Your communication, public speaking, and native English skills are directly applicable to tutoring communications. Your clerical support and administrative duties help with lab organization.",
-      "gaps": "No formal tutoring experience or specific knowledge of communications curriculum. May need to brush up on communication theories and lab protocols."
-    },
     {
       "title": "Youth Success Specialist Intern",
       "company": "theirc",
       "url": "https://theirc.wd1.myworkdayjobs.com/job/Baltimore-MD-USA/Youth-Success-Specialist-Intern_JR00003024",
-      "fit": 65,
-      "label": "target",
-      "why": "Your communication, public speaking, and clerical support skills align with supporting youth success. Your administrative duties and operations experience are relevant for internship coordination.",
-      "gaps": "No direct youth development or counseling experience. May need to learn specific youth engagement strategies and program management tools."
+      "fit": 85,
+      "label": "ready",
+      "why": "Your skills in class management, support teachers, and behavior management align directly with supporting youth success. Experience with programs and events and daily operations is relevant.",
+      "gaps": "No specific gaps identified; ensure you highlight your ability to work with youth and support educational activities."
     },
     {
-      "title": "FWS Student Assistant - Parsons Graduate Admission",
-      "company": "newschool",
-      "url": "https://newschool.wd1.myworkdayjobs.com/job/H---72-Fifth-Avenue/FWS-Student-Assistant---Parsons-Graduate-Admission_JR108945",
+      "title": "Youth Development Professional (Houston Temple Corps)",
+      "company": "tsa",
+      "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/146148",
+      "fit": 90,
+      "label": "ready",
+      "why": "Your experience with class management, behavior management, support teachers, programs and events, and daily operations directly aligns with youth development. Security protocols and access are relevant for facility management.",
+      "gaps": "No significant gaps; ensure you can demonstrate passion for youth development and community work."
+    },
+    {
+      "title": "Youth Development Professional (Houston Pasadena Corps)",
+      "company": "tsa",
+      "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/146168",
+      "fit": 90,
+      "label": "ready",
+      "why": "Similar to Job 4, your skills in class management, behavior management, support teachers, programs and events, and daily operations are a strong match. Security and access skills are applicable.",
+      "gaps": "No major gaps; confirm location preference and ability to work in Pasadena area."
+    },
+    {
+      "title": "Intern, Emerging Scholars",
+      "company": "palmbeachstate",
+      "url": "https://palmbeachstate.wd1.myworkdayjobs.com/job/Lake-Worth-Campus/Intern--Emerging-Scholars_R0013796-1",
       "fit": 70,
       "label": "target",
-      "why": "Your administrative duties, clerical support, and operations skills are directly applicable to graduate admission support. Your English fluency and communication skills are strong assets.",
-      "gaps": "No experience in higher education admissions or with graduate-level processes. May need to learn specific software (e.g., Slate) and understand FWS regulations."
+      "why": "Your organizational skills, support teachers, and programs and events experience are relevant for an emerging scholars program. Security protocols and access may be useful.",
+      "gaps": "May need more academic or research-oriented experience; consider highlighting any tutoring or mentoring roles."
     },
     {
-      "title": "Christian Camping Ministry Internship-BD",
-      "company": "69a6b19a-2f6b-4b10-b7b0-11fc3f91274f",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/614274",
-      "fit": 50,
+      "title": "Associate Trainer - Insurance Sales",
+      "company": "ace",
+      "url": "https://ace.wd5.myworkdayjobs.com/job/Costa-Mesa-CA/Associate-Trainer---Insurance-Sales_JR202636136-1",
+      "fit": 30,
       "label": "reach",
-      "why": "Your public speaking, communication, and activities skills could support camp programming. Your administrative duties and clerical support are useful for logistics.",
-      "gaps": "No experience in Christian camping ministry, religious education, or outdoor leadership. Significant gaps in theological knowledge and camp-specific program design."
-    },
-    {
-      "title": "Learning Center Coordinator ",
-      "company": "thinkacademyus",
-      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7778505003",
-      "fit": 60,
-      "label": "target",
-      "why": "Your administrative duties, clerical support, and operations skills are relevant for coordinating a learning center. Your communication and public speaking skills support student interaction.",
-      "gaps": "No experience in academic coordination or tutoring center management. May need to learn educational software and student scheduling systems."
+      "why": "Your skills in organization, word, and native English could support training delivery, but insurance sales requires specific sales and insurance knowledge.",
+      "gaps": "Lack of sales experience, insurance industry knowledge, and training delivery skills. Major gap in sales and insurance domain."
     }
   ]
 }

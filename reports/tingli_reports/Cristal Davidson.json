@@ -1,4 +1,5 @@
 {
+  "resume": "=== Cristal Davidson - Resume.pdf ===\n          Cristal C. Davidson \n\nNewark, NJ | (973) 289-2752 | cristal,davidson88@gmail,com  \n\nEDUCATION \n\nFranklin & Marshall College, Lancaster, PA.                                                               (Graduated 2025)  \nHistory and American Studies Joint-Major & Africana Studies Minor \n\n  American History High School, Newark, NJ \n  Graduated Salutatorian                                                                                                   (Graduated 2021) \n\nRELEVANT  EXPERIENCE \n\n  Historic Preservation Trust of Lancaster County           (Lancaster, PA. September 2024 – May 2025)  \n  Archives Intern \n\n●  Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to \n\nimprove accessibility.  \n\n●  Cataloged physical archival materials to improve organization and cleanliness in the office. \n●  Developed social media content to promote the Trust’s initiatives.  \n\n  Mi Gente Latina Club                                              (Lancaster, PA. September 2024 – December 2024) \n  Director of Social Engagement  \n\n●  Coordinated with more than ten on-campus clubs and community organizations to execute social \n\nevents. \n\n●  Served as the primary point of contact for club members and community partners.  \n\n  Mi Gente Latina Club                                                             (Lancaster, PA. January 2024 – May 2024) \n  Senior Advisor  \n\n●  Liaised with senior club members, alumni, and the executive board to improve communication and \n\ncoordination within the club. \n\n●  Organized and executed events that improved senior engagement and club participation. \n●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with \n\nalumni. \n\n  Franklin and Marshall College                                                              (Lancaster, PA. November 2023)        \n  Department of History Student Search Committee \n\n●  Participated in the hiring process by asking questions and engaging with candidates to assess \n\ntheir fit for the department. \n\n●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching \n\nabilities, effectiveness, and presentation skills in a classroom setting.  \n\n  SKILLS \n\n▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
   "function": "administrative",
   "confidence": 22,
   "skills": [
@@ -35,7 +36,10 @@
     "events",
     "presentation",
     "collaboration",
-    "distribution"
+    "distribution",
+    "management",
+    "hiring",
+    "purchasing"
   ],
   "market_relevant": [
     "conflict resolution",
@@ -65,7 +69,10 @@
     "events",
     "presentation",
     "collaboration",
-    "distribution"
+    "distribution",
+    "management",
+    "hiring",
+    "purchasing"
   ],
   "inferred": [
     "communication",
@@ -112,12 +119,12 @@
       "pmi": 6.2
     },
     {
-      "skill": "marketresearch",
-      "pmi": 6.17
+      "skill": "staffmotivation",
+      "pmi": 6.2
     },
     {
-      "skill": "logmanagement",
-      "pmi": 6.12
+      "skill": "marketresearch",
+      "pmi": 6.17
     }
   ],
   "alternatives": [
@@ -142,52 +149,52 @@
       "pct": 6
     }
   ],
-  "coach_notes": "For the Business Executive Assistant and Administrative Assistant roles, 'multitasking' and 'timemanagement' are critical gaps, as these jobs require juggling multiple tasks and deadlines. For the Quality Control Specialist position, 'dataentry' and 'inventorymanagement' are essential for tracking quality metrics and supplies. Prioritize developing multitasking and data entry skills to align with these specific job demands.",
+  "coach_notes": "To strengthen your administrative career, focus on developing customer service and time management skills, as these are essential for handling inquiries and prioritizing tasks efficiently. You can build customer service by volunteering for front-desk roles or taking online courses, while time management improves through tools like calendars and to-do lists. Your existing project management and conflict resolution abilities are a strong foundation—keep leveraging them as you grow!",
   "jobs": [
     {
       "title": "Administrative Assistant",
       "company": "purestorage",
       "url": "https://job-boards.greenhouse.io/purestorage/jobs/7616957",
-      "fit": 75,
+      "fit": 80,
       "label": "ready",
-      "why": "Administrative tasks match your organizational, communication, and Gmail/sheets skills. Classroom setting experience shows ability to manage multiple tasks.",
-      "gaps": "No experience with specific administrative software or corporate office procedures. May need to learn company-specific tools."
+      "why": "Organizational, teamwork, problem-solving, and software skills directly apply. Gmail and PDF proficiency are relevant. High school diploma meets basic requirement.",
+      "gaps": "May need to learn specific office software or procedures. No mention of phone etiquette or scheduling experience."
     },
     {
       "title": "Quality Control Specialist",
       "company": "neo-gg",
       "url": "https://apply.workable.com/j/7AED058641",
-      "fit": 20,
+      "fit": 15,
       "label": "reach",
-      "why": "Your organizational and attention-to-detail skills from project and classroom settings could support quality control tasks.",
-      "gaps": "No experience in quality control processes, technical inspection, or industry-specific standards. Missing relevant technical skills."
-    },
-    {
-      "title": "Business Executive Assistant (Remote, Full Time)",
-      "company": "uptalent-dot-i-o",
-      "url": "https://apply.workable.com/j/370342F1B1",
-      "fit": 70,
-      "label": "target",
-      "why": "Strong communication, organizational, and social engagement skills align with executive support. Experience as a point of contact and with Gmail/sheets is relevant.",
-      "gaps": "No direct executive assistant experience. May need to develop calendar management, travel coordination, and remote work best practices."
+      "why": "The role may involve organizational and problem-solving skills, which are present in the resume.",
+      "gaps": "No direct quality control experience, technical knowledge, or industry-specific skills. Major gap in specialized quality assurance processes and tools."
     },
     {
       "title": "Services Coordinator & Bookkeeping $18-$20 per hour (DOE)",
       "company": "odorzx",
       "url": "https://apply.workable.com/j/144B6BCADE",
-      "fit": 65,
+      "fit": 40,
       "label": "target",
-      "why": "Organizational and communication skills are key for coordination. Social engagement and teamwork show ability to work with clients and teams.",
-      "gaps": "No bookkeeping experience or knowledge of accounting software. Need to develop financial record-keeping skills."
+      "why": "Organizational, teamwork, and problem-solving skills are relevant. Gmail and software familiarity may support bookkeeping tasks.",
+      "gaps": "No bookkeeping experience or financial skills. Need training in accounting software and financial record-keeping."
+    },
+    {
+      "title": "Business Executive Assistant (Remote, Full Time)",
+      "company": "uptalent-dot-i-o",
+      "url": "https://apply.workable.com/j/370342F1B1",
+      "fit": 60,
+      "label": "target",
+      "why": "Strong organizational, presentation, and team collaboration skills align with executive support. Social media and content skills may assist with communications.",
+      "gaps": "No direct executive assistant experience. Need to develop calendar management, travel coordination, and high-level administrative skills."
     },
     {
       "title": "Operations Associate",
       "company": "erickson",
       "url": "https://erickson.wd108.myworkdayjobs.com/job/Springfield-VA/Operations-Associate_R0098936",
-      "fit": 70,
+      "fit": 50,
       "label": "target",
-      "why": "Project management, organizational skills, and teamwork are relevant. Experience with sheets and social media shows data handling and digital literacy.",
-      "gaps": "No direct operations experience. May need to learn supply chain, logistics, or operational processes specific to the company."
+      "why": "Organizational, teamwork, and problem-solving skills are relevant. Social media and content experience may support operations tasks.",
+      "gaps": "No direct operations experience. Need to develop data analysis, process optimization, and supply chain knowledge."
     }
   ]
 }

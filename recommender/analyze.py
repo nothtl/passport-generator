@@ -120,8 +120,22 @@ def analyze(resume_text: str, top_k: int = 10):
             f"These skills appear most frequently in real job postings for this field."
         )
 
+    # Compute skill weights (TF-IDF) for display
+    import re as _re3, math as _math
+    from collections import Counter as _Counter
+    _norm_wt = lambda s: _re3.sub(r'[- ,/]', '', s.lower())
+    _tf_counts = _Counter(_norm_wt(s) for s in skills)
+    skill_weights = {}
+    try:
+        idf = _compute_idf(func)
+        for s in skills:
+            n = _norm_wt(s)
+            tf = 1 + _math.log(_tf_counts.get(n, 1))
+            skill_weights[s] = round(tf * idf.get(n, 1.0), 1)
+    except Exception:
+        pass
+
     # Simplify for output: keep only human-relevant fields
-    import re as _re3
     def _clean_company(name):
         """Filter out UUID-looking company names."""
         if not name: return ""
@@ -154,6 +168,7 @@ def analyze(resume_text: str, top_k: int = 10):
         "function": result["function"],
         "confidence": result["match_pct"],
         "skills": result.get("skills_extracted", []),
+        "skill_weights": {s: w for s, w in sorted(skill_weights.items(), key=lambda x: -x[1])[:15]},
         "market_relevant": result.get("market_skills", []),
         "inferred": result.get("inferred_skills", []),
         "gaps": result.get("missing_skills", []),
@@ -198,8 +213,15 @@ def main():
     print("=" * 60)
     all_skills = result.get('skills', [])
     market = result.get('market_relevant', [])
+    weights = result.get('skill_weights', {})
     print(f"  Total: {len(all_skills)} ({len(market)} appear in real job postings)")
-    if all_skills:
+    if weights:
+        print(f"  Top by TF-IDF weight:")
+        top_weighted = sorted(weights.items(), key=lambda x: -x[1])[:10]
+        for s, w in top_weighted:
+            bar = '#' * int(w/2) + '.' * (10 - int(w/2))
+            print(f"    [{bar}] {s:<30s} (×{w:.1f})")
+    else:
         cols = 3
         for i in range(0, min(len(all_skills), 24), cols):
             row = all_skills[i:i+cols]

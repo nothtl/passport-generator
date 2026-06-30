@@ -1,59 +1,74 @@
 {
-  "resume": "=== Khadim Ka - Resume.pdf ===\nKhadim Ka\n\nBronx, New York 10459\n📞 929-503-7998 | ✉️ kak392@oneonta.edu\n\nProfessional Summary\n\nReliable and detail-oriented Security Professional with hands-on experience in luxury retail environments\n\nand customer-facing roles. Strong background in loss prevention, access control, and customer service.\n\nTrilingual (English, French, Wolof) with an active NYS security license and a proven ability to maintain safety\n\nwhile delivering a positive customer experience.\n\nCertifications & Skills\n\n• \n\nActive NYS Security License (8‑Hour & 16‑Hour Certifications)\n\n• \n\nLoss Prevention & Store Security Procedures\n\n• \n\nAccess Control & Bag Checks\n\n• \n• \n\nCustomer Service & Conflict Awareness\nTrilingual: English, French, Wolof\n\n• \n\nBasic Computer Skills (Windows, Microsoft Word)\n\n• \n\nProfessional Communication & Reporting\n\nProfessional Experience\n\nDior — New York, NY\n\nLuxury Store Security | 05/2022 – 04/2024\n\n• \n\nMaintained a visible security presence on the sales floor to deter theft and ensure customer and\n\nemployee safety.\n\n• \n\nMonitored customer traffic entering and exiting the store, identifying suspicious activity.\n\n• \n\nConducted employee bag checks at closing in compliance with store policy.\n\n• \n\nSecured stockroom areas and tracked product movement to reduce shrinkage.\n\n• \n\nGreeted customers professionally while supporting a high-end retail environment.\n\n1\n\n\fBaar Baar Indian Restaurant — New York, NY\n\nWaiter | 09/2021 – 05/2022\n\n• \n\nDelivered high-quality customer service in a fast-paced dining environment.\n\n• \n\nDemonstrated strong menu knowledge to assist guests and personalize service.\n\n• \n\nMaintained table settings, cleared courses, and ensured guest satisfaction.\n\n• \n\nBuilt positive guest relationships to enhance repeat business.\n\nBack of House Associate | 12/2020 – 08/2021\n\n• \n\nMaintained cleanliness and safety standards across assigned workstations.\n\n• \n\nAssisted with setup, cleanup, prep work, and equipment maintenance.\n\n• \n\nSupported front- and back-of-house operations to ensure smooth service flow.\n\n2",
+  "resume": "=== Khadim Ka - Resume.pdf ===\nKhadim Ka\n\nBronx, New York 10459\n📞 929-503-7998 | ✉️ kak392@oneonta.edu\n\nProfessional Summary\n\nReliable and detail-oriented Security Professional with hands-on experience in luxury retail environments\n\nand customer-facing roles. Strong background in loss prevention, access control, and customer service.\n\nTrilingual (English, French, Wolof) with an active NYS security license and a proven ability to maintain safety\n\nwhile delivering a positive customer experience.\n\nCertifications & Skills\n\n• \n\nActive NYS Security License (8‑Hour & 16‑Hour Certifications)\n\n• \n\nLoss Prevention & Store Security Procedures\n\n• \n\nAccess Control & Bag Checks\n\n• \n• \n\nCustomer Service & Conflict Awareness\nTrilingual: English, French, Wolof\n\n• \n\nBasic Computer Skills (Windows, Microsoft Word)\n\n• \n\nProfessional Communication & Reporting\n\nProfessional Experience\n\nDior — New York, NY\n\nLuxury Store Security | 05/2022 – 04/2024\n\n• \n\nMaintained a visible security presence on the sales floor to deter theft and ensure customer and\n\nemployee safety.\n\n• \n\nMonitored customer traffic entering and exiting the store, identifying suspicious activity.\n\n• \n\nConducted employee bag checks at closing in compliance with store policy.\n\n• \n\nSecured stockroom areas and tracked product movement to reduce shrinkage.\n\n• \n\nGreeted customers professionally while supporting a high-end retail environment.\n\n1\n\n\fBaar Baar Indian Restaurant — New York, NY\n\nWaiter | 09/2021 – 05/2022\n\n• \n\nDelivered high-quality customer service in a fast-paced dining environment.\n\n• \n\nDemonstrated strong menu knowledge to assist guests and personalize service.\n\n• \n\nMaintained table settings, cleared courses, and ensured guest satisfaction.\n\n• \n\nBuilt positive guest relationships to enhance repeat business.\n\nBack of House Associate | 12/2020 – 08/2021\n\n• \n\nMaintained cleanliness and safety standards across assigned workstations.\n\n• \n\nAssisted with setup, cleanup, prep work, and equipment maintenance.\n\n• \n\nSupported",
   "function": "protective-service",
   "confidence": 17,
   "skills": [
     "- resume",
-    "access control",
-    "back of house",
-    "back-of-house operations",
-    "basic computer",
-    "basic computer skills",
-    "cleanliness and safety",
-    "computer skills",
-    "customer experience",
-    "customer service",
-    "equipment maintenance",
-    "guest satisfaction",
-    "hands-on experience",
-    "high-end retail",
-    "loss prevention",
-    "luxury retail",
-    "menu knowledge",
     "microsoft word",
-    "positive customer experience",
     "prep work",
-    "professional communication",
-    "professional experience",
-    "retail environment",
-    "safety standards",
-    "sales floor",
     "security presence",
-    "security procedures",
-    "setup cleanup",
-    "store policy",
     "store security",
-    "table settings",
     "access",
     "awareness",
     "control",
-    "front-",
     "hands-on",
     "microsoft",
     "procedures",
     "retail",
     "roles",
     "word",
+    "computer skills",
+    "equipment maintenance",
     "customer-facing",
+    "basic computer skills",
+    "customer experience",
     "certifications",
     "english",
+    "security procedures",
     "safety",
     "windows",
+    "loss prevention",
     "reporting",
     "compliance",
     "security",
-    "communication"
+    "access control",
+    "communication",
+    "customer service",
+    "back of house",
+    "basic computer",
+    "cleanliness and safety",
+    "guest satisfaction",
+    "hands-on experience",
+    "high-end retail",
+    "luxury retail",
+    "menu knowledge",
+    "positive customer experience",
+    "professional communication",
+    "professional experience",
+    "retail environment",
+    "safety standards",
+    "sales floor",
+    "setup cleanup",
+    "store policy",
+    "table settings"
   ],
+  "skill_weights": {
+    "- resume": 6.2,
+    "microsoft word": 6.2,
+    "prep work": 6.2,
+    "security presence": 6.2,
+    "store security": 6.2,
+    "access": 6.2,
+    "awareness": 6.2,
+    "control": 6.2,
+    "hands-on": 6.2,
+    "microsoft": 6.2,
+    "procedures": 6.2,
+    "retail": 6.2,
+    "roles": 6.2,
+    "word": 6.2,
+    "computer skills": 5.5
+  },
   "market_relevant": [
     "- resume",
     "access control",
@@ -71,7 +86,6 @@
     "access",
     "awareness",
     "control",
-    "front-",
     "hands-on",
     "microsoft",
     "procedures",
@@ -89,14 +103,15 @@
     "communication"
   ],
   "inferred": [
+    "reportwriting",
+    "documentation",
+    "logkeeping",
+    "incidentreporting"
+  ],
+  "gaps": [
     "patrol",
     "emergencyresponse",
     "incidentresponse",
-    "reportwriting"
-  ],
-  "gaps": [
-    "incidentreporting",
-    "documentation",
     "securityoperations",
     "surveillance",
     "firstaid",
@@ -104,8 +119,7 @@
     "cybersecurity",
     "riskmanagement",
     "cpr",
-    "informationsecurity",
-    "logkeeping"
+    "informationsecurity"
   ],
   "related": [
     {
@@ -163,34 +177,34 @@
       "pct": 6
     }
   ],
-  "coach_notes": "To build a strong protective-service career, prioritize developing incident reporting, documentation, and security operations, as these are foundational for roles like security officer or loss prevention. Start by taking free online courses in incident reporting and security operations from platforms like Coursera or ALICE Training, and practice writing clear reports in your current role. You already have excellent customer service and access control skills, which are valuable—combine them with these missing skills to become a standout candidate.",
+  "coach_notes": "To build a strong protective-service career, focus on developing patrol, emergency response, and incident response skills, as these are core to most security roles. Start by taking a basic first aid and CPR course, then seek on-the-job training or volunteer for patrol duties to gain practical experience. Your existing customer service and computer skills are a great foundation—leverage them to communicate effectively and document incidents, which will make you a standout candidate.",
   "jobs": [
     {
       "title": "Asset Protection Coordinator",
       "company": "basspro",
       "url": "https://basspro.wd1.myworkdayjobs.com/job/New-York-Victor-Bass-Pro-Shops/Asset-Protection-Coordinator_R257746",
-      "fit": 80,
+      "fit": 85,
       "label": "ready",
-      "why": "Strong alignment with security procedures, incident response, and emergency response skills. Customer service and awareness are directly applicable to asset protection coordination.",
-      "gaps": "No specific mention of coordination or supervisory experience; may need to demonstrate ability to manage multiple tasks or lead teams."
+      "why": "Your resume skills in security presence, compliance, reporting, and documentation align directly with asset protection coordination. Experience with store policy and basic computer skills further support this role.",
+      "gaps": "No specific mention of inventory auditing or incident investigation experience; may need to highlight any related tasks."
     },
     {
       "title": "Asset Protection Specialist (Part Time), Henderson (Sunset) ",
       "company": "greenthumbindustries",
       "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7993873",
-      "fit": 85,
+      "fit": 80,
       "label": "ready",
-      "why": "Part-time role matches hands-on experience in security procedures, incident response, and customer service. Skills in access and store policy are directly relevant.",
-      "gaps": "No specific retail or asset protection experience listed; may need to highlight transferable skills from other security roles."
+      "why": "Part-time role matches your security presence and compliance skills. Experience with back of house and store policy is relevant for asset protection in a retail setting.",
+      "gaps": "Lack of specific asset protection or loss prevention experience; may need to emphasize transferable skills from security roles."
     },
     {
       "title": "Asset Protection Specialist (Part Time)",
       "company": "greenthumbindustries",
       "url": "https://job-boards.greenhouse.io/greenthumbindustries/jobs/7958426",
-      "fit": 85,
+      "fit": 75,
       "label": "ready",
-      "why": "Similar to job 2, part-time asset protection specialist role aligns with security procedures, incident response, and customer service skills. Awareness and emergency response are key.",
-      "gaps": "Lack of direct asset protection experience; emphasize hands-on security and customer interaction skills."
+      "why": "Similar to Job 2, your security presence, compliance, and documentation skills are applicable. Basic computer and Microsoft skills support reporting tasks.",
+      "gaps": "No direct asset protection experience; gaps in knowledge of surveillance systems or theft prevention techniques."
     },
     {
       "title": "Risk Associate - Walnut Street",
@@ -198,8 +212,8 @@
       "url": "https://aritzia.wd3.myworkdayjobs.com/job/Philadelphia-PA-Walnut-Street/Risk-Associate---Walnut-Street_R0010348",
       "fit": 60,
       "label": "target",
-      "why": "Risk associate role may involve security and incident response, leveraging skills in awareness and emergency response. Customer service is a plus.",
-      "gaps": "No risk management or analytical skills listed; missing experience with risk assessment, data analysis, or financial loss prevention."
+      "why": "Risk associate role leverages your compliance, reporting, and documentation skills. Experience with procedures and safety is relevant.",
+      "gaps": "Requires deeper risk assessment and analytical skills; no experience with risk management frameworks or data analysis tools."
     },
     {
       "title": "Detention Deputy Pre-Certified",
@@ -207,8 +221,8 @@
       "url": "https://hcso.wd1.myworkdayjobs.com/job/Training/Detention-Deputy-Pre-Certified_R-314",
       "fit": 40,
       "label": "reach",
-      "why": "Detention deputy role requires security awareness and incident response, which are present in resume. Customer service may be useful in inmate interactions.",
-      "gaps": "No law enforcement or corrections experience; missing certification, physical fitness requirements, and knowledge of detention procedures. Major gap in pre-certification status."
+      "why": "Detention deputy role may value your security presence, compliance, and safety skills. Basic computer and documentation skills are transferable.",
+      "gaps": "Major gaps in law enforcement training, physical fitness standards, and specific detention procedures. Pre-certification requirement indicates need for formal training."
     }
   ]
 }

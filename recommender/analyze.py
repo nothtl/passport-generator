@@ -167,7 +167,7 @@ def analyze(resume_text: str, top_k: int = 10):
         "resume": resume_text.strip(),
         "function": result["function"],
         "confidence": result["match_pct"],
-        "skills": result.get("skills_extracted", []),
+        "skills": [s for s, _ in sorted(skill_weights.items(), key=lambda x: -x[1])],
         "skill_weights": {s: w for s, w in sorted(skill_weights.items(), key=lambda x: -x[1])[:15]},
         "market_relevant": result.get("market_skills", []),
         "inferred": result.get("inferred_skills", []),

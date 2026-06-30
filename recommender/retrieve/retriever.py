@@ -237,6 +237,13 @@ def retrieve_jds(
     idf = _compute_idf(func_lower)
     student_set = set(_norm(s) for s in student_skills)
 
+    # Build TF weights from the skill list: if a skill like "security" appears
+    # multiple times in the extracted skills (from different n-grams), weight it higher.
+    # Single-occurrence skills get TF=1.0 baseline.
+    from collections import Counter as _Counter
+    _tf_counts = _Counter(_norm(s) for s in student_skills)
+    student_tf = {n: 1 + math.log(c) for n, c in _tf_counts.items()}
+
     # Expand via ESCO synonyms (data-driven, 85K alt-labels)
     try:
         _here = os.path.dirname(__file__)
@@ -248,10 +255,11 @@ def retrieve_jds(
                 continue
             if any(_norm(a) in student_set for a in aliases):
                 student_set.add(_norm(canonical))
+                student_tf[_norm(canonical)] = 1.5  # inferred synonyms get slight boost
     except Exception:
         pass
 
-    # IDF-weighted scoring: sum of IDF for matched skills
+    # TF-IDF weighted scoring: TF(skill) × IDF(corpus)
     def _score_jd(row_skills):
         if row_skills is None:
             return 0
@@ -260,7 +268,8 @@ def retrieve_jds(
             if isinstance(s, str):
                 normed = _norm(s)
                 if normed in student_set:
-                    total += idf.get(normed, 1.0)
+                    tf = student_tf.get(normed, 1.0)
+                    total += tf * idf.get(normed, 1.0)
         return total
 
     scores = df["skills"].apply(_score_jd)

@@ -1,0 +1,37 @@
+{
+  "accepted": true,
+  "chosen_function": "education",
+  "chosen_subdomain": "classroom-support",
+  "confidence": 0.6,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Motivated and goal-oriented college graduate with an Associate Degree in Business to secure a position as a translator where I can utilize my linguistic, organizational skills, attention to detail, and experience in administrative tasks to contribute effectively to the smooth operation of the organization."
+    },
+    {
+      "section": "experience",
+      "text": "Intern \u2014 Tomorrow's Business Leaders \u00b7 Internship\nJun 2023 \u2013 Present \u00b7 3 yrs 1 mo \u00b7 New York, United States \u00b7 Remote"
+    }
+  ],
+  "goal_domains": [
+    "education"
+  ],
+  "goal_roles": [
+    "translator"
+  ],
+  "goal_subdomains": [
+    "classroom-support"
+  ],
+  "reason_codes": [
+    "explicit goal in summary",
+    "thin resume with broad entry-level pool"
+  ],
+  "review_reasons": [],
+  "secondary_function": "arts-media",
+  "study_domains": [
+    "education"
+  ],
+  "study_subdomains": [
+    "classroom-support"
+  ]
+}

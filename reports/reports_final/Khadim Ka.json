@@ -1,0 +1,1930 @@
+{
+  "name": "Khadim Ka",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": null,
+  "source_files": [
+    "Khadim Ka - Resume.pdf"
+  ],
+  "skills": [
+    "Public Safety and Security",
+    "Customer and Personal Service",
+    "Monitoring",
+    "Operations Monitoring",
+    "Quality Control Analysis",
+    "English Language",
+    "Foreign Language",
+    "Computers and Electronics",
+    "Writing",
+    "Speaking",
+    "Judgment and Decision Making",
+    "Service Orientation",
+    "Time Management",
+    "Coordination",
+    "Equipment Maintenance",
+    "Production and Processing",
+    "Administration and Management",
+    "Sales and Marketing",
+    "Communications and Media",
+    "Critical Thinking",
+    "Social Perceptiveness",
+    "Management of Material Resources",
+    "Operation and Control",
+    "Operations Analysis",
+    "Persuasion",
+    "Systems Analysis"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Security Professional, loss prevention, access control, active NYS security license, maintain safety, Maintained a visible security presence, deter theft, ensure customer and employee safety, identifying suspicious activity, Conducted employee bag checks, Secured stockroom areas, safety standards",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "customer-facing roles, customer service, delivering a positive customer experience, Customer Service & Conflict Awareness, Greeted customers professionally, Delivered high-quality customer service, assist guests and personalize service, ensured guest satisfaction, Built positive guest relationships",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Monitored customer traffic, identifying suspicious activity, tracked product movement, Maintained cleanliness and safety standards",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "Loss Prevention & Store Security Procedures, Access Control & Bag Checks, Monitored customer traffic, tracked product movement, Maintained table settings, Maintained cleanliness and safety standards",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "detail-oriented, Loss Prevention & Store Security Procedures, Conducted employee bag checks at closing in compliance with store policy, tracked product movement to reduce shrinkage, Maintained cleanliness and safety standards",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Trilingual (English, French, Wolof)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Trilingual (English, French, Wolof), French, Wolof",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Basic Computer Skills (Windows, Microsoft Word)",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Professional Communication & Reporting",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Professional Communication & Reporting, Greeted customers professionally, assist guests and personalize service",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "identifying suspicious activity, deter theft",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "delivering a positive customer experience, Customer Service & Conflict Awareness, Greeted customers professionally, Delivered high-quality customer service, assist guests and personalize service, ensured guest satisfaction, Built positive guest relationships",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "fast-paced dining environment",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Maintained table settings, cleared courses, Assisted with setup, cleanup, prep work, Supported front- and back-of-house operations to ensure smooth service flow",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Equipment Maintenance",
+      "evidence": "Assisted with setup, cleanup, prep work, and equipment maintenance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "Assisted with setup, cleanup, prep work",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Supported front- and back-of-house operations to ensure smooth service flow",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "luxury retail environments, supporting a high-end retail environment, Built positive guest relationships to enhance repeat business",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Professional Communication & Reporting",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "identifying suspicious activity",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Conflict Awareness",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "tracked product movement to reduce shrinkage",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Access Control & Bag Checks, Secured stockroom areas",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "identifying suspicious activity, Supported front- and back-of-house operations to ensure smooth service flow",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Built positive guest relationships to enhance repeat business",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "Supported front- and back-of-house operations to ensure smooth service flow",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 84.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "39-3091.00",
+      "title": "Amusement and Recreation Attendants",
+      "zone": 2,
+      "pct": 84.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Monitoring",
+        "Coordination",
+        "Critical Thinking",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 83.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "39-9011.01",
+      "title": "Nannies",
+      "zone": 2,
+      "pct": 81.0,
+      "matched_skills": [
+        "Monitoring",
+        "Social Perceptiveness",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Persuasion",
+        "Customer and Personal Service",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 79.1,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "53-7061.00",
+      "title": "Cleaners of Vehicles and Equipment",
+      "zone": 2,
+      "pct": 77.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Operation and Control",
+        "Quality Control Analysis",
+        "Administration and Management",
+        "Operations Monitoring",
+        "Public Safety and Security",
+        "Production and Processing",
+        "Monitoring",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "51-9192.00",
+      "title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+      "zone": 2,
+      "pct": 77.6,
+      "matched_skills": [
+        "Production and Processing",
+        "Operation and Control",
+        "Operations Monitoring",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "Public Safety and Security",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "51-4052.00",
+      "title": "Pourers and Casters, Metal",
+      "zone": 2,
+      "pct": 77.5,
+      "matched_skills": [
+        "Operation and Control",
+        "Operations Monitoring",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Quality Control Analysis",
+        "Time Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "51-4021.00",
+      "title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "zone": 2,
+      "pct": 77.0,
+      "matched_skills": [
+        "Production and Processing",
+        "Operations Monitoring",
+        "English Language",
+        "Operation and Control",
+        "Critical Thinking",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Quality Control Analysis",
+        "Speaking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "35-3031.00",
+      "title": "Waiters and Waitresses",
+      "zone": 2,
+      "pct": 76.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Sales and Marketing",
+        "Coordination",
+        "Monitoring",
+        "Critical Thinking",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "39-3031.00",
+      "title": "Ushers, Lobby Attendants, and Ticket Takers",
+      "zone": 2,
+      "pct": 76.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Public Safety and Security",
+        "Communications and Media",
+        "Coordination",
+        "Sales and Marketing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "35-2012.00",
+      "title": "Cooks, Institution and Cafeteria",
+      "zone": 2,
+      "pct": 75.9,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Service Orientation",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "51-6061.00",
+      "title": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+      "zone": 2,
+      "pct": 75.7,
+      "matched_skills": [
+        "Operations Monitoring",
+        "Operation and Control",
+        "Production and Processing",
+        "Monitoring",
+        "Time Management",
+        "Critical Thinking",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Quality Control Analysis",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 75.5,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Administration and Management",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-9011.00",
+      "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "zone": 2,
+      "pct": 75.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Sales and Marketing",
+        "Coordination",
+        "Service Orientation",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 75.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "43-5053.00",
+      "title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+      "zone": 2,
+      "pct": 75.1,
+      "matched_skills": [
+        "Monitoring",
+        "English Language",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Time Management",
+        "Operation and Control",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "47-3014.00",
+      "title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+      "zone": 2,
+      "pct": 74.3,
+      "matched_skills": [
+        "English Language",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Time Management",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Social Perceptiveness",
+        "Equipment Maintenance"
+      ]
+    },
+    {
+      "soc": "43-9071.00",
+      "title": "Office Machine Operators, Except Computer",
+      "zone": 2,
+      "pct": 74.1,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Production and Processing",
+        "Operation and Control",
+        "Operations Monitoring",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "43-5052.00",
+      "title": "Postal Service Mail Carriers",
+      "zone": 2,
+      "pct": 74.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Public Safety and Security",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Speaking",
+        "Social Perceptiveness",
+        "Time Management",
+        "Administration and Management",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 73.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "English Language",
+        "Monitoring",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "39-5093.00",
+      "title": "Shampooers",
+      "zone": 2,
+      "pct": 73.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Sales and Marketing",
+        "Service Orientation",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "41-1012.00",
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "zone": 4,
+      "pct": 72.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "Administration and Management",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Time Management",
+        "English Language",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "53-6011.00",
+      "title": "Bridge and Lock Tenders",
+      "zone": 2,
+      "pct": 71.9,
+      "matched_skills": [
+        "Public Safety and Security",
+        "English Language",
+        "Monitoring",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Operation and Control",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "37-3011.00",
+      "title": "Landscaping and Groundskeeping Workers",
+      "zone": 2,
+      "pct": 71.4,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Operation and Control",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Operations Monitoring",
+        "Public Safety and Security",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "53-5022.00",
+      "title": "Motorboat Operators",
+      "zone": 2,
+      "pct": 71.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Operation and Control",
+        "Public Safety and Security",
+        "Operations Monitoring",
+        "Monitoring",
+        "Speaking",
+        "Equipment Maintenance",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "27-3031.00",
+      "title": "Public Relations Specialists",
+      "zone": 4,
+      "pct": 71.1,
+      "matched_skills": [
+        "Communications and Media",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-1026.00",
+      "title": "Merchandise Displayers and Window Trimmers",
+      "zone": 3,
+      "pct": 71.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "English Language",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "27-1023.00",
+      "title": "Floral Designers",
+      "zone": 2,
+      "pct": 70.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Production and Processing",
+        "Sales and Marketing",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Time Management",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "53-6061.00",
+      "title": "Passenger Attendants",
+      "zone": 2,
+      "pct": 70.4,
+      "matched_skills": [
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "English Language",
+        "Monitoring",
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Coordination",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "35-3023.01",
+      "title": "Baristas",
+      "zone": 2,
+      "pct": 70.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Sales and Marketing",
+        "Monitoring",
+        "Coordination",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "47-2131.00",
+      "title": "Insulation Workers, Floor, Ceiling, and Wall",
+      "zone": 2,
+      "pct": 69.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Speaking",
+        "Operation and Control",
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Operations Monitoring",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "41-9041.00",
+      "title": "Telemarketers",
+      "zone": 2,
+      "pct": 69.6,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Speaking",
+        "Persuasion",
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "31-1131.00",
+      "title": "Nursing Assistants",
+      "zone": 3,
+      "pct": 69.5,
+      "matched_skills": [
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "English Language",
+        "Monitoring",
+        "Public Safety and Security",
+        "Critical Thinking",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "11-2011.00",
+      "title": "Advertising and Promotions Managers",
+      "zone": 4,
+      "pct": 69.4,
+      "matched_skills": [
+        "Sales and Marketing",
+        "English Language",
+        "Communications and Media",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 68.9,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "11-9179.02",
+      "title": "Spa Managers",
+      "zone": 3,
+      "pct": 68.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Critical Thinking",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 68.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 67.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "11-3013.00",
+      "title": "Facilities Managers",
+      "zone": 3,
+      "pct": 67.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "13-1199.06",
+      "title": "Online Merchants",
+      "zone": 4,
+      "pct": 67.4,
+      "matched_skills": [
+        "English Language",
+        "Sales and Marketing",
+        "Customer and Personal Service",
+        "Communications and Media",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "27-2021.00",
+      "title": "Athletes and Sports Competitors",
+      "zone": 2,
+      "pct": 67.3,
+      "matched_skills": [
+        "Speaking",
+        "Critical Thinking",
+        "Administration and Management",
+        "English Language",
+        "Coordination",
+        "Customer and Personal Service",
+        "Communications and Media",
+        "Monitoring",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "13-1121.00",
+      "title": "Meeting, Convention, and Event Planners",
+      "zone": 4,
+      "pct": 67.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 67.3,
+      "matched_skills": [
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Production and Processing",
+        "Monitoring",
+        "Speaking",
+        "Customer and Personal Service",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "11-9131.00",
+      "title": "Postmasters and Mail Superintendents",
+      "zone": 2,
+      "pct": 67.1,
+      "matched_skills": [
+        "Administration and Management",
+        "Public Safety and Security",
+        "English Language",
+        "Production and Processing",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "41-9011.00",
+      "title": "Demonstrators and Product Promoters",
+      "zone": 2,
+      "pct": 66.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Sales and Marketing",
+        "Persuasion",
+        "Service Orientation",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "31-1121.00",
+      "title": "Home Health Aides",
+      "zone": 2,
+      "pct": 66.7,
+      "matched_skills": [
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "13-1111.00",
+      "title": "Management Analysts",
+      "zone": 4,
+      "pct": 66.7,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Judgment and Decision Making",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 66.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Production and Processing",
+        "Critical Thinking",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "13-1041.00",
+      "title": "Compliance Officers",
+      "zone": 4,
+      "pct": 65.5,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Writing",
+        "Judgment and Decision Making",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 65.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Public Safety and Security",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "47-4091.00",
+      "title": "Segmental Pavers",
+      "zone": 2,
+      "pct": 65.3,
+      "matched_skills": [
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Operation and Control",
+        "Social Perceptiveness",
+        "Operations Monitoring",
+        "Persuasion",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "33-9099.02",
+      "title": "Retail Loss Prevention Specialists",
+      "zone": 2,
+      "pct": 65.2,
+      "matched_skills": [
+        "Public Safety and Security",
+        "English Language",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Computers and Electronics",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 64.1,
+      "matched_skills": [
+        "Production and Processing",
+        "Critical Thinking",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Monitoring",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "29-2061.00",
+      "title": "Licensed Practical and Licensed Vocational Nurses",
+      "zone": 3,
+      "pct": 63.5,
+      "matched_skills": [
+        "Service Orientation",
+        "Coordination",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "English Language",
+        "Monitoring",
+        "Speaking",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 63.0,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "29-2055.00",
+      "title": "Surgical Technologists",
+      "zone": 3,
+      "pct": 63.0,
+      "matched_skills": [
+        "Monitoring",
+        "Customer and Personal Service",
+        "English Language",
+        "Operations Monitoring",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "45-2091.00",
+      "title": "Agricultural Equipment Operators",
+      "zone": 2,
+      "pct": 62.3,
+      "matched_skills": [
+        "Operation and Control",
+        "Operations Monitoring",
+        "English Language",
+        "Equipment Maintenance",
+        "Quality Control Analysis",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 62.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Coordination",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "45-2041.00",
+      "title": "Graders and Sorters, Agricultural Products",
+      "zone": 2,
+      "pct": 61.5,
+      "matched_skills": [
+        "Production and Processing",
+        "English Language",
+        "Monitoring",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Foreign Language",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 60.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Public Safety and Security",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "33-3041.00",
+      "title": "Parking Enforcement Workers",
+      "zone": 2,
+      "pct": 59.8,
+      "matched_skills": [
+        "English Language",
+        "Public Safety and Security",
+        "Monitoring",
+        "Speaking",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "49-9031.00",
+      "title": "Home Appliance Repairers",
+      "zone": 2,
+      "pct": 59.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Equipment Maintenance",
+        "Speaking",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "English Language",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "29-2031.00",
+      "title": "Cardiovascular Technologists and Technicians",
+      "zone": 3,
+      "pct": 59.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Operations Monitoring",
+        "Social Perceptiveness",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 59.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "English Language",
+        "Service Orientation",
+        "Critical Thinking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "49-3021.00",
+      "title": "Automotive Body and Related Repairers",
+      "zone": 2,
+      "pct": 59.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Production and Processing",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "29-2081.00",
+      "title": "Opticians, Dispensing",
+      "zone": 3,
+      "pct": 58.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Speaking",
+        "Production and Processing",
+        "English Language",
+        "Critical Thinking",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 58.7,
+      "matched_skills": [
+        "Monitoring",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "19-1032.00",
+      "title": "Foresters",
+      "zone": 4,
+      "pct": 58.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Speaking",
+        "English Language",
+        "Administration and Management",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "15-1299.01",
+      "title": "Web Administrators",
+      "zone": 4,
+      "pct": 55.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Communications and Media",
+        "English Language",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "15-1211.00",
+      "title": "Computer Systems Analysts",
+      "zone": 4,
+      "pct": 55.6,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Speaking",
+        "Critical Thinking",
+        "Systems Analysis",
+        "Customer and Personal Service",
+        "Judgment and Decision Making",
+        "English Language",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "15-1299.05",
+      "title": "Information Security Engineers",
+      "zone": 4,
+      "pct": 54.6,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "English Language",
+        "Speaking",
+        "Quality Control Analysis",
+        "Systems Analysis"
+      ]
+    },
+    {
+      "soc": "25-9042.00",
+      "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "zone": 3,
+      "pct": 54.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Social Perceptiveness",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 53.4,
+      "matched_skills": [
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 53.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "25-3031.00",
+      "title": "Substitute Teachers, Short-Term",
+      "zone": 4,
+      "pct": 52.7,
+      "matched_skills": [
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Monitoring",
+        "Public Safety and Security",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "17-2111.00",
+      "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "zone": 4,
+      "pct": 51.8,
+      "matched_skills": [
+        "English Language",
+        "Critical Thinking",
+        "Writing",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "21-1021.00",
+      "title": "Child, Family, and School Social Workers",
+      "zone": 4,
+      "pct": 51.8,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "17-2112.02",
+      "title": "Validation Engineers",
+      "zone": 4,
+      "pct": 51.7,
+      "matched_skills": [
+        "Production and Processing",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Monitoring",
+        "English Language",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "21-1092.00",
+      "title": "Probation Officers and Correctional Treatment Specialists",
+      "zone": 4,
+      "pct": 51.7,
+      "matched_skills": [
+        "Public Safety and Security",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "19-1023.00",
+      "title": "Zoologists and Wildlife Biologists",
+      "zone": 4,
+      "pct": 50.5,
+      "matched_skills": [
+        "Critical Thinking",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Writing",
+        "English Language",
+        "Coordination",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "17-3024.00",
+      "title": "Electro-Mechanical and Mechatronics Technologists and Technicians",
+      "zone": 3,
+      "pct": 50.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Operations Monitoring",
+        "Monitoring",
+        "Critical Thinking",
+        "Quality Control Analysis",
+        "Operation and Control",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-4012.01",
+      "title": "Precision Agriculture Technicians",
+      "zone": 3,
+      "pct": 48.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Speaking",
+        "Sales and Marketing",
+        "Writing",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 47.2,
+      "matched_skills": [
+        "Critical Thinking",
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 47.0,
+      "matched_skills": [
+        "English Language",
+        "Writing",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "17-3021.00",
+      "title": "Aerospace Engineering and Operations Technologists and Technicians",
+      "zone": 3,
+      "pct": 44.7,
+      "matched_skills": [
+        "Critical Thinking",
+        "Production and Processing",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Customer and Personal Service",
+        "Speaking"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 5,
+      "title": "Front Desk Monitor ",
+      "company": "Volunteers of America–Greater New York (VOA-GNY)",
+      "url": "https://jobs.dayforcehcm.com/voagny/CANDIDATEPORTAL/jobs/21925",
+      "match_score": 80,
+      "embed_sim": 0.5017739534378052,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "The candidate has relevant skills and experience in security and customer service that align well with the responsibilities of the Front Desk Monitor position, making them a solid fit. However, some specific requirements, such as experience in crisis intervention and working in a dedicated front desk role, are not explicitly stated in the resume.",
+        "strengths": [
+          "Hands-on experience in security roles, particularly in a luxury retail environment",
+          "Active NYS Security License, demonstrating compliance with security standards",
+          "Trilingual communication skills, enhancing customer interaction",
+          "Experience in customer service, which is crucial for a front desk position"
+        ],
+        "gaps": [
+          "No explicit experience handling crisis intervention situations",
+          "Lack of direct front desk experience and operating busy security operations",
+          "No mention of tasks like routing mail or managing deliveries"
+        ]
+      },
+      "blended_score": 74
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 14,
+      "title": "PT Doorperson-Jackson Park",
+      "company": "Greentree Apartments (Weatherholt Hills / Fairmont Monticello listings under Greentree Properties)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4145076",
+      "match_score": 85,
+      "embed_sim": 0.4880048930644989,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Khadim's resume demonstrates a strong fit for the Doorperson position, particularly in security and customer service roles. Although there are some minor gaps in specific requirements, overall, his background aligns well with the job responsibilities.",
+        "strengths": [
+          "Hands-on experience in a luxury retail security environment",
+          "Active NYS security license, demonstrating compliance with industry regulations",
+          "Strong background in loss prevention and monitoring traffic, relevant to the role's responsibilities",
+          "Experience in customer service settings, showcasing strong interpersonal skills and professionalism",
+          "Trilingual ability, which is a preferred skill for the role"
+        ],
+        "gaps": [
+          "No direct experience with residential apartment building security",
+          "Lacks specific mention of familiarity with Fair Housing and ADA guidelines",
+          "Does not detail experience with incident document reporting or emergency contact procedures"
+        ]
+      },
+      "blended_score": 68
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 23,
+      "title": "Front Desk Monitor - Legacy",
+      "company": "Volunteers of America–Greater New York (VOA-GNY)",
+      "url": "https://jobs.dayforcehcm.com/voagny/CANDIDATEPORTAL/jobs/21509",
+      "match_score": 75,
+      "embed_sim": 0.49454885721206665,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant experience in security and customer service but lacks specific certifications needed for the job.",
+        "strengths": [
+          "Hands-on experience in security roles",
+          "Trilingual, enhancing communication with diverse residents",
+          "Active NYS security license demonstrates competency in security practices",
+          "Past experience in handling access control and monitoring safety in a retail environment"
+        ],
+        "gaps": [
+          "Does not possess Fire Guard (F-02) certification required upon hire",
+          "No direct experience in a front desk or administrative role relevant to resident services",
+          "Lacks documented experience in crisis intervention as outlined in job responsibilities"
+        ]
+      },
+      "blended_score": 67
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 25,
+      "title": "Concierge",
+      "company": "Bainbridge",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3450529",
+      "match_score": 80,
+      "embed_sim": 0.4851265847682953,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 4,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "Khadim has relevant security experience in a luxury retail environment, strong customer service skills, and trilingual capabilities, which align well with the concierge role's focus on providing superior service in a diverse setting.",
+        "strengths": [
+          "Experience in a luxury retail environment with customer service focus",
+          "Proficient in maintaining safety and security while interacting with customers",
+          "Trilingual abilities enhance communication with a diverse clientele",
+          "Active NYS security license relevant to access control duties"
+        ],
+        "gaps": [
+          "No direct experience in property management or hospitality",
+          "Limited evidence of advanced problem-solving skills in a hospitality context",
+          "Lacks experience with administrative tasks specific to property management",
+          "No indication of working with software systems relevant to property management"
+        ]
+      },
+      "blended_score": 64
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 9,
+      "title": "Front Desk Monitor/Client Care Specialist",
+      "company": "Volunteers of America–Greater New York (VOA-GNY)",
+      "url": "https://jobs.dayforcehcm.com/voagny/CANDIDATEPORTAL/jobs/21822",
+      "match_score": 75,
+      "embed_sim": 0.4799763858318329,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate demonstrates relevant experience in security and customer service, which aligns well with the responsibilities of the Front Desk Monitor/Client Care Specialist role. However, there are some gaps in specific certifications and experience related to domestic violence services.",
+        "strengths": [
+          "Experience as a Luxury Store Security personnel, demonstrating security and loss prevention skills.",
+          "Trilingual skills enhance communication with diverse clientele.",
+          "A solid background in customer service roles and maintaining safety in a public-facing environment."
+        ],
+        "gaps": [
+          "Lacks required Fire Guard (F-02) certification and other certifications like CPR/First Aid or Narcan.",
+          "No direct experience or training in domestic violence services or crisis intervention in the context mentioned in the job description."
+        ]
+      },
+      "blended_score": 58
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 12,
+      "title": "Concierge",
+      "company": "Adamas Building Services",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3963604",
+      "match_score": 85,
+      "embed_sim": 0.47279125452041626,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 5,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Khadim Ka has significant experience in luxury environments and customer service which aligns well with the concierge role. He has strong qualifications in security and customer engagement, and his trilingual abilities enhance his profile for interacting with diverse residents and guests.",
+        "strengths": [
+          "Experience in luxury retail as Security personnel, demonstrating customer service skills in a high-end environment.",
+          "Strong communication skills evidenced by customer-facing roles and professional greeting practices.",
+          "Possession of an active NYS Security License showing compliance and professionalism in service roles.",
+          "Experience with loss prevention and safety, which aligns with inspecting buildings and ensuring cleanliness.",
+          "Trilingual, enhancing ability to communicate with a diverse resident base."
+        ],
+        "gaps": [
+          "No direct experience in a concierge role, which may require specific knowledge of neighborhood services and front desk operations.",
+          "Lacks explicit mention of experience with package handling and deliveries, which is a specific duty listed for the job.",
+          "Limited detail on computer skills; though basic skills are mentioned, there is no evidence of proficiency with tracking systems or the required software (Excel).",
+          "No information on his ability to lift packages between 10-25 lbs, which is a requirement for the job."
+        ]
+      },
+      "blended_score": 58
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 7,
+      "title": "Bistro Waitstaff - Seasonal",
+      "company": "Roberts Resorts & Communities",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4229076",
+      "match_score": 85,
+      "embed_sim": 0.44803494215011597,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Khadim's resume demonstrates a strong background in customer service and a relevant experience in a fast-paced environment, making him a solid fit for the Bistro Waitstaff position. His experience in the restaurant industry as well as his customer service skills align well with the job requirements, although specific experience with cash handling and alcohol service is not evidenced.",
+        "strengths": [
+          "Extensive customer service experience in high-pressure environments",
+          "Prior role as a waiter demonstrates relevant restaurant experience",
+          "Trilingual skills may enhance communication with diverse customers",
+          "Experience with professional communication and conflict awareness"
+        ],
+        "gaps": [
+          "No direct experience mentioned with cash handling or balancing a register",
+          "No evidence of experience serving alcohol, which is a requirement for the position",
+          "Lacks specific training or certifications related to food service or bartending"
+        ]
+      },
+      "blended_score": 43
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 21,
+      "title": "Concierge Full Time Friday through Monday",
+      "company": "Guardian Security Services",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3911606",
+      "match_score": 75,
+      "embed_sim": 0.4553878605365753,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Khadim's resume presents relevant experience in customer service and security, particularly within luxury retail environments, aligning well with the concierge role's focus on hospitality and service. However, his resume does lack explicit experience in a traditional hospitality setting such as a hotel or dedicated concierge role.",
+        "strengths": [
+          "Experience in luxury retail security which requires excellent customer service skills",
+          "Trilingual ability is beneficial in a diverse community",
+          "Strong background in maintaining safety and observing suspicious activities",
+          "Professional experience in engaging with customers effectively"
+        ],
+        "gaps": [
+          "No direct hospitality or concierge experience in a hotel setting",
+          "Lacks experience with package delivery systems and residential community support",
+          "Limited evidence of strong problem-solving skills directly related to hospitality services",
+          "No specific mention of experience in managing or coordinating resident requests or concierge-style services."
+        ]
+      },
+      "blended_score": 42
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 22,
+      "title": "Concierge Full Time Tuesday through Saturday",
+      "company": "Guardian Security Services",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3911614",
+      "match_score": 70,
+      "embed_sim": 0.4569416642189026,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Khadim's background in luxury retail security and customer service positions him well for the concierge role, though he lacks direct hospitality experience in residential settings which is preferable for this job.",
+        "strengths": [
+          "Experience in luxury retail environments, providing a strong foundation for customer service and professional interaction.",
+          "Active NYS security license indicating compliance with security standards, which could be beneficial in a concierge role.",
+          "Proficient in loss prevention and access control, aligning with the security aspects of concierge responsibilities.",
+          "Trilingual abilities may enhance communication with a diverse clientele."
+        ],
+        "gaps": [
+          "No direct experience in hotel front desk, concierge, or similar high-end hospitality roles, which is preferred for the position.",
+          "Limited information regarding problem-solving skills in high-pressure guest service environments, as required by the job.",
+          "Experience is primarily in security rather than hospitality, which may not translate directly to concierge duties in residential communities."
+        ]
+      },
+      "blended_score": 41
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 6,
+      "title": "Valet Cashier Attendant",
+      "company": "Omni Hotels & Resorts",
+      "url": "https://jobs.dayforcehcm.com/ohmc/CANDIDATEPORTAL/jobs/8026",
+      "match_score": 75,
+      "embed_sim": 0.4499340355396271,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Khadim Ka has relevant experience in customer service and security, which aligns well with the Valet Cashier Attendant role. His background in luxury retail security provides a significant advantage in a high-end hospitality environment.",
+        "strengths": [
+          "Strong customer service skills demonstrated through experience in luxury retail and dining environments",
+          "Experience maintaining a visible security presence and performing tasks related to safety and loss prevention",
+          "Trilingual ability which can enhance communication with diverse clientele",
+          "Experience handling customer interactions professionally, aligning with the role's need for strong communication"
+        ],
+        "gaps": [
+          "No specific experience in processing valet parking transactions or cash handling mentioned",
+          "Lacks direct experience in a hotel or hospitality environment which may be beneficial for seamless integration into the role",
+          "Limited evidence of handling basic administrative tasks such as filing, data entry, and reporting as per job requirements"
+        ]
+      },
+      "blended_score": 39
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

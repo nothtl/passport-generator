@@ -1,0 +1,18 @@
+{
+  "Newsroom Assistant (UNION) - Content|||gannett": {
+    "eligible": true,
+    "reason": "Newsroom assistant role does not involve age-restricted activities."
+  },
+  "Lab Tutor, Communications|||palmbeachstate": {
+    "eligible": true,
+    "reason": "Lab tutor role is suitable for minors/young adults."
+  },
+  "Supplemental Instruction Leader (Hourly)|||austincc": {
+    "eligible": true,
+    "reason": "Supplemental instruction leader role is suitable for minors/young adults."
+  },
+  "Ninja Warrior & Parkour Coach": {
+    "eligible": true,
+    "reason": "Coaching role does not involve age-restricted activities."
+  }
+}

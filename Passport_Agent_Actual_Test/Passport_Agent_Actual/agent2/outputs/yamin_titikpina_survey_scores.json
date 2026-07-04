@@ -1,0 +1,85 @@
+{
+  "student_name": "Yamin Titikpina",
+  "email": "yamin.titikpina@ellisprep.com",
+  "scores": {
+    "EC": {
+      "score": 20.89,
+      "sub_scores": {
+        "Verbal": 18.8889,
+        "Written": 0.0,
+        "Interpersonal": 0.0,
+        "CrossCultural": 2.0
+      },
+      "data_coverage": 0.4
+    },
+    "GC": {
+      "score": 25.0,
+      "sub_scores": {
+        "D1_Empathy": 0.0,
+        "D2_Community": 0.225,
+        "D3_Cultural": 0.7,
+        "D4_Network": 0.0,
+        "D5_Volunteering": 0.65
+      },
+      "data_coverage": 0.17
+    },
+    "RFF": {
+      "score": 37.5,
+      "sub_scores": {
+        "D1_SelfReflection": 0.2467,
+        "D2_GoalSetting": 0.445,
+        "D3_FutureCareer": 0.51,
+        "D4_CollegePrep": 0.3
+      },
+      "data_coverage": 0.47
+    },
+    "CR": {
+      "score": 73.5,
+      "sub_scores": {
+        "C1": 40,
+        "C2": 84.0,
+        "C3": 70,
+        "C4": 100
+      },
+      "data_coverage": 1.0
+    }
+  },
+  "missing_fields": [
+    "Community Feel (Quant)",
+    "Any suggestions to make the Foundational Year a better experience",
+    "Did you learn something about other careers from other Career Cohorts",
+    "What are three skills you have that will help you in your future career",
+    "Listen to others (post)",
+    "Deal with conflicts - conflict management",
+    "Include others who are different - diversity and inclusion",
+    "After meeting Champions, I better understand people who are different from me",
+    "Pre Empathy",
+    "Pre Humble",
+    "Pre Listen",
+    "Pre Include Others Who Are Different",
+    "Pre Deal with Conflicts",
+    "Pre Lead With Authenticity",
+    "Listen to others",
+    "Deal with conflicts with other people conflict management",
+    "Include others who are different from you diversity and inclusion",
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership",
+    "Pre Community Connected",
+    "Culture Feel",
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+    "Meeting with my Champions during school helped me feel like I belong in school",
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network",
+    "I feel more engaged in school and participate more than before",
+    "I made new friends during the Foundational Year",
+    "How many individuals do you know who work in the career you are interested in",
+    "Know How To Pursue Careers",
+    "I feel I am now a stronger candidate for college and careers",
+    "I feel I am now more prepared for college",
+    "FY helped realize doing well connects to my career goals",
+    "The Speaker inspired me to think more about my future career",
+    "The Speaker helped me think about my future career pathway",
+    "The Speaker was a relatable role model",
+    "The topic inspired me to think more about my future career",
+    "The topic helped me think about my future career pathway"
+  ],
+  "llm_calls_made": 7
+}

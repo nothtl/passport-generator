@@ -17,7 +17,28 @@
     "government",
     "guest relations",
     "hospitality",
-    "languages"
+    "languages",
+    "cash handling",
+    "cashier",
+    "community outreach",
+    "coordinate",
+    "customer orders",
+    "dining experience",
+    "coaching",
+    "development",
+    "distribution",
+    "fundraising",
+    "growth",
+    "interviews",
+    "leadership",
+    "mentor",
+    "event operations",
+    "event setup",
+    "food safety",
+    "inventory management",
+    "microsoft office",
+    "organization",
+    "plan"
   ],
   "verified_skills": [
     "ambassador",
@@ -34,33 +55,43 @@
     "government",
     "guest relations",
     "hospitality",
-    "languages"
+    "languages",
+    "cash handling",
+    "cashier",
+    "community outreach",
+    "coordinate",
+    "customer orders",
+    "dining experience",
+    "coaching",
+    "development",
+    "distribution",
+    "fundraising",
+    "growth",
+    "interviews",
+    "leadership",
+    "mentor",
+    "event operations",
+    "event setup",
+    "food safety",
+    "inventory management",
+    "microsoft office",
+    "organization",
+    "plan"
   ],
   "possible_skills": [],
   "rejected_skills": [
     "assignments",
     "assist",
     "beverage",
+    "career readiness",
     "cash",
-    "cash handling",
-    "cashier",
     "cleanliness",
     "cleanup",
     "clients",
-    "coaching",
     "communicate",
-    "community outreach",
-    "coordinate",
-    "customer focused",
-    "customer orders",
     "customers",
-    "development",
-    "dining experience",
     "diploma",
-    "distribution",
     "electronic",
-    "event operations",
-    "event setup",
     "event staff",
     "excellent customer service",
     "exceptional customer service",
@@ -70,11 +101,7 @@
     "fast paced environments",
     "flow",
     "food and beverage",
-    "food safety",
     "food safety standards",
-    "fundraising",
-    "growth",
-    "guest relations",
     "guest services",
     "guidance",
     "healthcare",
@@ -83,26 +110,17 @@
     "high school diploma",
     "host",
     "inquiries",
-    "interviews",
-    "inventory management",
-    "lead",
     "leader",
-    "leadership",
     "leadership development",
     "management",
-    "mentor",
     "microsoft",
-    "microsoft office",
     "ministry",
     "motivated",
     "office",
     "operations",
     "orders",
-    "organization",
-    "organized",
     "outreach",
-    "passionate",
-    "plan"
+    "passionate"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -120,7 +138,28 @@
     "government",
     "guest relations",
     "hospitality",
-    "languages"
+    "languages",
+    "cash handling",
+    "cashier",
+    "community outreach",
+    "coordinate",
+    "customer orders",
+    "dining experience",
+    "coaching",
+    "development",
+    "distribution",
+    "fundraising",
+    "growth",
+    "interviews",
+    "leadership",
+    "mentor",
+    "event operations",
+    "event setup",
+    "food safety",
+    "inventory management",
+    "microsoft office",
+    "organization",
+    "plan"
   ],
   "inferred": [
     "teamwork",
@@ -130,17 +169,17 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Roles like ambassador, event support, and guest relations imply collaboration with teams.",
+      "reason": "Roles like ambassador, event support, and catering imply collaboration with teams.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple responsibilities such as attendance, catering, and event support suggests effective time management.",
+      "reason": "Handling multiple tasks like cash handling, customer service, and event setup suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "problem-solving",
-      "reason": "Customer service and guest relations roles often require resolving issues on the spot.",
+      "reason": "Dealing with customer orders, inquiries, and event operations requires quick problem-solving.",
       "confidence": "medium"
     }
   ],
@@ -149,51 +188,53 @@
     "child-development",
     "class-management",
     "classroom-management",
-    "curriculum-delivery",
     "parent-communication",
     "safety-and-supervision",
-    "sports-instruction",
     "travel-to-sites"
   ],
   "core_gaps": [
     "child-development",
     "class-management",
     "classroom-management",
-    "curriculum-delivery",
     "parent-communication",
     "safety-and-supervision",
-    "sports-instruction",
     "travel-to-sites"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "activity-planning",
     "class-delivery",
-    "coaching",
     "communications",
+    "curriculum-delivery",
     "curriculum-following",
     "first-aid",
-    "leadership",
-    "motivation",
+    "lesson-planning",
     "multi-sport",
-    "positive-reinforcement"
+    "positive-reinforcement",
+    "reporting"
   ],
   "nice_to_have_gaps": [
     "activity-planning",
     "class-delivery",
-    "coaching",
     "communications",
+    "curriculum-delivery",
     "curriculum-following",
     "first-aid",
-    "leadership",
-    "motivation",
+    "lesson-planning",
     "multi-sport",
-    "positive-reinforcement"
+    "positive-reinforcement",
+    "reporting"
   ],
-  "verify_gaps": [
-    "teamwork"
-  ],
+  "verify_gaps": [],
   "related": [
+    {
+      "skill": "academicmonitoring",
+      "pmi": 5.11
+    },
+    {
+      "skill": "recruiting",
+      "pmi": 4.53
+    },
     {
       "skill": "behaviordocumentation",
       "pmi": 3.92
@@ -203,40 +244,40 @@
       "pmi": 3.92
     },
     {
-      "skill": "iceskating",
-      "pmi": 3.51
+      "skill": "kitchenequipment",
+      "pmi": 3.91
     },
     {
-      "skill": "gymnastics",
-      "pmi": 3.23
+      "skill": "crisisprotocols",
+      "pmi": 3.88
     },
     {
-      "skill": "leadership",
-      "pmi": 2.69
+      "skill": "cook",
+      "pmi": 3.82
     },
     {
-      "skill": "groupactivities",
-      "pmi": 2.44
+      "skill": "culinaryskills",
+      "pmi": 3.82
     },
     {
-      "skill": "lifting40pounds",
-      "pmi": 2.2
+      "skill": "stationrotation",
+      "pmi": 3.82
     },
     {
-      "skill": "sales",
-      "pmi": 2.2
-    },
-    {
-      "skill": "cashhandling",
-      "pmi": 2.2
-    },
-    {
-      "skill": "enrollmentprocess",
-      "pmi": 2.2
+      "skill": "stationwork",
+      "pmi": 3.82
     }
   ],
   "related_skills": [
     {
+      "skill": "academicmonitoring",
+      "pmi": 5.11
+    },
+    {
+      "skill": "recruiting",
+      "pmi": 4.53
+    },
+    {
       "skill": "behaviordocumentation",
       "pmi": 3.92
     },
@@ -245,36 +286,28 @@
       "pmi": 3.92
     },
     {
-      "skill": "iceskating",
-      "pmi": 3.51
+      "skill": "kitchenequipment",
+      "pmi": 3.91
     },
     {
-      "skill": "gymnastics",
-      "pmi": 3.23
+      "skill": "crisisprotocols",
+      "pmi": 3.88
     },
     {
-      "skill": "leadership",
-      "pmi": 2.69
+      "skill": "cook",
+      "pmi": 3.82
     },
     {
-      "skill": "groupactivities",
-      "pmi": 2.44
+      "skill": "culinaryskills",
+      "pmi": 3.82
     },
     {
-      "skill": "lifting40pounds",
-      "pmi": 2.2
+      "skill": "stationrotation",
+      "pmi": 3.82
     },
     {
-      "skill": "sales",
-      "pmi": 2.2
-    },
-    {
-      "skill": "cashhandling",
-      "pmi": 2.2
-    },
-    {
-      "skill": "enrollmentprocess",
-      "pmi": 2.2
+      "skill": "stationwork",
+      "pmi": 3.82
     }
   ],
   "alternatives": [
@@ -305,14 +338,14 @@
       "title": " LA Galaxy, Youth Programs Coach - Part-Time",
       "company": "aegworldwide",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
-      "fit": 95,
+      "fit": 68,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
       "gaps": "child-development, class-management, classroom-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.429,
+        "goal_alignment": 0.357,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.36,
@@ -324,17 +357,39 @@
       "eligibility_reason": "Youth coaching role, no age restrictions."
     },
     {
-      "title": "Amazing Athletes Youth Sports Coach",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 83,
+      "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
       "gaps": "child-development, class-management, classroom-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
+        "goal_alignment": 0.357,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.16,
+        "attainability": 0.75,
+        "skill_overlap": 0.143,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth coaching role, no age restrictions."
+    },
+    {
+      "title": "Amazing Athletes Youth Sports Coach",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/F7F8A9F710",
+      "fit": 53,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.357,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.2,
@@ -349,14 +404,14 @@
       "title": "Amazing Athletes Youth Sports Coach",
       "company": "amazing-athletes-2",
       "url": "https://apply.workable.com/j/9FDBB3BB2E",
-      "fit": 73,
+      "fit": 53,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
       "gaps": "child-development, class-management, classroom-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
+        "goal_alignment": 0.357,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.2,
@@ -368,48 +423,26 @@
       "eligibility_reason": "Youth sports coach, suitable for minors."
     },
     {
-      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
+      "title": "Preschool and Early Childhood Youth Sports Coach - WEEKEND ONLY",
       "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 50,
+      "url": "https://apply.workable.com/j/B36C78A38D",
+      "fit": 53,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
       "gaps": "child-development, class-management, classroom-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.429,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.44,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth sports coach, part-time, no age restrictions."
-    },
-    {
-      "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
-      "company": "aegworldwide",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.429,
+        "goal_alignment": 0.286,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.16,
+        "experience_alignment": 0.167,
         "attainability": 0.75,
-        "skill_overlap": 0.143,
+        "skill_overlap": 0.167,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth coaching role, no age restrictions."
+      "eligibility_reason": "Youth sports coach, weekend only, no age restrictions."
     }
   ],
   "ready_now": [
@@ -417,14 +450,14 @@
       "title": " LA Galaxy, Youth Programs Coach - Part-Time",
       "company": "aegworldwide",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
-      "fit": 95,
+      "fit": 68,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
       "gaps": "child-development, class-management, classroom-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.429,
+        "goal_alignment": 0.357,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.36,
@@ -436,85 +469,17 @@
       "eligibility_reason": "Youth coaching role, no age restrictions."
     },
     {
-      "title": "Amazing Athletes Youth Sports Coach",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 83,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
-    }
-  ],
-  "aspirational": [
-    {
-      "title": "Amazing Athletes Youth Sports Coach",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/9FDBB3BB2E",
-      "fit": 73,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
-    },
-    {
-      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.429,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.44,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth sports coach, part-time, no age restrictions."
-    },
-    {
       "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
       "company": "aegworldwide",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
-      "fit": 50,
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
       "gaps": "child-development, class-management, classroom-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.429,
+        "goal_alignment": 0.357,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.16,
@@ -526,17 +491,87 @@
       "eligibility_reason": "Youth coaching role, no age restrictions."
     }
   ],
+  "aspirational": [
+    {
+      "title": "Amazing Athletes Youth Sports Coach",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/F7F8A9F710",
+      "fit": 53,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.357,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.2,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, suitable for minors."
+    },
+    {
+      "title": "Amazing Athletes Youth Sports Coach",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/9FDBB3BB2E",
+      "fit": 53,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.357,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.2,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, suitable for minors."
+    },
+    {
+      "title": "Preschool and Early Childhood Youth Sports Coach - WEEKEND ONLY",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/B36C78A38D",
+      "fit": 53,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.286,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.167,
+        "attainability": 0.75,
+        "skill_overlap": 0.167,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, weekend only, no age restrictions."
+    }
+  ],
   "skill_path": null,
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
-      "social-service"
+      "social-service",
+      "education"
     ],
     "goal_roles": [
       "Youth Ministry Leader"
     ],
     "goal_subdomains": [
-      "youth-support"
+      "youth-support",
+      "community-support"
     ],
     "study_domains": [
       "education"
@@ -613,19 +648,21 @@
       "chosen_subdomain": "youth-support",
       "secondary_function": "education",
       "goal_domains": [
-        "social-service"
+        "social-service",
+        "education"
       ],
       "study_domains": [
         "education"
       ],
       "goal_subdomains": [
-        "youth-support"
+        "youth-support",
+        "community-support"
       ],
       "study_subdomains": [],
       "goal_roles": [
         "Youth Ministry Leader"
       ],
-      "confidence": 0.7,
+      "confidence": 0.65,
       "evidence_spans": [
         {
           "section": "VOLUNTEER EXPERIENCE",
@@ -637,7 +674,9 @@
         }
       ],
       "reason_codes": [
-        "explicit volunteer role with youth mentoring and community outreach"
+        "volunteer leadership in youth ministry",
+        "community outreach focus",
+        "high school diploma only"
       ],
       "review_reasons": []
     },
@@ -658,7 +697,28 @@
         "government",
         "guest relations",
         "hospitality",
-        "languages"
+        "languages",
+        "cash handling",
+        "cashier",
+        "community outreach",
+        "coordinate",
+        "customer orders",
+        "dining experience",
+        "coaching",
+        "development",
+        "distribution",
+        "fundraising",
+        "growth",
+        "interviews",
+        "leadership",
+        "mentor",
+        "event operations",
+        "event setup",
+        "food safety",
+        "inventory management",
+        "microsoft office",
+        "organization",
+        "plan"
       ],
       "verified_skills": [
         "ambassador",
@@ -675,33 +735,43 @@
         "government",
         "guest relations",
         "hospitality",
-        "languages"
+        "languages",
+        "cash handling",
+        "cashier",
+        "community outreach",
+        "coordinate",
+        "customer orders",
+        "dining experience",
+        "coaching",
+        "development",
+        "distribution",
+        "fundraising",
+        "growth",
+        "interviews",
+        "leadership",
+        "mentor",
+        "event operations",
+        "event setup",
+        "food safety",
+        "inventory management",
+        "microsoft office",
+        "organization",
+        "plan"
       ],
       "possible_skills": [],
       "rejected_skills": [
         "assignments",
         "assist",
         "beverage",
+        "career readiness",
         "cash",
-        "cash handling",
-        "cashier",
         "cleanliness",
         "cleanup",
         "clients",
-        "coaching",
         "communicate",
-        "community outreach",
-        "coordinate",
-        "customer focused",
-        "customer orders",
         "customers",
-        "development",
-        "dining experience",
         "diploma",
-        "distribution",
         "electronic",
-        "event operations",
-        "event setup",
         "event staff",
         "excellent customer service",
         "exceptional customer service",
@@ -711,11 +781,7 @@
         "fast paced environments",
         "flow",
         "food and beverage",
-        "food safety",
         "food safety standards",
-        "fundraising",
-        "growth",
-        "guest relations",
         "guest services",
         "guidance",
         "healthcare",
@@ -724,41 +790,32 @@
         "high school diploma",
         "host",
         "inquiries",
-        "interviews",
-        "inventory management",
-        "lead",
         "leader",
-        "leadership",
         "leadership development",
         "management",
-        "mentor",
         "microsoft",
-        "microsoft office",
         "ministry",
         "motivated",
         "office",
         "operations",
         "orders",
-        "organization",
-        "organized",
         "outreach",
-        "passionate",
-        "plan"
+        "passionate"
       ],
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Roles like ambassador, event support, and guest relations imply collaboration with teams.",
+          "reason": "Roles like ambassador, event support, and catering imply collaboration with teams.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple responsibilities such as attendance, catering, and event support suggests effective time management.",
+          "reason": "Handling multiple tasks like cash handling, customer service, and event setup suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "problem-solving",
-          "reason": "Customer service and guest relations roles often require resolving issues on the spot.",
+          "reason": "Dealing with customer orders, inquiries, and event operations requires quick problem-solving.",
           "confidence": "medium"
         }
       ],

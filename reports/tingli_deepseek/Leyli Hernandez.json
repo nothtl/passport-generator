@@ -5,15 +5,15 @@
   "skills": [
     "Coordination",
     "Communications and Media",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
+    "Customer and Personal Service",
     "Active Listening",
-    "Speaking",
-    "Judgment and Decision Making",
+    "Time Management",
+    "Complex Problem Solving",
     "Sales and Marketing",
-    "Administrative",
+    "Speaking",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
     "media management",
@@ -27,15 +27,15 @@
   "verified_skills": [
     "Coordination",
     "Communications and Media",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
+    "Customer and Personal Service",
     "Active Listening",
-    "Speaking",
-    "Judgment and Decision Making",
+    "Time Management",
+    "Complex Problem Solving",
     "Sales and Marketing",
-    "Administrative",
+    "Speaking",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
     "media management",
@@ -54,7 +54,6 @@
     "career paths",
     "community events",
     "ecp",
-    "engagement",
     "engaging",
     "flag football",
     "football",
@@ -64,7 +63,6 @@
     "hours",
     "junior",
     "languages",
-    "leadership skills",
     "learner",
     "media",
     "name",
@@ -91,15 +89,15 @@
   "market_relevant": [
     "Coordination",
     "Communications and Media",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
+    "Customer and Personal Service",
     "Active Listening",
-    "Speaking",
-    "Judgment and Decision Making",
+    "Time Management",
+    "Complex Problem Solving",
     "Sales and Marketing",
-    "Administrative",
+    "Speaking",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
     "media management",
@@ -118,17 +116,17 @@
   "implicit_skills": [
     {
       "skill": "Bilingual (Spanish)",
-      "reason": "Native Spanish mentioned in education context",
+      "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
       "confidence": "medium"
     },
     {
       "skill": "Event Planning",
-      "reason": "Community engagement and volunteering imply event coordination",
+      "reason": "Experience with 'community engagement' and 'community events' suggests event coordination skills.",
       "confidence": "medium"
     },
     {
       "skill": "Athletic Coaching",
-      "reason": "Flag football and sports involvement suggest coaching ability",
+      "reason": "Involvement in 'flag football', 'football', and 'sports' as a 'student athlete' implies coaching or mentoring ability.",
       "confidence": "medium"
     }
   ],
@@ -183,10 +181,6 @@
   "verify_gaps": [],
   "related": [
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
       "skill": "privatelessons",
       "pmi": 3.37
     },
@@ -205,6 +199,10 @@
     {
       "skill": "teamdevelopment",
       "pmi": 2.98
+    },
+    {
+      "skill": "safetyprotocols",
+      "pmi": 2.95
     },
     {
       "skill": "mentorship",
@@ -225,10 +223,6 @@
   ],
   "related_skills": [
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
       "skill": "privatelessons",
       "pmi": 3.37
     },
@@ -247,6 +241,10 @@
     {
       "skill": "teamdevelopment",
       "pmi": 2.98
+    },
+    {
+      "skill": "safetyprotocols",
+      "pmi": 2.95
     },
     {
       "skill": "mentorship",
@@ -293,7 +291,7 @@
       "title": "Amazing Athletes Youth Sports Coach",
       "company": "amazing-athletes-2",
       "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 95,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -310,13 +308,13 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As an Amazing Athletes coach, you'll sharpen your social perceptiveness and active listening while communicating with parents and adapting to different sites—skills directly transferable to social work and youth advocacy, where understanding diverse needs and building trust is key."
+      "bridge": "As a Youth Sports Coach, you'll build transferable skills in parent-communication, positive-reinforcement, and social perceptiveness, which directly apply to advocating for youth and families as a Social Worker or Youth Advocate. Your experience in class-delivery and complex problem-solving also prepares you to organize community programs and address systemic challenges."
     },
     {
       "title": "Amazing Athletes Youth Sports Coach",
       "company": "amazing-athletes-2",
       "url": "https://apply.workable.com/j/9FDBB3BB2E",
-      "fit": 95,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -333,13 +331,13 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a youth sports coach, you're already building transferable skills in communication, social perceptiveness, and judgment—key for social work. Each day you manage groups, adapt to diverse needs, and advocate for kids, directly preparing you to support communities as a youth advocate or community organizer."
+      "bridge": "As a Youth Sports Coach, you'll build transferable skills like child-development knowledge, classroom management, and parent communication—directly preparing you for social work or youth advocacy, where understanding child behavior, facilitating groups, and engaging families are essential."
     },
     {
       "title": " LA Galaxy, Youth Programs Coach - Part-Time",
       "company": "aegworldwide",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
-      "fit": 79,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -361,7 +359,7 @@
       "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
       "company": "aegworldwide",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
-      "fit": 79,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -383,7 +381,7 @@
       "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
       "company": "amazing-athletes-2",
       "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 50,
+      "fit": 51,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -407,7 +405,7 @@
       "title": "Amazing Athletes Youth Sports Coach",
       "company": "amazing-athletes-2",
       "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 95,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -424,13 +422,13 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As an Amazing Athletes coach, you'll sharpen your social perceptiveness and active listening while communicating with parents and adapting to different sites—skills directly transferable to social work and youth advocacy, where understanding diverse needs and building trust is key."
+      "bridge": "As a Youth Sports Coach, you'll build transferable skills in parent-communication, positive-reinforcement, and social perceptiveness, which directly apply to advocating for youth and families as a Social Worker or Youth Advocate. Your experience in class-delivery and complex problem-solving also prepares you to organize community programs and address systemic challenges."
     },
     {
       "title": "Amazing Athletes Youth Sports Coach",
       "company": "amazing-athletes-2",
       "url": "https://apply.workable.com/j/9FDBB3BB2E",
-      "fit": 95,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -447,7 +445,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a youth sports coach, you're already building transferable skills in communication, social perceptiveness, and judgment—key for social work. Each day you manage groups, adapt to diverse needs, and advocate for kids, directly preparing you to support communities as a youth advocate or community organizer."
+      "bridge": "As a Youth Sports Coach, you'll build transferable skills like child-development knowledge, classroom management, and parent communication—directly preparing you for social work or youth advocacy, where understanding child behavior, facilitating groups, and engaging families are essential."
     }
   ],
   "aspirational": [
@@ -455,7 +453,7 @@
       "title": " LA Galaxy, Youth Programs Coach - Part-Time",
       "company": "aegworldwide",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
-      "fit": 79,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -477,7 +475,7 @@
       "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
       "company": "aegworldwide",
       "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
-      "fit": 79,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -499,7 +497,7 @@
       "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
       "company": "amazing-athletes-2",
       "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 50,
+      "fit": 51,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "education",
@@ -518,7 +516,7 @@
       "eligibility_reason": "Youth sports coach, part-time, no age restrictions."
     }
   ],
-  "skill_path": "Start by building foundational skills in child development and communication through online courses or volunteer work with youth programs. Look for entry-level roles like youth program assistant or case aide to gain hands-on experience with curriculum delivery and classroom management. As you grow, seek mentorship from experienced social workers or community organizers to refine your skills and advance toward your dream career.",
+  "skill_path": "Start by building foundational skills in child development and communication through online courses or volunteer work with youth programs. Look for entry-level roles like youth mentor or program assistant to gain hands-on experience with classroom management and curriculum delivery. As you grow, seek opportunities to lead activities or co-facilitate groups, which will prepare you for roles as a social worker or community organizer.",
   "ideal_careers": [
     "Social Worker",
     "Community Organizer",
@@ -633,8 +631,7 @@
         }
       ],
       "reason_codes": [
-        "explicit career goals",
-        "volunteer experience in community and youth organizations"
+        "explicit_goal"
       ],
       "review_reasons": []
     },
@@ -643,15 +640,15 @@
       "scored_skills": [
         "Coordination",
         "Communications and Media",
-        "Customer and Personal Service",
         "Social Perceptiveness",
-        "Time Management",
+        "Customer and Personal Service",
         "Active Listening",
-        "Speaking",
-        "Judgment and Decision Making",
+        "Time Management",
+        "Complex Problem Solving",
         "Sales and Marketing",
-        "Administrative",
+        "Speaking",
         "community engagement",
+        "engagement",
         "leadership",
         "management",
         "media management",
@@ -665,15 +662,15 @@
       "verified_skills": [
         "Coordination",
         "Communications and Media",
-        "Customer and Personal Service",
         "Social Perceptiveness",
-        "Time Management",
+        "Customer and Personal Service",
         "Active Listening",
-        "Speaking",
-        "Judgment and Decision Making",
+        "Time Management",
+        "Complex Problem Solving",
         "Sales and Marketing",
-        "Administrative",
+        "Speaking",
         "community engagement",
+        "engagement",
         "leadership",
         "management",
         "media management",
@@ -692,7 +689,6 @@
         "career paths",
         "community events",
         "ecp",
-        "engagement",
         "engaging",
         "flag football",
         "football",
@@ -702,7 +698,6 @@
         "hours",
         "junior",
         "languages",
-        "leadership skills",
         "learner",
         "media",
         "name",
@@ -728,17 +723,17 @@
       "implicit_skills": [
         {
           "skill": "Bilingual (Spanish)",
-          "reason": "Native Spanish mentioned in education context",
+          "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
           "confidence": "medium"
         },
         {
           "skill": "Event Planning",
-          "reason": "Community engagement and volunteering imply event coordination",
+          "reason": "Experience with 'community engagement' and 'community events' suggests event coordination skills.",
           "confidence": "medium"
         },
         {
           "skill": "Athletic Coaching",
-          "reason": "Flag football and sports involvement suggest coaching ability",
+          "reason": "Involvement in 'flag football', 'football', and 'sports' as a 'student athlete' implies coaching or mentoring ability.",
           "confidence": "medium"
         }
       ],

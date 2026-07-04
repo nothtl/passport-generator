@@ -1,0 +1,498 @@
+{
+  "name": "Leila Titikpina",
+  "zone": 4,
+  "education_level": "bachelors",
+  "source_files": [
+    "Leila Titikpina - Resume.pdf",
+    "Leila Titikpina - LinkedIn.md"
+  ],
+  "skills": [
+    "Administration and Management",
+    "Coordination",
+    "Monitoring",
+    "Customer and Personal Service",
+    "Service Orientation",
+    "Speaking",
+    "Active Listening",
+    "Active Learning",
+    "Medicine and Dentistry",
+    "Education and Training",
+    "Computers and Electronics",
+    "Systems Analysis",
+    "Writing",
+    "Critical Thinking",
+    "Complex Problem Solving",
+    "Social Perceptiveness",
+    "Equipment Selection",
+    "Biology",
+    "Science",
+    "Operation and Control",
+    "Quality Control Analysis",
+    "Economics and Accounting",
+    "Management of Financial Resources",
+    "Management of Personnel Resources",
+    "Judgment and Decision Making",
+    "Time Management",
+    "Instructing",
+    "Learning Strategies",
+    "English Language",
+    "Foreign Language",
+    "Public Safety and Security",
+    "Management of Material Resources"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Managed the Flu POD on campus",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Managed the Flu POD on campus with 520 students and staff vaccinated",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Recorded the length of the vaccination for people from the entrance to the exit",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Provided information to the mental health screening and guidance to the provider",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Provided information to the mental health screening and guidance to the provider",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Provided information to the mental health screening and guidance to the provider",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "engaging with them to understand worries and background information",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Completed 75 hours of training focused on assisting patients at home",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Medicine and Dentistry",
+      "evidence": "Bachelor of Science in Health Science",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Created a condensed training for case management positions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "how to use Epic, and VMware to assess patient eligibility",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "assess patient eligibility for Home Health Aide",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Created a condensed training for case management positions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Created a condensed training for case management positions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "Participated in brainstorming sessions centered around improving the work environment",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "gaining valuable insights into their perspectives",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Equipment Selection",
+      "evidence": "learning about equipment roles",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Biology",
+      "evidence": "Bachelor of Science in Health Science",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Science",
+      "evidence": "Bachelor of Science in Health Science",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "utilizing a microcentrifuge for DNA experiments, conducted PCR and DNA extraction, ran gel electrophoresis for PCR",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "demonstrated expertise in counting bacteria colonies in petri dishes",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "aiding in their college and financial aid applications",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Financial Resources",
+      "evidence": "IC Muslim Student Association | Treasurer",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Personnel Resources",
+      "evidence": "IC Muslim Student Association / President",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "IC Muslim Student Association / President",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "IC Muslim Student Association / President",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Provided one-on-one assistance and advisory group support to peers",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "preparation for medical school admission",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "English (Advanced)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "French (Fluent), Tchamba (Native), Ewe (Native)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Adult and Pediatric First Aid/CPR/AED",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Helped with the inventory of community care by classifying shirts and tote bags",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 94.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 93.9,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 91.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Public Safety and Security",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 90.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Public Safety and Security",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Listening",
+        "Learning Strategies",
+        "Education and Training",
+        "Medicine and Dentistry",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 89.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-1011.00",
+      "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "zone": 2,
+      "pct": 88.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Management of Personnel Resources",
+        "Education and Training",
+        "Public Safety and Security",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "41-1012.00",
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "zone": 4,
+      "pct": 87.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 87.8,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Public Safety and Security"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 2,
+      "title": "Personal Care Assistant (PCA) - $25/hr",
+      "company": "BAYADA Home Health Care",
+      "url": "https://job-boards.greenhouse.io/bayada/jobs/8602543002",
+      "match_score": 85,
+      "comparisons": 11,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Leila's resume indicates a solid match for the Personal Care Assistant position due to her relevant experience in home care and personal support. She has hands-on experience supporting patients with activities of daily living and managing care plans, which fits well with the job requirements. However, she has slightly less than a year of direct professional experience in this specific role, which places her in a good, yet slightly stretched position for this job.",
+        "strengths": [
+          "Has over a year of experience as a Home Health Aide which directly supports the role of Personal Care Assistant.",
+          "Demonstrated ability to assist patients with Activities of Daily Living (ADLs) and medication reminders.",
+          "Experience managing care plans in a volunteer capacity at CNYMRC, showing leadership and organizational skills.",
+          "Strong communication skills evidenced through various roles including case management and patient interactions."
+        ],
+        "gaps": [
+          "Less than one year of formal home health or patient care experience compared to the preferred requirement of at least one year.",
+          "No specific mention of experience with household support tasks like light housekeeping, meal preparation, or transfers with mechanical lifting devices, which are key components of the PCA role."
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 4,
+      "title": "Homemaker-HHA ",
+      "company": "BAYADA Home Health Care",
+      "url": "https://job-boards.greenhouse.io/bayada/jobs/8573821002",
+      "match_score": 85,
+      "comparisons": 10,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Leila's experience as a Home Health Aide, her training in patient care, and her strong communication skills make her a solid candidate for the position. While she has relevant experience and qualifications, her specific experience in certain aspects of personal care and household support may require some additional development.",
+        "strengths": [
+          "Direct experience as a Home Health Aide providing personal care and support to patients",
+          "Completed professional training with a focus on patient care and Activities of Daily Living (ADL)",
+          "Experience in managing vaccination processes which demonstrates organizational skills and ability to follow care plans",
+          "Strong communication skills evidenced by interactions with patients and collaboration in team settings",
+          "Empathy and integrity are highlighted through volunteer work, which aligns with the core values of BAYADA"
+        ],
+        "gaps": [
+          "No specific experience mentioned with meal preparation, bed making, or specific household duties as outlined in the job description",
+          "Lacks specific familiarity with medication reminders, assisting with ambulation, or using mechanical lifting devices as mentioned in the JD",
+          "Not specified if she meets the requirement of (1) year of recent work experience, especially in a home care role as defined by BAYADA."
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 5,
+      "title": "Personal Care Attendant",
+      "company": "Christian Senior Care Services",
+      "url": "https://apply.workable.com/j/13299C7730",
+      "match_score": 85,
+      "comparisons": 11,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Leila's experience as a Home Health Aide and her volunteering in health settings align well with the caregiving responsibilities outlined in the job description. She has demonstrated professionalism and dedication in previous roles, which is important for a Personal Care Attendant. However, there are some gaps in specific requirements such as a driver's license and automobile.",
+        "strengths": [
+          "Experience as a Home Health Aide providing support in Activities of Daily Living",
+          "Volunteer work managing health screening and vaccinations",
+          "Strong professionalism emphasized in training and previous roles",
+          "Knowledge gained through mentorship and shadowing in medical environments"
+        ],
+        "gaps": [
+          "Lack of explicit mention of a driver's license and vehicle",
+          "No evidence of experience with specific tasks like meal preparation and cleaning in a formal caregiving setting",
+          "Not addressing ability to lift 50 lbs"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 6,
+      "title": "Personal Care Aides/ PCA",
+      "company": "BAYADA Home Health Care",
+      "url": "https://job-boards.greenhouse.io/bayada/jobs/8548088002",
+      "match_score": 85,
+      "comparisons": 10,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Leila's resume demonstrates a solid fit for the PCA position at BAYADA. She possesses relevant experience in home health care, patient assistance, and activities of daily living. Her educational background in health science and various internships provide her with a solid foundation for the role. While there are some gaps in specific PCA-related duties in her experience, her volunteer and work history indicate strong caregiving skills.",
+        "strengths": [
+          "Experience as a Home Health Aide assisting with Activities of Daily Living",
+          "Volunteer experience managing vaccination operations",
+          "Internship in case management, providing valuable insights into patient care",
+          "Demonstrated commitment to health science and caregiving through education and internships",
+          "Strong communication and interpersonal skills from patient interactions and mentoring"
+        ],
+        "gaps": [
+          "No explicit experience with meal preparation and feeding mentioned",
+          "Limited evidence of experience with mobility assistance or exercises",
+          "No mention of experience with medication administration or reminders beyond informal context",
+          "Lack of experience in more specific caregiving tasks like bathing and grooming listed in job description"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 9,
+      "title": "Home Health Aide (HHA) - $25/hr",
+      "company": "BAYADA Home Health Care",
+      "url": "https://job-boards.greenhouse.io/bayada/jobs/8602547002",
+      "match_score": 85,
+      "comparisons": 12,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Leila Titikpina has relevant experience as a Home Health Aide and skills in patient care, making her a solid candidate for the Home Health Aide position at BAYADA. Her roles reflect a strong foundation in key responsibilities associated with this job.",
+        "strengths": [
+          "Experience as a Home Health Aide with practical knowledge of assisting patients in activities of daily living.",
+          "Completion of relevant training (75 hours) focused on patient assistance and professionalism.",
+          "Internship in case management, providing her with exposure to patient care protocols and the healthcare system.",
+          "Experience in managing patient schedules, demonstrating attention to detail and responsibility for patient well-being."
+        ],
+        "gaps": [
+          "No evidence of specific experiences related to housekeeping or meal preparation as listed in the job description.",
+          "The home health aide experience appears to have been completed slightly under one year, which might require some flexibility from BAYADA for her to be considered. Additionally, the job prefers candidates with a minimum of one year of professional experience."
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 5028,
+    "ranked": 5028,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

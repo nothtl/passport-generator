@@ -1,0 +1,5 @@
+{
+  "dataset_size": 2484,
+  "overall_accuracy": 0.9887,
+  "overall_top2_accuracy": 0.9988
+}

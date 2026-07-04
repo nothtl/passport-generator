@@ -1,0 +1,22 @@
+{
+  "Office Administrator|||urbancompass": {
+    "eligible": true,
+    "reason": "Office administrator role, no age restrictions."
+  },
+  "Office Coordinator|||ixllearning": {
+    "eligible": true,
+    "reason": "Office coordinator role, no age restrictions."
+  },
+  "Seasonal Ice Cream Server - Prospect Heights|||vanleeuwenicecream": {
+    "eligible": true,
+    "reason": "Ice cream server, no alcohol or age restrictions."
+  },
+  "Barista | Brooklyn|||blankstreet": {
+    "eligible": true,
+    "reason": "Barista role, no age restrictions."
+  },
+  "Student CEO (SCEO) - BOWIE STATE UNIVERSITY|||saxbys": {
+    "eligible": true,
+    "reason": "Student CEO role, no age restrictions."
+  }
+}

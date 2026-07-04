@@ -1,0 +1,38 @@
+{
+  "accepted": true,
+  "chosen_function": "technology",
+  "chosen_subdomain": "software",
+  "confidence": 0.95,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Software Engineering student seeking a full-time co-op/internship in software development or systems design for Spring/Summer 2026."
+    },
+    {
+      "section": "experience",
+      "text": "Contributed to development and maintenance of SCOOPortal, a web application supporting RIT SCOOP for students and faculty."
+    }
+  ],
+  "goal_domains": [
+    "technology"
+  ],
+  "goal_roles": [
+    "Software Engineer"
+  ],
+  "goal_subdomains": [
+    "software"
+  ],
+  "reason_codes": [
+    "explicit goal",
+    "education match",
+    "experience match"
+  ],
+  "review_reasons": [],
+  "secondary_function": "design",
+  "study_domains": [
+    "technology"
+  ],
+  "study_subdomains": [
+    "software"
+  ]
+}

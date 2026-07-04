@@ -1,0 +1,41 @@
+{
+  "accepted": true,
+  "chosen_function": "arts-media",
+  "chosen_subdomain": "content-creation",
+  "confidence": 0.7,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "I am now exploring careers in museums, libraries, or archival work."
+    },
+    {
+      "section": "experience",
+      "text": "Developed social media content to promote the Trust\u2019s initiatives."
+    }
+  ],
+  "goal_domains": [
+    "arts-media",
+    "education"
+  ],
+  "goal_roles": [
+    "archivist",
+    "museum educator"
+  ],
+  "goal_subdomains": [
+    "content-creation",
+    "creative-education"
+  ],
+  "reason_codes": [
+    "explicit goal",
+    "relevant experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "arts-media",
+    "education"
+  ],
+  "study_subdomains": [
+    "content-creation"
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "name": "Khadim Ka",
+  "zone": 4,
+  "education_level": "bachelors",
+  "source_files": [
+    "Khadim Ka - Resume.pdf"
+  ],
+  "skills": [
+    "Public Safety and Security",
+    "Customer and Personal Service",
+    "Foreign Language",
+    "English Language",
+    "Monitoring",
+    "Operations Monitoring",
+    "Quality Control Analysis",
+    "Computers and Electronics",
+    "Writing",
+    "Speaking",
+    "Social Perceptiveness",
+    "Coordination",
+    "Time Management",
+    "Active Listening",
+    "Service Orientation",
+    "Equipment Maintenance",
+    "Management of Material Resources",
+    "Negotiation",
+    "Communications and Media",
+    "Persuasion"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Security Professional with hands-on experience in luxury retail environments... Strong background in loss prevention, access control... Active NYS security license... maintain safety... Maintained a visible security presence... deter theft and ensure customer and employee safety... Monitored customer traffic... identifying suspicious activity... Conducted employee bag checks... Secured stockroom areas... Maintained cleanliness and safety standards",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "customer-facing roles... customer service... delivering a positive customer experience... Greeted customers professionally... Delivered high-quality customer service... assist guests and personalize service... ensured guest satisfaction... Built positive guest relationships",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Trilingual (English, French, Wolof)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Trilingual (English, French, Wolof)... Professional Communication & Reporting",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Monitored customer traffic entering and exiting the store, identifying suspicious activity... tracked product movement",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "Loss Prevention & Store Security Procedures... Access Control & Bag Checks... Monitored customer traffic... Conducted employee bag checks... tracked product movement",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Conducted employee bag checks at closing in compliance with store policy... Maintained cleanliness and safety standards across assigned workstations",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Basic Computer Skills (Windows, Microsoft Word)",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Professional Communication & Reporting",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Professional Communication & Reporting... Greeted customers professionally... Demonstrated strong menu knowledge to assist guests",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Conflict Awareness... identifying suspicious activity... Greeted customers professionally... Built positive guest relationships",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Maintained table settings, cleared courses... Assisted with setup, cleanup, prep work... Supported front- and back-of-house operations to ensure smooth service flow",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Delivered high-quality customer service in a fast-paced dining environment",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Demonstrated strong menu knowledge to assist guests and personalize service",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "ensure customer and employee safety... delivering a positive customer experience... Delivered high-quality customer service... ensured guest satisfaction",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Equipment Maintenance",
+      "evidence": "Assisted with setup, cleanup, prep work, and equipment maintenance",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "tracked product movement to reduce shrinkage",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Negotiation",
+      "evidence": "Conflict Awareness",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Professional Communication & Reporting",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Built positive guest relationships to enhance repeat business",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "39-3031.00",
+      "title": "Ushers, Lobby Attendants, and Ticket Takers",
+      "zone": 2,
+      "pct": 80.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Public Safety and Security",
+        "Active Listening",
+        "Communications and Media",
+        "Coordination",
+        "Negotiation",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 79.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Public Safety and Security",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 78.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "53-6061.00",
+      "title": "Passenger Attendants",
+      "zone": 2,
+      "pct": 77.7,
+      "matched_skills": [
+        "Service Orientation",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "English Language",
+        "Monitoring",
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Coordination",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "39-3093.00",
+      "title": "Locker Room, Coatroom, and Dressing Room Attendants",
+      "zone": 2,
+      "pct": 76.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Active Listening",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Coordination",
+        "Negotiation",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "39-5092.00",
+      "title": "Manicurists and Pedicurists",
+      "zone": 2,
+      "pct": 75.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Coordination",
+        "Time Management",
+        "English Language",
+        "Monitoring",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "39-9011.01",
+      "title": "Nannies",
+      "zone": 2,
+      "pct": 75.5,
+      "matched_skills": [
+        "Active Listening",
+        "Monitoring",
+        "Social Perceptiveness",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Persuasion",
+        "Customer and Personal Service",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 73.7,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Monitoring",
+        "Coordination",
+        "Service Orientation"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 1,
+      "title": "Security Associate - 2nd Shift",
+      "company": "Carvana",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=7985118",
+      "match_score": 85,
+      "comparisons": 8,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "The candidate has relevant experience in security and customer service, as well as the necessary certifications for a Security Associate role. They possess a strong track record in a similar environment, making them a solid fit for the position.",
+        "strengths": [
+          "Experience in luxury store security and loss prevention",
+          "Active NYS security license",
+          "Trilingual, enhancing communication with diverse clientele",
+          "Strong customer service skills",
+          "Experience in monitoring and assessing security protocols"
+        ],
+        "gaps": [
+          "Lack of experience with specific technologies mentioned (CCTV, RFID, etc.)",
+          "No documented experience with emergency procedures or first aid training",
+          "No indication of experience in an automotive-related environment as preferred in the job description",
+          "Limited documented experience in documenting security issues or inventory control procedures"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 7,
+      "title": "Door Attendant Full-Time (4pm - 12am)",
+      "company": "Bethesda Health Group",
+      "url": "https://job-boards.greenhouse.io/bethesdahealthgroup/jobs/4294992009",
+      "match_score": 85,
+      "comparisons": 15,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "The candidate has relevant security and customer service experience, including loss prevention and monitoring in a luxury retail environment, which aligns well with the requirements for a Door Attendant. However, the absence of specific certifications in AED, CPR, and First Aid is a notable gap.",
+        "strengths": [
+          "Experience in security within a luxury retail environment",
+          "Strong customer service skills",
+          "Trilingual, which may enhance communication with diverse residents",
+          "Active NYS security license, relevant to the role",
+          "Experience in monitoring and reporting suspicious behavior"
+        ],
+        "gaps": [
+          "Lacks AED, CPR, and First Aid certifications (either current or willingness to obtain)",
+          "No explicit experience in handling emergency call systems or fire alarms, which are mentioned in the job description",
+          "Limited experience in a residential or healthcare setting, as the described roles are primarily retail and restaurant-based"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 23,
+      "title": "Front Desk Monitor, 74 Avenue A (FT)",
+      "company": "ACMH (Administrative/Community Mental Health?)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4243570",
+      "match_score": 85,
+      "comparisons": 7,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Khadim's resume aligns well with the requirements of the Front Desk Monitor position, particularly in customer service and security experience. However, there are specific duties mentioned in the job description that are not covered by his resume.",
+        "strengths": [
+          "Experience in a customer-facing role in a luxury retail environment that emphasizes security and safety.",
+          "Possesses an active NYS security license, aligning with the need for monitoring building access and providing emergency responses.",
+          "Reliable and detail-oriented, suitable for maintaining logs and records as required by the job.",
+          "Trilingual ability could enhance communication with a diverse resident population."
+        ],
+        "gaps": [
+          "No direct experience mentioned in managing mail distribution or taking messages for residents and staff.",
+          "Lacks specific experience with responsibilities such as monitoring client self-administration of medication and crisis intervention.",
+          "Does not indicate experience conducting building rounds or recording incidents in a logbook."
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 29,
+      "title": "Information Desk Attendant",
+      "company": "Paylocity (ATS source)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186980",
+      "match_score": 85,
+      "comparisons": 10,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Khadim Ka's resume demonstrates relevant customer service and communication skills suitable for the Information Desk Attendant role. His experience in luxury retail security provides a solid foundation for handling inquiries and maintaining professionalism. However, there are minor gaps regarding specific hospitality industry experience and the ability to operate public paging systems, which may stretch his candidacy.",
+        "strengths": [
+          "Experience in customer-facing roles, particularly in luxury retail environments.",
+          "Proven background in maintaining professionalism and clear communication with customers.",
+          "Trilingual abilities (English, French, Wolof) enhance customer interactions, aligning with the job's preference for bilingual candidates.",
+          "Strong attention to detail and background in conflict awareness relevant to handling inquiries and emergencies."
+        ],
+        "gaps": [
+          "Specific experience in the hospitality industry is limited to waitstaff roles, which may not fully meet the primary requirement.",
+          "No mention of familiarity with operating public paging systems, as required in the job description.",
+          "Lack of extensive experience with emergency staffing needs or flexibility in shift hours may be a concern for potential employers."
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 11,
+      "title": "PT/FT Gallery Attendant",
+      "company": "Dallas Museum of Art",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2429432",
+      "match_score": 82,
+      "comparisons": 14,
+      "why": {
+        "verdict": "solid",
+        "match_score": 82,
+        "summary": "The candidate demonstrates a strong background in security and customer service, aligning well with the requirements of the Gallery Attendant position. Their experience in luxury retail security, along with their trilingual skills and professionalism, positions them favorably for the role, though a specific focus on art or museum settings is lacking.",
+        "strengths": [
+          "Hands-on experience in luxury retail security environments, which translates to safeguarding art and providing customer service.",
+          "Proven ability to maintain safety and security while enhancing customer experience, a key duty of the Gallery Attendant.",
+          "Trilingual, which can enhance communication with diverse visitors.",
+          "Active NYS security license, demonstrating a commitment to security protocols."
+        ],
+        "gaps": [
+          "No specific experience mentioned in a museum or art gallery setting, which could be a potential gap in understanding museum-specific procedures.",
+          "Lacks explicit mention of handling emergency situations or specific knowledge of museum policies, which are crucial for the position."
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 5036,
+    "ranked": 5036,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

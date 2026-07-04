@@ -1,0 +1,37 @@
+{
+  "accepted": true,
+  "chosen_function": "education",
+  "chosen_subdomain": "classroom-support",
+  "confidence": 0.95,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "OBJECTIVE:  To obtain a position as a Secondary Mathematics Teacher"
+    },
+    {
+      "section": "experience",
+      "text": "Student Teacher\n\u2022  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus"
+    }
+  ],
+  "goal_domains": [
+    "education"
+  ],
+  "goal_roles": [
+    "Secondary Mathematics Teacher"
+  ],
+  "goal_subdomains": [
+    "classroom-support"
+  ],
+  "reason_codes": [
+    "explicit career goal",
+    "relevant education and experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "",
+  "study_domains": [
+    "education"
+  ],
+  "study_subdomains": [
+    "classroom-support"
+  ]
+}

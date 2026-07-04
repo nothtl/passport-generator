@@ -1,0 +1,168 @@
+{
+  "student_name": "Ismatu Barry",
+  "email": "ismatu.barry@ichsbronx.org",
+  "scores": {
+    "EC": {
+      "score": 43.92,
+      "sub_scores": {
+        "Verbal": 19.5833,
+        "Written": 5.0,
+        "Interpersonal": 6.6667,
+        "CrossCultural": 12.6667
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.6,
+      "reasoning": "Ismatu Barry translates and interprets between English, French, and Fulani, demonstrating strong verbal and cross-cultural communication."
+    },
+    "GC": {
+      "score": 60.5,
+      "sub_scores": {
+        "D1_Empathy": 0.35,
+        "D2_Community": 0.6317,
+        "D3_Cultural": 0.9,
+        "D4_Network": 0.76,
+        "D5_Volunteering": 0.415
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.52,
+      "reasoning": "Ismatu Barry's experience as a translator and interpreter, alongside volunteering, demonstrates a commitment to bridging cultural divides and community engagement."
+    },
+    "RFF": {
+      "score": 57.2,
+      "sub_scores": {
+        "D1_SelfReflection": 0.4183,
+        "D2_GoalSetting": 0.3,
+        "D3_FutureCareer": 0.6883,
+        "D4_CollegePrep": 0.88
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.68,
+      "reasoning": "Ismatu plans to attend every session, demonstrating a commitment to focused personal and professional development."
+    },
+    "CR": {
+      "score": 78.8,
+      "sub_scores": {
+        "C1": 40,
+        "C2": 100.0,
+        "C3": 75,
+        "C4": 100
+      },
+      "source": "survey+docs",
+      "data_coverage": 1.0,
+      "reasoning": "Ismatu's foundational skills were built to 100%, demonstrating mastery and readiness for career opportunities."
+    },
+    "CT": {
+      "score": 75,
+      "thinking_arc": "Ismatu Barry's multilingual interpretation for legal contexts demonstrates nuanced analytical skills in conveying complex meaning across cultural and linguistic barriers.",
+      "key_evidence": "Translator & Interpreter, Paraprofessional, Admin Assistant, Security Guard",
+      "depth_signal": "developing",
+      "source": "docs",
+      "reasoning": "Ismatu Barry's multilingual interpretation for legal contexts demonstrates nuanced analytical skills in conveying complex meaning across cultural and linguistic barriers."
+    },
+    "CI": {
+      "score": 40,
+      "innovation_arc": "Ismatu Barry's role as a Translator & Interpreter, facilitating communication across languages, demonstrates initiative in applying communication abilities beyond standard administrative tasks.",
+      "key_evidence": "Translator & Interpreter",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Ismatu Barry's role as a Translator & Interpreter, facilitating communication across languages, demonstrates initiative in applying communication abilities beyond standard administrative tasks."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts - conflict management": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": "Paraprofessional at P.S./I.S. 224, Administrative Assistant & School Aide at International Community High School, Translator & Interpreter at Accurate Communications, Security Guard at Allied | Shelter",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Empathy": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Humble": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Listen": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Include Others Who Are Different": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Deal with Conflicts": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Lead With Authenticity": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Pre Community Connected": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "If you do not have a job, what is your ideal future career job": {
+      "value": "Political Science Student at John Jay College | Translator & Interpreter | Dean's List",
+      "source": "docs",
+      "was_missing": true
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": false,
+      "doc_override": true
+    }
+  },
+  "fields_enriched_count": 17,
+  "fields_still_missing": [
+    "The Speaker was a relatable role model",
+    "The topic inspired me to think more about my future career",
+    "The Speaker inspired me to think more about my future career",
+    "The Speaker helped me think about my future career pathway",
+    "The topic helped me think about my future career pathway"
+  ],
+  "llm_calls_made": 21
+}

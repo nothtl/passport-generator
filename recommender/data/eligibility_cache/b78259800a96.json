@@ -1,0 +1,22 @@
+{
+  "Golf Cart Attendant": {
+    "eligible": true,
+    "reason": "No age restriction; typical for teens."
+  },
+  "Houseperson|||WestgateResorts": {
+    "eligible": true,
+    "reason": "Houseperson role, no alcohol service."
+  },
+  "Goldenvoice Los Angeles- Box Office Attendant|||aegworldwide": {
+    "eligible": true,
+    "reason": "Box office attendant, no age restriction."
+  },
+  "Resort Activities Host|||WestgateResorts": {
+    "eligible": true,
+    "reason": "Activities host, suitable for minors."
+  },
+  "Part-Time Food Service Staff|||accelschools": {
+    "eligible": true,
+    "reason": "Food service staff, likely eligible."
+  }
+}

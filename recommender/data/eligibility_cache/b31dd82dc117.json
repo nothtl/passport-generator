@@ -1,0 +1,38 @@
+{
+  "Dance Instructor": {
+    "eligible": true,
+    "reason": "No age restriction for dance instruction."
+  },
+  "Preschool Teacher": {
+    "eligible": true,
+    "reason": "Same as index 2."
+  },
+  "Youth Resident Camping - Camp Counselor/Specialty|||ymcametrowash": {
+    "eligible": true,
+    "reason": "Camp counselor roles are typical for youth."
+  },
+  "Professional Dance Performer and Dance Instructor we will train you|||fred-astaire-dance-studios-3": {
+    "eligible": true,
+    "reason": "Same as index 5."
+  },
+  "SY 26/27 PreK - 4th Grade Paraprofessional|||KIPP": {
+    "eligible": true,
+    "reason": "Paraprofessional roles are open to young adults."
+  },
+  "Camp Limestone Counselor - Seasonal": {
+    "eligible": true,
+    "reason": "Camp counselor roles are suitable."
+  },
+  "Summer Camp Counselor - Seasonal": {
+    "eligible": true,
+    "reason": "Summer camp counselor roles are typical for youth."
+  },
+  "Early Childhood Learning Teacher Assistant": {
+    "eligible": true,
+    "reason": "Teacher assistant roles are suitable."
+  },
+  "Youth Dance Instructor - Baby & Me up to 11yrs old": {
+    "eligible": true,
+    "reason": "Youth dance instructor roles are suitable."
+  }
+}

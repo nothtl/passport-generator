@@ -1,0 +1,1986 @@
+{
+  "name": "Yamin Titikpina",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2027,
+  "source_files": [
+    "Yamin Titikpina - LinkedIn.md"
+  ],
+  "skills": [
+    "Active Learning",
+    "Active Listening",
+    "Administration and Management",
+    "Administrative",
+    "Biology",
+    "Communications and Media",
+    "Computers and Electronics",
+    "Coordination",
+    "Critical Thinking",
+    "Design",
+    "Economics and Accounting",
+    "Education and Training",
+    "Fine Arts",
+    "Food Production",
+    "Foreign Language",
+    "Instructing",
+    "Learning Strategies",
+    "Management of Personnel Resources",
+    "Mathematics",
+    "Monitoring",
+    "Negotiation",
+    "Operation and Control",
+    "Operations Analysis",
+    "Persuasion",
+    "Physics",
+    "Public Safety and Security",
+    "Sales and Marketing",
+    "Science",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Speaking",
+    "Time Management",
+    "Writing"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Mastered company-provided sales scripts",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Participated in a faculty- and student-led academic committee focused on diversity, equity, and inclusion",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Collaborated with a mentor to develop... business skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Completes and submits necessary administrative paperwork",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Biology",
+      "evidence": "Operated sustainable hydroponics, aquaculture, and aquaponics systems producing fresh fish and vegetables",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Contributed to campus-wide events, workshops, and academic programs fostering inclusive learning environments",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Supported data entry, cleaning, and preliminary analysis for public health recommendations",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Participated in a faculty- and student-led academic committee focused on diversity, equity, and inclusion",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Collected and analyzed quantitative and qualitative data on healthcare access, preventive measures, and economic challenges",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Designed and administered questionnaires for diverse populations",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Organized and maintained sales and inventory data in Excel spreadsheets",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Contributed to campus-wide events, workshops, and academic programs fostering inclusive learning environments",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Fine Arts",
+      "evidence": "Used manual photography equipment to capture high-quality images",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "Operated sustainable hydroponics, aquaculture, and aquaponics systems producing fresh fish and vegetables",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Translated for French-speaking residents to aid understanding of shelter rules and protocols",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Teaches first-year students effective study skills during structured study hours",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Teaches first-year students effective study skills during structured study hours",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Personnel Resources",
+      "evidence": "Supervised a team of five interns through project completion",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "Collected and analyzed quantitative and qualitative data on healthcare access, preventive measures, and economic challenges",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Monitored lab conditions for over 10,000 tilapia and multiple plant species",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Negotiation",
+      "evidence": "Collaborated with a mentor to develop... workplace negotiation",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Operated sustainable hydroponics, aquaculture, and aquaponics systems producing fresh fish and vegetables",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "Conducted community-based surveys to assess malaria prevalence and socio-economic factors in Togo",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Supported initiatives promoting awareness of race, gender, class, ethnicity, sexual orientation, and disability",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Physics",
+      "evidence": "Studied fluidized bed behavior and gas–solid interactions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Supported resident safety at Candler Building shelter for refugees",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "Presented sales pitches alongside a supervisor to metalworking companies for welding materials",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Science",
+      "evidence": "Studied fluidized bed behavior and gas–solid interactions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Supported resident safety at Candler Building shelter for refugees",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Participated in a faculty- and student-led academic committee focused on diversity, equity, and inclusion",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Communicates with supervisors and coworkers to arrange coverage",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Supervised a team of five interns through project completion",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Translated surveys for French-speaking residents",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "27-2032.00",
+      "title": "Choreographers",
+      "zone": 3,
+      "pct": 77.3,
+      "matched_skills": [
+        "Fine Arts",
+        "Instructing",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Monitoring",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Time Management",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 73.6,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Instructing",
+        "Learning Strategies",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "25-2032.00",
+      "title": "Career/Technical Education Teachers, Secondary School",
+      "zone": 4,
+      "pct": 73.0,
+      "matched_skills": [
+        "Education and Training",
+        "Instructing",
+        "Active Listening",
+        "Learning Strategies",
+        "Speaking",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Social Perceptiveness",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-2057.00",
+      "title": "Special Education Teachers, Middle School",
+      "zone": 4,
+      "pct": 72.5,
+      "matched_skills": [
+        "Education and Training",
+        "Active Learning",
+        "Active Listening",
+        "Learning Strategies",
+        "Speaking",
+        "Instructing",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 72.4,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-1011.00",
+      "title": "First-Line Supervisors of Office and Administrative Support Workers",
+      "zone": 3,
+      "pct": 72.3,
+      "matched_skills": [
+        "Administration and Management",
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Active Learning",
+        "Writing",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 71.1,
+      "matched_skills": [
+        "Speaking",
+        "Instructing",
+        "Education and Training",
+        "Active Listening",
+        "Learning Strategies",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "27-3042.00",
+      "title": "Technical Writers",
+      "zone": 4,
+      "pct": 71.0,
+      "matched_skills": [
+        "Writing",
+        "Computers and Electronics",
+        "Administrative",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Active Learning",
+        "Communications and Media",
+        "Administration and Management",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 70.9,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Administration and Management",
+        "Biology",
+        "Critical Thinking",
+        "Mathematics",
+        "Administrative",
+        "Active Learning",
+        "Active Listening",
+        "Monitoring",
+        "Science",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 70.7,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "27-2042.00",
+      "title": "Musicians and Singers",
+      "zone": 4,
+      "pct": 70.7,
+      "matched_skills": [
+        "Fine Arts",
+        "Speaking",
+        "Active Listening",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-2021.00",
+      "title": "Elementary School Teachers, Except Special Education",
+      "zone": 4,
+      "pct": 70.3,
+      "matched_skills": [
+        "Education and Training",
+        "Learning Strategies",
+        "Instructing",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "35-9021.00",
+      "title": "Dishwashers",
+      "zone": 2,
+      "pct": 69.6,
+      "matched_skills": [
+        "Operation and Control",
+        "Food Production",
+        "Coordination",
+        "Active Listening",
+        "Time Management",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Social Perceptiveness",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "17-2199.07",
+      "title": "Photonics Engineers",
+      "zone": 4,
+      "pct": 69.4,
+      "matched_skills": [
+        "Mathematics",
+        "Physics",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Design",
+        "Writing",
+        "Active Listening",
+        "Active Learning",
+        "Mathematics",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 68.7,
+      "matched_skills": [
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "13-1022.00",
+      "title": "Wholesale and Retail Buyers, Except Farm Products",
+      "zone": 3,
+      "pct": 68.5,
+      "matched_skills": [
+        "Negotiation",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Persuasion",
+        "Mathematics",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "39-3031.00",
+      "title": "Ushers, Lobby Attendants, and Ticket Takers",
+      "zone": 2,
+      "pct": 68.4,
+      "matched_skills": [
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Public Safety and Security",
+        "Active Listening",
+        "Communications and Media",
+        "Coordination",
+        "Sales and Marketing",
+        "Negotiation",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "11-9179.02",
+      "title": "Spa Managers",
+      "zone": 3,
+      "pct": 68.4,
+      "matched_skills": [
+        "Administrative",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Management of Personnel Resources",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "17-2031.00",
+      "title": "Bioengineers and Biomedical Engineers",
+      "zone": 4,
+      "pct": 68.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Mathematics",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Design",
+        "Physics",
+        "Critical Thinking",
+        "Mathematics",
+        "Science"
+      ]
+    },
+    {
+      "soc": "27-2041.00",
+      "title": "Music Directors and Composers",
+      "zone": 4,
+      "pct": 68.3,
+      "matched_skills": [
+        "Fine Arts",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Education and Training",
+        "Computers and Electronics",
+        "Active Learning",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 68.2,
+      "matched_skills": [
+        "Speaking",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Administrative",
+        "Service Orientation",
+        "Active Listening",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Coordination",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 68.2,
+      "matched_skills": [
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Management of Personnel Resources",
+        "Education and Training",
+        "Active Listening",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "11-9051.00",
+      "title": "Food Service Managers",
+      "zone": 2,
+      "pct": 67.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Food Production",
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Management of Personnel Resources",
+        "Service Orientation",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 67.7,
+      "matched_skills": [
+        "Food Production",
+        "Mathematics",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Computers and Electronics",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "43-9081.00",
+      "title": "Proofreaders and Copy Markers",
+      "zone": 4,
+      "pct": 67.5,
+      "matched_skills": [
+        "Writing",
+        "Communications and Media",
+        "Speaking",
+        "Active Listening",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Monitoring",
+        "Time Management",
+        "Administrative",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 66.7,
+      "matched_skills": [
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 66.2,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "Active Listening",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Mathematics",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 66.2,
+      "matched_skills": [
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Learning Strategies",
+        "Active Learning",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 66.0,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 65.9,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "39-3091.00",
+      "title": "Amusement and Recreation Attendants",
+      "zone": 2,
+      "pct": 65.8,
+      "matched_skills": [
+        "Speaking",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Monitoring",
+        "Coordination",
+        "Critical Thinking",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "11-9072.00",
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "zone": 4,
+      "pct": 65.8,
+      "matched_skills": [
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "33-3041.00",
+      "title": "Parking Enforcement Workers",
+      "zone": 2,
+      "pct": 65.6,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Monitoring",
+        "Speaking",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-2031.00",
+      "title": "Retail Salespersons",
+      "zone": 2,
+      "pct": 65.4,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Persuasion",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Negotiation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Administration and Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "43-6011.00",
+      "title": "Executive Secretaries and Executive Administrative Assistants",
+      "zone": 3,
+      "pct": 65.3,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Coordination",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "39-9032.00",
+      "title": "Recreation Workers",
+      "zone": 4,
+      "pct": 65.2,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Monitoring",
+        "Instructing",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "39-7012.00",
+      "title": "Travel Guides",
+      "zone": 2,
+      "pct": 64.8,
+      "matched_skills": [
+        "Service Orientation",
+        "Speaking",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Coordination",
+        "Persuasion",
+        "Time Management",
+        "Sales and Marketing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 64.5,
+      "matched_skills": [
+        "Speaking",
+        "Education and Training",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking",
+        "Instructing",
+        "Service Orientation",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "19-2021.00",
+      "title": "Atmospheric and Space Scientists",
+      "zone": 4,
+      "pct": 64.3,
+      "matched_skills": [
+        "Mathematics",
+        "Physics",
+        "Computers and Electronics",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Science",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "41-4011.00",
+      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "zone": 4,
+      "pct": 64.3,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Speaking",
+        "Persuasion",
+        "Active Listening",
+        "Negotiation",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Coordination",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 63.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Active Listening",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking",
+        "Management of Personnel Resources"
+      ]
+    },
+    {
+      "soc": "41-9041.00",
+      "title": "Telemarketers",
+      "zone": 2,
+      "pct": 63.8,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Speaking",
+        "Persuasion",
+        "Active Listening",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 63.6,
+      "matched_skills": [
+        "Speaking",
+        "Service Orientation",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Mathematics",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 63.6,
+      "matched_skills": [
+        "Speaking",
+        "Education and Training",
+        "Active Listening",
+        "Writing",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Public Safety and Security",
+        "Biology",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 63.4,
+      "matched_skills": [
+        "Mathematics",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Active Learning",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "29-1292.00",
+      "title": "Dental Hygienists",
+      "zone": 3,
+      "pct": 63.4,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Monitoring",
+        "Writing",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 63.1,
+      "matched_skills": [
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Public Safety and Security",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "13-1199.06",
+      "title": "Online Merchants",
+      "zone": 4,
+      "pct": 62.9,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Communications and Media",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "13-1074.00",
+      "title": "Farm Labor Contractors",
+      "zone": 2,
+      "pct": 62.7,
+      "matched_skills": [
+        "Foreign Language",
+        "Speaking",
+        "Food Production",
+        "Mathematics",
+        "Active Listening",
+        "Management of Personnel Resources",
+        "Time Management",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "35-1011.00",
+      "title": "Chefs and Head Cooks",
+      "zone": 3,
+      "pct": 62.6,
+      "matched_skills": [
+        "Coordination",
+        "Food Production",
+        "Monitoring",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Social Perceptiveness",
+        "Time Management",
+        "Critical Thinking",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "19-4061.00",
+      "title": "Social Science Research Assistants",
+      "zone": 4,
+      "pct": 62.5,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Computers and Electronics",
+        "Speaking",
+        "Science",
+        "Administrative",
+        "Active Learning",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "45-2092.00",
+      "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "zone": 2,
+      "pct": 62.4,
+      "matched_skills": [
+        "Speaking",
+        "Active Listening",
+        "Biology",
+        "Food Production",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Operation and Control",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "51-1011.00",
+      "title": "First-Line Supervisors of Production and Operating Workers",
+      "zone": 3,
+      "pct": 62.4,
+      "matched_skills": [
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Time Management",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-2021.00",
+      "title": "Food Preparation Workers",
+      "zone": 2,
+      "pct": 62.3,
+      "matched_skills": [
+        "Active Listening",
+        "Service Orientation",
+        "Time Management",
+        "Food Production",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "31-9097.00",
+      "title": "Phlebotomists",
+      "zone": 3,
+      "pct": 62.3,
+      "matched_skills": [
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administrative",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "17-1021.00",
+      "title": "Cartographers and Photogrammetrists",
+      "zone": 4,
+      "pct": 62.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Writing",
+        "Active Listening",
+        "Design",
+        "Mathematics",
+        "Active Learning",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-2021.00",
+      "title": "Agricultural Engineers",
+      "zone": 4,
+      "pct": 62.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Design",
+        "Mathematics",
+        "Physics",
+        "Biology",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-1121.00",
+      "title": "Home Health Aides",
+      "zone": 2,
+      "pct": 61.8,
+      "matched_skills": [
+        "Active Listening",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Instructing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "19-4021.00",
+      "title": "Biological Technicians",
+      "zone": 4,
+      "pct": 61.8,
+      "matched_skills": [
+        "Biology",
+        "Critical Thinking",
+        "Active Listening",
+        "Science",
+        "Active Learning",
+        "Writing",
+        "Mathematics",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 61.7,
+      "matched_skills": [
+        "Monitoring",
+        "Public Safety and Security",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Listening",
+        "Learning Strategies",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "45-2041.00",
+      "title": "Graders and Sorters, Agricultural Products",
+      "zone": 2,
+      "pct": 61.0,
+      "matched_skills": [
+        "Monitoring",
+        "Food Production",
+        "Active Listening",
+        "Speaking",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Foreign Language",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "15-2051.01",
+      "title": "Business Intelligence Analysts",
+      "zone": 4,
+      "pct": 59.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Mathematics",
+        "Writing",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "51-6092.00",
+      "title": "Fabric and Apparel Patternmakers",
+      "zone": 3,
+      "pct": 59.3,
+      "matched_skills": [
+        "Design",
+        "Mathematics",
+        "Critical Thinking",
+        "Active Listening",
+        "Education and Training",
+        "Time Management",
+        "Active Learning",
+        "Mathematics",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "31-1133.00",
+      "title": "Psychiatric Aides",
+      "zone": 2,
+      "pct": 59.0,
+      "matched_skills": [
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Monitoring",
+        "Critical Thinking",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "47-2031.00",
+      "title": "Carpenters",
+      "zone": 2,
+      "pct": 58.7,
+      "matched_skills": [
+        "Administration and Management",
+        "Mathematics",
+        "Design",
+        "Public Safety and Security",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "zone": 3,
+      "pct": 58.7,
+      "matched_skills": [
+        "Monitoring",
+        "Coordination",
+        "Management of Personnel Resources",
+        "Time Management",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Design"
+      ]
+    },
+    {
+      "soc": "51-3021.00",
+      "title": "Butchers and Meat Cutters",
+      "zone": 2,
+      "pct": 58.5,
+      "matched_skills": [
+        "Food Production",
+        "Active Listening",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "15-2051.02",
+      "title": "Clinical Data Managers",
+      "zone": 4,
+      "pct": 58.3,
+      "matched_skills": [
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Active Learning",
+        "Monitoring",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "47-2221.00",
+      "title": "Structural Iron and Steel Workers",
+      "zone": 2,
+      "pct": 57.4,
+      "matched_skills": [
+        "Coordination",
+        "Operation and Control",
+        "Mathematics",
+        "Public Safety and Security",
+        "Active Listening",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "51-9123.00",
+      "title": "Painting, Coating, and Decorating Workers",
+      "zone": 2,
+      "pct": 57.4,
+      "matched_skills": [
+        "Active Listening",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Speaking",
+        "Time Management",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 57.1,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Speaking",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Monitoring",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "15-2099.01",
+      "title": "Bioinformatics Technicians",
+      "zone": 4,
+      "pct": 57.0,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Mathematics",
+        "Biology",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "33-3021.06",
+      "title": "Intelligence Analysts",
+      "zone": 4,
+      "pct": 57.0,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Public Safety and Security",
+        "Active Learning",
+        "Administrative",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 56.9,
+      "matched_skills": [
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "53-6061.00",
+      "title": "Passenger Attendants",
+      "zone": 2,
+      "pct": 56.8,
+      "matched_skills": [
+        "Service Orientation",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Public Safety and Security",
+        "Coordination",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "29-1126.00",
+      "title": "Respiratory Therapists",
+      "zone": 3,
+      "pct": 56.7,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Education and Training",
+        "Active Learning",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "53-6011.00",
+      "title": "Bridge and Lock Tenders",
+      "zone": 2,
+      "pct": 56.1,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Monitoring",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Operation and Control",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "29-2055.00",
+      "title": "Surgical Technologists",
+      "zone": 3,
+      "pct": 56.1,
+      "matched_skills": [
+        "Monitoring",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Education and Training",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "29-2034.00",
+      "title": "Radiologic Technologists and Technicians",
+      "zone": 3,
+      "pct": 56.0,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Administrative",
+        "Education and Training",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 55.6,
+      "matched_skills": [
+        "Administrative",
+        "Writing",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 54.5,
+      "matched_skills": [
+        "Monitoring",
+        "Administration and Management",
+        "Management of Personnel Resources",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "49-9012.00",
+      "title": "Control and Valve Installers and Repairers, Except Mechanical Door",
+      "zone": 3,
+      "pct": 52.3,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Mathematics",
+        "Design",
+        "Active Listening",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 50.2,
+      "matched_skills": [
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "21-1015.00",
+      "title": "Rehabilitation Counselors",
+      "zone": 4,
+      "pct": 50.0,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Monitoring",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 49.2,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Time Management",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "49-2093.00",
+      "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "zone": 3,
+      "pct": 48.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Mathematics",
+        "Public Safety and Security",
+        "Critical Thinking",
+        "Design",
+        "Education and Training",
+        "Active Listening"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 18,
+      "title": "Research & Clinical Writer/Editor, YSM/YM",
+      "company": "Yale University",
+      "url": "https://yale.wd1.myworkdayjobs.com/job/Science-Park-Bldg-02/Research---Clinical-Writer-Editor--YSM-YM_135099WD",
+      "match_score": 55,
+      "embed_sim": 0.49890512228012085,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Arts/Design/Media",
+      "comparisons": 6,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Yamin's resume displays a range of academic and hands-on experience in community research and public health but lacks direct experience in the specific writing, editing, and digital content creation required for the Research & Clinical Writer/Editor position at Yale. Overall, the candidate shows potential but has gaps in relevant skills and experience that would make a direct fit challenging.",
+        "strengths": [
+          "Strong academic background in sociology with a focus on community health research",
+          "Experience in conducting community-based surveys and data analysis",
+          "Passion for education, research, and positive community impact",
+          "Proficiency in utilizing technology (Google Suite, Microsoft Excel) for data organization and analysis"
+        ],
+        "gaps": [
+          "No demonstrated experience in writing/editing academic or clinical content",
+          "Lacks familiarity with SEO/AEO best practices and structured content principles",
+          "Limited direct experience in media relations and communications strategy",
+          "No background in digital content management systems or creating public-facing narratives",
+          "Lacks a specific focus on health, science, or academic communications as outlined in the job description"
+        ]
+      },
+      "blended_score": 78
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 3,
+      "title": "English as a New Language Specialist",
+      "company": "Uncommon Schools",
+      "url": "https://jobs.smartrecruiters.com/UncommonSchools/744000127776325",
+      "match_score": 65,
+      "embed_sim": 0.46334734559059143,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Business & Finance",
+      "comparisons": 0,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate shows some relevant experience in community engagement and education, but lacks specific qualifications in English language instruction and the necessary certification. Their leadership roles demonstrate skills in advocacy and collaboration, but the gaps in direct teaching experience with English language learners are significant.",
+        "strengths": [
+          "Experience in community health research and data analysis, which may translate to assessing student needs",
+          "Passion for education and advocacy for diversity and inclusion, aligning with Uncommon Schools' mission",
+          "Experience teaching effective study skills, which indicates potential instructional ability"
+        ],
+        "gaps": [
+          "No TESOL certification, which is a requirement for the job",
+          "Lack of direct experience teaching English to speakers of other languages",
+          "Limited experience in K-12 settings, particularly with English Language Learners, as the majority of roles listed are internships or involve non-teaching positions"
+        ]
+      },
+      "blended_score": 71
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 5,
+      "title": "Member Acquisition Specialist - Santa Clara",
+      "company": "Zócalo Health",
+      "url": "https://job-boards.greenhouse.io/zocalohealth/jobs/5229603008",
+      "match_score": 70,
+      "embed_sim": 0.4086041748523712,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Business & Finance",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "The candidate has relevant experience in community outreach, research, and a strong commitment to diversity and inclusion, making them a suitable fit for the Member Acquisition Specialist role. However, there are gaps in specific experience related to healthcare enrollment and bilingual requirements.",
+        "strengths": [
+          "Experience conducting community-based surveys and engaging with diverse populations in Togo, showing ability in outreach and public engagement.",
+          "Strong background in research and data analysis, valuable for assessing community needs and enrollment metrics.",
+          "Active participation in committees focused on diversity, equity, and inclusion, indicating strong relationship-building and communication skills."
+        ],
+        "gaps": [
+          "Lacks direct experience in healthcare enrollment or similar roles, which is a key requirement of the position.",
+          "No evidence of bilingual English-Spanish skills, which is compulsory for the job.",
+          "Limited specific experience with performance-based goals in healthcare or member acquisition contexts."
+        ]
+      },
+      "blended_score": 55
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 21,
+      "title": "Talent Acquisition Specialist",
+      "company": "protectdemocracy",
+      "url": "https://protectdemocracy.recruitee.com/o/talent-acquisition-specialist",
+      "match_score": 60,
+      "embed_sim": 0.42432743310928345,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Business & Finance",
+      "comparisons": 6,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "The candidate has some relevant experience and skills related to talent acquisition and community engagement, but lacks direct experience in formal talent acquisition roles and specific knowledge of recruiting processes, which are crucial for the position.",
+        "strengths": [
+          "Experience as a Student Representative focusing on diversity, equity, and inclusion which aligns with the organization's values",
+          "Strong communication skills demonstrated through various roles that involved teaching, supervising, and translating which could contribute to candidate interactions",
+          "Experience in community-based surveys and research, which may be beneficial for understanding diverse candidate pools and community engagement"
+        ],
+        "gaps": [
+          "No formal experience in recruitment or coordinating hiring processes as specified in the job description",
+          "Lacks direct experience with applicant tracking systems or administering hiring analytics, critical for talent acquisition roles",
+          "Limited evidence of experience in managing candidate experience and onboarding processes, which are essential functions of the Talent Acquisition Specialist role"
+        ]
+      },
+      "blended_score": 55
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 2,
+      "title": "Talent Acquisition Coordinator",
+      "company": "Harlem Children’s Zone",
+      "url": "https://apply.workable.com/j/22ECE68B19",
+      "match_score": 65,
+      "embed_sim": 0.4123532474040985,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Business & Finance",
+      "comparisons": 8,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "While the candidate possesses relevant experience and a commitment to social causes, they lack specific recruitment coordination and HR operations experience that is crucial for the Talent Acquisition Coordinator role.",
+        "strengths": [
+          "Passionate about education and community engagement which aligns with HCZ's mission.",
+          "Experience in diverse environments and strong communication skills, beneficial for candidate interactions.",
+          "Proven ability to manage projects and coordinate with teams, exemplified in various internships and leadership roles."
+        ],
+        "gaps": [
+          "No experience in recruitment coordination or HR operations as specifically required.",
+          "Lacks familiarity with an applicant tracking system (ATS) such as Workable, which is mentioned in the job description.",
+          "No direct experience in high-volume scheduling or managing tight deadlines as outlined in the responsibilities."
+        ]
+      },
+      "blended_score": 53
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 4,
+      "title": "Member Acquisition Specialist - Riverside",
+      "company": "Zócalo Health",
+      "url": "https://job-boards.greenhouse.io/zocalohealth/jobs/5255744008",
+      "match_score": 65,
+      "embed_sim": 0.4052347242832184,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Business & Finance",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has relevant experiences related to community engagement and outreach, but lacks direct experience in healthcare enrollment and bilingual capabilities necessary for the Member Acquisition Specialist role.",
+        "strengths": [
+          "Experience in community-based research and surveys assessing healthcare access and socio-economic factors during the internship in Togo.",
+          "Participation in faculty-led committees focused on diversity and inclusion, indicating strong communication and relationship-building skills.",
+          "Experience teaching first-year students effective study skills, which demonstrates the ability to guide individuals through processes."
+        ],
+        "gaps": [
+          "No direct experience in healthcare enrollment or member acquisition processes as required.",
+          "Lacks the preferred bilingual English-Spanish fluency which is critical for the role.",
+          "Limited experience with performance metrics or outreach targets specific to healthcare, as the experience is more focused on research and education than direct community engagement for healthcare enrollment."
+        ]
+      },
+      "blended_score": 51
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 12,
+      "title": "Teacher - Art",
+      "company": "The Leona Group",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3431834",
+      "match_score": 55,
+      "embed_sim": 0.4153319299221039,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Education",
+      "comparisons": 1,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "The candidate possesses some relevant experience and skills that pertain to teaching and community engagement. However, there are significant gaps related to formal teaching experience and state licensure, which are critical for the position.",
+        "strengths": [
+          "Experience working with students as a Study Hours Proctor, promoting effective study skills.",
+          "Community engagement through research projects and initiatives, demonstrating commitment to education and positive change.",
+          "Collaborative experiences within educational settings and committees focusing on diversity, equity, and inclusion."
+        ],
+        "gaps": [
+          "No formal teaching experience or training specifically in art education.",
+          "Lacks state teacher licensure/certification required for working in the teaching role.",
+          "Limited evidence of developing lesson plans or curriculum aligned to standards, which is essential for the job role."
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 11,
+      "title": "Recruitment and Talent Specialist (Bilingual English/Spanish)",
+      "company": "Walmart (donation site roles)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260394",
+      "match_score": 40,
+      "embed_sim": 0.43477246165275574,
+      "verdict": "weak",
+      "zone": 3,
+      "family": "Business & Finance",
+      "comparisons": 4,
+      "why": {
+        "verdict": "weak",
+        "match_score": 40,
+        "summary": "The candidate's resume demonstrates some relevant skills and experience, particularly in community engagement and advocacy. However, there are significant gaps in requirements such as bilingual Spanish proficiency, direct recruitment experience, and demonstrated personal computer skills relevant to the job.",
+        "strengths": [
+          "Experience in community health research and data analysis",
+          "Strong advocacy for diversity and inclusion",
+          "Experience in teaching and guiding peers"
+        ],
+        "gaps": [
+          "No demonstrated fluency in Spanish, which is a requirement",
+          "Lacks direct experience in recruitment and talent assessment",
+          "No experience in job search assistance or resume building",
+          "Limited computer skills evidence regarding Windows and Microsoft Office Suite",
+          "No experience in community partnerships or maintaining job opportunity lists"
+        ]
+      },
+      "blended_score": 48
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 13,
+      "title": "Teacher - Middle School Art Teacher",
+      "company": "The Leona Group",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2634320",
+      "match_score": 50,
+      "embed_sim": 0.4153319299221039,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Education",
+      "comparisons": 6,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "Yamin's resume shows involvement in education and community engagement, but lacks specific art teaching experience and credentials required for the teaching position.",
+        "strengths": [
+          "Experience as a Student Representative focused on diversity, equity, and inclusion, indicating an understanding of diverse student needs.",
+          "Involvement in educational activities such as teaching study skills to first-year students.",
+          "Internship experience in community health research which shows ability to collect and analyze data, useful for assessing student needs."
+        ],
+        "gaps": [
+          "No direct experience in teaching art or a related subject, which is essential for the position.",
+          "Lacks state teacher licensure/certification required for teaching roles.",
+          "General educational background is in Sociology, not art or a related field, making it unclear how well aligned it is with subject area requirements."
+        ]
+      },
+      "blended_score": 47
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 25,
+      "title": "[2026-2027] Middle School Art Teacher",
+      "company": "KIPP Public Schools",
+      "url": "https://jobs.smartrecruiters.com/KIPP/744000114469435",
+      "match_score": 55,
+      "embed_sim": 0.40873560309410095,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Education",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "The candidate has some experience in community engagement and education, but lacks direct teaching experience and specific qualifications for the Middle School Art Teacher position.",
+        "strengths": [
+          "Experience in community health research and engagement, aligning with the school's mission to empower communities.",
+          "Participation in diversity, equity, and inclusion initiatives which align with the job's cultural competence requirement.",
+          "Demonstrated leadership and collaboration skills through various roles like Student Representative and Team Lead."
+        ],
+        "gaps": [
+          "No direct teaching experience, particularly in art, which is a core requirement of the job description.",
+          "Lacks Pennsylvania State certification, and does not mention any plans to enroll in a certification program.",
+          "No specific experience in creating lesson plans or managing a classroom, which are critical for teaching roles."
+        ]
+      },
+      "blended_score": 47
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

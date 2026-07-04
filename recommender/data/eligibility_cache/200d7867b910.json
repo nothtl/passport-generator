@@ -1,0 +1,42 @@
+{
+  "General Requisition-EVT (ARL)|||pregis": {
+    "eligible": true,
+    "reason": "General requisition, no age restriction implied."
+  },
+  "Youth Development Professional (Houston Pasadena Corps)|||tsa": {
+    "eligible": true,
+    "reason": "Youth development role, suitable for 16-20."
+  },
+  "Youth Development Professional (Houston Temple Corps)|||tsa": {
+    "eligible": true,
+    "reason": "Youth development role, suitable for 16-20."
+  },
+  "Instructional Aide|||accelschools": {
+    "eligible": true,
+    "reason": "Instructional aide, no age restriction."
+  },
+  "Learning & Development Facilitator|||basspro": {
+    "eligible": true,
+    "reason": "Learning facilitator, no age restriction."
+  },
+  "Childcare Assistant Teacher \u2013 Before & After School": {
+    "eligible": true,
+    "reason": "Childcare assistant, no age restriction."
+  },
+  "Admission Counselor I|||slu": {
+    "eligible": true,
+    "reason": "Admission counselor, no age restriction."
+  },
+  "Education - AmeriCorps|||theirc": {
+    "eligible": true,
+    "reason": "AmeriCorps education role, no age restriction."
+  },
+  "Substitute Teacher": {
+    "eligible": true,
+    "reason": "Substitute teacher, no age restriction."
+  },
+  "Associate Curriculum Alignment Specialist|||ixllearning": {
+    "eligible": true,
+    "reason": "Curriculum alignment specialist, no age restriction."
+  }
+}

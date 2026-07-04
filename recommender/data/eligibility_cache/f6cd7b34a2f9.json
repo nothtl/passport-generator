@@ -1,0 +1,14 @@
+{
+  "BAYADA Employment Inquiry|||bayada": {
+    "eligible": true,
+    "reason": "Home healthcare roles like employment inquiry at BAYADA are suitable for 16-20 year olds."
+  },
+  "Direct Support Professional (DSP) - All Shifts Available": {
+    "eligible": true,
+    "reason": "Direct Support Professional (DSP) is a caregiving role that does not require age 21+."
+  },
+  "Respite Care Provider|||esoconsultants": {
+    "eligible": true,
+    "reason": "Respite care provider is a caregiving role suitable for minors/young adults."
+  }
+}

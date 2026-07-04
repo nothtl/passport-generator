@@ -207,32 +207,34 @@
     "workspace"
   ],
   "inferred": [
-    "Problem Solving",
-    "Multitasking",
-    "Attention to Detail"
+    "Customer Service",
+    "Bilingual Communication",
+    "Technical Support"
   ],
   "implicit_skills": [
     {
-      "skill": "Problem Solving",
-      "reason": "Troubleshooting and technical support imply problem-solving ability.",
+      "skill": "Customer Service",
+      "reason": "Listed as 'customer service excellence' and 'service excellence'",
       "confidence": "medium"
     },
     {
-      "skill": "Multitasking",
-      "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+      "skill": "Bilingual Communication",
+      "reason": "Mentioned 'bilingual', 'spanish english', 'translation'",
       "confidence": "medium"
     },
     {
-      "skill": "Attention to Detail",
-      "reason": "Organizational skills and administrative tasks require attention to detail.",
+      "skill": "Technical Support",
+      "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
+    "multitasking",
     "wellness"
   ],
   "core_gaps": [
+    "multitasking",
     "wellness"
   ],
   "bridge_gaps": [
@@ -265,9 +267,7 @@
     "ma-certification",
     "observational-skills"
   ],
-  "verify_gaps": [
-    "multitasking"
-  ],
+  "verify_gaps": [],
   "related": [],
   "related_skills": [],
   "alternatives": [
@@ -292,20 +292,20 @@
       "pct": 6
     }
   ],
-  "coach_notes": "For a technology path, focus first on wellness. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a technology path, focus first on multitasking, wellness. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Physical Therapy Technician",
       "company": "urpt",
       "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
-      "fit": 95,
+      "fit": 81,
       "job_type": "goal",
       "subdomain": "software",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
+        "goal_alignment": 0.375,
         "study_alignment": 0.222,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -315,20 +315,20 @@
       },
       "eligible": true,
       "eligibility_reason": "No age restriction for this role.",
-      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and teamwork skills, which are directly transferable to IT roles like coordinating projects and documenting technical processes. Your multitasking and customer service experience will also help you troubleshoot user issues and manage support tickets effectively."
+      "bridge": "As a Physical Therapy Technician, you'll sharpen your coordination, active listening, and time management skills while gaining hands-on experience with documentation and teamwork—all of which are directly transferable to software development, where organizing code, troubleshooting issues, and collaborating with teams are essential."
     },
     {
       "title": "Patient Experience Coordinator (Hyde Park)",
       "company": "TVG-MedullaLLC",
       "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884025",
-      "fit": 59,
+      "fit": 61,
       "job_type": "bridge",
       "subdomain": "systems",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
+        "goal_alignment": 0.125,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.2,
         "experience_alignment": 0.0,
@@ -338,7 +338,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Patient coordinator, no age restriction.",
-      "bridge": "As a Patient Experience Coordinator, you'll sharpen your communication, organization, and multitasking skills—directly transferable to IT support and development roles where troubleshooting, coordination, and active listening are key. This role builds a strong foundation in customer service and teamwork, which are essential for collaborating on software projects and supporting end-users effectively."
+      "bridge": "As a Patient Experience Coordinator, you'll sharpen your communication and coordination skills, which are directly transferable to IT roles where you'll need to troubleshoot issues and manage projects. This role also builds your leadership and teamwork abilities, essential for collaborating on software development teams."
     },
     {
       "title": "Health Center Assistant - Springfield, MO 4/8/2026",
@@ -349,9 +349,9 @@
       "subdomain": "it-support",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
+        "goal_alignment": 0.125,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -363,28 +363,6 @@
       "eligibility_reason": "Health center assistant role does not require age 21+ and is suitable for minors/young adults."
     },
     {
-      "title": "Patient Experience Coordinator (Des Plaines)",
-      "company": "TVG-MedullaLLC",
-      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884648",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "systems",
-      "function": "healthcare",
-      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.2,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.455,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Patient coordinator, no age restriction."
-    },
-    {
       "title": "Patient Experience Coordinator (Wentzville)",
       "company": "TVG-MedullaLLC",
       "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
@@ -393,14 +371,36 @@
       "subdomain": "systems",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
+        "goal_alignment": 0.125,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.2,
         "experience_alignment": 0.0,
         "attainability": 0.85,
         "skill_overlap": 0.625,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction."
+    },
+    {
+      "title": "Patient Experience Coordinator (Des Plaines)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884648",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "multitasking, wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.125,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.455,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -412,14 +412,14 @@
       "title": "Physical Therapy Technician",
       "company": "urpt",
       "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
-      "fit": 95,
+      "fit": 81,
       "job_type": "goal",
       "subdomain": "software",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
+        "goal_alignment": 0.375,
         "study_alignment": 0.222,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -429,20 +429,20 @@
       },
       "eligible": true,
       "eligibility_reason": "No age restriction for this role.",
-      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and teamwork skills, which are directly transferable to IT roles like coordinating projects and documenting technical processes. Your multitasking and customer service experience will also help you troubleshoot user issues and manage support tickets effectively."
+      "bridge": "As a Physical Therapy Technician, you'll sharpen your coordination, active listening, and time management skills while gaining hands-on experience with documentation and teamwork—all of which are directly transferable to software development, where organizing code, troubleshooting issues, and collaborating with teams are essential."
     },
     {
       "title": "Patient Experience Coordinator (Hyde Park)",
       "company": "TVG-MedullaLLC",
       "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884025",
-      "fit": 59,
+      "fit": 61,
       "job_type": "bridge",
       "subdomain": "systems",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
+        "goal_alignment": 0.125,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.2,
         "experience_alignment": 0.0,
@@ -452,7 +452,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Patient coordinator, no age restriction.",
-      "bridge": "As a Patient Experience Coordinator, you'll sharpen your communication, organization, and multitasking skills—directly transferable to IT support and development roles where troubleshooting, coordination, and active listening are key. This role builds a strong foundation in customer service and teamwork, which are essential for collaborating on software projects and supporting end-users effectively."
+      "bridge": "As a Patient Experience Coordinator, you'll sharpen your communication and coordination skills, which are directly transferable to IT roles where you'll need to troubleshoot issues and manage projects. This role also builds your leadership and teamwork abilities, essential for collaborating on software development teams."
     }
   ],
   "aspirational": [
@@ -465,9 +465,9 @@
       "subdomain": "it-support",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
+        "goal_alignment": 0.125,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -479,28 +479,6 @@
       "eligibility_reason": "Health center assistant role does not require age 21+ and is suitable for minors/young adults."
     },
     {
-      "title": "Patient Experience Coordinator (Des Plaines)",
-      "company": "TVG-MedullaLLC",
-      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884648",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "systems",
-      "function": "healthcare",
-      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.2,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.455,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Patient coordinator, no age restriction."
-    },
-    {
       "title": "Patient Experience Coordinator (Wentzville)",
       "company": "TVG-MedullaLLC",
       "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
@@ -509,9 +487,9 @@
       "subdomain": "systems",
       "function": "healthcare",
       "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
-      "gaps": "wellness",
+      "gaps": "multitasking, wellness",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
+        "goal_alignment": 0.125,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.2,
         "experience_alignment": 0.0,
@@ -521,9 +499,31 @@
       },
       "eligible": true,
       "eligibility_reason": "Patient coordinator, no age restriction."
+    },
+    {
+      "title": "Patient Experience Coordinator (Des Plaines)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884648",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "multitasking, wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.125,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.455,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction."
     }
   ],
-  "skill_path": "Start by building wellness skills through online courses or certifications, as they're foundational for tech roles focusing on health tech. Look for entry-level IT support roles in healthcare settings to gain experience with systems like Epic. Gradually transition into software engineering by contributing to open-source health projects or taking coding bootcamps.",
+  "skill_path": "Start by building foundational skills in clinical proficiency and Epic systems through online courses or certifications, which are highly valued in healthcare IT roles. Look for entry-level positions like IT Support Specialist in a hospital or clinic to gain hands-on experience while developing your multitasking and caregiving abilities. As you grow, seek mentorship and leadership training to prepare for a Software Engineer role focused on healthcare applications.",
   "ideal_careers": [
     "Software Engineer",
     "IT Support Specialist",
@@ -534,9 +534,8 @@
       "technology"
     ],
     "goal_roles": [
-      "Software Engineer",
       "IT Support Specialist",
-      "Developer"
+      "Software Engineer"
     ],
     "goal_subdomains": [
       "it-support",
@@ -546,7 +545,7 @@
       "education"
     ],
     "study_subdomains": [
-      "classroom-support"
+      "community-education"
     ],
     "study_program": "High School Diploma in Leadership, Bilingual Communication, and",
     "study_level": "high-school",
@@ -623,11 +622,12 @@
         "it-support",
         "software"
       ],
-      "study_subdomains": [],
+      "study_subdomains": [
+        "community-education"
+      ],
       "goal_roles": [
-        "Software Engineer",
         "IT Support Specialist",
-        "Developer"
+        "Software Engineer"
       ],
       "confidence": 0.7,
       "evidence_spans": [
@@ -646,7 +646,7 @@
       ],
       "reason_codes": [
         "explicit_goal",
-        "experience_technical_support"
+        "experience_tech"
       ],
       "review_reasons": []
     },
@@ -792,18 +792,18 @@
       ],
       "implicit_skills": [
         {
-          "skill": "Problem Solving",
-          "reason": "Troubleshooting and technical support imply problem-solving ability.",
+          "skill": "Customer Service",
+          "reason": "Listed as 'customer service excellence' and 'service excellence'",
           "confidence": "medium"
         },
         {
-          "skill": "Multitasking",
-          "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+          "skill": "Bilingual Communication",
+          "reason": "Mentioned 'bilingual', 'spanish english', 'translation'",
           "confidence": "medium"
         },
         {
-          "skill": "Attention to Detail",
-          "reason": "Organizational skills and administrative tasks require attention to detail.",
+          "skill": "Technical Support",
+          "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'",
           "confidence": "medium"
         }
       ],

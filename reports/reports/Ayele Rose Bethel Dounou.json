@@ -1,0 +1,509 @@
+{
+  "name": "Ayele Rose Bethel Dounou",
+  "zone": 2,
+  "education_level": "high_school",
+  "source_files": [
+    "Ayele Rose Bethel Dounou - Resume.pdf",
+    "Ayele Rose Bethel Dounou - LinkedIn.md"
+  ],
+  "skills": [
+    "Customer and Personal Service",
+    "Service Orientation",
+    "Coordination",
+    "Speaking",
+    "Foreign Language",
+    "English Language",
+    "Active Learning",
+    "Active Listening",
+    "Complex Problem Solving",
+    "Administration and Management",
+    "Time Management",
+    "Quality Control Analysis",
+    "Production and Processing",
+    "Economics and Accounting",
+    "Mathematics",
+    "Operation and Control",
+    "Monitoring",
+    "Management of Material Resources",
+    "Public Safety and Security",
+    "Computers and Electronics",
+    "Instructing",
+    "Management of Personnel Resources",
+    "Social Perceptiveness",
+    "Design",
+    "Sales and Marketing",
+    "Learning Strategies",
+    "Writing",
+    "Critical Thinking",
+    "Judgment and Decision Making",
+    "Food Production",
+    "Operations Analysis",
+    "Communications and Media",
+    "Therapy and Counseling",
+    "Persuasion"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Provided excellent customer service to guests; Delivered exceptional customer service to patrons; Delivered excellent customer service in a fast-paced environment; Assisted customers and provided high-quality service",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Passionate about serving others; Provided excellent customer service to guests; Supported communication to help students meet academic goals; School Ambassador",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Coordinated with kitchen and event staff to ensure smooth event operations; Manage reservations and waitlists efficiently; Seat guests and coordinate table assignments; Collaborated with team members to resolve guest concerns; Plan activities, retreats, service projects, and community outreach initiatives; Coordinate collection and distribution of supplies for families in need",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Communicate with servers and management to maintain smooth service; Address guest questions and concerns professionally; Lead and mentor middle and high school students; Assisted students and families by translating; Student Government President; School Ambassador",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Assisted students and families by translating between teachers and students; Languages: French, Fulani, Sosso, Mandingo, Ewe",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Languages: English; Salutatorian, Class of 2024",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Participated in leadership development and career readiness programs; Received professional coaching on resumes, interviews, and workplace skills; Completed individual projects focused on professional growth; Salutatorian, Class of 2024",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Address guest questions and concerns professionally; Resolved customer concerns and inquiries; Assisted students and families by translating",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "problem-solving in fast-paced environments; Address guest questions and concerns professionally; Resolved customer concerns and inquiries",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Manage reservations and waitlists efficiently; Processed customer orders accurately and efficiently; Assisted with inventory management and stock organization; Plan activities, retreats, service projects, and community outreach initiatives",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Manage reservations and waitlists efficiently; Processed customer orders accurately and efficiently; Delivered excellent customer service in a fast-paced environment; Perfect Attendance Award (2021–2022)",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Maintained cleanliness and adhered to food safety standards; Maintained a safe and secure environment; Prepared food and beverage items according to company standards; Maintained cleanliness in dining and kitchen areas",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "Assisted with event setup, service, and cleanup; Maintained cleanliness and adhered to food safety standards; Prepared food and beverage items according to company standards; Maintained cleanliness in dining and kitchen areas",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Handled cash and electronic transactions; Processed sales transactions and managed cash handling",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "Handled cash and electronic transactions; Processed sales transactions and managed cash handling",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Utilized ticketing and point-of-sale systems; Handled cash and electronic transactions; Processed sales transactions and managed cash handling",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Monitored food stations during events; Managed guest flow during events and performances; Maintained a safe and secure environment",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Restocked supplies and monitored food stations during events; Assisted with inventory management and stock organization; Coordinate collection and distribution of supplies for families in need",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Maintained a safe and secure environment",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Utilized ticketing and point-of-sale systems; Microsoft Office; Google Workspace",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Lead and mentor middle and high school students through faith-based programs; Provide guidance and support to encourage personal and spiritual growth",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Personnel Resources",
+      "evidence": "Lead and mentor middle and high school students; Student Government President",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Greet guests and create a welcoming dining experience; Provide guidance and support to encourage personal and spiritual growth",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Plan activities, retreats, service projects, and community outreach initiatives",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "Assist with fundraising efforts and donation drives",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Participated in leadership development and career readiness programs; Received professional coaching on resumes, interviews, and workplace skills; Salutatorian, Class of 2024",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Published family recipe in Food Memories: A Collection of Recipes from the Heart; Received professional coaching on resumes",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Salutatorian, Class of 2024",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "Student Government President",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "Prepared food and beverage items according to company standards; Published family recipe in Food Memories: A Collection of Recipes from the Heart",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "Coordinated with kitchen and event staff to ensure smooth event operations; Managed guest flow during events and performances; Processed customer orders accurately and efficiently",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Assisted students and families by translating between teachers and students; Supported communication to help students meet academic goals; School Ambassador",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Therapy and Counseling",
+      "evidence": "Provide guidance and support to encourage personal and spiritual growth",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Student Government President; School Ambassador",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "39-3091.00",
+      "title": "Amusement and Recreation Attendants",
+      "zone": 2,
+      "pct": 86.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Monitoring",
+        "Coordination",
+        "Critical Thinking",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 86.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Public Safety and Security",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "35-9011.00",
+      "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "zone": 2,
+      "pct": 86.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Food Production",
+        "Sales and Marketing",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 86.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 85.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Food Production",
+        "Mathematics",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Computers and Electronics",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "35-1012.00",
+      "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+      "zone": 2,
+      "pct": 85.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Management of Personnel Resources",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Active Listening",
+        "Instructing",
+        "Service Orientation",
+        "Administration and Management",
+        "Food Production",
+        "English Language",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "51-3011.00",
+      "title": "Bakers",
+      "zone": 2,
+      "pct": 85.4,
+      "matched_skills": [
+        "Production and Processing",
+        "Customer and Personal Service",
+        "Food Production",
+        "Monitoring",
+        "English Language",
+        "Mathematics",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 85.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 12,
+      "title": "Server",
+      "company": "Bourbon & Bones Lounge (Square One Concepts)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4234761",
+      "match_score": 88,
+      "comparisons": 19,
+      "why": {
+        "verdict": "solid",
+        "match_score": 88,
+        "summary": "Ayele Rose Bethel Dounou's resume showcases strong experience in guest services and customer interaction, making her a solid candidate for the server position. She has relevant experience in hospitality and has demonstrated the necessary customer service skills. However, there are a couple of gaps related to specific certifications and previous direct server experience, but her background in related roles provides a good foundation.",
+        "strengths": [
+          "Extensive experience in hospitality and guest services roles.",
+          "Strong customer service skills as shown in various positions including Caterer Events Assistant and Usher/Guest Services.",
+          "Experience in managing guest flow and resolving issues, which aligns with server responsibilities.",
+          "Effective communication and teamwork abilities demonstrated through multiple roles and volunteer leadership experience."
+        ],
+        "gaps": [
+          "No specific experience listed as a server, only related roles that involve similar skills.",
+          "Does not mention possession of Food Handlers Certification or Alcohol Service Licensing, which are required for the job.",
+          "Lacks detailed experience with POS systems, although she has some exposure to ticketing and point-of-sale systems."
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 1,
+      "title": "Server (550 Madison)",
+      "company": "Gracious Hospitality Management",
+      "url": "https://job-boards.greenhouse.io/550/jobs/5041485008",
+      "match_score": 85,
+      "comparisons": 20,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Ayele Rose Bethel Dounou has a strong background in hospitality and customer service, with relevant experience that aligns closely with the job requirements for the Server position at 550 Madison.",
+        "strengths": [
+          "Extensive experience in customer service roles, particularly in hospitality and dining environments.",
+          "Proven ability to create welcoming experiences and maintain strong guest relations as a Host and Usher.",
+          "Experience in event support and catering, demonstrating organizational skills that would benefit the dining environment.",
+          "Strong teamwork and communication skills showcased through various positions and volunteer leadership roles."
+        ],
+        "gaps": [
+          "Lacks specific experience with high-end dining service protocols and familiarity with wine and beverage pairings which are crucial for the server role.",
+          "No evidence of familiarity with point-of-sale systems at a fine dining level; experience noted is mainly in faster-paced environments.",
+          "Limited experience in managing dietary restrictions and allergies in a fine dining context, which is essential for this position."
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 4,
+      "title": "Guest Services Staff - Agora /Jacobs Pavilion / Globe Iron",
+      "company": "Anschutz Entertainment Group (AEG)",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7975087002",
+      "match_score": 85,
+      "comparisons": 29,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "The candidate's resume reflects strong experience in customer service and event support roles within the hospitality sector, along with relevant skills and volunteer experience that align with the Guest Services Staff position. However, some specific experience in ticket scanning and knowledge of the music industry is not explicitly stated, which creates a slight gap in meeting all job qualifications.",
+        "strengths": [
+          "Experience in customer service and guest services roles at venues like Madison Square Garden and Havana Central.",
+          "Strong communication skills demonstrated through various roles and volunteer experiences.",
+          "Ability to manage guest flow, address concerns, and maintain a welcoming environment during events.",
+          "Experience in coordinating events, ensuring smooth operations, and adhering to safety standards, which is relevant to the job's requirements."
+        ],
+        "gaps": [
+          "No explicit experience mentioned with ticket scanning or monitoring of alcohol consumption.",
+          "Lack of direct experience in a large-scale venue similar to Agora or Jacobs Pavilion.",
+          "No mention of availability to work nights, weekends, and holidays, which is a key requirement for the role."
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 5,
+      "title": "Banquet Server Part/Time ($23 hr) - The Watermark Hotel",
+      "company": "B. F. Saul Company Hospitality Group",
+      "url": "https://jobs.lever.co/bfsaulhotels/746a5f27-2a99-4370-890d-3d5fdfae95d6",
+      "match_score": 85,
+      "comparisons": 27,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "The candidate has relevant experience in hospitality and customer service that aligns well with the requirements for the Banquet Server position. Their background in event assistance and guest services demonstrates a solid foundation for the role, though they may need further training in formal banquet services to fully meet all expectations.",
+        "strengths": [
+          "Experience in catering and events, providing a direct match for banquet service roles.",
+          "Strong customer service skills demonstrated through various roles, ensuring guest satisfaction.",
+          "Ability to work in fast-paced environments, essential for banquet settings."
+        ],
+        "gaps": [
+          "Specific experience as a banquet server is not mentioned, potentially lacking direct exposure to formal banquet protocols and procedures.",
+          "No evidence of familiarity with local liquor laws or detailed adherence to health regulations as required in the job description."
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 7,
+      "title": "Banquet Houseman",
+      "company": "Ameswell Hotel",
+      "url": "https://ameswellhotel.pinpointhq.com/en/postings/3440f4d7-7af7-42c2-b43e-3d47ec1963c9",
+      "match_score": 85,
+      "comparisons": 20,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Ayele Rose Bethel Dounou has a solid background in hospitality and event support, making her a good fit for the Banquet Houseman position. Her experience with catering, event assistance, and strong emphasis on customer service aligns well with the role's requirements. However, more specific evidence of physical tasks and room transformation experience would strengthen the match further.",
+        "strengths": [
+          "Experience as a Catering & Events Assistant, which involves setup and service for events",
+          "Strong customer service skills demonstrated in multiple roles",
+          "Ability to coordinate with teams effectively",
+          "Familiarity with maintaining cleanliness and adhering to safety standards"
+        ],
+        "gaps": [
+          "Lacks direct experience specifically listed as 'houseman' duties such as setting up and tearing down events or physical labor specifics",
+          "No explicit mention of experience transforming event spaces or handling furniture and equipment"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 4898,
+    "ranked": 4898,
+    "explained": 52,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

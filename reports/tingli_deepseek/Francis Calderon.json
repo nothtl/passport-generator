@@ -5,29 +5,27 @@
   "skills": [
     "Instructing",
     "Fine Arts",
-    "Customer and Personal Service",
     "Service Orientation",
     "Coordination",
     "Monitoring",
     "Food Production",
+    "Customer and Personal Service",
     "Time Management",
     "Active Learning",
     "Foreign Language",
-    "Social Perceptiveness",
     "bilingual"
   ],
   "verified_skills": [
     "Instructing",
     "Fine Arts",
-    "Customer and Personal Service",
     "Service Orientation",
     "Coordination",
     "Monitoring",
     "Food Production",
+    "Customer and Personal Service",
     "Time Management",
     "Active Learning",
     "Foreign Language",
-    "Social Perceptiveness",
     "bilingual"
   ],
   "possible_skills": [],
@@ -48,36 +46,35 @@
   "market_relevant": [
     "Instructing",
     "Fine Arts",
-    "Customer and Personal Service",
     "Service Orientation",
     "Coordination",
     "Monitoring",
     "Food Production",
+    "Customer and Personal Service",
     "Time Management",
     "Active Learning",
     "Foreign Language",
-    "Social Perceptiveness",
     "bilingual"
   ],
   "inferred": [
+    "Communication",
     "Multitasking",
-    "Childcare",
-    "Event Planning"
+    "Adaptability"
   ],
   "implicit_skills": [
     {
+      "skill": "Communication",
+      "reason": "Instructing and Service Orientation imply strong communication skills.",
+      "confidence": "medium"
+    },
+    {
       "skill": "Multitasking",
-      "reason": "Managing multiple activities like care, meals, and sitter suggests multitasking ability.",
+      "reason": "Coordination and Monitoring suggest ability to handle multiple tasks.",
       "confidence": "medium"
     },
     {
-      "skill": "Childcare",
-      "reason": "Experience as a sitter and caring for others implies childcare skills.",
-      "confidence": "medium"
-    },
-    {
-      "skill": "Event Planning",
-      "reason": "Involvement in exhibits and extracurricular activities indicates event planning skills.",
+      "skill": "Adaptability",
+      "reason": "Experience with diverse activities like dance, games, and care indicates flexibility.",
       "confidence": "medium"
     }
   ],
@@ -96,18 +93,29 @@
     "digital-design",
     "print-design"
   ],
-  "bridge_gaps": [],
+  "bridge_gaps": [
+    "ai-in-design",
+    "collaboration",
+    "course-designer-tools",
+    "design-systems",
+    "game-design",
+    "golf-course-design",
+    "layout",
+    "level-design",
+    "presentations",
+    "proposals"
+  ],
   "stretch_gaps": [
     "adobe-after-effects",
     "adobe-creative-suite",
-    "ai-in-design",
     "animation",
     "brand-consultation",
     "branding",
     "client-communication",
-    "collaboration",
-    "communication",
-    "course-designer-tools"
+    "design-implementation",
+    "illustrator",
+    "layout-design",
+    "motion-graphics"
   ],
   "nice_to_have_gaps": [
     "adobe-after-effects",
@@ -118,10 +126,12 @@
     "branding",
     "client-communication",
     "collaboration",
-    "communication",
-    "course-designer-tools"
+    "course-designer-tools",
+    "design-implementation"
   ],
-  "verify_gaps": [],
+  "verify_gaps": [
+    "communication"
+  ],
   "related": [
     {
       "skill": "audiovisual",
@@ -234,14 +244,14 @@
       "title": "Graphic Designer KZ",
       "company": "academyofdigitalindustries",
       "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
-      "fit": 95,
+      "fit": 71,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.75,
+        "goal_alignment": 0.5,
         "study_alignment": 0.111,
         "subdomain_alignment": 0.5,
         "experience_alignment": 0.1,
@@ -251,20 +261,20 @@
       },
       "eligible": true,
       "eligibility_reason": "Graphic design, no age restrictions.",
-      "bridge": "As a Graphic Designer KZ, you'll build brand identity and digital design skills that are directly transferable to content creation and photography, while your existing strengths in instructing and coordination will help you manage creative projects and client relationships, bridging the gap to your media career."
+      "bridge": "As a Graphic Designer, you'll build visual storytelling and brand identity skills that directly translate to creating compelling content for your aspirational roles. Mastering layout design and digital design will give you a strong foundation in composition and audience engagement, essential for a Content Creator or Media Professional."
     },
     {
       "title": "Junior Communication Specialist and Brand Designer",
       "company": "admindagency",
       "url": "https://admindagency.recruitee.com/o/junior-communication-specialist-and-brand-designer-3",
-      "fit": 87,
+      "fit": 70,
       "job_type": "goal",
       "subdomain": "graphic-design",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
+        "goal_alignment": 0.25,
         "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -274,42 +284,20 @@
       },
       "eligible": true,
       "eligibility_reason": "Communication and design, no age restrictions.",
-      "bridge": "As a Junior Communication Specialist and Brand Designer, you'll sharpen your brand-identity and visual-identity skills, which are directly transferable to creating cohesive content as a Content Creator. Your client-communication and design-implementation experience will also build the project management and creative direction skills essential for a Media Professional."
-    },
-    {
-      "title": "Junior Graphic Designer",
-      "company": "clayco",
-      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
-      "fit": 61,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "design",
-      "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "brand-identity, graphic-design, typography",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.111,
-        "subdomain_alignment": 0.636,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Graphic design, no age restrictions."
+      "bridge": "As a Junior Communication Specialist and Brand Designer, you'll sharpen your visual-identity and typography skills, directly building the design eye needed for photography and content creation. Plus, client-communication and brand-consultation will teach you to tailor messages for different audiences—a core skill for any media professional."
     },
     {
       "title": "Junior Level Designer",
       "company": "2k",
       "url": "https://job-boards.greenhouse.io/2k/jobs/7767175003",
-      "fit": 50,
-      "job_type": "goal",
+      "fit": 54,
+      "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.1,
@@ -324,14 +312,14 @@
       "title": "Motion Graphic Designer",
       "company": "docsapp",
       "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0zqpl/",
-      "fit": 50,
+      "fit": 54,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.75,
+        "goal_alignment": 0.5,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.233,
         "experience_alignment": 0.1,
@@ -341,6 +329,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Motion graphics, no age restrictions."
+    },
+    {
+      "title": "Junior Graphic Designer",
+      "company": "clayco",
+      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "design",
+      "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
+      "gaps": "brand-identity, graphic-design, typography",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.636,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions."
     }
   ],
   "ready_now": [
@@ -348,14 +358,14 @@
       "title": "Graphic Designer KZ",
       "company": "academyofdigitalindustries",
       "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
-      "fit": 95,
+      "fit": 71,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.75,
+        "goal_alignment": 0.5,
         "study_alignment": 0.111,
         "subdomain_alignment": 0.5,
         "experience_alignment": 0.1,
@@ -365,20 +375,20 @@
       },
       "eligible": true,
       "eligibility_reason": "Graphic design, no age restrictions.",
-      "bridge": "As a Graphic Designer KZ, you'll build brand identity and digital design skills that are directly transferable to content creation and photography, while your existing strengths in instructing and coordination will help you manage creative projects and client relationships, bridging the gap to your media career."
+      "bridge": "As a Graphic Designer, you'll build visual storytelling and brand identity skills that directly translate to creating compelling content for your aspirational roles. Mastering layout design and digital design will give you a strong foundation in composition and audience engagement, essential for a Content Creator or Media Professional."
     },
     {
       "title": "Junior Communication Specialist and Brand Designer",
       "company": "admindagency",
       "url": "https://admindagency.recruitee.com/o/junior-communication-specialist-and-brand-designer-3",
-      "fit": 87,
+      "fit": 70,
       "job_type": "goal",
       "subdomain": "graphic-design",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
+        "goal_alignment": 0.25,
         "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -388,44 +398,22 @@
       },
       "eligible": true,
       "eligibility_reason": "Communication and design, no age restrictions.",
-      "bridge": "As a Junior Communication Specialist and Brand Designer, you'll sharpen your brand-identity and visual-identity skills, which are directly transferable to creating cohesive content as a Content Creator. Your client-communication and design-implementation experience will also build the project management and creative direction skills essential for a Media Professional."
+      "bridge": "As a Junior Communication Specialist and Brand Designer, you'll sharpen your visual-identity and typography skills, directly building the design eye needed for photography and content creation. Plus, client-communication and brand-consultation will teach you to tailor messages for different audiences—a core skill for any media professional."
     }
   ],
   "aspirational": [
     {
-      "title": "Junior Graphic Designer",
-      "company": "clayco",
-      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
-      "fit": 61,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "design",
-      "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "brand-identity, graphic-design, typography",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.111,
-        "subdomain_alignment": 0.636,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Graphic design, no age restrictions."
-    },
-    {
       "title": "Junior Level Designer",
       "company": "2k",
       "url": "https://job-boards.greenhouse.io/2k/jobs/7767175003",
-      "fit": 50,
-      "job_type": "goal",
+      "fit": 54,
+      "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.1,
@@ -440,14 +428,14 @@
       "title": "Motion Graphic Designer",
       "company": "docsapp",
       "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0zqpl/",
-      "fit": 50,
+      "fit": 54,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "design",
       "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
       "gaps": "brand-identity, graphic-design, typography",
       "job_score_breakdown": {
-        "goal_alignment": 0.75,
+        "goal_alignment": 0.5,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.233,
         "experience_alignment": 0.1,
@@ -457,9 +445,31 @@
       },
       "eligible": true,
       "eligibility_reason": "Motion graphics, no age restrictions."
+    },
+    {
+      "title": "Junior Graphic Designer",
+      "company": "clayco",
+      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "design",
+      "why": "Uses your Instructing, Fine Arts skills. Aligns with your goal of becoming a Content Creator.",
+      "gaps": "brand-identity, graphic-design, typography",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.636,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions."
     }
   ],
-  "skill_path": "Start by mastering brand identity and typography through free online courses on platforms like Coursera or YouTube, then practice by creating mock branding projects for fictional companies. Look for entry-level roles like social media assistant or junior graphic designer where you can apply digital and print design skills while building a portfolio. Gain experience by offering to design flyers or social media graphics for local nonprofits or small businesses, which will also help you network in the arts-media field.",
+  "skill_path": "Start by mastering graphic design and typography through online courses, then build your portfolio with brand identity projects. Look for entry-level roles like Junior Graphic Designer or Social Media Content Creator to gain practical experience. As you grow, explore AI tools and design systems to stay competitive in the media field.",
   "ideal_careers": [
     "Content Creator",
     "Photographer",
@@ -467,8 +477,7 @@
   ],
   "student_intent": {
     "goal_domains": [
-      "arts-media",
-      "design"
+      "arts-media"
     ],
     "goal_roles": [
       "Content Creator",
@@ -476,8 +485,7 @@
       "Media Professional"
     ],
     "goal_subdomains": [
-      "content-creation",
-      "graphic-design"
+      "content-creation"
     ],
     "study_domains": [
       "education"
@@ -530,7 +538,7 @@
   },
   "candidate_functions": [
     "arts-media",
-    "design"
+    "education"
   ],
   "subdomain": "content-creation",
   "subdomain_confidence": 0.75,
@@ -541,9 +549,9 @@
   "job_cluster": [
     "content-creation",
     "graphic-design",
-    "graphic-design",
     "content-creation",
-    "marketing-creative"
+    "marketing-creative",
+    "graphic-design"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -552,17 +560,15 @@
       "accepted": true,
       "chosen_function": "arts-media",
       "chosen_subdomain": "content-creation",
-      "secondary_function": "design",
+      "secondary_function": "education",
       "goal_domains": [
-        "arts-media",
-        "design"
+        "arts-media"
       ],
       "study_domains": [
         "education"
       ],
       "goal_subdomains": [
-        "content-creation",
-        "graphic-design"
+        "content-creation"
       ],
       "study_subdomains": [],
       "goal_roles": [
@@ -582,8 +588,7 @@
         }
       ],
       "reason_codes": [
-        "explicit goal",
-        "skill match"
+        "explicit career goals"
       ],
       "review_reasons": []
     },
@@ -592,29 +597,27 @@
       "scored_skills": [
         "Instructing",
         "Fine Arts",
-        "Customer and Personal Service",
         "Service Orientation",
         "Coordination",
         "Monitoring",
         "Food Production",
+        "Customer and Personal Service",
         "Time Management",
         "Active Learning",
         "Foreign Language",
-        "Social Perceptiveness",
         "bilingual"
       ],
       "verified_skills": [
         "Instructing",
         "Fine Arts",
-        "Customer and Personal Service",
         "Service Orientation",
         "Coordination",
         "Monitoring",
         "Food Production",
+        "Customer and Personal Service",
         "Time Management",
         "Active Learning",
         "Foreign Language",
-        "Social Perceptiveness",
         "bilingual"
       ],
       "possible_skills": [],
@@ -633,18 +636,18 @@
       ],
       "implicit_skills": [
         {
+          "skill": "Communication",
+          "reason": "Instructing and Service Orientation imply strong communication skills.",
+          "confidence": "medium"
+        },
+        {
           "skill": "Multitasking",
-          "reason": "Managing multiple activities like care, meals, and sitter suggests multitasking ability.",
+          "reason": "Coordination and Monitoring suggest ability to handle multiple tasks.",
           "confidence": "medium"
         },
         {
-          "skill": "Childcare",
-          "reason": "Experience as a sitter and caring for others implies childcare skills.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Event Planning",
-          "reason": "Involvement in exhibits and extracurricular activities indicates event planning skills.",
+          "skill": "Adaptability",
+          "reason": "Experience with diverse activities like dance, games, and care indicates flexibility.",
           "confidence": "medium"
         }
       ],

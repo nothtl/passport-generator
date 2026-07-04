@@ -1,0 +1,22 @@
+{
+  "Leasing Consultant|||thesciongroupllc": {
+    "eligible": true,
+    "reason": "Leasing consultant role does not require age 21+."
+  },
+  "Leasing Agent - Glendale, AZ|||wasatchproperty": {
+    "eligible": true,
+    "reason": "Leasing agent role does not require age 21+."
+  },
+  "Sales Assistant": {
+    "eligible": true,
+    "reason": "Sales assistant role does not require age 21+."
+  },
+  "Key Holder|||Comoto": {
+    "eligible": true,
+    "reason": "Key holder role does not require age 21+."
+  },
+  "Virtual Assistant (remote-work)|||JobsForHumanity": {
+    "eligible": true,
+    "reason": "Virtual assistant role does not require age 21+."
+  }
+}

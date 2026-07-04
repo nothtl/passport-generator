@@ -1,0 +1,552 @@
+{
+  "name": "Bianka Pena",
+  "zone": 4,
+  "education_level": "bachelors",
+  "source_files": [
+    "Bianka Pena - Resume.pdf",
+    "Bianka Pena - LinkedIn.md"
+  ],
+  "skills": [
+    "Psychology",
+    "Biology",
+    "Science",
+    "Active Learning",
+    "Service Orientation",
+    "Customer and Personal Service",
+    "Administrative",
+    "Writing",
+    "Monitoring",
+    "Operations Monitoring",
+    "Speaking",
+    "Coordination",
+    "Social Perceptiveness",
+    "Instructing",
+    "Education and Training",
+    "Time Management",
+    "Learning Strategies",
+    "Administration and Management",
+    "Critical Thinking",
+    "Mathematics",
+    "Operations Analysis",
+    "Reading Comprehension",
+    "Foreign Language",
+    "English Language",
+    "Communications and Media",
+    "Medicine and Dentistry",
+    "Therapy and Counseling",
+    "Public Safety and Security",
+    "Complex Problem Solving",
+    "Active Listening",
+    "Negotiation",
+    "Design",
+    "Systems Analysis",
+    "Personnel and Human Resources",
+    "Quality Control Analysis",
+    "Sociology and Anthropology",
+    "Economics and Accounting",
+    "Management of Financial Resources",
+    "Production and Processing",
+    "Persuasion",
+    "Chemistry"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Psychology",
+      "evidence": "Dedicated Psychology and Biology student",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Biology",
+      "evidence": "Dedicated Psychology and Biology student; Conducted HIV-1 research on pathogenesis",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Science",
+      "evidence": "Extensive experience in HIV research; Conducted HIV-1 research; Assisted with experimental design",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Proactive learner driven by a desire to translate academic knowledge; Eager to further develop research skills; Conducted literature reviews",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "strong commitment to making a meaningful impact in underserved communities; Client advocacy; Supported Older Adult programs; connected them with campus academic resources",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Provided direct resident care; maintaining supportive peer relationships; Supported Older Adult programs; one-on-one administrative support",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "maintained HIPAA-compliant documentation; Assisted with data collection, organization, and review; one-on-one administrative support",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Report writing; maintained HIPAA-compliant documentation; Assisted in the preparation of research proposals and grant applications; summarized key findings",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Monitored resident behavior and medication effects; Monitored attendance and engagement",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "Monitored resident behavior and medication effects",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "reporting concerns to clinical staff; research presentations; Supported research discussions",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Supported daily routines; Coordinated with faculty; Collaborated with team members; collaborative community-based mentorship projects",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "maintaining supportive peer relationships; crisis de-escalation; Supported Older Adult programs through recreational activities and social engagement",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Facilitated structured study halls; Coached students on time management, study strategies; Mentored students; Trained and mentored new lab members",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Facilitated structured study halls supporting undergraduate academic success; Coached students; Developed and implemented engaging academic workshops",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Time management; Coached students on time management",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Coached students on... study strategies",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Strategic planning; Developed and implemented engaging academic workshops; laboratory maintenance; Designed and led a community food bank initiative",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Analytical thinking; Assisted with experimental design, data analysis; Analyzed social, economic, and healthcare system factors",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "Assisted with... data analysis",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "Assisted with... data analysis",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "summarized key findings; Conducted literature reviews to identify relevant studies",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Spanish Full Professional",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "English Full Professional",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Coordinated with faculty to align tutoring sessions; Assisted with... research presentations",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Medicine and Dentistry",
+      "evidence": "Provided direct resident care in substance use disorder treatment settings; Administered medications as a med-certified aide; CPR / AED",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Therapy and Counseling",
+      "evidence": "Provided direct resident care in substance use disorder treatment settings; crisis de-escalation",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "public health; Contributed to a public health research project; Improving Global Health; Participated in civic engagement, Census outreach",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "translate academic knowledge into practical solutions that enhance community health outcomes; refine research protocols and improve efficiency; Designed and led a community food bank initiative addressing food insecurity",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Supported research discussions; Collaborated with team members to refine research protocols",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Negotiation",
+      "evidence": "Conflict resolution; crisis de-escalation",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Developed and implemented engaging academic workshops; Assisted with experimental design; Designed and led a community food bank initiative",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "Assisted with experimental design; Analyzed social, economic, and healthcare system factors affecting maternal outcomes",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Personnel and Human Resources",
+      "evidence": "Trained and mentored new lab members in research techniques and lab protocols",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Assisted in laboratory maintenance, ensuring equipment and supplies were properly organized; review of maternal health indicators; Improving Global Health: Focusing on Quality and Safety",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sociology and Anthropology",
+      "evidence": "Analyzed social... factors affecting maternal outcomes",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Analyzed ... economic... factors affecting maternal outcomes",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Financial Resources",
+      "evidence": "Assisted in the preparation of research proposals and grant applications for funding",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "Assisted with food pantry operations, meal distribution",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Participated in... Census outreach",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Chemistry",
+      "evidence": "Active member of the Psychology, Spanish, and Chemistry Club",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "39-9031.00",
+      "title": "Exercise Trainers and Group Fitness Instructors",
+      "zone": 3,
+      "pct": 98.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Instructing",
+        "Education and Training",
+        "Service Orientation",
+        "English Language",
+        "Speaking",
+        "Psychology",
+        "Active Listening",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 98.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Reading Comprehension",
+        "Time Management",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 98.0,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Instructing",
+        "Learning Strategies",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "25-2012.00",
+      "title": "Kindergarten Teachers, Except Special Education",
+      "zone": 4,
+      "pct": 98.0,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Instructing",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Learning Strategies",
+        "Monitoring",
+        "Speaking",
+        "Psychology",
+        "Reading Comprehension",
+        "Coordination",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "25-2021.00",
+      "title": "Elementary School Teachers, Except Special Education",
+      "zone": 4,
+      "pct": 98.0,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Learning Strategies",
+        "Instructing",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "25-2058.00",
+      "title": "Special Education Teachers, Secondary School",
+      "zone": 4,
+      "pct": 98.0,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Psychology",
+        "Learning Strategies",
+        "Instructing",
+        "Reading Comprehension",
+        "Speaking",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-4121.00",
+      "title": "Library Assistants, Clerical",
+      "zone": 2,
+      "pct": 97.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Service Orientation",
+        "Active Listening",
+        "Reading Comprehension",
+        "Education and Training",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Coordination",
+        "Psychology"
+      ]
+    },
+    {
+      "soc": "11-9072.00",
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "zone": 4,
+      "pct": 97.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Writing"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 38,
+      "title": "Teacher Assistant",
+      "company": "The Astor Learning Center / ACS-funded Child Welfare Agency (implied from postings)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4199620",
+      "match_score": 70,
+      "comparisons": 12,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "The candidate shows a solid fit for the Teacher Assistant position based on their experience working with children, research in public health, and commitment to community service. However, a lack of direct experience in a preschool educational setting and specific qualifications related to child development may present challenges.",
+        "strengths": [
+          "Experience working as a Peer Academic Leader mentoring and supporting students, indicating ability to work with children and facilitate learning.",
+          "Strong background in community service and advocacy, indicative of empathy and commitment to child and family welfare.",
+          "Engagement in research related to public health indicates analytical skills that could benefit educational assessments."
+        ],
+        "gaps": [
+          "No direct experience or formal education related to early childhood education or preschool settings, which is a key requirement for the job.",
+          "Lack of NYS TA Certification or mention of actively pursuing relevant certifications or training in early childhood education.",
+          "Limited specific experience in implementing play-based learning methodologies as mentioned in the job description."
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 6,
+      "title": "Elementary Bilingual Teacher",
+      "company": "Empowerment Academy Charter School",
+      "url": "https://apply.workable.com/j/F98F99A091",
+      "match_score": 65,
+      "comparisons": 14,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Bianka has relevant skills and experience from research and teaching positions, but lacks specific qualifications for an elementary bilingual teaching role and certification requirements.",
+        "strengths": [
+          "Fluent in English and Spanish, which is essential for a bilingual teaching position.",
+          "Experience in mentorship and coaching through Peer Academic Leader role shows capability in supporting diverse learners.",
+          "Research and clinical experience related to public health indicate strong analytical skills and the ability to work with diverse populations."
+        ],
+        "gaps": [
+          "No evidence of teaching certification or New Jersey Department of Education certification in Bilingual Education.",
+          "Limited direct teaching or classroom management experience, particularly with Kindergarten to 3rd-grade students.",
+          "Lack of explicit experience in delivering English Language Development (ELD) instruction or managing push-in and pull-out models."
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 22,
+      "title": "Head Start Assistant Teacher - 26/27 SY",
+      "company": "ECS4Kids",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4096214",
+      "match_score": 65,
+      "comparisons": 14,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Bianka Pena possesses relevant educational experience and some related skills, but lacks specific early childhood education qualifications and direct experience in a classroom setting that is essential for the Head Start Assistant Teacher position.",
+        "strengths": [
+          "Strong educational background in Psychology and Biology that supports understanding of child development",
+          "Experience in team collaboration and conflict resolution",
+          "Research and analytical skills can be beneficial for supporting curriculum implementation"
+        ],
+        "gaps": [
+          "No completion of CDA credential or direct training in Early Childhood Education (ECE)",
+          "Lack of specific experience working with young children in an educational setting",
+          "Limited evidence of ability to plan and implement developmentally appropriate lesson plans",
+          "No certifications specific to CPR/First Aid training mentioned in alignment with job requirements",
+          "Experience is more research-focused rather than child-centered education"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 27,
+      "title": "Teacher Aide - Head Start - Hoonah",
+      "company": "One Stop Auto",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3884104",
+      "match_score": 65,
+      "comparisons": 10,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Bianka has relevant experience in mentoring, research related to health, and experience in community service, which aligns with the education aspect of the job. However, specific experience working with young children in an educational or childcare setting is lacking, as is a Child Development Associate (CDA) credential, which is required.",
+        "strengths": [
+          "Experience in public health research, which relates to health education concepts relevant to children.",
+          "Strong advocacy skills and community service involvement indicate a passion for supporting families and children.",
+          "Analytical skills gained from research could assist in evaluating educational activities and assessments."
+        ],
+        "gaps": [
+          "No direct experience working with young children in a group setting, which is a significant requirement.",
+          "Lacks a Child Development Associate (CDA) credential or equivalent, which is mandatory for the role.",
+          "No specific experience or knowledge regarding early childhood education standards and practices."
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 29,
+      "title": "Teachers Aide - Full Time; 5456-209-A",
+      "company": "Catholic Charities Brooklyn and Queens",
+      "url": "https://jobs.dayforcehcm.com/ccbq/CANDIDATEPORTAL/jobs/27311",
+      "match_score": 65,
+      "comparisons": 12,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate's experience and education align with some aspects of the job, but there are notable gaps in requirements such as direct experience in a preschool setting and specific credentials that the job specifies.",
+        "strengths": [
+          "Strong educational background in Psychology and Biology relevant to understanding child development",
+          "Experience in client advocacy and relationship building which could be beneficial in a classroom setting",
+          "Research experience that includes analytical thinking, data collection, and report writing, skills useful for documentation and reporting in the role"
+        ],
+        "gaps": [
+          "No direct experience in a preschool or early childhood education setting",
+          "Lacks required minimum of 1 year experience in a preschool classroom",
+          "Does not have the CDA credential which is preferred for the position",
+          "No specific coursework indicated that would cover child development or education techniques as required by job description"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 194,
+    "ranked": 194,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

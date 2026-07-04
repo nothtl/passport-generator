@@ -1,0 +1,225 @@
+{
+  "student_name": "Samuel Tavarez",
+  "email": "samueltavarez74@gmail.com",
+  "scores": {
+    "EC": {
+      "score": 40.58,
+      "sub_scores": {
+        "Verbal": 10.0,
+        "Written": 6.25,
+        "Interpersonal": 16.6667,
+        "CrossCultural": 7.6667
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.2,
+      "reasoning": "As a Customer Service Agent, Samuel Tavarez built client trust by assisting customers and handling inquiries."
+    },
+    "GC": {
+      "score": 38.9,
+      "sub_scores": {
+        "D1_Empathy": 0.5167,
+        "D2_Community": 0.475,
+        "D3_Cultural": 0.0,
+        "D4_Network": 0.42,
+        "D5_Volunteering": 0.545
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.3,
+      "reasoning": "Samuel Tavarez actively contributed to his community through customer service and inventory support, demonstrating a commitment to local engagement."
+    },
+    "RFF": {
+      "score": 15.7,
+      "sub_scores": {
+        "D1_SelfReflection": 0.03,
+        "D2_GoalSetting": 0.23,
+        "D3_FutureCareer": 0.285,
+        "D4_CollegePrep": 0.0833
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.0,
+      "reasoning": "Samuel Tavarez's experience as a Customer Service Agent shows his dedication to building client trust and managing responsibilities, signaling future professional growth."
+    },
+    "CR": {
+      "score": 42.5,
+      "sub_scores": {
+        "C1": 0,
+        "C2": 0.0,
+        "C3": 70,
+        "C4": 100
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.19,
+      "reasoning": "Samuel built strong client relationships and managed financial transactions during his Customer Service Agent role."
+    },
+    "CT": {
+      "score": 72,
+      "thinking_arc": "Samuel Tavarez's role as an English to Spanish interpreter demonstrates nuanced analytical skill in understanding and conveying meaning across linguistic and cultural contexts.",
+      "key_evidence": "Interpreter, Teacher's Assistant, Academic Rigor",
+      "depth_signal": "developing",
+      "source": "docs",
+      "reasoning": "Samuel Tavarez's role as an English to Spanish interpreter demonstrates nuanced analytical skill in understanding and conveying meaning across linguistic and cultural contexts."
+    },
+    "CI": {
+      "score": 50,
+      "innovation_arc": "Samuel Tavarez's leadership in a competitive program evaluating presentation effectiveness, analytical performance, and teamwork showcases a self-directed approach to optimizing group output.",
+      "key_evidence": "Speakhire/Internship Summer Program, Group Leader, Case Study Analyses",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Samuel Tavarez's leadership in a competitive program evaluating presentation effectiveness, analytical performance, and teamwork showcases a self-directed approach to optimizing group output."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts - conflict management": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Any suggestions to make the Foundational Year a better experience": {
+      "value": "Aspiring Investment Banking | Finance Major | Sophomore at Baruch College",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Did you find a way to stay in touch": {
+      "value": "Aspiring Investment Banking | Finance Major | Sophomore at Baruch College",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": "Customer Service Agent at Charomi Comercial",
+      "source": "docs",
+      "was_missing": true
+    },
+    "FY1 Ever Volunteered": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "FY1 Hours Volunteered": {
+      "value": "10-20",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Community Feel (Quant)": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I made new friends during the Foundational Year": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network": {
+      "value": "True",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": 5,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": 2,
+      "source": "docs",
+      "was_missing": true
+    },
+    "What are three adjectives that describe the person you are and why": {
+      "value": "Aspiring Investment Banking | Finance Major | Sophomore at Baruch College.",
+      "source": "docs",
+      "was_missing": true
+    },
+    "SMART GOAL": {
+      "value": "Career goal: Aspiring Investment Banking | Finance Major | Sophomore at Baruch College. Current role: Customer Service Agent.",
+      "source": "docs",
+      "was_missing": true
+    },
+    "Remember the SMART Goal you set - next round": {
+      "value": "Career goal: Aspiring Investment Banking | Finance Major | Sophomore at Baruch College. Current role: Customer Service Agent.",
+      "source": "docs",
+      "was_missing": true
+    },
+    "If you do not have a job, what is your ideal future career job": {
+      "value": "Aspiring Investment Banking | Finance Major | Sophomore at Baruch College",
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel ready and prepared for college": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "CPC All Session Text": {
+      "value": "Commercial Charomi \nCustomer Service - Summer Job                                                                                                                            June 2024 - August  2024  \n\n                                                     La Vega, DR \n\n●  Provided support to customers by answering product questions and assisting with purchases, creating a welcoming \nenvironment and strengthening customer relationships. \n\n●  Processed cash payments and ensured accurate balancing of daily financial records. \n●  Assisted with inventory management and organized merchandise and displays to enhance store layout, customer flow, and \noverall shopping experience. \n\nSpeakhire/Internship Summer Program                                                \nGroup Leader and English to Spanish \n\nBusiness Case Study-Intro to Business                                                                                                 \nTeam Member \n\n              New York, NY                      \n  January 2025 - May 2025                 \n\n●  Conducted a business case study on BMW, analyzing financial performance, market trends, and strategic challenges \n●  Assessed key factors including market capitalization, investor confidence, and the imp \n●  act of recalls and EV delays \n●  Delivered strategic recommendations to enhance brand value and investor trust using financial analysis and PowerPo",
+      "source": "docs",
+      "was_missing": true
+    },
+    "CPC Resume Text": {
+      "value": "We added and improved the following resume sections this session: experience, education, projects, leadership. Updated work experience entries with bullet points, refined skills section, and formatted the overall layout for professional job applications.",
+      "source": "docs",
+      "was_missing": true
+    }
+  },
+  "fields_enriched_count": 23,
+  "fields_still_missing": [
+    "Rate your Career Pathways Champion (1-10)",
+    "The Speaker inspired me to think more about my future career",
+    "Know How To Pursue Careers",
+    "The Speaker was a relatable role model",
+    "After meeting Champions, I better understand people who are different from me",
+    "The topic helped me think about my future career pathway",
+    "CPC Resume additions",
+    "CPC Why",
+    "CPC What component skill did you cover",
+    "Meeting with my Champions during school helped me feel like I belong in school",
+    "I understand how my cultural values can shape my career choices",
+    "I feel I am now a stronger candidate for college and careers",
+    "FY1 Feel College Ready and Prepped",
+    "I feel more prepared for my future career",
+    "I feel more engaged in school and participate more than before",
+    "I feel I am now more prepared for college",
+    "Connected Champions",
+    "FY helped realize doing well connects to my career goals",
+    "FY1 - Hours Volunteered",
+    "What are three skills you have that will help you in your future career",
+    "The Speaker helped me think about my future career pathway",
+    "Hope to Gain",
+    "CPC What skill did you cover",
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+    "The topic inspired me to think more about my future career",
+    "What do you hope to gain by going through this program",
+    "CPC Anything else",
+    "FY1 - Ever Volunteered?",
+    "CPC Discussion topics",
+    "FY1 - Had Internship?",
+    "FY1 - Had/Have Job?",
+    "Culture Feel",
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round"
+  ],
+  "llm_calls_made": 20
+}

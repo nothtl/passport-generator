@@ -1,0 +1,2057 @@
+{
+  "name": "Mingyu Huo",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2026,
+  "source_files": [
+    "Mingyu Huo - Resume.pdf",
+    "Mingyu Huo - LinkedIn.md"
+  ],
+  "skills": [
+    "Active Learning",
+    "Administration and Management",
+    "Administrative",
+    "Communications and Media",
+    "Complex Problem Solving",
+    "Computers and Electronics",
+    "Coordination",
+    "Critical Thinking",
+    "Customer and Personal Service",
+    "Design",
+    "Economics and Accounting",
+    "Education and Training",
+    "Engineering and Technology",
+    "English Language",
+    "Food Production",
+    "Foreign Language",
+    "History and Archeology",
+    "Instructing",
+    "Judgment and Decision Making",
+    "Learning Strategies",
+    "Mathematics",
+    "Monitoring",
+    "Operations Monitoring",
+    "Production and Processing",
+    "Programming",
+    "Quality Control Analysis",
+    "Science",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Speaking",
+    "Time Management",
+    "Writing"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Participated in New York State Science of Reading Micro-credential pilot program and applied research-based literacy practices; Learned about museum roles and operations; Met weekly with career professionals; Learned Ready Maker, P5, Tinkercad, and 3D printing",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Organize events and manage student data, schedules, and assessments; Learned about museum roles and operations",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "manage student data, schedules, and assessments",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Developed communication, presentation, interview, and problem-solving skills",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "Developed communication, presentation, interview, and problem-solving skills",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra, Kahoot, Geometry Sketchpad, Smart Notebook; Learned Ready Maker, P5, Tinkercad, and 3D printing",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Team-taught selected mathematics lessons; Organize events; Collaborated on a project about air pollution awareness",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Create engaging lesson plans, prepare instructional materials, and grade assessments",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "guided customers to locate products; Took orders, managed transactions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Design and implement differentiated instructions; Canva, GeoGebra, Geometry Sketchpad",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Handled cash transactions; Managed income and change, managed transactions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "B. A., Mathematics and Mathematics Education; Teach Geometry and Foundation of Geometry; Create engaging lesson plans; implement differentiated instructions; Team-taught selected mathematics lessons; Assisted cooperating teacher in differentiating instruction and assessing students; Facilitate ESL exams; Facilitated 9th–12th grade workshops on college awareness and consulted students",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Engineering and Technology",
+      "evidence": "Developed hands-on skills in soldering and programming Arduino",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "English (listed skill)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "prepared drinks",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Mandarin (listed skill)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "History and Archeology",
+      "evidence": "visited the Jewish Museum to study artifact background information",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus; Team-taught selected mathematics lessons; Facilitated 9th–12th grade workshops",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "grade assessments; consulted students on post-secondary decisions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Design and implement differentiated instructions; applied research-based literacy practices",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "B. A., Mathematics and Mathematics Education; Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus; Team-taught selected mathematics lessons; Handled cash transactions; Managed income and change, managed transactions",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "grade assessments; Assisted cooperating teacher in differentiating instruction and assessing students; manage student data, schedules, and assessments; managed store supplies",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "maintained organized well-stocked shelves; managed store supplies",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "maintained organized well-stocked shelves; managed store supplies",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Programming",
+      "evidence": "programming Arduino",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Verified orders of products; verified deliveries",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Science",
+      "evidence": "Collaborated on a project about air pollution awareness",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "guided customers to locate products; consulted students on post-secondary decisions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "meet the needs of diverse learners; consulted students on post-secondary decisions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Facilitated 9th–12th grade workshops; Developed communication, presentation, interview skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "manage student data, schedules",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Create engaging lesson plans, prepare instructional materials",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "51-6092.00",
+      "title": "Fabric and Apparel Patternmakers",
+      "zone": 3,
+      "pct": 77.5,
+      "matched_skills": [
+        "Design",
+        "Mathematics",
+        "English Language",
+        "Production and Processing",
+        "Critical Thinking",
+        "Education and Training",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Active Learning",
+        "Mathematics",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "35-2012.00",
+      "title": "Cooks, Institution and Cafeteria",
+      "zone": 2,
+      "pct": 77.3,
+      "matched_skills": [
+        "English Language",
+        "Food Production",
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Service Orientation",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 74.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Production and Processing",
+        "Critical Thinking",
+        "Mathematics",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "51-6052.00",
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "zone": 2,
+      "pct": 73.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Production and Processing",
+        "Administration and Management",
+        "Economics and Accounting",
+        "Time Management",
+        "Critical Thinking",
+        "Speaking",
+        "Design",
+        "Mathematics",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "25-2056.00",
+      "title": "Special Education Teachers, Elementary School",
+      "zone": 4,
+      "pct": 73.2,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Speaking",
+        "Instructing",
+        "Customer and Personal Service",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 72.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Food Production",
+        "Mathematics",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Computers and Electronics",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "51-4192.00",
+      "title": "Layout Workers, Metal and Plastic",
+      "zone": 2,
+      "pct": 72.6,
+      "matched_skills": [
+        "Mathematics",
+        "Design",
+        "Production and Processing",
+        "Engineering and Technology",
+        "English Language",
+        "Administration and Management",
+        "Mathematics",
+        "Computers and Electronics",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "25-2021.00",
+      "title": "Elementary School Teachers, Except Special Education",
+      "zone": 4,
+      "pct": 72.1,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Learning Strategies",
+        "Instructing",
+        "Speaking",
+        "Critical Thinking",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 71.8,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "English Language",
+        "Critical Thinking",
+        "Speaking",
+        "Design",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Mathematics",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "43-3031.00",
+      "title": "Bookkeeping, Accounting, and Auditing Clerks",
+      "zone": 3,
+      "pct": 71.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Mathematics",
+        "Mathematics",
+        "English Language",
+        "Economics and Accounting",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "25-2057.00",
+      "title": "Special Education Teachers, Middle School",
+      "zone": 4,
+      "pct": 71.5,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Active Learning",
+        "Learning Strategies",
+        "Speaking",
+        "Instructing",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "43-3021.00",
+      "title": "Billing and Posting Clerks",
+      "zone": 3,
+      "pct": 71.3,
+      "matched_skills": [
+        "Administrative",
+        "Customer and Personal Service",
+        "English Language",
+        "Economics and Accounting",
+        "Mathematics",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Mathematics",
+        "Critical Thinking",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "51-3011.00",
+      "title": "Bakers",
+      "zone": 2,
+      "pct": 71.1,
+      "matched_skills": [
+        "Production and Processing",
+        "Customer and Personal Service",
+        "Food Production",
+        "Monitoring",
+        "English Language",
+        "Mathematics",
+        "Active Learning",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 70.8,
+      "matched_skills": [
+        "Production and Processing",
+        "Mathematics",
+        "Critical Thinking",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Learning",
+        "Monitoring",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "25-3041.00",
+      "title": "Tutors",
+      "zone": 3,
+      "pct": 70.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Education and Training",
+        "Instructing",
+        "Learning Strategies",
+        "Speaking",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "27-1013.00",
+      "title": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+      "zone": 3,
+      "pct": 70.1,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "English Language",
+        "Production and Processing",
+        "Education and Training",
+        "Communications and Media",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "43-9111.00",
+      "title": "Statistical Assistants",
+      "zone": 4,
+      "pct": 70.1,
+      "matched_skills": [
+        "Mathematics",
+        "English Language",
+        "Mathematics",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Active Learning",
+        "Complex Problem Solving",
+        "Writing",
+        "Speaking",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "29-2051.00",
+      "title": "Dietetic Technicians",
+      "zone": 3,
+      "pct": 70.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Education and Training",
+        "Mathematics",
+        "Administration and Management",
+        "Food Production",
+        "Administrative",
+        "Computers and Electronics",
+        "Production and Processing",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "39-9031.00",
+      "title": "Exercise Trainers and Group Fitness Instructors",
+      "zone": 3,
+      "pct": 69.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Instructing",
+        "Education and Training",
+        "Service Orientation",
+        "English Language",
+        "Speaking",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-9097.00",
+      "title": "Phlebotomists",
+      "zone": 3,
+      "pct": 69.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administrative",
+        "Education and Training",
+        "Speaking",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 68.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administrative",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Coordination",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "27-3091.00",
+      "title": "Interpreters and Translators",
+      "zone": 4,
+      "pct": 68.7,
+      "matched_skills": [
+        "English Language",
+        "Foreign Language",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Critical Thinking",
+        "Monitoring",
+        "Education and Training",
+        "Administrative",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "15-2051.01",
+      "title": "Business Intelligence Analysts",
+      "zone": 4,
+      "pct": 68.6,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Active Learning",
+        "Critical Thinking",
+        "Speaking",
+        "Mathematics",
+        "English Language",
+        "Writing",
+        "Judgment and Decision Making",
+        "Mathematics",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "13-2022.00",
+      "title": "Appraisers of Personal and Business Property",
+      "zone": 4,
+      "pct": 68.3,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Writing",
+        "Mathematics",
+        "Speaking",
+        "Administrative",
+        "Administration and Management",
+        "Active Learning",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "39-2011.00",
+      "title": "Animal Trainers",
+      "zone": 2,
+      "pct": 67.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Instructing",
+        "Education and Training",
+        "Learning Strategies",
+        "Speaking",
+        "Critical Thinking",
+        "Active Learning",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "17-3012.00",
+      "title": "Electrical and Electronics Drafters",
+      "zone": 3,
+      "pct": 67.9,
+      "matched_skills": [
+        "Design",
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "English Language",
+        "Mathematics",
+        "Administrative",
+        "Critical Thinking",
+        "Writing",
+        "Judgment and Decision Making",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 67.6,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Instructing",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "17-2061.00",
+      "title": "Computer Hardware Engineers",
+      "zone": 4,
+      "pct": 67.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Design",
+        "Mathematics",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Complex Problem Solving",
+        "English Language",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 67.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Learning Strategies",
+        "Active Learning",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "11-9072.00",
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "zone": 4,
+      "pct": 67.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 67.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "English Language",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "17-2071.00",
+      "title": "Electrical Engineers",
+      "zone": 4,
+      "pct": 67.1,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "Writing",
+        "Design",
+        "Critical Thinking",
+        "Active Learning",
+        "Speaking",
+        "Complex Problem Solving",
+        "English Language",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "11-9031.00",
+      "title": "Education and Childcare Administrators, Preschool and Daycare",
+      "zone": 4,
+      "pct": 66.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Complex Problem Solving",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "13-1051.00",
+      "title": "Cost Estimators",
+      "zone": 4,
+      "pct": 66.8,
+      "matched_skills": [
+        "Mathematics",
+        "Mathematics",
+        "Economics and Accounting",
+        "Speaking",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Writing",
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 66.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Production and Processing",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "13-2011.00",
+      "title": "Accountants and Auditors",
+      "zone": 4,
+      "pct": 66.7,
+      "matched_skills": [
+        "Economics and Accounting",
+        "English Language",
+        "Mathematics",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Writing",
+        "Judgment and Decision Making",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "15-2051.02",
+      "title": "Clinical Data Managers",
+      "zone": 4,
+      "pct": 66.6,
+      "matched_skills": [
+        "English Language",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Monitoring",
+        "Mathematics",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 66.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "English Language",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 66.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 66.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "15-1253.00",
+      "title": "Software Quality Assurance Analysts and Testers",
+      "zone": 4,
+      "pct": 66.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Monitoring",
+        "Programming",
+        "Complex Problem Solving",
+        "Quality Control Analysis",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 66.1,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Mathematics",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "29-2055.00",
+      "title": "Surgical Technologists",
+      "zone": 3,
+      "pct": 65.8,
+      "matched_skills": [
+        "Monitoring",
+        "Customer and Personal Service",
+        "English Language",
+        "Operations Monitoring",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Education and Training",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "19-4061.00",
+      "title": "Social Science Research Assistants",
+      "zone": 4,
+      "pct": 65.7,
+      "matched_skills": [
+        "English Language",
+        "Critical Thinking",
+        "Writing",
+        "Computers and Electronics",
+        "Speaking",
+        "Complex Problem Solving",
+        "Science",
+        "Administrative",
+        "Active Learning",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "11-9179.02",
+      "title": "Spa Managers",
+      "zone": 3,
+      "pct": 65.1,
+      "matched_skills": [
+        "Administrative",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Critical Thinking",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 65.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "27-2012.03",
+      "title": "Media Programming Directors",
+      "zone": 4,
+      "pct": 65.0,
+      "matched_skills": [
+        "Communications and Media",
+        "Computers and Electronics",
+        "English Language",
+        "Speaking",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "39-2021.00",
+      "title": "Animal Caretakers",
+      "zone": 2,
+      "pct": 64.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Monitoring",
+        "English Language",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Speaking",
+        "Critical Thinking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "27-2021.00",
+      "title": "Athletes and Sports Competitors",
+      "zone": 2,
+      "pct": 64.5,
+      "matched_skills": [
+        "Speaking",
+        "Critical Thinking",
+        "Administration and Management",
+        "English Language",
+        "Coordination",
+        "Customer and Personal Service",
+        "Communications and Media",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "39-5011.00",
+      "title": "Barbers",
+      "zone": 3,
+      "pct": 64.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Economics and Accounting",
+        "Judgment and Decision Making",
+        "Critical Thinking",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 64.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "35-9021.00",
+      "title": "Dishwashers",
+      "zone": 2,
+      "pct": 64.3,
+      "matched_skills": [
+        "English Language",
+        "Food Production",
+        "Coordination",
+        "Time Management",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Operations Monitoring",
+        "Social Perceptiveness",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "35-1012.00",
+      "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+      "zone": 2,
+      "pct": 64.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Instructing",
+        "Service Orientation",
+        "Administration and Management",
+        "Food Production",
+        "English Language",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "15-2099.01",
+      "title": "Bioinformatics Technicians",
+      "zone": 4,
+      "pct": 63.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Mathematics",
+        "English Language",
+        "Active Learning",
+        "Critical Thinking",
+        "Writing",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 63.3,
+      "matched_skills": [
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "English Language",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination",
+        "Customer and Personal Service",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 63.3,
+      "matched_skills": [
+        "Administration and Management",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "47-2171.00",
+      "title": "Reinforcing Iron and Rebar Workers",
+      "zone": 2,
+      "pct": 63.0,
+      "matched_skills": [
+        "Mathematics",
+        "Administration and Management",
+        "Design",
+        "English Language",
+        "Coordination",
+        "Engineering and Technology",
+        "Critical Thinking",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "19-4099.03",
+      "title": "Remote Sensing Technicians",
+      "zone": 4,
+      "pct": 62.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Mathematics",
+        "Customer and Personal Service",
+        "Mathematics",
+        "Speaking",
+        "Engineering and Technology",
+        "Monitoring",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "29-2034.00",
+      "title": "Radiologic Technologists and Technicians",
+      "zone": 3,
+      "pct": 62.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Administrative",
+        "Education and Training",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "29-2099.05",
+      "title": "Ophthalmic Medical Technologists",
+      "zone": 3,
+      "pct": 61.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Mathematics",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "41-2011.00",
+      "title": "Cashiers",
+      "zone": 2,
+      "pct": 61.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Mathematics",
+        "Administrative",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-2022.00",
+      "title": "Physical Therapist Aides",
+      "zone": 2,
+      "pct": 61.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Monitoring",
+        "Service Orientation",
+        "Coordination",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "47-2022.00",
+      "title": "Stonemasons",
+      "zone": 2,
+      "pct": 61.0,
+      "matched_skills": [
+        "Design",
+        "Mathematics",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Coordination",
+        "Operations Monitoring",
+        "Customer and Personal Service",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 60.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Learning Strategies",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "33-9099.02",
+      "title": "Retail Loss Prevention Specialists",
+      "zone": 2,
+      "pct": 60.8,
+      "matched_skills": [
+        "English Language",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Computers and Electronics",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-2041.00",
+      "title": "Graders and Sorters, Agricultural Products",
+      "zone": 2,
+      "pct": 60.8,
+      "matched_skills": [
+        "Production and Processing",
+        "English Language",
+        "Monitoring",
+        "Food Production",
+        "Speaking",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Foreign Language"
+      ]
+    },
+    {
+      "soc": "19-4099.01",
+      "title": "Quality Control Analysts",
+      "zone": 3,
+      "pct": 60.8,
+      "matched_skills": [
+        "Mathematics",
+        "Production and Processing",
+        "Quality Control Analysis",
+        "Monitoring",
+        "English Language",
+        "Complex Problem Solving",
+        "Administrative",
+        "Computers and Electronics",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-9092.00",
+      "title": "Medical Assistants",
+      "zone": 3,
+      "pct": 60.7,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Administrative",
+        "Social Perceptiveness",
+        "Speaking",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 60.5,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "41-2021.00",
+      "title": "Counter and Rental Clerks",
+      "zone": 2,
+      "pct": 60.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administrative",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 60.1,
+      "matched_skills": [
+        "Speaking",
+        "Education and Training",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Instructing",
+        "Service Orientation",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "19-5011.00",
+      "title": "Occupational Health and Safety Specialists",
+      "zone": 4,
+      "pct": 60.0,
+      "matched_skills": [
+        "Speaking",
+        "Writing",
+        "English Language",
+        "Education and Training",
+        "Mathematics",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "49-2093.00",
+      "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "zone": 3,
+      "pct": 59.3,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "Mathematics",
+        "Critical Thinking",
+        "Design",
+        "English Language",
+        "Education and Training",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 59.0,
+      "matched_skills": [
+        "English Language",
+        "Administrative",
+        "Writing",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 58.9,
+      "matched_skills": [
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Production and Processing",
+        "Monitoring",
+        "Speaking",
+        "Customer and Personal Service",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "41-1012.00",
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "zone": 4,
+      "pct": 58.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "Administration and Management",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 57.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 57.7,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Writing",
+        "Computers and Electronics",
+        "Administrative",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 57.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Critical Thinking",
+        "Mathematics",
+        "Administrative",
+        "Active Learning",
+        "Monitoring",
+        "Science",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "49-9052.00",
+      "title": "Telecommunications Line Installers and Repairers",
+      "zone": 2,
+      "pct": 57.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Education and Training",
+        "Communications and Media",
+        "Critical Thinking",
+        "Speaking",
+        "Complex Problem Solving",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 56.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "English Language",
+        "Monitoring",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 56.3,
+      "matched_skills": [
+        "Critical Thinking",
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Administrative",
+        "Complex Problem Solving",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "53-7064.00",
+      "title": "Packers and Packagers, Hand",
+      "zone": 2,
+      "pct": 56.0,
+      "matched_skills": [
+        "Production and Processing",
+        "Customer and Personal Service",
+        "Monitoring",
+        "English Language",
+        "Administrative",
+        "Critical Thinking",
+        "Mathematics",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "49-9096.00",
+      "title": "Riggers",
+      "zone": 2,
+      "pct": 55.6,
+      "matched_skills": [
+        "Production and Processing",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Design",
+        "English Language",
+        "Education and Training",
+        "Engineering and Technology",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "53-7062.00",
+      "title": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "zone": 2,
+      "pct": 54.4,
+      "matched_skills": [
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Production and Processing",
+        "Mathematics",
+        "Coordination",
+        "English Language",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "21-1015.00",
+      "title": "Rehabilitation Counselors",
+      "zone": 4,
+      "pct": 54.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Monitoring",
+        "English Language",
+        "Administrative"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 6,
+      "title": "Toolkit Tutors Tutor Network (NYC In-Person Roles)",
+      "company": "Toolkit Tutors",
+      "url": "https://apply.workable.com/j/24E1A6F82C",
+      "match_score": 85,
+      "embed_sim": 0.46300143003463745,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "The candidate has a strong educational background in mathematics and math education, relevant student teaching experience, and skills aligned with tutoring roles, making them a good fit for the position at Toolkit Tutors.",
+        "strengths": [
+          "Holding a B.A. in Mathematics and Mathematics Education with a high GPA (3.755).",
+          "New York State Initial Certification in Mathematics for Grades 7-12.",
+          "Extensive recent teaching experience through student teaching at Bayside High School and East-West School of International Studies, including creating lesson plans and differentiated instruction.",
+          "Experience in managing and assessing student data as a paraprofessional, which aligns with the tutoring and mentoring aspects of the job.",
+          "Familiarity with urban school environments, enhancing the understanding of common student challenges."
+        ],
+        "gaps": [
+          "1 year of formal teaching experience is required, but the candidate only has approximately 6 months of student teaching and some substitute experience.",
+          "Additional specific experience in ELA, Science, or Humanities tutoring is not shown, although math experience is robust.",
+          "Experience with Regents exam support or specific test preparation is not detailed in the resume."
+        ]
+      },
+      "blended_score": 90
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 4,
+      "title": "BILINGUAL- Spanish Toolkit Tutors Tutor Network (NYC In-Person Roles)",
+      "company": "Toolkit Tutors",
+      "url": "https://apply.workable.com/j/65C86E0AF4",
+      "match_score": 80,
+      "embed_sim": 0.466293066740036,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 0,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "Carl's resume demonstrates a strong educational background in mathematics, relevant teaching experience, and skills that align with the requirements of the Bilingual Spanish Toolkit Tutors Tutor Network position. However, the absence of explicit bilingual proficiency diminishes the strength of his application for this specific role.",
+        "strengths": [
+          "Bachelor's degree in Mathematics and Education with strong GPA (3.755)",
+          "New York State Initial Certificate for Mathematics (Grades 7-12)",
+          "Relevant student teaching experience in Geometry and tutoring in various math subjects",
+          "Experience in differentiating instruction for diverse learners as a student teacher",
+          "Participation in a program focused on literacy practices in mathematics instruction",
+          "Strong organizational skills and experience managing educational tasks from previous roles"
+        ],
+        "gaps": [
+          "No mention of fluency in Spanish, which is strongly encouraged for this role",
+          "Limited overall teaching experience (largely as a student teacher) may not satisfy the 'at least one year' requirement",
+          "Experience mainly includes roles as a student teacher/substitute, without extensive tutoring experience in an urban school setting"
+        ]
+      },
+      "blended_score": 89
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 12,
+      "title": "Current Tutors: Add Tutoring K-8 Math",
+      "company": "booknook-inc",
+      "url": "https://apply.workable.com/j/AD8D73D622",
+      "match_score": 80,
+      "embed_sim": 0.41057291626930237,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "Carl Huo's resume demonstrates relevant educational background and practical teaching experience in mathematics, aligning well with the tutoring position requirements. His training and recent student teaching experiences are significant strengths, but he lacks direct online tutoring experience, which is essential for the role.",
+        "strengths": [
+          "B.A. in Mathematics and Mathematics Education",
+          "New York State Initial Certificate for Grades 7-12",
+          "Experience teaching Geometry and Algebra as a Student Teacher",
+          "Knowledge of differentiated instruction and working with diverse learners",
+          "Familiarity with various educational technologies such as Google Classroom and SMART Notebook"
+        ],
+        "gaps": [
+          "No explicit online tutoring experience mentioned",
+          "Experience primarily focused on classroom settings rather than virtual instruction",
+          "No evidence of specific availability during the peak tutoring hours of 4 PM to 7 PM ET as required in the job description"
+        ]
+      },
+      "blended_score": 71
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 22,
+      "title": "Special Education Academic Coach I",
+      "company": "High Tech High",
+      "url": "https://jobs.lever.co/hightechhigh/20770bac-1f86-488b-a766-88e2f3d8daa8",
+      "match_score": 65,
+      "embed_sim": 0.4128367304801941,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 6,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The resume shows some relevant experience in education and a foundation in mathematics education but lacks direct experience in special education or coaching roles, which are central to the job description.",
+        "strengths": [
+          "In-progress Bachelor’s degree in Mathematics and Mathematics Education",
+          "New York State Initial Certificate in Mathematics for grades 7-12",
+          "Experience as a student teacher, demonstrating ability to create lesson plans and assess student learning",
+          "Participation in a program focused on literacy practices in mathematics instruction",
+          "Fluent in Mandarin and English, enhancing communication with diverse learners"
+        ],
+        "gaps": [
+          "No direct experience in special education or working specifically with students who have learning differences",
+          "Lacks experience in coaching, mentoring, or training other educators",
+          "No evidence of previous work in a supportive instructional role specifically for students with disabilities",
+          "Limited information on teamwork or collaboration with staff members in an educational setting"
+        ]
+      },
+      "blended_score": 64
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 1,
+      "title": "Interventionist (26-27)",
+      "company": "KIPP Public Schools",
+      "url": "https://jobs.smartrecruiters.com/KIPP/744000117708725",
+      "match_score": 65,
+      "embed_sim": 0.4088616967201233,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Education",
+      "comparisons": 8,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has relevant educational background and some experience in student teaching, but lacks specific qualifications related to the job, such as a Texas Teacher Certificate and experience in delivering curriculum based on Texas State standards.",
+        "strengths": [
+          "Currently pursuing a Bachelor's degree in Mathematics and Mathematics Education with a strong GPA (3.755)",
+          "Possesses New York State Initial Certification in Mathematics, Grades 7-12, which demonstrates qualification to teach secondary mathematics",
+          "Experience as a student teacher in various mathematics subjects, demonstrating ability to create lesson plans, differentiate instruction, and assess student performance",
+          "Involvement in programs aimed at improving literacy in mathematics, showing commitment to engaging diverse learners",
+          "Fluent in Mandarin and English, which may help in communicating with a diverse student body"
+        ],
+        "gaps": [
+          "No Texas Teacher Certificate, which is a requirement for the position",
+          "Lack of experience in developing and implementing Texas State standards-based curriculum",
+          "Limited experience in working with culturally diverse student populations outside of New York State",
+          "No evidence of involvement in school community events such as open houses or parent-teacher conferences"
+        ]
+      },
+      "blended_score": 63
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 25,
+      "title": "Early Head Start Teacher",
+      "company": "Blind Children's Center",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3907169",
+      "match_score": 35,
+      "embed_sim": 0.4506089389324188,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Education",
+      "comparisons": 1,
+      "why": {
+        "verdict": "weak",
+        "match_score": 35,
+        "summary": "The candidate's resume shows qualifications primarily in secondary mathematics education, lacking direct relevance to early childhood education or the specific requirements for the Early Head Start Teacher position.",
+        "strengths": [
+          "B.A. in Mathematics and Mathematics Education expected by 2026",
+          "New York State Initial Certificate for Mathematics, Grades 7-12",
+          "Experience with creating lesson plans and implementing differentiated instruction",
+          "Professional membership with the National Council of Teachers of Mathematics"
+        ],
+        "gaps": [
+          "No formal educational background in early childhood education or related field",
+          "No experience working with children under 5 years of age",
+          "Lacks experience with early childhood curriculum frameworks (e.g., Creative Curriculum)",
+          "No knowledge of required infant-toddler development units or child development standards",
+          "Does not meet the minimum experience requirement in a licensed childcare center for children under five",
+          "No mention of working with parents in an educational context, particularly related to early childhood development",
+          "Lacks experience with ChildPlus or similar data management systems for early childhood programs"
+        ]
+      },
+      "blended_score": 61
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 7,
+      "title": "Tutors Needed for All Subjects and Test Prep",
+      "company": "ConnectPrep",
+      "url": "https://apply.workable.com/j/5BB7E9F583",
+      "match_score": 83,
+      "embed_sim": 0.3711439073085785,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 83,
+        "summary": "Carl Huo has a strong educational foundation in Mathematics and Mathematics Education, along with relevant student teaching experience which aligns well with the K-12 tutoring position at ConnectPrep. His experience in designing lesson plans and differentiated instruction reflects the role's requirements, although there are areas in test preparation and the use of specific performance metrics where more direct evidence could strengthen his fit.",
+        "strengths": [
+          "Bachelor's degree in Mathematics Education projected by 2026",
+          "New York State Initial Certificate, Mathematics, Grades 7-12",
+          "Experience as a Student Teacher, including lesson planning and assessment grading",
+          "Knowledge of differentiated instruction to cater to diverse learning needs",
+          "Professional membership in the National Council of Teachers of Mathematics"
+        ],
+        "gaps": [
+          "No specific experience mentioned in preparing students for standardized tests like ACT or SAT",
+          "Limited evidence of familiarity with advanced performance metrics or online teaching and learning platforms",
+          "Lacks extensive experience in tutoring capacity beyond student teaching and paraprofessional roles"
+        ]
+      },
+      "blended_score": 59
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 23,
+      "title": "Special Education Academic Coach III",
+      "company": "High Tech High",
+      "url": "https://jobs.lever.co/hightechhigh/1e0b6e91-14c3-487b-a99b-546a9a74bd68",
+      "match_score": 50,
+      "embed_sim": 0.41625940799713135,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "The candidate has relevant education and some teaching experience, but lacks specific qualifications and experience related to special education, particularly for working with students with intensive needs.",
+        "strengths": [
+          "Bachelor's degree in Mathematics Education nearing completion",
+          "Certification in Mathematics for grades 7-12",
+          "Experience as a student teacher where lesson plans and differentiation were key tasks",
+          "Skills in managing diverse learners and assessing student performance"
+        ],
+        "gaps": [
+          "No direct experience working with special education students or implementing behavior intervention plans",
+          "Lack of experience in medical needs support for students",
+          "No demonstrated experience with Applied Behavior Analysis",
+          "No history of working with specialized instructional methodologies or strategies for intensive needs",
+          "The job requires 1:1 support experience, which is not present in the resume."
+        ]
+      },
+      "blended_score": 57
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 24,
+      "title": "Special Education Academic Coach II",
+      "company": "High Tech High",
+      "url": "https://jobs.lever.co/hightechhigh/24b4af85-3faa-431f-98d7-91497a101b9e",
+      "match_score": 55,
+      "embed_sim": 0.40819910168647766,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 4,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "The candidate possesses a solid educational background in mathematics and educational practices, but lacks specific experience or qualifications directly related to special education and the particular needs of students with disabilities. Their teaching experience is limited primarily to general education environments without clear evidence of effective strategies for supporting special education populations.",
+        "strengths": [
+          "Pursuing a B.A. in Mathematics and Mathematics Education",
+          "Certification in Mathematics, Grades 7-12, anticipated in 2026",
+          "Experience as a Student Teacher with lesson planning and differentiating instruction",
+          "Familiarity with teaching diverse learners and implementing engaging instructional practices",
+          "Membership in the National Council of Teachers of Mathematics"
+        ],
+        "gaps": [
+          "No direct experience working with special education students or individual educational plans (IEPs)",
+          "Lack of demonstrated experience with ABA strategies or specific methodologies for behavioral and academic support",
+          "No experience with light toileting or hygiene support, which is mentioned in the job description",
+          "Limited evidence of progressive responsibility in academic coaching or specialized support roles"
+        ]
+      },
+      "blended_score": 57
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 18,
+      "title": "Academic Coach | Private Tutor | Mentor",
+      "company": "Staying Ahead of the Game (Houston)",
+      "url": "https://saotg.pinpointhq.com/en/postings/876a1244-6a4d-45a3-83fb-26666c4a9b87",
+      "match_score": 75,
+      "embed_sim": 0.36479443311691284,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Education",
+      "comparisons": 6,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Mingyu Huo's resume demonstrates a strong foundation in teaching and mentoring, particularly in mathematics. The experience as a student teacher and substitute paraprofessional provides relevant experience, while the educational background aligns well with the requirements of the job. However, there is limited direct experience in tutoring outside of formal school settings, which is a requirement for the Academic Coach role.",
+        "strengths": [
+          "Completed a B.A. in Mathematics and Mathematics Education, indicating strong subject knowledge.",
+          "New York State Initial Certificate for Mathematics, Grades 7-12, aligns with teaching qualifications.",
+          "Experience as a student teacher, creating lesson plans, differentiating instruction, and assessing student performance.",
+          "Pedagogical skills demonstrated through student teaching and working with diverse learners, which is beneficial in an academic coaching context."
+        ],
+        "gaps": [
+          "Direct tutoring experience outside of a classroom setting is minimal.",
+          "Specific experience with fostering relationships with families is not highlighted, which is crucial for the role of an Academic Coach.",
+          "No demonstrated ability to work independently as emphasized in the job description, as all experiences are related to classroom settings."
+        ]
+      },
+      "blended_score": 53
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

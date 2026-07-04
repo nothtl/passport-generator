@@ -1,0 +1,26 @@
+{
+  "Youth Sports Coach|||super-soccer-stars": {
+    "eligible": true,
+    "reason": "Youth sports coach roles are suitable for 16-20 year olds."
+  },
+  "Assistant Teacher at Marshall Elementary School|||kindercare": {
+    "eligible": true,
+    "reason": "Assistant teacher roles in elementary schools are suitable for minors with supervision."
+  },
+  "Head Swim Team Coach, Rockwell Plaza YMCA": {
+    "eligible": true,
+    "reason": "Head swim team coach at YMCA is suitable for young adults."
+  },
+  "Summer Program Staff - Residential Assistant": {
+    "eligible": true,
+    "reason": "Residential assistant for summer programs is suitable for 16-20 year olds."
+  },
+  "Assistant Coach - Boys Soccer Camp|||usnh": {
+    "eligible": true,
+    "reason": "Assistant coach for boys soccer camp is suitable for minors."
+  },
+  "Middle School Ministry Intern": {
+    "eligible": true,
+    "reason": "Middle school ministry intern roles are suitable for young adults."
+  }
+}

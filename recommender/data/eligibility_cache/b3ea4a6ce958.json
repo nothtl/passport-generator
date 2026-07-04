@@ -1,0 +1,10 @@
+{
+  "Part-Time Electrical Safety Instructor|||certus": {
+    "eligible": true,
+    "reason": "Teaching electrical safety does not require age 21+ and is suitable for minors."
+  },
+  "Academic Instructor": {
+    "eligible": true,
+    "reason": "Academic instructor roles are not restricted by age 21+ and are suitable for young adults."
+  }
+}

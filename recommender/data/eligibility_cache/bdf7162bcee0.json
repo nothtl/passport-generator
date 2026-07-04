@@ -1,0 +1,34 @@
+{
+  "Private Wealth Management Client Relationship Analyst|||ms": {
+    "eligible": true,
+    "reason": "Role is in wealth management, no age restriction."
+  },
+  "Billing Clerk|||wasteconnections": {
+    "eligible": true,
+    "reason": "Billing clerk, no age restriction."
+  },
+  "ESOP Payment Specialist I": {
+    "eligible": true,
+    "reason": "Payment specialist, no age restriction."
+  },
+  "Cash Application Associate|||nabis": {
+    "eligible": true,
+    "reason": "Cash application associate, no age restriction."
+  },
+  "Payroll Clerk": {
+    "eligible": true,
+    "reason": "Payroll clerk, no age restriction."
+  },
+  "Finance Service Representative": {
+    "eligible": true,
+    "reason": "Finance service representative, no age restriction."
+  },
+  "Intern - Tire Property Management / Finance, Year-Round|||Continental": {
+    "eligible": true,
+    "reason": "Internship, no age restriction."
+  },
+  "Accounting Clerk-Full Time": {
+    "eligible": true,
+    "reason": "Accounting clerk, no age restriction."
+  }
+}

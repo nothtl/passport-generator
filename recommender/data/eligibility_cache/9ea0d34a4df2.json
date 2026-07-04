@@ -1,0 +1,14 @@
+{
+  "Non-CDL Delivery 26' Box Truck /  Warehouse Associate|||cabp": {
+    "eligible": true,
+    "reason": "Non-CDL delivery and warehouse roles are suitable for 16-20 year olds."
+  },
+  "Non-CDL Delivery Driver 26' Box Truck / Warehouse Associate|||cabp": {
+    "eligible": true,
+    "reason": "Non-CDL delivery and warehouse roles are suitable for 16-20 year olds."
+  },
+  "Warehouse Associate|||cabp": {
+    "eligible": true,
+    "reason": "Warehouse associate role is suitable for 16-20 year olds."
+  }
+}

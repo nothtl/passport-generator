@@ -1,0 +1,159 @@
+{
+  "student_name": "Benjamin Medrano",
+  "email": "bmedrano@crotonaihs.org",
+  "scores": {
+    "EC": {
+      "score": 41.17,
+      "sub_scores": {
+        "Verbal": 10.0,
+        "Written": 2.5,
+        "Interpersonal": 16.6667,
+        "CrossCultural": 12.0
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.5,
+      "reasoning": "Benjamin Medrano provided clear guidance to clients and translated for others, demonstrating strong verbal and interpersonal communication."
+    },
+    "GC": {
+      "score": 31.5,
+      "sub_scores": {
+        "D1_Empathy": 0.725,
+        "D2_Community": 0.325,
+        "D3_Cultural": 0.0,
+        "D4_Network": 0.16,
+        "D5_Volunteering": 0.0
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.43,
+      "reasoning": "Benjamin Medrano's work at R.A.I.N INC CENTER and Crotona International High School demonstrates dedication to community support and bridging cultural divides."
+    },
+    "RFF": {
+      "score": 6.2,
+      "sub_scores": {
+        "D1_SelfReflection": 0.165,
+        "D2_GoalSetting": 0.0,
+        "D3_FutureCareer": 0.0,
+        "D4_CollegePrep": 0.0833
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.0,
+      "reasoning": "Benjamin Medrano demonstrates a forward-looking mindset through his dedicated pursuit of technical support and client guidance, indicating a proactive approach to skill development for future career endeavors."
+    },
+    "CR": {
+      "score": 42.5,
+      "sub_scores": {
+        "C1": 0,
+        "C2": 0.0,
+        "C3": 70,
+        "C4": 100
+      },
+      "source": "survey+docs",
+      "data_coverage": 0.19,
+      "reasoning": "Benjamin Medrano developed technical support and client guidance skills during his internships, demonstrating career readiness."
+    },
+    "CT": {
+      "score": 68,
+      "thinking_arc": "Benjamin Medrano's Spanish-English translation work demonstrates nuanced analytical meaning assessment across languages and cultural contexts.",
+      "key_evidence": "Translation, Group projects, Troubleshooting",
+      "depth_signal": "developing",
+      "source": "docs",
+      "reasoning": "Benjamin Medrano's Spanish-English translation work demonstrates nuanced analytical meaning assessment across languages and cultural contexts."
+    },
+    "CI": {
+      "score": 65,
+      "innovation_arc": "Benjamin Medrano's leadership in coordinating group projects at Crotona International High School shows a self-directed initiative to structure and guide peer collaboration.",
+      "key_evidence": "Led group projects, coordinating responsibilities among peers",
+      "innovation_signal": "developing",
+      "source": "docs",
+      "reasoning": "Benjamin Medrano's leadership in coordinating group projects at Crotona International High School shows a self-directed initiative to structure and guide peer collaboration."
+    }
+  },
+  "enriched_fields": {
+    "Listen to others (post)": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "What are three skills you have that will help you in your future career": {
+      "value": "Skills \nCustomer Service \nIntermediate \nBilingualCommunication \nIntermediate \nTechnical Support \nIntermediate \n\nLanguages \nEnglish \nSpanish",
+      "source": "docs",
+      "was_missing": true
+    },
+    "FY1 Ever Volunteered": {
+      "value": "False",
+      "source": "docs",
+      "was_missing": true
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": 4,
+      "source": "docs",
+      "was_missing": true
+    },
+    "Listen to others": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "I feel ready and prepared for college": {
+      "value": 3,
+      "source": "docs",
+      "was_missing": true
+    },
+    "CPC All Session Text": {
+      "value": "Intern – Duro Internship    2022-03 – 2022-09 \nR.A.I.N INC CENTER | Bronx, NY \nProvided technical support and organizational assistance in a professional \ninternship setting. \n\n•  Troubleshot hardware and software issues, improving user \n\nexperience. \n\n•  Assisted clients with technical problems, delivering clear and \n\neffective guidance. \n\n•  Organized office inventory, enhancing workspace efficiency and \n\naccessibility. \n\nStudent Intern    2023-05 – 2023-09 \nCrotona International High School | Bronx, NY \nSupported school activities and provided translation services to facilitate \ncommunication. \n\n•  Assisted with Spanish–English translations for students and teachers. \n•  Led group projects, coordinating responsibilities among peers. \n•  Collaborated effectively with classmates, demonstr",
+      "source": "docs",
+      "was_missing": true
+    },
+    "CPC Resume Text": {
+      "value": "We added and improved the following resume sections this session: summary, experience, education, skills. Updated work experience entries with bullet points, refined skills section, and formatted the overall layout for professional job applications.",
+      "source": "docs",
+      "was_missing": true
+    }
+  },
+  "fields_enriched_count": 8,
+  "fields_still_missing": [
+    "Culture Feel",
+    "What are three adjectives that describe the person you are and why",
+    "Rate your Career Pathways Champion (1-10)",
+    "The Speaker helped me think about my future career pathway",
+    "The Speaker was a relatable role model",
+    "I understand how my cultural values can shape my career choices",
+    "Remember the SMART Goal you set - next round",
+    "CPC Why",
+    "Hope to Gain",
+    "If you do not have a job, what is your ideal future career job",
+    "CPC What component skill did you cover",
+    "CPC What skill did you cover",
+    "CPC Anything else",
+    "Meeting with my Champions during school helped me feel like I belong in school",
+    "FY1 - Ever Volunteered?",
+    "FY1 - Had Internship?",
+    "FY1 Feel College Ready and Prepped",
+    "I feel I am now a stronger candidate for college and careers",
+    "FY helped realize doing well connects to my career goals",
+    "I feel more prepared for my future career",
+    "Did you find a way to stay in touch",
+    "CPC Discussion topics",
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+    "SMART GOAL",
+    "FY1 - Had/Have Job?",
+    "The topic helped me think about my future career pathway",
+    "The Speaker inspired me to think more about my future career",
+    "CPC Resume additions",
+    "Connected Champions",
+    "FY1 - Hours Volunteered",
+    "Community Feel (Quant)",
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network",
+    "I feel I am now more prepared for college",
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round",
+    "Any suggestions to make the Foundational Year a better experience",
+    "The topic inspired me to think more about my future career",
+    "I made new friends during the Foundational Year",
+    "After meeting Champions, I better understand people who are different from me",
+    "I feel more engaged in school and participate more than before",
+    "What do you hope to gain by going through this program",
+    "Know How To Pursue Careers",
+    "FY1 Hours Volunteered"
+  ],
+  "llm_calls_made": 15
+}

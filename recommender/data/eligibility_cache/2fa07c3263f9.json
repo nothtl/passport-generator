@@ -1,0 +1,54 @@
+{
+  "Subway Sandwich Artist|||PilotCompany": {
+    "eligible": true,
+    "reason": "Sandwich making, no alcohol/gambling/etc."
+  },
+  "Education Steward - AmeriCorps": {
+    "eligible": true,
+    "reason": "Education steward, suitable for youth."
+  },
+  "Pizza Chef(06369) - 481 HIGHWAY 105|||Dominos": {
+    "eligible": true,
+    "reason": "Pizza chef, no age restrictions."
+  },
+  "Children's Center Student Assistant|||associated-students-inc": {
+    "eligible": true,
+    "reason": "Children's center assistant, suitable for young adults."
+  },
+  "Graduate Assistant - Women\u2019s Basketball|||university-of-mount-saint-vincent": {
+    "eligible": true,
+    "reason": "Graduate assistant, but role is for university; likely requires enrollment, not age 21+."
+  },
+  "Commis Chef / Line Cook": {
+    "eligible": true,
+    "reason": "Commis chef/line cook, no age restrictions."
+  },
+  "Daycare/Preschool Teacher": {
+    "eligible": true,
+    "reason": "Daycare/preschool teacher, suitable for young adults."
+  },
+  "Pizza Maker": {
+    "eligible": true,
+    "reason": "Pizza maker, no age restrictions."
+  },
+  "Enrollment Advisor|||aviationinstituteofmaintenance": {
+    "eligible": true,
+    "reason": "Enrollment advisor, no age restrictions."
+  },
+  "Youth Development Professional - PT - Sapulpa Red Shield Youth Center|||tsa": {
+    "eligible": true,
+    "reason": "Youth development professional, suitable for young adults."
+  },
+  "Student: Campus Life AugSem Leader 2026-27|||AugsburgUniversity-MinneapolisMN": {
+    "eligible": true,
+    "reason": "Student campus life leader, suitable for students."
+  },
+  "Forest Ave - Barista|||philzcoffeecareers": {
+    "eligible": true,
+    "reason": "Barista, no alcohol service required."
+  },
+  "Student Advisor|||thinkacademyus": {
+    "eligible": true,
+    "reason": "Student advisor, no age restrictions."
+  }
+}

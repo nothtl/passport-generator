@@ -1,0 +1,1907 @@
+{
+  "name": "Jhan Motta",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2028,
+  "source_files": [
+    "Jhan Motta - Resume.pdf",
+    "Jhan Motta - LinkedIn.md"
+  ],
+  "skills": [
+    "Fine Arts",
+    "Communications and Media",
+    "Coordination",
+    "Time Management",
+    "Sales and Marketing",
+    "Design",
+    "Customer and Personal Service",
+    "Service Orientation",
+    "Active Listening",
+    "Speaking",
+    "Administration and Management",
+    "Production and Processing",
+    "Quality Control Analysis",
+    "Operations Monitoring",
+    "Critical Thinking",
+    "Active Learning",
+    "Learning Strategies",
+    "Computers and Electronics",
+    "Foreign Language",
+    "English Language",
+    "Social Perceptiveness",
+    "Engineering and Technology",
+    "Complex Problem Solving"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Fine Arts",
+      "evidence": "Bachelor of Fine Arts (B.F.A.), Art (Photography Focus)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Participated in professional photoshoots, castings, and on-camera productions",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Collaborated with photographers, directors, and creative teams to execute visual concepts",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Maintained strong on-set professionalism, punctuality, and adaptability to direction",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "Build a growing portfolio used for academic projects, exhibitions, and professional opportunities",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Manage the full creative process, including concept development, shooting, editing, and presentation",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Communicate with clients to ensure that their requirements were fully met",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Responsible for dog Sitting for dogs differents ages for several families",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Communicate with clients to ensure that their requirements were fully met",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Communicate with clients to ensure that their requirements were fully met",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Manage the full creative process, including concept development, shooting, editing, and presentation",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "Performed daily general cleaning and deep cleaning of desks and other office property",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Maintained a high level of caution when cleaning expensive and delicate items",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "Maintained a high level of caution when cleaning expensive and delicate items",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Develop conceptual photography projects exploring identity, emotion, and contemporary social themes",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Chosen as one of 162 New York City students for an intensive six-year experience cultivating skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Chosen as one of 162 New York City students for an intensive six-year experience cultivating skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Adobe Photoshop, Adobe Illustrator, Paint Tool SAI, Adobe Lightroom Classic",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Spanish (Fluent), French (Basic / Learning)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "English (Proficient)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Collaborated with photographers, directors, and creative teams to execute visual concepts",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Engineering and Technology",
+      "evidence": "Stage Light Management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "Develop conceptual photography projects exploring identity, emotion, and contemporary social themes",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "27-1024.00",
+      "title": "Graphic Designers",
+      "zone": 4,
+      "pct": 90.6,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "Fine Arts",
+        "Communications and Media",
+        "English Language",
+        "Active Listening",
+        "Sales and Marketing",
+        "Customer and Personal Service",
+        "Speaking",
+        "Production and Processing",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "13-1121.00",
+      "title": "Meeting, Convention, and Event Planners",
+      "zone": 4,
+      "pct": 82.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management",
+        "Communications and Media",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "27-4014.00",
+      "title": "Sound Engineering Technicians",
+      "zone": 3,
+      "pct": 82.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Fine Arts",
+        "Active Listening",
+        "English Language",
+        "Engineering and Technology",
+        "Speaking",
+        "Critical Thinking",
+        "Communications and Media",
+        "Complex Problem Solving",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "27-1023.00",
+      "title": "Floral Designers",
+      "zone": 2,
+      "pct": 81.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Production and Processing",
+        "Sales and Marketing",
+        "Design",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "27-1011.00",
+      "title": "Art Directors",
+      "zone": 4,
+      "pct": 80.1,
+      "matched_skills": [
+        "Design",
+        "English Language",
+        "Computers and Electronics",
+        "Fine Arts",
+        "Communications and Media",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Sales and Marketing",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "43-5052.00",
+      "title": "Postal Service Mail Carriers",
+      "zone": 2,
+      "pct": 76.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Social Perceptiveness",
+        "Time Management",
+        "Administration and Management",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-2021.00",
+      "title": "Marketing Managers",
+      "zone": 4,
+      "pct": 76.1,
+      "matched_skills": [
+        "Sales and Marketing",
+        "English Language",
+        "Administration and Management",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 75.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 75.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "39-3092.00",
+      "title": "Costume Attendants",
+      "zone": 2,
+      "pct": 75.3,
+      "matched_skills": [
+        "Fine Arts",
+        "Design",
+        "Production and Processing",
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "51-6052.00",
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "zone": 2,
+      "pct": 75.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Production and Processing",
+        "Administration and Management",
+        "Time Management",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Design",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 75.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "39-3091.00",
+      "title": "Amusement and Recreation Attendants",
+      "zone": 2,
+      "pct": 74.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Coordination",
+        "Critical Thinking",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "41-9041.00",
+      "title": "Telemarketers",
+      "zone": 2,
+      "pct": 74.2,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Speaking",
+        "Customer and Personal Service",
+        "Active Listening",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 74.0,
+      "matched_skills": [
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "39-7012.00",
+      "title": "Travel Guides",
+      "zone": 2,
+      "pct": 72.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Speaking",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Coordination",
+        "English Language",
+        "Time Management",
+        "Sales and Marketing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 72.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Time Management",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-9012.00",
+      "title": "Models",
+      "zone": 2,
+      "pct": 71.4,
+      "matched_skills": [
+        "Social Perceptiveness",
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "English Language",
+        "Fine Arts"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 71.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "English Language",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "11-2011.00",
+      "title": "Advertising and Promotions Managers",
+      "zone": 4,
+      "pct": 70.8,
+      "matched_skills": [
+        "Sales and Marketing",
+        "English Language",
+        "Communications and Media",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "13-1161.01",
+      "title": "Search Marketing Strategists",
+      "zone": 4,
+      "pct": 70.3,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Computers and Electronics",
+        "English Language",
+        "Complex Problem Solving",
+        "Communications and Media",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "13-1199.06",
+      "title": "Online Merchants",
+      "zone": 4,
+      "pct": 70.0,
+      "matched_skills": [
+        "English Language",
+        "Sales and Marketing",
+        "Customer and Personal Service",
+        "Communications and Media",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "39-1022.00",
+      "title": "First-Line Supervisors of Personal Service Workers",
+      "zone": 3,
+      "pct": 69.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "41-9022.00",
+      "title": "Real Estate Sales Agents",
+      "zone": 3,
+      "pct": 69.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "51-9151.00",
+      "title": "Photographic Process Workers and Processing Machine Operators",
+      "zone": 2,
+      "pct": 69.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Operations Monitoring",
+        "Active Listening",
+        "Quality Control Analysis",
+        "Speaking",
+        "Service Orientation",
+        "Production and Processing",
+        "English Language",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 69.3,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Active Listening",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "35-3031.00",
+      "title": "Waiters and Waitresses",
+      "zone": 2,
+      "pct": 69.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Sales and Marketing",
+        "Coordination",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "43-9031.00",
+      "title": "Desktop Publishers",
+      "zone": 3,
+      "pct": 68.7,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Communications and Media",
+        "Active Listening",
+        "Speaking",
+        "English Language",
+        "Complex Problem Solving",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 68.5,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "English Language",
+        "Critical Thinking",
+        "Active Listening",
+        "Speaking",
+        "Design",
+        "Customer and Personal Service",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "13-1011.00",
+      "title": "Agents and Business Managers of Artists, Performers, and Athletes",
+      "zone": 4,
+      "pct": 68.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Active Listening",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "51-5111.00",
+      "title": "Prepress Technicians and Workers",
+      "zone": 3,
+      "pct": 68.0,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Design",
+        "Production and Processing",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "51-9195.05",
+      "title": "Potters, Manufacturing",
+      "zone": 3,
+      "pct": 68.0,
+      "matched_skills": [
+        "Fine Arts",
+        "Production and Processing",
+        "Design",
+        "Customer and Personal Service",
+        "Operations Monitoring",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "35-3023.01",
+      "title": "Baristas",
+      "zone": 2,
+      "pct": 67.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Sales and Marketing",
+        "Coordination",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "43-4051.00",
+      "title": "Customer Service Representatives",
+      "zone": 2,
+      "pct": 67.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "English Language",
+        "Speaking",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Computers and Electronics",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "15-1212.00",
+      "title": "Information Security Analysts",
+      "zone": 4,
+      "pct": 67.6,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Critical Thinking",
+        "Active Listening",
+        "Complex Problem Solving",
+        "Administration and Management",
+        "Engineering and Technology",
+        "Speaking",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "31-2022.00",
+      "title": "Physical Therapist Aides",
+      "zone": 2,
+      "pct": 67.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Computers and Electronics",
+        "Service Orientation",
+        "Coordination",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 67.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 67.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Listening",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-9151.00",
+      "title": "Social and Community Service Managers",
+      "zone": 4,
+      "pct": 67.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "17-2071.00",
+      "title": "Electrical Engineers",
+      "zone": 4,
+      "pct": 67.2,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "Design",
+        "Critical Thinking",
+        "Active Learning",
+        "Active Listening",
+        "Speaking",
+        "Complex Problem Solving",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "17-2061.00",
+      "title": "Computer Hardware Engineers",
+      "zone": 4,
+      "pct": 67.0,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Design",
+        "Critical Thinking",
+        "Active Listening",
+        "Speaking",
+        "Complex Problem Solving",
+        "English Language",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "11-9131.00",
+      "title": "Postmasters and Mail Superintendents",
+      "zone": 2,
+      "pct": 66.9,
+      "matched_skills": [
+        "Administration and Management",
+        "English Language",
+        "Production and Processing",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "35-9011.00",
+      "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "zone": 2,
+      "pct": 66.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Sales and Marketing",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "47-3014.00",
+      "title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+      "zone": 2,
+      "pct": 66.9,
+      "matched_skills": [
+        "English Language",
+        "Speaking",
+        "Coordination",
+        "Active Listening",
+        "Critical Thinking",
+        "Time Management",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "17-2112.00",
+      "title": "Industrial Engineers",
+      "zone": 4,
+      "pct": 66.4,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Production and Processing",
+        "Design",
+        "Active Listening",
+        "Critical Thinking",
+        "English Language",
+        "Speaking",
+        "Complex Problem Solving",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "53-6031.00",
+      "title": "Automotive and Watercraft Service Attendants",
+      "zone": 2,
+      "pct": 65.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "Critical Thinking",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 64.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "English Language",
+        "Service Orientation",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 64.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Learning Strategies",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "29-2081.00",
+      "title": "Opticians, Dispensing",
+      "zone": 3,
+      "pct": 64.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Speaking",
+        "Active Listening",
+        "Production and Processing",
+        "English Language",
+        "Critical Thinking",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "29-2055.00",
+      "title": "Surgical Technologists",
+      "zone": 3,
+      "pct": 63.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Operations Monitoring",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "15-1255.01",
+      "title": "Video Game Designers",
+      "zone": 4,
+      "pct": 62.9,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Active Learning",
+        "Communications and Media",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "15-1241.01",
+      "title": "Telecommunications Engineering Specialists",
+      "zone": 3,
+      "pct": 62.8,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Active Listening",
+        "Critical Thinking",
+        "English Language",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 61.2,
+      "matched_skills": [
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Production and Processing",
+        "Speaking",
+        "Customer and Personal Service",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 60.8,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Computers and Electronics",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 60.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-9092.00",
+      "title": "Medical Assistants",
+      "zone": 3,
+      "pct": 60.7,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Speaking",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 60.6,
+      "matched_skills": [
+        "Time Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "47-1011.00",
+      "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+      "zone": 3,
+      "pct": 60.3,
+      "matched_skills": [
+        "Administration and Management",
+        "Coordination",
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "English Language",
+        "Critical Thinking",
+        "Design"
+      ]
+    },
+    {
+      "soc": "47-2022.00",
+      "title": "Stonemasons",
+      "zone": 2,
+      "pct": 60.2,
+      "matched_skills": [
+        "Design",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Time Management",
+        "Coordination",
+        "Operations Monitoring",
+        "Customer and Personal Service",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 60.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Coordination",
+        "Production and Processing",
+        "Critical Thinking",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 59.9,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Active Listening",
+        "English Language",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 59.2,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "English Language",
+        "Complex Problem Solving",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "19-4012.01",
+      "title": "Precision Agriculture Technicians",
+      "zone": 3,
+      "pct": 59.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Sales and Marketing",
+        "English Language",
+        "Engineering and Technology"
+      ]
+    },
+    {
+      "soc": "29-2061.00",
+      "title": "Licensed Practical and Licensed Vocational Nurses",
+      "zone": 3,
+      "pct": 59.2,
+      "matched_skills": [
+        "Service Orientation",
+        "Coordination",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "49-9052.00",
+      "title": "Telecommunications Line Installers and Repairers",
+      "zone": 2,
+      "pct": 59.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Communications and Media",
+        "Critical Thinking",
+        "Speaking",
+        "Complex Problem Solving",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "53-7065.00",
+      "title": "Stockers and Order Fillers",
+      "zone": 2,
+      "pct": 58.9,
+      "matched_skills": [
+        "Active Listening",
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "29-2031.00",
+      "title": "Cardiovascular Technologists and Technicians",
+      "zone": 3,
+      "pct": 58.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "English Language",
+        "Critical Thinking",
+        "Speaking",
+        "Operations Monitoring",
+        "Social Perceptiveness",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "25-9042.00",
+      "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "zone": 3,
+      "pct": 58.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 58.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 58.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Coordination",
+        "English Language",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 58.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "25-2056.00",
+      "title": "Special Education Teachers, Elementary School",
+      "zone": 4,
+      "pct": 58.0,
+      "matched_skills": [
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 57.9,
+      "matched_skills": [
+        "Speaking",
+        "Active Listening",
+        "Learning Strategies",
+        "English Language",
+        "Critical Thinking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "49-2091.00",
+      "title": "Avionics Technicians",
+      "zone": 3,
+      "pct": 57.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Engineering and Technology",
+        "Critical Thinking",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Complex Problem Solving",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "49-9063.00",
+      "title": "Musical Instrument Repairers and Tuners",
+      "zone": 3,
+      "pct": 57.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Quality Control Analysis",
+        "Critical Thinking",
+        "Fine Arts",
+        "English Language",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 56.7,
+      "matched_skills": [
+        "Production and Processing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 56.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Listening",
+        "Learning Strategies",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 55.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Learning Strategies",
+        "Active Learning",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 55.6,
+      "matched_skills": [
+        "English Language",
+        "Computers and Electronics",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 53.9,
+      "matched_skills": [
+        "Speaking",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Service Orientation",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "33-3041.00",
+      "title": "Parking Enforcement Workers",
+      "zone": 2,
+      "pct": 53.8,
+      "matched_skills": [
+        "English Language",
+        "Speaking",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "19-4061.00",
+      "title": "Social Science Research Assistants",
+      "zone": 4,
+      "pct": 53.1,
+      "matched_skills": [
+        "English Language",
+        "Active Listening",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Speaking",
+        "Complex Problem Solving",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "19-1032.00",
+      "title": "Foresters",
+      "zone": 4,
+      "pct": 52.6,
+      "matched_skills": [
+        "Active Listening",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Speaking",
+        "Complex Problem Solving",
+        "English Language",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 52.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning",
+        "Active Listening",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "45-2041.00",
+      "title": "Graders and Sorters, Agricultural Products",
+      "zone": 2,
+      "pct": 51.9,
+      "matched_skills": [
+        "Production and Processing",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Foreign Language"
+      ]
+    },
+    {
+      "soc": "19-1023.00",
+      "title": "Zoologists and Wildlife Biologists",
+      "zone": 4,
+      "pct": 50.9,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Complex Problem Solving",
+        "English Language",
+        "Coordination",
+        "Customer and Personal Service"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 8,
+      "title": "Talent Branding Specialist (Creative)",
+      "company": "NBCUniversal",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000132914554",
+      "match_score": 75,
+      "embed_sim": 0.4201306700706482,
+      "verdict": "solid",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 6,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The resume demonstrates relevant experience in modeling, visual arts, and some elements of content creation. However, it lacks direct experience in employer branding and organizational project management necessary for the Talent Branding Specialist role.",
+        "strengths": [
+          "Experience in creative and visual storytelling through modeling and photography.",
+          "Familiarity with Adobe Creative Suite—essential for content creation.",
+          "Strong communication and collaboration skills developed through collaborative projects.",
+          "Educational background in fine arts and visual storytelling."
+        ],
+        "gaps": [
+          "No direct experience in talent branding or employer branding strategy.",
+          "Lacks specific experience in project management related to a corporate setting.",
+          "Does not showcase a portfolio of video storytelling or multimedia content, which is crucial for the role.",
+          "No demonstrated experience with video editing software like Premiere Pro or Final Cut Pro."
+        ]
+      },
+      "blended_score": 64
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 3,
+      "title": "Account Executive, MidMarket",
+      "company": "On The Stage",
+      "url": "https://jobs.smartrecruiters.com/OnTheStage/743999987799543",
+      "match_score": 40,
+      "embed_sim": 0.4447312653064728,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 4,
+      "why": {
+        "verdict": "weak",
+        "match_score": 40,
+        "summary": "The candidate has a strong background in the arts, particularly in modeling and photography, but lacks direct experience or skills in sales, especially within a SaaS environment, which are critical for this Account Executive position.",
+        "strengths": [
+          "Strong background in the arts, which aligns with the company's focus on performing arts",
+          "Experience in collaborative environments through modeling and acting",
+          "Technical skills in photography that may translate to an understanding of visual marketing"
+        ],
+        "gaps": [
+          "No experience in sales or account management, specifically in SaaS",
+          "Lack of demonstrated ability to drive revenue or close business deals",
+          "No proven track record of meeting sales quotas or engaging in consultative selling techniques",
+          "Does not meet the requirement of 2+ years in a similar position at a SaaS company"
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 10,
+      "title": "Account Executive, Broadway",
+      "company": "Situation Group",
+      "url": "https://apply.workable.com/j/5AADE9F975",
+      "match_score": 35,
+      "embed_sim": 0.44617146253585815,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 2,
+      "why": {
+        "verdict": "weak",
+        "match_score": 35,
+        "summary": "The candidate's resume does not align well with the job requirements for the Account Executive position. The candidate has background and experience in modeling and the arts but lacks relevant experience in marketing, advertising, or client services as specified in the job description.",
+        "strengths": [
+          "Bachelor of Fine Arts with a focus on photography, showing a strong background in visual arts",
+          "Experience in collaborating with creative teams, which could be beneficial in a marketing context",
+          "Demonstrated professionalism and adaptability in various creative roles"
+        ],
+        "gaps": [
+          "No experience in advertising, media, or marketing agency settings as required (3-4 years client services experience)",
+          "Lacks knowledge of digital and traditional media such as social, search, email, etc.",
+          "No specific experience in project management or handling administrative tasks related to account management",
+          "Communication and organizational skills not evidenced in a client service environment, as required by the job"
+        ]
+      },
+      "blended_score": 58
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 24,
+      "title": "Account Executive Consumer",
+      "company": "M Booth",
+      "url": "https://job-boards.greenhouse.io/mbooth/jobs/8557048002",
+      "match_score": 30,
+      "embed_sim": 0.4499035179615021,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 3,
+      "why": {
+        "verdict": "weak",
+        "match_score": 30,
+        "summary": "The candidate has a background primarily in modeling and photography, lacking direct experience in public relations, marketing, or communications as required for the Account Executive role. While they demonstrate creativity and collaboration experiences, these are not sufficient to bridge the gap for the specific qualifications outlined in the job description.",
+        "strengths": [
+          "Strong background in visual arts and creativity",
+          "Experience working in collaborative environments",
+          "Skills in photography and visual storytelling"
+        ],
+        "gaps": [
+          "No formal experience in public relations or integrated communications",
+          "Lacks agency experience",
+          "No demonstrated experience with budget tracking or vendor management",
+          "Limited experience in drafting client communications and managing client relationships",
+          "Absence of traditional PR or influencer marketing experience"
+        ]
+      },
+      "blended_score": 58
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 4,
+      "title": "Social Media & Content Associate Manager",
+      "company": "PMK Entertainment",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4105478",
+      "match_score": 60,
+      "embed_sim": 0.41925162076950073,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "The candidate has relevant experience in photography and modeling which could relate to content creation, but lacks specific experience in social media management and direct brand representation as outlined in the job description.",
+        "strengths": [
+          "Experience in photography and visual storytelling which could assist in content creation",
+          "Freelance modeling experience showing adaptability and collaboration skills",
+          "Education focusing on arts and performance may contribute to creative thinking in content production"
+        ],
+        "gaps": [
+          "No direct experience managing social media for a brand, as required (3+ years)",
+          "Lacks familiarity with social media metrics and analytics tools mentioned in the job description",
+          "Limited experience in copywriting for social media engagement as specified"
+        ]
+      },
+      "blended_score": 56
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 23,
+      "title": "Brand Partnerships Account Executive",
+      "company": "Fashion Nova",
+      "url": "https://job-boards.greenhouse.io/fashionnova/jobs/7409266",
+      "match_score": 35,
+      "embed_sim": 0.44249793887138367,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 1,
+      "why": {
+        "verdict": "weak",
+        "match_score": 35,
+        "summary": "The candidate's profile does not align well with the requirements for the Brand Partnerships Account Executive position. While they have experience in modeling and performance arts, they lack substantial experience in PR, talent management, or brand partnerships, which are critical for this role.",
+        "strengths": [
+          "Experience as a model, which may provide some insight into influencer culture",
+          "Background in creative arts, which could translate to some understanding of brand collaborations"
+        ],
+        "gaps": [
+          "Lack of experience in PR agency or talent management roles",
+          "No demonstrated experience in research or strategy for celebrity and influencer campaigns",
+          "Absence of data-driven reporting or metrics that are vital for the role",
+          "No evidence of familiarity with CRM software or influencer tracking platforms",
+          "Limited professional experience (most roles are freelance and not relevant to brand partnerships)"
+        ]
+      },
+      "blended_score": 56
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 2,
+      "title": "Account Executive, SMB",
+      "company": "On The Stage",
+      "url": "https://jobs.smartrecruiters.com/OnTheStage/744000046609229",
+      "match_score": 30,
+      "embed_sim": 0.437742680311203,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 1,
+      "why": {
+        "verdict": "weak",
+        "match_score": 30,
+        "summary": "The candidate's resume demonstrates a strong background in the arts, specifically in modeling and photography, but lacks direct experience in sales, especially in a SaaS environment, which is critical for the Account Executive role. While the candidate exhibits relevant skills such as creativity and communication, they do not meet the primary job qualifications and experience required for the position.",
+        "strengths": [
+          "Strong background in the arts and creative fields",
+          "Experience collaborating with teams in artistic environments",
+          "Good communication and time management skills"
+        ],
+        "gaps": [
+          "No experience in SaaS sales or related fields",
+          "Lack of sales experience, particularly in consultative selling",
+          "No demonstrated track record of achieving sales quotas or working with CRM systems"
+        ]
+      },
+      "blended_score": 51
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 25,
+      "title": "Account Executive, Field Sales & Training - Los Angeles",
+      "company": "Sol de Janeiro",
+      "url": "https://job-boards.greenhouse.io/soldejaneiro/jobs/5149353007",
+      "match_score": 40,
+      "embed_sim": 0.4268626570701599,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 0,
+      "why": {
+        "verdict": "weak",
+        "match_score": 40,
+        "summary": "The candidate's resume does not align well with the requirements of the Account Executive position. While there is evidence of experience in modeling and creative arts, there is a significant lack of relevant sales, training, and customer service experience in the beauty or skincare industry.",
+        "strengths": [
+          "Background in visual arts and creativity which could lend to understanding product aesthetics in beauty sales",
+          "Experience in collaboration and communication through modeling and artistic projects"
+        ],
+        "gaps": [
+          "No experience in field sales or account management roles",
+          "Lacks relevant experience in the skincare, hair, or body product field",
+          "No evidence of working with retail entities like Sephora or Ulta Beauty",
+          "Does not demonstrate ability to develop strong client relationships or manage sales strategies",
+          "No demonstrated proficiency in MS Office tools like Word and Excel",
+          "Lacks experience in training and leading sales initiatives or events"
+        ]
+      },
+      "blended_score": 50
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 14,
+      "title": "Inside Sales - Performing Arts - Heritage Festivals and Bowl Games",
+      "company": "WorldStrides",
+      "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5226233008",
+      "match_score": 50,
+      "embed_sim": 0.416347861289978,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "The candidate has some relevant experience in performing arts and modeling, but lacks direct sales experience, familiarity with educational travel, and a background in music specific to the job's requirements.",
+        "strengths": [
+          "Experience in the performing arts through modeling and acting, which aligns with the job focus on performing arts.",
+          "Demonstrated ability to collaborate professionally in creative environments, which could be beneficial in working with schools and music groups.",
+          "Familiarity with client communication and project management skills gained from various personal projects."
+        ],
+        "gaps": [
+          "No direct sales experience, particularly in telesales or business development, which is crucial for this role.",
+          "Lacks experience or knowledge in the educational travel sector, which is central to WorldStrides' operations.",
+          "No indication of familiarity with music directors or school arts programs, which are key targets for generating sales leads."
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 13,
+      "title": "Inside Sales - Performing Arts",
+      "company": "WorldStrides",
+      "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5249725008",
+      "match_score": 45,
+      "embed_sim": 0.416347861289978,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Management",
+      "comparisons": 5,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "Jhan Motta's resume does not demonstrate relevant sales experience or the specific qualifications outlined in the job description for the Inside Sales - Performing Arts position. While there is mention of creative skills and involvement in performing arts, this does not translate to the required sales skills and experiences needed for the job.",
+        "strengths": [
+          "Background in performing arts and modeling which shows familiarity with the industry",
+          "Experience in collaborating with creative teams and executing visual concepts as a model and photographer"
+        ],
+        "gaps": [
+          "Lacks direct sales or telesales experience, which is crucial for the position",
+          "No evidence of achieving sales targets or experience in account management",
+          "Missing familiarity with both educational travel and the specific needs of performing arts groups",
+          "No experience in negotiating or closing sales, which are critical competencies for the role"
+        ]
+      },
+      "blended_score": 47
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

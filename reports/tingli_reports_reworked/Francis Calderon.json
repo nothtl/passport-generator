@@ -1,0 +1,369 @@
+{
+  "resume": "=== aylin_calderon_resume.pdf ===\nAylin Calderon\n\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com\n\nEDUCATION\n\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n\nWork Experience\nLittle Pulp Arts Center, Glendale, NY\n\nIntern\n\n- Helped children learn to paint\n- Cleaned exhibits\n- Painted posters\n\nBabysitter & Pet Sitter:\n-cooked meals\n-played games with the children\n-Supervised children\n-fed and took care of their cat\n\nEXTRACURRICULAR ACTIVITIES\nFlushing International High School Dance lessons\n\nSKILLS\n\n- Goodteamplayer\n- Abilitytomultitaskandcompleteprojectsontime\n- Abilitytolearnquickly\n-    Bilingual:SpanishandEnglish\n- Typingskills\n\nHOBBIES & INTERESTS\n\n- Playingsoccer\n- Graphicdesigning\n- Videogaming\n\nSpring 2022\n\nSummer 2020",
+  "function": "arts-media",
+  "confidence": 21,
+  "skills": [
+    "bilingual",
+    "care",
+    "cat",
+    "dance",
+    "exhibits",
+    "extracurricular activities",
+    "games",
+    "high school",
+    "meals",
+    "paint",
+    "sitter",
+    "typingskills"
+  ],
+  "verified_skills": [
+    "bilingual",
+    "care",
+    "cat",
+    "dance",
+    "exhibits",
+    "extracurricular activities",
+    "games",
+    "high school",
+    "meals",
+    "paint",
+    "sitter",
+    "typingskills"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [],
+  "skill_weights": {},
+  "market_relevant": [
+    "bilingual",
+    "care",
+    "cat",
+    "dance",
+    "exhibits",
+    "extracurricular activities",
+    "games",
+    "high school",
+    "meals",
+    "paint",
+    "sitter",
+    "typingskills"
+  ],
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
+    {
+      "skill": "care",
+      "source_section": "experience",
+      "matched_text": "-fed and took care of their cat",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cat",
+      "source_section": "experience",
+      "matched_text": "-fed and took care of their cat",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "dance",
+      "source_section": "experience",
+      "matched_text": "Flushing International High School Dance lessons",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "exhibits",
+      "source_section": "experience",
+      "matched_text": "- Cleaned exhibits",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "extracurricular activities",
+      "source_section": "experience",
+      "matched_text": "EXTRACURRICULAR ACTIVITIES",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "games",
+      "source_section": "experience",
+      "matched_text": "-played games with the children",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high school",
+      "source_section": "experience",
+      "matched_text": "Flushing International High School Dance lessons",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "meals",
+      "source_section": "experience",
+      "matched_text": "-cooked meals",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "paint",
+      "source_section": "experience",
+      "matched_text": "- Helped children learn to paint",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "sitter",
+      "source_section": "experience",
+      "matched_text": "Babysitter & Pet Sitter:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "bilingual",
+      "source_section": "skills",
+      "matched_text": "-    Bilingual:SpanishandEnglish",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "typingskills",
+      "source_section": "skills",
+      "matched_text": "- Typingskills",
+      "match_type": "vocabulary"
+    }
+  ],
+  "gaps": [
+    "adobe",
+    "ai-tools",
+    "canva",
+    "figma",
+    "graphic-design",
+    "image-editing"
+  ],
+  "core_gaps": [
+    "adobe",
+    "ai-tools",
+    "canva",
+    "figma",
+    "graphic-design",
+    "image-editing"
+  ],
+  "bridge_gaps": [
+    "adobe-bridge",
+    "after-effects",
+    "axure",
+    "brand-guidelines",
+    "capcut",
+    "commercial-photography",
+    "computer-mac-pc",
+    "exterior-and-interior-photography",
+    "high-resolution-photos",
+    "image-cleanup"
+  ],
+  "stretch_gaps": [],
+  "nice_to_have_gaps": [
+    "adobe-bridge",
+    "after-effects",
+    "axure",
+    "brand-guidelines",
+    "capcut",
+    "commercial-photography",
+    "computer-mac-pc",
+    "exterior-and-interior-photography",
+    "high-resolution-photos",
+    "image-cleanup"
+  ],
+  "verify_gaps": [],
+  "related": [],
+  "related_skills": [],
+  "alternatives": [
+    {
+      "function": "finance",
+      "pct": 15
+    },
+    {
+      "function": "education",
+      "pct": 14
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "healthcare",
+      "pct": 7
+    },
+    {
+      "function": "ops",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "For a arts-media path, focus first on adobe, ai-tools, canva. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Junior UX Architect/Designer/Developer",
+      "company": "IntegratedResourcesINC",
+      "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/82268607",
+      "fit": 29,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "why": "multiple missing job skills",
+      "gaps": "adobe, ai-tools, canva",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Creative Designer (Graphics & Image)",
+      "company": "virtuhire",
+      "url": "https://apply.workable.com/j/3E34D14505",
+      "fit": 19,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "why": "multiple missing job skills",
+      "gaps": "adobe, ai-tools, canva",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.5,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Freelance Photographer",
+      "company": "treatwell",
+      "url": "https://apply.workable.com/j/201DDFD756",
+      "fit": 17,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "why": "multiple missing job skills",
+      "gaps": "adobe, ai-tools, canva",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.4,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Photographic Studio",
+      "company": "IntegratedResourcesINC",
+      "url": "https://jobs.smartrecruiters.com/IntegratedResourcesINC/81801059",
+      "fit": 14,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "why": "multiple missing job skills",
+      "gaps": "adobe, ai-tools, canva",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.3,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Creative Designer (Graphics & Video)",
+      "company": "virtuhire",
+      "url": "https://apply.workable.com/j/98FD7FFB29",
+      "fit": 13,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "why": "multiple missing job skills",
+      "gaps": "adobe, ai-tools, canva",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.214,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      }
+    }
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "finance",
+      "arts-media"
+    ],
+    "goal_roles": [],
+    "goal_subdomains": [
+      "graphic-design"
+    ],
+    "study_domains": [
+      "finance",
+      "arts-media"
+    ],
+    "study_subdomains": [
+      "graphic-design"
+    ],
+    "study_program": "- TheFlushingInternationalHighSchool,Queens,NY",
+    "study_level": "",
+    "intent_confidence": 0.283,
+    "intent_strength": 0.533,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "=== aylin_calderon_resume.pdf ===\nAylin Calderon\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com",
+    "study_text": "- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "finance": 20,
+      "arts-media": 16,
+      "technology": 11
+    },
+    "study": {
+      "finance": 28,
+      "arts-media": 22,
+      "ops": 7
+    },
+    "classifier": {
+      "arts-media": 35,
+      "finance": 12,
+      "education": 11
+    },
+    "onet": {
+      "education": 44,
+      "healthcare": 19,
+      "ops": 7
+    },
+    "embeddings": {},
+    "experience": {
+      "education": 32,
+      "healthcare": 27,
+      "arts-media": 17
+    }
+  },
+  "candidate_functions": [
+    "arts-media"
+  ],
+  "subdomain": "graphic-design",
+  "subdomain_confidence": 1.0,
+  "subdomain_alternatives": [],
+  "lane_used": "fast",
+  "job_cluster": [
+    "graphic-design",
+    "graphic-design",
+    "photo-video",
+    "photo-video",
+    "photo-video"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {},
+  "llm_trace": [],
+  "normalization_source": "deterministic"
+}

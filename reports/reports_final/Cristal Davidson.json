@@ -1,0 +1,1910 @@
+{
+  "name": "Cristal Davidson",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2025,
+  "source_files": [
+    "Cristal Davidson - Resume.pdf",
+    "Cristal Davidson - LinkedIn.md"
+  ],
+  "skills": [
+    "Computers and Electronics",
+    "Administrative",
+    "Communications and Media",
+    "Sales and Marketing",
+    "Writing",
+    "Quality Control Analysis",
+    "Coordination",
+    "Customer and Personal Service",
+    "Speaking",
+    "Administration and Management",
+    "Management of Material Resources",
+    "Time Management",
+    "Personnel and Human Resources",
+    "Judgment and Decision Making",
+    "Critical Thinking",
+    "Education and Training",
+    "Active Listening",
+    "Service Orientation",
+    "Food Production",
+    "Operation and Control",
+    "Sociology and Anthropology",
+    "Reading Comprehension",
+    "Active Learning"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Transfered surveys of historical properties in Lancaster County onto the PastPerfect software",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Cataloged physical archival materials to improve organization and cleanliness in the office",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Coordinated with more than ten on-campus clubs and community organizations to execute social events.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "Developed social media content to promote the Trust’s initiatives",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Completed detailed evaluation sheets, providing structured feedback",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "improve accessibility / improve organization and cleanliness",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Coordinated with more than ten on-campus clubs and community organizations to execute social events.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Served as the primary point of contact for club members and community partners.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "asking questions and engaging with candidates to assess their fit for the department",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Organized and executed events that improved senior engagement and club participation",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Coordinated the purchasing and distribution of merchandise for 24 seniors",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Organized and executed events that improved senior engagement and club participation",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Personnel and Human Resources",
+      "evidence": "Participated in the hiring process by asking questions and engaging with candidates to assess their fit for the department",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "assess their fit for the department",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Researched prominent issues in Newark's education system through the use of Participatory Action Research",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "providing structured feedback on candidates' teaching abilities",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "asking questions and engaging with candidates",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Barista",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "Barista",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Barista",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sociology and Anthropology",
+      "evidence": "Researched prominent issues in Newark's education system through the use of Participatory Action Research",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "Researched prominent issues in Newark's education system",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Researched prominent issues in Newark's education system through the use of Participatory Action Research",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "27-2012.03",
+      "title": "Media Programming Directors",
+      "zone": 4,
+      "pct": 77.1,
+      "matched_skills": [
+        "Communications and Media",
+        "Computers and Electronics",
+        "Speaking",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Active Learning",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 73.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Active Listening",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-3043.00",
+      "title": "Writers and Authors",
+      "zone": 4,
+      "pct": 73.3,
+      "matched_skills": [
+        "Writing",
+        "Sales and Marketing",
+        "Communications and Media",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Time Management",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "43-4051.00",
+      "title": "Customer Service Representatives",
+      "zone": 2,
+      "pct": 73.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Speaking",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Reading Comprehension",
+        "Administrative",
+        "Computers and Electronics",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "43-6014.00",
+      "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "zone": 2,
+      "pct": 73.3,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Speaking",
+        "Reading Comprehension",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Writing",
+        "Service Orientation",
+        "Time Management",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "27-3041.00",
+      "title": "Editors",
+      "zone": 4,
+      "pct": 73.2,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Communications and Media",
+        "Writing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Time Management",
+        "Administration and Management",
+        "Administrative",
+        "Quality Control Analysis",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "27-3043.05",
+      "title": "Poets, Lyricists and Creative Writers",
+      "zone": 4,
+      "pct": 73.2,
+      "matched_skills": [
+        "Writing",
+        "Reading Comprehension",
+        "Communications and Media",
+        "Speaking",
+        "Active Learning",
+        "Critical Thinking",
+        "Active Listening",
+        "Computers and Electronics",
+        "Administrative",
+        "Judgment and Decision Making",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "43-6011.00",
+      "title": "Executive Secretaries and Executive Administrative Assistants",
+      "zone": 3,
+      "pct": 72.9,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Coordination",
+        "Computers and Electronics",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 72.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Administrative",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Education and Training",
+        "Service Orientation",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-5094.00",
+      "title": "Skincare Specialists",
+      "zone": 3,
+      "pct": 71.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Sales and Marketing",
+        "Service Orientation",
+        "Administration and Management",
+        "Education and Training",
+        "Active Listening",
+        "Administrative",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 71.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 71.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Administrative",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "11-3021.00",
+      "title": "Computer and Information Systems Managers",
+      "zone": 4,
+      "pct": 71.5,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Writing",
+        "Coordination",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "11-3012.00",
+      "title": "Administrative Services Managers",
+      "zone": 3,
+      "pct": 71.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Listening",
+        "Reading Comprehension",
+        "Time Management",
+        "Administrative",
+        "Speaking",
+        "Critical Thinking",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-2021.00",
+      "title": "Animal Caretakers",
+      "zone": 2,
+      "pct": 71.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Active Listening",
+        "Reading Comprehension",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Speaking",
+        "Critical Thinking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "13-1071.00",
+      "title": "Human Resources Specialists",
+      "zone": 4,
+      "pct": 71.3,
+      "matched_skills": [
+        "Personnel and Human Resources",
+        "Speaking",
+        "Active Listening",
+        "Reading Comprehension",
+        "Administrative",
+        "Critical Thinking",
+        "Writing",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "11-9072.00",
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "zone": 4,
+      "pct": 71.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Coordination",
+        "Service Orientation",
+        "Administration and Management",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 70.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Active Listening",
+        "Reading Comprehension",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "39-5012.00",
+      "title": "Hairdressers, Hairstylists, and Cosmetologists",
+      "zone": 3,
+      "pct": 70.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Sales and Marketing",
+        "Service Orientation",
+        "Critical Thinking",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "Administration and Management",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "35-2013.00",
+      "title": "Cooks, Private Household",
+      "zone": 3,
+      "pct": 70.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Food Production",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Service Orientation",
+        "Administration and Management",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "13-1199.06",
+      "title": "Online Merchants",
+      "zone": 4,
+      "pct": 70.4,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Communications and Media",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 70.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Food Production",
+        "Administration and Management",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "13-2022.00",
+      "title": "Appraisers of Personal and Business Property",
+      "zone": 4,
+      "pct": 69.3,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Writing",
+        "Active Listening",
+        "Speaking",
+        "Administrative",
+        "Administration and Management",
+        "Active Learning",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "13-1032.00",
+      "title": "Insurance Appraisers, Auto Damage",
+      "zone": 3,
+      "pct": 68.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Writing",
+        "Active Listening",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Time Management",
+        "Administrative",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 68.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Reading Comprehension",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "45-2011.00",
+      "title": "Agricultural Inspectors",
+      "zone": 2,
+      "pct": 68.5,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Active Listening",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Active Learning",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "41-2022.00",
+      "title": "Parts Salespersons",
+      "zone": 2,
+      "pct": 68.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Active Listening",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 68.1,
+      "matched_skills": [
+        "Administrative",
+        "Writing",
+        "Computers and Electronics",
+        "Active Listening",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 66.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-2021.00",
+      "title": "Counter and Rental Clerks",
+      "zone": 2,
+      "pct": 65.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Administrative",
+        "Sales and Marketing",
+        "Speaking",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "35-2014.00",
+      "title": "Cooks, Restaurant",
+      "zone": 2,
+      "pct": 65.7,
+      "matched_skills": [
+        "Food Production",
+        "Critical Thinking",
+        "Speaking",
+        "Time Management",
+        "Active Listening",
+        "Active Learning",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "41-9041.00",
+      "title": "Telemarketers",
+      "zone": 2,
+      "pct": 65.5,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Speaking",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 65.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Education and Training",
+        "Active Listening",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "29-2099.08",
+      "title": "Patient Representatives",
+      "zone": 3,
+      "pct": 65.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Sociology and Anthropology",
+        "Administrative",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "29-2081.00",
+      "title": "Opticians, Dispensing",
+      "zone": 3,
+      "pct": 65.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Speaking",
+        "Active Listening",
+        "Administrative",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "35-2021.00",
+      "title": "Food Preparation Workers",
+      "zone": 2,
+      "pct": 64.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Time Management",
+        "Food Production",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "51-2022.00",
+      "title": "Electrical and Electronic Equipment Assemblers",
+      "zone": 2,
+      "pct": 64.1,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Active Listening",
+        "Critical Thinking",
+        "Coordination",
+        "Speaking",
+        "Writing",
+        "Operation and Control",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "31-9091.00",
+      "title": "Dental Assistants",
+      "zone": 3,
+      "pct": 63.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Administration and Management",
+        "Administrative",
+        "Speaking",
+        "Computers and Electronics",
+        "Sales and Marketing",
+        "Reading Comprehension",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "39-7012.00",
+      "title": "Travel Guides",
+      "zone": 2,
+      "pct": 63.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Speaking",
+        "Active Listening",
+        "Coordination",
+        "Reading Comprehension",
+        "Time Management",
+        "Sales and Marketing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 62.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "53-6031.00",
+      "title": "Automotive and Watercraft Service Attendants",
+      "zone": 2,
+      "pct": 62.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Operation and Control",
+        "Service Orientation",
+        "Time Management",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 61.9,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 61.9,
+      "matched_skills": [
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "51-3021.00",
+      "title": "Butchers and Meat Cutters",
+      "zone": 2,
+      "pct": 61.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Food Production",
+        "Active Listening",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Service Orientation",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "29-1292.00",
+      "title": "Dental Hygienists",
+      "zone": 3,
+      "pct": 61.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Active Learning",
+        "Reading Comprehension",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 61.0,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Learning",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "31-9094.00",
+      "title": "Medical Transcriptionists",
+      "zone": 3,
+      "pct": 61.0,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Reading Comprehension",
+        "Writing",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 60.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Active Learning",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "31-9097.00",
+      "title": "Phlebotomists",
+      "zone": 3,
+      "pct": 59.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Administrative",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 59.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "15-1299.03",
+      "title": "Document Management Specialists",
+      "zone": 4,
+      "pct": 58.4,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Customer and Personal Service",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 58.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Administrative",
+        "Active Learning",
+        "Active Listening",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "29-2051.00",
+      "title": "Dietetic Technicians",
+      "zone": 3,
+      "pct": 58.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Food Production",
+        "Administrative",
+        "Computers and Electronics",
+        "Personnel and Human Resources",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "51-9151.00",
+      "title": "Photographic Process Workers and Processing Machine Operators",
+      "zone": 2,
+      "pct": 57.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Active Listening",
+        "Quality Control Analysis",
+        "Reading Comprehension",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "51-4052.00",
+      "title": "Pourers and Casters, Metal",
+      "zone": 2,
+      "pct": 57.5,
+      "matched_skills": [
+        "Operation and Control",
+        "Active Listening",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Quality Control Analysis",
+        "Time Management",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "19-3092.00",
+      "title": "Geographers",
+      "zone": 4,
+      "pct": 57.4,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Writing",
+        "Critical Thinking",
+        "Speaking",
+        "Active Listening",
+        "Computers and Electronics",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "15-1299.01",
+      "title": "Web Administrators",
+      "zone": 4,
+      "pct": 57.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Communications and Media",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Judgment and Decision Making",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "53-3031.00",
+      "title": "Driver/Sales Workers",
+      "zone": 2,
+      "pct": 57.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Food Production",
+        "Speaking",
+        "Critical Thinking",
+        "Service Orientation",
+        "Administration and Management",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "37-1011.00",
+      "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "zone": 2,
+      "pct": 56.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Education and Training",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Personnel and Human Resources",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "47-2141.00",
+      "title": "Painters, Construction and Maintenance",
+      "zone": 2,
+      "pct": 56.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Time Management",
+        "Coordination",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-4012.01",
+      "title": "Precision Agriculture Technicians",
+      "zone": 3,
+      "pct": 56.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Sales and Marketing",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 56.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "15-1212.00",
+      "title": "Information Security Analysts",
+      "zone": 4,
+      "pct": 56.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Active Listening",
+        "Administration and Management",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 56.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing",
+        "Computers and Electronics",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "25-9042.00",
+      "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "zone": 3,
+      "pct": 55.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 55.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "zone": 3,
+      "pct": 55.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 55.5,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Active Listening",
+        "Speaking",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 55.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Education and Training",
+        "Active Listening",
+        "Reading Comprehension",
+        "Writing",
+        "Critical Thinking",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "19-1032.00",
+      "title": "Foresters",
+      "zone": 4,
+      "pct": 54.5,
+      "matched_skills": [
+        "Active Listening",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Administration and Management",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 54.1,
+      "matched_skills": [
+        "Speaking",
+        "Education and Training",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "33-9099.02",
+      "title": "Retail Loss Prevention Specialists",
+      "zone": 2,
+      "pct": 53.7,
+      "matched_skills": [
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Computers and Electronics",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "33-3021.06",
+      "title": "Intelligence Analysts",
+      "zone": 4,
+      "pct": 53.4,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Active Learning",
+        "Administrative",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "47-2121.00",
+      "title": "Glaziers",
+      "zone": 2,
+      "pct": 53.3,
+      "matched_skills": [
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "33-9032.00",
+      "title": "Security Guards",
+      "zone": 2,
+      "pct": 52.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Education and Training",
+        "Active Listening",
+        "Administrative",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "49-3022.00",
+      "title": "Automotive Glass Installers and Repairers",
+      "zone": 2,
+      "pct": 51.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Active Listening",
+        "Critical Thinking",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 51.6,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 51.3,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Time Management",
+        "Critical Thinking",
+        "Education and Training",
+        "Coordination",
+        "Customer and Personal Service",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 50.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Speaking",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "25-3011.00",
+      "title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+      "zone": 4,
+      "pct": 50.4,
+      "matched_skills": [
+        "Education and Training",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 50.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Coordination",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "49-2021.00",
+      "title": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+      "zone": 3,
+      "pct": 50.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Listening",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-3022.00",
+      "title": "Civil Engineering Technologists and Technicians",
+      "zone": 3,
+      "pct": 49.2,
+      "matched_skills": [
+        "Critical Thinking",
+        "Active Listening",
+        "Reading Comprehension",
+        "Administrative",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "17-2111.00",
+      "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "zone": 4,
+      "pct": 48.0,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "25-2056.00",
+      "title": "Special Education Teachers, Elementary School",
+      "zone": 4,
+      "pct": 48.0,
+      "matched_skills": [
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "17-3029.01",
+      "title": "Non-Destructive Testing Specialists",
+      "zone": 2,
+      "pct": 46.9,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Quality Control Analysis",
+        "Education and Training",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Customer and Personal Service"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 3,
+      "title": "Faculty Assistant and Program Coordinator",
+      "company": "Harvard University",
+      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013599537",
+      "match_score": 65,
+      "embed_sim": 0.4657348394393921,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Cristal has relevant experience in organizational support and project management through her internship and club activities. However, there are gaps in specific skills required for the Faculty Assistant role at Harvard, particularly in high-level administrative tasks, scheduling, and correspondence management which have not been explicitly demonstrated in her resume.",
+        "strengths": [
+          "Experience in organizing events and coordinating communication within committees and clubs.",
+          "Skills in digital archiving and project management, which are relevant for assisting in educational settings.",
+          "Demonstrated ability to develop social media content and promote initiatives, showing skills in communication and outreach."
+        ],
+        "gaps": [
+          "Lack of direct experience in a high-level administrative role, particularly in managing complex calendars and communications for a faculty member.",
+          "No evidence of experience with travel coordination or processing expense reimbursements which are specific job requirements.",
+          "Limited demonstration of proactive relational stewardship and handling incoming correspondence in a structured environment."
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 8,
+      "title": "Administrative Assistant at Atra: Center for Rabbinic Innovation",
+      "company": "Hillel",
+      "url": "https://job-boards.greenhouse.io/hillel/jobs/4701838005",
+      "match_score": 65,
+      "embed_sim": 0.463583767414093,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Cristal Davidson's resume shows relevant experience in organization and engagement, but lacks direct experience in administrative support, donor relations, or the nonprofit sector that is essential for the Administrative Assistant position at Atra.",
+        "strengths": [
+          "Experience with administrative tasks as an Archive Intern, including organizing and cataloging materials.",
+          "Leadership roles in student organizations that demonstrate coordination and communication skills.",
+          "Skills in communication and organizational development, relevant to administrative tasks."
+        ],
+        "gaps": [
+          "No direct experience in supporting executive staff or managing communications for a nonprofit organization.",
+          "Lacks specific experience with donor relations, board support, or fundraising activities which are key responsibilities for this role.",
+          "Limited administrative support experience within a professional context; primarily academic and volunteer positions."
+        ]
+      },
+      "blended_score": 59
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 11,
+      "title": "Program Support Coordinator ",
+      "company": "Black Canyon Consulting (BCC)",
+      "url": "https://job-boards.greenhouse.io/blackcanyonconsulting/jobs/7597871003",
+      "match_score": 55,
+      "embed_sim": 0.46913114190101624,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 7,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Cristal Davidson's resume shows relevant experience and some skills that align with the Program Support Coordinator position, but she lacks significant experience directly related to program coordination or administrative support as required by the job description.",
+        "strengths": [
+          "History and American Studies degree providing a strong academic background for data analysis and reporting",
+          "Internship experience in archiving which involves organization and management of data",
+          "Leadership roles in clubs demonstrate communication and coordination skills"
+        ],
+        "gaps": [
+          "Lacks 5 years of experience in program coordination or administrative support as required",
+          "No direct experience with data collection and reporting specific to program metrics for grantees",
+          "Limited evidence of familiarity with Microsoft Office and similar database applications for data management",
+          "Does not mention specific experience with scheduling meetings or managing project milestones"
+        ]
+      },
+      "blended_score": 57
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 24,
+      "title": "Integrated Care Program Support Specialist - Part Time",
+      "company": "Center for Life Management (CLM)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3994016",
+      "match_score": 55,
+      "embed_sim": 0.46419912576675415,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Cristal C. Davidson has a solid educational background and relevant internship experience, particularly in organizational and archival work. However, she lacks specific experience in a medical office administrative role and healthcare-related tasks outlined in the job description, which presents a significant gap.",
+        "strengths": [
+          "Bachelor's degree in History and American Studies with an Africana Studies minor, demonstrating a strong academic foundation.",
+          "Internship experience at the Historic Preservation Trust, which involved organizational and archival tasks that show capability in administrative support.",
+          "Experience in coordinating events and managing communications as a Director of Social Engagement, indicating strong interpersonal and organizational skills."
+        ],
+        "gaps": [
+          "No direct experience in a medical office administrative role, which is preferred in the job description.",
+          "Lack of experience in providing customer service in a healthcare setting, particularly in managing patient relations and appointment scheduling.",
+          "No evidence of proficiency in Microsoft Office applications such as Word, Excel, and Outlook, which are specifically required for the position."
+        ]
+      },
+      "blended_score": 54
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 7,
+      "title": "Administrative Coordinator",
+      "company": "Northeastern University",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/job/Boston-MA-Main-Campus/Administrative-Coordinator_R140403",
+      "match_score": 67,
+      "embed_sim": 0.44687721133232117,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 7,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 67,
+        "summary": "Cristal's resume shows relevant educational background and some administrative and organizational experience, but lacks the specified 2 years of administrative experience and familiarity with registration or curriculum management software.",
+        "strengths": [
+          "Bachelor's degree in relevant field",
+          "Experience with archives and organizational tasks",
+          "Strong communication and coordination skills",
+          "Leadership experience in organizing events and directing engagement initiatives"
+        ],
+        "gaps": [
+          "Lacks 2 years of administrative experience",
+          "No experience with curriculum scheduling or management tools like CourseLeaf",
+          "No demonstrated familiarity with enrollment tracking or academic administrative processes",
+          "Limited exposure to academic settings outside of intern roles"
+        ]
+      },
+      "blended_score": 50
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 12,
+      "title": "Student Worker - Humanities Division Administrative Assistant",
+      "company": "Greenville University",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4114104",
+      "match_score": 80,
+      "embed_sim": 0.4346309304237366,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "Cristal C. Davidson's resume showcases relevant experience in administrative support and community engagement, aligning well with the responsibilities of the Student Worker position. However, there are some gaps in specific clerical and operational skills that are critical for this role.",
+        "strengths": [
+          "Experience as an Archives Intern, demonstrating ability in cataloging and organization relevant to library and resource maintenance",
+          "Leadership roles in Mi Gente Latina Club show strong organizational ability and event coordination skills",
+          "Educational background in Humanities aligns well with the department's focus"
+        ],
+        "gaps": [
+          "Lacks direct experience in basic clerical tasks such as copying and scanning",
+          "No mention of familiarity with budget tracking procedures or purchasing supplies",
+          "Limited experience with library resource management, specifically cataloging books and periodicals"
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 1,
+      "title": "HML Part Time Program Administrator",
+      "company": "The New School",
+      "url": "https://newschool.wd1.myworkdayjobs.com/job/L---2-West-13th-Street/HML-Part-Time-Program-Administrator_JR108963",
+      "match_score": 70,
+      "embed_sim": 0.44212639331817627,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Cristal C. Davidson's experience in administrative roles and skills in organization and communication make her a solid candidate for the part-time Program Administrator position at Parsons the New School for Design. However, there are some gaps in specific qualifications and relevant experience directly related to program administration.",
+        "strengths": [
+          "Strong organizational skills demonstrated through experience cataloging archival materials and coordinating events.",
+          "Experience in social engagement implies ability to work with diverse groups and maintain professional relationships.",
+          "Experience in writing and content development as evidenced by social media content creation and assessment of teaching effectiveness."
+        ],
+        "gaps": [
+          "No direct experience in grant administration or oversight of grant-related activities as mentioned in the job description.",
+          "Lacks specific technical computer skills or software expertise required for administrative tasks related to the Healthy Materials Lab.",
+          "No evidence of managing financial tasks like expense tracking and reconciliation, which is a key part of the job."
+        ]
+      },
+      "blended_score": 48
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 5,
+      "title": "Administrative Assistant IV",
+      "company": "Wesleyan University",
+      "url": "https://wesleyan.wd5.myworkdayjobs.com/job/Middletown-CT-Main-Campus/Administrative-Assistant-IV_R101239",
+      "match_score": 55,
+      "embed_sim": 0.4519156515598297,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Cristal has relevant experience in organization, event coordination, and some customer service, but lacks specific administrative and financial systems skills, along with the required experience level for this position.",
+        "strengths": [
+          "Internship experience in archives providing organizational support",
+          "Leadership roles in student organizations demonstrating event coordination",
+          "Skills in communication and teamwork"
+        ],
+        "gaps": [
+          "No evidence of proficiency in Microsoft Office Suite, particularly Excel and Word",
+          "Lacks four years of related administrative or operational experience",
+          "No demonstrated experience with financial tracking or budgeting",
+          "Limited experience in customer service and front-facing office support",
+          "No experience in managing or updating a database or CRM system"
+        ]
+      },
+      "blended_score": 47
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 4,
+      "title": "Administrative Coordinator",
+      "company": "Harvard University",
+      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013607206",
+      "match_score": 55,
+      "embed_sim": 0.4505273997783661,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Cristal Davidson has relevant education and experience in administrative and organizational roles, but lacks the significant direct administrative experience and familiarity with specific financial systems and environments that are required for the Administrative Coordinator position at Harvard University.",
+        "strengths": [
+          "Education in History and American Studies, which may provide a strong foundation for understanding the cultural and social dynamics necessary for this role.",
+          "Internship experience at the Historic Preservation Trust, which involved organizational skills and project management related to archival work.",
+          "Leadership experience in social engagement, demonstrating the ability to coordinate events and manage multiple stakeholder relationships."
+        ],
+        "gaps": [
+          "Less than the required 3 years of relevant administrative experience in an office environment; most experience is from temporary internships.",
+          "No demonstrated proficiency with Harvard-specific financial systems such as Concur or Buy2Pay, which are essential for the role.",
+          "Lack of explicit customer service experience, which is crucial given the role's high customer service orientation.",
+          "Limited evidence of experience in managing complex logistical support for events, catering specifically to diverse dietary requirements, and maintaining detailed administrative data."
+        ]
+      },
+      "blended_score": 46
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 9,
+      "title": "Career Development Specialist",
+      "company": "Connecticut Institute for Refugees and Immigrants (CIRI)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4231885",
+      "match_score": 55,
+      "embed_sim": 0.44628188014030457,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 1,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Cristal possesses a strong educational background and relevant experience in organizational and communication roles, but lacks direct experience in career development or working with underserved populations, which are critical for the Career Development Specialist role.",
+        "strengths": [
+          "Bachelor's degree in History and American Studies, relevant to social sciences",
+          "Internship experience with historical archives, showcasing organizational skills",
+          "Leadership role in Mi Gente Latina Club, demonstrating community engagement and coordination capabilities",
+          "Skills in communication and organizational development align with job requirements."
+        ],
+        "gaps": [
+          "No direct experience in employment services or career coaching",
+          "Lacks work experience with immigrants or underserved populations specifically",
+          "No evidence of proficiency with Microsoft Office or client database systems",
+          "Experience is primarily in academic and organizational roles, lacking hands-on client-facing employment development"
+        ]
+      },
+      "blended_score": 43
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

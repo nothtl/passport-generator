@@ -4,15 +4,13 @@
   "confidence": 54,
   "skills": [
     "Customer and Personal Service",
-    "Public Safety and Security",
     "Monitoring",
+    "Public Safety and Security",
     "Active Listening",
     "Service Orientation",
     "Foreign Language",
     "Coordination",
     "Quality Control Analysis",
-    "Speaking",
-    "Time Management",
     "access control",
     "basic computer skills",
     "cleanliness and safety",
@@ -21,29 +19,35 @@
     "customer service",
     "detail oriented",
     "equipment maintenance",
+    "fast paced",
     "french",
     "guest satisfaction",
     "hands on experience",
+    "high end retail",
     "loss prevention",
+    "luxury retail",
     "maintenance",
     "menu knowledge",
     "microsoft word",
+    "policy",
     "positive customer experience",
+    "prep work",
     "professional communication",
+    "quality",
+    "reporting",
     "safety standards",
-    "sales"
+    "sales",
+    "security procedures"
   ],
   "verified_skills": [
     "Customer and Personal Service",
-    "Public Safety and Security",
     "Monitoring",
+    "Public Safety and Security",
     "Active Listening",
     "Service Orientation",
     "Foreign Language",
     "Coordination",
     "Quality Control Analysis",
-    "Speaking",
-    "Time Management",
     "access control",
     "basic computer skills",
     "cleanliness and safety",
@@ -52,17 +56,25 @@
     "customer service",
     "detail oriented",
     "equipment maintenance",
+    "fast paced",
     "french",
     "guest satisfaction",
     "hands on experience",
+    "high end retail",
     "loss prevention",
+    "luxury retail",
     "maintenance",
     "menu knowledge",
     "microsoft word",
+    "policy",
     "positive customer experience",
+    "prep work",
     "professional communication",
+    "quality",
+    "reporting",
     "safety standards",
-    "sales"
+    "sales",
+    "security procedures"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -86,28 +98,22 @@
     "delivering",
     "detail",
     "equipment",
-    "fast paced",
     "hands on",
-    "high end retail",
     "license",
     "luxury",
-    "luxury retail",
+    "menu",
     "microsoft",
     "movement",
-    "policy",
     "positive",
     "prep",
-    "prep work",
     "presence",
     "prevention",
     "procedures",
     "product",
     "professional",
     "professional experience",
-    "quality",
     "relationships",
     "reliable",
-    "reporting",
     "restaurant",
     "retail",
     "retail environment",
@@ -115,20 +121,19 @@
     "safety",
     "sales floor",
     "satisfaction",
-    "security"
+    "security",
+    "security presence"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Customer and Personal Service",
-    "Public Safety and Security",
     "Monitoring",
+    "Public Safety and Security",
     "Active Listening",
     "Service Orientation",
     "Foreign Language",
     "Coordination",
     "Quality Control Analysis",
-    "Speaking",
-    "Time Management",
     "access control",
     "basic computer skills",
     "cleanliness and safety",
@@ -137,22 +142,30 @@
     "customer service",
     "detail oriented",
     "equipment maintenance",
+    "fast paced",
     "french",
     "guest satisfaction",
     "hands on experience",
+    "high end retail",
     "loss prevention",
+    "luxury retail",
     "maintenance",
     "menu knowledge",
     "microsoft word",
+    "policy",
     "positive customer experience",
+    "prep work",
     "professional communication",
+    "quality",
+    "reporting",
     "safety standards",
-    "sales"
+    "sales",
+    "security procedures"
   ],
   "inferred": [
     "Teamwork",
-    "Problem Solving",
-    "Adaptability"
+    "Time Management",
+    "Problem Solving"
   ],
   "implicit_skills": [
     {
@@ -161,13 +174,13 @@
       "confidence": "medium"
     },
     {
-      "skill": "Problem Solving",
-      "reason": "Roles involving customer service and loss prevention often require quick thinking to resolve issues.",
+      "skill": "Time Management",
+      "reason": "Handling multiple tasks like prep work, customer service, and maintaining cleanliness suggests good time management.",
       "confidence": "medium"
     },
     {
-      "skill": "Adaptability",
-      "reason": "Experience in fast-paced environments suggests ability to adjust to changing demands.",
+      "skill": "Problem Solving",
+      "reason": "Skills like loss prevention and quality control analysis imply the ability to identify and resolve issues.",
       "confidence": "medium"
     }
   ],
@@ -209,10 +222,6 @@
   ],
   "related": [
     {
-      "skill": "interviewing",
-      "pmi": 3.66
-    },
-    {
       "skill": "merchandisesecurity",
       "pmi": 3.59
     },
@@ -241,20 +250,20 @@
       "pmi": 2.28
     },
     {
-      "skill": "attentiontodetail",
+      "skill": "consulting",
       "pmi": 2.28
     },
     {
-      "skill": "consulting",
-      "pmi": 2.28
+      "skill": "alarmsystems",
+      "pmi": 2.25
+    },
+    {
+      "skill": "governance",
+      "pmi": 2.05
     }
   ],
   "related_skills": [
     {
-      "skill": "interviewing",
-      "pmi": 3.66
-    },
-    {
       "skill": "merchandisesecurity",
       "pmi": 3.59
     },
@@ -283,12 +292,16 @@
       "pmi": 2.28
     },
     {
-      "skill": "attentiontodetail",
+      "skill": "consulting",
       "pmi": 2.28
     },
     {
-      "skill": "consulting",
-      "pmi": 2.28
+      "skill": "alarmsystems",
+      "pmi": 2.25
+    },
+    {
+      "skill": "governance",
+      "pmi": 2.05
     }
   ],
   "alternatives": [
@@ -319,11 +332,11 @@
       "title": "Loss Prevention Associate",
       "company": "",
       "url": "",
-      "fit": 95,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
@@ -341,11 +354,11 @@
       "title": "Transportation Security Officer",
       "company": "",
       "url": "",
-      "fit": 95,
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -363,11 +376,11 @@
       "title": "Security Officer (Entry Level)",
       "company": "",
       "url": "",
-      "fit": 83,
+      "fit": 54,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -389,7 +402,7 @@
       "job_type": "bridge",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -409,11 +422,11 @@
       "title": "Loss Prevention Associate",
       "company": "",
       "url": "",
-      "fit": 95,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
@@ -431,11 +444,11 @@
       "title": "Transportation Security Officer",
       "company": "",
       "url": "",
-      "fit": 95,
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -455,11 +468,11 @@
       "title": "Security Officer (Entry Level)",
       "company": "",
       "url": "",
-      "fit": 83,
+      "fit": 54,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -481,7 +494,7 @@
       "job_type": "bridge",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -496,7 +509,7 @@
       "eligibility_reason": "Role does not involve age-restricted activities; suitable for minors."
     }
   ],
-  "skill_path": "Start by building observation skills through daily practice, like noting details in your environment, then take a course in incident reporting to learn proper documentation. Look for entry-level security roles where you can apply safety procedures and gain real-world experience, which will directly prepare you for police officer training.",
+  "skill_path": "Start by sharpening your observation skills through daily practice—like noting details in your environment—and take a free online course on safety procedures. Look for entry-level security roles where you can gain hands-on experience with incident reporting, then apply for police cadet programs to build attention to detail in a structured setting.",
   "ideal_careers": [
     "Police Officer",
     "Security Professional"
@@ -511,7 +524,7 @@
     ],
     "goal_subdomains": [],
     "study_domains": [
-      "protective-service"
+      "sales"
     ],
     "study_subdomains": [],
     "study_program": "Associate | 12/2020 – 08/2021",
@@ -579,7 +592,7 @@
         "protective-service"
       ],
       "study_domains": [
-        "protective-service"
+        "sales"
       ],
       "goal_subdomains": [],
       "study_subdomains": [],
@@ -608,15 +621,13 @@
       "accepted": true,
       "scored_skills": [
         "Customer and Personal Service",
-        "Public Safety and Security",
         "Monitoring",
+        "Public Safety and Security",
         "Active Listening",
         "Service Orientation",
         "Foreign Language",
         "Coordination",
         "Quality Control Analysis",
-        "Speaking",
-        "Time Management",
         "access control",
         "basic computer skills",
         "cleanliness and safety",
@@ -625,29 +636,35 @@
         "customer service",
         "detail oriented",
         "equipment maintenance",
+        "fast paced",
         "french",
         "guest satisfaction",
         "hands on experience",
+        "high end retail",
         "loss prevention",
+        "luxury retail",
         "maintenance",
         "menu knowledge",
         "microsoft word",
+        "policy",
         "positive customer experience",
+        "prep work",
         "professional communication",
+        "quality",
+        "reporting",
         "safety standards",
-        "sales"
+        "sales",
+        "security procedures"
       ],
       "verified_skills": [
         "Customer and Personal Service",
-        "Public Safety and Security",
         "Monitoring",
+        "Public Safety and Security",
         "Active Listening",
         "Service Orientation",
         "Foreign Language",
         "Coordination",
         "Quality Control Analysis",
-        "Speaking",
-        "Time Management",
         "access control",
         "basic computer skills",
         "cleanliness and safety",
@@ -656,17 +673,25 @@
         "customer service",
         "detail oriented",
         "equipment maintenance",
+        "fast paced",
         "french",
         "guest satisfaction",
         "hands on experience",
+        "high end retail",
         "loss prevention",
+        "luxury retail",
         "maintenance",
         "menu knowledge",
         "microsoft word",
+        "policy",
         "positive customer experience",
+        "prep work",
         "professional communication",
+        "quality",
+        "reporting",
         "safety standards",
-        "sales"
+        "sales",
+        "security procedures"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -690,28 +715,22 @@
         "delivering",
         "detail",
         "equipment",
-        "fast paced",
         "hands on",
-        "high end retail",
         "license",
         "luxury",
-        "luxury retail",
+        "menu",
         "microsoft",
         "movement",
-        "policy",
         "positive",
         "prep",
-        "prep work",
         "presence",
         "prevention",
         "procedures",
         "product",
         "professional",
         "professional experience",
-        "quality",
         "relationships",
         "reliable",
-        "reporting",
         "restaurant",
         "retail",
         "retail environment",
@@ -719,7 +738,8 @@
         "safety",
         "sales floor",
         "satisfaction",
-        "security"
+        "security",
+        "security presence"
       ],
       "implicit_skills": [
         {
@@ -728,13 +748,13 @@
           "confidence": "medium"
         },
         {
-          "skill": "Problem Solving",
-          "reason": "Roles involving customer service and loss prevention often require quick thinking to resolve issues.",
+          "skill": "Time Management",
+          "reason": "Handling multiple tasks like prep work, customer service, and maintaining cleanliness suggests good time management.",
           "confidence": "medium"
         },
         {
-          "skill": "Adaptability",
-          "reason": "Experience in fast-paced environments suggests ability to adjust to changing demands.",
+          "skill": "Problem Solving",
+          "reason": "Skills like loss prevention and quality control analysis imply the ability to identify and resolve issues.",
           "confidence": "medium"
         }
       ],

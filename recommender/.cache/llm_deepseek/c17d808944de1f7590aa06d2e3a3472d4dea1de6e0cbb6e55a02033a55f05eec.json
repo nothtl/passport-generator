@@ -1,0 +1,62 @@
+{
+  "accepted": true,
+  "evidence_items": [],
+  "implicit_skills": [
+    {
+      "confidence": "medium",
+      "reason": "Instructing and Service Orientation imply strong communication skills.",
+      "skill": "Communication"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Coordination and Monitoring suggest ability to handle multiple tasks.",
+      "skill": "Multitasking"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Experience with diverse activities like dance, games, and care indicates flexibility.",
+      "skill": "Adaptability"
+    }
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "care",
+    "cat",
+    "dance",
+    "exhibits",
+    "extracurricular activities",
+    "games",
+    "high school",
+    "meals",
+    "paint",
+    "sitter",
+    "typingskills"
+  ],
+  "review_reasons": [],
+  "scored_skills": [
+    "Instructing",
+    "Fine Arts",
+    "Service Orientation",
+    "Coordination",
+    "Monitoring",
+    "Food Production",
+    "Customer and Personal Service",
+    "Time Management",
+    "Active Learning",
+    "Foreign Language",
+    "bilingual"
+  ],
+  "verified_skills": [
+    "Instructing",
+    "Fine Arts",
+    "Service Orientation",
+    "Coordination",
+    "Monitoring",
+    "Food Production",
+    "Customer and Personal Service",
+    "Time Management",
+    "Active Learning",
+    "Foreign Language",
+    "bilingual"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "student_name": "Yamin Titikpina",
+  "sources_found": [
+    "linkedin"
+  ],
+  "resume": null,
+  "linkedin": {
+    "name": "Yamin Titikpina",
+    "pronouns": null,
+    "headline": "Student at Siena University | SPEAKHIRE Alum | Community Researcher",
+    "location": "Bronx, New York, United States",
+    "about": null,
+    "experience": [
+      {
+        "title": "Student Representative",
+        "company": "Siena University",
+        "duration": "November 2025 – Present",
+        "location": null,
+        "description": "Participated in a faculty- and student-led academic committee focused on diversity, equity, and inclusion. Supported initiatives promoting awareness of race, gender, class, ethnicity, sexual orientation, and disability. Contributed to campus-wide events, workshops, and academic programs fostering inclusive learning environments.",
+        "skills": null
+      },
+      {
+        "title": "Study Hours Proctor",
+        "company": "Siena University HEOP",
+        "duration": "March 2025 – Present",
+        "location": null,
+        "description": "Teaches first-year students effective study skills during structured study hours. Communicates with supervisors and coworkers to arrange coverage. Completes and submits necessary administrative paperwork.",
+        "skills": null
+      },
+      {
+        "title": "Intern (Summer Scholar)",
+        "company": "CURCA, Siena University",
+        "duration": "June 2025 – September 2025 · Maritime Region, Togo",
+        "location": "Maritime Region, Togo",
+        "description": "Conducted community-based surveys to assess malaria prevalence and socio-economic factors in Togo. Collected and analyzed quantitative and qualitative data on healthcare access, preventive measures, and economic challenges. Designed and administered questionnaires for diverse populations. Supported data entry, cleaning, and preliminary analysis for public health recommendations.",
+        "skills": null
+      },
+      {
+        "title": "Intern",
+        "company": "AWISCO Corp",
+        "duration": "June 2024 – August 2024 · Bronx, NY",
+        "location": "Bronx, NY",
+        "description": "Presented sales pitches alongside a supervisor to metalworking companies for welding materials. Mastered company-provided sales scripts. Organized and maintained sales and inventory data in Excel spreadsheets.",
+        "skills": null
+      },
+      {
+        "title": "Security Guard",
+        "company": "Arrow",
+        "duration": "June 2024 – August 2024 · Bronx, NY",
+        "location": "Bronx, NY",
+        "description": "Supported resident safety at Candler Building shelter for refugees. Checked identification and searched for contraband. Translated for French-speaking residents to aid understanding of shelter rules and protocols.",
+        "skills": null
+      },
+      {
+        "title": "Intern",
+        "company": "Cornell University Cooperative Extension-NYC (CUCE-NYC)",
+        "duration": "April 2023 – June 2023 · Manhattan, NY",
+        "location": "Manhattan, NY",
+        "description": "Operated sustainable hydroponics, aquaculture, and aquaponics systems producing fresh fish and vegetables. Monitored lab conditions for over 10,000 tilapia and multiple plant species. Supported applied STEM activities and school-community partnerships.",
+        "skills": null
+      },
+      {
+        "title": "Team Lead",
+        "company": "Better Garbage Collection Project",
+        "duration": "July 2022 – February 2023 · New York City",
+        "location": "New York City",
+        "description": "Surveyed Harlem residents about garbage collection and disposal. Translated surveys for French-speaking residents. Created and presented proposals to organizations including the NYC Department of Sanitation. Supervised a team of five interns through project completion.",
+        "skills": null
+      },
+      {
+        "title": "Intern",
+        "company": "Columbia University",
+        "duration": "July 2021 · Manhattan, NY",
+        "location": "Manhattan, NY",
+        "description": "Studied fluidized bed behavior and gas–solid interactions. Analyzed bubble dynamics and wake effects in consecutively injected bubbles. Explored non-invasive imaging techniques (optical, X-ray, tomography, PEPT, MRI).",
+        "skills": null
+      },
+      {
+        "title": "Intern",
+        "company": "International Center for Photography (ICP) at The Point",
+        "duration": "April 2021 – June 2021 · Bronx, NY",
+        "location": "Bronx, NY",
+        "description": "Used manual photography equipment to capture high-quality images. Practiced artistic techniques including composition and lighting. Mastered darkroom processing for film development and photo finishing.",
+        "skills": null
+      },
+      {
+        "title": "Career Specialist",
+        "company": "SPEAKHIRE",
+        "duration": "September 2019 – May 2021 · Bronx, NY",
+        "location": "Bronx, NY",
+        "description": "Completed a structured leadership development program focused on career and personal growth. Collaborated with a mentor to develop professional writing, networking, workplace negotiation, and business skills.",
+        "skills": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "Siena University",
+        "degree": "Bachelor of Arts, Sociology",
+        "years": "September 2023 – Anticipated May 2027"
+      },
+      {
+        "institution": "Ellis Preparatory Academy",
+        "degree": "High School Diploma",
+        "years": "September 2019 – June 2023"
+      }
+    ],
+    "certifications": null,
+    "projects": null,
+    "skills": null
+  },
+  "github": null
+}

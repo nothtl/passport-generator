@@ -1,0 +1,417 @@
+{
+  "name": "Jhan Motta",
+  "zone": 4,
+  "education_level": "bachelors",
+  "source_files": [
+    "Jhan Motta - Resume.pdf",
+    "Jhan Motta - LinkedIn.md"
+  ],
+  "skills": [
+    "Fine Arts",
+    "Communications and Media",
+    "Sales and Marketing",
+    "Coordination",
+    "Time Management",
+    "Social Perceptiveness",
+    "Active Listening",
+    "Design",
+    "Customer and Personal Service",
+    "Computers and Electronics",
+    "Critical Thinking",
+    "Learning Strategies",
+    "English Language",
+    "Foreign Language",
+    "Administration and Management",
+    "Production and Processing",
+    "Quality Control Analysis",
+    "Speaking",
+    "Service Orientation",
+    "Complex Problem Solving",
+    "Operation and Control"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Fine Arts",
+      "evidence": "Bachelor of Fine Arts (B.F.A.), Art (Photography Focus), Freelance Model, Photographer & Visual Artist, Actor, SALT (Studio Art Learning & Training) Program",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Collaborated with photographers, directors, and creative teams to execute visual concepts, Contributed to brand storytelling through expressive physical and visual performance, Exhibit strong visual storytelling skills, Social Media",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "Worked as a freelance fashion and commercial model for creative and branded projects, Selected to appear in a commercial campaign, Fashion Marketing, Build a growing portfolio used for... professional opportunities",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Collaborated with photographers, directors, and creative teams, Provide dog walking,including pick up and drop off, for up to three dog at a time, Coordinating Skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Maintained strong on-set professionalism, punctuality, Performed the cleaning tasks with a duration of four hours, Time management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Maintained strong on-set professionalism, punctuality, and adaptability to direction, Worked within a professional film set environment, professionalism on set and stage",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "adaptability to direction, Performed on camera following scripted direction, Communicate with clients to ensure that their requirements were fully met",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Collaborated with photographers, directors, and creative teams to execute visual concepts, Manage the full creative process, including concept development, shooting, editing, and presentation, Exhibit strong visual storytelling skills through composition, lighting, and mood, Visual Design",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Responsible for dog Sitting for dogs differents ages for several families, Communicate with clients to ensure that their requirements were fully met, client communication",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Produce self-portraits and portrait work using both digital and film photography, basic video editing, Adobe Photoshop, Adobe Illustrator, Paint Tool SAI, Adobe Lightroom Classic",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Develop conceptual photography projects exploring identity, emotion, and contemporary social themes, critiques, Recognition of Best Social Justice Poster, impressed by the acting styles, how the actor portrayed a character",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "intensive six-year experience cultivating skills, intensive studio-based arts program, intensive mentoring experience",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "English (Proficient)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Spanish (Fluent), French (Basic / Learning)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Manage the full creative process, Administrative Assistant Technician, Quindio, Colombia Degree awarded for completing two years of training in the business and assistance field",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "Performed daily general cleaning and deep cleaning of desks and other office property, Cleaned the building, emptying trash and disinfecting the restrooms and lobby",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "deep cleaning of desks and other office property, Maintained a high level of caution when cleaning expensive and delicate items",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Communicate with clients to ensure that their requirements were fully met, on-camera performance, Actor",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Responsible for dog Sitting for dogs differents ages for several families in Queens, Communicate with clients to ensure that their requirements were fully met",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "creative problem-solving",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Stage Light Management",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "27-1024.00",
+      "title": "Graphic Designers",
+      "zone": 4,
+      "pct": 79.1,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "Fine Arts",
+        "Communications and Media",
+        "English Language",
+        "Active Listening",
+        "Sales and Marketing",
+        "Customer and Personal Service",
+        "Speaking",
+        "Production and Processing",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "27-1023.00",
+      "title": "Floral Designers",
+      "zone": 2,
+      "pct": 73.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Production and Processing",
+        "Sales and Marketing",
+        "Design",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "13-1121.00",
+      "title": "Meeting, Convention, and Event Planners",
+      "zone": 4,
+      "pct": 72.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management",
+        "Communications and Media",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "27-1011.00",
+      "title": "Art Directors",
+      "zone": 4,
+      "pct": 72.1,
+      "matched_skills": [
+        "Design",
+        "English Language",
+        "Computers and Electronics",
+        "Fine Arts",
+        "Communications and Media",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Sales and Marketing",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "27-4021.00",
+      "title": "Photographers",
+      "zone": 3,
+      "pct": 69.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Communications and Media",
+        "English Language",
+        "Fine Arts",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "27-4014.00",
+      "title": "Sound Engineering Technicians",
+      "zone": 3,
+      "pct": 69.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Fine Arts",
+        "Active Listening",
+        "English Language",
+        "Speaking",
+        "Critical Thinking",
+        "Communications and Media",
+        "Complex Problem Solving",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "39-3092.00",
+      "title": "Costume Attendants",
+      "zone": 2,
+      "pct": 69.3,
+      "matched_skills": [
+        "Fine Arts",
+        "Design",
+        "Production and Processing",
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "27-3031.00",
+      "title": "Public Relations Specialists",
+      "zone": 4,
+      "pct": 67.7,
+      "matched_skills": [
+        "Communications and Media",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 2,
+      "title": "Fashion Island - Sales Associate",
+      "company": "Good American",
+      "url": "https://jobs.lever.co/goodamerican/b1f15fde-0d8e-4ccc-8283-90cb2f86c1b4",
+      "match_score": 75,
+      "comparisons": 28,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant experience in modeling and a strong educational background in the arts, making them a solid fit for the Sales Associate position at Good American. However, their resume lacks direct retail experience and specific references to client engagement in a sales context, which may be critical for this role.",
+        "strengths": [
+          "Freelance modeling experience that demonstrates familiarity with fashion and styling",
+          "Background in art and creativity which aligns with brand aesthetic",
+          "Strong visual storytelling and communication skills",
+          "Experience collaborating with creative teams, which is beneficial for a brand ambassador role"
+        ],
+        "gaps": [
+          "No direct experience in retail sales or as a sales associate",
+          "Limited evidence of metrics-driven sales performance or customer engagement in a sales environment",
+          "Lack of specific experience in promoting brand engagement or managing store operations"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 21,
+      "title": "Part-Time Ambassador",
+      "company": "Everlane",
+      "url": "https://job-boards.greenhouse.io/everlane/jobs/5959773003",
+      "match_score": 75,
+      "comparisons": 10,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Jhan Motta's experience as a model and visual artist aligns well with the Ambassador role at Everlane, particularly in areas of customer engagement, teamwork, and product knowledge. However, his resume shows limited direct retail or sales experience, which could present challenges in a retail environment.",
+        "strengths": [
+          "Extensive modeling experience which involves working with brands and understanding customer presentation",
+          "Strong creative skills in photography and visual arts which could assist in styling customers",
+          "Experience in collaborative environments with teams, indicating good teamwork skills"
+        ],
+        "gaps": [
+          "Limited direct retail or sales experience, which is critical for the Ambassador role",
+          "No clear experience in handling transactions or managing inventory as specified in the job description",
+          "Lacks evidence of a strong customer service background, critical for fostering connections with customers"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 35,
+      "title": "Become a Luxury Brand Ambassador in Texas, US",
+      "company": "CXG",
+      "url": "https://apply.workable.com/j/D6C86F8AFC",
+      "match_score": 75,
+      "comparisons": 6,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant experience in modeling and performance, which aligns well with the ambassador role that involves promoting luxury brands. Their strong background in visual arts and working with creative teams supports their capability to represent CXG effectively. However, there are gaps in direct experience with community engagement and luxury brand marketing.",
+        "strengths": [
+          "Experience as a freelance fashion and commercial model aligns with promoting luxury brands.",
+          "Strong visual storytelling and photography skills can contribute to brand representation.",
+          "Background in theatre and performance gives an edge in engaging audiences and communities."
+        ],
+        "gaps": [
+          "Lack of specific experience in luxury brand marketing and community building activities.",
+          "No evidence of prior involvement in brand ambassador roles or community outreach.",
+          "Limited direct customer experience within the luxury sector as a consumer advocate."
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 39,
+      "title": "H&M Sales Advisor Full-Time, Cool Springs Galleria, Franklin, TN",
+      "company": "H&M Group",
+      "url": "https://jobs.smartrecruiters.com/HMGroup/744000132083139",
+      "match_score": 75,
+      "comparisons": 27,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Jhan P. Motta's resume shows a good fit for the Sales Advisor position at H&M, with relevant experience in fashion modeling and customer engagement. However, there are gaps in direct retail experience and specific sales qualifications that may require further development.",
+        "strengths": [
+          "Experience as a freelance fashion model aligns with H&M's focus on fashion knowledge and trends.",
+          "Demonstrated strong communication skills through teamwork with photographers and directors, relevant to customer interactions in retail.",
+          "Background in art and creativity may appeal to the brand's aesthetic and customer engagement strategies."
+        ],
+        "gaps": [
+          "Lacks direct sales experience in a retail environment, particularly in a fast-paced fashion retail context.",
+          "No specific mentions of experience with customer loyalty programs or in-store merchandising strategies relevant to H&M's operational model.",
+          "Limited information on any formal retail training or knowledge of sales targets and profit-driven activities."
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 40,
+      "title": "Student Marketeer - Emory University",
+      "company": "Red Bull",
+      "url": "https://jobs.smartrecruiters.com/RedBull/744000118910777",
+      "match_score": 70,
+      "comparisons": 8,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Jhan P. Motta has a relevant background in creative and performance roles that could assist in the marketing environment defined by Red Bull. His skills align moderately with the requirements of engaging campus life and building networks, although there are evident gaps in specific marketing and sales experience.",
+        "strengths": [
+          "Experience in collaborative environments through modeling and acting roles, which can translate well to brand representation.",
+          "Possesses strong interpersonal communication skills developed from freelance work and collaborative artistic projects.",
+          "Currently a college student, indicating immersion in the collegiate culture and potential understanding of student life."
+        ],
+        "gaps": [
+          "Lacks direct experience in sales and marketing roles that would demonstrate ability to build brand awareness and engage local communities specifically for a brand like Red Bull.",
+          "No evidence of experience in project management or behind-the-scenes work typically required for executing marketing strategies.",
+          "Insufficient background in event coordination or execution related to promoting brands in college environments."
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 133,
+    "ranked": 133,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

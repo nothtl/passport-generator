@@ -1,0 +1,46 @@
+{
+  "student_name": "Naim Bakere",
+  "sources_found": [
+    "resume",
+    "linkedin"
+  ],
+  "resume": {
+    "raw_text": "=== Naim Bakere - Resume.pdf ===\nNaim Bakere  \nBronx, NY 10460 | 929-422-1124  \n\nObjective  \n\nMotivated and goal-oriented college graduate with an Associate Degree in Business to secure a \n\nposition as a translator where I can utilize my linguistic, organizational skills, attention to detail, \n\nand experience in administrative tasks to contribute effectively to the smooth operation of the \n\norganization..   \n\nEducation  \nEnglish Language Learners and International Academy, Bronx, NY        June 2024  \n\nMonroe University, Bronx, NY                                                September 2024- December 2025  \nAAS in Business  \n\nInternship Experience  \nDusa STEM 2023-2024 ● Learning Coding (. )Learning (Technical Modeling)  \n\n● Developing (Video Programing)  \n\nPost Secondary Readiness 2023-2024 ● Building a resume , Improving communication skills in \n\nterms of language, and concentrating on the audience.  \n● Teamwork and improving writing skill by explaining the purpose of t(Members of seven) \n● Establishing a plan for college  \n\nCCNY STEM Tech 2021-2022 ● Creating Websites  \n\n● Introduction to basic coding skills. 3 day on weekday  \n\nSpeak Hire 2022-2023 ● Practicing time management  \n\n● Learning about business  \n● Increasing my leadership skills  \n\nWork Experience  \nVIM Store 2020-2022 Bronx, N.Y. 10458  \n\n● Training new hires  \n● Organizing store  \n● Communicating with customers  \n● Ordering products for stock  \n\nVolunteer  \nCommunity Mosque, Masjid al-Ummah 2021-Present ● Assist in setting up prayer \n\nmats and in also cleaning up afterwards  \n\nHonors/Awards  \n\nAll-Region Sportsmanship Award  December 2025 \nDean’s List Fall 2025  \nCCNY Stem Tech Completion Certificate 2021-2022 \nSoccer Team- Most Improved Player 2024-2025 \n\nSkills  \n\n● Multilingual: English, French, Tchamba, Kotokolie, & Awe  \n\nSports Teams  \nMonroe Express Soccer Team 2024-2025 \nKidsuper Samba Soccer Team 2021-2024  \nKennedy H.S. Soccer Team 2020-2023  Team Captain \n\n2 \n\n \n \n \n\f",
+    "sections": {
+      "summary": "Motivated and goal-oriented college graduate with an Associate Degree in Business to secure a \nposition as a translator where I can utilize my linguistic, organizational skills, attention to detail, \nand experience in administrative tasks to contribute effectively to the smooth operation of the \norganization..",
+      "experience": "Dusa STEM 2023-2024 ● Learning Coding (. )Learning (Technical Modeling)  \n\n● Developing (Video Programing)  \n\nPost Secondary Readiness 2023-2024 ● Building a resume , Improving communication skills in \nterms of language, and concentrating on the audience.  \n● Teamwork and improving writing skill by explaining the purpose of t(Members of seven) \n● Establishing a plan for college  \n\nCCNY STEM Tech 2021-2022 ● Creating Websites  \n\n● Introduction to basic coding skills. 3 day on weekday  \n\nSpeak Hire 2022-2023 ● Practicing time management  \n\n● Learning about business  \n\n● Increasing my leadership skills  \n\nVIM Store 2020-2022 Bronx, N.Y. 10458  \n\n● Training new hires  \n\n● Organizing store  \n\n● Communicating with customers  \n\n● Ordering products for stock",
+      "education": "English Language Learners and International Academy, Bronx, NY        June 2024  \n\nMonroe University, Bronx, NY                                                September 2024- December 2025  \nAAS in Business",
+      "skills": "● Multilingual: English, French, Tchamba, Kotokolie, & Awe",
+      "certifications": "CCNY Stem Tech Completion Certificate 2021-2022",
+      "leadership": "Community Mosque, Masjid al-Ummah 2021-Present ● Assist in setting up prayer \nmats and in also cleaning up afterwards  \n\nAll-Region Sportsmanship Award  December 2025 \nDean’s List Fall 2025  \nSoccer Team- Most Improved Player 2024-2025 \n\nMonroe Express Soccer Team 2024-2025 \nKidsuper Samba Soccer Team 2021-2024  \nKennedy H.S. Soccer Team 2020-2023  Team Captain",
+      "contact": {
+        "email": null,
+        "phone": "929-422-1124",
+        "github_url": null,
+        "linkedin_url": null
+      }
+    }
+  },
+  "linkedin": {
+    "name": "Naim Bakere",
+    "pronouns": "He/Him",
+    "headline": "Student at English Language Learners and International Support Preparatory Academy (ELLIS)",
+    "location": "Bronx, New York, United States",
+    "about": null,
+    "experience": [
+      {
+        "title": "Intern",
+        "company": "Tomorrow's Business Leaders",
+        "duration": "Jun 2023 – Present · 3 yrs 1 mo · New York, United States · Remote",
+        "location": "New York, United States",
+        "description": null,
+        "skills": null
+      }
+    ],
+    "education": null,
+    "certifications": null,
+    "projects": null,
+    "skills": null
+  },
+  "github": null
+}

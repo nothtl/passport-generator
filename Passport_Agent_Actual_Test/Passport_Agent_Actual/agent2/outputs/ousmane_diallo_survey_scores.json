@@ -1,0 +1,102 @@
+{
+  "student_name": "Ousmane Diallo",
+  "email": "ousmane.diallo3@mail.citytech.cuny.edu",
+  "scores": {
+    "EC": {
+      "score": 15.0,
+      "sub_scores": {
+        "Verbal": 10.0,
+        "Written": 0.0,
+        "Interpersonal": 0.0,
+        "CrossCultural": 5.0
+      },
+      "data_coverage": 0.2
+    },
+    "GC": {
+      "score": 15.0,
+      "sub_scores": {
+        "D1_Empathy": 0.0,
+        "D2_Community": 0.45,
+        "D3_Cultural": 0.3,
+        "D4_Network": 0.0,
+        "D5_Volunteering": 0.0
+      },
+      "data_coverage": 0.13
+    },
+    "RFF": {
+      "score": 29.5,
+      "sub_scores": {
+        "D1_SelfReflection": 0.4,
+        "D2_GoalSetting": 0.28,
+        "D3_FutureCareer": 0.3333,
+        "D4_CollegePrep": 0.1667
+      },
+      "data_coverage": 0.26
+    },
+    "CR": {
+      "score": 45.0,
+      "sub_scores": {
+        "C1": 30,
+        "C2": 60.0,
+        "C3": 0,
+        "C4": 0
+      },
+      "data_coverage": 0.38
+    }
+  },
+  "missing_fields": [
+    "Rate your Career Pathways Champion (1-10)",
+    "Community Feel (Quant)",
+    "Any suggestions to make the Foundational Year a better experience",
+    "Did you find a way to stay in touch",
+    "Did you learn something about other careers from other Career Cohorts",
+    "What are three skills you have that will help you in your future career",
+    "Listen to others (post)",
+    "Deal with conflicts - conflict management",
+    "Include others who are different - diversity and inclusion",
+    "After meeting Champions, I better understand people who are different from me",
+    "Pre Empathy",
+    "Pre Humble",
+    "Pre Listen",
+    "Pre Include Others Who Are Different",
+    "Pre Deal with Conflicts",
+    "Pre Lead With Authenticity",
+    "Listen to others",
+    "Deal with conflicts with other people conflict management",
+    "Include others who are different from you diversity and inclusion",
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership",
+    "Pre Community Connected",
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round",
+    "Meeting with my Champions during school helped me feel like I belong in school",
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network",
+    "I feel more engaged in school and participate more than before",
+    "I made new friends during the Foundational Year",
+    "How many individuals do you know who work in the career you are interested in",
+    "FY1 Hours Volunteered",
+    "What are three adjectives that describe the person you are and why",
+    "Remember the SMART Goal you set - next round",
+    "I feel more prepared for my future career",
+    "If you do not have a job, what is your ideal future career job",
+    "I feel ready and prepared for college",
+    "I feel I am now a stronger candidate for college and careers",
+    "I feel I am now more prepared for college",
+    "FY helped realize doing well connects to my career goals",
+    "The Speaker inspired me to think more about my future career",
+    "The Speaker helped me think about my future career pathway",
+    "The Speaker was a relatable role model",
+    "The topic inspired me to think more about my future career",
+    "The topic helped me think about my future career pathway",
+    "FY1 - Hours Volunteered",
+    "Connected Champions",
+    "CPC What skill did you cover",
+    "CPC What component skill did you cover",
+    "CPC Discussion topics",
+    "CPC Why",
+    "CPC Resume additions",
+    "CPC Anything else",
+    "CPC All Session Text",
+    "CPC Resume Text"
+  ],
+  "llm_calls_made": 1
+}

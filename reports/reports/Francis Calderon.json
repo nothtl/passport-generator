@@ -1,0 +1,345 @@
+{
+  "name": "Francis Calderon",
+  "zone": 2,
+  "education_level": "high_school",
+  "source_files": [
+    "aylin_calderon_resume.pdf"
+  ],
+  "skills": [
+    "Instructing",
+    "Monitoring",
+    "Fine Arts",
+    "Food Production",
+    "Social Perceptiveness",
+    "Service Orientation",
+    "Coordination",
+    "Time Management",
+    "Active Learning",
+    "Foreign Language",
+    "English Language",
+    "Administrative",
+    "Design",
+    "Complex Problem Solving"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Helped children learn to paint",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Cleaned exhibits",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Fine Arts",
+      "evidence": "Painted posters",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "cooked meals",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "played games with the children",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Supervised children",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Good team player",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Ability to multitask and complete projects on time",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Ability to learn quickly",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Bilingual: Spanish and English",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Bilingual: Spanish and English",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Typing skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Graphic designing",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "Videogaming",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "39-5092.00",
+      "title": "Manicurists and Pedicurists",
+      "zone": 2,
+      "pct": 44.6,
+      "matched_skills": [
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Coordination",
+        "Time Management",
+        "English Language",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "35-9031.00",
+      "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+      "zone": 2,
+      "pct": 44.3,
+      "matched_skills": [
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Food Production",
+        "Monitoring",
+        "Coordination",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "35-2015.00",
+      "title": "Cooks, Short Order",
+      "zone": 2,
+      "pct": 44.2,
+      "matched_skills": [
+        "Food Production",
+        "English Language",
+        "Time Management",
+        "Coordination",
+        "Service Orientation",
+        "Monitoring",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 41.0,
+      "matched_skills": [
+        "English Language",
+        "Food Production",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "35-9021.00",
+      "title": "Dishwashers",
+      "zone": 2,
+      "pct": 41.0,
+      "matched_skills": [
+        "English Language",
+        "Food Production",
+        "Coordination",
+        "Time Management",
+        "Monitoring",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-2014.00",
+      "title": "Cooks, Restaurant",
+      "zone": 2,
+      "pct": 40.7,
+      "matched_skills": [
+        "Food Production",
+        "English Language",
+        "Monitoring",
+        "Time Management",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-6012.00",
+      "title": "Concierges",
+      "zone": 2,
+      "pct": 40.3,
+      "matched_skills": [
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Coordination",
+        "Administrative",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "39-3092.00",
+      "title": "Costume Attendants",
+      "zone": 2,
+      "pct": 40.2,
+      "matched_skills": [
+        "Fine Arts",
+        "Design",
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 5,
+      "title": "Bus/Food Runner",
+      "company": "Burtons Grill",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3554009",
+      "match_score": 65,
+      "comparisons": 31,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has some relevant experience working in environments that involve teamwork and service, but lacks specific experience in a food service role, which is core to the job.",
+        "strengths": [
+          "Good team player",
+          "Bilingual (Spanish and English)",
+          "Experience in a role with child supervision and responsibility (Babysitter)",
+          "Ability to multitask and complete projects on time"
+        ],
+        "gaps": [
+          "No specific food service or restaurant experience",
+          "Lacks experience in a fast-paced hospitality environment",
+          "No evidence of knowledge or understanding of food allergies and dietary restrictions",
+          "No mention of direct customer service experience"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 13,
+      "title": "Retail Associate ",
+      "company": "RWB Thrift",
+      "url": "https://jobs.dayforcehcm.com/thrift/CANDIDATEPORTAL/jobs/28361",
+      "match_score": 65,
+      "comparisons": 28,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Aylin's resume shows some relevant experience and skills but lacks specific retail or customer service experience that would enhance her fit for the Retail Associate position at RWB Thrift.",
+        "strengths": [
+          "Bilingual in Spanish and English, which can facilitate customer interactions",
+          "Experience in a team environment as demonstrated by internship",
+          "Ability to multitask and complete projects on time, relevant for the fast-paced retail environment"
+        ],
+        "gaps": [
+          "No prior retail or customer service experience listed, which is preferred for the position",
+          "Limited evidence of physical endurance or ability to lift items, which is a requirement",
+          "Lack of specific experience with organizing and maintaining a neat work area, key to the role"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 20,
+      "title": "Dishwashers",
+      "company": "Urban Plates",
+      "url": "https://jobs.dayforcehcm.com/urbanplates/CANDIDATEPORTAL/jobs/10843",
+      "match_score": 65,
+      "comparisons": 28,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has relevant experience in a kitchen environment through internships and personal work but lacks specific dishwashing or restaurant-related experience. Their skills indicate a potential fit, but there are notable gaps in experience and specific qualifications.",
+        "strengths": [
+          "Experience in a related environment (kitchen & arts center)",
+          "Ability to learn quickly",
+          "Bilingual, which can aid in communication with diverse team members",
+          "Team player attitude"
+        ],
+        "gaps": [
+          "No direct experience as a dishwasher or in fast-paced restaurant environments",
+          "Lack of mention of food safety or sanitation practices which are critical for this role",
+          "No experience with high-volume kitchen operations"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 21,
+      "title": "Dietary Aide/Server and Dishwashers (FT/PT)",
+      "company": "Delmar Gardens of O'Fallon",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4203518",
+      "match_score": 65,
+      "comparisons": 22,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has some relevant skills and experience that align with the job; however, there are notable gaps in direct experience and specific qualifications related to dietary services.",
+        "strengths": [
+          "Bilingual in Spanish and English, which can aid communication with diverse residents",
+          "Experience in a childcare role demonstrates the ability to follow instructions and care for others",
+          "Possesses strong teamwork and multitasking skills"
+        ],
+        "gaps": [
+          "No direct experience in dietary services, waiting tables, or dishwashing",
+          "Lacks specific training or education related to food service or health care",
+          "Internship experience does not include relevant kitchen or dietary skills"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 2,
+      "title": "Host / Hostess – Lookout Bar & Eatery (Seasonal Restaurant Host)",
+      "company": "Delavan Holdings",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4131305",
+      "match_score": 60,
+      "comparisons": 22,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "The candidate has limited direct experience in a restaurant or hostess role, but possesses some relevant skills and experience that could transfer to the position. They are likely to require training and might face challenges in a high-paced restaurant environment.",
+        "strengths": [
+          "Bilingual in Spanish and English, which could help with communication in a diverse dining environment.",
+          "Experience in a customer-facing role as a babysitter and supervising children demonstrates handling responsibilities and interacting with others.",
+          "Demonstrates good multitasking abilities and ability to complete projects on time, relevant to managing multiple tasks in a restaurant setting.",
+          "Extracurricular involvement in dance may suggest an ability to work well in team settings."
+        ],
+        "gaps": [
+          "No direct experience as a host or in a restaurant environment, which is preferred for the job.",
+          "Lacks specific experience with reservation management and handling customer service in a high-volume setting.",
+          "No mention of familiarity with reservation systems or basic computer skills relevant to the position requirements."
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 148,
+    "ranked": 148,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Optometric Technician - Clear Vision Eye Centers|||keplrvision": {
+    "eligible": true,
+    "reason": "Optometric technician role does not require age 21+ and is suitable for minors/young adults."
+  },
+  "Health Center Assistant - Springfield, MO 4/8/2026|||ppgr": {
+    "eligible": true,
+    "reason": "Health center assistant role does not require age 21+ and is suitable for minors/young adults."
+  },
+  "Caregiver|||tmn": {
+    "eligible": true,
+    "reason": "Caregiver role does not require age 21+ and is suitable for minors/young adults."
+  }
+}

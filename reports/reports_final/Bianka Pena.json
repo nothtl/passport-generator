@@ -1,0 +1,2051 @@
+{
+  "name": "Bianka Pena",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2026,
+  "source_files": [
+    "Bianka Pena - Resume.pdf",
+    "Bianka Pena - LinkedIn.md"
+  ],
+  "skills": [
+    "Psychology",
+    "Biology",
+    "Medicine and Dentistry",
+    "Public Safety and Security",
+    "Service Orientation",
+    "Active Learning",
+    "Learning Strategies",
+    "Customer and Personal Service",
+    "Administrative",
+    "Writing",
+    "Monitoring",
+    "Operations Monitoring",
+    "Speaking",
+    "Therapy and Counseling",
+    "Time Management",
+    "Instructing",
+    "Education and Training",
+    "Coordination",
+    "Administration and Management",
+    "Design",
+    "Science",
+    "Operation and Control",
+    "Mathematics",
+    "Equipment Maintenance",
+    "Systems Analysis",
+    "Critical Thinking",
+    "Sociology and Anthropology",
+    "Quality Control Analysis",
+    "Economics and Accounting",
+    "Management of Financial Resources",
+    "Reading Comprehension",
+    "Food Production",
+    "Foreign Language",
+    "Social Perceptiveness",
+    "Judgment and Decision Making",
+    "Negotiation"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Psychology",
+      "evidence": "Dedicated Psychology and Biology student with a passion for understanding the complexities of human behavior",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Biology",
+      "evidence": "Dedicated Psychology and Biology student; Conducted HIV-1 research on pathogenesis and host restriction factors; Performed cell culture (THP-1), DNA extraction, SDS-PAGE, and Western blotting",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Medicine and Dentistry",
+      "evidence": "Extensive experience in HIV research, clinical care; Administered medications as a med-certified aide",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "public health has fostered a strong commitment to making a meaningful impact; addressing health disparities and promoting wellness; Contributed to a public health research project; Designed and led a community food bank initiative addressing food insecurity",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "making a meaningful impact in underserved communities; enhance community health outcomes; Provided direct resident care; Supported Older Adult programs; Assisted with food pantry operations, meal distribution, and one-on-one administrative support",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Eager to further develop research skills; Proactive learner driven by a desire to translate academic knowledge into practical solutions; Conducted literature reviews to identify relevant studies and inform research methodologies",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Proactive learner driven by a desire to translate academic knowledge into practical solutions; Coached students on time management, study strategies, and accountability",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Provided direct resident care; Supported daily routines, crisis de-escalation; maintaining supportive peer relationships; Mentored students and connected them with campus academic resources; Supported Older Adult programs; one-on-one administrative support for community members",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "maintained HIPAA-compliant documentation; Assisted with data collection, organization; one-on-one administrative support",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "maintained HIPAA-compliant documentation; reporting concerns to clinical staff; Assisted with experimental design, data analysis, and research presentations; summarized key findings; preparation of research proposals and grant applications",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Monitored resident behavior; Monitored attendance and engagement",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "Monitored resident behavior and medication effects",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "reporting concerns to clinical staff; Supported research discussions; Assisted with... research presentations",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Therapy and Counseling",
+      "evidence": "Provided direct resident care in substance use disorder treatment settings; Supported daily routines, crisis de-escalation, and recovery goals",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Supported daily routines... across varied shifts; Coached students on time management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Facilitated structured study halls; Coached students on time management, study strategies; Mentored students; Developed and implemented engaging academic workshops; Trained and mentored new lab members",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Facilitated structured study halls supporting undergraduate academic success; Developed and implemented engaging academic workshops; Trained and mentored new lab members",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Coordinated with faculty to align tutoring sessions; Collaborated with team members to refine research protocols; Participated in civic engagement, Census outreach, and collaborative community-based mentorship projects",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Coordinated with faculty to align tutoring sessions with course objectives and requirements; Assisted in laboratory maintenance, ensuring equipment and supplies were properly organized; Designed and led a community food bank initiative",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Developed and implemented engaging academic workshops; Assisted with experimental design; Designed and led a community food bank initiative",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Science",
+      "evidence": "Conducted HIV-1 research; Performed cell culture... DNA extraction... SDS-PAGE, and Western blotting; Contributed to a public health research project",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Performed cell culture (THP-1), DNA extraction, SDS-PAGE, and Western blotting",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "Assisted with experimental design, data analysis",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Equipment Maintenance",
+      "evidence": "Assisted in laboratory maintenance, ensuring equipment and supplies were properly organized",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "Collaborated with team members to refine research protocols and improve efficiency; Analyzed social, economic, and healthcare system factors affecting maternal outcomes",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Collaborated with team members to refine research protocols; Analyzed social, economic, and healthcare system factors affecting maternal outcomes",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sociology and Anthropology",
+      "evidence": "Contributed to a public health research project on maternal mortality and healthcare access; Analyzed social... factors affecting maternal outcomes",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Administered medications as a med-certified aide; Assisted with data collection, organization, and review of maternal health indicators",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Analyzed... economic... factors affecting maternal outcomes",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Management of Financial Resources",
+      "evidence": "Assisted in the preparation of research proposals and grant applications for funding",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "Conducted literature reviews to identify relevant studies and inform research methodologies",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "Assisted with food pantry operations, meal distribution",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Spanish Full Professional",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Monitored resident behavior; maintaining supportive peer relationships; crisis de-escalation; Supported Older Adult programs through recreational activities and social engagement; Participated in civic engagement, Census outreach",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "Supported daily routines, crisis de-escalation; reporting concerns to clinical staff",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Negotiation",
+      "evidence": "Supported daily routines, crisis de-escalation",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 77.6,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Instructing",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "43-1011.00",
+      "title": "First-Line Supervisors of Office and Administrative Support Workers",
+      "zone": 3,
+      "pct": 77.1,
+      "matched_skills": [
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Active Learning",
+        "Writing",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "31-1133.00",
+      "title": "Psychiatric Aides",
+      "zone": 2,
+      "pct": 76.9,
+      "matched_skills": [
+        "Psychology",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Active Learning",
+        "Coordination",
+        "Therapy and Counseling",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "39-2011.00",
+      "title": "Animal Trainers",
+      "zone": 2,
+      "pct": 76.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Instructing",
+        "Education and Training",
+        "Learning Strategies",
+        "Speaking",
+        "Critical Thinking",
+        "Active Learning",
+        "Psychology",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "29-1292.00",
+      "title": "Dental Hygienists",
+      "zone": 3,
+      "pct": 76.2,
+      "matched_skills": [
+        "Medicine and Dentistry",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Speaking",
+        "Monitoring",
+        "Writing",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Reading Comprehension",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "29-1128.00",
+      "title": "Exercise Physiologists",
+      "zone": 4,
+      "pct": 75.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Instructing",
+        "Medicine and Dentistry",
+        "Writing",
+        "Education and Training",
+        "Therapy and Counseling",
+        "Monitoring",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "39-9031.00",
+      "title": "Exercise Trainers and Group Fitness Instructors",
+      "zone": 3,
+      "pct": 73.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Instructing",
+        "Education and Training",
+        "Service Orientation",
+        "Speaking",
+        "Psychology",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 73.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "11-9072.00",
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "zone": 4,
+      "pct": 73.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Speaking",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "29-1125.00",
+      "title": "Recreational Therapists",
+      "zone": 4,
+      "pct": 73.2,
+      "matched_skills": [
+        "Psychology",
+        "Therapy and Counseling",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Service Orientation",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "39-9011.00",
+      "title": "Childcare Workers",
+      "zone": 2,
+      "pct": 73.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Service Orientation",
+        "Education and Training",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Psychology"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 73.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Education and Training",
+        "Reading Comprehension",
+        "Writing",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Public Safety and Security",
+        "Biology",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 72.9,
+      "matched_skills": [
+        "Speaking",
+        "Instructing",
+        "Education and Training",
+        "Learning Strategies",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 72.5,
+      "matched_skills": [
+        "Speaking",
+        "Education and Training",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Instructing",
+        "Service Orientation",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "25-9042.00",
+      "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "zone": 3,
+      "pct": 72.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Psychology",
+        "Social Perceptiveness",
+        "Reading Comprehension",
+        "Speaking",
+        "Mathematics",
+        "Coordination",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 72.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "29-9093.00",
+      "title": "Surgical Assistants",
+      "zone": 3,
+      "pct": 72.0,
+      "matched_skills": [
+        "Medicine and Dentistry",
+        "Customer and Personal Service",
+        "Speaking",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Coordination",
+        "Service Orientation",
+        "Biology",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 71.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "25-3021.00",
+      "title": "Self-Enrichment Teachers",
+      "zone": 3,
+      "pct": 71.5,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Customer and Personal Service",
+        "Learning Strategies",
+        "Instructing",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "31-2011.00",
+      "title": "Occupational Therapy Assistants",
+      "zone": 3,
+      "pct": 71.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Psychology",
+        "Education and Training",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Therapy and Counseling",
+        "Reading Comprehension",
+        "Time Management",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 71.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Public Safety and Security",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Learning Strategies",
+        "Education and Training",
+        "Medicine and Dentistry",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 71.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Psychology",
+        "Speaking",
+        "Social Perceptiveness",
+        "Therapy and Counseling",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "39-9041.00",
+      "title": "Residential Advisors",
+      "zone": 3,
+      "pct": 71.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Public Safety and Security",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Sociology and Anthropology",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "21-1015.00",
+      "title": "Rehabilitation Counselors",
+      "zone": 4,
+      "pct": 71.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Therapy and Counseling",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Psychology",
+        "Education and Training",
+        "Monitoring",
+        "Administrative",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "31-9011.00",
+      "title": "Massage Therapists",
+      "zone": 3,
+      "pct": 71.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Biology",
+        "Psychology",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Judgment and Decision Making",
+        "Medicine and Dentistry",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "51-2022.00",
+      "title": "Electrical and Electronic Equipment Assemblers",
+      "zone": 2,
+      "pct": 70.8,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Critical Thinking",
+        "Coordination",
+        "Speaking",
+        "Writing",
+        "Operation and Control",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 70.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Reading Comprehension",
+        "Time Management",
+        "Speaking",
+        "Critical Thinking",
+        "Writing",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 70.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "Reading Comprehension",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-2031.00",
+      "title": "Secondary School Teachers, Except Special and Career/Technical Education",
+      "zone": 4,
+      "pct": 70.7,
+      "matched_skills": [
+        "Education and Training",
+        "Instructing",
+        "Learning Strategies",
+        "Reading Comprehension",
+        "Speaking",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 70.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-4121.00",
+      "title": "Library Assistants, Clerical",
+      "zone": 2,
+      "pct": 70.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Education and Training",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Coordination",
+        "Psychology"
+      ]
+    },
+    {
+      "soc": "27-2022.00",
+      "title": "Coaches and Scouts",
+      "zone": 4,
+      "pct": 69.4,
+      "matched_skills": [
+        "Instructing",
+        "Speaking",
+        "Learning Strategies",
+        "Monitoring",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-2032.00",
+      "title": "Choreographers",
+      "zone": 3,
+      "pct": 69.2,
+      "matched_skills": [
+        "Instructing",
+        "Speaking",
+        "Coordination",
+        "Monitoring",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Time Management",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "35-2021.00",
+      "title": "Food Preparation Workers",
+      "zone": 2,
+      "pct": 69.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Time Management",
+        "Food Production",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "11-9051.00",
+      "title": "Food Service Managers",
+      "zone": 2,
+      "pct": 68.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Food Production",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Reading Comprehension",
+        "Service Orientation",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "43-9061.00",
+      "title": "Office Clerks, General",
+      "zone": 2,
+      "pct": 68.7,
+      "matched_skills": [
+        "Administrative",
+        "Reading Comprehension",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 68.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Biology",
+        "Critical Thinking",
+        "Mathematics",
+        "Administrative",
+        "Active Learning",
+        "Monitoring",
+        "Science",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "47-2141.00",
+      "title": "Painters, Construction and Maintenance",
+      "zone": 2,
+      "pct": 68.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Time Management",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Public Safety and Security",
+        "Reading Comprehension",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 67.9,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Administration and Management",
+        "Speaking",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 67.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "Food Production",
+        "Administration and Management",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "35-9031.00",
+      "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+      "zone": 2,
+      "pct": 67.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Food Production",
+        "Monitoring",
+        "Reading Comprehension",
+        "Coordination",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "27-3091.00",
+      "title": "Interpreters and Translators",
+      "zone": 4,
+      "pct": 67.0,
+      "matched_skills": [
+        "Foreign Language",
+        "Speaking",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Writing",
+        "Critical Thinking",
+        "Monitoring",
+        "Education and Training",
+        "Administrative",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 66.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 65.5,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "11-9031.00",
+      "title": "Education and Childcare Administrators, Preschool and Daycare",
+      "zone": 4,
+      "pct": 65.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "35-9021.00",
+      "title": "Dishwashers",
+      "zone": 2,
+      "pct": 65.2,
+      "matched_skills": [
+        "Operation and Control",
+        "Food Production",
+        "Coordination",
+        "Time Management",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Operations Monitoring",
+        "Social Perceptiveness",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 65.1,
+      "matched_skills": [
+        "Mathematics",
+        "Critical Thinking",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Learning",
+        "Monitoring",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-1023.00",
+      "title": "Zoologists and Wildlife Biologists",
+      "zone": 4,
+      "pct": 65.0,
+      "matched_skills": [
+        "Biology",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Science",
+        "Writing",
+        "Coordination",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "27-1022.00",
+      "title": "Fashion Designers",
+      "zone": 3,
+      "pct": 64.8,
+      "matched_skills": [
+        "Design",
+        "Critical Thinking",
+        "Speaking",
+        "Active Learning",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Time Management",
+        "Reading Comprehension",
+        "Negotiation"
+      ]
+    },
+    {
+      "soc": "45-2011.00",
+      "title": "Agricultural Inspectors",
+      "zone": 2,
+      "pct": 64.6,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Monitoring",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Active Learning",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-2092.00",
+      "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "zone": 2,
+      "pct": 64.5,
+      "matched_skills": [
+        "Speaking",
+        "Operations Monitoring",
+        "Biology",
+        "Food Production",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Writing",
+        "Operation and Control",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 64.5,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Mathematics",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "19-4051.02",
+      "title": "Nuclear Monitoring Technicians",
+      "zone": 3,
+      "pct": 64.2,
+      "matched_skills": [
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Operations Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Mathematics",
+        "Instructing",
+        "Public Safety and Security",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "51-4052.00",
+      "title": "Pourers and Casters, Metal",
+      "zone": 2,
+      "pct": 64.1,
+      "matched_skills": [
+        "Operation and Control",
+        "Operations Monitoring",
+        "Critical Thinking",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Quality Control Analysis",
+        "Time Management",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "51-6061.00",
+      "title": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+      "zone": 2,
+      "pct": 63.9,
+      "matched_skills": [
+        "Operations Monitoring",
+        "Operation and Control",
+        "Monitoring",
+        "Time Management",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Quality Control Analysis",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "53-7065.00",
+      "title": "Stockers and Order Fillers",
+      "zone": 2,
+      "pct": 63.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Monitoring",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Coordination",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "51-9123.00",
+      "title": "Painting, Coating, and Decorating Workers",
+      "zone": 2,
+      "pct": 63.3,
+      "matched_skills": [
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Time Management",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "41-9012.00",
+      "title": "Models",
+      "zone": 2,
+      "pct": 63.0,
+      "matched_skills": [
+        "Social Perceptiveness",
+        "Speaking",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Coordination",
+        "Reading Comprehension",
+        "Time Management",
+        "Judgment and Decision Making",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 63.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "41-2011.00",
+      "title": "Cashiers",
+      "zone": 2,
+      "pct": 62.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Mathematics",
+        "Administrative",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "19-1022.00",
+      "title": "Microbiologists",
+      "zone": 4,
+      "pct": 62.1,
+      "matched_skills": [
+        "Biology",
+        "Science",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Writing",
+        "Active Learning",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "41-2021.00",
+      "title": "Counter and Rental Clerks",
+      "zone": 2,
+      "pct": 61.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Speaking",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "13-2011.00",
+      "title": "Accountants and Auditors",
+      "zone": 4,
+      "pct": 61.5,
+      "matched_skills": [
+        "Economics and Accounting",
+        "Mathematics",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Writing",
+        "Judgment and Decision Making",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 61.1,
+      "matched_skills": [
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination",
+        "Customer and Personal Service",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "13-2071.00",
+      "title": "Credit Counselors",
+      "zone": 4,
+      "pct": 60.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Writing",
+        "Mathematics",
+        "Active Learning",
+        "Service Orientation",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 60.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "Monitoring",
+        "Coordination",
+        "Critical Thinking",
+        "Mathematics",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "13-1071.00",
+      "title": "Human Resources Specialists",
+      "zone": 4,
+      "pct": 60.4,
+      "matched_skills": [
+        "Speaking",
+        "Reading Comprehension",
+        "Administrative",
+        "Critical Thinking",
+        "Writing",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 60.4,
+      "matched_skills": [
+        "Monitoring",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Customer and Personal Service",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "53-6011.00",
+      "title": "Bridge and Lock Tenders",
+      "zone": 2,
+      "pct": 60.2,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Monitoring",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Operation and Control",
+        "Operations Monitoring",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 60.2,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Mathematics",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "zone": 3,
+      "pct": 60.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Critical Thinking",
+        "Design"
+      ]
+    },
+    {
+      "soc": "17-2151.00",
+      "title": "Mining and Geological Engineers, Including Mining Safety Engineers",
+      "zone": 4,
+      "pct": 55.6,
+      "matched_skills": [
+        "Mathematics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Judgment and Decision Making",
+        "Mathematics",
+        "Monitoring",
+        "Systems Analysis"
+      ]
+    },
+    {
+      "soc": "33-3041.00",
+      "title": "Parking Enforcement Workers",
+      "zone": 2,
+      "pct": 55.2,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Monitoring",
+        "Speaking",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Reading Comprehension",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 54.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-3025.00",
+      "title": "Environmental Engineering Technologists and Technicians",
+      "zone": 4,
+      "pct": 54.0,
+      "matched_skills": [
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Active Learning",
+        "Mathematics",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Science",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "33-9099.02",
+      "title": "Retail Loss Prevention Specialists",
+      "zone": 2,
+      "pct": 53.9,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 53.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "Monitoring",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "49-9095.00",
+      "title": "Manufactured Building and Mobile Home Installers",
+      "zone": 2,
+      "pct": 52.2,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Customer and Personal Service",
+        "Design",
+        "Critical Thinking",
+        "Operation and Control",
+        "Quality Control Analysis",
+        "Operations Monitoring",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "15-1299.03",
+      "title": "Document Management Specialists",
+      "zone": 4,
+      "pct": 51.6,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Administration and Management",
+        "Critical Thinking",
+        "Writing",
+        "Monitoring",
+        "Systems Analysis",
+        "Customer and Personal Service",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "17-1022.00",
+      "title": "Surveyors",
+      "zone": 4,
+      "pct": 51.6,
+      "matched_skills": [
+        "Mathematics",
+        "Mathematics",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Writing",
+        "Customer and Personal Service",
+        "Design",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "17-2011.00",
+      "title": "Aerospace Engineers",
+      "zone": 4,
+      "pct": 51.6,
+      "matched_skills": [
+        "Mathematics",
+        "Design",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Science",
+        "Mathematics",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "15-2051.02",
+      "title": "Clinical Data Managers",
+      "zone": 4,
+      "pct": 51.5,
+      "matched_skills": [
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Monitoring",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "15-1211.00",
+      "title": "Computer Systems Analysts",
+      "zone": 4,
+      "pct": 51.2,
+      "matched_skills": [
+        "Speaking",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Systems Analysis",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "49-9031.00",
+      "title": "Home Appliance Repairers",
+      "zone": 2,
+      "pct": 49.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Equipment Maintenance",
+        "Speaking",
+        "Operations Monitoring",
+        "Quality Control Analysis",
+        "Administration and Management",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 49.2,
+      "matched_skills": [
+        "Administrative",
+        "Writing",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 45.9,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Time Management",
+        "Customer and Personal Service"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 7,
+      "title": "Attendant Care Worker/Peer Support Specialist (Bilingual)",
+      "company": "EL CENTRO",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4277433",
+      "match_score": 85,
+      "embed_sim": 0.49433189630508423,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 6,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Bianka Pena's resume shows considerable experience in relevant fields such as public health and clinical support, which aligns well with the requirements for the Attendant Care Worker/Peer Support Specialist position. Her bilingual proficiency and extensive community service involvement are significant advantages, though some specific experience directly related to peer support and mental health recovery may be lacking.",
+        "strengths": [
+          "Extensive experience in clinical care and public health research, particularly around HIV and maternal health.",
+          "Demonstrated ability to support individuals in recovery settings, as shown through the Counselor Aide role.",
+          "Bilingual proficiency in English and Spanish, which is essential for this position.",
+          "Strong commitment to community service and understanding of health disparities.",
+          "Experience with mentorship and support, relevant to the role's focus on client advocacy and empowerment."
+        ],
+        "gaps": [
+          "Lack of direct experience listed as a consumer of mental health services, which is preferred for this position.",
+          "No specific mention of training in peer support certification or methodologies that align with the WRAP approach mentioned in the job description.",
+          "Less emphasis on experience in developing individual recovery plans and coping strategies directly with clients."
+        ]
+      },
+      "blended_score": 79
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 25,
+      "title": "After School Group Leader (Fall 2026)",
+      "company": "East Harlem Tutorial Program (EHTP)",
+      "url": "https://job-boards.greenhouse.io/eastharlemtutorialprogram/jobs/8013939",
+      "match_score": 70,
+      "embed_sim": 0.5049540996551514,
+      "verdict": "solid",
+      "zone": 4,
+      "family": "Healthcare",
+      "comparisons": 0,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "The candidate shows a strong background in education, community service, and research relevant to the role, but lacks direct experience in after-school program settings, which could be a critical gap for the job.",
+        "strengths": [
+          "Experience mentoring and coaching students as a Peer Academic Leader",
+          "Strong community service background working with diverse populations",
+          "Knowledge in Psychological and Biological principles relevant to youth development",
+          "Fluent in Spanish which is a plus for diverse populations",
+          "Proactive in leading workshops and academic support lessons"
+        ],
+        "gaps": [
+          "No direct experience working as an after-school leader or summer camp experience for students under 13",
+          "Limited evidence of lesson planning and project-based learning experience",
+          "Experience primarily in a research and clinical setting rather than an educational/after-school environment",
+          "No specific experience listed with team-building activities or social-emotional learning (SEL) principles"
+        ]
+      },
+      "blended_score": 78
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 8,
+      "title": "RESIDENTIAL ASSOCIATE- Per Diem",
+      "company": "Catholic Charities Family and Community Services (CCFCS)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4182456",
+      "match_score": 70,
+      "embed_sim": 0.499820351600647,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Bianka's resume demonstrates relevant experience in healthcare and community service, especially her roles that involve direct care and support in substance use treatment and research related to health disparities. However, while she possesses strong interpersonal and analytical skills, the specific experience related to crisis intervention and residential settings, as well as knowledge of homeless client issues, may not be fully evidenced in her resume.",
+        "strengths": [
+          "Experience as a Counselor Aide providing direct resident care and medication management.",
+          "Strong background in public health research, focusing on vulnerable populations.",
+          "Skills in conflict resolution, teamwork, and relationship building relevant to the role.",
+          "Educated in psychology and biology, relevant fields for understanding human behavior."
+        ],
+        "gaps": [
+          "Lack of specific mention of experience in a residential setting or homeless client issues.",
+          "No direct experience listed in conducting urine toxicology screenings or emergency procedures.",
+          "Limited evidence of crisis intervention experience, which is a crucial part of the job description."
+        ]
+      },
+      "blended_score": 75
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 20,
+      "title": "Behavioral Health Attendant",
+      "company": "Brown University Health",
+      "url": "https://brownhealth.wd12.myworkdayjobs.com/job/The-Miriam-Hospital/Behavioral-Health-Attendant_JR-102036",
+      "match_score": 85,
+      "embed_sim": 0.4653970003128052,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 5,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Bianka Pena's resume reflects a strong background in patient care and behavioral health support, making her a solid candidate for the Behavioral Health Attendant position. Her experience as a Counselor Aide and with HIV research indicates she has relevant skills in monitoring patient conditions and providing direct support in a healthcare setting. However, additional experience with specific behavioral health interventions and training may enhance her fit for the role.",
+        "strengths": [
+          "Experience as a Counselor Aide providing direct resident care in substance use disorder treatment settings",
+          "Administrative experience maintaining HIPAA-compliant documentation and monitoring client behaviors",
+          "Research experience in healthcare that involves patient dynamics and public health issues",
+          "Strong skills in client advocacy, teamwork, and conflict resolution"
+        ],
+        "gaps": [
+          "Lack of explicit certification or training in de-escalation techniques or behavioral health training required by the job",
+          "No direct experience reported with the specific requirements of daily living activities for patients",
+          "Limited indication of experience in a non-clinical patient care role that directly aligns with the responsibilities outlined for the BHA"
+        ]
+      },
+      "blended_score": 63
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 19,
+      "title": "School Program Youth Leader - Cheer Coach",
+      "company": "SBCS (South Bay Community Services)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4280012",
+      "match_score": 75,
+      "embed_sim": 0.4614764153957367,
+      "verdict": "solid",
+      "zone": 4,
+      "family": "Healthcare",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate possesses relevant experience in mentoring, program facilitation, and youth advocacy, which align with the job's requirements in supporting and supervising youth. However, they lack direct experience in leading sports or recreational activities, which is important for this role.",
+        "strengths": [
+          "Experience as a Peer Academic Leader, mentoring and coaching students on academic success",
+          "Research and practical understanding of health and community service",
+          "Strong commitment to community wellness and support for underserved populations",
+          "Skills in relationship building, teamwork, and conflict resolution",
+          "Experience in program planning and implementation through research and volunteer work"
+        ],
+        "gaps": [
+          "No direct experience listed in leading sports or recreational activities",
+          "Limited explicit references to monitoring student behavior or implementing behavior corrective strategies",
+          "Does not demonstrate experience with after-school programs or specific youth leadership roles",
+          "No documentation of specific interactions or engagement with diverse populations, which is emphasized in the job description"
+        ]
+      },
+      "blended_score": 56
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 11,
+      "title": "Per Diem Clinical Recovery Specialist",
+      "company": "VOAMASS (Voice of Addiction Management and Support Services)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3824505",
+      "match_score": 85,
+      "embed_sim": 0.44939714670181274,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Bianka Pena has a solid background in psychology, biology, and community health support that aligns well with the responsibilities of a Clinical Recovery Specialist. Her experience as a Counselor Aide and Research Student demonstrates relevant skills in direct client care and research in public health, particularly in substance use and HIV contexts. However, the resume lacks explicit evidence of experience in formal group facilitation and recovery support environments specifically related to adult clients, which could be a concern.",
+        "strengths": [
+          "Experience providing direct care in substance use disorder treatment settings as a Counselor Aide.",
+          "Involvement in public health research relevant to healthcare and recovery, particularly maternal health and HIV research.",
+          "Strong foundational education in psychology and biology, relevant to understanding client behaviors and needs.",
+          "Skills in crisis de-escalation and conflict resolution, crucial for a recovery environment.",
+          "Experience in teamwork and relationship building, important for supporting clients effectively."
+        ],
+        "gaps": [
+          "Lack of clear experience working with adult clients specifically in a recovery setting, as the roles listed are primarily academic or focused on data rather than direct client facilitation.",
+          "No evidence of leading groups or structured activities which is a key responsibility of the Clinical Recovery Specialist role.",
+          "Limited demonstrable experience with medication administration and documentation beyond basic care responsibilities."
+        ]
+      },
+      "blended_score": 54
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 14,
+      "title": "Student Support Advisor ",
+      "company": "DeVry University",
+      "url": "https://jobs.dayforcehcm.com/devry/CANDIDATEPORTAL/jobs/14363",
+      "match_score": 75,
+      "embed_sim": 0.4504619240760803,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Bianka Pena's resume shows relevant educational background, research experience, and skills beneficial for the role of a Student Support Advisor. However, the experience directly related to advising and student support is limited, which could be a hurdle.",
+        "strengths": [
+          "Strong educational background in Psychology and Biology, aligning with understanding student needs.",
+          "Experience as a Peer Academic Leader indicates familiarity with student mentoring and support.",
+          "Research experience in public health and advocacy demonstrates capability in addressing student concerns.",
+          "Excellent communication and relationship-building skills are highlighted, which are crucial for the advising role."
+        ],
+        "gaps": [
+          "Limited direct experience in advising roles specifically within an educational setting.",
+          "No evidence of experience with financial aid processes or advising related to academic financial planning.",
+          "Lack of mention of using systems for tracking student data or proficiency in database software required by the job."
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 1,
+      "title": "Student Engagement Specialist",
+      "company": "Northeastern University",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/job/Boston-MA-Main-Campus/Student-Engagement-Specialist_R140241",
+      "match_score": 75,
+      "embed_sim": 0.4467810392379761,
+      "verdict": "solid",
+      "zone": 4,
+      "family": "Healthcare",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate demonstrates relevant skills and experiences in student engagement and academic support through leadership roles and community service but lacks direct experience in event management and budget responsibilities for large scale university events as specified in the job description.",
+        "strengths": [
+          "Experience as a Peer Academic Leader, facilitating study strategies and supporting academic success",
+          "Demonstrated commitment to student support through volunteer work and community initiatives",
+          "Strong communication and interpersonal skills developed through mentoring and counseling roles"
+        ],
+        "gaps": [
+          "No specific experience in managing budgets for events",
+          "Lack of direct involvement in planning and executing large scale university events",
+          "Limited information on administrative and logistical management of student-oriented programs"
+        ]
+      },
+      "blended_score": 47
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 10,
+      "title": "Recreation Coordinator",
+      "company": "Nexus Family Healing",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4208758",
+      "match_score": 75,
+      "embed_sim": 0.4473508894443512,
+      "verdict": "solid",
+      "zone": 4,
+      "family": "Healthcare",
+      "comparisons": 6,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant educational background and some relevant experience that aligns with the recreational and therapeutic aspects of the coordinator role, but lacks direct experience in a residential treatment setting with youth.",
+        "strengths": [
+          "Educational background in Psychology and Biology, relevant to understanding youth mental health needs",
+          "Experience as a Counselor Aide demonstrates direct care and supportive skills in a treatment setting",
+          "Research experience in public health and HIV-1 reflects analytical skills and a commitment to health outcomes",
+          "Experience facilitating academic success could translate to recreational program development skills"
+        ],
+        "gaps": [
+          "No direct experience in a residential treatment setting specifically for youth",
+          "Lacks five years of experience as required in the job description",
+          "Does not mention specific recreation or activity planning experience",
+          "Lacks specific certifications or licenses that may be related to recreational therapy or youth programs"
+        ]
+      },
+      "blended_score": 47
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 16,
+      "title": "Observation Assistant, Emergency Department, 24 Hours, Evenings",
+      "company": "UMass Memorial Health",
+      "url": "https://ummh.wd1.myworkdayjobs.com/job/Worcester-MA-University-Campus/Observation-Assistant--Emergency-Department--24-Hours--Evenings_R26103772-1",
+      "match_score": 80,
+      "embed_sim": 0.44199809432029724,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 8,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "The candidate exhibits relevant skills and experience that align well with the requirements for the Observation Assistant role, particularly in patient monitoring, support, and engagement. There is strong research and clinical experience, but direct experience in an emergency department context is lacking.",
+        "strengths": [
+          "Experience in clinical care settings through Counselor Aide role supporting residents with substance use disorders.",
+          "Research experience in public health with a focus on health disparities aligns with the role's focus on patient safety and monitoring.",
+          "Demonstrated ability to work in team environments and assist diverse populations, which fosters good communication skills necessary for patient interaction."
+        ],
+        "gaps": [
+          "No direct experience in an emergency department or observation specific roles which may have specific dynamics different from previous experiences.",
+          "Lack of specific mention of any certifications in de-escalation training, which is a key requirement for the position.",
+          "The resume does not explicitly address experience with the specific duties listed for constant patient monitoring and de-escalation techniques."
+        ]
+      },
+      "blended_score": 47
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

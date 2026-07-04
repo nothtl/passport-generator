@@ -1,0 +1,14 @@
+{
+  "Nurse Aide / Medication Assistant I": {
+    "eligible": true,
+    "reason": "Nurse aide roles are typically open to 16-20 year olds with proper certification."
+  },
+  "Home Care Aide/Caregiver - Everett|||redwood": {
+    "eligible": true,
+    "reason": "Home care aide/caregiver roles are suitable for minors/young adults."
+  },
+  "Student: Sports Medicine Assistant, Academic Year 2026-27|||AugsburgUniversity-MinneapolisMN": {
+    "eligible": true,
+    "reason": "Student sports medicine assistant is an educational role open to high school/college students."
+  }
+}

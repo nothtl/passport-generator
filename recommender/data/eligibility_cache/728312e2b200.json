@@ -1,0 +1,26 @@
+{
+  "Teller|||keybank": {
+    "eligible": true,
+    "reason": "Bank teller role, no age restriction beyond 16."
+  },
+  "Member Experience Ambassador": {
+    "eligible": true,
+    "reason": "Ambassador role, likely customer service, no age restriction."
+  },
+  "Wireless Sales|||2020companies": {
+    "eligible": true,
+    "reason": "Wireless sales, no age restriction."
+  },
+  "Seasonal Part-Time Sales Associate, goop Aspen|||goop": {
+    "eligible": true,
+    "reason": "Retail sales associate, no age restriction."
+  },
+  "HP Retail Sales Representative|||2020companies": {
+    "eligible": true,
+    "reason": "Retail sales representative, no age restriction."
+  },
+  "Community Loan Specialist - 279|||bru": {
+    "eligible": true,
+    "reason": "Loan specialist, likely administrative, no age restriction."
+  }
+}

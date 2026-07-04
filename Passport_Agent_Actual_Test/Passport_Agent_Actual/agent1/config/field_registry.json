@@ -1,0 +1,747 @@
+{
+  "EC": {
+    "english_spoken": {
+      "canonical": "English - Spoken",
+      "column_variants": ["English - Spoken"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "rate_champion": {
+      "canonical": "Rate your Career Pathways Champion (1-10)",
+      "column_variants": [
+        "On a scale of 1 - 10, please *rate your Career Pathways Champion*!",
+        "On a scale of 1 - 10, please *rate your Career Pathways Champion*!.1"
+      ],
+      "search_in": [
+        "SPEAKHIRE FY Internship Round Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "community_feel_quant": {
+      "canonical": "Community Feel (Quant)",
+      "column_variants": ["Community Feel (Quant)"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "suggestions_fy": {
+      "canonical": "Any suggestions to make the Foundational Year a better experience",
+      "column_variants": [
+        "We want to hear from you! Any *suggestions to make the Foundational Year a better experience*?"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "stayed_in_touch": {
+      "canonical": "Did you find a way to stay in touch",
+      "column_variants": [
+        "This may be the end of the round but it does not have to be the end of the relationship. *Did you find a way to stay in touch*?",
+        "This may be the end of the round but it does not have to be the end of the relationship. *Did you find a way to stay in touch*?.1",
+        "This may be the end of the round but it does not have to be the end of the relationship. *Did you find a way to stay in touch*?.2"
+      ],
+      "search_in": [
+        "SPEAKHIRE FY Internship Round Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "cross_career_learning": {
+      "canonical": "Did you learn something about other careers from other Career Cohorts",
+      "column_variants": [
+        "Did you learn something about other *careers from other Career Cohorts*?",
+        "Did you learn something about other *careers from other Career Cohorts*?.1"
+      ],
+      "search_in": [
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "three_skills": {
+      "canonical": "What are three skills you have that will help you in your future career",
+      "column_variants": [
+        "What are* three skills* you have that will help you in your future career."
+      ],
+      "search_in": [
+        "Mentee Data Evaluation .xlsx"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "listen_others_post": {
+      "canonical": "Listen to others (post)",
+      "column_variants": [
+        "Post - Listen",
+        "... *listen* to others?"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "deal_conflicts_post": {
+      "canonical": "Deal with conflicts - conflict management",
+      "column_variants": [
+        "Post - Deal with Conflicts",
+        "... *deal with conflicts* with other people - *conflict management*?"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "include_others_post": {
+      "canonical": "Include others who are different - diversity and inclusion",
+      "column_variants": [
+        "Post - Include Others Who Are Different",
+        "... *include others who are different* from you - *diversity and inclusion*? "
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "understand_different_people": {
+      "canonical": "After meeting Champions, I better understand people who are different from me",
+      "column_variants": [
+        "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds, I feel *I better understand people who are different from me*",
+        "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv",
+        "SPEAKHIRE FY Internship Round Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "languages": {
+      "canonical": "Languages",
+      "column_variants": ["Languages"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    }
+  },
+
+  "GC": {
+    "pre_empathy": {
+      "canonical": "Pre Empathy",
+      "column_variants": ["Pre - Empathy"],
+      "search_in": ["Interns_20260512T143927-0400.csv"],
+      "required": false,
+      "multi_row": false
+    },
+    "pre_humble": {
+      "canonical": "Pre Humble",
+      "column_variants": ["Pre - Humble"],
+      "search_in": ["Interns_20260512T143927-0400.csv"],
+      "required": false,
+      "multi_row": false
+    },
+    "pre_listen": {
+      "canonical": "Pre Listen",
+      "column_variants": ["Pre - Listen"],
+      "search_in": ["Interns_20260512T143927-0400.csv"],
+      "required": false,
+      "multi_row": false
+    },
+    "pre_include": {
+      "canonical": "Pre Include Others Who Are Different",
+      "column_variants": ["Pre - Include Others Who Are Different"],
+      "search_in": ["Interns_20260512T143927-0400.csv"],
+      "required": false,
+      "multi_row": false
+    },
+    "pre_deal_conflicts": {
+      "canonical": "Pre Deal with Conflicts",
+      "column_variants": ["Pre - Deal with Conflicts"],
+      "search_in": ["Interns_20260512T143927-0400.csv"],
+      "required": false,
+      "multi_row": false
+    },
+    "pre_lead_authenticity": {
+      "canonical": "Pre Lead With Authenticity",
+      "column_variants": ["Pre - Lead With Authenticity"],
+      "search_in": ["Interns_20260512T143927-0400.csv"],
+      "required": false,
+      "multi_row": false
+    },
+    "gc_listen_others_post": {
+      "canonical": "Listen to others",
+      "column_variants": [
+        "Post - Listen",
+        "... *listen* to others?"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "gc_deal_conflicts_post": {
+      "canonical": "Deal with conflicts with other people conflict management",
+      "column_variants": [
+        "Post - Deal with Conflicts",
+        "... *deal with conflicts* with other people - *conflict management*?"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "gc_include_others_post": {
+      "canonical": "Include others who are different from you diversity and inclusion",
+      "column_variants": [
+        "Post - Include Others Who Are Different",
+        "... *include others who are different* from you - *diversity and inclusion*? "
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "reflect_similar_situation": {
+      "canonical": "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership",
+      "column_variants": [
+        "... *think about or reflect* if you've been in a similar situation as someone you're trying to help - *non-positional leadership*?"
+      ],
+      "search_in": [
+        "SPEAKHIRE Leadership Course Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "gc_community_feel_quant": {
+      "canonical": "Community Feel (Quant)",
+      "column_variants": ["Community Feel (Quant)"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "pre_community_connected": {
+      "canonical": "Pre Community Connected",
+      "column_variants": ["Pre - Community Connected"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "culture_feel": {
+      "canonical": "Culture Feel",
+      "column_variants": ["Culture Feel"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "cultural_values_career": {
+      "canonical": "I understand how my cultural values can shape my career choices",
+      "column_variants": [
+        "Cultural Values Shape Career Choice",
+        "Cultural Values Shape Career Choice.1",
+        "I understand how my *cultural values can shape my career choices.* ",
+        "I understand how my *cultural values can shape my career choices*. "
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "SPEAKHIRE Foundational Year Exit Survey.csv",
+        "Mentee Data Evaluation .xlsx"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "gc_understand_different_peers": {
+      "canonical": "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me",
+      "column_variants": [
+        "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds, I feel *I better understand people who are different from me*",
+        "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv",
+        "SPEAKHIRE FY Internship Round Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "introduced_diverse_professionals": {
+      "canonical": "Were you introduced to diverse career professionals who you can relate to during this Internship Round",
+      "column_variants": [
+        "Were you introduced to diverse* career professionals* who you can relate to during this Internship Round?",
+        "Were you introduce you to diverse* career professionals* who you can relate to during this Internship Round?",
+        "Introduced to diverse professionals"
+      ],
+      "search_in": [
+        "SPEAKHIRE FY Internship Round Exit Survey.csv",
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "belong_in_school": {
+      "canonical": "Meeting with my Champions during school helped me feel like I belong in school",
+      "column_variants": [
+        "Meeting with my Champions during school helped me *feel like I belong in school*"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "network_value": {
+      "canonical": "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network",
+      "column_variants": [
+        "This SPEAKHIRE Foundational Year helped me understand the *value of building a strong a network*"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "more_engaged_school": {
+      "canonical": "I feel more engaged in school and participate more than before",
+      "column_variants": [
+        "I feel more *engaged in school* and *participate more* than before"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "new_friends": {
+      "canonical": "I made new friends during the Foundational Year",
+      "column_variants": [
+        "I made *new friends* during the Foundational Year"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "career_network_count": {
+      "canonical": "How many individuals do you know who work in the career you are interested in",
+      "column_variants": [
+        "How many *individuals do you know who work in the career* you are interested in? "
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "fy1_ever_volunteered": {
+      "canonical": "FY1 Ever Volunteered",
+      "column_variants": [
+        "FY1 - Ever Volunteered?",
+        "FY1_Ever_Volunteered"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "fy1_hours_volunteered": {
+      "canonical": "FY1 Hours Volunteered",
+      "column_variants": [
+        "FY1 - Hours Volunteered",
+        "FY1_Hours_Volunteered"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    }
+  },
+
+  "RFF": {
+    "three_adjectives": {
+      "canonical": "What are three adjectives that describe the person you are and why",
+      "column_variants": [
+        "What are* three adjectives* that describe the person you are and why? "
+      ],
+      "search_in": [
+        "Mentee Data Evaluation .xlsx"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "rff_three_skills": {
+      "canonical": "What are three skills you have that will help you in your future career",
+      "column_variants": [
+        "What are* three skills* you have that will help you in your future career."
+      ],
+      "search_in": [
+        "Mentee Data Evaluation .xlsx"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "hope_to_gain": {
+      "canonical": "Hope to Gain",
+      "column_variants": ["Hope to Gain"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "hope_to_gain_text": {
+      "canonical": "What do you hope to gain by going through this program",
+      "column_variants": [
+        "Hope to Gain"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "smart_goal": {
+      "canonical": "SMART GOAL",
+      "column_variants": [
+        "SMART GOAL",
+        "*Set your SMART Goal!*"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "Mentee Data Evaluation .xlsx"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "smart_goal_next_round": {
+      "canonical": "Remember the SMART Goal you set - next round",
+      "column_variants": [
+        "{{field:11bc43a3-b3e1-4849-8103-31f85ea25be4}}, remember the SMART Goal you set? Let's set a *SMART goal* for this next Internship Round. ",
+        "{{field:11bc43a3-b3e1-4849-8103-31f85ea25be4}}, remember the SMART Goal you set? Let's set a *SMART goal* for this next Internship Round. .1"
+      ],
+      "search_in": [
+        "SPEAKHIRE FY Internship Round Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "know_how_to_pursue_careers": {
+      "canonical": "Know How To Pursue Careers",
+      "column_variants": ["Know How To Pursue Careers"],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "feel_more_prepared_career": {
+      "canonical": "I feel more prepared for my future career",
+      "column_variants": [
+        "I feel *more prepared* for my future career.",
+        "I feel *more prepared* for my future career..1"
+      ],
+      "search_in": [
+        "SPEAKHIRE FY Internship Round Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "ideal_future_career": {
+      "canonical": "If you do not have a job, what is your ideal future career job",
+      "column_variants": [
+        "If you do not have a job *what is your ideal future career job*?"
+      ],
+      "search_in": [
+        "Mentee Data Evaluation .xlsx"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "feel_ready_college": {
+      "canonical": "I feel ready and prepared for college",
+      "column_variants": [
+        "I feel *ready and prepared* for college."
+      ],
+      "search_in": [
+        "SPEAKHIRE FY Internship Round Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "fy1_feel_college_ready": {
+      "canonical": "FY1 Feel College Ready and Prepped",
+      "column_variants": [
+        "FY1 - Feel College Ready and Prepped"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "stronger_candidate": {
+      "canonical": "I feel I am now a stronger candidate for college and careers",
+      "column_variants": [
+        "I feel I am now a *stronger candidate* for college and careers"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "more_prepared_college": {
+      "canonical": "I feel I am now more prepared for college",
+      "column_variants": [
+        "I feel I am now *more prepared for college*"
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "fy_realize_career_goals": {
+      "canonical": "FY helped realize doing well connects to my career goals",
+      "column_variants": [
+        "The Foundational Year helped me realize that *doing well in school connects to my future career goals* "
+      ],
+      "search_in": [
+        "SPEAKHIRE Foundational Year Exit Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "speaker_inspired": {
+      "canonical": "The Speaker inspired me to think more about my future career",
+      "column_variants": [
+        "The Speaker inspired me to think more about my future career"
+      ],
+      "search_in": [
+        "SPEAKHIRE Seminars Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "speaker_career_pathway": {
+      "canonical": "The Speaker helped me think about my future career pathway",
+      "column_variants": [
+        "The Speaker helped me think more about my future career pathway and what I need to do to reach my goals"
+      ],
+      "search_in": [
+        "SPEAKHIRE Seminars Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "speaker_role_model": {
+      "canonical": "The Speaker was a relatable role model",
+      "column_variants": [
+        "The Speaker was someone I could relate to, a visible role model who makes me realize I can also be a future career leader"
+      ],
+      "search_in": [
+        "SPEAKHIRE Seminars Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "topic_inspired": {
+      "canonical": "The topic inspired me to think more about my future career",
+      "column_variants": [
+        "The topic inspired me to think more about my future career"
+      ],
+      "search_in": [
+        "SPEAKHIRE Seminars Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "topic_career_pathway": {
+      "canonical": "The topic helped me think about my future career pathway",
+      "column_variants": [
+        "The topic helped me think more about my future career pathway and what I need to do to reach my goals"
+      ],
+      "search_in": [
+        "SPEAKHIRE Seminars Survey.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    }
+  },
+
+  "CR": {
+    "c1_ever_volunteered": {
+      "canonical": "FY1 - Ever Volunteered?",
+      "column_variants": [
+        "FY1 - Ever Volunteered?",
+        "FY1_Ever_Volunteered"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "c1_hours_volunteered": {
+      "canonical": "FY1 - Hours Volunteered",
+      "column_variants": [
+        "FY1 - Hours Volunteered",
+        "FY1_Hours_Volunteered"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "c1_had_internship": {
+      "canonical": "FY1 - Had Internship?",
+      "column_variants": [
+        "FY1 - Had Internship?",
+        "Mentee_Had_Internship"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "c1_had_job": {
+      "canonical": "FY1 - Had/Have Job?",
+      "column_variants": [
+        "FY1 - Had/Have Job?",
+        "Mentee_Had_Job"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "c2_total_sessions": {
+      "canonical": "Total Sessions Attended",
+      "column_variants": [
+        "Total Sessions Attended",
+        "Total_Sessions_Attended"
+      ],
+      "search_in": [
+        "Interns_20260512T143927-0400.csv",
+        "Hub Interns (2).csv",
+        "FULL SpeakHire Database 2026.xlsx"
+      ],
+      "required": true,
+      "multi_row": false
+    },
+    "c2_sessions_scheduled": {
+      "canonical": "Total Sessions Scheduled",
+      "column_variants": ["Total Sessions Scheduled", "Total_Sessions_Scheduled"],
+      "search_in": ["Interns_20260512T143927-0400.csv", "Hub Interns (2).csv"],
+      "required": true,
+      "multi_row": false
+    },
+    "c2_connected_champion": {
+      "canonical": "Connected Champions",
+      "column_variants": [
+        "Connected Champions",
+        "Connected Champion",
+        "Connected_Champions"
+      ],
+      "search_in": [
+        "FULL SpeakHire Database 2026.xlsx",
+        "Interns_20260512T143927-0400.csv"
+      ],
+      "required": false,
+      "multi_row": false
+    },
+    "c3_skill_covered": {
+      "canonical": "CPC What skill did you cover",
+      "column_variants": ["What skill did you cover?"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "c3_component_skill": {
+      "canonical": "CPC What component skill did you cover",
+      "column_variants": ["What component skill did you cover?"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "c3_discussion_topics": {
+      "canonical": "CPC Discussion topics",
+      "column_variants": ["What were some things you discussed?"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "c3_why": {
+      "canonical": "CPC Why",
+      "column_variants": ["Why?"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "c4_resume_additions": {
+      "canonical": "CPC Resume additions",
+      "column_variants": ["We added the following to the Intern resume:"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "c3_anything_else": {
+      "canonical": "CPC Anything else",
+      "column_variants": ["Anything else you'd like to share?"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "cpc_session_count": {
+      "canonical": "CPC Session Count",
+      "column_variants": ["__session_count__"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "cpc_all_session_text": {
+      "canonical": "CPC All Session Text",
+      "column_variants": ["__all_session_text__"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    },
+    "cpc_resume_text": {
+      "canonical": "CPC Resume Text",
+      "column_variants": ["__resume_text__"],
+      "search_in": ["Internship Session Feedback (Responses).xlsx"],
+      "required": false,
+      "multi_row": true
+    }
+  }
+}

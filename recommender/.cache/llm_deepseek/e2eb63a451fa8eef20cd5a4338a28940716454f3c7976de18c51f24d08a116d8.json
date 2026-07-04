@@ -1,0 +1,38 @@
+{
+  "accepted": true,
+  "chosen_function": "social-service",
+  "chosen_subdomain": "youth-support",
+  "confidence": 0.65,
+  "evidence_spans": [
+    {
+      "section": "VOLUNTEER EXPERIENCE",
+      "text": "Lead and mentor middle and high school students through faith-based programs."
+    },
+    {
+      "section": "VOLUNTEER EXPERIENCE",
+      "text": "Plan activities, retreats, service projects, and community outreach initiatives."
+    }
+  ],
+  "goal_domains": [
+    "social-service",
+    "education"
+  ],
+  "goal_roles": [
+    "Youth Ministry Leader"
+  ],
+  "goal_subdomains": [
+    "youth-support",
+    "community-support"
+  ],
+  "reason_codes": [
+    "volunteer leadership in youth ministry",
+    "community outreach focus",
+    "high school diploma only"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "education"
+  ],
+  "study_subdomains": []
+}

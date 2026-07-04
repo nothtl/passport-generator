@@ -1,0 +1,23 @@
+{
+  "student_name": "Francis Calderon",
+  "sources_found": [
+    "resume"
+  ],
+  "resume": {
+    "raw_text": "=== aylin_calderon_resume.pdf ===\nAylin Calderon\n\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com\n\nEDUCATION\n\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n\nWork Experience\nLittle Pulp Arts Center, Glendale, NY\n\nIntern\n\n- Helped children learn to paint\n- Cleaned exhibits\n- Painted posters\n\nBabysitter & Pet Sitter:\n-cooked meals\n-played games with the children\n-Supervised children\n-fed and took care of their cat\n\nEXTRACURRICULAR ACTIVITIES\nFlushing International High School Dance lessons\n\nSKILLS\n\n- Goodteamplayer\n- Abilitytomultitaskandcompleteprojectsontime\n- Abilitytolearnquickly\n-    Bilingual:SpanishandEnglish\n- Typingskills\n\nHOBBIES & INTERESTS\n\n- Playingsoccer\n- Graphicdesigning\n- Videogaming\n\nSpring 2022\n\nSummer 2020\n\n\f",
+    "sections": {
+      "experience": "Little Pulp Arts Center, Glendale, NY\n\nIntern\n\n- Helped children learn to paint\n- Cleaned exhibits\n- Painted posters\n\nBabysitter & Pet Sitter:\n-cooked meals\n-played games with the children\n-Supervised children\n-fed and took care of their cat",
+      "education": "- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023",
+      "skills": "- Goodteamplayer\n- Abilitytomultitaskandcompleteprojectsontime\n- Abilitytolearnquickly\n-    Bilingual:SpanishandEnglish\n- Typingskills",
+      "leadership": "Flushing International High School Dance lessons",
+      "contact": {
+        "email": "calderonaylin700@gmail.com",
+        "phone": "347-771-0470",
+        "github_url": null,
+        "linkedin_url": null
+      }
+    }
+  },
+  "linkedin": null,
+  "github": null
+}

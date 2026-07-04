@@ -1,0 +1,1934 @@
+{
+  "name": "Ismatu Barry",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2027,
+  "source_files": [
+    "Ismatu Barry - Resume.pdf",
+    "Ismatu Barry - LinkedIn.md"
+  ],
+  "skills": [
+    "Instructing",
+    "Education and Training",
+    "Coordination",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Monitoring",
+    "Administrative",
+    "Time Management",
+    "Judgment and Decision Making",
+    "Administration and Management",
+    "Writing",
+    "Communications and Media",
+    "Public Safety and Security",
+    "Customer and Personal Service",
+    "Foreign Language",
+    "Reading Comprehension",
+    "Speaking",
+    "Active Listening",
+    "Operations Monitoring",
+    "Complex Problem Solving",
+    "Persuasion",
+    "Quality Control Analysis",
+    "Computers and Electronics"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Support teachers with classroom instruction and lesson preparation. Provide one-on-one and small group assistance to students",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Support teachers with classroom instruction and lesson preparation",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "lesson preparation. Managed staff schedules, coordinated meetings. Teamwork & Communication",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Provide one-on-one and small group assistance to students. Provided clerical support to administrators and faculty. delivering professional support",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Provide one-on-one and small group assistance to students to enhance learning outcomes",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Maintain a safe, structured, and inclusive classroom environment. Monitor student behavior. Supervised students. Monitored building access. Conducted regular patrols. Attention to Detail",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Assist with administrative duties such as attendance tracking and material organization. maintained organized records. Prepared reports, correspondence, and materials. Provided clerical support. Documented daily activities and security reports. Time Management & Organization",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "material organization. Managed staff schedules. Time Management & Organization",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "reinforce school policies and expectations. Maintained strict confidentiality when handling sensitive legal information. Responded to incidents and emergencies following established procedures",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Managed staff schedules, coordinated meetings",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Prepared reports, correspondence, and materials. Documented daily activities and security reports. Translated legal, immigration, and official documents. Microsoft Office Suite (Word)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Prepared correspondence. Acted as a point of contact. Interpreted conversations to ensure accurate communication. Facilitated communication. Multilingual Communication. Teamwork & Communication. Microsoft Office Suite (PowerPoint)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Supervised students during lunch periods and hallway transitions to ensure safety. Monitored building access and verified identification. Conducted regular patrols to ensure safety. Responded to incidents and emergencies",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Acted as a point of contact for students, staff, and visitors, delivering professional support",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Translated legal, immigration, and official documents between English, French, and Fulani. Interpreted conversations between attorneys and clients. Facilitated communication in confidential legal and administrative contexts. Multilingual Communication (Fulani, French, English)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "Translated legal, immigration, and official documents",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Interpreted conversations. Public Speaking & Presentations. Multilingual Communication",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Interpreted conversations between attorneys and clients",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "Monitored building access and verified identification to maintain security protocols",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "Responded to incidents and emergencies",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Public Speaking & Presentations",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Attention to Detail",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Microsoft Office Suite (Word, Excel, PowerPoint)",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "11-3021.00",
+      "title": "Computer and Information Systems Managers",
+      "zone": 4,
+      "pct": 91.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Writing",
+        "Complex Problem Solving",
+        "Coordination",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "43-6014.00",
+      "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "zone": 2,
+      "pct": 90.6,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Speaking",
+        "Reading Comprehension",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Writing",
+        "Service Orientation",
+        "Time Management",
+        "Administration and Management",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "43-5032.00",
+      "title": "Dispatchers, Except Police, Fire, and Ambulance",
+      "zone": 2,
+      "pct": 84.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Active Listening",
+        "Speaking",
+        "Monitoring",
+        "Coordination",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Time Management",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 84.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Public Safety and Security",
+        "Speaking",
+        "Coordination",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 84.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "39-2021.00",
+      "title": "Animal Caretakers",
+      "zone": 2,
+      "pct": 84.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Monitoring",
+        "Active Listening",
+        "Reading Comprehension",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "43-1011.00",
+      "title": "First-Line Supervisors of Office and Administrative Support Workers",
+      "zone": 3,
+      "pct": 84.1,
+      "matched_skills": [
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Monitoring",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Writing",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "51-2022.00",
+      "title": "Electrical and Electronic Equipment Assemblers",
+      "zone": 2,
+      "pct": 83.7,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Active Listening",
+        "Coordination",
+        "Speaking",
+        "Writing",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "11-9031.00",
+      "title": "Education and Childcare Administrators, Preschool and Daycare",
+      "zone": 4,
+      "pct": 83.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Active Listening",
+        "Monitoring",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Complex Problem Solving",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "11-9121.01",
+      "title": "Clinical Research Coordinators",
+      "zone": 4,
+      "pct": 83.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension",
+        "Writing",
+        "Speaking",
+        "Coordination",
+        "Administrative",
+        "Monitoring",
+        "Complex Problem Solving",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 83.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 83.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 83.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Active Listening",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-9032.00",
+      "title": "Recreation Workers",
+      "zone": 4,
+      "pct": 83.6,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Monitoring",
+        "Instructing",
+        "Customer and Personal Service",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "47-2141.00",
+      "title": "Painters, Construction and Maintenance",
+      "zone": 2,
+      "pct": 82.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Time Management",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Public Safety and Security",
+        "Reading Comprehension",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "13-1121.00",
+      "title": "Meeting, Convention, and Event Planners",
+      "zone": 4,
+      "pct": 82.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management",
+        "Communications and Media",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "39-5092.00",
+      "title": "Manicurists and Pedicurists",
+      "zone": 2,
+      "pct": 82.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Reading Comprehension",
+        "Coordination",
+        "Time Management",
+        "Monitoring",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "13-1111.00",
+      "title": "Management Analysts",
+      "zone": 4,
+      "pct": 82.1,
+      "matched_skills": [
+        "Administration and Management",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-1012.00",
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "zone": 4,
+      "pct": 81.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Administration and Management",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Time Management",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "39-9011.01",
+      "title": "Nannies",
+      "zone": 2,
+      "pct": 81.3,
+      "matched_skills": [
+        "Active Listening",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Judgment and Decision Making",
+        "Persuasion",
+        "Customer and Personal Service",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "27-3041.00",
+      "title": "Editors",
+      "zone": 4,
+      "pct": 81.3,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Communications and Media",
+        "Writing",
+        "Active Listening",
+        "Speaking",
+        "Time Management",
+        "Administration and Management",
+        "Administrative",
+        "Quality Control Analysis",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "31-1121.00",
+      "title": "Home Health Aides",
+      "zone": 2,
+      "pct": 81.1,
+      "matched_skills": [
+        "Active Listening",
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Instructing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "29-2034.00",
+      "title": "Radiologic Technologists and Technicians",
+      "zone": 3,
+      "pct": 81.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Reading Comprehension",
+        "Speaking",
+        "Service Orientation",
+        "Administrative",
+        "Education and Training",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "53-6061.00",
+      "title": "Passenger Attendants",
+      "zone": 2,
+      "pct": 80.6,
+      "matched_skills": [
+        "Service Orientation",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Reading Comprehension",
+        "Coordination",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "27-3092.00",
+      "title": "Court Reporters and Simultaneous Captioners",
+      "zone": 3,
+      "pct": 80.0,
+      "matched_skills": [
+        "Administrative",
+        "Computers and Electronics",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Writing",
+        "Reading Comprehension",
+        "Administration and Management",
+        "Communications and Media",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "41-9041.00",
+      "title": "Telemarketers",
+      "zone": 2,
+      "pct": 79.1,
+      "matched_skills": [
+        "Speaking",
+        "Persuasion",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 76.8,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Monitoring",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "51-9151.00",
+      "title": "Photographic Process Workers and Processing Machine Operators",
+      "zone": 2,
+      "pct": 76.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Operations Monitoring",
+        "Active Listening",
+        "Quality Control Analysis",
+        "Reading Comprehension",
+        "Speaking",
+        "Service Orientation",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "31-1131.00",
+      "title": "Nursing Assistants",
+      "zone": 3,
+      "pct": 76.6,
+      "matched_skills": [
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Monitoring",
+        "Public Safety and Security",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 76.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Administrative",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 76.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Education and Training",
+        "Active Listening",
+        "Reading Comprehension",
+        "Writing",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 76.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "Reading Comprehension",
+        "Service Orientation",
+        "Education and Training",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "45-2011.00",
+      "title": "Agricultural Inspectors",
+      "zone": 2,
+      "pct": 76.0,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Active Listening",
+        "Monitoring",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "51-6051.00",
+      "title": "Sewers, Hand",
+      "zone": 2,
+      "pct": 75.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Complex Problem Solving",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 75.8,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 75.7,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Instructing",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "13-1199.05",
+      "title": "Sustainability Specialists",
+      "zone": 4,
+      "pct": 75.6,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Active Listening",
+        "Administration and Management",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Monitoring",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "35-2021.00",
+      "title": "Food Preparation Workers",
+      "zone": 2,
+      "pct": 75.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Time Management",
+        "Speaking",
+        "Coordination",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 75.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "53-7065.00",
+      "title": "Stockers and Order Fillers",
+      "zone": 2,
+      "pct": 75.5,
+      "matched_skills": [
+        "Active Listening",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Monitoring",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Coordination",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "27-2022.00",
+      "title": "Coaches and Scouts",
+      "zone": 4,
+      "pct": 75.5,
+      "matched_skills": [
+        "Instructing",
+        "Speaking",
+        "Monitoring",
+        "Active Listening",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "35-3031.00",
+      "title": "Waiters and Waitresses",
+      "zone": 2,
+      "pct": 75.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Coordination",
+        "Monitoring",
+        "Reading Comprehension",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "41-9012.00",
+      "title": "Models",
+      "zone": 2,
+      "pct": 75.3,
+      "matched_skills": [
+        "Social Perceptiveness",
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Coordination",
+        "Reading Comprehension",
+        "Time Management",
+        "Judgment and Decision Making",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "27-2012.03",
+      "title": "Media Programming Directors",
+      "zone": 4,
+      "pct": 75.3,
+      "matched_skills": [
+        "Communications and Media",
+        "Computers and Electronics",
+        "Speaking",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 75.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Administrative",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Education and Training",
+        "Service Orientation",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "19-1032.00",
+      "title": "Foresters",
+      "zone": 4,
+      "pct": 75.2,
+      "matched_skills": [
+        "Active Listening",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Speaking",
+        "Complex Problem Solving",
+        "Administration and Management",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "21-1021.00",
+      "title": "Child, Family, and School Social Workers",
+      "zone": 4,
+      "pct": 75.2,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Monitoring",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "29-1128.00",
+      "title": "Exercise Physiologists",
+      "zone": 4,
+      "pct": 75.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Instructing",
+        "Writing",
+        "Education and Training",
+        "Monitoring",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "33-9032.00",
+      "title": "Security Guards",
+      "zone": 2,
+      "pct": 75.1,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Education and Training",
+        "Active Listening",
+        "Administrative",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 75.1,
+      "matched_skills": [
+        "Speaking",
+        "Instructing",
+        "Education and Training",
+        "Active Listening",
+        "Monitoring",
+        "Reading Comprehension",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "35-2011.00",
+      "title": "Cooks, Fast Food",
+      "zone": 2,
+      "pct": 75.0,
+      "matched_skills": [
+        "Administration and Management",
+        "Communications and Media",
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Active Listening",
+        "Service Orientation",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "21-1015.00",
+      "title": "Rehabilitation Counselors",
+      "zone": 4,
+      "pct": 74.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Monitoring",
+        "Administrative",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "15-1299.03",
+      "title": "Document Management Specialists",
+      "zone": 4,
+      "pct": 74.7,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Active Listening",
+        "Writing",
+        "Monitoring",
+        "Complex Problem Solving",
+        "Customer and Personal Service",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 74.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Active Listening",
+        "Reading Comprehension",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 74.7,
+      "matched_skills": [
+        "Monitoring",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "37-1011.00",
+      "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "zone": 2,
+      "pct": 74.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Education and Training",
+        "Public Safety and Security",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "51-9031.00",
+      "title": "Cutters and Trimmers, Hand",
+      "zone": 2,
+      "pct": 74.6,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Time Management",
+        "Monitoring",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "25-3031.00",
+      "title": "Substitute Teachers, Short-Term",
+      "zone": 4,
+      "pct": 74.4,
+      "matched_skills": [
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Instructing",
+        "Education and Training",
+        "Public Safety and Security",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "29-2035.00",
+      "title": "Magnetic Resonance Imaging Technologists",
+      "zone": 3,
+      "pct": 74.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Active Listening",
+        "Monitoring",
+        "Computers and Electronics",
+        "Speaking",
+        "Operations Monitoring",
+        "Public Safety and Security",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "15-1299.01",
+      "title": "Web Administrators",
+      "zone": 4,
+      "pct": 74.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Communications and Media",
+        "Reading Comprehension",
+        "Active Listening",
+        "Complex Problem Solving",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "29-2031.00",
+      "title": "Cardiovascular Technologists and Technicians",
+      "zone": 3,
+      "pct": 74.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Operations Monitoring",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Computers and Electronics",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 74.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 73.8,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Complex Problem Solving",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "33-3041.00",
+      "title": "Parking Enforcement Workers",
+      "zone": 2,
+      "pct": 73.8,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Monitoring",
+        "Speaking",
+        "Computers and Electronics",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Reading Comprehension",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "25-2058.00",
+      "title": "Special Education Teachers, Secondary School",
+      "zone": 4,
+      "pct": 73.8,
+      "matched_skills": [
+        "Education and Training",
+        "Instructing",
+        "Reading Comprehension",
+        "Speaking",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 73.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Reading Comprehension",
+        "Complex Problem Solving",
+        "Writing",
+        "Computers and Electronics",
+        "Administrative",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 72.0,
+      "matched_skills": [
+        "Active Listening",
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination",
+        "Customer and Personal Service",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 67.9,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "19-4051.02",
+      "title": "Nuclear Monitoring Technicians",
+      "zone": 3,
+      "pct": 67.8,
+      "matched_skills": [
+        "Active Listening",
+        "Monitoring",
+        "Reading Comprehension",
+        "Operations Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Instructing",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 67.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Social Perceptiveness",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 67.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Education and Training",
+        "Active Listening",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "15-1253.00",
+      "title": "Software Quality Assurance Analysts and Testers",
+      "zone": 4,
+      "pct": 67.5,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Monitoring",
+        "Complex Problem Solving",
+        "Quality Control Analysis"
+      ]
+    },
+    {
+      "soc": "19-5011.00",
+      "title": "Occupational Health and Safety Specialists",
+      "zone": 4,
+      "pct": 66.9,
+      "matched_skills": [
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Education and Training",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "47-4041.00",
+      "title": "Hazardous Materials Removal Workers",
+      "zone": 3,
+      "pct": 66.5,
+      "matched_skills": [
+        "Monitoring",
+        "Public Safety and Security",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Operations Monitoring",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-2111.00",
+      "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "zone": 4,
+      "pct": 66.4,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Active Listening",
+        "Writing",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Speaking",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "zone": 3,
+      "pct": 66.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 66.3,
+      "matched_skills": [
+        "Administrative",
+        "Writing",
+        "Computers and Electronics",
+        "Active Listening",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 65.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "Monitoring",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 64.7,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Monitoring",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "49-9052.00",
+      "title": "Telecommunications Line Installers and Repairers",
+      "zone": 2,
+      "pct": 64.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Computers and Electronics",
+        "Education and Training",
+        "Communications and Media",
+        "Speaking",
+        "Complex Problem Solving",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "49-2098.00",
+      "title": "Security and Fire Alarm Systems Installers",
+      "zone": 3,
+      "pct": 59.1,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Speaking",
+        "Active Listening",
+        "Reading Comprehension",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "45-2092.00",
+      "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "zone": 2,
+      "pct": 58.8,
+      "matched_skills": [
+        "Speaking",
+        "Operations Monitoring",
+        "Active Listening",
+        "Monitoring",
+        "Reading Comprehension",
+        "Writing",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 58.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Coordination",
+        "Monitoring",
+        "Speaking",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "17-2112.02",
+      "title": "Validation Engineers",
+      "zone": 4,
+      "pct": 57.9,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Active Listening",
+        "Monitoring",
+        "Complex Problem Solving",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "17-2151.00",
+      "title": "Mining and Geological Engineers, Including Mining Safety Engineers",
+      "zone": 4,
+      "pct": 57.6,
+      "matched_skills": [
+        "Complex Problem Solving",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Judgment and Decision Making",
+        "Active Listening",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 57.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 18,
+      "title": "Residence Program Specialist",
+      "company": "Human First, Inc.",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4006327",
+      "match_score": 70,
+      "embed_sim": 0.4441209137439728,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Ismatu Barry's resume shows relevant experience in educational and administrative roles, along with strong interpersonal and multilingual communication skills that align well with the Residence Program Specialist role. However, there are gaps in specific experience with individuals with disabilities, crisis intervention, and direct care responsibilities typically required for this position.",
+        "strengths": [
+          "Strong educational background in Political Science and Public Administration with a high GPA and Dean's List recognition.",
+          "Experience as a paraprofessional supporting teachers and students, indicating the ability to work with diverse populations.",
+          "Administrative experience that includes managing schedules and maintaining organized records, relevant to the documentation aspect of the Specialist role.",
+          "Multilingual abilities in English, French, and Fulani, which could enhance communication with a diverse clientele.",
+          "Proven skills in teamwork, communication, and attention to detail, essential for effective collaboration in a residential environment."
+        ],
+        "gaps": [
+          "Limited direct experience in specialized roles supporting individuals with developmental disabilities.",
+          "No specific experience documented in crisis management or emergency response, which are critical for the position.",
+          "Lack of evidence for handling activities of daily living (ADLs) or personal care tasks, which are key responsibilities of the role.",
+          "No indication of experience with medication administration or training as Approved Medication Administration Personnel (AMAP)."
+        ]
+      },
+      "blended_score": 66
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 23,
+      "title": "Hospitality Center Staff Lakeview Correctional Facility (Customer Service, PT Saturdays/Sundays 8:30am-1:30pm)",
+      "company": "Osborne Association",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1820752",
+      "match_score": 76,
+      "embed_sim": 0.42991936206817627,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 0,
+      "why": {
+        "verdict": "solid",
+        "match_score": 76,
+        "summary": "Ismatu Barry's background in education and administrative support illustrates a strong foundation in communication and organizational skills that fit the requirements of the Hospitality Center Staff position. While there is a good alignment with customer service experience, direct experience in correctional facility settings is lacking.",
+        "strengths": [
+          "Strong educational background in political science and public administration, indicating a solid understanding of social justice principles.",
+          "Experience as a paraprofessional which demonstrates ability to interact with a diverse population and support individuals in a challenging environment.",
+          "Previous role as an administrative assistant shows ability to manage schedules, records, and communication effectively, relevant to the responsibilities of the Hospitality Center Staff."
+        ],
+        "gaps": [
+          "No direct experience working in a correctional facility or similar environment, which may be crucial for this role.",
+          "Limited evidence of responding to emergencies or handling safety protocols in a correctional context, which is an essential duty for the position.",
+          "While some customer service experience is implied, specific experience dealing with visitors in a correctional setting is not present."
+        ]
+      },
+      "blended_score": 61
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 10,
+      "title": "Operation & Administrative Associate",
+      "company": "University of Chicago",
+      "url": "https://uchicago.wd5.myworkdayjobs.com/job/Hyde-Park-Campus/Operation---Administrative-Associate_JR33538",
+      "match_score": 65,
+      "embed_sim": 0.4334421455860138,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has relevant administrative and support experience, but lacks specific experience in higher education environments and some technical requirements outlined in the job description.",
+        "strengths": [
+          "Strong administrative support experience through roles as Administrative Assistant and Paraprofessional",
+          "Multilingual communication skills which could facilitate diverse stakeholder interactions",
+          "Ability to maintain organized systems and track records, relevant for management of departmental files and inventory",
+          "Experience in managing schedules and coordinating logistics",
+          "Good GPA and academic background in Political Science, showing capability for structured thinking"
+        ],
+        "gaps": [
+          "Lack of 5-7 years of relevant work experience as required by the job description",
+          "No specific experience related to higher education protocols (e.g., visa/academic appointment documentation)",
+          "No familiarity with coding languages or technologies mentioned (R, Claude Code)",
+          "Limited evidence of event planning experience and managing guest logistics based on past roles",
+          "Missing experience with specific software mentioned (Asana, Slack, Google Suite)"
+        ]
+      },
+      "blended_score": 58
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 16,
+      "title": "Administrative Assistant - Atlanta, GA",
+      "company": "Rimkus Consulting Group",
+      "url": "https://apply.workable.com/j/A5F58FFB22",
+      "match_score": 75,
+      "embed_sim": 0.42116838693618774,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant administrative experience and skills that align with the job requirements for the Administrative Assistant position at Rimkus. However, they lack the specific three years of experience in an administrative capacity and experience in the legal, construction, or insurance industries, which are preferred for this role.",
+        "strengths": [
+          "Experience as an Administrative Assistant managing schedules and organizing records",
+          "Proficiency in preparing reports and correspondence which is essential for the role",
+          "Strong multilingual communication skills which enhance client interaction",
+          "High attention to detail and organization skills, as evidenced by maintaining structured classroom environments and administrative support roles"
+        ],
+        "gaps": [
+          "Lacks the minimum required three years of administrative experience",
+          "Does not have specific experience in the legal, construction, or insurance industries",
+          "No demonstrable experience with technical software or database programs mentioned (e.g., SharePoint)"
+        ]
+      },
+      "blended_score": 56
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 12,
+      "title": "Student Assistant",
+      "company": "The New School",
+      "url": "https://newschool.wd1.myworkdayjobs.com/job/L---2-West-13th-Street/Student-Assistant_JR108560",
+      "match_score": 75,
+      "embed_sim": 0.4203910529613495,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant experience in assisting and supporting roles, demonstrating customer service skills and attention to detail. However, there are gaps in specific qualifications such as familiarity with Google Suite, and the physical requirements related to lifting items are not addressed in the resume.",
+        "strengths": [
+          "Strong educational background in political science and public administration",
+          "Experience as a paraprofessional, providing assistance and support in an educational setting",
+          "Demonstrated attention to detail and organizational skills through administrative roles",
+          "Multilingual skills may enhance communication with a diverse group of students and faculty"
+        ],
+        "gaps": [
+          "No explicit mention of Google Suite familiarity",
+          "No evidence of customer service experience in retail or shop environments",
+          "Physical ability to lift items is not addressed",
+          "Experience does not directly relate to maintaining labs or studios, as required by the job description"
+        ]
+      },
+      "blended_score": 55
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 20,
+      "title": "Administrative Assistant, Legal & People",
+      "company": "Socure",
+      "url": "https://jobs.ashbyhq.com/socure/60d16bf4-2096-4312-adc0-d3d11352272f",
+      "match_score": 65,
+      "embed_sim": 0.4285593032836914,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 4,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "While the candidate demonstrates relevant administrative skills, experience in a highly regulated industry and familiarity with compliance and licensing processes are lacking.",
+        "strengths": [
+          "Strong organizational skills evidenced by managing staff schedules and records in previous roles.",
+          "Experience working with sensitive information as a translator and interpreter.",
+          "Capable of maintaining accurate records and quality control in administrative tasks.",
+          "High GPA indicates strong attention to detail and work ethic."
+        ],
+        "gaps": [
+          "No direct experience in legal, compliance, or regulatory support roles as required by the job description.",
+          "Lack of familiarity with multi-state licensing processes and the specific regulatory environment.",
+          "No evidence of proficiency in Google Workspace or AI tools, which are specifically mentioned in the job requirements."
+        ]
+      },
+      "blended_score": 55
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 8,
+      "title": "Administrative Support Coordinator II, College of Engineering Technology",
+      "company": "Rochester Institute of Technology (RIT)",
+      "url": "https://rit.wd12.myworkdayjobs.com/job/Rochester-NY/Administrative-Support-Coordinator-II--College-of-Engineering-Technology_JR102030",
+      "match_score": 75,
+      "embed_sim": 0.4155619740486145,
+      "verdict": "solid",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 0,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant administrative experience and demonstrates strong organizational skills, which align well with the requirements of the Administrative Support Coordinator position. However, they lack the overall experience and specific knowledge of HR practices and financial record-keeping processes that are emphasized in the job description.",
+        "strengths": [
+          "Experience as an Administrative Assistant managing schedules, coordinating meetings, and maintaining organized records.",
+          "Strong communication skills demonstrated through roles that required interfacing with students, faculty, and visitors.",
+          "Academic background in Political Science and Public Administration which supports understanding of administrative processes.",
+          "Experience in handling confidential information as a Translator & Interpreter, ensuring compliance with legal standards."
+        ],
+        "gaps": [
+          "No specific experience mentioned in HR-related functions such as onboarding or payroll processing.",
+          "Lacks detailed experience in financial record-keeping, processing invoices, and monitoring budgets as required by the job.",
+          "Minimal direct experience with managing office supplies and inventory tracking, which is a key aspect of the job.",
+          "Limited time in roles that involve comprehensive operational support for departments compared to the 3 years of relevant experience typically desired."
+        ]
+      },
+      "blended_score": 53
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 3,
+      "title": "Front Office Representative",
+      "company": "AlphabeInsightInc",
+      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000132767889",
+      "match_score": 75,
+      "embed_sim": 0.41170018911361694,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant experience in administrative roles and possesses strong interpersonal skills, making them a good fit for the Front Office Representative position. However, there are some areas that may require further development or specific experience that are not highlighted in the resume.",
+        "strengths": [
+          "Experience as an Administrative Assistant managing staff schedules and maintaining organized records, directly relevant to the role's responsibilities.",
+          "Skills in multilingual communication which can enhance customer interaction and service quality.",
+          "Demonstrated ability to provide professional support and maintain confidentiality, aligning with the organization's commitment to positive experiences.",
+          "A strong academic background with a focus on public administration which supports organizational and administrative skills."
+        ],
+        "gaps": [
+          "Does not explicitly show experience with phone management and directing inquiries, which is a key responsibility of the job.",
+          "Lacks specific mention of experience in a fast-paced environment, which is necessary for managing multiple responsibilities effectively.",
+          "No mention of direct customer service experience, which is crucial for a Front Office Representative role."
+        ]
+      },
+      "blended_score": 51
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 9,
+      "title": "Front Desk Clerk - Split 32 Hours | CAM+IRQ",
+      "company": "HomeRise",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3903630",
+      "match_score": 65,
+      "embed_sim": 0.41984322667121887,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Ismatu Barry's resume presents relevant experience in education and administrative support, showcasing skills in organization and communication. However, the absence of direct experience in residential supportive housing and specific training for the Front Desk Clerk position presents a shortfall.",
+        "strengths": [
+          "Strong academic performance in Political Science with a focus on public administration.",
+          "Experience as a paraprofessional, which demonstrates ability to support and assist individuals in need.",
+          "Multilingual abilities can enhance communication with diverse populations in a residential environment.",
+          "Experience in administrative tasks, which aligns with maintaining building records and logs."
+        ],
+        "gaps": [
+          "No direct experience in residential supportive or affordable housing property management.",
+          "Lacks specific training in conflict resolution or de-escalation techniques relevant to the position.",
+          "Limited experience working directly with issues of homelessness and recovery; this may be critical given the job's context."
+        ]
+      },
+      "blended_score": 50
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 6,
+      "title": "Front Desk Clerk - Part Time | SEN",
+      "company": "HomeRise",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3511896",
+      "match_score": 75,
+      "embed_sim": 0.4071977138519287,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 0,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate's resume demonstrates relevant experience and skills related to the Front Desk Clerk position. While there are strengths in communication and organizational skills, there are gaps in specific duties and experience directly related to hospitality or working with vulnerable populations.",
+        "strengths": [
+          "Strong experience as a paraprofessional, demonstrating ability to support and manage interactions with diverse individuals.",
+          "Experience as an Administrative Assistant, which involved handling schedules, records, and ensuring smooth operations; relevant to clerical tasks outlined in the job description.",
+          "Multilingual abilities can enhance communication with diverse residents and guests, as preferred in the job description.",
+          "Demonstrated ability to maintain security and manage situations as a security guard. This aligns with the need for monitoring building activities and responding to emergencies."
+        ],
+        "gaps": [
+          "No direct experience in hospitality or front desk roles, which may require specific customer service skills.",
+          "Lack of training or experience mentioned in de-escalation and conflict resolution, which is important for handling resident interactions and emergencies.",
+          "Limited exposure to the issues related to homelessness or recovery, which is key for this position in a supportive housing environment."
+        ]
+      },
+      "blended_score": 48
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

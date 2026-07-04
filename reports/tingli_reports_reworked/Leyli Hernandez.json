@@ -1,0 +1,766 @@
+{
+  "resume": "=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 \u2022 U.S. CITIZEN \u2022 99-22 42ND AVE, BASEMENT, CORONA, UNITED \nSTATES, 11368 \u2022 leyyhdzzz@gmail.com \u2022 (347)453-8142 \n\nLEYLI  HERNANDEZ \n\nABOUT ME \n\nMy name is Leyli Hernandez, 17 years old. I\u2019ve grown up and lived in Queens and am very \npassionate about helping my community in any way, anytime. I am constantly assisting in \nany event which has allowed me to be very engaging towards others whenever I get the \nopportunity. I love to stay physically active and always have something to do. I am always \ndown to try new things and expand my horizons. \n\nVOLUNTEERING  HISTORY \n\n\u25cf \n\n\u25cf \n\nI spend most of the weekends or afterschool hours volunteering with Elmhurst \nCommunity Partnership(ECP) which is a non-profit organization that provides free \nsports clubs, social groups, community assistance, community events and other \nactivities. \nI am also the Co-Chair of the Executive Board of another non-profit company I work \nwith called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and \nColleges to help students work on their leadership skills, career paths, and connects \nthese students with professionals based on their career interests. I am also chair to \nthe Media committee, and work with planning our monthly events to help them run \nsmoother. \n\n \n \n \n \n \n \n \n\fSKILLS \n\nTeam Leadership (Experienced), Community Engagement (Experienced), Problem Solving \n(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public \nSpeaking (Experienced). \n\nEDUCATION \n\nHIGH SCHOOL \n\n40-11 28th St, Astoria, NY 11101  \n\nCurrently a Junior Student-Athlete at Academy of American Studies High \nSchool as I am part of the Varsity Girls Flag Football team  \n\nLANGUAGES \n\nEnglish (Native), Spanish (Highly proficient).",
+  "function": "arts-media",
+  "confidence": 25,
+  "skills": [
+    "academy",
+    "afterschool",
+    "as i",
+    "career paths",
+    "community engagement",
+    "community events",
+    "ecp",
+    "engagement",
+    "engaging",
+    "flag football",
+    "football",
+    "groups",
+    "high school",
+    "history",
+    "hours",
+    "junior",
+    "languages",
+    "leadership",
+    "leadership skills",
+    "learner",
+    "management",
+    "media",
+    "media management",
+    "name",
+    "native spanish",
+    "non profit",
+    "non profit organization",
+    "organization",
+    "organized",
+    "part",
+    "passionate",
+    "physically active",
+    "problem solving",
+    "professionals",
+    "public speaking",
+    "quick learner",
+    "schools",
+    "social",
+    "social media",
+    "social media management",
+    "spanish",
+    "speaking",
+    "sports",
+    "student athlete",
+    "team leadership",
+    "u s citizen",
+    "volunteering",
+    "weekends"
+  ],
+  "verified_skills": [
+    "academy",
+    "afterschool",
+    "as i",
+    "career paths",
+    "community engagement",
+    "community events",
+    "ecp",
+    "engagement",
+    "engaging",
+    "flag football",
+    "football",
+    "groups",
+    "high school",
+    "history",
+    "hours",
+    "junior",
+    "languages",
+    "leadership",
+    "leadership skills",
+    "learner",
+    "management",
+    "media",
+    "media management",
+    "name",
+    "native spanish",
+    "non profit",
+    "non profit organization",
+    "organization",
+    "organized",
+    "part",
+    "passionate",
+    "physically active",
+    "problem solving",
+    "professionals",
+    "public speaking",
+    "quick learner",
+    "schools",
+    "social",
+    "social media",
+    "social media management",
+    "spanish",
+    "speaking",
+    "sports",
+    "student athlete",
+    "team leadership",
+    "u s citizen",
+    "volunteering",
+    "weekends"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [],
+  "skill_weights": {},
+  "market_relevant": [
+    "academy",
+    "afterschool",
+    "as i",
+    "career paths",
+    "community engagement",
+    "community events",
+    "ecp",
+    "engagement",
+    "engaging",
+    "flag football",
+    "football",
+    "groups",
+    "high school",
+    "history",
+    "hours",
+    "junior",
+    "languages",
+    "leadership",
+    "leadership skills",
+    "learner",
+    "management",
+    "media",
+    "media management",
+    "name",
+    "native spanish",
+    "non profit",
+    "non profit organization",
+    "organization",
+    "organized",
+    "part",
+    "passionate",
+    "physically active",
+    "problem solving",
+    "professionals",
+    "public speaking",
+    "quick learner",
+    "schools",
+    "social",
+    "social media",
+    "social media management",
+    "spanish",
+    "speaking",
+    "sports",
+    "student athlete",
+    "team leadership",
+    "u s citizen",
+    "volunteering",
+    "weekends"
+  ],
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
+    {
+      "skill": "afterschool",
+      "source_section": "summary",
+      "matched_text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "career paths",
+      "source_section": "summary",
+      "matched_text": "Colleges to help students work on their leadership skills, career paths, and connects",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "community events",
+      "source_section": "summary",
+      "matched_text": "sports clubs, social groups, community assistance, community events and other",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "ecp",
+      "source_section": "summary",
+      "matched_text": "Community Partnership(ECP) which is a non-profit organization that provides free",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engaging",
+      "source_section": "summary",
+      "matched_text": "any event which has allowed me to be very engaging towards others whenever I get the",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "groups",
+      "source_section": "summary",
+      "matched_text": "sports clubs, social groups, community assistance, community events and other",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "history",
+      "source_section": "summary",
+      "matched_text": "VOLUNTEERING  HISTORY",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "hours",
+      "source_section": "summary",
+      "matched_text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "leadership",
+      "source_section": "summary",
+      "matched_text": "Colleges to help students work on their leadership skills, career paths, and connects",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "leadership skills",
+      "source_section": "summary",
+      "matched_text": "Colleges to help students work on their leadership skills, career paths, and connects",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "media",
+      "source_section": "summary",
+      "matched_text": "the Media committee, and work with planning our monthly events to help them run",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "name",
+      "source_section": "summary",
+      "matched_text": "My name is Leyli Hernandez, 17 years old. I\u2019ve grown up and lived in Queens and am very",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "non profit",
+      "source_section": "summary",
+      "matched_text": "=== Leyli Hernandez - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "non profit organization",
+      "source_section": "summary",
+      "matched_text": "=== Leyli Hernandez - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organization",
+      "source_section": "summary",
+      "matched_text": "Community Partnership(ECP) which is a non-profit organization that provides free",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "passionate",
+      "source_section": "summary",
+      "matched_text": "passionate about helping my community in any way, anytime. I am constantly assisting in",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "physically active",
+      "source_section": "summary",
+      "matched_text": "opportunity. I love to stay physically active and always have something to do. I am always",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "professionals",
+      "source_section": "summary",
+      "matched_text": "these students with professionals based on their career interests. I am also chair to",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "schools",
+      "source_section": "summary",
+      "matched_text": "with called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "social",
+      "source_section": "summary",
+      "matched_text": "sports clubs, social groups, community assistance, community events and other",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "sports",
+      "source_section": "summary",
+      "matched_text": "sports clubs, social groups, community assistance, community events and other",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "u s citizen",
+      "source_section": "summary",
+      "matched_text": "=== Leyli Hernandez - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "volunteering",
+      "source_section": "summary",
+      "matched_text": "VOLUNTEERING  HISTORY",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "weekends",
+      "source_section": "summary",
+      "matched_text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "community engagement",
+      "source_section": "skills",
+      "matched_text": "Team Leadership (Experienced), Community Engagement (Experienced), Problem Solving",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engagement",
+      "source_section": "skills",
+      "matched_text": "Team Leadership (Experienced), Community Engagement (Experienced), Problem Solving",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "learner",
+      "source_section": "skills",
+      "matched_text": "(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "management",
+      "source_section": "skills",
+      "matched_text": "(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "media management",
+      "source_section": "skills",
+      "matched_text": "(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organized",
+      "source_section": "skills",
+      "matched_text": "(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "problem solving",
+      "source_section": "skills",
+      "matched_text": "Team Leadership (Experienced), Community Engagement (Experienced), Problem Solving",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "public speaking",
+      "source_section": "skills",
+      "matched_text": "Team Leadership (Experienced), Community Engagement (Experienced), Problem Solving",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "quick learner",
+      "source_section": "skills",
+      "matched_text": "(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "social media",
+      "source_section": "skills",
+      "matched_text": "(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "social media management",
+      "source_section": "skills",
+      "matched_text": "(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "speaking",
+      "source_section": "skills",
+      "matched_text": "Speaking (Experienced).",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "team leadership",
+      "source_section": "skills",
+      "matched_text": "Team Leadership (Experienced), Community Engagement (Experienced), Problem Solving",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "academy",
+      "source_section": "education",
+      "matched_text": "Currently a Junior Student-Athlete at Academy of American Studies High",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "as i",
+      "source_section": "education",
+      "matched_text": "School as I am part of the Varsity Girls Flag Football team",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "flag football",
+      "source_section": "education",
+      "matched_text": "School as I am part of the Varsity Girls Flag Football team",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "football",
+      "source_section": "education",
+      "matched_text": "School as I am part of the Varsity Girls Flag Football team",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high school",
+      "source_section": "education",
+      "matched_text": "HIGH SCHOOL",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "junior",
+      "source_section": "education",
+      "matched_text": "Currently a Junior Student-Athlete at Academy of American Studies High",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "languages",
+      "source_section": "education",
+      "matched_text": "LANGUAGES",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "native spanish",
+      "source_section": "education",
+      "matched_text": "HIGH SCHOOL",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "part",
+      "source_section": "education",
+      "matched_text": "School as I am part of the Varsity Girls Flag Football team",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "spanish",
+      "source_section": "education",
+      "matched_text": "English (Native), Spanish (Highly proficient).",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "student athlete",
+      "source_section": "education",
+      "matched_text": "HIGH SCHOOL",
+      "match_type": "vocabulary"
+    }
+  ],
+  "gaps": [
+    "communication",
+    "customer-service",
+    "training"
+  ],
+  "core_gaps": [
+    "communication",
+    "customer-service",
+    "training"
+  ],
+  "bridge_gaps": [
+    "bilingual-english-spanish",
+    "budget-control",
+    "calm-under-pressure",
+    "camp-activities",
+    "campus-publishing",
+    "coaching",
+    "content-curation",
+    "coordination",
+    "data-entry",
+    "editorial-focus"
+  ],
+  "stretch_gaps": [],
+  "nice_to_have_gaps": [
+    "bilingual-english-spanish",
+    "budget-control",
+    "calm-under-pressure",
+    "camp-activities",
+    "campus-publishing",
+    "coaching",
+    "content-curation",
+    "coordination",
+    "data-entry",
+    "editorial-focus"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "training",
+      "pmi": 4.47
+    },
+    {
+      "skill": "facebookadministration",
+      "pmi": 4.18
+    },
+    {
+      "skill": "contentpublishing",
+      "pmi": 4.18
+    },
+    {
+      "skill": "wordpressadministration",
+      "pmi": 3.96
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.37
+    },
+    {
+      "skill": "english",
+      "pmi": 3.3
+    },
+    {
+      "skill": "positiveattitude",
+      "pmi": 3.13
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 3.06
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 3.06
+    },
+    {
+      "skill": "marketingmaterials",
+      "pmi": 3.01
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "training",
+      "pmi": 4.47
+    },
+    {
+      "skill": "facebookadministration",
+      "pmi": 4.18
+    },
+    {
+      "skill": "contentpublishing",
+      "pmi": 4.18
+    },
+    {
+      "skill": "wordpressadministration",
+      "pmi": 3.96
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.37
+    },
+    {
+      "skill": "english",
+      "pmi": 3.3
+    },
+    {
+      "skill": "positiveattitude",
+      "pmi": 3.13
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 3.06
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 3.06
+    },
+    {
+      "skill": "marketingmaterials",
+      "pmi": 3.01
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 23
+    },
+    {
+      "function": "social-service",
+      "pct": 11
+    },
+    {
+      "function": "finance",
+      "pct": 5
+    },
+    {
+      "function": "sales",
+      "pct": 5
+    },
+    {
+      "function": "agriculture",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "For a arts-media path, focus first on communication, customer-service, training. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "2024-2025 Sports Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
+      "fit": 25,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "why": "multiple missing job skills",
+      "gaps": "communication, customer-service, training",
+      "job_score_breakdown": {
+        "goal_alignment": 0.214,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.278,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Greeter",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4017233",
+      "fit": 21,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "why": "multiple missing job skills",
+      "gaps": "communication, customer-service, training",
+      "job_score_breakdown": {
+        "goal_alignment": 0.214,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.154,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "New School New Books Presenter",
+      "company": "newschool",
+      "url": "https://newschool.wd1.myworkdayjobs.com/job/B---65-West-11th-Street/New-School-New-Books-Presenter_JR108748",
+      "fit": 17,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "why": "multiple missing job skills",
+      "gaps": "communication, customer-service, training",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Customer Service Lead",
+      "company": "serenity-mental-health-centers",
+      "url": "https://apply.workable.com/j/A3F5ADE23E",
+      "fit": 15,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "why": "multiple missing job skills",
+      "gaps": "communication, customer-service, training",
+      "job_score_breakdown": {
+        "goal_alignment": 0.071,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Sous Chef",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4241999",
+      "fit": 15,
+      "label": "bridge",
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "why": "multiple missing job skills",
+      "gaps": "communication, customer-service, training",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.1,
+        "quality_penalty": 0.0
+      }
+    }
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "social-service",
+      "arts-media",
+      "education"
+    ],
+    "goal_roles": [],
+    "goal_subdomains": [
+      "community-support",
+      "graphic-design"
+    ],
+    "study_domains": [
+      "education"
+    ],
+    "study_subdomains": [
+      "classroom-support"
+    ],
+    "study_program": "HIGH SCHOOL",
+    "study_level": "high-school",
+    "intent_confidence": 0.537,
+    "intent_strength": 0.737,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 \u2022 U.S. CITIZEN \u2022 99-22 42ND AVE, BASEMENT, CORONA, UNITED\nSTATES, 11368 \u2022 leyyhdzzz@gmail.com \u2022 (347)453-8142\nLEYLI  HERNANDEZ\nABOUT ME\nMy name is Leyli Hernandez, 17 years old. I\u2019ve grown up and lived in Queens and am very\npassio",
+    "study_text": "HIGH SCHOOL\n40-11 28th St, Astoria, NY 11101\nCurrently a Junior Student-Athlete at Academy of American Studies High\nSchool as I am part of the Varsity Girls Flag Football team\nLANGUAGES\nEnglish (Native), Spanish (Highly proficient)."
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "social-service": 33,
+      "arts-media": 21,
+      "education": 18
+    },
+    "study": {
+      "education": 54,
+      "logistics": 10,
+      "sales": 8
+    },
+    "classifier": {
+      "arts-media": 50,
+      "sales": 7,
+      "finance": 6
+    },
+    "onet": {
+      "education": 37,
+      "healthcare": 17,
+      "technology": 11
+    },
+    "embeddings": {},
+    "experience": {}
+  },
+  "candidate_functions": [
+    "arts-media"
+  ],
+  "subdomain": "content-creation",
+  "subdomain_confidence": 1.0,
+  "subdomain_alternatives": [],
+  "lane_used": "fast",
+  "job_cluster": [
+    "photo-video",
+    "content-creation",
+    "content-creation",
+    "content-creation",
+    "content-creation"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {},
+  "llm_trace": [],
+  "normalization_source": "deterministic"
+}

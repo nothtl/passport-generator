@@ -1,0 +1,423 @@
+{
+  "name": "Ismatu Barry",
+  "zone": 4,
+  "education_level": "bachelors",
+  "source_files": [
+    "Ismatu Barry - Resume.pdf",
+    "Ismatu Barry - LinkedIn.md"
+  ],
+  "skills": [
+    "Foreign Language",
+    "English Language",
+    "Speaking",
+    "Writing",
+    "Active Listening",
+    "Customer and Personal Service",
+    "Administrative",
+    "Coordination",
+    "Time Management",
+    "Public Safety and Security",
+    "Monitoring",
+    "Judgment and Decision Making",
+    "Instructing",
+    "Education and Training",
+    "Communications and Media",
+    "Computers and Electronics",
+    "Quality Control Analysis",
+    "Administration and Management",
+    "Reading Comprehension",
+    "Service Orientation"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Translated legal, immigration, and official documents between English, French, and Fulani. Interpreted conversations between attorneys and clients. Fulani (Native), French (Native)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Translated legal, immigration, and official documents between English, French, and Fulani. English (Fluent)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Interpreted conversations between attorneys and clients. Public Speaking & Presentations. Acted as a point of contact for students, staff, and visitors, delivering professional support.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Translated legal, immigration, and official documents. Prepared reports, correspondence, and materials. Documented daily activities and security reports accurately.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Interpreted conversations between attorneys and clients to ensure accurate communication.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Acted as a point of contact for students, staff, and visitors, delivering professional support. Provide one-on-one and small group assistance to students.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Managed staff schedules, coordinated meetings, and maintained organized records. Provided clerical support to administrators and faculty. Assist with administrative duties such as attendance tracking and material organization.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Managed staff schedules, coordinated meetings. Support teachers with classroom instruction and lesson preparation.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Managed staff schedules, coordinated meetings. Assist with administrative duties such as attendance tracking and material organization. Time Management & Organization (self-declared)",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Monitored building access and verified identification to maintain security protocols. Conducted regular patrols to ensure safety of residents and staff. Responded to incidents and emergencies. Supervised students during lunch periods and hallway transitions to ensure safety. Maintain a safe, structured, and inclusive classroom environment.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Monitored building access and verified identification. Conducted regular patrols. Monitor student behavior. Supervised students during lunch periods and hallway transitions.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "Responded to incidents and emergencies following established procedures. Maintained strict confidentiality when handling sensitive legal information. Monitor student behavior and reinforce school policies and expectations.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Support teachers with classroom instruction and lesson preparation. Provide one-on-one and small group assistance to students to enhance learning outcomes.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Support teachers with classroom instruction and lesson preparation. Provide one-on-one and small group assistance to students to enhance learning outcomes.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Acted as a point of contact for students, staff, and visitors, delivering professional support. Prepared reports, correspondence, and materials for school programs and events. Public Speaking & Presentations. Multilingual Communication.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Microsoft Office Suite (Word, Excel, PowerPoint)",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Attention to Detail (self-declared). Documented daily activities and security reports accurately. Interpreted conversations between attorneys and clients to ensure accurate communication.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Managed staff schedules, coordinated meetings. Provided clerical support to administrators and faculty.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "Translated legal, immigration, and official documents between English, French, and Fulani.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Provide one-on-one and small group assistance to students. Provided clerical support to administrators and faculty. Acted as a point of contact for students, staff, and visitors, delivering professional support.",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "43-6014.00",
+      "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "zone": 2,
+      "pct": 94.1,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Reading Comprehension",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Writing",
+        "Service Orientation",
+        "Time Management",
+        "Administration and Management",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "43-9022.00",
+      "title": "Word Processors and Typists",
+      "zone": 2,
+      "pct": 89.4,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Active Listening",
+        "Writing",
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "39-2021.00",
+      "title": "Animal Caretakers",
+      "zone": 2,
+      "pct": 88.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Monitoring",
+        "English Language",
+        "Active Listening",
+        "Reading Comprehension",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "27-3092.00",
+      "title": "Court Reporters and Simultaneous Captioners",
+      "zone": 3,
+      "pct": 86.9,
+      "matched_skills": [
+        "English Language",
+        "Administrative",
+        "Computers and Electronics",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Writing",
+        "Reading Comprehension",
+        "Administration and Management",
+        "Communications and Media",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "43-5032.00",
+      "title": "Dispatchers, Except Police, Fire, and Ambulance",
+      "zone": 2,
+      "pct": 86.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "Active Listening",
+        "Speaking",
+        "Monitoring",
+        "Coordination",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Time Management",
+        "Administrative",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "43-6012.00",
+      "title": "Legal Secretaries and Administrative Assistants",
+      "zone": 3,
+      "pct": 85.3,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Active Listening",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Writing",
+        "Speaking",
+        "Time Management",
+        "Administration and Management",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "27-3041.00",
+      "title": "Editors",
+      "zone": 4,
+      "pct": 84.5,
+      "matched_skills": [
+        "Reading Comprehension",
+        "English Language",
+        "Communications and Media",
+        "Writing",
+        "Active Listening",
+        "Speaking",
+        "Time Management",
+        "Administration and Management",
+        "Administrative",
+        "Quality Control Analysis",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "27-3091.00",
+      "title": "Interpreters and Translators",
+      "zone": 4,
+      "pct": 83.3,
+      "matched_skills": [
+        "English Language",
+        "Foreign Language",
+        "Speaking",
+        "Active Listening",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Writing",
+        "Monitoring",
+        "Education and Training",
+        "Administrative"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 17,
+      "title": "Operations Administrative Assistant (Non-Profit) - Bronx",
+      "company": "AHRC New York City",
+      "url": "https://jobs.smartrecruiters.com/AHRCNYC1/744000130079500",
+      "match_score": 85,
+      "comparisons": 17,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Ismatu Barry demonstrates strong administrative and organizational skills through her experience as an Administrative Assistant and Paraprofessional, making her a good fit for the Operations Administrative Assistant role. She has relevant experience that aligns with the job’s requirements but lacks specific experience working with individuals with developmental disabilities.",
+        "strengths": [
+          "Strong administrative skills from experience as Administrative Assistant & School Aide",
+          "Experience in providing clerical support and maintaining organized records",
+          "Ability to manage schedules and coordinate meetings effectively",
+          "Multilingual capabilities can enhance communication within diverse communities",
+          "Strong attention to detail and organizational skills demonstrated in previous roles"
+        ],
+        "gaps": [
+          "No direct experience working with individuals with developmental disabilities, which is preferred for the role",
+          "Lacks specific examples of performing recordkeeping activities related to department programs",
+          "No demonstrated experience in processing documents like invoices or petty cash as specified in the job description"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 37,
+      "title": "Front Office Representative",
+      "company": "AlphabeInsightInc",
+      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000132767889",
+      "match_score": 80,
+      "comparisons": 11,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "Ismatu Barry's resume shows a strong background in administrative support, communication skills, and customer service, which aligns well with the requirements of the Front Office Representative position. However, there are some areas where additional experience or specific qualifications related to front office operations could strengthen the fit further.",
+        "strengths": [
+          "Experience in administrative roles as an Administrative Assistant & School Aide, which included managing schedules and maintaining organized records.",
+          "Strong communication skills demonstrated through the role as a Translator & Interpreter and experience as a paraprofessional supporting students and teachers.",
+          "Attention to detail and organizational skills highlighted in various roles, making her capable of managing front desk operations effectively."
+        ],
+        "gaps": [
+          "Lacks direct front office experience managing a reception area or greeting visitors, which is a key responsibility in the job description.",
+          "No demonstrated experience handling phone inquiries or managing appointment scheduling specifically, which is crucial for the Front Office Representative role.",
+          "Needs to showcase experience in a fast-paced office environment, as the job description emphasizes the ability to multitask and prioritize effectively."
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 11,
+      "title": "Administrative Associate",
+      "company": "ssollc",
+      "url": "https://jobs.dayforcehcm.com/ssollc/CANDIDATEPORTAL/jobs/18989",
+      "match_score": 78,
+      "comparisons": 12,
+      "why": {
+        "verdict": "solid",
+        "match_score": 78,
+        "summary": "The candidate has strong administrative experience and good organizational skills that align with the role, but lacks specific experience in the healthcare or human services sectors and data management accuracy under pressure, which are important for the position.",
+        "strengths": [
+          "Experience in administrative roles and providing customer support",
+          "Skillful in communication and multitasking in fast-paced environments",
+          "Strong organizational skills and attention to detail demonstrated in past jobs",
+          "Proficiency in Microsoft Office Suite, aligning with job requirements"
+        ],
+        "gaps": [
+          "No specific experience related to government, healthcare or human services sectors",
+          "Lack of direct experience with eligibility-based programs or terminology",
+          "Limited evidence of experience handling data entry or processing applications",
+          "No mention of familiarity with collaboration tools or proprietary systems"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 16,
+      "title": "Administrative Assistant",
+      "company": "Infojini Consulting",
+      "url": "https://jobs.smartrecruiters.com/InfojiniInc1/743999659352818",
+      "match_score": 76,
+      "comparisons": 11,
+      "why": {
+        "verdict": "solid",
+        "match_score": 76,
+        "summary": "Ismatu Barry's resume shows a solid fit for the Administrative Assistant position at Infojini Inc., particularly in administrative tasks and proficiency with Microsoft Office Suite. However, there are some gaps in corporate experience and specific audit-related responsibilities.",
+        "strengths": [
+          "Experience as an Administrative Assistant with record management and report preparation.",
+          "Proficient in Microsoft Office programs (Word, Excel, PowerPoint).",
+          "Strong organizational skills demonstrated through managing staff schedules and coordinating meetings.",
+          "Maintained confidentiality in previous roles, aligning with job requirements."
+        ],
+        "gaps": [
+          "Lack of specific corporate experience mentioned in previous roles, as the roles are mainly in educational and community settings.",
+          "No direct experience with reviewing quarterly audit reports or specific compliance-related tasks.",
+          "No evidence of experience in a fast-paced corporate environment or lifting requirements."
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 3,
+      "title": "Administrative Specialist",
+      "company": "Northeastern University",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/job/Boston-MA-Main-Campus/Administrative-Specialist_R140360",
+      "match_score": 75,
+      "comparisons": 15,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Ismatu Barry demonstrates a solid fit for the Administrative Specialist role through relevant experience in administrative support and strong interpersonal skills. While there are some gaps in specific university system experience and direct supervisory roles, her background in a school environment aligns well with the demands of this position.",
+        "strengths": [
+          "Currently pursuing a bachelor's degree, satisfying the educational requirement",
+          "Experience as an Administrative Assistant, which provides relevant office support experience",
+          "Strong organizational and time management skills demonstrated through past roles",
+          "Excellent multilingual communication skills, enhancing ability to interact with diverse constituents",
+          "Demonstrated involvement in a front-line role as a point of contact for students and staff in both school settings"
+        ],
+        "gaps": [
+          "Lacks 2-4 years of experience specifically in a university or academic setting",
+          "No evidence of experience with specific university systems like Banner, ePaws, or Concur",
+          "Limited demonstrated experience in supervising student workers, as required by the job description",
+          "Does not have experience in financial processing or event coordination as detailed in the job description"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 234,
+    "ranked": 234,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

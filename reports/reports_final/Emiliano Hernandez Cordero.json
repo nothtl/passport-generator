@@ -1,0 +1,1894 @@
+{
+  "name": "Emiliano Hernandez Cordero",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2029,
+  "source_files": [
+    "Emiliano Hernandez Cordero - Resume.pdf",
+    "Emiliano Hernandez Cordero - LinkedIn.md"
+  ],
+  "skills": [
+    "Customer and Personal Service",
+    "Service Orientation",
+    "Mathematics",
+    "Computers and Electronics",
+    "Quality Control Analysis",
+    "Food Production",
+    "Coordination",
+    "Time Management",
+    "Critical Thinking",
+    "Active Learning",
+    "Writing",
+    "Persuasion",
+    "Sales and Marketing",
+    "Administration and Management",
+    "Foreign Language",
+    "Speaking",
+    "Active Listening",
+    "Administrative",
+    "Management of Material Resources",
+    "Instructing",
+    "Education and Training",
+    "Social Perceptiveness",
+    "Operations Analysis"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Provided fast-paced customer service in a high-volume environment.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Provided fast-paced customer service in a high-volume environment; student support; supported waitstaff",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "handled cash transactions accurately.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Operated point-of-sale systems; Microsoft Office, Google Suite, Canva",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Prepared food according to safety, quality, and cleanliness standards; Maintained cleanliness",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "Prepared food according to safety, quality, and cleanliness standards.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Collaborated with team members; coordinated food distribution efforts; supported event planning; managed resource distribution; supported waitstaff; prepared dining areas; Co-Leader",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "maintain efficiency during peak hours",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Researched organizations for donations and scholarships",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Researched organizations for donations and scholarships",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Created persuasive emails to engage sponsors",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Created persuasive emails to engage sponsors",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "engage sponsors for donations",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "coordinated food distribution efforts; supported event planning; Co-Leader",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Provided Spanish-English interpretation; Bilingual: English & Spanish",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Provided Spanish-English interpretation; Collaborated with team members; Speak Hire Communication Program: Participant",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Provided Spanish-English interpretation; Collaborated with team members; Speak Hire Communication Program: Participant",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Organized documents",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "managed resource distribution at community events",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Assisted with classroom activities, small group instruction",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Assisted with classroom activities, small group instruction",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Provided fast-paced customer service; student support",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "prepared dining areas for service",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 75.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Active Listening",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 73.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "43-6011.00",
+      "title": "Executive Secretaries and Executive Administrative Assistants",
+      "zone": 3,
+      "pct": 73.3,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Coordination",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "11-9072.00",
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "zone": 4,
+      "pct": 73.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 73.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-4111.00",
+      "title": "Interviewers, Except Eligibility and Loan",
+      "zone": 3,
+      "pct": 73.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Administrative",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Critical Thinking",
+        "Writing",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 72.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Time Management",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 72.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Food Production",
+        "Mathematics",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Computers and Electronics",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "39-7012.00",
+      "title": "Travel Guides",
+      "zone": 2,
+      "pct": 71.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Speaking",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Coordination",
+        "Persuasion",
+        "Time Management",
+        "Sales and Marketing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 71.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 70.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Food Production",
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 69.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 69.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Education and Training",
+        "Active Listening",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "13-2022.00",
+      "title": "Appraisers of Personal and Business Property",
+      "zone": 4,
+      "pct": 68.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Writing",
+        "Mathematics",
+        "Active Listening",
+        "Speaking",
+        "Administrative",
+        "Administration and Management",
+        "Active Learning",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 67.7,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Mathematics",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-2011.00",
+      "title": "Cashiers",
+      "zone": 2,
+      "pct": 67.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Sales and Marketing",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Mathematics",
+        "Administrative",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "41-2021.00",
+      "title": "Counter and Rental Clerks",
+      "zone": 2,
+      "pct": 67.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Administrative",
+        "Sales and Marketing",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "11-2033.00",
+      "title": "Fundraising Managers",
+      "zone": 4,
+      "pct": 67.0,
+      "matched_skills": [
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Administrative",
+        "Critical Thinking",
+        "Speaking",
+        "Active Listening",
+        "Persuasion",
+        "Social Perceptiveness",
+        "Writing",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "41-2031.00",
+      "title": "Retail Salespersons",
+      "zone": 2,
+      "pct": 66.9,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Customer and Personal Service",
+        "Persuasion",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Administration and Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "35-2021.00",
+      "title": "Food Preparation Workers",
+      "zone": 2,
+      "pct": 66.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Time Management",
+        "Food Production",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 66.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Active Listening",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "39-5092.00",
+      "title": "Manicurists and Pedicurists",
+      "zone": 2,
+      "pct": 66.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Coordination",
+        "Time Management",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 66.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Education and Training",
+        "Service Orientation",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "13-1022.00",
+      "title": "Wholesale and Retail Buyers, Except Farm Products",
+      "zone": 3,
+      "pct": 66.0,
+      "matched_skills": [
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Persuasion",
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "31-9097.00",
+      "title": "Phlebotomists",
+      "zone": 3,
+      "pct": 65.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administrative",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "29-1292.00",
+      "title": "Dental Hygienists",
+      "zone": 3,
+      "pct": 65.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "35-9031.00",
+      "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+      "zone": 2,
+      "pct": 65.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Food Production",
+        "Coordination",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "29-2099.08",
+      "title": "Patient Representatives",
+      "zone": 3,
+      "pct": 65.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Speaking",
+        "Coordination",
+        "Administrative",
+        "Critical Thinking",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "11-9051.00",
+      "title": "Food Service Managers",
+      "zone": 2,
+      "pct": 65.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Food Production",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 65.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "31-1121.00",
+      "title": "Home Health Aides",
+      "zone": 2,
+      "pct": 64.8,
+      "matched_skills": [
+        "Active Listening",
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Instructing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "25-9042.00",
+      "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "zone": 3,
+      "pct": 64.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Speaking",
+        "Mathematics",
+        "Coordination",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 64.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administrative",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-9011.01",
+      "title": "Nannies",
+      "zone": 2,
+      "pct": 64.2,
+      "matched_skills": [
+        "Active Listening",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Persuasion",
+        "Customer and Personal Service",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "29-2099.05",
+      "title": "Ophthalmic Medical Technologists",
+      "zone": 3,
+      "pct": 64.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Mathematics",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 63.7,
+      "matched_skills": [
+        "Mathematics",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Learning",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-3091.00",
+      "title": "Interpreters and Translators",
+      "zone": 4,
+      "pct": 63.7,
+      "matched_skills": [
+        "Foreign Language",
+        "Speaking",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Writing",
+        "Critical Thinking",
+        "Education and Training",
+        "Administrative",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "39-9031.00",
+      "title": "Exercise Trainers and Group Fitness Instructors",
+      "zone": 3,
+      "pct": 63.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Instructing",
+        "Education and Training",
+        "Service Orientation",
+        "Speaking",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 63.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Active Learning",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 63.0,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Instructing",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "13-1071.00",
+      "title": "Human Resources Specialists",
+      "zone": 4,
+      "pct": 62.9,
+      "matched_skills": [
+        "Speaking",
+        "Active Listening",
+        "Administrative",
+        "Critical Thinking",
+        "Writing",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "29-2057.00",
+      "title": "Ophthalmic Medical Technicians",
+      "zone": 3,
+      "pct": 62.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Mathematics",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 62.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "Critical Thinking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 62.6,
+      "matched_skills": [
+        "Speaking",
+        "Education and Training",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Instructing",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "25-2056.00",
+      "title": "Special Education Teachers, Elementary School",
+      "zone": 4,
+      "pct": 62.1,
+      "matched_skills": [
+        "Education and Training",
+        "Active Listening",
+        "Speaking",
+        "Instructing",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 61.9,
+      "matched_skills": [
+        "Administrative",
+        "Writing",
+        "Computers and Electronics",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 61.4,
+      "matched_skills": [
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "51-3021.00",
+      "title": "Butchers and Meat Cutters",
+      "zone": 2,
+      "pct": 61.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Food Production",
+        "Active Listening",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "27-1026.00",
+      "title": "Merchandise Displayers and Window Trimmers",
+      "zone": 3,
+      "pct": 61.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "27-3043.00",
+      "title": "Writers and Authors",
+      "zone": 4,
+      "pct": 60.5,
+      "matched_skills": [
+        "Writing",
+        "Sales and Marketing",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Time Management",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "27-3031.00",
+      "title": "Public Relations Specialists",
+      "zone": 4,
+      "pct": 60.4,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "53-6031.00",
+      "title": "Automotive and Watercraft Service Attendants",
+      "zone": 2,
+      "pct": 60.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Mathematics",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "25-3041.00",
+      "title": "Tutors",
+      "zone": 3,
+      "pct": 60.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Instructing",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 59.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Mathematics",
+        "Administrative",
+        "Active Learning",
+        "Active Listening",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 59.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Education and Training",
+        "Active Listening",
+        "Writing",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "15-2051.02",
+      "title": "Clinical Data Managers",
+      "zone": 4,
+      "pct": 58.5,
+      "matched_skills": [
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "19-4012.01",
+      "title": "Precision Agriculture Technicians",
+      "zone": 3,
+      "pct": 57.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Sales and Marketing",
+        "Writing",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 57.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Writing",
+        "Computers and Electronics",
+        "Administrative",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "15-2051.01",
+      "title": "Business Intelligence Analysts",
+      "zone": 4,
+      "pct": 57.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Mathematics",
+        "Writing",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 56.8,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 56.1,
+      "matched_skills": [
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 55.5,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Mathematics",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "51-3011.00",
+      "title": "Bakers",
+      "zone": 2,
+      "pct": 55.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Food Production",
+        "Mathematics",
+        "Active Learning",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "47-2044.00",
+      "title": "Tile and Stone Setters",
+      "zone": 2,
+      "pct": 55.2,
+      "matched_skills": [
+        "Mathematics",
+        "Active Listening",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Mathematics",
+        "Speaking",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "51-9123.00",
+      "title": "Painting, Coating, and Decorating Workers",
+      "zone": 2,
+      "pct": 55.2,
+      "matched_skills": [
+        "Active Listening",
+        "Coordination",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Speaking",
+        "Time Management",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "19-4061.00",
+      "title": "Social Science Research Assistants",
+      "zone": 4,
+      "pct": 55.0,
+      "matched_skills": [
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Computers and Electronics",
+        "Speaking",
+        "Administrative",
+        "Active Learning",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 54.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "Coordination",
+        "Critical Thinking",
+        "Mathematics",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "17-2199.07",
+      "title": "Photonics Engineers",
+      "zone": 4,
+      "pct": 54.4,
+      "matched_skills": [
+        "Mathematics",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Writing",
+        "Active Listening",
+        "Active Learning",
+        "Mathematics",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "45-2011.00",
+      "title": "Agricultural Inspectors",
+      "zone": 2,
+      "pct": 54.3,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Active Listening",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "51-6052.00",
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "zone": 2,
+      "pct": 54.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Time Management",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Mathematics",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 54.0,
+      "matched_skills": [
+        "Active Listening",
+        "Speaking",
+        "Time Management",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "47-2121.00",
+      "title": "Glaziers",
+      "zone": 2,
+      "pct": 53.9,
+      "matched_skills": [
+        "Mathematics",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 53.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "15-1241.01",
+      "title": "Telecommunications Engineering Specialists",
+      "zone": 3,
+      "pct": 53.8,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking",
+        "Mathematics",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "53-6061.00",
+      "title": "Passenger Attendants",
+      "zone": 2,
+      "pct": 52.9,
+      "matched_skills": [
+        "Service Orientation",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Coordination",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 52.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Coordination",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "17-3022.00",
+      "title": "Civil Engineering Technologists and Technicians",
+      "zone": 3,
+      "pct": 52.0,
+      "matched_skills": [
+        "Mathematics",
+        "Critical Thinking",
+        "Active Listening",
+        "Administrative",
+        "Mathematics",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 51.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "19-4099.03",
+      "title": "Remote Sensing Technicians",
+      "zone": 4,
+      "pct": 50.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Mathematics",
+        "Customer and Personal Service",
+        "Mathematics",
+        "Speaking",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "17-2031.00",
+      "title": "Bioengineers and Biomedical Engineers",
+      "zone": 4,
+      "pct": 50.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Mathematics",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Critical Thinking",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 50.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Listening",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "33-9032.00",
+      "title": "Security Guards",
+      "zone": 2,
+      "pct": 49.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Education and Training",
+        "Active Listening",
+        "Administrative",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "49-3022.00",
+      "title": "Automotive Glass Installers and Repairers",
+      "zone": 2,
+      "pct": 49.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Active Listening",
+        "Critical Thinking",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 49.6,
+      "matched_skills": [
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "45-2041.00",
+      "title": "Graders and Sorters, Agricultural Products",
+      "zone": 2,
+      "pct": 47.2,
+      "matched_skills": [
+        "Food Production",
+        "Active Listening",
+        "Speaking",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Foreign Language"
+      ]
+    },
+    {
+      "soc": "49-2011.00",
+      "title": "Computer, Automated Teller, and Office Machine Repairers",
+      "zone": 3,
+      "pct": 45.6,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Quality Control Analysis"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 16,
+      "title": "Client Care Worker/Customer Care Worker",
+      "company": "Volunteers of America–Greater New York (VOA-GNY)",
+      "url": "https://jobs.dayforcehcm.com/voagny/CANDIDATEPORTAL/jobs/21377",
+      "match_score": 69,
+      "embed_sim": 0.49586397409439087,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Transportation",
+      "comparisons": 7,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 69,
+        "summary": "Emiliano has relevant customer service experience and some community involvement, but lacks specific experience in client care or related fields required by the job.",
+        "strengths": [
+          "Strong customer service experience from working at McDonald's",
+          "Bilingual in English and Spanish, which is beneficial for a diverse client base",
+          "Experience in community service roles, showing a commitment to helping others"
+        ],
+        "gaps": [
+          "No direct experience in client care or social services",
+          "Lacks knowledge of emergency response or crisis management, which are crucial for the position",
+          "No evidence of relevant certifications such as CPR or first aid"
+        ]
+      },
+      "blended_score": 62
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 7,
+      "title": "Program Assistant - Domestic Violence Services",
+      "company": "Equinox (Capital District Equinox, Inc.)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3912012",
+      "match_score": 70,
+      "embed_sim": 0.49174901843070984,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 6,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Emiliano has relevant experience in customer service and community engagement which could be beneficial for the Program Assistant role. His bilingual skills will also be an asset in serving a diverse clientele. However, there are gaps in direct human services experience and specific administrative skills that may be necessary for managing databases and reporting tasks.",
+        "strengths": [
+          "Bilingual in English and Spanish, which is a preferred qualification for interacting with diverse clients.",
+          "Experience in community assistance roles, particularly in non-profit settings (e.g., We Can’t Breathe, La Colmena).",
+          "Demonstrated ability to manage tasks in high-pressure environments, evidenced by customer service role at McDonald's."
+        ],
+        "gaps": [
+          "No direct experience in maintaining databases or preparing reports as required in the job description.",
+          "Lacks formal experience in the domestic violence services field, which may be crucial for understanding client needs and support services.",
+          "Limited evidence of experience with grants or financial documentation, a significant aspect of this job's responsibilities."
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 11,
+      "title": "Youth Advocate",
+      "company": "The Jewish Board",
+      "url": "https://jobs.dayforcehcm.com/jbfcs/CANDIDATEPORTAL/jobs/38613",
+      "match_score": 65,
+      "embed_sim": 0.49510738253593445,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Community & Social Service",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Emiliano shows relevant experience in community engagement and advocacy, but lacks direct exposure to mental health challenges and youth advocacy specific to the position's requirements.",
+        "strengths": [
+          "Bilingual in English and Spanish, which is preferred for the role",
+          "Experience in community support roles and advocacy through previous assistant positions",
+          "Demonstrated teamwork and communication skills"
+        ],
+        "gaps": [
+          "No direct experience with youth mental health challenges",
+          "No specific background in family psychoeducation or therapeutic intervention",
+          "Lacks documented experience in a multi-disciplinary team setting related to mental health",
+          "No evidence of personal experience with mental health challenges, which is crucial for the peer advocacy aspect of the role"
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 14,
+      "title": "Bilingual Administrative Support Specialist(Spanish) - Healthy Families",
+      "company": "Eliot Community Human Services",
+      "url": "https://job-boards.greenhouse.io/eliotcommunityhumanservices/jobs/5247974008",
+      "match_score": 70,
+      "embed_sim": 0.49081292748451233,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Emiliano Hernandez Cordero's resume demonstrates relevant experience and skills that align with the requirements for the Bilingual Administrative Support Specialist position. However, there are some gaps in administrative support experience and familiarity with electronic medical records that may be necessary for this role.",
+        "strengths": [
+          "Bilingual in English and Spanish, fulfilling the language requirement.",
+          "Experience in providing customer service and team collaboration from various roles, including as a Crew Member at McDonald's.",
+          "Experience with organizing documents and supporting event planning as a Founder's Assistant."
+        ],
+        "gaps": [
+          "Limited demonstrated administrative experience specifically in handling tasks such as database management or maintaining paper files as required by the job.",
+          "No evidence of familiarity with electronic medical records or similar systems, which is a key qualification for the position."
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 18,
+      "title": "Administrative Assistant (Child Welfare)",
+      "company": "Rincon - Building Spaces, Restoring Communities",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3821775",
+      "match_score": 63,
+      "embed_sim": 0.4943685531616211,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 1,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 63,
+        "summary": "While Emiliano has relevant experience in administrative tasks and customer service, there are significant gaps in specific job-related skills and direct experience in child welfare.",
+        "strengths": [
+          "Experience as a Crew Member providing customer service in a high-volume environment which demonstrates ability to handle fast-paced work environments.",
+          "Skills in Microsoft Office and Google Suite which are essential for administrative tasks such as document management and correspondence.",
+          "Bilingual in English and Spanish which can be beneficial in communicating with diverse populations."
+        ],
+        "gaps": [
+          "No direct experience in child welfare or understanding of child welfare programs and procedures as required by the job description.",
+          "Lack of experience in managing intake processes and maintaining accurate Participant files specifically for child welfare programs.",
+          "Limited evidence of experience in drafting and proofreading official documents and maintaining organized records as required for the administrative role."
+        ]
+      },
+      "blended_score": 58
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 9,
+      "title": "Bilingual Office Assistant in New Jersey.",
+      "company": "Mangone Law Firm, LLC",
+      "url": "https://apply.workable.com/j/6D2AA67008",
+      "match_score": 62,
+      "embed_sim": 0.48963072896003723,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 4,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 62,
+        "summary": "Emiliano has relevant languages skills and some customer service experience, but lacks specific legal or office management experience required for the Bilingual Office Assistant role.",
+        "strengths": [
+          "Bilingual in English and Spanish, which is crucial for the role",
+          "Customer service experience from working at McDonald's",
+          "Experience with administrative tasks like document organization and communication"
+        ],
+        "gaps": [
+          "No direct experience in a legal setting or knowledge of immigration law",
+          "Lacks proficiency in specific software mentioned in the job description (Excel, Case Management Systems)",
+          "No evidence of strong professional writing skills or experience with complex customer interactions in a legal context"
+        ]
+      },
+      "blended_score": 55
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 5,
+      "title": "Administrative Secretary - Full Time; 2238-405-A",
+      "company": "Catholic Charities Brooklyn and Queens",
+      "url": "https://jobs.dayforcehcm.com/ccbq/CANDIDATEPORTAL/jobs/28840",
+      "match_score": 70,
+      "embed_sim": 0.4793347716331482,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Emiliano demonstrates relevant experience in customer service and administrative support, making him a solid fit for the Administrative Secretary position. However, several specific qualifications and experience details can be further strengthened.",
+        "strengths": [
+          "Bilingual in English and Spanish, which is preferred for the position.",
+          "Customer service experience from working as a Crew Member, beneficial for handling client interactions.",
+          "Experience in handling administrative tasks such as organizing documents and managing resource distribution at community events.",
+          "Proficient in Microsoft Office and Google's suite of applications, relevant to clerical duties."
+        ],
+        "gaps": [
+          "No direct experience in a formal office setting or with specific administrative duties such as data entry, typing client correspondence, or managing phone systems.",
+          "Lacks evidence of business experience that includes basic accounting or extensive clerical experience.",
+          "No evidence of managing schedules or appointments, which is crucial for the role.",
+          "Does not demonstrate experience with office equipment like fax or multi-line phone systems, which may be necessary."
+        ]
+      },
+      "blended_score": 53
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 17,
+      "title": "Cook Helper/Attendant (M-F) $18.25 Hr. Sign on Bonus $ 500.00",
+      "company": "Equus",
+      "url": "https://jobs.smartrecruiters.com/Equus/744000118144212",
+      "match_score": 65,
+      "embed_sim": 0.4688074290752411,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Transportation",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Emiliano has experience in customer service and food preparation, but lacks direct experience in a kitchen environment and some specific tasks outlined in the job description.",
+        "strengths": [
+          "Experience in food preparation and customer service from McDonald's",
+          "Bilingual skills may aid in communication within a diverse work environment",
+          "Collaborative experience in various team settings"
+        ],
+        "gaps": [
+          "No specific experience in cooking or kitchen maintenance tasks such as dishwashing or food serving",
+          "Lacks six months of directly related experience in a food service setting",
+          "No mention of experience working specifically with youth or in an educational environment"
+        ]
+      },
+      "blended_score": 45
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 23,
+      "title": "Residence Program Specialist",
+      "company": "Human First, Inc.",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4006327",
+      "match_score": 65,
+      "embed_sim": 0.46705612540245056,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Transportation",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Emiliano's experience shows relevant skills in communication, community support, and teamwork, which are essential for the Residence Program Specialist role, but lacks direct experience in caring for individuals with developmental disabilities or the specific medical knowledge required. His education in criminal justice may not fully align with the care-focused nature of this position, highlighting gaps in direct caregiving and specific qualifications such as AMAP certification.",
+        "strengths": [
+          "Bilingual in English and Spanish, enhancing communication with diverse residents",
+          "Experience in community support roles through positions at We Can't Breathe and La Colmena",
+          "Demonstrated teamwork and collaboration in fast-paced environments",
+          "Proven ability to provide customer service and support",
+          "Participation in student and community organizations indicates engagement and leadership skills"
+        ],
+        "gaps": [
+          "No direct experience working with individuals with developmental disabilities",
+          "Lacks medical training or certification such as AMAP",
+          "No evidence of experience in crisis response or handling emergencies",
+          "Limited experience in activities of daily living (ADLs) and their teaching",
+          "No experience in meal planning, preparation, or assisting with intimate care duties"
+        ]
+      },
+      "blended_score": 44
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 4,
+      "title": "Attendant Care Worker/Peer Support Specialist (Bilingual)",
+      "company": "EL CENTRO",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4277433",
+      "match_score": 45,
+      "embed_sim": 0.4540019631385803,
+      "verdict": "weak",
+      "zone": 2,
+      "family": "Transportation",
+      "comparisons": 2,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "The candidate's resume shows some relevant skills but lacks specific experience in mental health or direct peer support services, which are crucial for the role of Attendant Care Worker/Peer Support Specialist.",
+        "strengths": [
+          "Bilingual in English and Spanish, which meets the job requirement for bilingual support.",
+          "Experience in community service and event planning, indicating an ability to connect with diverse populations."
+        ],
+        "gaps": [
+          "No direct experience in health and human services or mental health fields as required by the job description.",
+          "Lack of lived experience with mental health recovery, which is a significant requirement for the position.",
+          "Insufficient evidence of skills in navigating community resources and supporting clients with psychiatric symptoms or independent living skills."
+        ]
+      },
+      "blended_score": 27
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

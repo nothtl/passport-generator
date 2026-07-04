@@ -1,0 +1,18 @@
+{
+  "Physics tutor|||ajtutoring": {
+    "eligible": true,
+    "reason": "Tutoring is suitable for minors."
+  },
+  "Care Navigator - CCBHC (Helena, MT)": {
+    "eligible": true,
+    "reason": "Care navigator role does not require 21+."
+  },
+  "Center-Based Behavior Technician|||lifeskillsautismacademy": {
+    "eligible": true,
+    "reason": "Behavior technician role is suitable for young adults."
+  },
+  "Summer - Part-Time Staff": {
+    "eligible": true,
+    "reason": "Summer staff role is generally suitable for minors."
+  }
+}

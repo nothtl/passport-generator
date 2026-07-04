@@ -1,0 +1,50 @@
+{
+  "Bookkeeper|||treantly": {
+    "eligible": true,
+    "reason": "Bookkeeper role does not require age 21+."
+  },
+  "Associate Trainer - Insurance Sales|||ace": {
+    "eligible": true,
+    "reason": "Insurance sales training may be permitted for 16-20 year olds."
+  },
+  "Junior Financial Analyst|||ClarkDavisAssociates": {
+    "eligible": true,
+    "reason": "Junior financial analyst role is suitable for young adults."
+  },
+  "Royalty Analyst|||INgroovesMusicGroup": {
+    "eligible": true,
+    "reason": "Royalty analyst role does not have age restrictions."
+  },
+  "Finance Analyst, External Manufacturing|||AbbVie": {
+    "eligible": true,
+    "reason": "Finance analyst role is appropriate for minors/young adults."
+  },
+  "Adjunct Associate Faculty, AI User Interfaces for Analytics (On-Campus, Fall '26)|||ColumbiaUniversity1": {
+    "eligible": true,
+    "reason": "Adjunct faculty role at university may be suitable for young adults."
+  },
+  "Infrastructure Investments Analyst|||gcmgrosvenor": {
+    "eligible": true,
+    "reason": "Infrastructure investments analyst role does not require age 21+."
+  },
+  "Finance Intern (Full-Time)|||genscript": {
+    "eligible": true,
+    "reason": "Finance internship is suitable for young adults."
+  },
+  "Capital Markets Analyst|||lendzfinancial": {
+    "eligible": true,
+    "reason": "Capital markets analyst role is appropriate for young adults."
+  },
+  "Client Associate|||dadavidson": {
+    "eligible": true,
+    "reason": "Client associate role does not have age restrictions."
+  },
+  "Youth Success Specialist Intern|||theirc": {
+    "eligible": true,
+    "reason": "Youth success specialist internship is suitable for young adults."
+  },
+  "Junior Financial Auditor.|||VeoliaEnvironnementSA": {
+    "eligible": true,
+    "reason": "Junior financial auditor role is appropriate for young adults."
+  }
+}

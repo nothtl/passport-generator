@@ -1,0 +1,427 @@
+{
+  "student_name": "Mingyu(Carl) Huo",
+  "email": "m.huo2018@flushinginternational.org",
+  "found_in": [
+    "Interns_20260512T143927-0400.csv",
+    "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+    "FULL SpeakHire Database 2026.xlsx::#Cheers4Careers Info Update For",
+    "FULL SpeakHire Database 2026.xlsx::Interns",
+    "FULL SpeakHire Database 2026.xlsx::Hub Users 226",
+    "SPEAKHIRE FY Internship Round Exit Survey.csv"
+  ],
+  "fields": {
+    "English - Spoken": {
+      "value": "Somewhat Comfortable",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Rate your Career Pathways Champion (1-10)": {
+      "value": 10.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Community Feel (Quant)": {
+      "value": 7.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "Any suggestions to make the Foundational Year a better experience": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Did you find a way to stay in touch": {
+      "value": "Yes we could stay in touch through email, and the LinkedIn account she help me created.",
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "What are three skills you have that will help you in your future career": {
+      "value": "Codeing skills (scratch, p5, readymaker), math, and collaboration skills.",
+      "source": "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Listen to others (post)": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Deal with conflicts - conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "After meeting Champions, I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Languages": {
+      "value": "Chinese",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Pre Empathy": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Humble": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Listen": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Include Others Who Are Different": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Deal with Conflicts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Lead With Authenticity": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Listen to others": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Community Connected": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Culture Feel": {
+      "value": "I feel equally of both",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "I understand how my cultural values can shape my career choices": {
+      "value": 4.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round": {
+      "value": 1.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "Meeting with my Champions during school helped me feel like I belong in school": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I feel more engaged in school and participate more than before": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I made new friends during the Foundational Year": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "FY1 Ever Volunteered": {
+      "value": true,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "FY1 Hours Volunteered": {
+      "value": "10-20",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "What are three adjectives that describe the person you are and why": {
+      "value": "Friendly, helpful, and quiet, because I will always help my friends if they need me, and I can get along with most people, and I like to stay in a quiet place when I have a private time. It can calm myself.",
+      "source": "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Hope to Gain": {
+      "value": "Gain skills I can use at a future jobGet an internshipMake new friendsGet an internship, \nGet coaches and mentors who can help me with college and career, \nGain skills I can use at a future job, \nLearn about careers, \nLearn about colleges, \nMake new friendsLearn about collegesLearn about careers",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "What do you hope to gain by going through this program": {
+      "value": "Gain skills I can use at a future jobGet an internshipMake new friendsGet an internship, \nGet coaches and mentors who can help me with college and career, \nGain skills I can use at a future job, \nLearn about careers, \nLearn about colleges, \nMake new friendsLearn about collegesLearn about careers",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "SMART GOAL": {
+      "value": "I will get more information, formal people?s experience and the requirements for some majors that I interest in, by attend classes each week. Also I will learn these majors from mentors in this program, and be knowledgeable at the end of this program.",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Remember the SMART Goal you set - next round": {
+      "value": "I will learn more requirements and about my career path by connecting with other professionals and talk with my champion by the end of next round.",
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Know How To Pursue Careers": {
+      "value": 3.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "I feel more prepared for my future career": {
+      "value": 1.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "If you do not have a job, what is your ideal future career job": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel ready and prepared for college": {
+      "value": 6.0,
+      "source": "SPEAKHIRE FY Internship Round Exit Survey.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "FY1 Feel College Ready and Prepped": {
+      "value": 3.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "I feel I am now a stronger candidate for college and careers": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel I am now more prepared for college": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY helped realize doing well connects to my career goals": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker was a relatable role model": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY1 - Ever Volunteered?": {
+      "value": true,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Hours Volunteered": {
+      "value": "10-20",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Had Internship?": {
+      "value": true,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Had/Have Job?": {
+      "value": true,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Total Sessions Attended": {
+      "value": "17",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Total Sessions Scheduled": {
+      "value": "17",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Connected Champions": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "CR"
+    },
+    "CPC What skill did you cover": {
+      "value": "Icebreakers and Getting to Know each other | Communications | Relationships | Planning | Presentations with Powerpoint | Tips for Project Planning | We went through an overview of our next sessions -- no focus on skills today. | Getting to know each other, identified what the mentees want to learn | Business Q&A | Relationship & rapport building | Communication | Project PLanning & Analysis",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC What component skill did you cover": {
+      "value": "Icebreakers | Effective Follow Up | Stakeholder Management | Decision making approach to college classes | Presentations Best Practice | SWOT Analysis | n/a - see above. | Business Q&A | rapport | Digital Body Language | SWOT Analysis",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Discussion topics": {
+      "value": "How to introduce yourselves to knew people; Carl is interested in Maths & Science; Shika is interested in nursing so we will take a broader approach to the sessions to work on our skills | Talked about the importance of \"follow up\" to build relationships, trust, and drive accountabilities with conversations you are having. Shikha and Carl gave good examples of when they do this now. | We talked about the application of Stakeholder Management across personal and professional projects; completed an exercise together to map an example project. We also spoke about the recent attacks on Asian Americans in Atlanta - both Shikha and Carl were concerned about the how Covid has driven this increased prejudice | Decision making in the context of college classes - possible classes for nursing & computer science. The value of learning languages. We discussed the support for the Asian community in the context of the recent events in Atlanta. | 6 best practice tips for PowerPoint presentations including: power of 3, tools, preparation skills | We talked about how all the lessons about stakeholder maps, time management and powerpoint were tied together and project planning was a good theme. We also talked about their school vacation and plans to prepare to go back to school | We did introductions. I asked them to describe their interests and their background and described my background. I also went through the topics and skills that I'd teach them in our upcoming sessions and asked them to identify which skills they were most interested in learning about. | Introductions, what they want to learn from the series (EG. Prioritization, time management, project planning) | Journey from college to where I am in my career today; maths skills required for my job, what requirements needed in the interview process | Career interest in pyschology | Zoom Etiquette, Email vs, Instant Messaging | Approaching projects, tools and methodologies",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Why": {
+      "value": "First session was focused on getting to know each other - will revise the guide following their asks | We are still finding our feet with the session format, feel like we will grow into it as the weeks progress | Good interaction, getting more used to talking to eachother | We had a good conversation about how to approach choosing classes for college - Including: decision making, time management, vocational vs. interest topics, having fun. | Great interaction from Shikha and Carl. | Shikha and Carl were super engaging we had a great conversation. | Tech issues made it difficult to communicate and be heard. I tried to dial in but it re-routed me to the main room. | Difficult audio, and the mentees were rather shy. Looking forward to getting to know them better. Chalked this up to day 1 | The audio and video is an ongoing challenge. Very hard to hear Jennyfer & Mariama. Started using Zoom chat instead. Pivot the session to a Q&A with the chat due to audio issues. | 5/5 session with Jennyfer building relationship. Unfortunately Cristian was unable to attend and Mariam joined later. It is hard to discuss certain skills the whole group is looking for with disjointed attendance. | Struggling with the audio & video | More interactive!",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume additions": {
+      "value": "Icebreakers | Effective Communications | Yes | Did not add | Presentation Skills | Planning, SWOT - Shikha and Carl will update their resumes fully for the next session | none | Digital Body Language | SWOT Analysis",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Anything else": {
+      "value": "Really struggling with the audio and video. Masks make it harder unfortunately. | Really struggling with the audio and video from the interns",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Session Count": {
+      "value": 12,
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC All Session Text": {
+      "value": "Icebreakers and Getting to Know each other | Communications | Relationships | Planning | Presentations with Powerpoint | Tips for Project Planning | We went through an overview of our next sessions -- no focus on skills today. | Getting to know each other, identified what the mentees want to learn | Business Q&A | Relationship & rapport building | Communication | Project PLanning & Analysis | Icebreakers | Effective Follow Up | Stakeholder Management | Decision making approach to college classes | Presentations Best Practice | SWOT Analysis | n/a - see above. | Business Q&A | rapport | Digital Body Language | SWOT Analysis | How to introduce yourselves to knew people; Carl is interested in Maths & Science; Shika is interested in nursing so we will take a broader approach to the sessions to work on our skills | Talked about the importance of \"follow up\" to build relationships, trust, and drive accountabilities with conversations you are having. Shikha and Carl gave good examples of when they do this now. | We talked about the application of Stakeholder Management across personal and professional projects; completed an exercise together to map an example project. We also spoke about the recent attacks on Asian Americans in Atlanta - both Shikha and Carl were concerned about the how Covid has driven this increased prejudice | Decision making in the context of college classes - possible classes for nursing & computer science. The value of learning languages. We discussed the support for the Asian community in the context of the recent events in Atlanta. | 6 best practice tips for PowerPoint presentations including: power of 3, tools, preparation skills | We talked about how all the lessons about stakeholder maps, time management and powerpoint were tied together and project planning was a good theme. We also talked about their school vacation and plans to prepare to go back to school | We did introductions. I asked them to describe their interests and their background and described my background. I also went through the topics and skills that I'd teach them in our upcoming sessions and asked them to identify which skills they were most interested in learning about. | Introductions, what they want to learn from the series (EG. Prioritization, time management, project planning) | Journey from college to where I am in my career today; maths skills required for my job, what requirements needed in the interview process | Career interest in pyschology | Zoom Etiquette, Email vs, Instant Messaging | Approaching projects, tools and methodologies | First session was focused on getting to know each other - will revise the guide following their asks | We are still finding our feet with the session format, feel like we will grow into it as the weeks progress | Good interaction, getting more used to talking to eachother | We had a good conversation about how to approach choosing classes for college - Including: decision making, time management, vocational vs. interest topics, having fun. | Great interaction from Shikha and Carl. | Shikha and Carl were super engaging we had a great conversation. | Tech issues made it difficult to communicate and be heard. I tried to dial in but it re-routed me to the main room. | Difficult audio, and the mentees were rather shy. Looking forward to getting to know them better. Chalked this up to day 1 | The audio and video is an ongoing challenge. Very hard to hear Jennyfer & Mariama. Started using Zoom chat instead. Pivot the session to a Q&A with the chat due to audio issues. | 5/5 session with Jennyfer building relationship. Unfortunately Cristian was unable to attend and Mariam joined later. It is hard to discuss certain skills the whole group is looking for with disjointed attendance. | Struggling with the audio & video | More interactive!",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume Text": {
+      "value": "Icebreakers | Effective Communications | Yes | Did not add | Presentation Skills | Planning, SWOT - Shikha and Carl will update their resumes fully for the next session | none | Digital Body Language | SWOT Analysis",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    }
+  },
+  "field_summary": {
+    "total": 68,
+    "found": 35,
+    "missing": 33
+  }
+}

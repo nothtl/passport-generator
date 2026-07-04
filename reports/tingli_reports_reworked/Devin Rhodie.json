@@ -1,0 +1,1273 @@
+{
+  "resume": "=== Devin Rhodie - Resume.pdf ===\nDevin Rhodie \n\n516-402-0127  \u2022  dkr1418@rit.edu  \u2022  www.linkedin.com/in/devin-rhodie-858bb5267 \n\nOBJECTIVE \n\nSoftware Engineering student seeking a full-time co-op/internship in software \ndevelopment or systems design for Spring/Summer 2026.   \n\nEDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences \n\nBachelor of  Science, Software Engineering Major  \n\u00b7  GPA: 3.0 | Awarded Dean\u2019s List (Spring 2025)| ENGAGE Scholarship (Merit-Based)  \n\u00b7  Relevant Coursework: Software Design for computing systems, Web engineering, \nHuman-centered requirements and design, Software process and project management, \nSoftware testing, Intro to software engineering, Engineering of software subsystems, \nCybersecurity, Database systems, Computer systems concepts \n\n           Anticipated  May 2027 \n\nSKILLS \n\nTechnical Skills:  \nProgramming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development \nand Integration, object-oriented design  \nOperating Systems: Windows, Linux(Ubuntu), macOS \n\nPROJECT  Musical Instrument Digital Interface (MIDI) App    \nEXPERIENCE  \u00b7  Created a cross device application handling MIDI protocols for real time music playback.  \n\nJan 2025 - Apr 2025 \n\n\u00b7  Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions. \n\u00b7  Implemented dual-mode input system supporting both terminal commands and physical \nbuttons \n\u00b7  Integrated LED feedback and event-driven state handling for real-time playback control. \nOct 2024 - Nov 2024 \nCOMIX GUI application \n\u00b7  Built a GUI-based comic book management app with tools for searching, adding, and editing \ncomics. \n\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage. \n\u00b7  Collaborated in a team to combine different subsystem designs into a functional application. \n\nEXPERIENCE  RIT SCOOP \n\nRemote \nAug 2025- Dec 2025 \n\nSoftware Engineer Intern \n\u00b7 Contributed to the development and maintenance of SCOOPortal, a web application \nsupporting the RIT SCOOP program for students and faculty. \n\u00b7 Refactored complex React modal components to improve usability, state handling, and error \nmanagement across multiple user roles. \n\u00b7 Led UI debranding efforts, updating styles, labels, and more for new platform requirements. \n\u00b7 Implemented and enhanced confirmation modals to prevent accidental data loss and improve \nuser feedback during form submission workflows. \nUpperLine Code \nSoftware Engineer Intern \n\u00b7  Created a web application using HTML and JavaScript to display local recycling centers.  \n\u00b7  Collaborated with a partner, focusing on frontend development. \n\u00b7  Designed a user-friendly interface and integrated location based search functionality. \n\u00b7  Presented the project to a cohort of peers, explaining the development process and features. \n\nRemote  \n July 2023 - Aug 2023",
+  "function": "technology",
+  "confidence": 70,
+  "skills": [
+    "api",
+    "api development",
+    "bachelor",
+    "book management",
+    "centers",
+    "co op",
+    "code",
+    "combine",
+    "computer",
+    "computer systems",
+    "computing",
+    "control",
+    "controls",
+    "coursework",
+    "css",
+    "csv",
+    "cybersecurity",
+    "data",
+    "data storage",
+    "database",
+    "database systems",
+    "design",
+    "design software",
+    "development",
+    "development process",
+    "digital",
+    "display",
+    "driven",
+    "engineer",
+    "engineering",
+    "event driven",
+    "export",
+    "feedback",
+    "friendly",
+    "frontend",
+    "frontend development",
+    "full time",
+    "gui",
+    "html",
+    "html css",
+    "import export",
+    "integration",
+    "internship",
+    "java",
+    "javascript",
+    "json",
+    "labels",
+    "languages",
+    "linux",
+    "linux ubuntu",
+    "local",
+    "macos",
+    "maintenance",
+    "management",
+    "music",
+    "next",
+    "object oriented",
+    "object oriented design",
+    "oct",
+    "operating systems",
+    "operating systems windows",
+    "physical",
+    "platform",
+    "program",
+    "programming",
+    "programming languages",
+    "project",
+    "project management",
+    "project management software",
+    "projects",
+    "protocols",
+    "python",
+    "react",
+    "real time",
+    "recycling",
+    "requirements",
+    "roles",
+    "scholarship",
+    "science",
+    "sciences",
+    "software",
+    "software design",
+    "software development",
+    "software engineering",
+    "software testing",
+    "sql",
+    "storage",
+    "submission",
+    "systems",
+    "systems design",
+    "technical",
+    "technical skills",
+    "technology",
+    "tools",
+    "ubuntu",
+    "united states",
+    "usability",
+    "user feedback",
+    "web",
+    "web application",
+    "windows",
+    "windows linux",
+    "workflows",
+    "xml"
+  ],
+  "verified_skills": [
+    "api",
+    "api development",
+    "bachelor",
+    "book management",
+    "centers",
+    "co op",
+    "code",
+    "combine",
+    "computer",
+    "computer systems",
+    "computing",
+    "control",
+    "controls",
+    "coursework",
+    "css",
+    "csv",
+    "cybersecurity",
+    "data",
+    "data storage",
+    "database",
+    "database systems",
+    "design",
+    "design software",
+    "development",
+    "development process",
+    "digital",
+    "display",
+    "driven",
+    "engineer",
+    "engineering",
+    "event driven",
+    "export",
+    "feedback",
+    "friendly",
+    "frontend",
+    "frontend development",
+    "full time",
+    "gui",
+    "html",
+    "html css",
+    "import export",
+    "integration",
+    "internship",
+    "java",
+    "javascript",
+    "json",
+    "labels",
+    "languages",
+    "linux",
+    "linux ubuntu",
+    "local",
+    "macos",
+    "maintenance",
+    "management",
+    "music",
+    "next",
+    "object oriented",
+    "object oriented design",
+    "oct",
+    "operating systems",
+    "operating systems windows",
+    "physical",
+    "platform",
+    "program",
+    "programming",
+    "programming languages",
+    "project",
+    "project management",
+    "project management software",
+    "projects",
+    "protocols",
+    "python",
+    "react",
+    "real time",
+    "recycling",
+    "requirements",
+    "roles",
+    "scholarship",
+    "science",
+    "sciences",
+    "software",
+    "software design",
+    "software development",
+    "software engineering",
+    "software testing",
+    "sql",
+    "storage",
+    "submission",
+    "systems",
+    "systems design",
+    "technical",
+    "technical skills",
+    "technology",
+    "tools",
+    "ubuntu",
+    "united states",
+    "usability",
+    "user feedback",
+    "web",
+    "web application",
+    "windows",
+    "windows linux",
+    "workflows",
+    "xml"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [],
+  "skill_weights": {},
+  "market_relevant": [
+    "api",
+    "api development",
+    "bachelor",
+    "book management",
+    "centers",
+    "co op",
+    "code",
+    "combine",
+    "computer",
+    "computer systems",
+    "computing",
+    "control",
+    "controls",
+    "coursework",
+    "css",
+    "csv",
+    "cybersecurity",
+    "data",
+    "data storage",
+    "database",
+    "database systems",
+    "design",
+    "design software",
+    "development",
+    "development process",
+    "digital",
+    "display",
+    "driven",
+    "engineer",
+    "engineering",
+    "event driven",
+    "export",
+    "feedback",
+    "friendly",
+    "frontend",
+    "frontend development",
+    "full time",
+    "gui",
+    "html",
+    "html css",
+    "import export",
+    "integration",
+    "internship",
+    "java",
+    "javascript",
+    "json",
+    "labels",
+    "languages",
+    "linux",
+    "linux ubuntu",
+    "local",
+    "macos",
+    "maintenance",
+    "management",
+    "music",
+    "next",
+    "object oriented",
+    "object oriented design",
+    "oct",
+    "operating systems",
+    "operating systems windows",
+    "physical",
+    "platform",
+    "program",
+    "programming",
+    "programming languages",
+    "project",
+    "project management",
+    "project management software",
+    "projects",
+    "protocols",
+    "python",
+    "react",
+    "real time",
+    "recycling",
+    "requirements",
+    "roles",
+    "scholarship",
+    "science",
+    "sciences",
+    "software",
+    "software design",
+    "software development",
+    "software engineering",
+    "software testing",
+    "sql",
+    "storage",
+    "submission",
+    "systems",
+    "systems design",
+    "technical",
+    "technical skills",
+    "technology",
+    "tools",
+    "ubuntu",
+    "united states",
+    "usability",
+    "user feedback",
+    "web",
+    "web application",
+    "windows",
+    "windows linux",
+    "workflows",
+    "xml"
+  ],
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
+    {
+      "skill": "bachelor",
+      "source_section": "summary",
+      "matched_text": "Bachelor of  Science, Software Engineering Major",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "co op",
+      "source_section": "summary",
+      "matched_text": "=== Devin Rhodie - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "computer",
+      "source_section": "summary",
+      "matched_text": "Cybersecurity, Database systems, Computer systems concepts",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "computer systems",
+      "source_section": "summary",
+      "matched_text": "Cybersecurity, Database systems, Computer systems concepts",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "computing",
+      "source_section": "summary",
+      "matched_text": "EDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "coursework",
+      "source_section": "summary",
+      "matched_text": "\u00b7  Relevant Coursework: Software Design for computing systems, Web engineering,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cybersecurity",
+      "source_section": "summary",
+      "matched_text": "Cybersecurity, Database systems, Computer systems concepts",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "database",
+      "source_section": "summary",
+      "matched_text": "Cybersecurity, Database systems, Computer systems concepts",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "database systems",
+      "source_section": "summary",
+      "matched_text": "Cybersecurity, Database systems, Computer systems concepts",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "design",
+      "source_section": "summary",
+      "matched_text": "development or systems design for Spring/Summer 2026.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "design software",
+      "source_section": "summary",
+      "matched_text": "=== Devin Rhodie - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "development",
+      "source_section": "summary",
+      "matched_text": "development or systems design for Spring/Summer 2026.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engineering",
+      "source_section": "summary",
+      "matched_text": "Software Engineering student seeking a full-time co-op/internship in software",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "full time",
+      "source_section": "summary",
+      "matched_text": "=== Devin Rhodie - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "internship",
+      "source_section": "summary",
+      "matched_text": "Software Engineering student seeking a full-time co-op/internship in software",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "management",
+      "source_section": "summary",
+      "matched_text": "Human-centered requirements and design, Software process and project management,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "project",
+      "source_section": "summary",
+      "matched_text": "Human-centered requirements and design, Software process and project management,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "project management",
+      "source_section": "summary",
+      "matched_text": "Human-centered requirements and design, Software process and project management,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "project management software",
+      "source_section": "summary",
+      "matched_text": "=== Devin Rhodie - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "requirements",
+      "source_section": "summary",
+      "matched_text": "Human-centered requirements and design, Software process and project management,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "scholarship",
+      "source_section": "summary",
+      "matched_text": "\u00b7  GPA: 3.0 | Awarded Dean\u2019s List (Spring 2025)| ENGAGE Scholarship (Merit-Based)",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "science",
+      "source_section": "summary",
+      "matched_text": "EDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "sciences",
+      "source_section": "summary",
+      "matched_text": "EDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software",
+      "source_section": "summary",
+      "matched_text": "Software Engineering student seeking a full-time co-op/internship in software",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software design",
+      "source_section": "summary",
+      "matched_text": "\u00b7  Relevant Coursework: Software Design for computing systems, Web engineering,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software development",
+      "source_section": "summary",
+      "matched_text": "=== Devin Rhodie - Resume.pdf ===",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software engineering",
+      "source_section": "summary",
+      "matched_text": "Software Engineering student seeking a full-time co-op/internship in software",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software testing",
+      "source_section": "summary",
+      "matched_text": "Software testing, Intro to software engineering, Engineering of software subsystems,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "systems",
+      "source_section": "summary",
+      "matched_text": "development or systems design for Spring/Summer 2026.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "systems design",
+      "source_section": "summary",
+      "matched_text": "development or systems design for Spring/Summer 2026.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technology",
+      "source_section": "summary",
+      "matched_text": "EDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "web",
+      "source_section": "summary",
+      "matched_text": "\u00b7  Relevant Coursework: Software Design for computing systems, Web engineering,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "api",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "api development",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "book management",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Built a GUI-based comic book management app with tools for searching, adding, and editing",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "centers",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Created a web application using HTML and JavaScript to display local recycling centers.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "code",
+      "source_section": "skills",
+      "matched_text": "UpperLine Code",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "combine",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Collaborated in a team to combine different subsystem designs into a functional application.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "control",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "css",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "csv",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "data",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "data storage",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "development process",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Presented the project to a cohort of peers, explaining the development process and features.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "digital",
+      "source_section": "skills",
+      "matched_text": "PROJECT  Musical Instrument Digital Interface (MIDI) App",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "display",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Created a web application using HTML and JavaScript to display local recycling centers.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "driven",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Integrated LED feedback and event-driven state handling for real-time playback control.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engineer",
+      "source_section": "skills",
+      "matched_text": "Software Engineer Intern",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "event driven",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "export",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "feedback",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Integrated LED feedback and event-driven state handling for real-time playback control.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "friendly",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Designed a user-friendly interface and integrated location based search functionality.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "frontend",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Collaborated with a partner, focusing on frontend development.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "frontend development",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Collaborated with a partner, focusing on frontend development.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "gui",
+      "source_section": "skills",
+      "matched_text": "COMIX GUI application",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "html",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "html css",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "import export",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "integration",
+      "source_section": "skills",
+      "matched_text": "and Integration, object-oriented design",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "java",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "javascript",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "json",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "labels",
+      "source_section": "skills",
+      "matched_text": "\u00b7 Led UI debranding efforts, updating styles, labels, and more for new platform requirements.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "languages",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "linux",
+      "source_section": "skills",
+      "matched_text": "Operating Systems: Windows, Linux(Ubuntu), macOS",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "linux ubuntu",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "local",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Created a web application using HTML and JavaScript to display local recycling centers.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "macos",
+      "source_section": "skills",
+      "matched_text": "Operating Systems: Windows, Linux(Ubuntu), macOS",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "maintenance",
+      "source_section": "skills",
+      "matched_text": "\u00b7 Contributed to the development and maintenance of SCOOPortal, a web application",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "music",
+      "source_section": "skills",
+      "matched_text": "PROJECT  Musical Instrument Digital Interface (MIDI) App",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "next",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "object oriented",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "object oriented design",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "oct",
+      "source_section": "skills",
+      "matched_text": "Oct 2024 - Nov 2024",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "operating systems",
+      "source_section": "skills",
+      "matched_text": "Operating Systems: Windows, Linux(Ubuntu), macOS",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "operating systems windows",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "physical",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented dual-mode input system supporting both terminal commands and physical",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "platform",
+      "source_section": "skills",
+      "matched_text": "\u00b7 Led UI debranding efforts, updating styles, labels, and more for new platform requirements.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "program",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "programming",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "programming languages",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "protocols",
+      "source_section": "skills",
+      "matched_text": "EXPERIENCE  \u00b7  Created a cross device application handling MIDI protocols for real time music playback.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "python",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "react",
+      "source_section": "skills",
+      "matched_text": "\u00b7 Refactored complex React modal components to improve usability, state handling, and error",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "real time",
+      "source_section": "skills",
+      "matched_text": "EXPERIENCE  \u00b7  Created a cross device application handling MIDI protocols for real time music playback.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "recycling",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Created a web application using HTML and JavaScript to display local recycling centers.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "roles",
+      "source_section": "skills",
+      "matched_text": "management across multiple user roles.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "sql",
+      "source_section": "skills",
+      "matched_text": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "storage",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "submission",
+      "source_section": "skills",
+      "matched_text": "user feedback during form submission workflows.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical skills",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "tools",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Built a GUI-based comic book management app with tools for searching, adding, and editing",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "ubuntu",
+      "source_section": "skills",
+      "matched_text": "Operating Systems: Windows, Linux(Ubuntu), macOS",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "united states",
+      "source_section": "skills",
+      "matched_text": "New York, United States",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "usability",
+      "source_section": "skills",
+      "matched_text": "\u00b7 Refactored complex React modal components to improve usability, state handling, and error",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "user feedback",
+      "source_section": "skills",
+      "matched_text": "user feedback during form submission workflows.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "web application",
+      "source_section": "skills",
+      "matched_text": "\u00b7 Contributed to the development and maintenance of SCOOPortal, a web application",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "windows",
+      "source_section": "skills",
+      "matched_text": "Operating Systems: Windows, Linux(Ubuntu), macOS",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "windows linux",
+      "source_section": "skills",
+      "matched_text": "Technical Skills:",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "workflows",
+      "source_section": "skills",
+      "matched_text": "user feedback during form submission workflows.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "xml",
+      "source_section": "skills",
+      "matched_text": "\u00b7  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "controls",
+      "source_section": "experience",
+      "matched_text": "Created a cross-device application handling MIDI protocols for real-time music playback. Designed C++ software with Play, Pause, Stop, and Next controls. Implemented dual-mode input (terminal + physical buttons) and integrated LED feedback with event-driven state handling.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "projects",
+      "source_section": "experience",
+      "matched_text": "## Projects",
+      "match_type": "vocabulary"
+    }
+  ],
+  "gaps": [
+    "backend",
+    "documentation",
+    "dotnet",
+    "nodejs"
+  ],
+  "core_gaps": [
+    "backend",
+    "documentation",
+    "dotnet",
+    "nodejs"
+  ],
+  "bridge_gaps": [],
+  "stretch_gaps": [
+    "asp.net",
+    "c#",
+    "csharp",
+    "debugging",
+    "full-stack",
+    "jest",
+    "jquery",
+    "js",
+    "microservices",
+    "ms-sql"
+  ],
+  "nice_to_have_gaps": [
+    "asp.net",
+    "c#",
+    "csharp",
+    "debugging",
+    "full-stack",
+    "jest",
+    "jquery",
+    "js",
+    "microservices",
+    "ms-sql"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "commissioning",
+      "pmi": 5.19
+    },
+    {
+      "skill": "mdm",
+      "pmi": 5.16
+    },
+    {
+      "skill": "mhe",
+      "pmi": 4.85
+    },
+    {
+      "skill": "networkdesign",
+      "pmi": 4.79
+    },
+    {
+      "skill": "electronicsystems",
+      "pmi": 4.72
+    },
+    {
+      "skill": "mechanicalsystems",
+      "pmi": 4.65
+    },
+    {
+      "skill": "plc",
+      "pmi": 4.64
+    },
+    {
+      "skill": "safety",
+      "pmi": 4.6
+    },
+    {
+      "skill": "ccna",
+      "pmi": 4.5
+    },
+    {
+      "skill": "ownership",
+      "pmi": 4.44
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "commissioning",
+      "pmi": 5.19
+    },
+    {
+      "skill": "mdm",
+      "pmi": 5.16
+    },
+    {
+      "skill": "mhe",
+      "pmi": 4.85
+    },
+    {
+      "skill": "networkdesign",
+      "pmi": 4.79
+    },
+    {
+      "skill": "electronicsystems",
+      "pmi": 4.72
+    },
+    {
+      "skill": "mechanicalsystems",
+      "pmi": 4.65
+    },
+    {
+      "skill": "plc",
+      "pmi": 4.64
+    },
+    {
+      "skill": "safety",
+      "pmi": 4.6
+    },
+    {
+      "skill": "ccna",
+      "pmi": 4.5
+    },
+    {
+      "skill": "ownership",
+      "pmi": 4.44
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "design",
+      "pct": 6
+    },
+    {
+      "function": "education",
+      "pct": 5
+    },
+    {
+      "function": "arts-media",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "For a technology path, focus first on backend, documentation, dotnet. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Web Developer",
+      "company": "trexsolutions",
+      "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8566159002",
+      "fit": 62,
+      "label": "goal",
+      "job_type": "goal",
+      "subdomain": "systems",
+      "why": "some missing job skills",
+      "gaps": "backend, documentation, dotnet",
+      "job_score_breakdown": {
+        "goal_alignment": 0.714,
+        "study_alignment": 0.857,
+        "subdomain_alignment": 0.333,
+        "experience_alignment": 0.381,
+        "attainability": 0.85,
+        "skill_overlap": 0.444,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "Software Engineer",
+      "company": "ixllearning",
+      "url": "https://www.ixl.com/company/jobs?gh_jid=8542254002",
+      "fit": 58,
+      "label": "goal",
+      "job_type": "goal",
+      "subdomain": "software",
+      "why": "some missing job skills",
+      "gaps": "backend, documentation, dotnet",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.714,
+        "subdomain_alignment": 0.625,
+        "experience_alignment": 0.238,
+        "attainability": 0.85,
+        "skill_overlap": 0.5,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": ".Net Application Developer",
+      "company": "InfojiniInc1",
+      "url": "https://jobs.smartrecruiters.com/InfojiniInc1/91685085",
+      "fit": 51,
+      "label": "goal",
+      "job_type": "goal",
+      "subdomain": "software",
+      "why": "multiple missing job skills",
+      "gaps": "backend, documentation, dotnet",
+      "job_score_breakdown": {
+        "goal_alignment": 0.429,
+        "study_alignment": 0.571,
+        "subdomain_alignment": 0.739,
+        "experience_alignment": 0.2,
+        "attainability": 0.75,
+        "skill_overlap": 0.333,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "ReactJS Developer",
+      "company": "questronix-corporation-2",
+      "url": "https://apply.workable.com/j/082293CEE6",
+      "fit": 50,
+      "label": "goal",
+      "job_type": "goal",
+      "subdomain": "software",
+      "why": "some missing job skills",
+      "gaps": "backend, documentation, dotnet",
+      "job_score_breakdown": {
+        "goal_alignment": 0.429,
+        "study_alignment": 0.571,
+        "subdomain_alignment": 0.636,
+        "experience_alignment": 0.238,
+        "attainability": 0.85,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      }
+    },
+    {
+      "title": "New Grad Software Engineer (Full Stack)",
+      "company": "n1",
+      "url": "https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a",
+      "fit": 48,
+      "label": "goal",
+      "job_type": "goal",
+      "subdomain": "software",
+      "why": "some missing job skills",
+      "gaps": "backend, documentation, dotnet",
+      "job_score_breakdown": {
+        "goal_alignment": 0.429,
+        "study_alignment": 0.571,
+        "subdomain_alignment": 0.419,
+        "experience_alignment": 0.3,
+        "attainability": 0.85,
+        "skill_overlap": 0.4,
+        "quality_penalty": 0.0
+      }
+    }
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "technology"
+    ],
+    "goal_roles": [
+      "engineer",
+      "intern"
+    ],
+    "goal_subdomains": [
+      "software",
+      "engineering"
+    ],
+    "study_domains": [
+      "technology"
+    ],
+    "study_subdomains": [
+      "software",
+      "engineering"
+    ],
+    "study_program": "Bachelor of Science, Software Engineering | Anticipated May 2027",
+    "study_level": "bachelor",
+    "intent_confidence": 0.813,
+    "intent_strength": 1.0,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "Software Engineering Student at Rochester Institute of Technology | Dean's List",
+    "summary_text": "Software Engineering Student at Rochester Institute of Technology | Dean's List\n=== Devin Rhodie - Resume.pdf ===\nDevin Rhodie\n516-402-0127  \u2022  dkr1418@rit.edu  \u2022  www.linkedin.com/in/devin-rhodie-858bb5267\nSoftware Engineering student seeking a full-time co-op/internship in soft",
+    "study_text": "Bachelor of Science, Software Engineering | Anticipated May 2027\n**Rochester Institute of Technology** \u2014 Golisano College of Computing and Information Sciences\nBachelor of Science, Software Engineering | Anticipated May 2027\nGPA: 3.0 | Dean's List (Spring 2025) | ENGAGE Scholarsh"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "technology": 76,
+      "design": 8,
+      "education": 7
+    },
+    "study": {
+      "technology": 81,
+      "design": 9,
+      "arts-media": 2
+    },
+    "classifier": {
+      "technology": 77,
+      "arts-media": 7,
+      "design": 3
+    },
+    "onet": {
+      "technology": 28,
+      "education": 14,
+      "healthcare": 13
+    },
+    "embeddings": {},
+    "experience": {
+      "technology": 62,
+      "arts-media": 10,
+      "education": 7
+    }
+  },
+  "candidate_functions": [
+    "technology"
+  ],
+  "subdomain": "software",
+  "subdomain_confidence": 0.72,
+  "subdomain_alternatives": [
+    "engineering",
+    "systems"
+  ],
+  "lane_used": "fast",
+  "job_cluster": [
+    "systems",
+    "software",
+    "software",
+    "software",
+    "software"
+  ],
+  "needs_review": false,
+  "review_reasons": [],
+  "llm_stage_results": {},
+  "llm_trace": [],
+  "normalization_source": "deterministic"
+}

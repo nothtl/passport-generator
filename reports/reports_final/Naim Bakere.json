@@ -1,0 +1,1683 @@
+{
+  "name": "Naim Bakere",
+  "zone": 3,
+  "education_level": "associate",
+  "graduated": false,
+  "graduation_year": 2025,
+  "source_files": [
+    "Naim Bakere - Resume.pdf",
+    "Naim Bakere - LinkedIn.md"
+  ],
+  "skills": [
+    "Foreign Language",
+    "English Language",
+    "Programming",
+    "Design",
+    "Writing",
+    "Speaking",
+    "Coordination",
+    "Learning Strategies",
+    "Judgment and Decision Making",
+    "Time Management",
+    "Economics and Accounting",
+    "Administration and Management",
+    "Instructing",
+    "Personnel and Human Resources",
+    "Customer and Personal Service",
+    "Management of Material Resources",
+    "Service Orientation",
+    "Engineering and Technology",
+    "Administrative",
+    "Management of Personnel Resources"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Multilingual: English, French, Tchamba, Kotokolie, & Awe",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Multilingual: English...",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Programming",
+      "evidence": "Learning Coding, Developing (Video Programing), Creating Websites",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Learning (Technical Modeling), Creating Websites",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Building a resume, improving writing skill",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Improving communication skills in terms of language, and concentrating on the audience, Communicating with customers",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Teamwork, Organizing store, Assist in setting up prayer mats",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Establishing a plan for college",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "Establishing a plan for college",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Practicing time management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Learning about business, Ordering products for stock",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Learning about business, Organizing store",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Training new hires",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Personnel and Human Resources",
+      "evidence": "Training new hires",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Communicating with customers",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Ordering products for stock",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Assist in setting up prayer mats and in also cleaning up afterwards",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Engineering and Technology",
+      "evidence": "Learning (Technical Modeling), CCNY STEM Tech",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "administrative tasks, Organizing store",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Personnel Resources",
+      "evidence": "Increasing my leadership skills",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "37-1011.00",
+      "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "zone": 2,
+      "pct": 53.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Management of Personnel Resources",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Personnel and Human Resources"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 53.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Time Management",
+        "Speaking",
+        "Writing",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "43-4061.00",
+      "title": "Eligibility Interviewers, Government Programs",
+      "zone": 3,
+      "pct": 53.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Writing",
+        "Service Orientation",
+        "Personnel and Human Resources"
+      ]
+    },
+    {
+      "soc": "43-6014.00",
+      "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "zone": 2,
+      "pct": 52.9,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Service Orientation",
+        "Time Management",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "11-9081.00",
+      "title": "Lodging Managers",
+      "zone": 4,
+      "pct": 52.9,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Personnel and Human Resources",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Administrative",
+        "Speaking",
+        "Management of Personnel Resources"
+      ]
+    },
+    {
+      "soc": "11-3012.00",
+      "title": "Administrative Services Managers",
+      "zone": 3,
+      "pct": 52.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Time Management",
+        "Administrative",
+        "Speaking",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-9179.02",
+      "title": "Spa Managers",
+      "zone": 3,
+      "pct": 52.8,
+      "matched_skills": [
+        "Administrative",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Management of Personnel Resources",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "35-1012.00",
+      "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+      "zone": 2,
+      "pct": 52.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Management of Personnel Resources",
+        "Speaking",
+        "Coordination",
+        "Instructing",
+        "Service Orientation",
+        "Administration and Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "43-9061.00",
+      "title": "Office Clerks, General",
+      "zone": 2,
+      "pct": 52.5,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Administration and Management",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "13-1071.00",
+      "title": "Human Resources Specialists",
+      "zone": 4,
+      "pct": 52.4,
+      "matched_skills": [
+        "Personnel and Human Resources",
+        "Speaking",
+        "Administrative",
+        "Writing",
+        "Administration and Management",
+        "English Language",
+        "Customer and Personal Service",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 52.0,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking",
+        "Management of Personnel Resources"
+      ]
+    },
+    {
+      "soc": "39-2021.00",
+      "title": "Animal Caretakers",
+      "zone": 2,
+      "pct": 50.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "11-3111.00",
+      "title": "Compensation and Benefits Managers",
+      "zone": 4,
+      "pct": 50.4,
+      "matched_skills": [
+        "Personnel and Human Resources",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Administration and Management",
+        "Judgment and Decision Making",
+        "Customer and Personal Service",
+        "Management of Personnel Resources"
+      ]
+    },
+    {
+      "soc": "41-1012.00",
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "zone": 4,
+      "pct": 50.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 47.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "51-6052.00",
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "zone": 2,
+      "pct": 47.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Economics and Accounting",
+        "Time Management",
+        "Speaking",
+        "Design"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 47.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Administration and Management",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "39-1022.00",
+      "title": "First-Line Supervisors of Personal Service Workers",
+      "zone": 3,
+      "pct": 47.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Management of Personnel Resources",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 46.2,
+      "matched_skills": [
+        "Time Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Speaking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "13-1141.00",
+      "title": "Compensation, Benefits, and Job Analysis Specialists",
+      "zone": 4,
+      "pct": 45.9,
+      "matched_skills": [
+        "Personnel and Human Resources",
+        "English Language",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Writing",
+        "Economics and Accounting"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 45.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Coordination",
+        "Speaking",
+        "Customer and Personal Service",
+        "Management of Personnel Resources",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "47-1011.00",
+      "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+      "zone": 3,
+      "pct": 45.7,
+      "matched_skills": [
+        "Administration and Management",
+        "Coordination",
+        "Speaking",
+        "Customer and Personal Service",
+        "English Language",
+        "Management of Personnel Resources",
+        "Design"
+      ]
+    },
+    {
+      "soc": "41-2022.00",
+      "title": "Parts Salespersons",
+      "zone": 2,
+      "pct": 45.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Service Orientation",
+        "English Language",
+        "Economics and Accounting"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 45.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Administrative",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "35-2011.00",
+      "title": "Cooks, Fast Food",
+      "zone": 2,
+      "pct": 45.2,
+      "matched_skills": [
+        "Administration and Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Speaking",
+        "Coordination",
+        "Economics and Accounting"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 45.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administrative",
+        "Speaking",
+        "Service Orientation",
+        "Learning Strategies",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-5011.00",
+      "title": "Barbers",
+      "zone": 3,
+      "pct": 45.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Economics and Accounting",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "13-1032.00",
+      "title": "Insurance Appraisers, Auto Damage",
+      "zone": 3,
+      "pct": 45.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Administrative",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "27-2021.00",
+      "title": "Athletes and Sports Competitors",
+      "zone": 2,
+      "pct": 44.7,
+      "matched_skills": [
+        "Speaking",
+        "Administration and Management",
+        "English Language",
+        "Coordination",
+        "Customer and Personal Service",
+        "Personnel and Human Resources",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 44.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Management of Personnel Resources",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 44.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "13-1111.00",
+      "title": "Management Analysts",
+      "zone": 4,
+      "pct": 44.5,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Speaking",
+        "Writing",
+        "Judgment and Decision Making",
+        "Customer and Personal Service",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-3091.00",
+      "title": "Interpreters and Translators",
+      "zone": 4,
+      "pct": 44.1,
+      "matched_skills": [
+        "English Language",
+        "Foreign Language",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "27-1023.00",
+      "title": "Floral Designers",
+      "zone": 2,
+      "pct": 43.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Design",
+        "English Language",
+        "Service Orientation",
+        "Time Management",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "zone": 3,
+      "pct": 43.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Coordination",
+        "Management of Personnel Resources",
+        "Time Management",
+        "Administration and Management",
+        "Speaking",
+        "Design"
+      ]
+    },
+    {
+      "soc": "25-2058.00",
+      "title": "Special Education Teachers, Secondary School",
+      "zone": 4,
+      "pct": 43.7,
+      "matched_skills": [
+        "English Language",
+        "Learning Strategies",
+        "Instructing",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-2012.04",
+      "title": "Talent Directors",
+      "zone": 4,
+      "pct": 43.7,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Personnel and Human Resources",
+        "Administration and Management",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "35-1011.00",
+      "title": "Chefs and Head Cooks",
+      "zone": 3,
+      "pct": 43.4,
+      "matched_skills": [
+        "Coordination",
+        "Customer and Personal Service",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Time Management",
+        "Service Orientation",
+        "Personnel and Human Resources"
+      ]
+    },
+    {
+      "soc": "39-6012.00",
+      "title": "Concierges",
+      "zone": 2,
+      "pct": 43.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Coordination",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "41-9012.00",
+      "title": "Models",
+      "zone": 2,
+      "pct": 42.8,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Coordination",
+        "Time Management",
+        "English Language",
+        "Judgment and Decision Making",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 41.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Management of Personnel Resources",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "41-2011.00",
+      "title": "Cashiers",
+      "zone": 2,
+      "pct": 41.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Speaking",
+        "Administration and Management",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "51-1011.00",
+      "title": "First-Line Supervisors of Production and Operating Workers",
+      "zone": 3,
+      "pct": 41.4,
+      "matched_skills": [
+        "Administration and Management",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Time Management",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Personnel and Human Resources"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 40.9,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "English Language",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "49-3022.00",
+      "title": "Automotive Glass Installers and Repairers",
+      "zone": 2,
+      "pct": 40.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 40.3,
+      "matched_skills": [
+        "English Language",
+        "Administrative",
+        "Writing",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "29-2051.00",
+      "title": "Dietetic Technicians",
+      "zone": 3,
+      "pct": 40.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Administrative",
+        "Personnel and Human Resources",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 40.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Writing",
+        "English Language",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "51-6051.00",
+      "title": "Sewers, Hand",
+      "zone": 2,
+      "pct": 40.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 39.9,
+      "matched_skills": [
+        "Engineering and Technology",
+        "English Language",
+        "Speaking",
+        "Design",
+        "Customer and Personal Service",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 39.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "17-2111.00",
+      "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "zone": 4,
+      "pct": 39.7,
+      "matched_skills": [
+        "English Language",
+        "Engineering and Technology",
+        "Writing",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "29-2081.00",
+      "title": "Opticians, Dispensing",
+      "zone": 3,
+      "pct": 39.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "English Language",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "31-1121.00",
+      "title": "Home Health Aides",
+      "zone": 2,
+      "pct": 39.5,
+      "matched_skills": [
+        "Service Orientation",
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "47-2142.00",
+      "title": "Paperhangers",
+      "zone": 2,
+      "pct": 39.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Design"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 39.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "47-2161.00",
+      "title": "Plasterers and Stucco Masons",
+      "zone": 2,
+      "pct": 39.2,
+      "matched_skills": [
+        "Administration and Management",
+        "Design",
+        "English Language",
+        "Customer and Personal Service",
+        "Time Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "29-2092.00",
+      "title": "Hearing Aid Specialists",
+      "zone": 3,
+      "pct": 39.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Administration and Management",
+        "Service Orientation",
+        "Economics and Accounting"
+      ]
+    },
+    {
+      "soc": "17-3012.00",
+      "title": "Electrical and Electronics Drafters",
+      "zone": 3,
+      "pct": 38.9,
+      "matched_skills": [
+        "Design",
+        "Engineering and Technology",
+        "English Language",
+        "Administrative",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "31-9094.00",
+      "title": "Medical Transcriptionists",
+      "zone": 3,
+      "pct": 38.9,
+      "matched_skills": [
+        "English Language",
+        "Administrative",
+        "Writing",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "25-3011.00",
+      "title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+      "zone": 4,
+      "pct": 38.9,
+      "matched_skills": [
+        "English Language",
+        "Instructing",
+        "Learning Strategies",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "15-1212.00",
+      "title": "Information Security Analysts",
+      "zone": 4,
+      "pct": 38.8,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Engineering and Technology",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 38.6,
+      "matched_skills": [
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Administrative",
+        "Time Management",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 38.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "51-9071.00",
+      "title": "Jewelers and Precious Stone and Metal Workers",
+      "zone": 3,
+      "pct": 38.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Design",
+        "Administration and Management",
+        "Administrative",
+        "Engineering and Technology",
+        "Economics and Accounting"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 37.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 37.6,
+      "matched_skills": [
+        "Speaking",
+        "Instructing",
+        "Learning Strategies",
+        "English Language",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "17-2121.00",
+      "title": "Marine Engineers and Naval Architects",
+      "zone": 4,
+      "pct": 37.6,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Design",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-1032.00",
+      "title": "Foresters",
+      "zone": 4,
+      "pct": 37.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Administration and Management",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-1023.00",
+      "title": "Zoologists and Wildlife Biologists",
+      "zone": 4,
+      "pct": 36.2,
+      "matched_skills": [
+        "Speaking",
+        "Judgment and Decision Making",
+        "Writing",
+        "English Language",
+        "Coordination",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "29-2099.05",
+      "title": "Ophthalmic Medical Technologists",
+      "zone": 3,
+      "pct": 35.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "53-3033.00",
+      "title": "Light Truck Drivers",
+      "zone": 2,
+      "pct": 34.4,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Time Management",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "53-3031.00",
+      "title": "Driver/Sales Workers",
+      "zone": 2,
+      "pct": 34.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 34.2,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 34.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "33-9032.00",
+      "title": "Security Guards",
+      "zone": 2,
+      "pct": 34.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Administrative",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 34.0,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Writing",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 33.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "Coordination",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "21-1015.00",
+      "title": "Rehabilitation Counselors",
+      "zone": 4,
+      "pct": 33.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "15-1299.03",
+      "title": "Document Management Specialists",
+      "zone": 4,
+      "pct": 33.3,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Writing",
+        "Customer and Personal Service",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "49-9096.00",
+      "title": "Riggers",
+      "zone": 2,
+      "pct": 33.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Design",
+        "English Language",
+        "Engineering and Technology"
+      ]
+    },
+    {
+      "soc": "19-4012.01",
+      "title": "Precision Agriculture Technicians",
+      "zone": 3,
+      "pct": 33.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Writing",
+        "English Language",
+        "Engineering and Technology"
+      ]
+    },
+    {
+      "soc": "15-1299.08",
+      "title": "Computer Systems Engineers/Architects",
+      "zone": 3,
+      "pct": 32.5,
+      "matched_skills": [
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Customer and Personal Service",
+        "Engineering and Technology"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 32.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Service Orientation",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "45-3031.00",
+      "title": "Fishing and Hunting Workers",
+      "zone": 2,
+      "pct": 30.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Coordination",
+        "Judgment and Decision Making",
+        "English Language",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "45-2041.00",
+      "title": "Graders and Sorters, Agricultural Products",
+      "zone": 2,
+      "pct": 28.1,
+      "matched_skills": [
+        "English Language",
+        "Speaking",
+        "Coordination",
+        "Foreign Language"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 25,
+      "title": "Coordinator, People",
+      "company": "Success Academy",
+      "url": "https://job-boards.greenhouse.io/successacademycharterschool/jobs/5216651008",
+      "match_score": 50,
+      "embed_sim": 0.4812780022621155,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 6,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "Naim Bakere's resume shows some relevant experience and skills, but lacks significant evidence in key areas such as direct administrative or coordination experience, familiarity with Google Workspace, and relevant experience in a fast-paced environment like the role at Success Academy.",
+        "strengths": [
+          "Multilingual skills which may be beneficial in diverse workplace environments",
+          "Experience in administrative tasks and teamwork through various internships and work experiences",
+          "Training new hires indicates leadership and organization skills"
+        ],
+        "gaps": [
+          "No evidence of 1+ years of direct experience in a coordination or administrative role",
+          "Lack of specific experience in calendar and logistics management",
+          "No mention of strong technical proficiency in Google Workspace or similar tools",
+          "Limited experience in drafting and proofreading internal correspondence",
+          "No indication of handling sensitive information, which is crucial for the role"
+        ]
+      },
+      "blended_score": 75
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 4,
+      "title": "Part Time School Coordinator ",
+      "company": "Think Academy US",
+      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7765287003",
+      "match_score": 65,
+      "embed_sim": 0.43795686960220337,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Naim Bakere's resume shows some relevant experience and skills that could benefit the role of Front Desk & School Coordinator; however, there are notable gaps in administrative experience and specific education sector experience that are highly relevant to the job description.",
+        "strengths": [
+          "Multilingual ability which can enhance communication with diverse families",
+          "Experience in organizing tasks and training new hires at retail, demonstrating organizational skills",
+          "Internships that show a willingness to learn and improve communication skills"
+        ],
+        "gaps": [
+          "Limited direct experience in educational or administrative roles, which are essential for the coordinator position",
+          "No mentioned experience specifically handling front desk operations or parental communications",
+          "Lacks specific examples of multitasking and managing calm in busy environments, as emphasized in the job description"
+        ]
+      },
+      "blended_score": 63
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 6,
+      "title": "Career Development Specialist",
+      "company": "Connecticut Institute for Refugees and Immigrants (CIRI)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4231885",
+      "match_score": 40,
+      "embed_sim": 0.4495927393436432,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 3,
+      "why": {
+        "verdict": "weak",
+        "match_score": 40,
+        "summary": "The candidate's resume shows some related skills but lacks the necessary experience and educational background required for the Career Development Specialist position. There are notable gaps in qualifications and relevant work experience.",
+        "strengths": [
+          "Multilingual abilities which could be beneficial for working with diverse clients",
+          "Experience in volunteering and internships, indicating some community involvement"
+        ],
+        "gaps": [
+          "No Bachelor's degree, as the job requires a Bachelor's in a related field",
+          "Lacks relevant work experience in employment services or career coaching",
+          "No direct experience working with vulnerable or underserved populations",
+          "Insufficient evidence of organizational and client management skills required by the role"
+        ]
+      },
+      "blended_score": 56
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 16,
+      "title": "Bilingual Administrative Assistant (English/Spanish) - Uniondale",
+      "company": "e6add975-0f27-468d-a739-15f8b7820fb2",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2754786",
+      "match_score": 30,
+      "embed_sim": 0.4570438861846924,
+      "verdict": "weak",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 1,
+      "why": {
+        "verdict": "weak",
+        "match_score": 30,
+        "summary": "The candidate has limited relevant experience, lacks bilingual skills in Spanish, and has minimal administrative background, which are critical for the Bilingual Administrative Assistant position.",
+        "strengths": [
+          "Multilingual in English and French, which may be a plus in some contexts.",
+          "Experience in a supportive role through internships and previous work as a training lead."
+        ],
+        "gaps": [
+          "No evidence of bilingual proficiency in Spanish, which is a key requirement in the job description.",
+          "Limited administrative experience and office skills; lacks understanding of school operations and requirements.",
+          "Insufficient direct experience in a school environment or urban communities as required by the job."
+        ]
+      },
+      "blended_score": 54
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 19,
+      "title": "Sr Staff Asst",
+      "company": "Rochester Institute of Technology (RIT)",
+      "url": "https://rit.wd12.myworkdayjobs.com/job/Rochester-NY/Sr-Staff-Asst_JR102179",
+      "match_score": 45,
+      "embed_sim": 0.4367508888244629,
+      "verdict": "weak",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 5,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "The candidate's resume shows limited relevant experience and skills necessary to fulfill the job's requirements. While there is some experience in organizational and customer service roles, it does not translate strongly to the administrative and academic support tasks required for this position.",
+        "strengths": [
+          "Multilingual skills may aid communication",
+          "Experience in training new hires shows some leadership ability",
+          "Customer service skills demonstrated at the VIM Store"
+        ],
+        "gaps": [
+          "Lacks 3 years of relevant experience in office management or administrative procedures",
+          "No demonstrated experience with academic program structures or student services",
+          "Limited exposure to higher education policies and procedures",
+          "Does not indicate familiarity with grant proposal preparation or financial processes",
+          "No experience mentioned with data analysis or academic record management",
+          "Absence of knowledge or skills in scheduling software, which is critical for the role and showed no evidence of contributions to digital presence or social media efforts."
+        ]
+      },
+      "blended_score": 52
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 15,
+      "title": "Office Assistant ",
+      "company": "ACCEL Schools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7766252003",
+      "match_score": 55,
+      "embed_sim": 0.42198023200035095,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 4,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Naim Bakere has a basic educational background and internship experience that could relate to an office assistant role, but lacks specific office management experience and proficiency in Microsoft Office, which are essential for this job.",
+        "strengths": [
+          "Recent college graduate with an Associate Degree in Business.",
+          "Experience in organizing and communicating through previous work experience at VIM Store.",
+          "Multilingual skills, potentially beneficial in a diverse school environment."
+        ],
+        "gaps": [
+          "No direct office management experience or relevant clerical roles listed.",
+          "Lacks proficiency in Microsoft Office products, which is required for the job.",
+          "Limited experience in educational settings, which is preferred for this position."
+        ]
+      },
+      "blended_score": 51
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 11,
+      "title": "Personal Assistant",
+      "company": "AlphabeInsightInc",
+      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000101631922",
+      "match_score": 55,
+      "embed_sim": 0.4183381199836731,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Management",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Naim Bakere's resume shows some relevant skills but lacks specific experience and qualifications related to the personal assistant role. While he possesses multilingual communication skills and some organizational experience, the gaps in office-related tasks and the professional experience are notable.",
+        "strengths": [
+          "Multilingual capabilities which enhance communication skills.",
+          "Experience in organizing tasks and managing team members as a trainer at VIM Store.",
+          "Demonstrated leadership and communication skills through various activities."
+        ],
+        "gaps": [
+          "No direct experience managing calendars or scheduling appointments, which is critical for the role.",
+          "Lacks professional experience in handling correspondence, emails, and phone communications.",
+          "Insufficient evidence of proficiency in office software and productivity tools required for the position."
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 1,
+      "title": "Front Office Representative",
+      "company": "AlphabeInsightInc",
+      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000132767889",
+      "match_score": 60,
+      "embed_sim": 0.4076654016971588,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "The candidate has some relevant skills and experience but does not directly demonstrate a strong fit for the Front Office Representative position. While they possess customer service experience and organizational skills from past roles, there are notable gaps in their specific qualifications for this job.",
+        "strengths": [
+          "Multilingual, which is a key asset in customer service roles",
+          "Experience in training others and organizing store operations shows organizational and communication skills",
+          "Demonstrated ability to work in teams and improve communication skills"
+        ],
+        "gaps": [
+          "No direct experience working in a front office or similar administrative roles",
+          "Lack of demonstrated proficiency with standard office software",
+          "Insufficient evidence of experience in managing calendars, appointments, or front desk operations",
+          "No examples of handling incoming calls or correspondence directly mentioned"
+        ]
+      },
+      "blended_score": 47
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 9,
+      "title": "Workforce Specialist",
+      "company": "Immigrant and Refugee Community Organization (IRCO)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4250783",
+      "match_score": 60,
+      "embed_sim": 0.3913959562778473,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 0,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "The candidate has relevant skills and experience, but there are significant gaps in specific job requirements and direct experience with the immigrant and refugee community.",
+        "strengths": [
+          "Multilingual abilities (English, French, and other languages) which are relevant for communication in diverse communities.",
+          "Experience in engaging in administrative tasks and teamwork, which could assist in job-related responsibilities.",
+          "Some experience in training and assisting others, indicative of a skill set that could translate to supporting job seekers."
+        ],
+        "gaps": [
+          "No direct experience in workforce development or employment services, which is a key aspect of the job.",
+          "Lacks specific experience working with immigrants and refugees, as required by the position.",
+          "No evidence of strong analytical and decision-making abilities required for assessing clients and developing employment plans.",
+          "No demonstrated experience with outreach or community engagement, which is critical for this role."
+        ]
+      },
+      "blended_score": 39
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 3,
+      "title": "Career Development Specialist",
+      "company": "International Rescue Committee (IRC)",
+      "url": "https://theirc.wd1.myworkdayjobs.com/job/Richmond-VA-USA/Career-Development-Specialist_JR00003718",
+      "match_score": 60,
+      "embed_sim": 0.38937634229660034,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "The candidate demonstrates some relevant skills and a willingness to work with diverse populations, but lacks direct experience in career counseling or with refugee populations, which are important for this role.",
+        "strengths": [
+          "Multilingual abilities in English, French, and other languages, which can be beneficial for working with diverse clients.",
+          "Strong organizational skills indicated through experience with training new hires and team projects.",
+          "Experience with customer service and communication in retail, which could translate to client interactions."
+        ],
+        "gaps": [
+          "Lacks direct experience in career counseling or job placement, which is a key requirement of the job.",
+          "No specific experience noted working with refugees or immigrant populations, which is highly desired.",
+          "Limited evidence of experience with vocational training or apprenticeship programs as mentioned in the job description."
+        ]
+      },
+      "blended_score": 38
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

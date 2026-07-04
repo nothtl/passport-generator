@@ -1,0 +1,10 @@
+{
+  "Safety Monitor / Hall Monitor": {
+    "eligible": true,
+    "reason": "Role does not involve age-restricted activities; suitable for minors."
+  },
+  "Event Security Staff": {
+    "eligible": false,
+    "reason": "Event security may require age 21+ for armed or unarmed security roles; often legally restricted."
+  }
+}

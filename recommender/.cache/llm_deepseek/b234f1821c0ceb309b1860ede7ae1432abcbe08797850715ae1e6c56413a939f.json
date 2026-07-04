@@ -1,0 +1,44 @@
+{
+  "accepted": true,
+  "chosen_function": "arts-media",
+  "chosen_subdomain": "photo-video",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Since I was a kid I have been passionate about art expression and the impact that art has in the world and the changes you can create with it."
+    },
+    {
+      "section": "experience",
+      "text": "Photographer & Visual Artist \u2014 New York, NY 2026 \u2013 Present Develop conceptual photography projects exploring identity, emotion, and contemporary social themes"
+    }
+  ],
+  "goal_domains": [
+    "arts-media",
+    "design"
+  ],
+  "goal_roles": [
+    "Photographer",
+    "Content Creator",
+    "Fashion Model"
+  ],
+  "goal_subdomains": [
+    "photo-video",
+    "content-creation"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "study_alignment",
+    "experience_alignment"
+  ],
+  "review_reasons": [],
+  "secondary_function": "design",
+  "study_domains": [
+    "arts-media",
+    "design"
+  ],
+  "study_subdomains": [
+    "photo-video",
+    "graphic-design"
+  ]
+}

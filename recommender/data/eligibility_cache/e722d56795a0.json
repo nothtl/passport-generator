@@ -1,0 +1,38 @@
+{
+  "ASC Math Tutor|||cecilcollege": {
+    "eligible": true,
+    "reason": "Tutoring role, no age restriction."
+  },
+  "Tutor, Math|||palmbeachstate": {
+    "eligible": true,
+    "reason": "Tutoring role, no age restriction."
+  },
+  "Temporary Tutor, Math|||palmbeachstate": {
+    "eligible": true,
+    "reason": "Temporary tutoring role, no age restriction."
+  },
+  "Paraprofessional|||UncommonSchools": {
+    "eligible": true,
+    "reason": "Paraprofessional role, typically open to 16+."
+  },
+  "Fall 2026 Instructional Design Intern": {
+    "eligible": true,
+    "reason": "Instructional design intern, no age restriction."
+  },
+  "NYS Certified Science Teacher|||williamsburgcharterhighschool": {
+    "eligible": false,
+    "reason": "NYS Certified Science Teacher requires certification and likely 21+."
+  },
+  "High School Tutor - 35 per hr|||tutor-me-education-1": {
+    "eligible": true,
+    "reason": "High school tutor, no age restriction."
+  },
+  "High School Adjunct (Substitute) Teacher (Remote within the United States)|||soraschools": {
+    "eligible": true,
+    "reason": "Substitute teacher role, may be open to 18+ but not 21+."
+  },
+  "Math Tutor / Teacher": {
+    "eligible": true,
+    "reason": "Math tutor/teacher, no age restriction."
+  }
+}

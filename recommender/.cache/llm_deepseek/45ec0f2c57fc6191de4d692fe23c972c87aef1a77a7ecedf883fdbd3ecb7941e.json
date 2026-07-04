@@ -1,0 +1,36 @@
+{
+  "accepted": true,
+  "chosen_function": "social-service",
+  "chosen_subdomain": "youth-support",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate"
+    },
+    {
+      "section": "summary",
+      "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
+    }
+  ],
+  "goal_domains": [
+    "social-service"
+  ],
+  "goal_roles": [
+    "Social Worker",
+    "Community Organizer",
+    "Youth Advocate"
+  ],
+  "goal_subdomains": [
+    "youth-support"
+  ],
+  "reason_codes": [
+    "explicit_goal"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "education"
+  ],
+  "study_subdomains": []
+}

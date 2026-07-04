@@ -1,0 +1,354 @@
+{
+  "name": "Benjamin Medrano",
+  "zone": 2,
+  "education_level": "high_school",
+  "source_files": [
+    "Benjamin Medrano - Resume.pdf"
+  ],
+  "skills": [
+    "Foreign Language",
+    "Customer and Personal Service",
+    "Computers and Electronics",
+    "Troubleshooting",
+    "Administrative",
+    "Coordination",
+    "Time Management",
+    "Speaking",
+    "Communications and Media",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Management of Personnel Resources",
+    "Management of Material Resources",
+    "English Language"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "BILINGUAL, Bilingual Communication, Assisted with Spanish–English translations",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "CUSTOMER SERVICE, proven customer service excellence, Assisted clients with technical problems",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "IT SUPPORT, Provided technical support, Troubleshot hardware and software issues",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Troubleshooting",
+      "evidence": "Troubleshot hardware and software issues, Assisted clients with technical problems, Assisted staff with technical troubleshooting",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "strong organizational skills, organizational assistance, Supported administrative and organizational tasks",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Led group projects, coordinating responsibilities among peers, Collaborated effectively with classmates, Organized office inventory",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "manage multiple tasks",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Bilingual Communication, delivering clear and effective guidance, facilitate communication",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Bilingual Communication, facilitate communication, delivering clear and effective guidance",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "improving user experience, apply communication and service",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "work effectively in team environments, Collaborated effectively with classmates, Contributed to a productive work environment",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Personnel Resources",
+      "evidence": "Led group projects, coordinating responsibilities among peers",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Organized office inventory, Organized office supplies and inventory",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "BILINGUAL, Spanish–English translations",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 67.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administrative",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 66.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "English Language",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-2011.00",
+      "title": "Switchboard Operators, Including Answering Service",
+      "zone": 2,
+      "pct": 66.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Administrative",
+        "Social Perceptiveness",
+        "Computers and Electronics",
+        "Service Orientation",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 64.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Time Management",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "39-6012.00",
+      "title": "Concierges",
+      "zone": 2,
+      "pct": 61.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Coordination",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "39-3031.00",
+      "title": "Ushers, Lobby Attendants, and Ticket Takers",
+      "zone": 2,
+      "pct": 59.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Communications and Media",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 58.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Administrative",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-9022.00",
+      "title": "Word Processors and Typists",
+      "zone": 2,
+      "pct": 58.4,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Speaking",
+        "Time Management",
+        "Service Orientation"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 1,
+      "title": "Patient Service Representative",
+      "company": "Albion Health (Albion Health/Albion Family Practice)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4097939",
+      "match_score": 85,
+      "comparisons": 17,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Benjamin Medrano's resume presents a solid fit for the Patient Service Representative position. He demonstrates relevant customer service experience, bilingual capabilities, and a commitment to teamwork, which aligns with the job requirements.",
+        "strengths": [
+          "Bilingual in Spanish and English, which is strongly preferred for this role.",
+          "Experience in customer service through various internships, indicating capability in handling patient interactions.",
+          "Organizational skills evidenced by tasks in previous internships, which are relevant to maintaining a smooth front desk operation."
+        ],
+        "gaps": [
+          "No specific mention of scheduling appointments or verifying patient information, which are key responsibilities of the role.",
+          "Limited administrative experience in a healthcare setting; most experience is in technical support and education environments."
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 31,
+      "title": "Front Desk Coordinator I",
+      "company": "Smile Doctors",
+      "url": "https://jobs.dayforcehcm.com/smiledoctors/CANDIDATEPORTAL/jobs/31365",
+      "match_score": 85,
+      "comparisons": 13,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "The candidate demonstrates relevant customer service experience, bilingual skills, and administrative capabilities that align well with the Front Desk Coordinator role. While they lack extensive administrative experience, their internships and skills suggest they could effectively transition into the position.",
+        "strengths": [
+          "Bilingual communication skills that would help in patient interactions",
+          "Experience in customer service and technical support which are relevant to handling patients at the front desk",
+          "Organizational skills showcased through internship experiences",
+          "Demonstrated ability to assist and support teams, displaying strong teamwork skills"
+        ],
+        "gaps": [
+          "No direct experience in a medical or dental office setting, which could be critical depending on the specific environment",
+          "Lacks one year of administrative experience as preferred in the job description",
+          "No specific evidence of handling patient check-ins or insurance verifications, which are key duties of the role"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 11,
+      "title": "Patient Services Representative - Front Desk - Bellevue, WA",
+      "company": "phynetdermatology",
+      "url": "https://job-boards.greenhouse.io/phynetdermatology/jobs/5083246007",
+      "match_score": 77,
+      "comparisons": 18,
+      "why": {
+        "verdict": "solid",
+        "match_score": 77,
+        "summary": "The candidate's resume shows a good fit for the Patient Services Representative position, particularly in customer service experience and bilingual communication skills. However, there are gaps in experience directly related to healthcare and specific issues such as billing and appointment scheduling.",
+        "strengths": [
+          "Proven customer service excellence",
+          "Bilingual communication abilities (Spanish and English)",
+          "Experience in technical troubleshooting and assistance in a healthcare environment",
+          "Strong organizational skills demonstrated in internship roles"
+        ],
+        "gaps": [
+          "No specific experience in patient registration or appointment scheduling",
+          "Lack of direct experience in a healthcare setting related to billing processes",
+          "Experience primarily in internship roles with limited duration",
+          "Limited evidence of navigating multiple computer systems simultaneously"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 33,
+      "title": "Clerk/Front Desk (49201)",
+      "company": "abacuscorporation",
+      "url": "https://jobs.crelate.com/portal/abacuscorporation/job/4fktjxsimuzomnhuq7rkszubcy",
+      "match_score": 76,
+      "comparisons": 11,
+      "why": {
+        "verdict": "solid",
+        "match_score": 76,
+        "summary": "The candidate demonstrates a good fit for the Clerk/Front Desk position, with relevant customer service experience and strong bilingual communication skills. However, there are some areas that could benefit from further development in terms of specific clerical and administrative tasks directly mentioned in the job description.",
+        "strengths": [
+          "Proven customer service excellence through internship experience",
+          "Bilingual communication abilities enhancing service for diverse visitor needs",
+          "Experience providing technical support and organizational assistance demonstrates relevant skills",
+          "Participation in collaborative and team projects shows ability to work effectively in a public-facing environment"
+        ],
+        "gaps": [
+          "Limited direct experience in managing visitor intake and maintaining a visitor management system",
+          "No explicit experience in handling office inventories related to incoming citizen mail or distribution of supplies",
+          "Lack of detail regarding specific clerical skills such as copying documents or maintaining resource directories"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 5,
+      "title": "Part-Time Receptionist - School Hours",
+      "company": "Connect Academy / ReConnect",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4245838",
+      "match_score": 75,
+      "comparisons": 17,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate shows a solid fit for the part-time receptionist role based on customer service experience and bilingual communication skills. However, there is a notable lack of experience in specific administrative tasks required for the position.",
+        "strengths": [
+          "Proven customer service excellence",
+          "Bilingual communication abilities (Spanish and English)",
+          "Strong organizational skills demonstrated in previous internships",
+          "Experience assisting clients and handling technical support issues"
+        ],
+        "gaps": [
+          "Lack of explicit administrative experience such as data entry, filing, and managing school records",
+          "No direct experience in handling student safety or security issues",
+          "Insufficient evidence of experience managing calendars or coordinating appointments"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 520,
+    "ranked": 520,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Assistant Safety Coordinator|||holderconstruction": {
+    "eligible": true,
+    "reason": "Safety coordinator role, no age restriction."
+  },
+  "Purchasing Intern|||BoschGroup": {
+    "eligible": true,
+    "reason": "Internship, no age restriction."
+  },
+  "General Service Technician|||teamcarcare": {
+    "eligible": true,
+    "reason": "General service technician, no age restriction."
+  },
+  "Line Cook": {
+    "eligible": true,
+    "reason": "Line cook, no age restriction."
+  },
+  "Plumbing Apprentice|||sila": {
+    "eligible": true,
+    "reason": "Apprentice, no age restriction."
+  },
+  "Guest Service Agent|||accorpacific": {
+    "eligible": true,
+    "reason": "Guest service agent, no age restriction."
+  },
+  "Kitchen Apprentice": {
+    "eligible": true,
+    "reason": "Kitchen apprentice, no age restriction."
+  },
+  "Pizza Chef(05384) - 7709 Parkway Dr|||Dominos": {
+    "eligible": true,
+    "reason": "Pizza chef, no age restriction."
+  }
+}

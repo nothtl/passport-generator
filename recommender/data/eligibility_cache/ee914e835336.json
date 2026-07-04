@@ -1,0 +1,30 @@
+{
+  "Junior Gymnastics Coach - New Gym Opening": {
+    "eligible": true,
+    "reason": "Coaching role, no age restriction."
+  },
+  "Volleyball Coach -Youth Sports": {
+    "eligible": true,
+    "reason": "Coaching role, no age restriction."
+  },
+  "Tumbling/Gymnastics Instructor - French Creek YMCA|||cleveymca": {
+    "eligible": true,
+    "reason": "Instructor role, no age restriction."
+  },
+  "Before & After School Counselor": {
+    "eligible": true,
+    "reason": "School counselor role, no age restriction."
+  },
+  "Swim Lesson Instructor|||philaymca": {
+    "eligible": true,
+    "reason": "Swim instructor, no age restriction."
+  },
+  "Forklift Operator/Laborer|||emrgroup": {
+    "eligible": false,
+    "reason": "Forklift operator typically requires age 18+ and certification, but 16-17 may be ineligible due to hazardous equipment restrictions."
+  },
+  "2026 Summer Camp Counselor - Multiple YMCA Locations - West Side (Cuyahoga and Lorain Counties)|||cleveymca": {
+    "eligible": true,
+    "reason": "Camp counselor, no age restriction."
+  }
+}

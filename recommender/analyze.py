@@ -638,31 +638,18 @@ def analyze(
     # Legacy flat job list for backward compatibility
     jobs = ready_now + aspirational
 
-    # Rescale scores to a more competitive range (50-95%) while preserving relative order.
-    # Our IDF scores are honest but lower than the zip's GPT-4o-mini scores.
-    # This calibration maps our raw 20-60% range → 50-95% for better user perception.
-    def _rescale(scores: list[float], floor: float = 50, ceiling: float = 92) -> list[float]:
-        if not scores:
-            return scores
-        lo, hi = min(scores), max(scores)
-        if hi == lo:
-            return [round((floor + ceiling) / 2)] * len(scores)
-        return [round(floor + (s - lo) / (hi - lo) * (ceiling - floor)) for s in scores]
-
-    all_fits = [j["fit"] for j in jobs if j.get("fit", 0) > 0]
-    if all_fits:
-        rescaled = _rescale(all_fits)
-        idx = 0
-        for j in jobs:
-            if j.get("fit", 0) > 0 and idx < len(rescaled):
-                j["fit"] = rescaled[idx]
-                idx += 1
-        for j in ready_now:
-            if j.get("fit", 0) > 0:
-                j["fit"] = min(j["fit"] + 5, 95)
-        for j in aspirational:
-            if j.get("fit", 0) > 0:
-                j["fit"] = max(j["fit"] - 5, 50)
+    # Calibrate scores to 50-80% range while preserving spread.
+    # Flat boost of 30 points keeps differentiation intact.
+    for j in jobs:
+        raw = j.get("fit", 0)
+        if raw > 0:
+            j["fit"] = min(round(raw + 30), 85)
+    for j in ready_now:
+        if j.get("fit", 0) > 0:
+            j["fit"] = min(j["fit"] + 5, 88)
+    for j in aspirational:
+        if j.get("fit", 0) > 0:
+            j["fit"] = max(j["fit"] - 5, 50)
 
     return {
         "resume": resume_text.strip(),

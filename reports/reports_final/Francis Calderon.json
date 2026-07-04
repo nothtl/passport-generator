@@ -1,0 +1,1597 @@
+{
+  "name": "Francis Calderon",
+  "zone": 2,
+  "education_level": "high_school",
+  "graduated": false,
+  "graduation_year": 2023,
+  "source_files": [
+    "aylin_calderon_resume.pdf"
+  ],
+  "skills": [
+    "Instructing",
+    "Education and Training",
+    "Fine Arts",
+    "Operations Monitoring",
+    "Food Production",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Monitoring",
+    "Judgment and Decision Making",
+    "Coordination",
+    "Time Management",
+    "Active Learning",
+    "Learning Strategies",
+    "Foreign Language",
+    "English Language",
+    "Computers and Electronics",
+    "Design"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Helped children learn to paint",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Helped children learn to paint",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Fine Arts",
+      "evidence": "Painted posters",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Monitoring",
+      "evidence": "Cleaned exhibits",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "cooked meals",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "played games with the children",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "played games with the children",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Supervised children",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "Supervised children",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Supervised children",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "complete projects on time",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Ability to learn quickly",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Ability to learn quickly",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Bilingual: Spanish and English",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Bilingual: Spanish and English",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Typing skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Graphic designing",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "35-9021.00",
+      "title": "Dishwashers",
+      "zone": 2,
+      "pct": 52.7,
+      "matched_skills": [
+        "English Language",
+        "Food Production",
+        "Coordination",
+        "Time Management",
+        "Monitoring",
+        "Operations Monitoring",
+        "Social Perceptiveness",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "27-2042.00",
+      "title": "Musicians and Singers",
+      "zone": 4,
+      "pct": 52.1,
+      "matched_skills": [
+        "Fine Arts",
+        "Monitoring",
+        "English Language",
+        "Social Perceptiveness",
+        "Coordination",
+        "Service Orientation",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 51.9,
+      "matched_skills": [
+        "Instructing",
+        "Education and Training",
+        "Learning Strategies",
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "27-2032.00",
+      "title": "Choreographers",
+      "zone": 3,
+      "pct": 50.4,
+      "matched_skills": [
+        "Fine Arts",
+        "Instructing",
+        "Coordination",
+        "Monitoring",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Time Management",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "27-2031.00",
+      "title": "Dancers",
+      "zone": 3,
+      "pct": 47.5,
+      "matched_skills": [
+        "Fine Arts",
+        "English Language",
+        "Coordination",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-2012.00",
+      "title": "Kindergarten Teachers, Except Special Education",
+      "zone": 4,
+      "pct": 47.3,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Instructing",
+        "Social Perceptiveness",
+        "Learning Strategies",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "25-2022.00",
+      "title": "Middle School Teachers, Except Special and Career/Technical Education",
+      "zone": 4,
+      "pct": 46.9,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Learning Strategies",
+        "Instructing",
+        "Active Learning",
+        "Monitoring",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "25-2057.00",
+      "title": "Special Education Teachers, Middle School",
+      "zone": 4,
+      "pct": 46.9,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Active Learning",
+        "Learning Strategies",
+        "Instructing",
+        "Social Perceptiveness",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 46.6,
+      "matched_skills": [
+        "English Language",
+        "Food Production",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "35-2014.00",
+      "title": "Cooks, Restaurant",
+      "zone": 2,
+      "pct": 46.4,
+      "matched_skills": [
+        "Food Production",
+        "English Language",
+        "Monitoring",
+        "Time Management",
+        "Active Learning",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "27-2041.00",
+      "title": "Music Directors and Composers",
+      "zone": 4,
+      "pct": 46.4,
+      "matched_skills": [
+        "Fine Arts",
+        "English Language",
+        "Judgment and Decision Making",
+        "Education and Training",
+        "Computers and Electronics",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-9032.00",
+      "title": "Recreation Workers",
+      "zone": 4,
+      "pct": 46.4,
+      "matched_skills": [
+        "English Language",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Instructing",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "43-5053.00",
+      "title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+      "zone": 2,
+      "pct": 46.0,
+      "matched_skills": [
+        "Monitoring",
+        "English Language",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Time Management",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "39-9011.01",
+      "title": "Nannies",
+      "zone": 2,
+      "pct": 45.9,
+      "matched_skills": [
+        "Monitoring",
+        "Social Perceptiveness",
+        "English Language",
+        "Service Orientation",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "39-9031.00",
+      "title": "Exercise Trainers and Group Fitness Instructors",
+      "zone": 3,
+      "pct": 45.6,
+      "matched_skills": [
+        "Instructing",
+        "Education and Training",
+        "Service Orientation",
+        "English Language",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "51-6092.00",
+      "title": "Fabric and Apparel Patternmakers",
+      "zone": 3,
+      "pct": 45.3,
+      "matched_skills": [
+        "Design",
+        "English Language",
+        "Education and Training",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Active Learning",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "31-2022.00",
+      "title": "Physical Therapist Aides",
+      "zone": 2,
+      "pct": 45.2,
+      "matched_skills": [
+        "English Language",
+        "Computers and Electronics",
+        "Monitoring",
+        "Service Orientation",
+        "Coordination",
+        "Social Perceptiveness",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "29-2055.00",
+      "title": "Surgical Technologists",
+      "zone": 3,
+      "pct": 45.1,
+      "matched_skills": [
+        "Monitoring",
+        "English Language",
+        "Operations Monitoring",
+        "Coordination",
+        "Time Management",
+        "Education and Training",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "35-9011.00",
+      "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "zone": 2,
+      "pct": 44.9,
+      "matched_skills": [
+        "English Language",
+        "Food Production",
+        "Coordination",
+        "Service Orientation",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "39-5092.00",
+      "title": "Manicurists and Pedicurists",
+      "zone": 2,
+      "pct": 44.6,
+      "matched_skills": [
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Coordination",
+        "Time Management",
+        "English Language",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 43.3,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "English Language",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-2041.00",
+      "title": "Graders and Sorters, Agricultural Products",
+      "zone": 2,
+      "pct": 40.9,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Food Production",
+        "Education and Training",
+        "Coordination",
+        "Foreign Language"
+      ]
+    },
+    {
+      "soc": "31-1122.00",
+      "title": "Personal Care Aides",
+      "zone": 2,
+      "pct": 40.8,
+      "matched_skills": [
+        "Service Orientation",
+        "Social Perceptiveness",
+        "English Language",
+        "Education and Training",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-3131.00",
+      "title": "Training and Development Managers",
+      "zone": 4,
+      "pct": 40.7,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Learning Strategies",
+        "Instructing",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "51-4052.00",
+      "title": "Pourers and Casters, Metal",
+      "zone": 2,
+      "pct": 40.2,
+      "matched_skills": [
+        "Operations Monitoring",
+        "English Language",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "33-3041.00",
+      "title": "Parking Enforcement Workers",
+      "zone": 2,
+      "pct": 39.8,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "47-3014.00",
+      "title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+      "zone": 2,
+      "pct": 39.8,
+      "matched_skills": [
+        "English Language",
+        "Coordination",
+        "Monitoring",
+        "Time Management",
+        "Operations Monitoring",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "53-6011.00",
+      "title": "Bridge and Lock Tenders",
+      "zone": 2,
+      "pct": 39.7,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "51-2021.00",
+      "title": "Coil Winders, Tapers, and Finishers",
+      "zone": 2,
+      "pct": 39.5,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Design",
+        "Monitoring",
+        "Operations Monitoring",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 39.4,
+      "matched_skills": [
+        "Monitoring",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Learning Strategies",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "51-9123.00",
+      "title": "Painting, Coating, and Decorating Workers",
+      "zone": 2,
+      "pct": 39.4,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "31-2012.00",
+      "title": "Occupational Therapy Aides",
+      "zone": 3,
+      "pct": 39.4,
+      "matched_skills": [
+        "English Language",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 39.3,
+      "matched_skills": [
+        "English Language",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Social Perceptiveness",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "11-9151.00",
+      "title": "Social and Community Service Managers",
+      "zone": 4,
+      "pct": 39.2,
+      "matched_skills": [
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Active Learning",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "41-1012.00",
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "zone": 4,
+      "pct": 39.2,
+      "matched_skills": [
+        "Monitoring",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "29-2034.00",
+      "title": "Radiologic Technologists and Technicians",
+      "zone": 3,
+      "pct": 39.2,
+      "matched_skills": [
+        "English Language",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Education and Training",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "31-9097.00",
+      "title": "Phlebotomists",
+      "zone": 3,
+      "pct": 39.2,
+      "matched_skills": [
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Computers and Electronics",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "41-9012.00",
+      "title": "Models",
+      "zone": 2,
+      "pct": 39.1,
+      "matched_skills": [
+        "Social Perceptiveness",
+        "Coordination",
+        "Time Management",
+        "English Language",
+        "Fine Arts",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 38.7,
+      "matched_skills": [
+        "English Language",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "29-1126.00",
+      "title": "Respiratory Therapists",
+      "zone": 3,
+      "pct": 38.5,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Education and Training",
+        "Active Learning",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 38.3,
+      "matched_skills": [
+        "Education and Training",
+        "Instructing",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "29-2031.00",
+      "title": "Cardiovascular Technologists and Technicians",
+      "zone": 3,
+      "pct": 38.3,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Operations Monitoring",
+        "Social Perceptiveness",
+        "Computers and Electronics",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "47-3011.00",
+      "title": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+      "zone": 2,
+      "pct": 38.2,
+      "matched_skills": [
+        "Design",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "English Language",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 38.0,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "43-2011.00",
+      "title": "Switchboard Operators, Including Answering Service",
+      "zone": 2,
+      "pct": 37.6,
+      "matched_skills": [
+        "English Language",
+        "Social Perceptiveness",
+        "Computers and Electronics",
+        "Service Orientation",
+        "Coordination",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 37.4,
+      "matched_skills": [
+        "English Language",
+        "Service Orientation",
+        "Education and Training",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 37.0,
+      "matched_skills": [
+        "Education and Training",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Instructing",
+        "Service Orientation",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 35.9,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "53-6061.00",
+      "title": "Passenger Attendants",
+      "zone": 2,
+      "pct": 33.9,
+      "matched_skills": [
+        "Service Orientation",
+        "Social Perceptiveness",
+        "English Language",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-9081.00",
+      "title": "Proofreaders and Copy Markers",
+      "zone": 4,
+      "pct": 33.9,
+      "matched_skills": [
+        "English Language",
+        "Computers and Electronics",
+        "Monitoring",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 33.8,
+      "matched_skills": [
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "49-9099.01",
+      "title": "Geothermal Technicians",
+      "zone": 2,
+      "pct": 33.8,
+      "matched_skills": [
+        "Operations Monitoring",
+        "English Language",
+        "Monitoring",
+        "Education and Training",
+        "Design"
+      ]
+    },
+    {
+      "soc": "15-1231.00",
+      "title": "Computer Network Support Specialists",
+      "zone": 4,
+      "pct": 33.8,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Judgment and Decision Making",
+        "English Language",
+        "Active Learning",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "13-1121.00",
+      "title": "Meeting, Convention, and Event Planners",
+      "zone": 4,
+      "pct": 33.5,
+      "matched_skills": [
+        "English Language",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 33.5,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Learning Strategies",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "11-9072.00",
+      "title": "Entertainment and Recreation Managers, Except Gambling",
+      "zone": 4,
+      "pct": 33.4,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "37-1011.00",
+      "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "zone": 2,
+      "pct": 33.3,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Monitoring",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "53-5022.00",
+      "title": "Motorboat Operators",
+      "zone": 2,
+      "pct": 33.3,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Operations Monitoring",
+        "Monitoring",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "53-7065.00",
+      "title": "Stockers and Order Fillers",
+      "zone": 2,
+      "pct": 33.2,
+      "matched_skills": [
+        "English Language",
+        "Monitoring",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "21-1015.00",
+      "title": "Rehabilitation Counselors",
+      "zone": 4,
+      "pct": 33.2,
+      "matched_skills": [
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Monitoring",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "45-2093.00",
+      "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+      "zone": 2,
+      "pct": 33.1,
+      "matched_skills": [
+        "Monitoring",
+        "English Language",
+        "Judgment and Decision Making",
+        "Operations Monitoring",
+        "Food Production"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 33.1,
+      "matched_skills": [
+        "Education and Training",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "47-4051.00",
+      "title": "Highway Maintenance Workers",
+      "zone": 2,
+      "pct": 33.0,
+      "matched_skills": [
+        "English Language",
+        "Operations Monitoring",
+        "Monitoring",
+        "Coordination",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "15-1211.00",
+      "title": "Computer Systems Analysts",
+      "zone": 4,
+      "pct": 32.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "English Language",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "17-1021.00",
+      "title": "Cartographers and Photogrammetrists",
+      "zone": 4,
+      "pct": 32.7,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Design",
+        "Active Learning",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 32.7,
+      "matched_skills": [
+        "Social Perceptiveness",
+        "English Language",
+        "Service Orientation",
+        "Education and Training",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "33-9099.02",
+      "title": "Retail Loss Prevention Specialists",
+      "zone": 2,
+      "pct": 32.6,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Monitoring",
+        "Computers and Electronics",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "41-3041.00",
+      "title": "Travel Agents",
+      "zone": 3,
+      "pct": 32.5,
+      "matched_skills": [
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Judgment and Decision Making",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "15-1255.01",
+      "title": "Video Game Designers",
+      "zone": 4,
+      "pct": 31.7,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "Judgment and Decision Making",
+        "Active Learning",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "19-3092.00",
+      "title": "Geographers",
+      "zone": 4,
+      "pct": 31.6,
+      "matched_skills": [
+        "English Language",
+        "Computers and Electronics",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 31.4,
+      "matched_skills": [
+        "Service Orientation",
+        "Time Management",
+        "English Language",
+        "Monitoring",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "19-4051.02",
+      "title": "Nuclear Monitoring Technicians",
+      "zone": 3,
+      "pct": 31.0,
+      "matched_skills": [
+        "Monitoring",
+        "Operations Monitoring",
+        "Judgment and Decision Making",
+        "Instructing",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "17-3012.00",
+      "title": "Electrical and Electronics Drafters",
+      "zone": 3,
+      "pct": 29.0,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "English Language",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 28.6,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Design",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "15-1242.00",
+      "title": "Database Administrators",
+      "zone": 4,
+      "pct": 28.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Judgment and Decision Making",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "13-1161.01",
+      "title": "Search Marketing Strategists",
+      "zone": 4,
+      "pct": 27.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Active Learning",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "17-3011.00",
+      "title": "Architectural and Civil Drafters",
+      "zone": 3,
+      "pct": 27.8,
+      "matched_skills": [
+        "Design",
+        "English Language",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "13-1111.00",
+      "title": "Management Analysts",
+      "zone": 4,
+      "pct": 27.5,
+      "matched_skills": [
+        "English Language",
+        "Judgment and Decision Making",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "19-4043.00",
+      "title": "Geological Technicians, Except Hydrologic Technicians",
+      "zone": 4,
+      "pct": 27.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Monitoring",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "49-9081.00",
+      "title": "Wind Turbine Service Technicians",
+      "zone": 3,
+      "pct": 27.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Operations Monitoring",
+        "English Language",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "49-9051.00",
+      "title": "Electrical Power-Line Installers and Repairers",
+      "zone": 2,
+      "pct": 27.0,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Monitoring",
+        "Operations Monitoring"
+      ]
+    },
+    {
+      "soc": "19-5011.00",
+      "title": "Occupational Health and Safety Specialists",
+      "zone": 4,
+      "pct": 26.8,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Judgment and Decision Making",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 26.8,
+      "matched_skills": [
+        "Coordination",
+        "Monitoring",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "45-3031.00",
+      "title": "Fishing and Hunting Workers",
+      "zone": 2,
+      "pct": 26.1,
+      "matched_skills": [
+        "Coordination",
+        "Judgment and Decision Making",
+        "English Language",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 20.9,
+      "matched_skills": [
+        "English Language",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 20.0,
+      "matched_skills": [
+        "English Language",
+        "Time Management",
+        "Computers and Electronics"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 21,
+      "title": "Teachers Aide Early Head Start - Full Time; 5456-207-N",
+      "company": "Catholic Charities Brooklyn and Queens",
+      "url": "https://jobs.dayforcehcm.com/ccbq/CANDIDATEPORTAL/jobs/29613",
+      "match_score": 65,
+      "embed_sim": 0.505763053894043,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Education",
+      "comparisons": 6,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Aylin Calderon's resume indicates relevant experience and skills for the Teacher's Aide position, especially in working with children and being bilingual. However, she lacks formal experience in a preschool classroom setting and does not meet the preferred qualifications for college credits or a CDA credential.",
+        "strengths": [
+          "Experience as a babysitter, showing ability to supervise and care for young children",
+          "Bilingual in Spanish and English, which aligns with job requirements",
+          "Good team player and ability to multitask, which are valuable in a classroom setting"
+        ],
+        "gaps": [
+          "No specific experience in a preschool or early childhood classroom environment",
+          "Lacks the 12-24 college credits preferred for the position",
+          "No CDA credential or equivalent early childhood training"
+        ]
+      },
+      "blended_score": 82
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 14,
+      "title": "Francis of Paola ELC Special Education Substitute Teaching Assistant",
+      "company": "AHRC New York City",
+      "url": "https://jobs.smartrecruiters.com/AHRCNYC1/744000104783834",
+      "match_score": 50,
+      "embed_sim": 0.5051119923591614,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 0,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "The candidate has limited relevant experience and skills that align with the job description, indicating a plausible but tenuous fit.",
+        "strengths": [
+          "High School diploma expected in June 2023",
+          "Experience as a babysitter indicating ability to supervise and care for children",
+          "Internship experience at Little Pulp Arts Center, which involved working with children",
+          "Bilingual in Spanish and English, which can aid communication"
+        ],
+        "gaps": [
+          "No direct experience working with students with disabilities",
+          "Lack of familiarity with Individual Education Plans (IEPs) and their implementation",
+          "No evidence of knowledge regarding NYS Prekindergarten Foundations for Common Core or NYS Common Core Learning Standards",
+          "Limited experience in a structured educational environment"
+        ]
+      },
+      "blended_score": 75
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 23,
+      "title": "Astoria Blue Feather Special Education Teacher Assistant, Preschool",
+      "company": "AHRC New York City",
+      "url": "https://jobs.smartrecruiters.com/AHRCNYC1/744000113485447",
+      "match_score": 50,
+      "embed_sim": 0.5031440854072571,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "Aylin Calderon's resume shows some relevant experiences and skills for the Special Education Teacher Assistant role, but lacks specific qualifications and credentials outlined in the job description, such as NYS Teaching Assistant Certification and formal education in a relevant field.",
+        "strengths": [
+          "Experience working with children in an educational setting as an intern at Little Pulp Arts Center.",
+          "Bilingual in Spanish and English, which can be beneficial in a diverse educational environment.",
+          "Demonstrated ability as a babysitter, indicating reliability and capability in supervising and caring for children."
+        ],
+        "gaps": [
+          "Lacks NYS Teaching Assistant Certification required for the position.",
+          "No evidence of formal education beyond high school or related coursework to support teaching or special education.",
+          "Limited experience in special education or working with neurodiverse children, which is essential for the role."
+        ]
+      },
+      "blended_score": 74
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 15,
+      "title": "Special Education Substitute Teaching Assistant- Howard Haber ELC",
+      "company": "AHRC New York City",
+      "url": "https://jobs.smartrecruiters.com/AHRCNYC1/744000116703798",
+      "match_score": 60,
+      "embed_sim": 0.4927615821361542,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 1,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "The candidate has relevant experience working with children in a supportive role, but lacks specific experience with students with disabilities or knowledge of Individual Education Plans (IEPs), which are critical for the job.",
+        "strengths": [
+          "Experience working with children",
+          "Bilingual (Spanish and English) which may help communicate with diverse students",
+          "Skills in multitasking and project completion"
+        ],
+        "gaps": [
+          "No explicit mention of experience working with students with disabilities",
+          "Lacks familiarity with Individual Education Plans (IEPs) and their implementation",
+          "No specific training or coursework related to special education"
+        ]
+      },
+      "blended_score": 73
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 9,
+      "title": "UPK Teaching Assistant - Floating Full-time (Albany)",
+      "company": "Boys & Girls Clubs of the Capital Area (BGCCA)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3317077",
+      "match_score": 50,
+      "embed_sim": 0.4800294041633606,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "The resume presents a candidate who has limited experience working directly in educational settings with young children, which may pose a challenge when applying for a Teaching Assistant position. While there are some relevant skills and experiences, they do not fully align with the requirements of the job.",
+        "strengths": [
+          "Experience working with children in a learning environment as an intern at Little Pulp Arts Center.",
+          "Bilingual in Spanish and English, which can be beneficial in a diverse classroom setting.",
+          "Demonstrated ability to multitask and complete projects on time."
+        ],
+        "gaps": [
+          "No formal education or certification in Early Childhood Education, which is preferred for the role.",
+          "Lack of direct experience in a structured educational setting with preschool-aged children.",
+          "No mention of relevant certifications (Teaching Assistant Certification, Mandated Reporter Certification, CPR, or First Aid Training).",
+          "Limited evidence of collaboration with educational staff, such as a Lead Teacher, as required by the job description."
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 10,
+      "title": "Center Aide Substitute",
+      "company": "Gateway Early Education Centers",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4146016",
+      "match_score": 65,
+      "embed_sim": 0.4667234718799591,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 0,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Aylin has some relevant experience and skills that align with the job description, but lacks specific qualifications such as a high school diploma or direct experience in a childcare environment.",
+        "strengths": [
+          "Bilingual in Spanish and English, which is a significant requirement for the job.",
+          "Experience caring for children as a babysitter, showing an ability to supervise and engage with young children.",
+          "Internship experience in an educational/hands-on environment, suggesting familiarity with arts and crafts activities for kids."
+        ],
+        "gaps": [
+          "No evidence of a high school diploma or equivalent education, which is preferred for the position.",
+          "Lacks formal experience in a structured classroom or childcare setting, which is directly related to the role.",
+          "No mention of physical ability to meet the physical demands of the job, such as lifting children or performing caregiving tasks."
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 12,
+      "title": "Center/ Bus Aide",
+      "company": "Gateway Early Education Centers",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4223916",
+      "match_score": 65,
+      "embed_sim": 0.4656713604927063,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Aylin Calderon's resume demonstrates some relevant experience and skills for the Center/Bus Aide role, including direct child supervision and bilingualism. However, there are gaps in specific requirements like formal child development qualifications and experience in educational settings especially involving children with special needs. This may necessitate further training or mentorship if hired.",
+        "strengths": [
+          "Experience supervising and caring for children as a babysitter",
+          "Bilingual in Spanish and English, aligning with the role's preferences",
+          "Internship experience working with children in an arts setting, fostering creativity"
+        ],
+        "gaps": [
+          "No formal qualifications in Early Childhood Education or related fields",
+          "Lacks evidence of CPR, First Aid, or Food Handler's permits",
+          "Limited experience in structured educational environments, especially with children aged 0-5 and those with special needs",
+          "No demonstrated engagement with parents or family services as outlined in the job description"
+        ]
+      },
+      "blended_score": 60
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 13,
+      "title": "Howard Haber ELC  Special Education Teacher Assistant, Preschool",
+      "company": "AHRC New York City",
+      "url": "https://jobs.smartrecruiters.com/AHRCNYC1/744000133958329",
+      "match_score": 55,
+      "embed_sim": 0.4738446772098541,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Aylin Calderon’s resume shows some relevant experience working with children and skills that may be beneficial in a Special Education Teacher Assistant role. However, the lack of specified qualifications, particularly the necessary educational background and potential certifications, presents significant gaps for this position.",
+        "strengths": [
+          "Experience working with children as an intern and babysitter",
+          "Bilingual in Spanish and English, which can be an asset in diverse classrooms",
+          "Demonstrated ability to multitask and complete projects on time"
+        ],
+        "gaps": [
+          "No evidence of required certifications (Levels I-III, AA, BA or MA)",
+          "Lack of specific experience in a Special Education setting",
+          "No indication of experience with IEPs or specific educational methodologies",
+          "Limited details on how to manage behavioral problems or implement teaching techniques effectively"
+        ]
+      },
+      "blended_score": 59
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 8,
+      "title": "UPK Teaching Assistant (Albany)",
+      "company": "Boys & Girls Clubs of the Capital Area (BGCCA)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3113349",
+      "match_score": 50,
+      "embed_sim": 0.47546204924583435,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "The candidate demonstrates some relevant experience working with children, but lacks specific early childhood education credentials and extensive experience in a structured educational environment.",
+        "strengths": [
+          "Experience working with children as a babysitter and as an intern at an arts center, which includes assisting with educational activities.",
+          "Bilingual in Spanish and English could be beneficial in a diverse classroom setting."
+        ],
+        "gaps": [
+          "No formal education beyond high school; lacks an Associate's Degree in Early Childhood Education as preferred.",
+          "Lacks required teaching assistant certification or enrollment in a certification program.",
+          "Limited work experience in an Early Childhood educational setting; primarily informal babysitting and arts-related tasks.",
+          "Not evident in the resume are skills relevant to teaching or lesson planning as outlined in the job description."
+        ]
+      },
+      "blended_score": 58
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 19,
+      "title": "Seasonal Childcare Aide & Floater",
+      "company": "Ticonderoga Early Learning Center / Silver Bay YMCA",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4176328",
+      "match_score": 65,
+      "embed_sim": 0.46149125695228577,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Healthcare Support",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has some relevant experience and skills but lacks direct experience in a childcare setting, which may pose challenges for the role.",
+        "strengths": [
+          "High school diploma expected in June 2023 meets educational requirement.",
+          "Intern experience at Little Pulp Arts Center shows engagement with children.",
+          "Bilingual skills (Spanish and English) can be a strong asset in child-related roles.",
+          "Good team player and ability to multitask are relevant attributes for the job."
+        ],
+        "gaps": [
+          "No direct experience in a formal childcare setting required by the job description.",
+          "Lacks specified certifications (First Aid, CPR, etc.) that are necessary for the position.",
+          "Limited information about communication skills, which are critical for this role."
+        ]
+      },
+      "blended_score": 57
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Seamstress (Special Services)|||sanmar": {
+    "eligible": true,
+    "reason": "No age restriction for seamstress role."
+  },
+  "General Labor": {
+    "eligible": true,
+    "reason": "General labor roles are suitable for 16-20 year olds."
+  },
+  "GENERAL LABORER~S03015~5204|||pca": {
+    "eligible": true,
+    "reason": "General laborer role is eligible."
+  },
+  "General Laborer - Marshalltown. All Shifts|||pca": {
+    "eligible": true,
+    "reason": "General laborer role is eligible."
+  },
+  "Manufacturing General Labor|||pca": {
+    "eligible": true,
+    "reason": "Manufacturing general labor is eligible."
+  },
+  "General Labor - 2nd Shift": {
+    "eligible": true,
+    "reason": "General labor role is eligible."
+  },
+  "Pizza Maker6432) - 7020 E. Admiral PL|||Dominos": {
+    "eligible": true,
+    "reason": "Pizza maker role is eligible; no alcohol service required."
+  },
+  "Bread/Pizza Cook (Laffa)": {
+    "eligible": true,
+    "reason": "Bread/pizza cook role is eligible."
+  }
+}

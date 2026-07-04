@@ -1,0 +1,38 @@
+{
+  "Accountant I|||americanfidelity": {
+    "eligible": true,
+    "reason": "Accounting role, no age restriction."
+  },
+  "Registered Private Client Associate - Garden City, NY|||janney": {
+    "eligible": true,
+    "reason": "Client associate role, no age restriction."
+  },
+  "Full Time Teller - White Lake branch|||dfb": {
+    "eligible": true,
+    "reason": "Teller role, no age restriction."
+  },
+  "Finance Intern \u2013 Financial Modeling & Strategic Analysis|||bristow": {
+    "eligible": true,
+    "reason": "Finance internship, no age restriction."
+  },
+  "Front of House - Bartender|||northlandproperties": {
+    "eligible": false,
+    "reason": "Bartender role requires age 21+."
+  },
+  "Corporate Strategy and Development Associate|||weekday-1": {
+    "eligible": true,
+    "reason": "Corporate strategy role, no age restriction."
+  },
+  "Billing Clerk": {
+    "eligible": true,
+    "reason": "Billing clerk role, no age restriction."
+  },
+  "Client Service Associate|||focuspartnerswealth": {
+    "eligible": true,
+    "reason": "Client service associate, no age restriction."
+  },
+  "Cash Management Representative I|||trevipay": {
+    "eligible": true,
+    "reason": "Cash management role, no age restriction."
+  }
+}

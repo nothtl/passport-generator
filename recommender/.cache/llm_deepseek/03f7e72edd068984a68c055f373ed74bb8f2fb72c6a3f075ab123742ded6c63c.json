@@ -1,0 +1,43 @@
+{
+  "accepted": true,
+  "chosen_function": "healthcare",
+  "chosen_subdomain": "pre-med-shadowing",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "experience",
+      "text": "In collaboration with Professor Kari Brossard, studied the antimicrobial resistance in the bacterial DNA of monkey feces and the possible implications on human health and antibiotic development."
+    },
+    {
+      "section": "experience",
+      "text": "Completed weekly meetings with a mentor covering modules in preparation for medical school admission."
+    },
+    {
+      "section": "experience",
+      "text": "Guided patients to examination rooms and gathered background information."
+    }
+  ],
+  "goal_domains": [
+    "healthcare"
+  ],
+  "goal_roles": [
+    "Physician",
+    "Medical Assistant"
+  ],
+  "goal_subdomains": [
+    "pre-med-shadowing"
+  ],
+  "reason_codes": [
+    "explicit_goals",
+    "education_major",
+    "professional_experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "healthcare"
+  ],
+  "study_subdomains": [
+    "pre-med-shadowing"
+  ]
+}

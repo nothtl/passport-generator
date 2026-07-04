@@ -1,0 +1,426 @@
+{
+  "student_name": "Naim Bakere",
+  "email": "naim.bakere@ellisprep.com",
+  "found_in": [
+    "Interns_20260512T143927-0400.csv",
+    "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+    "FULL SpeakHire Database 2026.xlsx::#Cheers4Careers Info Update For",
+    "FULL SpeakHire Database 2026.xlsx::Interns",
+    "FULL SpeakHire Database 2026.xlsx::Hub Users 226"
+  ],
+  "fields": {
+    "English - Spoken": {
+      "value": "Somewhat Comfortable",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Rate your Career Pathways Champion (1-10)": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Community Feel (Quant)": {
+      "value": 6.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "Any suggestions to make the Foundational Year a better experience": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Did you find a way to stay in touch": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Did you learn something about other careers from other Career Cohorts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "What are three skills you have that will help you in your future career": {
+      "value": "Multi-language speaker, responsible, team player",
+      "source": "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Listen to others (post)": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Deal with conflicts - conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Include others who are different - diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "After meeting Champions, I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "EC"
+    },
+    "Languages": {
+      "value": "francais ,Awe ,Kotokoli ,Tchamba and same english",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "EC"
+    },
+    "Pre Empathy": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Humble": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Listen": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Include Others Who Are Different": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Deal with Conflicts": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Lead With Authenticity": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Listen to others": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Deal with conflicts with other people conflict management": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Include others who are different from you diversity and inclusion": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Reflect if you have been in a similar situation as someone you are trying to help non positional leadership": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Pre Community Connected": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Culture Feel": {
+      "value": "I feel equally of both",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "I understand how my cultural values can shape my career choices": {
+      "value": 7.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "After meeting Champions and working with other peers in my SPEAKHIRE Internship Rounds I better understand people who are different from me": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Were you introduced to diverse career professionals who you can relate to during this Internship Round": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "Meeting with my Champions during school helped me feel like I belong in school": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "This SPEAKHIRE Foundational Year helped me understand the value of building a strong network": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I feel more engaged in school and participate more than before": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "I made new friends during the Foundational Year": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "How many individuals do you know who work in the career you are interested in": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "FY1 Ever Volunteered": {
+      "value": false,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "GC"
+    },
+    "FY1 Hours Volunteered": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "GC"
+    },
+    "What are three adjectives that describe the person you are and why": {
+      "value": "hardworking ,responsible and honorable because I have to work hard to achieve my goal ,to be responsible about hard things I choose and honorable because I promise for my self to do same importante things if I achieve my goals.",
+      "source": "Mentee Data Evaluation .xlsx::SPEAK Mentorship Foundational Y",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Hope to Gain": {
+      "value": "Gain skills I can use at a future jobGet an internshipMake new friendsLearn about colleges, \nLearn about careers, \nMake new friends, \nGain skills I can use at a future job, \nGet coaches and mentors who can help me with college and career, \nGet an internshipLearn about collegesLearn about careers",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "What do you hope to gain by going through this program": {
+      "value": "Gain skills I can use at a future jobGet an internshipMake new friendsLearn about colleges, \nLearn about careers, \nMake new friends, \nGain skills I can use at a future job, \nGet coaches and mentors who can help me with college and career, \nGet an internshipLearn about collegesLearn about careers",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "SMART GOAL": {
+      "value": "My Goal is to have every diplome I will need to success my class,school ,college or soccer",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "Remember the SMART Goal you set - next round": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "Know How To Pursue Careers": {
+      "value": 3.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "I feel more prepared for my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "If you do not have a job, what is your ideal future career job": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel ready and prepared for college": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY1 Feel College Ready and Prepped": {
+      "value": 5.0,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "RFF"
+    },
+    "I feel I am now a stronger candidate for college and careers": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "I feel I am now more prepared for college": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY helped realize doing well connects to my career goals": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The Speaker was a relatable role model": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic inspired me to think more about my future career": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "The topic helped me think about my future career pathway": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "RFF"
+    },
+    "FY1 - Ever Volunteered?": {
+      "value": false,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Hours Volunteered": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "CR"
+    },
+    "FY1 - Had Internship?": {
+      "value": false,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "FY1 - Had/Have Job?": {
+      "value": true,
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Total Sessions Attended": {
+      "value": "29",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Total Sessions Scheduled": {
+      "value": "29",
+      "source": "Interns_20260512T143927-0400.csv",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "Connected Champions": {
+      "value": null,
+      "source": null,
+      "status": "missing",
+      "pillar": "CR"
+    },
+    "CPC What skill did you cover": {
+      "value": "We went through an overview of our next sessions -- no focus on skills today. | Communication | Growth Mindset vs. Fixed Mindset | Conversations about life | Conversations, introductions | Finding a college, Queens College | Writing emails asking for information | Professional Emails | Introductions and first impressions | First impressions",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC What component skill did you cover": {
+      "value": "n/a - see above. | Elevator Pitch (Introductions) | Mindset in Olympians and Dancers | Mindset | Formal and informal language | Finding a college, Internet search | Email structure and formal English | thank you emails for information | Personal background- what is relevant to share | Piktochart media",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Discussion topics": {
+      "value": "We did introductions. I asked them to describe their interests and their background and described my background. I also went through the topics and skills that I'd teach them in our upcoming sessions and asked them to identify which skills they were most interested in learning about. | Areas of interest, skills they would like to develop | Mindset in areas of life and jobs; Resumes | Internships, subway, pets, family, job | The Lion King, internships, music | Colleges of Interest | Questions for Queen's College | Queens college information | We talked about how leaders find out about their team and what would they share to their team about their birth country.  The students shared pictures and stories about their country and favorite | What info to share about yourself, queations to ask; know your teammates, digital medi",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Why": {
+      "value": "Tech issues made it difficult to communicate and be heard. I tried to dial in but it re-routed me to the main room. | Students were more responsive:) | We had a good time practicing English. | Everyone answered questions and contributed. | Lots of information | Students really contributed good ideas to our email construction. | Everyone was very quiet!  Jingru shared a lot! | Lots and lots of interaction | Students were interactive and we practiced English.",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume additions": {
+      "value": "We will add next week. | Next time we will add email skills | Professional Email Writing",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Anything else": {
+      "value": "Interns are talking more!  Hooray! | No questions:) | The group is bonding and gaining confidence | Very friendly students",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Session Count": {
+      "value": 10,
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC All Session Text": {
+      "value": "We went through an overview of our next sessions -- no focus on skills today. | Communication | Growth Mindset vs. Fixed Mindset | Conversations about life | Conversations, introductions | Finding a college, Queens College | Writing emails asking for information | Professional Emails | Introductions and first impressions | First impressions | n/a - see above. | Elevator Pitch (Introductions) | Mindset in Olympians and Dancers | Mindset | Formal and informal language | Finding a college, Internet search | Email structure and formal English | thank you emails for information | Personal background- what is relevant to share | Piktochart media | We did introductions. I asked them to describe their interests and their background and described my background. I also went through the topics and skills that I'd teach them in our upcoming sessions and asked them to identify which skills they were most interested in learning about. | Areas of interest, skills they would like to develop | Mindset in areas of life and jobs; Resumes | Internships, subway, pets, family, job | The Lion King, internships, music | Colleges of Interest | Questions for Queen's College | Queens college information | We talked about how leaders find out about their team and what would they share to their team about their birth country.  The students shared pictures and stories about their country and favorite | What info to share about yourself, queations to ask; know your teammates, digital medi | Tech issues made it difficult to communicate and be heard. I tried to dial in but it re-routed me to the main room. | Students were more responsive:) | We had a good time practicing English. | Everyone answered questions and contributed. | Lots of information | Students really contributed good ideas to our email construction. | Everyone was very quiet!  Jingru shared a lot! | Lots and lots of interaction | Students were interactive and we practiced English.",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    },
+    "CPC Resume Text": {
+      "value": "We will add next week. | Next time we will add email skills | Professional Email Writing",
+      "source": "Internship Session Feedback (Responses).xlsx",
+      "status": "found",
+      "pillar": "CR"
+    }
+  },
+  "field_summary": {
+    "total": 68,
+    "found": 27,
+    "missing": 41
+  }
+}

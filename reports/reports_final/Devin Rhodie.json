@@ -1,0 +1,1573 @@
+{
+  "name": "Devin Rhodie",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2027,
+  "source_files": [
+    "Devin Rhodie - Resume.pdf",
+    "Devin Rhodie - LinkedIn.md"
+  ],
+  "skills": [
+    "Programming",
+    "Engineering and Technology",
+    "Design",
+    "Systems Analysis",
+    "Administration and Management",
+    "Time Management",
+    "Coordination",
+    "Quality Control Analysis",
+    "Troubleshooting",
+    "Computers and Electronics",
+    "Public Safety and Security",
+    "Speaking",
+    "Instructing",
+    "Reading Comprehension",
+    "Writing",
+    "Active Learning"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Programming",
+      "evidence": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development and Integration, object-oriented design, Created a cross device application, Designed C++ software, Implemented dual-mode input system, Built a GUI-based comic book management app, Implemented import/export functionality, Contributed to the development and maintenance of SCOOPortal, Refactored complex React modal components, Implemented and enhanced confirmation modals, Created a web application using HTML and JavaScript",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Engineering and Technology",
+      "evidence": "Software Engineering Major, Software Design for computing systems, Web engineering, Engineering of software subsystems, API development and Integration, Created a cross device application, Designed C++ software, Implemented dual-mode input system, Integrated LED feedback, Built a GUI-based comic book management app, Contributed to the development and maintenance of SCOOPortal, Created a web application using HTML and JavaScript",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Software Design for computing systems, Human-centered requirements and design, object-oriented design, Designed C++ software, Built a GUI-based comic book management app, Led UI debranding efforts, Designed a user-friendly interface",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "Software Design for computing systems, Human-centered requirements and design, Computer systems concepts, combine different subsystem designs",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Software process and project management, Led UI debranding efforts",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Software process and project management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Collaborated in a team to combine different subsystem designs, Collaborated with a partner, Led UI debranding efforts",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Software testing, error management, prevent accidental data loss",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Troubleshooting",
+      "evidence": "Software testing, error management, maintenance of SCOOPortal",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Database systems, Computer systems concepts, Operating Systems: Windows, Linux(Ubuntu), macOS, persistent data storage",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Cybersecurity",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Presented the project to a cohort of peers, explaining the development process and features",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "explaining the development process and features",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "Relevant Coursework: Software Design, Web engineering, Human-centered requirements and design, Software process and project management, Software testing, Intro to software engineering, Engineering of software subsystems, Cybersecurity, Database systems, Computer systems concepts",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Relevant Coursework: Software Design, Web engineering, Human-centered requirements and design, Software process and project management, Software testing, Intro to software engineering, Engineering of software subsystems, Cybersecurity, Database systems, Computer systems concepts",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Software Engineering student at Rochester Institute of Technology, Awarded Dean’s List (Spring 2025), ENGAGE Scholarship (Merit-Based)",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "17-2071.00",
+      "title": "Electrical Engineers",
+      "zone": 4,
+      "pct": 52.2,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "Writing",
+        "Design",
+        "Reading Comprehension",
+        "Active Learning",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-2061.00",
+      "title": "Computer Hardware Engineers",
+      "zone": 4,
+      "pct": 51.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Design",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "15-1255.01",
+      "title": "Video Game Designers",
+      "zone": 4,
+      "pct": 50.8,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "Programming",
+        "Reading Comprehension",
+        "Active Learning",
+        "Systems Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "15-1243.00",
+      "title": "Database Architects",
+      "zone": 4,
+      "pct": 50.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Reading Comprehension",
+        "Systems Analysis",
+        "Design",
+        "Speaking",
+        "Programming"
+      ]
+    },
+    {
+      "soc": "17-3011.00",
+      "title": "Architectural and Civil Drafters",
+      "zone": 3,
+      "pct": 50.3,
+      "matched_skills": [
+        "Design",
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Systems Analysis",
+        "Active Learning",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "17-2199.07",
+      "title": "Photonics Engineers",
+      "zone": 4,
+      "pct": 49.8,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "Design",
+        "Reading Comprehension",
+        "Writing",
+        "Active Learning",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "15-1299.05",
+      "title": "Information Security Engineers",
+      "zone": 4,
+      "pct": 49.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Engineering and Technology",
+        "Writing",
+        "Speaking",
+        "Quality Control Analysis",
+        "Systems Analysis"
+      ]
+    },
+    {
+      "soc": "27-2012.03",
+      "title": "Media Programming Directors",
+      "zone": 4,
+      "pct": 47.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Speaking",
+        "Reading Comprehension",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "15-1251.00",
+      "title": "Computer Programmers",
+      "zone": 4,
+      "pct": 46.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Programming",
+        "Quality Control Analysis",
+        "Engineering and Technology",
+        "Reading Comprehension",
+        "Systems Analysis"
+      ]
+    },
+    {
+      "soc": "27-3042.00",
+      "title": "Technical Writers",
+      "zone": 4,
+      "pct": 46.0,
+      "matched_skills": [
+        "Writing",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Speaking",
+        "Active Learning",
+        "Administration and Management",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "43-1011.00",
+      "title": "First-Line Supervisors of Office and Administrative Support Workers",
+      "zone": 3,
+      "pct": 43.5,
+      "matched_skills": [
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Active Learning",
+        "Writing",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "43-6012.00",
+      "title": "Legal Secretaries and Administrative Assistants",
+      "zone": 3,
+      "pct": 41.3,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Computers and Electronics",
+        "Writing",
+        "Speaking",
+        "Time Management",
+        "Administration and Management",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "43-9031.00",
+      "title": "Desktop Publishers",
+      "zone": 3,
+      "pct": 41.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "43-9081.00",
+      "title": "Proofreaders and Copy Markers",
+      "zone": 4,
+      "pct": 40.6,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Writing",
+        "Speaking",
+        "Computers and Electronics",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "11-9121.02",
+      "title": "Water Resource Specialists",
+      "zone": 4,
+      "pct": 40.5,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Design",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "11-3021.00",
+      "title": "Computer and Information Systems Managers",
+      "zone": 4,
+      "pct": 40.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Coordination",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "13-2022.00",
+      "title": "Appraisers of Personal and Business Property",
+      "zone": 4,
+      "pct": 40.1,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Writing",
+        "Speaking",
+        "Administration and Management",
+        "Active Learning",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "27-1022.00",
+      "title": "Fashion Designers",
+      "zone": 3,
+      "pct": 40.1,
+      "matched_skills": [
+        "Design",
+        "Speaking",
+        "Active Learning",
+        "Coordination",
+        "Time Management",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "11-9199.10",
+      "title": "Wind Energy Development Managers",
+      "zone": 4,
+      "pct": 40.0,
+      "matched_skills": [
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Engineering and Technology",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-3043.00",
+      "title": "Writers and Authors",
+      "zone": 4,
+      "pct": 39.7,
+      "matched_skills": [
+        "Writing",
+        "Reading Comprehension",
+        "Speaking",
+        "Time Management",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 39.3,
+      "matched_skills": [
+        "Writing",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Speaking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "11-9199.09",
+      "title": "Wind Energy Operations Managers",
+      "zone": 3,
+      "pct": 39.2,
+      "matched_skills": [
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Engineering and Technology",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "13-1199.04",
+      "title": "Business Continuity Planners",
+      "zone": 4,
+      "pct": 38.9,
+      "matched_skills": [
+        "Active Learning",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Systems Analysis",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "33-3021.06",
+      "title": "Intelligence Analysts",
+      "zone": 4,
+      "pct": 38.9,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Public Safety and Security",
+        "Active Learning",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "19-4092.00",
+      "title": "Forensic Science Technicians",
+      "zone": 3,
+      "pct": 38.5,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 37.9,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "51-2022.00",
+      "title": "Electrical and Electronic Equipment Assemblers",
+      "zone": 2,
+      "pct": 37.0,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Coordination",
+        "Speaking",
+        "Writing",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "19-5012.00",
+      "title": "Occupational Health and Safety Technicians",
+      "zone": 3,
+      "pct": 36.7,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Public Safety and Security",
+        "Writing",
+        "Engineering and Technology",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "47-2151.00",
+      "title": "Pipelayers",
+      "zone": 2,
+      "pct": 36.6,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Speaking",
+        "Coordination",
+        "Quality Control Analysis",
+        "Engineering and Technology",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "zone": 3,
+      "pct": 36.4,
+      "matched_skills": [
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Design"
+      ]
+    },
+    {
+      "soc": "19-4043.00",
+      "title": "Geological Technicians, Except Hydrologic Technicians",
+      "zone": 4,
+      "pct": 36.4,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Writing",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "13-1081.01",
+      "title": "Logistics Engineers",
+      "zone": 4,
+      "pct": 36.2,
+      "matched_skills": [
+        "Systems Analysis",
+        "Engineering and Technology",
+        "Writing",
+        "Active Learning",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "47-2121.00",
+      "title": "Glaziers",
+      "zone": 2,
+      "pct": 35.9,
+      "matched_skills": [
+        "Administration and Management",
+        "Design",
+        "Reading Comprehension",
+        "Speaking",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "19-4012.01",
+      "title": "Precision Agriculture Technicians",
+      "zone": 3,
+      "pct": 35.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Engineering and Technology"
+      ]
+    },
+    {
+      "soc": "49-9061.00",
+      "title": "Camera and Photographic Equipment Repairers",
+      "zone": 3,
+      "pct": 35.0,
+      "matched_skills": [
+        "Troubleshooting",
+        "Computers and Electronics",
+        "Quality Control Analysis",
+        "Engineering and Technology",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "47-2161.00",
+      "title": "Plasterers and Stucco Masons",
+      "zone": 2,
+      "pct": 34.8,
+      "matched_skills": [
+        "Administration and Management",
+        "Design",
+        "Quality Control Analysis",
+        "Time Management",
+        "Public Safety and Security",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "13-1041.01",
+      "title": "Environmental Compliance Inspectors",
+      "zone": 4,
+      "pct": 34.8,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Active Learning",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "49-9062.00",
+      "title": "Medical Equipment Repairers",
+      "zone": 3,
+      "pct": 34.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Troubleshooting",
+        "Engineering and Technology",
+        "Quality Control Analysis",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "51-5111.00",
+      "title": "Prepress Technicians and Workers",
+      "zone": 3,
+      "pct": 34.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Design",
+        "Speaking",
+        "Time Management",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "45-2011.00",
+      "title": "Agricultural Inspectors",
+      "zone": 2,
+      "pct": 33.6,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Reading Comprehension",
+        "Speaking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "49-2098.00",
+      "title": "Security and Fire Alarm Systems Installers",
+      "zone": 3,
+      "pct": 33.5,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Computers and Electronics",
+        "Speaking",
+        "Engineering and Technology",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 33.3,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "51-2023.00",
+      "title": "Electromechanical Equipment Assemblers",
+      "zone": 2,
+      "pct": 33.3,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Speaking",
+        "Troubleshooting"
+      ]
+    },
+    {
+      "soc": "31-9094.00",
+      "title": "Medical Transcriptionists",
+      "zone": 3,
+      "pct": 33.3,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Writing",
+        "Computers and Electronics",
+        "Speaking",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "49-9012.00",
+      "title": "Control and Valve Installers and Repairers, Except Mechanical Door",
+      "zone": 3,
+      "pct": 33.3,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Public Safety and Security",
+        "Computers and Electronics",
+        "Design",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "51-7031.00",
+      "title": "Model Makers, Wood",
+      "zone": 3,
+      "pct": 33.2,
+      "matched_skills": [
+        "Design",
+        "Engineering and Technology",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "39-5092.00",
+      "title": "Manicurists and Pedicurists",
+      "zone": 2,
+      "pct": 32.7,
+      "matched_skills": [
+        "Speaking",
+        "Active Learning",
+        "Reading Comprehension",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "31-9091.00",
+      "title": "Dental Assistants",
+      "zone": 3,
+      "pct": 32.6,
+      "matched_skills": [
+        "Administration and Management",
+        "Speaking",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "35-2014.00",
+      "title": "Cooks, Restaurant",
+      "zone": 2,
+      "pct": 32.5,
+      "matched_skills": [
+        "Speaking",
+        "Time Management",
+        "Active Learning",
+        "Reading Comprehension",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 32.4,
+      "matched_skills": [
+        "Speaking",
+        "Writing",
+        "Reading Comprehension",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 32.3,
+      "matched_skills": [
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 32.0,
+      "matched_skills": [
+        "Speaking",
+        "Administration and Management",
+        "Active Learning",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 31.7,
+      "matched_skills": [
+        "Administration and Management",
+        "Coordination",
+        "Speaking",
+        "Reading Comprehension",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "39-7012.00",
+      "title": "Travel Guides",
+      "zone": 2,
+      "pct": 31.5,
+      "matched_skills": [
+        "Speaking",
+        "Coordination",
+        "Reading Comprehension",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-2032.00",
+      "title": "Career/Technical Education Teachers, Secondary School",
+      "zone": 4,
+      "pct": 31.0,
+      "matched_skills": [
+        "Instructing",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "45-4011.00",
+      "title": "Forest and Conservation Workers",
+      "zone": 2,
+      "pct": 30.9,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Administration and Management",
+        "Active Learning",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "25-3011.00",
+      "title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+      "zone": 4,
+      "pct": 30.8,
+      "matched_skills": [
+        "Instructing",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "33-3041.00",
+      "title": "Parking Enforcement Workers",
+      "zone": 2,
+      "pct": 30.7,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Speaking",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "25-2022.00",
+      "title": "Middle School Teachers, Except Special and Career/Technical Education",
+      "zone": 4,
+      "pct": 30.7,
+      "matched_skills": [
+        "Instructing",
+        "Speaking",
+        "Active Learning",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "41-9012.00",
+      "title": "Models",
+      "zone": 2,
+      "pct": 30.6,
+      "matched_skills": [
+        "Speaking",
+        "Coordination",
+        "Reading Comprehension",
+        "Time Management",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "29-1292.00",
+      "title": "Dental Hygienists",
+      "zone": 3,
+      "pct": 30.6,
+      "matched_skills": [
+        "Speaking",
+        "Writing",
+        "Active Learning",
+        "Reading Comprehension",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "25-2057.00",
+      "title": "Special Education Teachers, Middle School",
+      "zone": 4,
+      "pct": 30.5,
+      "matched_skills": [
+        "Active Learning",
+        "Speaking",
+        "Instructing",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 29.9,
+      "matched_skills": [
+        "Speaking",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "53-7062.00",
+      "title": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "zone": 2,
+      "pct": 29.0,
+      "matched_skills": [
+        "Administration and Management",
+        "Public Safety and Security",
+        "Coordination",
+        "Reading Comprehension",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 28.9,
+      "matched_skills": [
+        "Time Management",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "39-1022.00",
+      "title": "First-Line Supervisors of Personal Service Workers",
+      "zone": 3,
+      "pct": 28.5,
+      "matched_skills": [
+        "Administration and Management",
+        "Public Safety and Security",
+        "Speaking",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 28.4,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "53-6051.07",
+      "title": "Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+      "zone": 2,
+      "pct": 28.3,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Reading Comprehension",
+        "Speaking",
+        "Troubleshooting",
+        "Public Safety and Security"
+      ]
+    },
+    {
+      "soc": "53-6041.00",
+      "title": "Traffic Technicians",
+      "zone": 3,
+      "pct": 28.0,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "53-3033.00",
+      "title": "Light Truck Drivers",
+      "zone": 2,
+      "pct": 27.6,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Time Management",
+        "Public Safety and Security",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "31-2022.00",
+      "title": "Physical Therapist Aides",
+      "zone": 2,
+      "pct": 27.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Coordination",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "41-2022.00",
+      "title": "Parts Salespersons",
+      "zone": 2,
+      "pct": 27.1,
+      "matched_skills": [
+        "Speaking",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "29-2099.01",
+      "title": "Neurodiagnostic Technologists",
+      "zone": 3,
+      "pct": 26.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Speaking",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 26.3,
+      "matched_skills": [
+        "Speaking",
+        "Reading Comprehension",
+        "Writing",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "39-5091.00",
+      "title": "Makeup Artists, Theatrical and Performance",
+      "zone": 3,
+      "pct": 26.3,
+      "matched_skills": [
+        "Speaking",
+        "Reading Comprehension",
+        "Design",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 26.2,
+      "matched_skills": [
+        "Speaking",
+        "Writing",
+        "Active Learning",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "29-2032.00",
+      "title": "Diagnostic Medical Sonographers",
+      "zone": 3,
+      "pct": 25.8,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Active Learning",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "41-4011.00",
+      "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "zone": 4,
+      "pct": 25.7,
+      "matched_skills": [
+        "Speaking",
+        "Reading Comprehension",
+        "Coordination",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "31-1133.00",
+      "title": "Psychiatric Aides",
+      "zone": 2,
+      "pct": 25.5,
+      "matched_skills": [
+        "Speaking",
+        "Active Learning",
+        "Coordination",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "33-9032.00",
+      "title": "Security Guards",
+      "zone": 2,
+      "pct": 25.3,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "41-9041.00",
+      "title": "Telemarketers",
+      "zone": 2,
+      "pct": 25.2,
+      "matched_skills": [
+        "Speaking",
+        "Reading Comprehension",
+        "Administration and Management",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "29-2055.00",
+      "title": "Surgical Technologists",
+      "zone": 3,
+      "pct": 25.1,
+      "matched_skills": [
+        "Speaking",
+        "Coordination",
+        "Time Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "35-2021.00",
+      "title": "Food Preparation Workers",
+      "zone": 2,
+      "pct": 25.0,
+      "matched_skills": [
+        "Time Management",
+        "Speaking",
+        "Coordination",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 24.9,
+      "matched_skills": [
+        "Speaking",
+        "Active Learning",
+        "Reading Comprehension",
+        "Instructing"
+      ]
+    },
+    {
+      "soc": "35-2015.00",
+      "title": "Cooks, Short Order",
+      "zone": 2,
+      "pct": 24.6,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Time Management",
+        "Speaking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "21-1092.00",
+      "title": "Probation Officers and Correctional Treatment Specialists",
+      "zone": 4,
+      "pct": 22.6,
+      "matched_skills": [
+        "Public Safety and Security",
+        "Speaking",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 25,
+      "title": "Software Engineer (HPC) Linux & Scripting Emphasis",
+      "company": "6ea91ea2-804f-462b-9fd7-63453b2902ab",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4036303",
+      "match_score": 65,
+      "embed_sim": 0.5147522687911987,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Architecture & Engineering",
+      "comparisons": 0,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "While Devin has some relevant skills and experience in software development, particularly in web applications and an understanding of operating systems, there are significant gaps when it comes to the specific requirements and technologies outlined in the job description for the Software Engineer (HPC) role.",
+        "strengths": [
+          "Experience with Python, Java, and C++ which align with required programming languages",
+          "Hands-on experience with web application development and UI design",
+          "Knowledge of Linux operating systems from coursework and experience"
+        ],
+        "gaps": [
+          "Lack of direct experience with high-performance computing (HPC) environments",
+          "No evidence of scripting skills in Bash for process automation",
+          "No mention of CI/CD tools like GitLab CI or Jenkins",
+          "Limited experience with data engineering tools and frameworks mentioned (e.g., Apache NiFi, Spark)",
+          "No experience with containerization (Docker, Kubernetes) and orchestration",
+          "Missing familiarity with DevOps practices and Infrastructure as Code (IaC) using Ansible"
+        ]
+      },
+      "blended_score": 79
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 15,
+      "title": "SDET with JavaScript",
+      "company": "ComtechLLC2",
+      "url": "https://jobs.smartrecruiters.com/ComtechLLC2/743999659723552",
+      "match_score": 58,
+      "embed_sim": 0.471343457698822,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Architecture & Engineering",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 58,
+        "summary": "The candidate displays some relevant skills and experience in software development and testing, particularly with JavaScript and web applications. However, significant gaps exist in specific test automation frameworks, mobile testing, and the broader necessary testing experience outlined in the job description.",
+        "strengths": [
+          "Proficient in JavaScript, which is the most important requirement for the position.",
+          "Experience with web application development, which supports relevant skills in front-end frameworks.",
+          "Gained valuable experience in internships, working on real-world applications and projects."
+        ],
+        "gaps": [
+          "Lacks experience with Protractor or any of the specified test automation frameworks (CasperJS, Nightwatch.js, etc.).",
+          "No evidence of mobile test automation experience, which is a key requirement.",
+          "Insufficient detail on experience with continuous integration and testing tools like Jenkins and Jira.",
+          "General software development experience does not extend to testing or test case management as outlined in the job description."
+        ]
+      },
+      "blended_score": 46
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 7,
+      "title": "Cloud Architect",
+      "company": "Astor & Sanders Corporation (Astor)",
+      "url": "https://apply.workable.com/j/30E55C12E8",
+      "match_score": 45,
+      "embed_sim": 0.4725539982318878,
+      "verdict": "weak",
+      "zone": 3,
+      "family": "Architecture & Engineering",
+      "comparisons": 1,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "The candidate's resume exhibits some relevant education and basic programming skills, but lacks direct experience and qualifications tailored to cloud architecture roles, specifically regarding cloud providers, Infrastructure as Code, and experience with scientific or mission-critical applications.",
+        "strengths": [
+          "Education in Software Engineering with relevant coursework",
+          "Experience with modern programming languages like Python and JavaScript",
+          "Internship experience in software development"
+        ],
+        "gaps": [
+          "No experience with cloud architecture or engineering roles",
+          "Lacks knowledge of major cloud providers (AWS, Azure, Google Cloud, OCI)",
+          "No experience with Infrastructure as Code tools like Terraform or CloudFormation",
+          "No hands-on experience with cloud networking, security, or identity management",
+          "Lacks familiarity with CI/CD pipelines and DevSecOps principles",
+          "No cloud-related certifications or specific experience in performance optimization or automation",
+          "No experience with containerization or orchestration tools like Docker and Kubernetes"
+        ]
+      },
+      "blended_score": 40
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 3,
+      "title": "Product Engineer",
+      "company": "Normal Computing",
+      "url": "https://jobs.ashbyhq.com/NormalComputing/6228a7ca-2a62-47ce-99dd-08bed646db94",
+      "match_score": 60,
+      "embed_sim": 0.4602169394493103,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Architecture & Engineering",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "Devin Rhodie's resume demonstrates foundational software engineering skills and relevant internship experience, but lacks the extensive experience and specific technologies noted in the job description for a Product Engineer role at Normal Computing, particularly with AI systems and full-stack product development.",
+        "strengths": [
+          "Strong programming skills in multiple languages including Python, JavaScript, and C++.",
+          "Relevant internship experience as a Software Engineer, particularly with web applications and UI design.",
+          "Completion of relevant coursework in software design, testing, and systems development."
+        ],
+        "gaps": [
+          "Lacks 4-7 years of experience in building full-stack products.",
+          "No specific proficiency mentioned in TypeScript and React, which are required for the role.",
+          "Limited evidence of experience with AI products or working in technical environments similar to semiconductor engineering workflows."
+        ]
+      },
+      "blended_score": 39
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 4,
+      "title": "Forward Deployed Engineer ",
+      "company": "Strider Technologies",
+      "url": "https://jobs.ashbyhq.com/strider-technologies/76d9690d-08d4-4762-b299-b56681e9a088",
+      "match_score": 50,
+      "embed_sim": 0.465108722448349,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Architecture & Engineering",
+      "comparisons": 1,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "Devin Rhodie's resume shows some relevant experience and education in software engineering, but lacks the required years of professional experience and some specific technical skills explicitly sought in the job description.",
+        "strengths": [
+          "Strong educational background in Software Engineering",
+          "Relevant coursework in software design and systems",
+          "Internship experience in software development",
+          "Proficient in Python and Java, which are key programming languages for the role",
+          "Familiarity with API development and integration"
+        ],
+        "gaps": [
+          "Lacks 3+ years of professional software engineering experience",
+          "No evidence of experience with distributed systems or cloud infrastructure (AWS preferred)",
+          "Limited exposure to front-end frameworks beyond basic web technologies",
+          "Insufficient demonstration of strong problem-solving skills in a high-stakes or ambiguous environment",
+          "No mention of security clearance or eligibility to obtain one"
+        ]
+      },
+      "blended_score": 38
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 12,
+      "title": "Application Specialist & Technologist",
+      "company": "Chicago Architecture Center",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4098792",
+      "match_score": 65,
+      "embed_sim": 0.4537513256072998,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Architecture & Engineering",
+      "comparisons": 4,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Devin Rhodie's resume shows a developing background in software engineering along with some hands-on experience that may align with certain aspects of the Application Specialist & Technologist role. However, the candidate lacks experience directly related to systems integration, application portfolio management, and enterprise-level strategic oversight, which are critical for the position.",
+        "strengths": [
+          "Education in Software Engineering with relevant coursework",
+          "Hands-on experience with multiple programming languages including Python",
+          "Experience in software development through internships and projects",
+          "Familiarity with collaboration in team environments"
+        ],
+        "gaps": [
+          "No direct experience in application portfolio management or systems integration",
+          "Lacks demonstrated experience in data integrity and governance practices",
+          "No experience mentioned with reporting and business intelligence solutions",
+          "Limited exposure to leading application implementation efforts and vendor coordination"
+        ]
+      },
+      "blended_score": 38
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 11,
+      "title": "Software Engineer, Growth Marketing",
+      "company": "Suno",
+      "url": "https://jobs.ashbyhq.com/Suno/6f27a62f-02ac-46c0-8e77-347cf28881ed",
+      "match_score": 65,
+      "embed_sim": 0.4512903392314911,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Architecture & Engineering",
+      "comparisons": 7,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "While Devin has a solid foundation in software engineering and relevant project experience, there are notable gaps in specific marketing and growth engineering skills required for the role at Suno. His experience primarily focuses on software development and not directly on marketing-related engineering tasks.",
+        "strengths": [
+          "Strong programming skills in multiple languages including JavaScript and Python, which are valuable for full-stack development.",
+          "Experience with web application development, specifically in creating user-friendly interfaces and handling data.",
+          "Hands-on internship experience that demonstrates ability to work on real-world projects and collaborate with others."
+        ],
+        "gaps": [
+          "Lacks 3+ years of full-stack software engineering experience specifically in a growth marketing context.",
+          "Limited experience with CMS, SEO/AEO, and marketing attribution platforms which are core requirements for the job.",
+          "No evidence of experience in analytics or using data to drive marketing decisions or optimizations.",
+          "Does not demonstrate experience in building A/B testing infrastructure or lifecycle CRM journeys as specified in the job description."
+        ]
+      },
+      "blended_score": 36
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 24,
+      "title": "Junior Developer",
+      "company": "Davis Technology Management",
+      "url": "https://jobs.ashbyhq.com/davistechnologymanagement/3cbea0f7-03df-446e-83e6-340a38a9f8ab",
+      "match_score": 65,
+      "embed_sim": 0.4496503174304962,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Architecture & Engineering",
+      "comparisons": 4,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Devin Rhodie's resume shows a solid technical foundation and relevant experiences, but lacks direct exposure to the specific automation tools and processes outlined in the job description.",
+        "strengths": [
+          "Relevant coursework in Software Design and Project Management.",
+          "Programming skills in languages like C++, Java, and Python which are relevant for software development.",
+          "Experience as a Software Engineer Intern, contributing to real-world projects.",
+          "Projects showcasing practical application of software development concepts."
+        ],
+        "gaps": [
+          "No direct experience mentioned with Microsoft 365 tools or automation technologies.",
+          "Lacks specific examples of process analysis or efficiency improvements in a business context.",
+          "Not explicitly stated familiarity with automation tools or AI-assisted technologies."
+        ]
+      },
+      "blended_score": 35
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 17,
+      "title": "Systems and Solutions Engineer",
+      "company": "Intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/job/Israel-Haifa/Systems-and-Solutions-Engineer_JR0279396-1",
+      "match_score": 60,
+      "embed_sim": 0.45173370838165283,
+      "verdict": "stretch",
+      "zone": 3,
+      "family": "Architecture & Engineering",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "Devin's resume demonstrates relevant coursework and internship experience in software development, particularly in web applications and user experience improvements. However, it lacks direct experience with systems engineering, hardware integration, and the complexities of system-level engineering as outlined in the job description.",
+        "strengths": [
+          "Relevant coursework in Software Engineering and system design concepts",
+          "Experience as a Software Engineering Intern that involved collaboration and software development",
+          "Programming skills in C++, Python, and JavaScript, which align with the job requirements"
+        ],
+        "gaps": [
+          "Lack of direct experience in systems engineering and integration of hardware and software",
+          "No evidence of experience debugging complex system-level issues",
+          "Incomplete understanding of computer architecture and low-level software concepts",
+          "No experience mentioned with generative AI or agent-based AI tools",
+          "No specific projects or work related to data center platforms or silicon components integration"
+        ]
+      },
+      "blended_score": 34
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 21,
+      "title": "Control Systems Developer I ",
+      "company": "CRB",
+      "url": "https://jobs.smartrecruiters.com/CRB/744000067320269",
+      "match_score": 60,
+      "embed_sim": 0.45164087414741516,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Architecture & Engineering",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "Devin has relevant software engineering coursework and internship experiences, but lacks specific exposure to PLC/HMI programming and industrial automation systems required for the Control Systems Developer position.",
+        "strengths": [
+          "Near completion of Software Engineering degree, demonstrating foundational knowledge in software design and development.",
+          "Technical skills in multiple programming languages (Python, Java, C++, C#, JavaScript) that could translate to control systems programming.",
+          "Experience with collaborative software projects and team environments, which aligns with working in multidisciplinary teams."
+        ],
+        "gaps": [
+          "No direct experience or coursework related to PLC/HMI programming, which is preferred for the role.",
+          "Lacks specific exposure to industrial automation systems, control hardware, or software technologies.",
+          "Does not mention any experience with system documentation, IO lists, or wiring diagrams that are relevant to the job."
+        ]
+      },
+      "blended_score": 34
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

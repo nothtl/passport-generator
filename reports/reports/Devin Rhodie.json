@@ -1,0 +1,459 @@
+{
+  "name": "Devin Rhodie",
+  "zone": 4,
+  "education_level": "bachelors",
+  "source_files": [
+    "Devin Rhodie - Resume.pdf",
+    "Devin Rhodie - LinkedIn.md"
+  ],
+  "skills": [
+    "Programming",
+    "Engineering and Technology",
+    "Design",
+    "Computers and Electronics",
+    "Systems Analysis",
+    "Technology Design",
+    "Active Learning",
+    "Learning Strategies",
+    "Quality Control Analysis",
+    "Coordination",
+    "Administration and Management",
+    "Time Management",
+    "Speaking",
+    "Troubleshooting",
+    "Critical Thinking",
+    "Mathematics",
+    "Communications and Media",
+    "Complex Problem Solving",
+    "Judgment and Decision Making",
+    "Monitoring",
+    "Operation and Control",
+    "Operations Analysis",
+    "Systems Evaluation",
+    "Social Perceptiveness",
+    "Instructing",
+    "Psychology",
+    "Public Safety and Security"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Programming",
+      "evidence": "Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development and Integration, object-oriented design",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Engineering and Technology",
+      "evidence": "Software Engineering Major, Software Design for computing systems, Web engineering, Engineering of software subsystems, Created a cross device application, Contributed to the development and maintenance of SCOOPortal",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Software Design for computing systems, Human-centered requirements and design, object-oriented design, Designed C++ software, Built a GUI-based comic book management app, Led UI debranding efforts, Designed a user-friendly interface",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Operating Systems: Windows, Linux(Ubuntu), macOS, API development and Integration, Database systems, Computer systems concepts, Integrated LED feedback",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "Human-centered requirements and design, Software process and project management, Refactored complex React modal components to improve usability, state handling, and error management, Collaborated in a team to combine different subsystem designs",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Technology Design",
+      "evidence": "Software Design for computing systems, API development and Integration, object-oriented design, Created a cross device application handling MIDI protocols, Designed C++ software, Implemented dual-mode input system, Integrated LED feedback, Built a GUI-based comic book management app, Collaborated in a team to combine different subsystem designs, Designed a user-friendly interface",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Software Engineering student, Relevant Coursework, Programming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Software Engineering student, Relevant Coursework",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "Software testing, error management, Implemented and enhanced confirmation modals to prevent accidental data loss",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Collaborated in a team to combine different subsystem designs, Led UI debranding efforts, Collaborated with a partner",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Software process and project management, Led UI debranding efforts",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Software process and project management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Presented the project to a cohort of peers, explaining the development process and features.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Troubleshooting",
+      "evidence": "error management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Refactored complex React modal components to improve usability, state handling, and error management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "Software Engineering Major",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Presented the project to a cohort of peers, explaining the development process and features.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "Refactored complex React modal components to improve usability, state handling, and error management, Created a cross device application handling MIDI protocols, Built a GUI-based comic book management app",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "Refactored complex React modal components to improve usability, state handling, and error management, Designed C++ software",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "Integrated LED feedback and event-driven state handling for real-time playback control.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions.",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "Software process and project management, Refactored complex React modal components to improve usability, state handling, and error management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Systems Evaluation",
+      "evidence": "Refactored complex React modal components to improve usability, state handling, and error management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Human-centered requirements and design, Designed a user-friendly interface",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "explaining the development process and features.",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Psychology",
+      "evidence": "Human-centered requirements and design",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "Cybersecurity",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "15-1243.00",
+      "title": "Database Architects",
+      "zone": 4,
+      "pct": 73.3,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Engineering and Technology",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Systems Analysis",
+        "Design",
+        "Mathematics",
+        "Speaking",
+        "Programming"
+      ]
+    },
+    {
+      "soc": "15-1255.01",
+      "title": "Video Game Designers",
+      "zone": 4,
+      "pct": 73.0,
+      "matched_skills": [
+        "Design",
+        "Computers and Electronics",
+        "Programming",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Active Learning",
+        "Communications and Media",
+        "Systems Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "15-1252.00",
+      "title": "Software Developers",
+      "zone": 4,
+      "pct": 66.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Programming",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Mathematics",
+        "Active Learning",
+        "Systems Analysis",
+        "Complex Problem Solving",
+        "Systems Evaluation"
+      ]
+    },
+    {
+      "soc": "17-2072.00",
+      "title": "Electronics Engineers, Except Computer",
+      "zone": 4,
+      "pct": 66.2,
+      "matched_skills": [
+        "Engineering and Technology",
+        "Computers and Electronics",
+        "Design",
+        "Mathematics",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Systems Analysis"
+      ]
+    },
+    {
+      "soc": "27-2022.00",
+      "title": "Coaches and Scouts",
+      "zone": 4,
+      "pct": 64.4,
+      "matched_skills": [
+        "Instructing",
+        "Speaking",
+        "Learning Strategies",
+        "Monitoring",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Complex Problem Solving",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "47-2171.00",
+      "title": "Reinforcing Iron and Rebar Workers",
+      "zone": 2,
+      "pct": 63.8,
+      "matched_skills": [
+        "Mathematics",
+        "Administration and Management",
+        "Design",
+        "Coordination",
+        "Engineering and Technology",
+        "Critical Thinking",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Operation and Control",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "15-1254.00",
+      "title": "Web Developers",
+      "zone": 3,
+      "pct": 63.6,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Programming",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Operations Analysis",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "Mathematics",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "15-1243.01",
+      "title": "Data Warehousing Specialists",
+      "zone": 4,
+      "pct": 63.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Programming",
+        "Complex Problem Solving",
+        "Systems Analysis",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Systems Evaluation",
+        "Mathematics"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 3,
+      "title": "Software Developers",
+      "company": "Jobs for Humanity",
+      "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000016281746",
+      "match_score": 75,
+      "comparisons": 20,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "Devin Rhodie has relevant software engineering experience and skills that align well with the job requirements at Sandhills Global. He has worked on web applications using similar technologies and demonstrated an understanding of collaborative development, making him a good fit for the role. However, he lacks specific experience with E-Commerce platforms and the Microsoft technology stack, which are preferred by the job description.",
+        "strengths": [
+          "Relevant coursework in software design and web engineering",
+          "Experience with frontend technologies (HTML, JavaScript, React)",
+          "Intern experience contributing to web applications",
+          "Strong programming skills in multiple languages, including JavaScript and C#",
+          "Experience in an agile development environment"
+        ],
+        "gaps": [
+          "No direct experience with E-Commerce platforms",
+          "Lacks knowledge of Microsoft stack (C#/VB, ASP.NET, MS-SQL)",
+          "No evidence of SEO understanding or relational database expertise specific to MS-SQL",
+          "No specific mention of post-implementation support or monitoring application performance"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 21,
+      "title": "IT Application Analyst- Entry (Epic MyChart)",
+      "company": "UMC Health System",
+      "url": "https://umchealthsystem.wd1.myworkdayjobs.com/job/Business-and-Technology-Center/IT-Application-Analyst--Entry--Epic-MyChart-_R20410",
+      "match_score": 70,
+      "comparisons": 13,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Devin Rhodie's resume demonstrates relevant education and practical experience that aligns well with the IT Application Analyst position, particularly through internships and projects that highlight software development skills and problem-solving capabilities. However, gaps exist regarding specific experience with Epic applications and healthcare operations.",
+        "strengths": [
+          "Education in Software Engineering with relevant coursework",
+          "Experience with web application development in internships",
+          "Technical skills in programming languages and API integration",
+          "Strong projects that demonstrate practical application of software development skills"
+        ],
+        "gaps": [
+          "No direct experience with Epic EHR or MyChart applications",
+          "Lack of specific knowledge in healthcare operations and workflows",
+          "Limited demonstration of experience in documenting and optimizing workflows",
+          "No mention of customer service experience or collaboration with end users"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 6,
+      "title": "IS Application Analyst",
+      "company": "Brown University Health",
+      "url": "https://brownhealth.wd12.myworkdayjobs.com/job/Brown-University-Health/IS-Application-Analyst_JR-108535-1",
+      "match_score": 68,
+      "comparisons": 19,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 68,
+        "summary": "Devin has a relatable educational background and experience in software development, but lacks direct experience with an integrated health information system and specific application analyst job responsibilities.",
+        "strengths": [
+          "Pursuing a degree in Software Engineering, which is relevant to the job",
+          "Experience as a Software Engineer Intern, indicating practical programming skills",
+          "Familiarity with multiple programming languages and software development practices",
+          "Experience in designing and implementing user interfaces and application functionalities"
+        ],
+        "gaps": [
+          "No direct experience with health application systems or healthcare environment",
+          "Lacks experience with preparation of manuals, training materials, or training user personnel",
+          "Limited evidence of testing and maintaining existing software in a professional setting",
+          "No specific mention of collaboration with user departments or vendors as required by the role"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 10,
+      "title": "Application Systems Analyst/Programmer",
+      "company": "Horace Mann Service Corporation",
+      "url": "https://job-boards.greenhouse.io/horacemannservicecorporation/jobs/5840885004",
+      "match_score": 68,
+      "comparisons": 18,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 68,
+        "summary": "Devin has solid technical skills and relevant internship experience but lacks specific qualifications in insurance applications and advanced data analysis tools. His communication skills and collaborative experience are positive aspects but may not fully meet the job's requirements.",
+        "strengths": [
+          "Experience in software engineering internships, particularly with web applications",
+          "Educational background in software engineering with relevant coursework",
+          "Familiarity with programming languages such as SQL, which is beneficial for the role",
+          "Demonstrated ability to collaborate effectively in team environments",
+          "Experience in troubleshooting and implementing software solutions."
+        ],
+        "gaps": [
+          "No documented experience with insurance products or claims systems",
+          "Limited familiarity with specific tools such as LifePRO, Hyland Perceptive, or Online ToolWorks SmartBatch",
+          "Lack of significant experience in user training and support, as stated in the job description",
+          "Experience in system testing and release validation is not mentioned in the resume.",
+          "No evidence of experience with reporting tools or data access management."
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 28,
+      "title": "Application/Technical Analyst",
+      "company": "Lifeworks Services, Inc.",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4246377",
+      "match_score": 68,
+      "comparisons": 12,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 68,
+        "summary": "The candidate has relevant educational background and internship experience but lacks direct experience in key areas required by the job, such as SQL development, enterprise application support, and experience in integrations or analytics tools.",
+        "strengths": [
+          "Education in Software Engineering with relevant coursework",
+          "Experience as a Software Engineer Intern which includes web application development",
+          "Familiarity with several programming languages including SQL, HTML, and JavaScript",
+          "Experience with system integrations in a software context"
+        ],
+        "gaps": [
+          "No direct experience with SQL development or T-SQL",
+          "Lacks experience with Azure services, SSIS, or comparable integration technologies",
+          "No background in application security or compliance standards",
+          "No reporting experience with Power BI or Tableau",
+          "Doesn't fulfill the 3-5+ years of experience requirement in software development or application support"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 242,
+    "ranked": 242,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

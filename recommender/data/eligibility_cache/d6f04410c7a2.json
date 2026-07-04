@@ -1,0 +1,14 @@
+{
+  "Tenant Advocate": {
+    "eligible": true,
+    "reason": "Tenant advocate role does not involve age-restricted activities."
+  },
+  "Lab - Medical Lab Technician/Medical Technician PRN Days|||coffeyvilleregionalmedicalcenter": {
+    "eligible": true,
+    "reason": "Medical lab technician role is suitable for 16-20 year olds with proper training."
+  },
+  "Residential Program \u2013 DSP Awake Overnights": {
+    "eligible": true,
+    "reason": "Direct support professional overnight role is not age-restricted."
+  }
+}

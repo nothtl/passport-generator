@@ -1,0 +1,14 @@
+{
+  "Sales Associate|||the-normal-brand": {
+    "eligible": true,
+    "reason": "Retail sales associate role, no age restrictions."
+  },
+  "Leasing Consultant (Boardwalk)|||prometheusrealestategroup": {
+    "eligible": true,
+    "reason": "Leasing consultant role, no age restrictions."
+  },
+  "Fall/Winter Internships": {
+    "eligible": true,
+    "reason": "Internships generally open to 16-20 year olds."
+  }
+}

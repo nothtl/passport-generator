@@ -1,0 +1,22 @@
+{
+  "Private Wealth Management Team Administrator|||ms": {
+    "eligible": true,
+    "reason": "Administrative role, no age restriction."
+  },
+  "Sanitation Technician|||curaleaf": {
+    "eligible": false,
+    "reason": "Cannabis dispensary role, requires 21+."
+  },
+  "Associate, Internship Team|||1HUDDLE": {
+    "eligible": true,
+    "reason": "Internship role, suitable for youth."
+  },
+  "Peer Support/Teen Talk Line Internship: Fall 2026/Spring 2027|||access-services-3": {
+    "eligible": true,
+    "reason": "Peer support line, age-appropriate."
+  },
+  "Commercial Cleaner|||clayco": {
+    "eligible": true,
+    "reason": "Cleaning role, no age restriction."
+  }
+}

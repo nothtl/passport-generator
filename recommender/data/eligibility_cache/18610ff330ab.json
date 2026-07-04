@@ -1,0 +1,30 @@
+{
+  "Children's Soccer Coach|||super-soccer-stars": {
+    "eligible": true,
+    "reason": "No age restrictions for coaching children's soccer."
+  },
+  "Youth Sports Volunteer": {
+    "eligible": true,
+    "reason": "Youth sports volunteer roles are suitable for minors."
+  },
+  "ASP Assistant Coordinator": {
+    "eligible": true,
+    "reason": "Assistant coordinator role likely suitable for young adults."
+  },
+  "After School Program Teacher Assistant": {
+    "eligible": true,
+    "reason": "Teacher assistant in after school program is suitable."
+  },
+  "Preschool Aide": {
+    "eligible": true,
+    "reason": "Preschool aide role is suitable for minors."
+  },
+  "Youth Soccer Coach|||super-soccer-stars": {
+    "eligible": true,
+    "reason": "Youth soccer coach role is suitable for young adults."
+  },
+  "Early Childhood Sports Instructor|||super-soccer-stars": {
+    "eligible": true,
+    "reason": "Early childhood sports instructor role is suitable."
+  }
+}

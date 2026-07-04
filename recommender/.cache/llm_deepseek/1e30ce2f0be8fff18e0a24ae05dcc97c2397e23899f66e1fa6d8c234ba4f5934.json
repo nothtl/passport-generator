@@ -1,0 +1,47 @@
+{
+  "accepted": true,
+  "chosen_function": "healthcare",
+  "chosen_subdomain": "clinical-support",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "skills",
+      "text": "Provided direct resident care in substance use disorder treatment settings."
+    },
+    {
+      "section": "skills",
+      "text": "Conducted HIV-1 research on pathogenesis and host restriction factors."
+    },
+    {
+      "section": "summary",
+      "text": "Extensive experience in HIV research, clinical care, and public health has fostered a strong commitment to making a meaningful impact in underserved communities."
+    }
+  ],
+  "goal_domains": [
+    "healthcare"
+  ],
+  "goal_roles": [
+    "Nurse",
+    "Medical Assistant",
+    "Healthcare Professional"
+  ],
+  "goal_subdomains": [
+    "clinical-support",
+    "public-health"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "professional_experience",
+    "education_major"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "healthcare",
+    "education"
+  ],
+  "study_subdomains": [
+    "research",
+    "pre-med-shadowing"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "Delivery Driver(05270) - 1604 S 5TH ST|||Dominos": {
+    "eligible": true,
+    "reason": "Delivery driver role, no age restriction beyond driving license."
+  },
+  "Server": {
+    "eligible": true,
+    "reason": "Server role, eligible if alcohol service is permitted for minors in the state."
+  },
+  "Processing Specialist (5) - Financial Intelligence Services|||nrt": {
+    "eligible": true,
+    "reason": "Processing specialist in financial services, no age restriction."
+  },
+  "Company Car Provided Delivery Driver(5251) - 2806 Government St, Baton Rouge, LA|||Dominos": {
+    "eligible": true,
+    "reason": "Delivery driver role, no age restriction beyond driving license."
+  }
+}

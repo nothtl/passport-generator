@@ -1,0 +1,2101 @@
+{
+  "name": "Samuel Tavarez",
+  "zone": 4,
+  "education_level": "bachelors",
+  "graduated": false,
+  "graduation_year": 2028,
+  "source_files": [
+    "Samuel Tavarez - Resume.pdf",
+    "Samuel Tavarez - LinkedIn.md"
+  ],
+  "skills": [
+    "Active Learning",
+    "Administration and Management",
+    "Administrative",
+    "Communications and Media",
+    "Complex Problem Solving",
+    "Computers and Electronics",
+    "Coordination",
+    "Critical Thinking",
+    "Customer and Personal Service",
+    "Design",
+    "Economics and Accounting",
+    "Education and Training",
+    "English Language",
+    "Foreign Language",
+    "Geography",
+    "Instructing",
+    "Judgment and Decision Making",
+    "Learning Strategies",
+    "Management of Material Resources",
+    "Management of Personnel Resources",
+    "Mathematics",
+    "Monitoring",
+    "Operations Analysis",
+    "Persuasion",
+    "Quality Control Analysis",
+    "Reading Comprehension",
+    "Sales and Marketing",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Speaking",
+    "Systems Analysis",
+    "Time Management",
+    "Writing"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Continuous Self Improvement",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Assisted with inventory management and organized merchandise and displays",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Assisted with classroom organization, grading assignments, and preparing instructional materials",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Translated class content from Spanish to English for Robotics students",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "developing strategic, team-based solutions to real-world business challenges",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Microsoft Excel (Intermediate), Microsoft Word (Intermediate), Google Docs",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Led a team of five in a competitive program",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Conducted daily case study analyses",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Provided support to customers by answering product questions and assisting with purchases",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Canva (For Business Visuals) Graphic Design",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Processed cash payments and ensured accurate balancing of daily financial records",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "preparing instructional materials such as charts, maps, and graphic organizers",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "AP English Composition, English (Fluent)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "English to Spanish Interpreter, Spanish (Native/Professional)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Geography",
+      "evidence": "AP Human Geography",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Translated class content from Spanish to English for Robotics students, supporting bilingual learning",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "developing strategic, team-based solutions to real-world business challenges",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "Continuous Self Improvement",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Assisted with inventory management",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Personnel Resources",
+      "evidence": "Led a team of five in a competitive program",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "Processed cash payments and ensured accurate balancing of daily financial records",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "evaluating presentation effectiveness, analytical performance, and teamwork",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "organized merchandise and displays to enhance store layout, customer flow, and overall shopping experience",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "Delivered strategic recommendations to enhance brand value and investor trust",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "ensured accurate balancing of daily financial records",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "AP English Composition, Reviewed quizzes and short-answer responses",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "analyzing market trends, and strategic challenges",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "creating a welcoming environment and strengthening customer relationships",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "creating a welcoming environment and strengthening customer relationships, building clients trust",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "answering product questions, team presentations, PowerPoint presentations",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "Conducted daily case study analyses, analyzing financial performance, market trends, and strategic challenges",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Productivity Planning, Goal Setting",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "AP English Composition, providing feedback under teacher supervision",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "13-2052.00",
+      "title": "Personal Financial Advisors",
+      "zone": 4,
+      "pct": 89.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Economics and Accounting",
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Critical Thinking",
+        "Mathematics",
+        "Mathematics",
+        "Complex Problem Solving",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "43-9111.00",
+      "title": "Statistical Assistants",
+      "zone": 4,
+      "pct": 88.3,
+      "matched_skills": [
+        "Mathematics",
+        "English Language",
+        "Mathematics",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Active Learning",
+        "Complex Problem Solving",
+        "Writing",
+        "Speaking",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "11-9179.02",
+      "title": "Spa Managers",
+      "zone": 3,
+      "pct": 87.8,
+      "matched_skills": [
+        "Administrative",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Critical Thinking",
+        "Management of Personnel Resources",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "43-3031.00",
+      "title": "Bookkeeping, Accounting, and Auditing Clerks",
+      "zone": 3,
+      "pct": 87.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Mathematics",
+        "Mathematics",
+        "English Language",
+        "Economics and Accounting",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Computers and Electronics",
+        "Speaking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "13-2011.00",
+      "title": "Accountants and Auditors",
+      "zone": 4,
+      "pct": 87.7,
+      "matched_skills": [
+        "Economics and Accounting",
+        "English Language",
+        "Mathematics",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Writing",
+        "Judgment and Decision Making",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 87.7,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking",
+        "Management of Personnel Resources"
+      ]
+    },
+    {
+      "soc": "27-3031.00",
+      "title": "Public Relations Specialists",
+      "zone": 4,
+      "pct": 87.7,
+      "matched_skills": [
+        "Communications and Media",
+        "English Language",
+        "Speaking",
+        "Reading Comprehension",
+        "Writing",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-3013.00",
+      "title": "Facilities Managers",
+      "zone": 3,
+      "pct": 87.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Coordination",
+        "Social Perceptiveness",
+        "Judgment and Decision Making",
+        "Management of Personnel Resources"
+      ]
+    },
+    {
+      "soc": "13-1111.00",
+      "title": "Management Analysts",
+      "zone": 4,
+      "pct": 87.6,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "13-1161.00",
+      "title": "Market Research Analysts and Marketing Specialists",
+      "zone": 4,
+      "pct": 87.6,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Mathematics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing",
+        "Speaking",
+        "Complex Problem Solving",
+        "Administration and Management",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 87.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "English Language",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "15-1299.02",
+      "title": "Geographic Information Systems Technologists and Technicians",
+      "zone": 3,
+      "pct": 87.4,
+      "matched_skills": [
+        "Geography",
+        "Computers and Electronics",
+        "English Language",
+        "Reading Comprehension",
+        "Mathematics",
+        "Critical Thinking",
+        "Speaking",
+        "Design",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "11-3021.00",
+      "title": "Computer and Information Systems Managers",
+      "zone": 4,
+      "pct": 87.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Writing",
+        "Complex Problem Solving",
+        "Coordination",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "43-3071.00",
+      "title": "Tellers",
+      "zone": 2,
+      "pct": 87.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Mathematics",
+        "Speaking",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Economics and Accounting",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "15-2051.01",
+      "title": "Business Intelligence Analysts",
+      "zone": 4,
+      "pct": 87.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Active Learning",
+        "Critical Thinking",
+        "Speaking",
+        "Mathematics",
+        "English Language",
+        "Writing",
+        "Judgment and Decision Making",
+        "Mathematics",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "43-4021.00",
+      "title": "Correspondence Clerks",
+      "zone": 2,
+      "pct": 86.9,
+      "matched_skills": [
+        "Administrative",
+        "Writing",
+        "English Language",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Economics and Accounting",
+        "Speaking",
+        "Mathematics",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "27-2012.03",
+      "title": "Media Programming Directors",
+      "zone": 4,
+      "pct": 86.2,
+      "matched_skills": [
+        "Communications and Media",
+        "Computers and Electronics",
+        "English Language",
+        "Speaking",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "41-2011.00",
+      "title": "Cashiers",
+      "zone": 2,
+      "pct": 85.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Sales and Marketing",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Mathematics",
+        "Administrative",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "41-4011.07",
+      "title": "Solar Sales Representatives and Assessors",
+      "zone": 3,
+      "pct": 85.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Speaking",
+        "Design",
+        "English Language",
+        "Reading Comprehension",
+        "Persuasion",
+        "Service Orientation",
+        "Mathematics",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "39-2021.00",
+      "title": "Animal Caretakers",
+      "zone": 2,
+      "pct": 85.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "Monitoring",
+        "English Language",
+        "Reading Comprehension",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation",
+        "Speaking",
+        "Critical Thinking",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 85.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-3031.00",
+      "title": "Waiters and Waitresses",
+      "zone": 2,
+      "pct": 85.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Sales and Marketing",
+        "Coordination",
+        "Monitoring",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 85.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Administrative",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "15-1299.03",
+      "title": "Document Management Specialists",
+      "zone": 4,
+      "pct": 85.4,
+      "matched_skills": [
+        "English Language",
+        "Reading Comprehension",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Writing",
+        "Monitoring",
+        "Complex Problem Solving",
+        "Systems Analysis",
+        "Customer and Personal Service",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 85.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "English Language",
+        "Reading Comprehension",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "41-1012.00",
+      "title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "zone": 4,
+      "pct": 85.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Time Management",
+        "English Language",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "39-9011.01",
+      "title": "Nannies",
+      "zone": 2,
+      "pct": 85.0,
+      "matched_skills": [
+        "Monitoring",
+        "Social Perceptiveness",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Persuasion",
+        "Customer and Personal Service",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 84.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-1026.00",
+      "title": "Merchandise Displayers and Window Trimmers",
+      "zone": 3,
+      "pct": 84.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "English Language",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Judgment and Decision Making",
+        "Reading Comprehension",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "27-3043.05",
+      "title": "Poets, Lyricists and Creative Writers",
+      "zone": 4,
+      "pct": 84.2,
+      "matched_skills": [
+        "Writing",
+        "English Language",
+        "Reading Comprehension",
+        "Communications and Media",
+        "Speaking",
+        "Active Learning",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Administrative",
+        "Judgment and Decision Making",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 83.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Reading Comprehension",
+        "Administrative",
+        "Computers and Electronics",
+        "Speaking",
+        "Education and Training",
+        "Service Orientation",
+        "Critical Thinking",
+        "Learning Strategies",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "17-1021.00",
+      "title": "Cartographers and Photogrammetrists",
+      "zone": 4,
+      "pct": 83.4,
+      "matched_skills": [
+        "Geography",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "English Language",
+        "Critical Thinking",
+        "Writing",
+        "Design",
+        "Mathematics",
+        "Active Learning",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "19-3092.00",
+      "title": "Geographers",
+      "zone": 4,
+      "pct": 83.3,
+      "matched_skills": [
+        "Geography",
+        "Reading Comprehension",
+        "Writing",
+        "Critical Thinking",
+        "Speaking",
+        "English Language",
+        "Computers and Electronics",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "Education and Training",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "25-2056.00",
+      "title": "Special Education Teachers, Elementary School",
+      "zone": 4,
+      "pct": 83.0,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Speaking",
+        "Instructing",
+        "Customer and Personal Service",
+        "Learning Strategies",
+        "Reading Comprehension",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "31-1121.00",
+      "title": "Home Health Aides",
+      "zone": 2,
+      "pct": 82.8,
+      "matched_skills": [
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Instructing",
+        "Persuasion"
+      ]
+    },
+    {
+      "soc": "39-5012.00",
+      "title": "Hairdressers, Hairstylists, and Cosmetologists",
+      "zone": 3,
+      "pct": 82.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Sales and Marketing",
+        "Service Orientation",
+        "Critical Thinking",
+        "Active Learning",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Monitoring",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "39-7012.00",
+      "title": "Travel Guides",
+      "zone": 2,
+      "pct": 81.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "Coordination",
+        "Persuasion",
+        "English Language",
+        "Reading Comprehension",
+        "Time Management",
+        "Sales and Marketing",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "25-2021.00",
+      "title": "Elementary School Teachers, Except Special Education",
+      "zone": 4,
+      "pct": 81.4,
+      "matched_skills": [
+        "English Language",
+        "Education and Training",
+        "Learning Strategies",
+        "Instructing",
+        "Speaking",
+        "Critical Thinking",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "51-6052.00",
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "zone": 2,
+      "pct": 81.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Economics and Accounting",
+        "Time Management",
+        "Critical Thinking",
+        "Speaking",
+        "Design",
+        "Mathematics",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 81.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "English Language",
+        "Speaking",
+        "Writing",
+        "Administrative",
+        "Learning Strategies",
+        "Active Learning",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "25-3041.00",
+      "title": "Tutors",
+      "zone": 3,
+      "pct": 81.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Education and Training",
+        "Reading Comprehension",
+        "Instructing",
+        "Learning Strategies",
+        "Speaking",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Mathematics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "31-1132.00",
+      "title": "Orderlies",
+      "zone": 2,
+      "pct": 81.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 81.0,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Mathematics",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 80.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Mathematics",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Computers and Electronics",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "17-2051.02",
+      "title": "Water/Wastewater Engineers",
+      "zone": 4,
+      "pct": 80.5,
+      "matched_skills": [
+        "Design",
+        "English Language",
+        "Mathematics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing",
+        "Judgment and Decision Making",
+        "Mathematics",
+        "Complex Problem Solving",
+        "Systems Analysis"
+      ]
+    },
+    {
+      "soc": "17-2072.00",
+      "title": "Electronics Engineers, Except Computer",
+      "zone": 4,
+      "pct": 80.4,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Design",
+        "Mathematics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Complex Problem Solving",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Systems Analysis",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 79.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Administration and Management",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 79.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-3031.00",
+      "title": "Surveying and Mapping Technicians",
+      "zone": 3,
+      "pct": 79.7,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Geography",
+        "Mathematics",
+        "English Language",
+        "Critical Thinking",
+        "Design",
+        "Mathematics",
+        "Writing",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 79.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "English Language",
+        "Monitoring",
+        "Coordination",
+        "Critical Thinking",
+        "Mathematics",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 79.3,
+      "matched_skills": [
+        "Monitoring",
+        "Time Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "35-9011.00",
+      "title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "zone": 2,
+      "pct": 79.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Sales and Marketing",
+        "Coordination",
+        "Service Orientation",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "19-1032.00",
+      "title": "Foresters",
+      "zone": 4,
+      "pct": 79.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Speaking",
+        "Complex Problem Solving",
+        "English Language",
+        "Administration and Management",
+        "Monitoring",
+        "Writing",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "19-5011.00",
+      "title": "Occupational Health and Safety Specialists",
+      "zone": 4,
+      "pct": 78.8,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "English Language",
+        "Education and Training",
+        "Mathematics",
+        "Critical Thinking",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "51-6051.00",
+      "title": "Sewers, Hand",
+      "zone": 2,
+      "pct": 78.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Monitoring",
+        "Speaking",
+        "Complex Problem Solving",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 78.4,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Complex Problem Solving",
+        "Writing",
+        "Computers and Electronics",
+        "Administrative",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "31-9097.00",
+      "title": "Phlebotomists",
+      "zone": 3,
+      "pct": 78.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administrative",
+        "Education and Training",
+        "Speaking",
+        "Critical Thinking",
+        "Computers and Electronics",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "29-2099.05",
+      "title": "Ophthalmic Medical Technologists",
+      "zone": 3,
+      "pct": 77.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Mathematics",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "51-5111.00",
+      "title": "Prepress Technicians and Workers",
+      "zone": 3,
+      "pct": 77.9,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Design",
+        "Mathematics",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "19-4099.03",
+      "title": "Remote Sensing Technicians",
+      "zone": 4,
+      "pct": 77.8,
+      "matched_skills": [
+        "Geography",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Mathematics",
+        "Customer and Personal Service",
+        "Mathematics",
+        "Reading Comprehension",
+        "Speaking",
+        "Monitoring",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 77.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Management of Personnel Resources",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Time Management",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 77.5,
+      "matched_skills": [
+        "Mathematics",
+        "Critical Thinking",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Learning",
+        "Monitoring",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 77.4,
+      "matched_skills": [
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Monitoring",
+        "Speaking",
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Management of Personnel Resources",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "29-2057.00",
+      "title": "Ophthalmic Medical Technicians",
+      "zone": 3,
+      "pct": 77.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Mathematics",
+        "Speaking",
+        "Reading Comprehension",
+        "Writing",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "49-1011.00",
+      "title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "zone": 3,
+      "pct": 77.3,
+      "matched_skills": [
+        "Monitoring",
+        "Administration and Management",
+        "Management of Personnel Resources",
+        "Critical Thinking",
+        "Speaking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Customer and Personal Service",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "47-2044.00",
+      "title": "Tile and Stone Setters",
+      "zone": 2,
+      "pct": 77.1,
+      "matched_skills": [
+        "Mathematics",
+        "Customer and Personal Service",
+        "Design",
+        "Critical Thinking",
+        "Mathematics",
+        "Speaking",
+        "Complex Problem Solving",
+        "Coordination",
+        "Time Management",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "29-2081.00",
+      "title": "Opticians, Dispensing",
+      "zone": 3,
+      "pct": 77.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Speaking",
+        "Mathematics",
+        "Administrative",
+        "Reading Comprehension",
+        "English Language",
+        "Critical Thinking",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "51-9071.06",
+      "title": "Gem and Diamond Workers",
+      "zone": 3,
+      "pct": 77.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Quality Control Analysis",
+        "Speaking",
+        "English Language",
+        "Mathematics",
+        "Critical Thinking",
+        "Monitoring",
+        "Sales and Marketing",
+        "Reading Comprehension",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "47-1011.03",
+      "title": "Solar Energy Installation Managers",
+      "zone": 3,
+      "pct": 76.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Coordination",
+        "Management of Personnel Resources",
+        "Time Management",
+        "Administration and Management",
+        "Reading Comprehension",
+        "Speaking",
+        "Critical Thinking",
+        "Design"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 76.0,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Speaking",
+        "English Language",
+        "Writing",
+        "Administrative",
+        "Complex Problem Solving",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 75.6,
+      "matched_skills": [
+        "Administration and Management",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "45-2011.00",
+      "title": "Agricultural Inspectors",
+      "zone": 2,
+      "pct": 75.1,
+      "matched_skills": [
+        "Quality Control Analysis",
+        "Monitoring",
+        "Reading Comprehension",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Active Learning",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 75.1,
+      "matched_skills": [
+        "English Language",
+        "Administrative",
+        "Writing",
+        "Computers and Electronics",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management",
+        "Critical Thinking",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "29-2034.00",
+      "title": "Radiologic Technologists and Technicians",
+      "zone": 3,
+      "pct": 74.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Reading Comprehension",
+        "Speaking",
+        "Service Orientation",
+        "Administrative",
+        "Education and Training",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 73.0,
+      "matched_skills": [
+        "Monitoring",
+        "Speaking",
+        "Time Management",
+        "English Language",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Education and Training",
+        "Coordination",
+        "Customer and Personal Service",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "21-2021.00",
+      "title": "Directors, Religious Activities and Education",
+      "zone": 4,
+      "pct": 72.5,
+      "matched_skills": [
+        "Speaking",
+        "Education and Training",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Instructing",
+        "Service Orientation",
+        "Learning Strategies"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 72.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Monitoring",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "53-7065.00",
+      "title": "Stockers and Order Fillers",
+      "zone": 2,
+      "pct": 70.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Reading Comprehension",
+        "Monitoring",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "53-6031.00",
+      "title": "Automotive and Watercraft Service Attendants",
+      "zone": 2,
+      "pct": 70.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Mathematics",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "Critical Thinking",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 70.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Coordination",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 69.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Learning Strategies",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "33-9099.02",
+      "title": "Retail Loss Prevention Specialists",
+      "zone": 2,
+      "pct": 68.8,
+      "matched_skills": [
+        "English Language",
+        "Critical Thinking",
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Computers and Electronics",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 68.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Mathematics",
+        "Administrative",
+        "Active Learning",
+        "Monitoring",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 67.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "English Language",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "49-9052.00",
+      "title": "Telecommunications Line Installers and Repairers",
+      "zone": 2,
+      "pct": 63.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Education and Training",
+        "Communications and Media",
+        "Critical Thinking",
+        "Speaking",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "49-3022.00",
+      "title": "Automotive Glass Installers and Repairers",
+      "zone": 2,
+      "pct": 62.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Critical Thinking",
+        "Monitoring",
+        "Service Orientation"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 24,
+      "title": "Student Account Representative",
+      "company": "Covista",
+      "url": "https://jobs.smartrecruiters.com/Covista/744000123483541",
+      "match_score": 55,
+      "embed_sim": 0.470371812582016,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "Samuel's resume shows a foundation that could be built upon for the Student Account Representative position, but there are significant gaps in direct experience and knowledge of relevant financial aid regulations. His customer service experience is valuable, but he lacks financial aid or higher education-specific experience.",
+        "strengths": [
+          "Experience in customer service which demonstrates strong interpersonal and communication skills",
+          "Bilingual in English and Spanish, valuable for a diverse student population",
+          "Some experience in financial transactions and record keeping from previous roles"
+        ],
+        "gaps": [
+          "No demonstrated experience in higher education or with Title IV financial aid regulations",
+          "Lacks direct experience in resolving financial issues specific to students",
+          "Limited experience in a collaborative academic environment that is central to the role"
+        ]
+      },
+      "blended_score": 74
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 20,
+      "title": "Jr. Staff Accountant -  Lakewood, NJ",
+      "company": "futurerecruit",
+      "url": "https://futurerecruit.hire.trakstar.com/jobs/fk0v4ds/",
+      "match_score": 45,
+      "embed_sim": 0.4521450102329254,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 5,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "Samuel Tavárez's resume shows a strong focus on customer service and leadership skills but lacks specific experience and knowledge related to accounting, GAAP, and related banking experience required for the Jr. Staff Accountant position.",
+        "strengths": [
+          "Strong customer service experience",
+          "Fluent in English and Spanish, indicating good communication skills",
+          "Experience in financial transactions and daily record keeping from past roles"
+        ],
+        "gaps": [
+          "No relevant accounting or finance experience specifically related to GAAP or balance sheets",
+          "No indication of studying for CPA or specialized bank finance training",
+          "Lacks experience with specific accounting software like FISERV Prologue Accounting",
+          "No substantial academic experience in accounting courses or relevant internships"
+        ]
+      },
+      "blended_score": 54
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 1,
+      "title": "Registered Client Relationship Analyst",
+      "company": "Morgan Stanley",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/Wayzata-Minnesota-United-States-of-America/Registered-Client-Relationship-Analyst_JR021552-1",
+      "match_score": 60,
+      "embed_sim": 0.4385232925415039,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 5,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "Samuel Tavárez's resume shows some relevant experience and education for the Registered Client Relationship Analyst role, but there are notable gaps in required industry experience, understanding of financial products, and administrative skills which may hinder his immediate fit for the position.",
+        "strengths": [
+          "Experience in customer service which showcases relationship-building and communication skills",
+          "Education in finance, providing a foundational understanding of business and financial principles",
+          "Fluent in both English and Spanish, enabling him to assist a diverse client base effectively"
+        ],
+        "gaps": [
+          "Lacks specific experience in financial services or knowledge of financial products like equities, bonds, and mutual funds",
+          "No evidence of industry certifications (e.g., Series 7, Series 63) which are preferred for the role",
+          "Limited administrative experience such as managing calendars and preparing expense reports which are part of the job description",
+          "No direct experience supporting financial advisors or in a clerical role related to client financial services"
+        ]
+      },
+      "blended_score": 50
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 13,
+      "title": "Treasury Accountant",
+      "company": "Unis (Unis Global Logistics / Unis Inc. — as referenced in postings)",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4195086",
+      "match_score": 55,
+      "embed_sim": 0.4392857253551483,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 55,
+        "summary": "The candidate has a foundational background in finance and customer service, which aligns with some of the responsibilities of a treasury accountant. However, significant gaps exist in specific treasury knowledge and accounting experience required for the position.",
+        "strengths": [
+          "Bachelor of Business Administration in Finance (in progress)",
+          "Experience in customer service with financial transactions",
+          "Basic knowledge of Microsoft Excel and financial management concepts"
+        ],
+        "gaps": [
+          "No direct experience in treasury functions or banking relationships",
+          "Lack of specific accounting or auditing experience",
+          "No evidence of preparing cash flow forecasts or managing petty cash",
+          "Not demonstrated knowledge of compliance requirements and insurance administration",
+          "Limited proficiency in advanced accounting systems"
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 25,
+      "title": "Gabriele Consulting Group - Business Analyst/Project Manager ",
+      "company": "Gabriele Consulting Group (GCG) / Trinity Park Talent",
+      "url": "https://job-boards.greenhouse.io/trinityparktalent/jobs/8446743002",
+      "match_score": 65,
+      "embed_sim": 0.43397337198257446,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Computer & Math",
+      "comparisons": 0,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Samuel has some relevant educational background and limited experience in customer service and teamwork, which may align with the consulting field. However, his practical experience is not directly related to business analysis or project management, highlighting gaps in essential skills required for the Business Analyst/Project Manager role.",
+        "strengths": [
+          "Currently pursuing a Bachelor of Business Administration in Finance which provides a foundational understanding of business principles.",
+          "Experience as a group leader and interpreter, showcasing communication skills and the ability to work collaboratively.",
+          "Basic familiarity with financial analysis and project-related tasks through education and internships."
+        ],
+        "gaps": [
+          "Lacks two years of direct experience in business analysis or project management, which is a minimum requirement for the role.",
+          "No demonstrated skills in advanced Excel or experience with reporting tools like Tableau, both of which are crucial for the position.",
+          "Limited analytical and IT-focused experience, which are necessary for working in a consulting environment."
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 3,
+      "title": "BUSINESS ANALYST - CHI",
+      "company": "Alexander Group",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3507914",
+      "match_score": 65,
+      "embed_sim": 0.4297758936882019,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Computer & Math",
+      "comparisons": 2,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Samuel Tavárez has a foundational background in business and finance, some customer service experience, and relevant educational activities. However, he lacks extensive professional experience directly related to business analysis and advanced skills in data analysis and Excel, which are crucial for this role.",
+        "strengths": [
+          "Currently pursuing a Bachelor of Business Administration in Finance, which aligns with coursework requirements",
+          "Experience in a customer service role demonstrating good interpersonal and teamwork skills",
+          "Leadership role in conducting a business case study, showing ability to analyze business situations and present findings"
+        ],
+        "gaps": [
+          "No direct experience in data analysis or constructing analytical models as required",
+          "Lacks one year of relevant professional experience",
+          "Moderate to advanced Excel skills are mentioned but not demonstrated in detail",
+          "No explicit experience with business trends or client interactions that are necessary for successful consultancy roles"
+        ]
+      },
+      "blended_score": 46
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 6,
+      "title": "Registered Client Service Associate",
+      "company": "Morgan Stanley",
+      "url": "https://ms.wd5.myworkdayjobs.com/job/Ridgeland-Mississippi-United-States-of-America/Registered-Client-Service-Associate_JR035379",
+      "match_score": 70,
+      "embed_sim": 0.4242232143878937,
+      "verdict": "solid",
+      "zone": 3,
+      "family": "Office & Admin",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "Samuel Tavárez has relevant customer service experience and is pursuing a degree in finance, aligning well with the client support aspects of the role at Morgan Stanley. His skills in customer relationship building and bilingual capabilities enhance his candidacy. However, he lacks specific financial services knowledge and formal industry experience which could limit his effectiveness in the role.",
+        "strengths": [
+          "Customer service experience with strong interpersonal skills",
+          "Bilingual capabilities (English and Spanish)",
+          "Relevant coursework in finance and business analysis",
+          "Experience in handling transactions and accurate record-keeping"
+        ],
+        "gaps": [
+          "Lacks formal experience in the financial services industry",
+          "No knowledge or certification of financial products",
+          "Does not meet the 2+ years of industry experience preferred by the job",
+          "No mention of advanced Microsoft Office skills specifically highlighted in JD"
+        ]
+      },
+      "blended_score": 44
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 4,
+      "title": "BUSINESS ANALYST - ATL",
+      "company": "Alexander Group",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3507654",
+      "match_score": 65,
+      "embed_sim": 0.42648404836654663,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Computer & Math",
+      "comparisons": 3,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "Samuel's resume shows relevant education and some experience in customer service that includes analysis and teamwork, but lacks specific experience in business analysis, data analysis, or advanced Excel skills required for the Business Analyst role.",
+        "strengths": [
+          "Currently pursuing a Bachelor of Business Administration in Finance which is relevant to the JD",
+          "Relevant coursework including Introduction to Business suggests foundational knowledge",
+          "Experience as Group Leader and English to Spanish Interpreter demonstrates leadership and team collaboration skills",
+          "Strong customer service experience can translate to business analysis for client interactions"
+        ],
+        "gaps": [
+          "No direct experience in business analysis or similar consultancy roles",
+          "Lacks moderate to advanced Excel skills which are required for the job",
+          "No evidence of conducting data analysis or using analytical models",
+          "Limited understanding of business trends and quantitative problem-solving skills",
+          "Only a summer internship experience, not a full year experience as required"
+        ]
+      },
+      "blended_score": 43
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 2,
+      "title": "BUSINESS ANALYST - NYC",
+      "company": "Alexander Group",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3595590",
+      "match_score": 60,
+      "embed_sim": 0.4267362654209137,
+      "verdict": "stretch",
+      "zone": 4,
+      "family": "Computer & Math",
+      "comparisons": 1,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 60,
+        "summary": "While Samuel has some relevant experience in customer service and a background in business studies, he lacks direct experience in analytical modeling, statistical analysis, and the advanced Excel skills emphasized for the Business Analyst role. His educational background in Finance aligns somewhat, but overall he has gaps in more tailored experience and skills for this position.",
+        "strengths": [
+          "Pursuing a degree in Finance, demonstrating relevant academic background.",
+          "Experience in customer service highlights strong interpersonal skills, which are essential for client interactions.",
+          "Bilingual capabilities in English and Spanish could be of added value in diverse team settings."
+        ],
+        "gaps": [
+          "No demonstrated experience in creating analytical models or conducting formal data analysis.",
+          "Lacks advanced Excel skills required for the role.",
+          "Limited professional experience (only customer service roles) compared to the 1+ years of relevant experience sought by the employer."
+        ]
+      },
+      "blended_score": 41
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 7,
+      "title": "Account Manager",
+      "company": "LSEG (London Stock Exchange Group)",
+      "url": "https://lseg.wd3.myworkdayjobs.com/job/USA-New-York-28-Liberty-Street/Account-Manager_R0118724-1",
+      "match_score": 45,
+      "embed_sim": 0.4337453246116638,
+      "verdict": "weak",
+      "zone": 4,
+      "family": "Business & Finance",
+      "comparisons": 1,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "Samuel Tavárez has relevant educational background and entry-level customer service experience but lacks the required experience in account management, sales, negotiation, and industry-specific knowledge necessary for the Account Manager role at LSEG.",
+        "strengths": [
+          "Bachelor's degree in progress (Finance) aligns with the business administration requirement",
+          "Experience in customer service demonstrates ability to engage with clients",
+          "Bilingual skills (English and Spanish) may enhance communication with diverse clients"
+        ],
+        "gaps": [
+          "No direct experience in account management or sales",
+          "Lacks the required 3+ years of relevant industry experience",
+          "Insufficient evidence of negotiation expertise or consultative selling skills",
+          "No familiarity mentioned with analytical tools like SalesForce or Tableau",
+          "Limited understanding of financial markets as indicated by resume"
+        ]
+      },
+      "blended_score": 39
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

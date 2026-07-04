@@ -114,17 +114,17 @@
   "implicit_skills": [
     {
       "skill": "customer service",
-      "reason": "Experience as barista and point of contact implies customer service skills.",
+      "reason": "Experience as barista and advisor implies customer service skills.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
+      "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "attention to detail",
-      "reason": "Archival work and organizational tasks require attention to detail.",
+      "reason": "Archival work and digital archiving require attention to detail.",
       "confidence": "medium"
     }
   ],
@@ -285,7 +285,7 @@
       "title": "Junior Level Designer",
       "company": "2k",
       "url": "https://job-boards.greenhouse.io/2k/jobs/7767175003",
-      "fit": 95,
+      "fit": 66,
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "design",
@@ -307,7 +307,7 @@
       "title": "Graphic Designer KZ",
       "company": "academyofdigitalindustries",
       "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
-      "fit": 90,
+      "fit": 63,
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "design",
@@ -329,7 +329,7 @@
       "title": "Motion Graphic Designer",
       "company": "docsapp",
       "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0zqpl/",
-      "fit": 60,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "marketing-creative",
       "function": "design",
@@ -397,7 +397,7 @@
       "title": "Junior Level Designer",
       "company": "2k",
       "url": "https://job-boards.greenhouse.io/2k/jobs/7767175003",
-      "fit": 95,
+      "fit": 66,
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "design",
@@ -419,7 +419,7 @@
       "title": "Graphic Designer KZ",
       "company": "academyofdigitalindustries",
       "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
-      "fit": 90,
+      "fit": 63,
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "design",
@@ -443,7 +443,7 @@
       "title": "Motion Graphic Designer",
       "company": "docsapp",
       "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0zqpl/",
-      "fit": 60,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "marketing-creative",
       "function": "design",
@@ -613,11 +613,11 @@
         "archivist",
         "museum educator"
       ],
-      "confidence": 0.65,
+      "confidence": 0.7,
       "evidence_spans": [
         {
           "section": "summary",
-          "text": "Recently graduated from Franklin and Marshall College with a bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work."
+          "text": "I am now exploring careers in museums, libraries, or archival work."
         },
         {
           "section": "experience",
@@ -722,17 +722,17 @@
       "implicit_skills": [
         {
           "skill": "customer service",
-          "reason": "Experience as barista and point of contact implies customer service skills.",
+          "reason": "Experience as barista and advisor implies customer service skills.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
+          "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "attention to detail",
-          "reason": "Archival work and organizational tasks require attention to detail.",
+          "reason": "Archival work and digital archiving require attention to detail.",
           "confidence": "medium"
         }
       ],

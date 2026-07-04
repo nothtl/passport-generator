@@ -1,0 +1,653 @@
+{
+  "name": "Cristal Davidson",
+  "zone": 4,
+  "graduated": true,
+  "graduation_year": 2025,
+  "education_level": "bachelors",
+  "source_files": [
+    "Cristal Davidson - Resume.pdf",
+    "Cristal Davidson - LinkedIn.md"
+  ],
+  "skills": [
+    "Computers and Electronics",
+    "Administrative",
+    "Communications and Media",
+    "Sales and Marketing",
+    "Writing",
+    "Quality Control Analysis",
+    "Coordination",
+    "Customer and Personal Service",
+    "Speaking",
+    "Administration and Management",
+    "Management of Material Resources",
+    "Time Management",
+    "Personnel and Human Resources",
+    "Judgment and Decision Making",
+    "Critical Thinking",
+    "Education and Training",
+    "Active Listening",
+    "Service Orientation",
+    "Food Production",
+    "Operation and Control",
+    "Sociology and Anthropology",
+    "Reading Comprehension",
+    "Active Learning"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Transfered surveys of historical properties in Lancaster County onto the PastPerfect software",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Cataloged physical archival materials to improve organization and cleanliness in the office",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Coordinated with more than ten on-campus clubs and community organizations to execute social events.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "Developed social media content to promote the Trust’s initiatives",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "Completed detailed evaluation sheets, providing structured feedback",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "improve accessibility / improve organization and cleanliness",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Coordinated with more than ten on-campus clubs and community organizations to execute social events.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Served as the primary point of contact for club members and community partners.",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "asking questions and engaging with candidates to assess their fit for the department",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "Organized and executed events that improved senior engagement and club participation",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Coordinated the purchasing and distribution of merchandise for 24 seniors",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Organized and executed events that improved senior engagement and club participation",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Personnel and Human Resources",
+      "evidence": "Participated in the hiring process by asking questions and engaging with candidates to assess their fit for the department",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "assess their fit for the department",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "Researched prominent issues in Newark's education system through the use of Participatory Action Research",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "providing structured feedback on candidates' teaching abilities",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "asking questions and engaging with candidates",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Barista",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Food Production",
+      "evidence": "Barista",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operation and Control",
+      "evidence": "Barista",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sociology and Anthropology",
+      "evidence": "Researched prominent issues in Newark's education system through the use of Participatory Action Research",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Reading Comprehension",
+      "evidence": "Researched prominent issues in Newark's education system",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "Researched prominent issues in Newark's education system through the use of Participatory Action Research",
+      "proficiency": "developing"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "27-2012.03",
+      "title": "Media Programming Directors",
+      "zone": 4,
+      "pct": 77.1,
+      "matched_skills": [
+        "Communications and Media",
+        "Computers and Electronics",
+        "Speaking",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Active Learning",
+        "Active Listening"
+      ]
+    },
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 73.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Active Listening",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "27-3043.00",
+      "title": "Writers and Authors",
+      "zone": 4,
+      "pct": 73.3,
+      "matched_skills": [
+        "Writing",
+        "Sales and Marketing",
+        "Communications and Media",
+        "Reading Comprehension",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Time Management",
+        "Computers and Electronics",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "43-4051.00",
+      "title": "Customer Service Representatives",
+      "zone": 2,
+      "pct": 73.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Service Orientation",
+        "Speaking",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Reading Comprehension",
+        "Administrative",
+        "Computers and Electronics",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "43-6014.00",
+      "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "zone": 2,
+      "pct": 73.3,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Speaking",
+        "Reading Comprehension",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Writing",
+        "Service Orientation",
+        "Time Management",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "27-3041.00",
+      "title": "Editors",
+      "zone": 4,
+      "pct": 73.2,
+      "matched_skills": [
+        "Reading Comprehension",
+        "Communications and Media",
+        "Writing",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Time Management",
+        "Administration and Management",
+        "Administrative",
+        "Quality Control Analysis",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "27-3043.05",
+      "title": "Poets, Lyricists and Creative Writers",
+      "zone": 4,
+      "pct": 73.2,
+      "matched_skills": [
+        "Writing",
+        "Reading Comprehension",
+        "Communications and Media",
+        "Speaking",
+        "Active Learning",
+        "Critical Thinking",
+        "Active Listening",
+        "Computers and Electronics",
+        "Administrative",
+        "Judgment and Decision Making",
+        "Sales and Marketing"
+      ]
+    },
+    {
+      "soc": "43-6011.00",
+      "title": "Executive Secretaries and Executive Administrative Assistants",
+      "zone": 3,
+      "pct": 72.9,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Coordination",
+        "Computers and Electronics",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 72.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Reading Comprehension",
+        "Administrative",
+        "Computers and Electronics",
+        "Active Listening",
+        "Speaking",
+        "Education and Training",
+        "Service Orientation",
+        "Critical Thinking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-9061.00",
+      "title": "Office Clerks, General",
+      "zone": 2,
+      "pct": 72.7,
+      "matched_skills": [
+        "Administrative",
+        "Active Listening",
+        "Reading Comprehension",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "43-6013.00",
+      "title": "Medical Secretaries and Administrative Assistants",
+      "zone": 2,
+      "pct": 72.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Active Listening",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Personnel and Human Resources",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "39-5094.00",
+      "title": "Skincare Specialists",
+      "zone": 3,
+      "pct": 71.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Sales and Marketing",
+        "Service Orientation",
+        "Administration and Management",
+        "Education and Training",
+        "Active Listening",
+        "Administrative",
+        "Critical Thinking",
+        "Reading Comprehension"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 71.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Critical Thinking",
+        "Reading Comprehension",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "11-3012.00",
+      "title": "Administrative Services Managers",
+      "zone": 3,
+      "pct": 71.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Listening",
+        "Reading Comprehension",
+        "Time Management",
+        "Administrative",
+        "Speaking",
+        "Critical Thinking",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 71.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "Reading Comprehension",
+        "Administrative",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    }
+  ],
+  "top_jobs": {
+    "ready": [
+      {
+        "rank": 1,
+        "btrank_rank": 12,
+        "title": "Administrative Assistant- Amistad",
+        "company": "Amity Foundation",
+        "url": "https://jobs.lever.co/amityfdn/6bf9fc30-51fc-495d-883a-0f042a3fce60",
+        "match_score": 70,
+        "verdict": "solid",
+        "zone": 3,
+        "comparisons": 9,
+        "why": {
+          "verdict": "solid",
+          "match_score": 70,
+          "summary": "Cristal C. Davidson's resume presents a good fit for the Administrative Assistant position, highlighting relevant skills and experience, though some areas require further development to fully meet all job expectations.",
+          "strengths": [
+            "Experience in archiving and organization from intern role at the Historic Preservation Trust",
+            "Leadership skills demonstrated through roles in Mi Gente Latina Club",
+            "Strong communication abilities evidenced by participation in a student search committee and social media development"
+          ],
+          "gaps": [
+            "Lacks direct administrative experience such as scheduling, document processing, and receptionist duties",
+            "No evident experience with Microsoft Office Suite or related software mentioned",
+            "Does not explicitly address dealing with confidential materials or logistical management of trainings"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "btrank_rank": 1,
+        "title": "Office Coordinator, Newark",
+        "company": "Braven",
+        "url": "https://apply.workable.com/j/8788CE591B",
+        "match_score": 68,
+        "verdict": "stretch",
+        "zone": 3,
+        "comparisons": 16,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 68,
+          "summary": "Cristal Davidson's resume shows relevant experience in organizational skills and collaboration, but lacks direct office administrative experience needed for the Office Coordinator role.",
+          "strengths": [
+            "Relevant experience as an Archives Intern handling organizational tasks",
+            "Leadership roles in student clubs demonstrating organizational and communication skills",
+            "Experience in coordinating events and engagement, aligning with the role's responsibilities"
+          ],
+          "gaps": [
+            "Lack of 2 years of relevant office management or administrative experience",
+            "No evidence of proficiency with standard office software such as Microsoft Office Suite mentioned in job requirements",
+            "No direct experience managing facility requirements or vendor relations as required for the role"
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "btrank_rank": 2,
+        "title": "Coordinator, Regional Office Development",
+        "company": "AJC American Jewish Committee (AJC)",
+        "url": "https://ajc.hire.trakstar.com/jobs/fk0zu5c/",
+        "match_score": 65,
+        "verdict": "stretch",
+        "zone": 3,
+        "comparisons": 9,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 65,
+          "summary": "Cristal C. Davidson has experience relevant to administrative support, coordination, and communication, but lacks direct experience in advocacy or community-specific roles related to the Jewish community that AJC emphasizes.",
+          "strengths": [
+            "Bachelor's degree in History and American Studies, aligning with educational requirements.",
+            "Experience as an Archives Intern shows ability in organizing and maintaining documentation, relevant to AJC's needs.",
+            "Led social engagement initiatives, demonstrating event coordination and communication skills.",
+            "Strong organizational and project management skills as indicated in multiple roles."
+          ],
+          "gaps": [
+            "No direct experience in advocacy for Jewish communities or related political organizations.",
+            "Limited experience with CRM systems or detailed financial reporting, which are part of the job description.",
+            "Specific skills in Microsoft Office and Google Suite applications are not mentioned, although they are implied in skills."
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "btrank_rank": 4,
+        "title": "Coordinator, Chicago Regional Office",
+        "company": "AJC American Jewish Committee (AJC)",
+        "url": "https://ajc.hire.trakstar.com/jobs/fk0zxx4/",
+        "match_score": 65,
+        "verdict": "stretch",
+        "zone": 3,
+        "comparisons": 10,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 65,
+          "summary": "Cristal C. Davidson's resume demonstrates relevant skills in social engagement, organization, and communication, making her a plausible candidate for the Coordinator position. However, there are gaps in direct experience with administrative tasks and advocacy work that are critical for this role.",
+          "strengths": [
+            "Experience in social media content development relevant to AJC's email marketing communications",
+            "Strong organizational skills demonstrated through roles in club coordination and event planning",
+            "Communication and conflict resolution skills which are important for liaising with stakeholders"
+          ],
+          "gaps": [
+            "No explicit experience with administrative support tasks such as managing invoices, expense reports, or office logistics",
+            "Limited evidence of experience in advocacy or interacting with community leaders and organizations relevant to AJC's mission",
+            "Lacks experience with CRM databases or detailed administrative documentation as required in the job description"
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "btrank_rank": 7,
+        "title": "Operations Associate",
+        "company": "Alt Legal",
+        "url": "https://alt-legal.breezy.hr/p/9e8be090952c-operations-associate",
+        "match_score": 65,
+        "verdict": "stretch",
+        "zone": 3,
+        "comparisons": 8,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 65,
+          "summary": "Cristal's resume shows relevant experience in archival work and social engagement, along with strong organizational and communication skills, but lacks direct operations or administrative support experience and familiarity with necessary technology like Google Docs and Google Sheets.",
+          "strengths": [
+            "Internship experience in archival work which demonstrates organizational skills",
+            "Experience in leadership roles coordinating events and engaging with team members",
+            "Strong communication skills as evidenced by social engagement roles"
+          ],
+          "gaps": [
+            "No specific experience in operations support or contact with customers regarding accounts receivable",
+            "Lack of familiarity with Google Docs and Google Sheets as required by the job",
+            "No demonstrated experience in performing data entry or generating reports",
+            "Absence of direct experience in administrative roles or high-pressure situations like those described in the job"
+          ]
+        }
+      }
+    ],
+    "target": [
+      {
+        "rank": 1,
+        "btrank_rank": 8,
+        "title": "Coordinator",
+        "company": "AJC American Jewish Committee (AJC)",
+        "url": "https://ajc.hire.trakstar.com/jobs/fk0zvqg/",
+        "match_score": 65,
+        "verdict": "stretch",
+        "zone": 3,
+        "comparisons": 10,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 65,
+          "summary": "Cristal Davidson's resume shows relevant experience that aligns with the AJC Coordinator position, particularly in administrative and organizational tasks. However, there are notable gaps in specific requirements such as direct experience in advocacy work, knowledge of AJC's mission, and experience with CRM databases or mass communications.",
+          "strengths": [
+            "Experience in coordinating events and engagements through work with Mi Gente Latina Club",
+            "Internship experience involving administrative and organizational tasks in the Historic Preservation Trust",
+            "Skills in communication, project management, and organizational development"
+          ],
+          "gaps": [
+            "Lacks a year of direct work experience relevant to advocacy or nonprofit coordination",
+            "No evidence of specific experience with CRM databases as required",
+            "Has not demonstrated knowledge or passion specifically for AJC's mission and values",
+            "Limited direct experience in marketing strategy or mass communication material preparation"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "btrank_rank": 13,
+        "title": "Office Coordinator",
+        "company": "St. Mary’s Catholic School (Temple/Taylor) and St. Theresa Catholic School (Austin) in the Diocese of Austin",
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205974",
+        "match_score": 65,
+        "verdict": "stretch",
+        "zone": 3,
+        "comparisons": 10,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 65,
+          "summary": "Cristal has relevant experience in organizational tasks and communication, which aligns with some requirements of the Office Coordinator role. However, there are notable gaps in directly applicable experience related to educational administration and Catholic school knowledge.",
+          "strengths": [
+            "Experience in organizational and archival tasks as an Archives Intern.",
+            "Demonstrated leadership and communication skills as Director of Social Engagement.",
+            "Participated in committees that involved assessment and feedback, showcasing evaluative skills."
+          ],
+          "gaps": [
+            "No experience listed in a school environment or with school administration duties.",
+            "Lack of knowledge or experience related to the Catholic Church and its teachings, which is a requirement for the role.",
+            "Not enough experience with data entry and record maintenance in an educational context."
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "btrank_rank": 15,
+        "title": "Part-Time Resident Service Coordinator",
+        "company": "Avanath",
+        "url": "https://job-boards.greenhouse.io/communitymanager/jobs/5101002007",
+        "match_score": 65,
+        "verdict": "stretch",
+        "zone": 3,
+        "comparisons": 10,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 65,
+          "summary": "Cristal's resume shows experience in event planning and community engagement, which can be relevant to the Resident Service Coordinator position. However, there are gaps in demonstrated experience in direct service coordination roles and knowledge of low-income housing.",
+          "strengths": [
+            "Experience with community engagement and organizing social events as a Director of Social Engagement",
+            "Internship in a historical context, showing skills in organization and information management",
+            "Strong communication and collaboration skills developed through various roles and activities"
+          ],
+          "gaps": [
+            "No direct experience in service coordination or case management roles",
+            "Lack of demonstrated experience in low-income housing or familiarity with housing regulations",
+            "No evidence of bilingual proficiency, which is highly desired for this position",
+            "Limited experience in nonprofit or community-based service settings as required by the job"
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "hull_size": 2252,
+    "ranked": 2252,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

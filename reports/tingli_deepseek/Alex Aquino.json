@@ -325,15 +325,15 @@
       "title": "GENERAL LABORER~S03015~5204",
       "company": "pca",
       "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60776",
-      "fit": 95,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "robotics-manufacturing",
       "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.143,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.083,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.5,
         "attainability": 0.75,
@@ -344,40 +344,18 @@
       "eligibility_reason": "General laborer role is eligible."
     },
     {
-      "title": "Manufacturing General Labor",
-      "company": "pca",
-      "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60893",
-      "fit": 95,
-      "job_type": "bridge",
-      "subdomain": "robotics-manufacturing",
-      "function": "skilled-trade",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "5s, fast-paced, lock-out-tag-out",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.143,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.5,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Manufacturing general labor is eligible."
-    },
-    {
       "title": "General Laborer - Marshalltown. All Shifts",
       "company": "pca",
       "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60931",
-      "fit": 80,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "robotics-manufacturing",
       "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.143,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.083,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.455,
         "attainability": 0.75,
@@ -388,32 +366,32 @@
       "eligibility_reason": "General laborer role is eligible."
     },
     {
-      "title": "Purchasing Intern",
-      "company": "BoschGroup",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
-      "fit": 59,
+      "title": "Manufacturing General Labor",
+      "company": "pca",
+      "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60893",
+      "fit": 62,
       "job_type": "bridge",
-      "subdomain": "engineering",
+      "subdomain": "robotics-manufacturing",
       "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
-        "goal_alignment": 0.222,
-        "study_alignment": 0.286,
-        "subdomain_alignment": 0.533,
-        "experience_alignment": 0.4,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.083,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.125,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Internship, no age restriction."
+      "eligibility_reason": "Manufacturing general labor is eligible."
     },
     {
       "title": "Assistant Safety Coordinator",
       "company": "holderconstruction",
       "url": "https://job-boards.greenhouse.io/holderconstruction/jobs/4182689009",
-      "fit": 50,
+      "fit": 60,
       "job_type": "bridge",
       "subdomain": "engineering",
       "function": "skilled-trade",
@@ -421,7 +399,7 @@
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
-        "study_alignment": 0.143,
+        "study_alignment": 0.083,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.302,
         "attainability": 0.75,
@@ -430,6 +408,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Safety coordinator role, no age restriction."
+    },
+    {
+      "title": "Purchasing Intern",
+      "company": "BoschGroup",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
+      "fit": 57,
+      "job_type": "bridge",
+      "subdomain": "engineering",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "5s, fast-paced, lock-out-tag-out",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.167,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restriction."
     }
   ],
   "ready_now": [
@@ -437,15 +437,15 @@
       "title": "GENERAL LABORER~S03015~5204",
       "company": "pca",
       "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60776",
-      "fit": 95,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "robotics-manufacturing",
       "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.143,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.083,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.5,
         "attainability": 0.75,
@@ -456,42 +456,18 @@
       "eligibility_reason": "General laborer role is eligible."
     },
     {
-      "title": "Manufacturing General Labor",
-      "company": "pca",
-      "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60893",
-      "fit": 95,
-      "job_type": "bridge",
-      "subdomain": "robotics-manufacturing",
-      "function": "skilled-trade",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "5s, fast-paced, lock-out-tag-out",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.143,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.5,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Manufacturing general labor is eligible."
-    }
-  ],
-  "aspirational": [
-    {
       "title": "General Laborer - Marshalltown. All Shifts",
       "company": "pca",
       "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60931",
-      "fit": 80,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "robotics-manufacturing",
       "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.143,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.083,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.455,
         "attainability": 0.75,
@@ -500,34 +476,36 @@
       },
       "eligible": true,
       "eligibility_reason": "General laborer role is eligible."
-    },
+    }
+  ],
+  "aspirational": [
     {
-      "title": "Purchasing Intern",
-      "company": "BoschGroup",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
-      "fit": 59,
+      "title": "Manufacturing General Labor",
+      "company": "pca",
+      "url": "https://jobs.dayforcehcm.com/pca/CANDIDATEPORTAL/jobs/60893",
+      "fit": 62,
       "job_type": "bridge",
-      "subdomain": "engineering",
+      "subdomain": "robotics-manufacturing",
       "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
-        "goal_alignment": 0.222,
-        "study_alignment": 0.286,
-        "subdomain_alignment": 0.533,
-        "experience_alignment": 0.4,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.083,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.125,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Internship, no age restriction."
+      "eligibility_reason": "Manufacturing general labor is eligible."
     },
     {
       "title": "Assistant Safety Coordinator",
       "company": "holderconstruction",
       "url": "https://job-boards.greenhouse.io/holderconstruction/jobs/4182689009",
-      "fit": 50,
+      "fit": 60,
       "job_type": "bridge",
       "subdomain": "engineering",
       "function": "skilled-trade",
@@ -535,7 +513,7 @@
       "gaps": "5s, fast-paced, lock-out-tag-out",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
-        "study_alignment": 0.143,
+        "study_alignment": 0.083,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.302,
         "attainability": 0.75,
@@ -544,6 +522,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Safety coordinator role, no age restriction."
+    },
+    {
+      "title": "Purchasing Intern",
+      "company": "BoschGroup",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
+      "fit": 57,
+      "job_type": "bridge",
+      "subdomain": "engineering",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "5s, fast-paced, lock-out-tag-out",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.167,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restriction."
     }
   ],
   "skill_path": null,
@@ -554,18 +554,21 @@
       "skilled-trade"
     ],
     "goal_roles": [
-      "mechanical engineer",
-      "manufacturing engineer"
+      "Mechanical Engineer",
+      "CAD Designer"
     ],
     "goal_subdomains": [
       "engineering",
       "robotics-manufacturing"
     ],
     "study_domains": [
-      "technology"
+      "technology",
+      "design",
+      "skilled-trade"
     ],
     "study_subdomains": [
-      "engineering"
+      "engineering",
+      "robotics-manufacturing"
     ],
     "study_program": "Bachelor of Science in Mechanical Engineering",
     "study_level": "bachelor",
@@ -615,7 +618,7 @@
     "skilled-trade"
   ],
   "subdomain": "engineering",
-  "subdomain_confidence": 0.85,
+  "subdomain_confidence": 0.7,
   "subdomain_alternatives": [
     "systems",
     "robotics-manufacturing",
@@ -642,20 +645,23 @@
         "skilled-trade"
       ],
       "study_domains": [
-        "technology"
+        "technology",
+        "design",
+        "skilled-trade"
       ],
       "goal_subdomains": [
         "engineering",
         "robotics-manufacturing"
       ],
       "study_subdomains": [
-        "engineering"
+        "engineering",
+        "robotics-manufacturing"
       ],
       "goal_roles": [
-        "mechanical engineer",
-        "manufacturing engineer"
+        "Mechanical Engineer",
+        "CAD Designer"
       ],
-      "confidence": 0.85,
+      "confidence": 0.7,
       "evidence_spans": [
         {
           "section": "education",
@@ -667,8 +673,8 @@
         }
       ],
       "reason_codes": [
-        "explicit_education",
-        "project_experience",
+        "education_major",
+        "engineering_projects",
         "technical_skills"
       ],
       "review_reasons": []

@@ -1,0 +1,30 @@
+{
+  "Customer Service Agent: French (morning shift)|||feverup": {
+    "eligible": true,
+    "reason": "Customer service role, no age restriction."
+  },
+  "Customer Service Agent: French (afternoon shift)|||feverup": {
+    "eligible": true,
+    "reason": "Customer service role, no age restriction."
+  },
+  "Implementation Coordinator|||jfrstaffing": {
+    "eligible": true,
+    "reason": "Implementation coordinator, no age restriction."
+  },
+  "Administrative Assistant|||distro": {
+    "eligible": true,
+    "reason": "Administrative assistant, no age restriction."
+  },
+  "Warehouse Associate|||bdainc": {
+    "eligible": true,
+    "reason": "Warehouse associate, no age restriction."
+  },
+  "Graphic Designer|||MaticRobots": {
+    "eligible": true,
+    "reason": "Graphic designer, no age restriction."
+  },
+  "Graphic Design Intern|||fccincinnati": {
+    "eligible": true,
+    "reason": "Graphic design intern, no age restriction."
+  }
+}

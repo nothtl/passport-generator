@@ -1,0 +1,14 @@
+{
+  "Research & Development Administrative Support": {
+    "eligible": true,
+    "reason": "Administrative support roles are suitable for 16-20 year olds."
+  },
+  "Delivery Coordinator": {
+    "eligible": true,
+    "reason": "Delivery coordination is suitable for 16-20 year olds."
+  },
+  "Process Support Specialist": {
+    "eligible": true,
+    "reason": "Process support specialist roles are suitable for 16-20 year olds."
+  }
+}

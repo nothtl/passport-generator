@@ -1,0 +1,14 @@
+{
+  "Security Officer (Entry Level)": {
+    "eligible": true,
+    "reason": "could not screen"
+  },
+  "Loss Prevention Associate": {
+    "eligible": true,
+    "reason": "could not screen"
+  },
+  "Transportation Security Officer": {
+    "eligible": true,
+    "reason": "could not screen"
+  }
+}

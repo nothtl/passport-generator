@@ -1,0 +1,33 @@
+{
+  "accepted": true,
+  "chosen_function": "finance",
+  "chosen_subdomain": "",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "headline_text",
+      "text": "Aspiring Investment Banking | Finance Major | Sophomore at Baruch College"
+    },
+    {
+      "section": "education",
+      "text": "Bachelor of Business Administration in Finance"
+    }
+  ],
+  "goal_domains": [
+    "finance"
+  ],
+  "goal_roles": [
+    "Investment Banking"
+  ],
+  "goal_subdomains": [],
+  "reason_codes": [
+    "explicit goal",
+    "education match"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "finance"
+  ],
+  "study_subdomains": []
+}

@@ -1,0 +1,683 @@
+{
+  "name": "Abigail Rodriguez",
+  "zone": 4,
+  "graduated": false,
+  "graduation_year": null,
+  "education_level": "bachelors",
+  "source_files": [
+    "Abigail Rodriguez - Resume.pdf",
+    "Abigail Rodriguez - LinkedIn.md"
+  ],
+  "skills": [
+    "Active Learning",
+    "Active Listening",
+    "Administration and Management",
+    "Communications and Media",
+    "Computers and Electronics",
+    "Coordination",
+    "Critical Thinking",
+    "Customer and Personal Service",
+    "Design",
+    "Education and Training",
+    "English Language",
+    "Fine Arts",
+    "Foreign Language",
+    "Instructing",
+    "Judgment and Decision Making",
+    "Learning Strategies",
+    "Management of Personnel Resources",
+    "Monitoring",
+    "Operations Analysis",
+    "Personnel and Human Resources",
+    "Persuasion",
+    "Sales and Marketing",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Speaking",
+    "Writing"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "explore and learn from each work experience and organization to develop myself as a person and a student",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "make calls to different bodegas to get essential information and see their behavior towards a customer",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "part of the program manager",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "I write and create content on issues that affect the community",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "using platforms like Kahoot, Padlet and others",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "help with outreach activities in the community like cleaning up the local parks",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "analysis of data for decision making",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "see their behavior towards a customer",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Graphic Design & Content Creator",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "I train younger students on how to navigate the intricate internship application process",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Bilingual (Spanish and English)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Fine Arts",
+      "evidence": "participate in my church choir",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Bilingual (Spanish and English)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "I train younger students on how to navigate the intricate internship application process",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "analysis of data for decision making",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Learning Strategies",
+      "evidence": "to develop myself as a person and a student",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Personnel Resources",
+      "evidence": "Manages new intern and staff intake and actively mentors and socializes youth participants",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "see which bodegas are on the list and which ones are not",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "see which bodegas are on the list and which ones are not, just add them to the list or rank them",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Personnel and Human Resources",
+      "evidence": "Manages new intern and staff intake and actively mentors and socializes youth participants",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Persuasion",
+      "evidence": "motivate the students of this generation",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "creating and posting flyers about upcoming events for local teens",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "I help students with their remote learning",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "mentor them to be successful in their online classes",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "make calls to different bodegas",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "I write and create content on issues that affect the community",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "11-3131.00",
+      "title": "Training and Development Managers",
+      "zone": 4,
+      "pct": 85.9,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Learning Strategies",
+        "Administration and Management",
+        "Active Listening",
+        "Speaking",
+        "Instructing",
+        "Personnel and Human Resources",
+        "Monitoring",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "25-2032.00",
+      "title": "Career/Technical Education Teachers, Secondary School",
+      "zone": 4,
+      "pct": 85.5,
+      "matched_skills": [
+        "Education and Training",
+        "Instructing",
+        "Active Listening",
+        "Learning Strategies",
+        "Speaking",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing",
+        "Social Perceptiveness",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "27-2021.00",
+      "title": "Athletes and Sports Competitors",
+      "zone": 2,
+      "pct": 85.4,
+      "matched_skills": [
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Administration and Management",
+        "English Language",
+        "Coordination",
+        "Customer and Personal Service",
+        "Personnel and Human Resources",
+        "Communications and Media",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Education and Training"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 84.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 83.6,
+      "matched_skills": [
+        "Speaking",
+        "Instructing",
+        "Education and Training",
+        "Active Listening",
+        "Learning Strategies",
+        "English Language",
+        "Critical Thinking",
+        "Monitoring",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "11-3121.00",
+      "title": "Human Resources Managers",
+      "zone": 4,
+      "pct": 83.5,
+      "matched_skills": [
+        "Personnel and Human Resources",
+        "Active Listening",
+        "English Language",
+        "Speaking",
+        "Management of Personnel Resources",
+        "Administration and Management",
+        "Writing",
+        "Coordination",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 82.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Social Perceptiveness",
+        "Writing",
+        "English Language",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Administration and Management",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "39-9031.00",
+      "title": "Exercise Trainers and Group Fitness Instructors",
+      "zone": 3,
+      "pct": 82.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Instructing",
+        "Education and Training",
+        "Service Orientation",
+        "English Language",
+        "Speaking",
+        "Active Listening",
+        "Learning Strategies",
+        "Social Perceptiveness",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "25-3021.00",
+      "title": "Self-Enrichment Teachers",
+      "zone": 3,
+      "pct": 82.0,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Customer and Personal Service",
+        "Active Listening",
+        "Learning Strategies",
+        "Instructing",
+        "English Language",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "13-1151.00",
+      "title": "Training and Development Specialists",
+      "zone": 4,
+      "pct": 82.0,
+      "matched_skills": [
+        "Education and Training",
+        "Speaking",
+        "Instructing",
+        "Learning Strategies",
+        "Active Listening",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking",
+        "Monitoring",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "25-3011.00",
+      "title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+      "zone": 4,
+      "pct": 81.9,
+      "matched_skills": [
+        "English Language",
+        "Instructing",
+        "Education and Training",
+        "Active Listening",
+        "Learning Strategies",
+        "Speaking",
+        "Monitoring",
+        "Writing",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "25-2031.00",
+      "title": "Secondary School Teachers, Except Special and Career/Technical Education",
+      "zone": 4,
+      "pct": 81.6,
+      "matched_skills": [
+        "Education and Training",
+        "English Language",
+        "Instructing",
+        "Active Listening",
+        "Learning Strategies",
+        "Speaking",
+        "Customer and Personal Service",
+        "Critical Thinking",
+        "Monitoring",
+        "Social Perceptiveness",
+        "Active Learning"
+      ]
+    },
+    {
+      "soc": "11-3111.00",
+      "title": "Compensation and Benefits Managers",
+      "zone": 4,
+      "pct": 81.4,
+      "matched_skills": [
+        "Personnel and Human Resources",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Customer and Personal Service",
+        "Active Learning",
+        "Management of Personnel Resources"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 81.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Education and Training",
+        "Administration and Management",
+        "Speaking",
+        "Active Listening",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "English Language",
+        "Writing"
+      ]
+    },
+    {
+      "soc": "27-2041.00",
+      "title": "Music Directors and Composers",
+      "zone": 4,
+      "pct": 81.1,
+      "matched_skills": [
+        "Fine Arts",
+        "Active Listening",
+        "English Language",
+        "Speaking",
+        "Critical Thinking",
+        "Judgment and Decision Making",
+        "Education and Training",
+        "Computers and Electronics",
+        "Active Learning",
+        "Writing",
+        "Coordination"
+      ]
+    }
+  ],
+  "top_jobs": {
+    "ready": [
+      {
+        "rank": 1,
+        "btrank_rank": 20,
+        "title": "General Application",
+        "company": "Archera",
+        "url": "https://job-boards.greenhouse.io/archera/jobs/4061158008",
+        "match_score": 60,
+        "verdict": "stretch",
+        "zone": 2,
+        "comparisons": 12,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 60,
+          "summary": "While Abigail has relevant experience in mentorship and community outreach, her background does not strongly align with a general application role at Archera, which likely requires a broader set of skills and experiences.",
+          "strengths": [
+            "Experience in mentorship and training through multiple volunteer programs",
+            "Bilingual in Spanish and English, which is a valuable asset in diverse workplaces",
+            "Experience in content creation and storytelling which demonstrates communication skills"
+          ],
+          "gaps": [
+            "Lacks specific experience or skills directly related to Archera's business focus or industry",
+            "No evident experience in roles typically associated with general applications like project management or business analysis",
+            "Limited technical skills mentioned beyond basic software, which may not meet the needs of various future roles"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "btrank_rank": 1,
+        "title": "Join Our Talent Network – Future Opportunities: Design",
+        "company": "Focus Digital",
+        "url": "https://jobs.ashbyhq.com/focus/a6d7bcad-b943-4dcd-9eba-6d082c59556a",
+        "match_score": 50,
+        "verdict": "stretch",
+        "zone": 2,
+        "comparisons": 8,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 50,
+          "summary": "Abigail Rodriguez has relevant experience in graphic design and mentoring roles, but lacks direct experience in UX design and user research, which are key components of the job at Focus Digital.",
+          "strengths": [
+            "Experience in graphic design as a content creator for MetaBronx",
+            "Bilingual in Spanish and English, which can be beneficial in user research roles",
+            "Mentorship and community involvement demonstrating leadership skills"
+          ],
+          "gaps": [
+            "No direct experience in UX design or research methodologies",
+            "Lack of experience with wireframing, prototyping, or interaction design",
+            "No mention of formal education or training in design principles or user-centered design"
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "btrank_rank": 6,
+        "title": "AI Prompt Developer",
+        "company": "DoubleVerify (DV)",
+        "url": "https://job-boards.greenhouse.io/doubleverify/jobs/8539964002",
+        "match_score": 45,
+        "verdict": "weak",
+        "zone": 2,
+        "comparisons": 10,
+        "why": {
+          "verdict": "weak",
+          "match_score": 45,
+          "summary": "Abigail's resume shows a strong focus on community service and mentorship roles, with limited experience directly relevant to the AI Prompt Developer position. She has good communication and content creation skills, but lacks experience with data analytics, technical writing, and the specific software tools mentioned in the job description.",
+          "strengths": [
+            "Strong communication skills demonstrated through writing for various platforms.",
+            "Experience in mentoring and educational outreach which shows the ability to simplify complex topics for diverse audiences.",
+            "Bilingual in Spanish and English which may be beneficial in a global team context."
+          ],
+          "gaps": [
+            "No experience with data analytics or working with large datasets as required for interpreting trends or errors.",
+            "Lacks specific experience in technical writing, policy analysis, or AI/ML concepts, which are preferred qualifications for the job.",
+            "No familiarity with software for data visualization or the use of spreadsheets and BI tools for data analysis."
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "btrank_rank": 21,
+        "title": "Clinical Research Assistant",
+        "company": "Care Access",
+        "url": "https://job-boards.greenhouse.io/careaccess/jobs/4173453009",
+        "match_score": 45,
+        "verdict": "weak",
+        "zone": 2,
+        "comparisons": 8,
+        "why": {
+          "verdict": "weak",
+          "match_score": 45,
+          "summary": "The candidate's resume shows experience in community outreach and educational programs but lacks direct clinical research or medical-related skills, particularly those specified for the role. Additionally, there is no evidence of phlebotomy experience or proficiency, which is a requirement for this position.",
+          "strengths": [
+            "Bilingual in Spanish and English, which is a requirement for the job.",
+            "Experience in mentoring and community outreach, showing ability to communicate and connect with diverse groups."
+          ],
+          "gaps": [
+            "No clinical research experience or understanding of federal regulations and Good Clinical Practices (GCP).",
+            "Lacks specific certifications or training in phlebotomy, which is explicitly required for the role.",
+            "No experience mentioned in handling medical records, conducting phone screenings, or obtaining informed consent."
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "btrank_rank": 25,
+        "title": "University Venture Scout",
+        "company": "C10 Labs",
+        "url": "https://c10labs.pinpointhq.com/en/postings/d2ebd0b0-3b92-495a-a309-ffd6280975f9",
+        "match_score": 40,
+        "verdict": "weak",
+        "zone": 2,
+        "comparisons": 7,
+        "why": {
+          "verdict": "weak",
+          "match_score": 40,
+          "summary": "The candidate's background is primarily focused on education, mentoring, and community outreach, with little to no relevant experience in scouting startups or venture capital, especially in the AI ecosystem as required by the job description.",
+          "strengths": [
+            "Bilingual in Spanish and English, which can aid in community outreach and networking.",
+            "Experience in mentoring and working with youth, showcasing strong interpersonal skills.",
+            "Content creation and writing experience that showcases creativity and communication skills."
+          ],
+          "gaps": [
+            "No experience in venture scouting, startups, or the AI ecosystem specifically mentioned.",
+            "Lacks knowledge or experience in identifying technology trends or relationships with founders.",
+            "No evidence of business acumen or understanding of investment processes."
+          ]
+        }
+      }
+    ],
+    "target": [
+      {
+        "rank": 1,
+        "btrank_rank": 31,
+        "title": "L&D Coordinator I Riverside Golf Club",
+        "company": "AYANA",
+        "url": "https://apply.workable.com/j/10708EA78E",
+        "match_score": 60,
+        "verdict": "stretch",
+        "zone": 4,
+        "comparisons": 1,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 60,
+          "summary": "Abigail's experience in mentorship roles and content creation indicates some relevant transferable skills for a Learning and Development Coordinator position; however, she lacks direct experience in training program development and evaluation, which is fundamental to the role at Riverside Golf Club.",
+          "strengths": [
+            "Experience in mentoring and training students which demonstrates the ability to engage and motivate others",
+            "Strong communication skills evidenced by public speaking and storytelling",
+            "Experience in content creation and program management leadership roles"
+          ],
+          "gaps": [
+            "No direct experience in creating and implementing formal training programs",
+            "Lacks specific experience with Learning Management Systems (LMS) relevant to adult learning in a corporate environment",
+            "No mention of evaluating training effectiveness or using performance metrics",
+            "Requires a Bachelor's degree in a related field, which may not be fully substantiated in the resume"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "btrank_rank": 17,
+        "title": "Business Development Representative",
+        "company": "DailyPay",
+        "url": "https://jobs.ashbyhq.com/dailypay/ce828eae-7766-4073-b87d-4596515da47e",
+        "match_score": 50,
+        "verdict": "stretch",
+        "zone": 4,
+        "comparisons": 5,
+        "why": {
+          "verdict": "stretch",
+          "match_score": 50,
+          "summary": "The candidate demonstrates some relevant experience in community outreach and mentoring but lacks direct sales or business development experience, which is crucial for the Business Development Representative role at DailyPay. Furthermore, they do not have a Bachelor's degree in a related field as specified in the job description, which might be a barrier to qualification.",
+          "strengths": [
+            "Extensive volunteer and mentoring experience, showing a commitment to community and leadership development.",
+            "Bilingual in Spanish and English, which may assist in reaching diverse client bases.",
+            "Experience in public speaking and storytelling, showcasing strong communication skills.",
+            "Familiarity with monitoring and improving processes in previous roles, which may translate well into a business development context."
+          ],
+          "gaps": [
+            "No direct experience in sales or business development, which is a primary requirement for the role.",
+            "Lacks a Bachelor's degree in Business, Marketing, Communications, or a related field.",
+            "No evidence of experience with CRM tools or lead generation projects, which would be advantageous for the position."
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "btrank_rank": 5,
+        "title": "Sales Development Representative",
+        "company": "Edmentum",
+        "url": "https://job-boards.greenhouse.io/edmentum/jobs/6001475004",
+        "match_score": 45,
+        "verdict": "weak",
+        "zone": 4,
+        "comparisons": 9,
+        "why": {
+          "verdict": "weak",
+          "match_score": 45,
+          "summary": "Abigail's experience and skills do not align well with the requirements of the Sales Development Representative role at Edmentum, which focuses on sales and customer engagement within the K-12 education tech space.",
+          "strengths": [
+            "Bilingual in Spanish and English, which could help in diverse customer engagement",
+            "Experience in mentorship and community outreach, showcasing strong communication skills",
+            "Familiarity with technology and digital tools, suggesting adaptability to a tech environment"
+          ],
+          "gaps": [
+            "No experience in consultative or solution-based selling, which is critical for the role",
+            "Lacks specific experience in sales development or customer-facing roles as required",
+            "No experience with Salesforce or comparable CRMs mentioned, which is necessary for tracking customer interactions and leads",
+            "Limited knowledge or experiences related to K-12 educational technology sector",
+            "No demonstrated experience with outbound campaigns or lead qualification, which are key components of the job"
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "hull_size": 1644,
+    "ranked": 1644,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

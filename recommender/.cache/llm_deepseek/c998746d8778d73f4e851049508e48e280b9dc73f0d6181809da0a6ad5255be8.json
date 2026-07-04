@@ -1,0 +1,31 @@
+{
+  "accepted": true,
+  "chosen_function": "finance",
+  "chosen_subdomain": "",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Sophomore at the University at Buffalo, majoring in Business Administration with a Concentration in Finance."
+    },
+    {
+      "section": "summary",
+      "text": "Ideal careers: Finance"
+    }
+  ],
+  "goal_domains": [
+    "finance"
+  ],
+  "goal_roles": [],
+  "goal_subdomains": [],
+  "reason_codes": [
+    "explicit_goal",
+    "education_major"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "finance"
+  ],
+  "study_subdomains": []
+}

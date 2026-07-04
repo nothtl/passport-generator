@@ -1,0 +1,34 @@
+{
+  "Training Specialist I": {
+    "eligible": true,
+    "reason": "Training Specialist I is a professional role that does not have age restrictions for 16-20 year olds."
+  },
+  "Lead Teacher": {
+    "eligible": true,
+    "reason": "Lead Teacher role is suitable for young adults; no legal age restriction."
+  },
+  "Counselor-in-Training (CIT)|||campphoenix": {
+    "eligible": true,
+    "reason": "Counselor-in-Training is designed for youth, typically ages 16-20."
+  },
+  "Graduate Assistant - Men\u2019s Basketball|||university-of-mount-saint-vincent": {
+    "eligible": true,
+    "reason": "Graduate Assistant roles may be open to recent grads; no age restriction."
+  },
+  "Volleyball - Assistant Coach": {
+    "eligible": true,
+    "reason": "Assistant Coach role is suitable for young adults; no legal age restriction."
+  },
+  "Intern - Product Training|||Dashlabsai": {
+    "eligible": true,
+    "reason": "Intern role is appropriate for high schoolers and recent grads."
+  },
+  "Instructional Design and Development Intern|||embryriddle": {
+    "eligible": true,
+    "reason": "Instructional Design Intern is suitable for young adults."
+  },
+  "Early Childhood Sports Instructor Fall Season demand|||super-soccer-stars": {
+    "eligible": true,
+    "reason": "Early Childhood Sports Instructor is suitable for 16-20 year olds."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Virtual Assistant|||remote-va": {
+    "eligible": true,
+    "reason": "Virtual assistant role, no age restrictions."
+  },
+  "Afterschool Science Instructor|||amazing-athletes-2": {
+    "eligible": true,
+    "reason": "Teaching role suitable for young adults."
+  },
+  "Band Teacher|||bullischarterschool": {
+    "eligible": true,
+    "reason": "Band teacher role, no age restrictions."
+  },
+  "Povio|||povio": {
+    "eligible": true,
+    "reason": "Role name unclear, but likely eligible."
+  },
+  "Before and After School Teacher at Moss Park Elementary|||kindercare": {
+    "eligible": true,
+    "reason": "Before/after school teacher, suitable for young adults."
+  },
+  "Virtual Assistant (RVA)|||remote-va": {
+    "eligible": true,
+    "reason": "Virtual assistant role, no age restrictions."
+  },
+  "Part-Time Art Teacher: Mexico, MO": {
+    "eligible": true,
+    "reason": "Art teacher role, no age restrictions."
+  }
+}

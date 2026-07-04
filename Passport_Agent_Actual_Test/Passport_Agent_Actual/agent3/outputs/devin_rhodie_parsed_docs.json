@@ -1,0 +1,74 @@
+{
+  "student_name": "Devin Rhodie",
+  "sources_found": [
+    "resume",
+    "linkedin"
+  ],
+  "resume": {
+    "raw_text": "=== Devin Rhodie - Resume.pdf ===\nDevin Rhodie \n\n516-402-0127  •  dkr1418@rit.edu  •  www.linkedin.com/in/devin-rhodie-858bb5267 \n\nOBJECTIVE \n\nSoftware Engineering student seeking a full-time co-op/internship in software \ndevelopment or systems design for Spring/Summer 2026.   \n\nEDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences \n\nBachelor of  Science, Software Engineering Major  \n·  GPA: 3.0 | Awarded Dean’s List (Spring 2025)| ENGAGE Scholarship (Merit-Based)  \n·  Relevant Coursework: Software Design for computing systems, Web engineering, \nHuman-centered requirements and design, Software process and project management, \nSoftware testing, Intro to software engineering, Engineering of software subsystems, \nCybersecurity, Database systems, Computer systems concepts \n\n           Anticipated  May 2027 \n\nSKILLS \n\nTechnical Skills:  \nProgramming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development \nand Integration, object-oriented design  \nOperating Systems: Windows, Linux(Ubuntu), macOS \n\nPROJECT  Musical Instrument Digital Interface (MIDI) App    \nEXPERIENCE  ·  Created a cross device application handling MIDI protocols for real time music playback.  \n\nJan 2025 - Apr 2025 \n\n·  Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions. \n·  Implemented dual-mode input system supporting both terminal commands and physical \nbuttons \n·  Integrated LED feedback and event-driven state handling for real-time playback control. \nOct 2024 - Nov 2024 \nCOMIX GUI application \n·  Built a GUI-based comic book management app with tools for searching, adding, and editing \ncomics. \n·  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage. \n·  Collaborated in a team to combine different subsystem designs into a functional application. \n\nEXPERIENCE  RIT SCOOP \n\nRemote \nAug 2025- Dec 2025 \n\nSoftware Engineer Intern \n· Contributed to the development and maintenance of SCOOPortal, a web application \nsupporting the RIT SCOOP program for students and faculty. \n· Refactored complex React modal components to improve usability, state handling, and error \nmanagement across multiple user roles. \n· Led UI debranding efforts, updating styles, labels, and more for new platform requirements. \n· Implemented and enhanced confirmation modals to prevent accidental data loss and improve \nuser feedback during form submission workflows. \nUpperLine Code \nSoftware Engineer Intern \n·  Created a web application using HTML and JavaScript to display local recycling centers.  \n·  Collaborated with a partner, focusing on frontend development. \n·  Designed a user-friendly interface and integrated location based search functionality. \n·  Presented the project to a cohort of peers, explaining the development process and features. \n\nRemote  \n July 2023 - Aug 2023 \n\n \n \n \n \n \n \n\f",
+    "sections": {
+      "summary": "Software Engineering student seeking a full-time co-op/internship in software\ndevelopment or systems design for Spring/Summer 2026.",
+      "experience": "RIT SCOOP\n\nSoftware Engineer Intern\n· Contributed to the development and maintenance of SCOOPortal, a web application\nsupporting the RIT SCOOP program for students and faculty.\n· Refactored complex React modal components to improve usability, state handling, and error\nmanagement across multiple user roles.\n· Led UI debranding efforts, updating styles, labels, and more for new platform requirements.\n· Implemented and enhanced confirmation modals to prevent accidental data loss and improve\nuser feedback during form submission workflows.\nUpperLine Code\nSoftware Engineer Intern\n· Created a web application using HTML and JavaScript to display local recycling centers.\n· Collaborated with a partner, focusing on frontend development.\n· Designed a user-friendly interface and integrated location based search functionality.\n· Presented the project to a cohort of peers, explaining the development process and features.",
+      "education": "Rochester Institute of Technology, Golisano College of Computing and Information Sciences \n\nBachelor of  Science, Software Engineering Major  \n·  GPA: 3.0 | Awarded Dean’s List (Spring 2025)| ENGAGE Scholarship (Merit-Based)  \n·  Relevant Coursework: Software Design for computing systems, Web engineering, \nHuman-centered requirements and design, Software process and project management, \nSoftware testing, Intro to software engineering, Engineering of software subsystems, \nCybersecurity, Database systems, Computer systems concepts \n\n           Anticipated  May 2027",
+      "skills": "Technical Skills:  \nProgramming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development \nand Integration, object-oriented design  \nOperating Systems: Windows, Linux(Ubuntu), macOS",
+      "projects": "Musical Instrument Digital Interface (MIDI) App    \n·  Created a cross device application handling MIDI protocols for real time music playback.  \n·  Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions. \n·  Implemented dual-mode input system supporting both terminal commands and physical \nbuttons \n·  Integrated LED feedback and event-driven state handling for real-time playback control. \nCOMIX GUI application \n·  Built a GUI-based comic book management app with tools for searching, adding, and editing \ncomics. \n·  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage. \n·  Collaborated in a team to combine different subsystem designs into a functional application.",
+      "contact": {
+        "email": "dkr1418@rit.edu",
+        "phone": "516-402-0127",
+        "github_url": null,
+        "linkedin_url": "linkedin.com/in/devin-rhodie-858bb5267"
+      }
+    }
+  },
+  "linkedin": {
+    "name": "Devin Rhodie",
+    "pronouns": null,
+    "headline": "Software Engineering Student at Rochester Institute of Technology | Dean's List",
+    "location": "New York, United States",
+    "about": null,
+    "experience": [
+      {
+        "title": "Software Engineer Intern",
+        "company": "RIT SCOOP",
+        "duration": "August 2025 – December 2025",
+        "location": null,
+        "description": "Contributed to development and maintenance of SCOOPortal, a web application supporting RIT SCOOP for students and faculty. Refactored React modal components to improve usability and error management. Led UI debranding efforts and implemented confirmation modals to prevent accidental data loss.",
+        "skills": null
+      },
+      {
+        "title": "Software Engineer Intern",
+        "company": "UpperLine Code",
+        "duration": "July 2023 – August 2023",
+        "location": null,
+        "description": "Created a web application using HTML and JavaScript to display local recycling centers. Collaborated on frontend development, designed a user-friendly interface, and integrated location-based search functionality. Presented the project to a cohort of peers.",
+        "skills": null
+      }
+    ],
+    "education": [
+      {
+        "institution": "Rochester Institute of Technology",
+        "degree": "Golisano College of Computing and Information Sciences",
+        "years": null
+      }
+    ],
+    "certifications": null,
+    "projects": [
+      {
+        "name": "MIDI App",
+        "date_range": "Jan 2025 – Apr 2025",
+        "description": "Created a cross-device application handling MIDI protocols for real-time music playback. Designed C++ software with Play, Pause, Stop, and Next controls. Implemented dual-mode input (terminal + physical buttons) and integrated LED feedback with event-driven state handling.",
+        "github_url": null,
+        "skills": null
+      },
+      {
+        "name": "COMIX GUI Application",
+        "date_range": "Oct 2024 – Nov 2024",
+        "description": "Built a GUI-based comic book management app with search, add, and edit tools. Implemented import/export using CSV/JSON/XML with persistent data storage. Collaborated in a team to integrate multiple subsystem designs.",
+        "github_url": null,
+        "skills": null
+      }
+    ],
+    "skills": null
+  },
+  "github": null
+}

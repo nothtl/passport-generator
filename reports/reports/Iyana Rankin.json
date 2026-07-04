@@ -1,0 +1,428 @@
+{
+  "name": "Iyana Rankin",
+  "zone": 2,
+  "education_level": "high_school",
+  "source_files": [
+    "Iyana Rankin - Resume.pdf"
+  ],
+  "skills": [
+    "Active Learning",
+    "Administration and Management",
+    "Communications and Media",
+    "Complex Problem Solving",
+    "Computers and Electronics",
+    "Coordination",
+    "Customer and Personal Service",
+    "Design",
+    "Fine Arts",
+    "Instructing",
+    "Judgment and Decision Making",
+    "Management of Financial Resources",
+    "Management of Material Resources",
+    "Mathematics",
+    "Monitoring",
+    "Operations Analysis",
+    "Production and Processing",
+    "Quality Control Analysis",
+    "Sales and Marketing",
+    "Service Orientation",
+    "Social Perceptiveness",
+    "Speaking",
+    "Time Management",
+    "Writing"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Active Learning",
+      "evidence": "develop a diverse skill set; enhanced proficiency in social media management and marketing strategies through practical application",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "act as a manager when the manager is not present; Team Lead",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "effective communication; email etiquette; social media management; Strengthened communication abilities; Great communication",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "problem-solving; Problem Solving",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Basic Computer Skills; G suite; Microsoft/Zoom",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "reworking the visual walls and dressing the mannequins as well as re-organizing areas of the store; act as a manager when the manager is not present; Organizing and storing inventory; actively collaborated with working professionals and fellow interns; Highly organized; Time and task management; Team Player",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Ensured a positive and engaging experience for campers by offering support and encouragement",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "reworking the visual walls and dressing the mannequins; maintain attractive and fully stocked displays; album cover design",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Fine Arts",
+      "evidence": "recording and refining sounds; album cover design",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Provided guidance and instruction to campers, explaining project requirements",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "act as a manager when the manager is not present",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Financial Resources",
+      "evidence": "counting the safe as well as making deposits",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Organizing and storing inventory in designated locations; replenishing merchandise on the sales floor; preparing necessary supplies and materials for camp activities; unpacking and sorting incoming deliveries",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "counting the safe as well as making deposits",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Monitoring",
+      "evidence": "counting the safe as well as making deposits as a part of closing procedures; act as a manager when the manager is not present; Monitoring inventory levels and identifying areas requiring restocking",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "Opening and/or closing the store, opening and closing registers; Receiving and inspecting incoming shipments of goods; identifying areas requiring restocking",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "picking and packing items for customer orders; Efficiently unpacking and sorting incoming deliveries; recording and refining sounds",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "inspecting incoming shipments of goods; ensuring accuracy and efficiency; ensuring accurate pricing and labeling of products",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "social media management and marketing strategies",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "assisting them with their creative endeavors; offering support and encouragement; Sensitive to Needs",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Ensured a positive and engaging experience for campers; Sensitive to Needs",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "explaining project requirements; effective communication; presenting end-of-summer projects; Great communication",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Opening and/or closing the store, opening and closing registers; ensuring accuracy and efficiency; Efficiently unpacking and sorting incoming deliveries; Time and task management",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "email etiquette",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "45-4023.00",
+      "title": "Log Graders and Scalers",
+      "zone": 2,
+      "pct": 70.3,
+      "matched_skills": [
+        "Production and Processing",
+        "Mathematics",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Active Learning",
+        "Monitoring",
+        "Writing",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 68.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "Monitoring",
+        "Coordination",
+        "Production and Processing",
+        "Mathematics",
+        "Quality Control Analysis",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "51-9031.00",
+      "title": "Cutters and Trimmers, Hand",
+      "zone": 2,
+      "pct": 66.0,
+      "matched_skills": [
+        "Production and Processing",
+        "Speaking",
+        "Time Management",
+        "Monitoring",
+        "Judgment and Decision Making",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Mathematics",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-2021.00",
+      "title": "Pest Control Workers",
+      "zone": 2,
+      "pct": 65.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "Writing",
+        "Time Management",
+        "Social Perceptiveness",
+        "Complex Problem Solving",
+        "Service Orientation",
+        "Active Learning",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "39-3092.00",
+      "title": "Costume Attendants",
+      "zone": 2,
+      "pct": 64.7,
+      "matched_skills": [
+        "Fine Arts",
+        "Design",
+        "Production and Processing",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "35-2012.00",
+      "title": "Cooks, Institution and Cafeteria",
+      "zone": 2,
+      "pct": 63.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Mathematics",
+        "Administration and Management",
+        "Monitoring",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Quality Control Analysis",
+        "Service Orientation",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "27-1023.00",
+      "title": "Floral Designers",
+      "zone": 2,
+      "pct": 61.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Production and Processing",
+        "Sales and Marketing",
+        "Design",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "47-2022.00",
+      "title": "Stonemasons",
+      "zone": 2,
+      "pct": 60.8,
+      "matched_skills": [
+        "Design",
+        "Mathematics",
+        "Complex Problem Solving",
+        "Judgment and Decision Making",
+        "Time Management",
+        "Coordination",
+        "Customer and Personal Service",
+        "Administration and Management"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 1,
+      "title": "Senior Member Service Representative (Permanent, Full-Time) - Bowser",
+      "company": "FCU Community Financial",
+      "url": "https://jobs.dayforcehcm.com/fcu/CANDIDATEPORTAL/jobs/1274",
+      "match_score": 50,
+      "comparisons": 17,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "While Iyana has experience in customer service settings and team leadership, there are gaps in financial service knowledge and specific product expertise required for the Senior Member Service Representative role.",
+        "strengths": [
+          "Experience as a Team Lead which demonstrates leadership and responsibility in a retail environment.",
+          "Customer-facing roles that develop interpersonal communication skills, important for member relationships.",
+          "Experience with time management, organization, and problem-solving, which are crucial in a fast-paced financial environment."
+        ],
+        "gaps": [
+          "Lack of direct experience in the financial services industry or knowledge of financial products and services as required in the JD.",
+          "No evidence of specific training or education in financial planning, loans, or consumer lending which are essential for the role.",
+          "Lack of demonstrated experience in cross-selling or advising on financial services, a key responsibility of the position."
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 7,
+      "title": "Foodservice Worker Cafeteria, University, 16 Hours, Mixed Shift",
+      "company": "UMass Memorial Health",
+      "url": "https://ummh.wd1.myworkdayjobs.com/job/Worcester-MA-University-Campus/Foodservice-Worker-Cafeteria--University--16-Hours--Mixed-Shift_R26104683-1",
+      "match_score": 50,
+      "comparisons": 18,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "The candidate has some relevant experience in retail and stock management, but lacks specific food service and health-related experience required for the food service worker position.",
+        "strengths": [
+          "Experience in stock management as a Team Lead which exhibits leadership and organizational abilities",
+          "Roles that involve intense interaction with customers which demonstrates good communication skills",
+          "Experience with time management and task execution in a fast-paced environment"
+        ],
+        "gaps": [
+          "No specific experience in food preparation or service",
+          "Lacks knowledge of food safety and sanitation standards which is crucial for food service roles",
+          "No evidence of ability to carry or lift weights as required by the job description",
+          "Does not mention familiarity with basic food service procedures or ability to read and follow standardized instructions"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 39,
+      "title": "Preparation Cook",
+      "company": "Atrium Health",
+      "url": "https://aah.wd5.myworkdayjobs.com/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Preparation-Cook_R245798",
+      "match_score": 50,
+      "comparisons": 24,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 50,
+        "summary": "The candidate has relevant skills in stock and brand management, but lacks direct experience in food services or culinary skills required for the preparation cook position.",
+        "strengths": [
+          "Experience as a team lead showcasing management skills",
+          "Customer service orientation from prior roles",
+          "Basic computer skills and organizational skills"
+        ],
+        "gaps": [
+          "No experience in food preparation or cooking",
+          "Lack of familiarity with kitchen operations",
+          "No evidence of compliance with sanitation standards or food safety knowledge",
+          "Limited experience in a medical or food service environment"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 2,
+      "title": "Cook (Part- Time)",
+      "company": "Monarch Communities",
+      "url": "https://jobs.smartrecruiters.com/MonarchCommunities/744000130269144",
+      "match_score": 45,
+      "comparisons": 20,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "The candidate's resume lacks experience and qualifications directly relevant to the cook position. While they have experience in team leadership and warehouse roles, there is no evidence of food preparation experience, knowledge of sanitation regulations, or any relevant culinary skills necessary for the role.",
+        "strengths": [
+          "Experience in team management as a team lead; oversight and responsibility for store operations",
+          "Strong organizational and time management skills",
+          "Experience in inventory management from warehouse roles"
+        ],
+        "gaps": [
+          "No evidence of food preparation or cooking experience",
+          "Does not mention ServSafe certification or ability to obtain it",
+          "No experience with dietary needs or specific cooking techniques required for senior living residents",
+          "Lacks knowledge of food safety regulations and HACCP compliance"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 4,
+      "title": "Cook",
+      "company": "Insights Training Group LLC",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3998088",
+      "match_score": 45,
+      "comparisons": 24,
+      "why": {
+        "verdict": "weak",
+        "match_score": 45,
+        "summary": "The candidate's resume shows experience in various retail and organizational roles but lacks direct experience in cooking or food service, which is the primary focus of the job description. They also lack relevant certifications such as ServSafe and no evident experience with meal preparation, inventory management in a food context, or working in a kitchen environment.",
+        "strengths": [
+          "Experience in team lead roles and project management which demonstrates leadership and responsibility skills",
+          "Strong communication and organizational abilities which are beneficial in a collaborative kitchen environment",
+          "Retail experience could indicate an understanding of customer service"
+        ],
+        "gaps": [
+          "No experience in a cooking or food preparation role",
+          "No certifications in food safety (e.g., ServSafe)",
+          "No evidence of knowledge or experience in planning and preparing meals",
+          "No experience working in a kitchen or food service environment",
+          "Lacks familiarity with dietary needs and nutrition guidelines specific to food service"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 50,
+    "ranked": 50,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Physical Therapy Technician|||urpt": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  },
+  "Patient Access Representative|||MunsonHealthcare1": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  },
+  "Healthcare Assistant|||TVG-MedullaLLC": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  },
+  "Health Center Assistant - Fairview Heights, IL  4.20.26|||ppgr": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  },
+  "Physical Therapy Technician|||integrityrehabgroup": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  },
+  "Recovery & Vitality Tech": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  },
+  "Patient Experience Coordinator (La Crosse)|||TVG-MedullaLLC": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  },
+  "Optometric Technician|||keplrvision": {
+    "eligible": true,
+    "reason": "No age restriction for this role."
+  }
+}

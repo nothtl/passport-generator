@@ -1,0 +1,456 @@
+{
+  "name": "Alan Li",
+  "zone": 4,
+  "education_level": "bachelors",
+  "source_files": [
+    "Alan Li - Resume.pdf",
+    "Alan Li - LinkedIn.md"
+  ],
+  "skills": [
+    "Administrative",
+    "Administration and Management",
+    "Computers and Electronics",
+    "Management of Material Resources",
+    "Writing",
+    "Operations Analysis",
+    "Coordination",
+    "Social Perceptiveness",
+    "Customer and Personal Service",
+    "Speaking",
+    "Active Listening",
+    "Service Orientation",
+    "Complex Problem Solving",
+    "Judgment and Decision Making",
+    "Instructing",
+    "Education and Training",
+    "Time Management",
+    "Communications and Media",
+    "Design",
+    "Programming",
+    "Critical Thinking",
+    "Sales and Marketing",
+    "Economics and Accounting",
+    "Management of Financial Resources",
+    "Foreign Language",
+    "English Language"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Provides general administrative and clerical support",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "ensure smooth daily operaUons within an office environment",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "entering informaUon into databases, MS Office, Excel, PowerPoint, Word, Spreadsheet, Data Entry",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Keeping track of inventory and replenishing supplies as needed, Online Inventory Management",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "preparing reports",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "Maintained cleanliness across dorm buildings, improving the seaUng structure",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Worked closely with staff members as a team to get tasks done, Working smoothly with my team to run the service efficiently, Trained new hostesses and improved team efficiency",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Talked with students and staff to answer quesUons and provide friendly help, greeted and seated at least 100+ guests with a warm smile, Interpersonal",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "Talked with students and staff to answer quesUons and provide friendly help, greeted and seated at least 100+ guests with a warm smile, Solve guest concerns quickly",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "Talked with students and staff to answer quesUons and provide friendly help, greeted and seated at least 100+ guests with a warm smile, CommunicaUon",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "Talked with students and staff to answer quesUons and provide friendly help, Solve guest concerns quickly",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "provide friendly help, greeted and seated at least 100+ guests with a warm smile, Solve guest concerns quickly",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "helped reduce guest wait Umes by improving the seaUng structure, Solve guest concerns quickly",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "helped reduce guest wait Umes by improving the seaUng structure, Solve guest concerns quickly",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Trained new hostesses",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Trained new hostesses",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "Time managing, helped reduce guest wait Umes by improving the seaUng structure",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Instagram, CommunicaUon",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Canva",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Programming",
+      "evidence": "HTML/CSS, JavaScript",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "CriUcal thinking",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Sales and Marketing",
+      "evidence": "MarkeUng Club, MarkeUng (concentration)",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Investment, Business Administration with a Concentration in Finance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Financial Resources",
+      "evidence": "Investment, Business Administration with a Concentration in Finance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Chinese, and Fuzhounese",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "English",
+      "proficiency": "proficient"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 88.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Active Listening",
+        "English Language",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 87.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Administrative",
+        "Sales and Marketing",
+        "Critical Thinking",
+        "Coordination",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "27-1026.00",
+      "title": "Merchandise Displayers and Window Trimmers",
+      "zone": 3,
+      "pct": 87.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Sales and Marketing",
+        "Active Listening",
+        "English Language",
+        "Critical Thinking",
+        "Speaking",
+        "Administration and Management",
+        "Judgment and Decision Making",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 87.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Time Management",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "13-1121.00",
+      "title": "Meeting, Convention, and Event Planners",
+      "zone": 4,
+      "pct": 87.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management",
+        "Communications and Media",
+        "Complex Problem Solving"
+      ]
+    },
+    {
+      "soc": "43-6011.00",
+      "title": "Executive Secretaries and Executive Administrative Assistants",
+      "zone": 3,
+      "pct": 86.7,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Coordination",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "43-9061.00",
+      "title": "Office Clerks, General",
+      "zone": 2,
+      "pct": 86.6,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Customer and Personal Service",
+        "Writing",
+        "Administration and Management",
+        "Critical Thinking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 86.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Sales and Marketing",
+        "Active Listening",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Education and Training",
+        "Critical Thinking",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 20,
+      "title": "Office Administrator",
+      "company": "Candid Health",
+      "url": "https://jobs.ashbyhq.com/candidhealth/a7159c16-3305-47b9-a8bc-6f3f93f1ebde",
+      "match_score": 85,
+      "comparisons": 14,
+      "why": {
+        "verdict": "solid",
+        "match_score": 85,
+        "summary": "Alan Li has relevant administrative experience and skills that align well with the Office Administrator position, particularly in organization, communication, and support tasks. However, there are some gaps regarding specific office maintenance duties.",
+        "strengths": [
+          "Experience as an Office Assistant providing administrative support, maintaining organization, and managing inventories.",
+          "Strong organizational skills evident in past roles that focus on maintaining cleanliness and efficiency.",
+          "Bilingual communication skills, enhancing interpersonal interactions with diverse teams and clients."
+        ],
+        "gaps": [
+          "No direct experience mentioned in caring for office plants or organizing snacks and supplies explicitly as required in the job.",
+          "Limited experience with vendor and delivery coordination, which is a critical component of the job description.",
+          "Not clear how much experience handling multiple tasks independently is, which is emphasized in the job requirements."
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 29,
+      "title": "Inventory Administrative Assistant",
+      "company": "Ace Hardware",
+      "url": "https://acehardware.wd1.myworkdayjobs.com/job/WI---La-Crosse/Inventory-Administrative-Assistant_REQ-32923-1",
+      "match_score": 78,
+      "comparisons": 11,
+      "why": {
+        "verdict": "solid",
+        "match_score": 78,
+        "summary": "Alan Li's resume shows relevant experience in administrative support and basic inventory management, making him a good fit for the Inventory Administrative Assistant position. However, there are gaps in experience with specific inventory systems and advanced report generation.",
+        "strengths": [
+          "Experience as an Office Assistant providing administrative support in an office environment.",
+          "Skills in organizing files and tracking inventory, which aligns with tasks outlined in the job description.",
+          "Proficiency in Microsoft Office and data entry, important for the administrative functions required for the job."
+        ],
+        "gaps": [
+          "No evidence of experience with specific inventory management systems like SAP or Manhattan as mentioned in the job description.",
+          "Lacks experience in preparing advanced inventory reports and reconciliation processes that are part of the daily responsibilities outlined in the job posting.",
+          "No clear experience in exceptional customer service in a distribution environment, more applicable to the position's requirements."
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 30,
+      "title": "Administrative Assistant/Clerical",
+      "company": "esoconsultants",
+      "url": "https://jobs.crelate.com/portal/esoconsultants/job/ggm1xtk9atujy17upf56a6u14o",
+      "match_score": 78,
+      "comparisons": 18,
+      "why": {
+        "verdict": "solid",
+        "match_score": 78,
+        "summary": "Alan Li's resume demonstrates relevant experience in administrative support and data entry, making him a good fit for the Administrative Assistant position. However, he lacks specific experience in budget management and preparing confidential documents.",
+        "strengths": [
+          "Administrative experience as Office Assistant with responsibilities in data entry and inventory management.",
+          "Familiarity with Microsoft Office as evidenced in technical skills.",
+          "Communication skills demonstrated through customer service experience as Hostess."
+        ],
+        "gaps": [
+          "No explicit experience related to budget activities or financial documentation.",
+          "Lack of evidence in preparing confidential documents and reports.",
+          "No demonstrated experience in scheduling meetings and coordinating administrative functions."
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 18,
+      "title": "Administrative Assistant - Rutland, VT",
+      "company": "People-First Insurance Agency",
+      "url": "https://jobs.crelate.com/portal/martingrantassociate/job/d4pogcueg8j6744zfsxma3dioe",
+      "match_score": 76,
+      "comparisons": 14,
+      "why": {
+        "verdict": "solid",
+        "match_score": 76,
+        "summary": "Alan Li's resume demonstrates relevant experience and skills for the Administrative Assistant position but has some gaps in specific administrative functions and a lack of detailed experience in a fast-paced office environment.",
+        "strengths": [
+          "Experience as an Office Assistant providing administrative support",
+          "Proficient in data entry and online inventory management",
+          "Strong organizational and multitasking skills demonstrated through various roles",
+          "Customer service experience as a hostess, illustrating ability to interact with clients and resolve issues"
+        ],
+        "gaps": [
+          "No direct experience with coordinating conference room scheduling or meeting logistics",
+          "Limited evidence of managing client and policy information or processing payments",
+          "Experience does not explicitly mention maintaining confidentiality or handling financial-related tasks",
+          "Lacks specific examples of preparing client presentations or reports in a professional capacity"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 32,
+      "title": "Executive Assistant Intern (Philippines)",
+      "company": "Planate",
+      "url": "https://planate.hire.trakstar.com/jobs/fk0zpck/",
+      "match_score": 76,
+      "comparisons": 8,
+      "why": {
+        "verdict": "solid",
+        "match_score": 76,
+        "summary": "Alan Li has relevant experience as an Office Assistant, working on administrative tasks that align with the responsibilities of an Executive Assistant Intern. His skills in organization, data entry, and communication are good matches, but he lacks direct experience in calendar management and handling sensitive information, which are critical for the role.",
+        "strengths": [
+          "Administrative support experience as an Office Assistant",
+          "Proficient in Microsoft Office Suite",
+          "Strong organizational skills",
+          "Experience in maintaining databases and electronic files",
+          "Good communication skills"
+        ],
+        "gaps": [
+          "No direct experience in managing executive calendars or scheduling",
+          "Limited experience in email management and drafting responses",
+          "No clear evidence of handling confidential information",
+          "Lack of experience in preparing meeting materials or taking minutes"
+        ]
+      }
+    }
+  ],
+  "meta": {
+    "hull_size": 1451,
+    "ranked": 1451,
+    "explained": 46,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

@@ -1,0 +1,1642 @@
+{
+  "name": "Benjamin Medrano",
+  "zone": 2,
+  "education_level": "high_school",
+  "graduated": false,
+  "graduation_year": 2025,
+  "source_files": [
+    "Benjamin Medrano - Resume.pdf"
+  ],
+  "skills": [
+    "Foreign Language",
+    "Customer and Personal Service",
+    "Troubleshooting",
+    "Computers and Electronics",
+    "Administration and Management",
+    "Time Management",
+    "Coordination",
+    "Social Perceptiveness",
+    "Speaking",
+    "English Language",
+    "Service Orientation",
+    "Instructing",
+    "Administrative",
+    "Management of Material Resources",
+    "Operations Analysis",
+    "Communications and Media"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "BILINGUAL",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "CUSTOMER SERVICE",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Troubleshooting",
+      "evidence": "Troubleshot hardware and software issues",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Troubleshot hardware and software issues",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "strong organizational skills",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "manage multiple tasks",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Coordination",
+      "evidence": "Led group projects, coordinating responsibilities among peers",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Collaborated effectively with classmates",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "delivering clear and effective guidance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Assisted with Spanish–English translations",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Eager to apply communication and service",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "delivering clear and effective guidance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "Supported administrative and organizational tasks",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Organized office inventory",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Operations Analysis",
+      "evidence": "streamlining operations",
+      "proficiency": "emerging"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "facilitate communication",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 64.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administrative",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 58.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 58.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "English Language",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "43-2011.00",
+      "title": "Switchboard Operators, Including Answering Service",
+      "zone": 2,
+      "pct": 58.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Administrative",
+        "Social Perceptiveness",
+        "Computers and Electronics",
+        "Service Orientation",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "35-3041.00",
+      "title": "Food Servers, Nonrestaurant",
+      "zone": 2,
+      "pct": 58.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Administration and Management",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 57.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Time Management",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "11-9179.02",
+      "title": "Spa Managers",
+      "zone": 3,
+      "pct": 57.1,
+      "matched_skills": [
+        "Administrative",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "35-3023.00",
+      "title": "Fast Food and Counter Workers",
+      "zone": 2,
+      "pct": 56.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Computers and Electronics",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "13-1121.00",
+      "title": "Meeting, Convention, and Event Planners",
+      "zone": 4,
+      "pct": 55.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "39-6012.00",
+      "title": "Concierges",
+      "zone": 2,
+      "pct": 55.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Coordination",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "35-2011.00",
+      "title": "Cooks, Fast Food",
+      "zone": 2,
+      "pct": 54.1,
+      "matched_skills": [
+        "Administration and Management",
+        "Communications and Media",
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Speaking",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "39-3093.00",
+      "title": "Locker Room, Coatroom, and Dressing Room Attendants",
+      "zone": 2,
+      "pct": 53.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "39-3091.00",
+      "title": "Amusement and Recreation Attendants",
+      "zone": 2,
+      "pct": 53.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-9041.00",
+      "title": "Telemarketers",
+      "zone": 2,
+      "pct": 52.8,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Communications and Media"
+      ]
+    },
+    {
+      "soc": "31-9097.00",
+      "title": "Phlebotomists",
+      "zone": 3,
+      "pct": 52.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administrative",
+        "Speaking",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "41-2011.00",
+      "title": "Cashiers",
+      "zone": 2,
+      "pct": 52.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "31-9095.00",
+      "title": "Pharmacy Aides",
+      "zone": 2,
+      "pct": 52.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Administrative",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-9171.00",
+      "title": "Funeral Home Managers",
+      "zone": 3,
+      "pct": 52.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Administrative",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "39-7012.00",
+      "title": "Travel Guides",
+      "zone": 2,
+      "pct": 52.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "Coordination",
+        "English Language",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "25-4031.00",
+      "title": "Library Technicians",
+      "zone": 3,
+      "pct": 52.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administrative",
+        "Computers and Electronics",
+        "Speaking",
+        "Service Orientation",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "41-2021.00",
+      "title": "Counter and Rental Clerks",
+      "zone": 2,
+      "pct": 51.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administrative",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "41-1011.00",
+      "title": "First-Line Supervisors of Retail Sales Workers",
+      "zone": 2,
+      "pct": 51.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Coordination",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "29-2034.00",
+      "title": "Radiologic Technologists and Technicians",
+      "zone": 3,
+      "pct": 50.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Social Perceptiveness",
+        "Speaking",
+        "Service Orientation",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "31-2012.00",
+      "title": "Occupational Therapy Aides",
+      "zone": 3,
+      "pct": 50.7,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Speaking",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "11-9179.01",
+      "title": "Fitness and Wellness Coordinators",
+      "zone": 4,
+      "pct": 50.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "11-9081.00",
+      "title": "Lodging Managers",
+      "zone": 4,
+      "pct": 50.5,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Administrative",
+        "Computers and Electronics",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "35-1012.00",
+      "title": "First-Line Supervisors of Food Preparation and Serving Workers",
+      "zone": 2,
+      "pct": 50.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Coordination",
+        "Instructing",
+        "Service Orientation",
+        "Administration and Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "31-9092.00",
+      "title": "Medical Assistants",
+      "zone": 3,
+      "pct": 49.9,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Administrative",
+        "Social Perceptiveness",
+        "Speaking",
+        "Computers and Electronics",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "15-1299.09",
+      "title": "Information Technology Project Managers",
+      "zone": 4,
+      "pct": 48.5,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "27-3092.00",
+      "title": "Court Reporters and Simultaneous Captioners",
+      "zone": 3,
+      "pct": 48.1,
+      "matched_skills": [
+        "English Language",
+        "Administrative",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Communications and Media",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "13-1071.00",
+      "title": "Human Resources Specialists",
+      "zone": 4,
+      "pct": 47.8,
+      "matched_skills": [
+        "Speaking",
+        "Administrative",
+        "Administration and Management",
+        "English Language",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "27-1026.00",
+      "title": "Merchandise Displayers and Window Trimmers",
+      "zone": 3,
+      "pct": 47.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Administration and Management",
+        "Coordination",
+        "Social Perceptiveness",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "37-2011.00",
+      "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "zone": 3,
+      "pct": 47.5,
+      "matched_skills": [
+        "Administration and Management",
+        "Speaking",
+        "English Language",
+        "Coordination",
+        "Time Management",
+        "Customer and Personal Service",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "27-4021.00",
+      "title": "Photographers",
+      "zone": 3,
+      "pct": 47.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Speaking",
+        "Communications and Media",
+        "English Language",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "27-3031.00",
+      "title": "Public Relations Specialists",
+      "zone": 4,
+      "pct": 46.7,
+      "matched_skills": [
+        "Communications and Media",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "53-6021.00",
+      "title": "Parking Attendants",
+      "zone": 2,
+      "pct": 46.1,
+      "matched_skills": [
+        "Speaking",
+        "Customer and Personal Service",
+        "Service Orientation",
+        "English Language",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "49-3022.00",
+      "title": "Automotive Glass Installers and Repairers",
+      "zone": 2,
+      "pct": 45.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Administration and Management",
+        "Administrative",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "53-6061.00",
+      "title": "Passenger Attendants",
+      "zone": 2,
+      "pct": 45.1,
+      "matched_skills": [
+        "Service Orientation",
+        "Speaking",
+        "Social Perceptiveness",
+        "English Language",
+        "Customer and Personal Service",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "29-2061.00",
+      "title": "Licensed Practical and Licensed Vocational Nurses",
+      "zone": 3,
+      "pct": 44.9,
+      "matched_skills": [
+        "Service Orientation",
+        "Coordination",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "21-1094.00",
+      "title": "Community Health Workers",
+      "zone": 4,
+      "pct": 44.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "English Language",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "25-9042.00",
+      "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",
+      "zone": 3,
+      "pct": 44.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Social Perceptiveness",
+        "Speaking",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "37-1011.00",
+      "title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "zone": 2,
+      "pct": 44.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "53-7065.00",
+      "title": "Stockers and Order Fillers",
+      "zone": 2,
+      "pct": 44.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "21-1093.00",
+      "title": "Social and Human Service Assistants",
+      "zone": 4,
+      "pct": 44.4,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Social Perceptiveness",
+        "Service Orientation",
+        "Coordination",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "29-2092.00",
+      "title": "Hearing Aid Specialists",
+      "zone": 3,
+      "pct": 44.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Administrative",
+        "English Language",
+        "Administration and Management",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "33-9091.00",
+      "title": "Crossing Guards and Flaggers",
+      "zone": 2,
+      "pct": 44.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Coordination",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "29-2081.00",
+      "title": "Opticians, Dispensing",
+      "zone": 3,
+      "pct": 44.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "English Language",
+        "Service Orientation",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "21-1015.00",
+      "title": "Rehabilitation Counselors",
+      "zone": 4,
+      "pct": 44.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "English Language",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "51-6052.00",
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "zone": 2,
+      "pct": 43.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Time Management",
+        "Speaking",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "49-3093.00",
+      "title": "Tire Repairers and Changers",
+      "zone": 2,
+      "pct": 43.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Service Orientation",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "13-1032.00",
+      "title": "Insurance Appraisers, Auto Damage",
+      "zone": 3,
+      "pct": 43.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Computers and Electronics",
+        "Time Management",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "33-9032.00",
+      "title": "Security Guards",
+      "zone": 2,
+      "pct": 42.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Administrative",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "23-2011.00",
+      "title": "Paralegals and Legal Assistants",
+      "zone": 3,
+      "pct": 42.1,
+      "matched_skills": [
+        "English Language",
+        "Administrative",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "37-1012.00",
+      "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "zone": 3,
+      "pct": 42.1,
+      "matched_skills": [
+        "Time Management",
+        "Customer and Personal Service",
+        "English Language",
+        "Administration and Management",
+        "Speaking",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "13-2022.00",
+      "title": "Appraisers of Personal and Business Property",
+      "zone": 4,
+      "pct": 42.0,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Administration and Management",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "25-2056.00",
+      "title": "Special Education Teachers, Elementary School",
+      "zone": 4,
+      "pct": 42.0,
+      "matched_skills": [
+        "English Language",
+        "Speaking",
+        "Instructing",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "33-9021.00",
+      "title": "Private Detectives and Investigators",
+      "zone": 3,
+      "pct": 41.8,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking",
+        "Computers and Electronics",
+        "Administrative",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "51-9123.00",
+      "title": "Painting, Coating, and Decorating Workers",
+      "zone": 2,
+      "pct": 41.7,
+      "matched_skills": [
+        "English Language",
+        "Coordination",
+        "Social Perceptiveness",
+        "Customer and Personal Service",
+        "Speaking",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "45-1011.00",
+      "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "zone": 3,
+      "pct": 41.7,
+      "matched_skills": [
+        "Administration and Management",
+        "Coordination",
+        "Speaking",
+        "Customer and Personal Service",
+        "Time Management",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "25-2011.00",
+      "title": "Preschool Teachers, Except Special Education",
+      "zone": 3,
+      "pct": 41.5,
+      "matched_skills": [
+        "Speaking",
+        "Instructing",
+        "English Language",
+        "Coordination",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "49-9031.00",
+      "title": "Home Appliance Repairers",
+      "zone": 2,
+      "pct": 41.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Troubleshooting",
+        "Speaking",
+        "English Language",
+        "Administration and Management",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "53-1042.01",
+      "title": "Recycling Coordinators",
+      "zone": 2,
+      "pct": 40.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Administrative",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "23-2093.00",
+      "title": "Title Examiners, Abstractors, and Searchers",
+      "zone": 2,
+      "pct": 39.9,
+      "matched_skills": [
+        "Speaking",
+        "English Language",
+        "Administrative",
+        "Time Management",
+        "Customer and Personal Service",
+        "Computers and Electronics"
+      ]
+    },
+    {
+      "soc": "47-2082.00",
+      "title": "Tapers",
+      "zone": 2,
+      "pct": 39.7,
+      "matched_skills": [
+        "Speaking",
+        "Time Management",
+        "English Language",
+        "Social Perceptiveness",
+        "Coordination",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "33-9092.00",
+      "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "zone": 2,
+      "pct": 39.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "51-9151.00",
+      "title": "Photographic Process Workers and Processing Machine Operators",
+      "zone": 2,
+      "pct": 38.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Speaking",
+        "Service Orientation",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "19-1031.03",
+      "title": "Park Naturalists",
+      "zone": 4,
+      "pct": 38.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Social Perceptiveness",
+        "Service Orientation"
+      ]
+    },
+    {
+      "soc": "51-6051.00",
+      "title": "Sewers, Hand",
+      "zone": 2,
+      "pct": 38.3,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Time Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "47-2041.00",
+      "title": "Carpet Installers",
+      "zone": 2,
+      "pct": 36.8,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "English Language",
+        "Coordination",
+        "Time Management"
+      ]
+    },
+    {
+      "soc": "21-1091.00",
+      "title": "Health Education Specialists",
+      "zone": 4,
+      "pct": 36.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Administrative",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "17-2072.01",
+      "title": "Radio Frequency Identification Device Specialists",
+      "zone": 4,
+      "pct": 36.2,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Speaking",
+        "Customer and Personal Service",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "15-1212.00",
+      "title": "Information Security Analysts",
+      "zone": 4,
+      "pct": 36.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Administration and Management",
+        "Speaking",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "47-2142.00",
+      "title": "Paperhangers",
+      "zone": 2,
+      "pct": 36.0,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking",
+        "Coordination",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "47-1011.00",
+      "title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+      "zone": 3,
+      "pct": 36.0,
+      "matched_skills": [
+        "Administration and Management",
+        "Coordination",
+        "Speaking",
+        "Customer and Personal Service",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "15-1299.03",
+      "title": "Document Management Specialists",
+      "zone": 4,
+      "pct": 35.4,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Customer and Personal Service",
+        "Administrative"
+      ]
+    },
+    {
+      "soc": "49-9052.00",
+      "title": "Telecommunications Line Installers and Repairers",
+      "zone": 2,
+      "pct": 35.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Computers and Electronics",
+        "Communications and Media",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "15-1299.01",
+      "title": "Web Administrators",
+      "zone": 4,
+      "pct": 34.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "Communications and Media",
+        "English Language",
+        "Customer and Personal Service",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "19-4012.01",
+      "title": "Precision Agriculture Technicians",
+      "zone": 3,
+      "pct": 30.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Computers and Electronics",
+        "Speaking",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "45-4011.00",
+      "title": "Forest and Conservation Workers",
+      "zone": 2,
+      "pct": 30.0,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "19-1032.00",
+      "title": "Foresters",
+      "zone": 4,
+      "pct": 29.2,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "English Language",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "17-2111.00",
+      "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "zone": 4,
+      "pct": 29.1,
+      "matched_skills": [
+        "English Language",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-3023.00",
+      "title": "Electrical and Electronic Engineering Technologists and Technicians",
+      "zone": 3,
+      "pct": 29.1,
+      "matched_skills": [
+        "Computers and Electronics",
+        "English Language",
+        "Troubleshooting",
+        "Customer and Personal Service"
+      ]
+    },
+    {
+      "soc": "19-4071.00",
+      "title": "Forest and Conservation Technicians",
+      "zone": 3,
+      "pct": 29.1,
+      "matched_skills": [
+        "English Language",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "45-2021.00",
+      "title": "Animal Breeders",
+      "zone": 2,
+      "pct": 28.9,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Administrative",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "45-3031.00",
+      "title": "Fishing and Hunting Workers",
+      "zone": 2,
+      "pct": 28.7,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Coordination",
+        "English Language",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "17-3022.00",
+      "title": "Civil Engineering Technologists and Technicians",
+      "zone": 3,
+      "pct": 25.0,
+      "matched_skills": [
+        "Administrative",
+        "Administration and Management",
+        "Computers and Electronics",
+        "Customer and Personal Service"
+      ]
+    }
+  ],
+  "top_jobs": [
+    {
+      "rank": 1,
+      "btrank_rank": 6,
+      "title": "Customer Service Representative Call Center (Bilingual)",
+      "company": "CentroMed",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3711388",
+      "match_score": 65,
+      "embed_sim": 0.5464417338371277,
+      "verdict": "stretch",
+      "zone": 2,
+      "family": "Sales",
+      "comparisons": 6,
+      "why": {
+        "verdict": "stretch",
+        "match_score": 65,
+        "summary": "The candidate has relevant experience in customer service and IT support, as well as bilingual communication skills, which are essential for the role. However, gaps in call center experience and familiarity with healthcare settings may hinder a strong match.",
+        "strengths": [
+          "Bilingual in English and Spanish, essential for communication with diverse patients.",
+          "Experience in providing technical support and customer service in internship roles.",
+          "Strong organizational skills demonstrated through internship responsibilities."
+        ],
+        "gaps": [
+          "No direct experience in a call center environment, which is crucial for the job.",
+          "Lacks 3+ years of customer service experience, particularly in healthcare.",
+          "Limited understanding of healthcare-specific protocols, such as insurance and appointment scheduling."
+        ]
+      },
+      "blended_score": 82
+    },
+    {
+      "rank": 2,
+      "btrank_rank": 8,
+      "title": "Remote Call Center Representative",
+      "company": "unknown",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3744894",
+      "match_score": 75,
+      "embed_sim": 0.4970616400241852,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Sales",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The resume shows a strong foundation in customer service and technical support, along with bilingual communication skills, which align well with the call center representative role. However, the lack of direct call center experience is a notable gap.",
+        "strengths": [
+          "Proven customer service excellence",
+          "Bilingual communication in Spanish and English",
+          "Experience providing technical support",
+          "Strong organizational skills demonstrated in internship roles"
+        ],
+        "gaps": [
+          "No direct experience in a call center environment",
+          "Less than 1 year of documented customer service experience",
+          "Unclear typing speed; may not meet minimum speed requirement"
+        ]
+      },
+      "blended_score": 71
+    },
+    {
+      "rank": 3,
+      "btrank_rank": 9,
+      "title": "Call Center Operator (Bilingual)",
+      "company": "Cornerstone Family Healthcare",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4177011",
+      "match_score": 80,
+      "embed_sim": 0.46838316321372986,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Sales",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "The candidate has relevant experience and skills for a Bilingual Call Center Operator position, particularly in customer service and bilingual communication. However, there are some gaps in specific call center-related skills and experience with practice management systems.",
+        "strengths": [
+          "Bilingual: Fluent in Spanish and English, matching job requirements",
+          "Proven customer service excellence from internship experiences",
+          "Experience in technical support and troubleshooting, which can be valuable in a call center environment",
+          "Strength in organization and team collaboration demonstrated through internship roles"
+        ],
+        "gaps": [
+          "No specific experience mentioned with practice management systems",
+          "Lack of explicit call center experience or familiarity with appointment scheduling processes",
+          "No evidence of handling insurance information or patient registration tasks as required by the job description"
+        ]
+      },
+      "blended_score": 64
+    },
+    {
+      "rank": 4,
+      "btrank_rank": 20,
+      "title": "Patient Services Representative ",
+      "company": "San Ysidro Health",
+      "url": "https://jobs.dayforcehcm.com/syhealth/CANDIDATEPORTAL/jobs/34826",
+      "match_score": 75,
+      "embed_sim": 0.46769070625305176,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The resume presents a good foundation for the Patient Services Representative role with relevant customer service and bilingual skills, but lacks direct experience in a medical setting and specific familiarity with patient access processes.",
+        "strengths": [
+          "Bilingual in Spanish and English, enhancing communication with diverse patient populations.",
+          "Experience in customer service and technical support, indicating strong problem-solving skills.",
+          "Demonstrated teamwork and organizational skills through various internships.",
+          "Reliability and a strong work ethic as indicated by consistent internship roles."
+        ],
+        "gaps": [
+          "Lacks direct experience in a medical or clinical setting, which is preferred for the role.",
+          "No mention of handling patient registrations, insurance verifications, or co-pay collections, which are key job responsibilities.",
+          "Limited experience with specific patient access processes and funding inquiries, which are essential to the position."
+        ]
+      },
+      "blended_score": 61
+    },
+    {
+      "rank": 5,
+      "btrank_rank": 21,
+      "title": "Customer Service Associate - Temporary",
+      "company": "SaludFamilyHealthCenters",
+      "url": "https://jobs.smartrecruiters.com/SaludFamilyHealthCenters/744000131765654",
+      "match_score": 75,
+      "embed_sim": 0.44622039794921875,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 4,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant customer service and bilingual experience that aligns with the job, though lacks specific experience in a medical setting.",
+        "strengths": [
+          "Bilingual in English and Spanish, which is preferred for the position",
+          "Experience in customer service and technical support, providing a skill set that can translate well to a healthcare environment",
+          "Demonstrated ability to troubleshoot and assist with client issues, relevant to patient interactions",
+          "Strong organizational skills evidenced through internship experiences",
+          "Experience in collaborative environments which supports teamwork initiatives outlined in the job description"
+        ],
+        "gaps": [
+          "Lacks specific one year of front desk/customer service experience in a medical setting, which is preferred",
+          "No evidence of familiarity with medical/dental terminology, which is mentioned as preferred",
+          "Limited information about experience handling patient complaints or managing appointment scheduling",
+          "No direct experience with clerical office tasks in a medical context, which could be crucial for the role",
+          "No indication of proficiency in complex policies or procedures that may be necessary for a healthcare role"
+        ]
+      },
+      "blended_score": 54
+    },
+    {
+      "rank": 6,
+      "btrank_rank": 4,
+      "title": "Front Desk Receptionist - Bloomingdale clinic",
+      "company": "NeueHealth",
+      "url": "https://job-boards.greenhouse.io/premiermedical/jobs/5998188004",
+      "match_score": 78,
+      "embed_sim": 0.4374115467071533,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 78,
+        "summary": "The candidate has relevant experience in customer service and administrative support, strong bilingual communication skills, and some technical problem-solving abilities that align with the needs outlined in the job description for a Front Desk Receptionist.",
+        "strengths": [
+          "Bilingual in English and Spanish, fulfilling a key requirement of the job",
+          "Experience providing technical support and customer service, relevant to patient interactions",
+          "Internship experience in a healthcare environment, which is beneficial for understanding patient needs",
+          "Demonstrated strong organizational skills through various internship roles"
+        ],
+        "gaps": [
+          "Lacks a full year of receptionist experience as required",
+          "No explicit mention of experience handling insurance verification or medical record management",
+          "Does not provide evidence of familiarity with Microsoft Office Suite or other relevant computer applications required for the role",
+          "Limited experience in direct patient interaction and check-in/check-out procedures"
+        ]
+      },
+      "blended_score": 52
+    },
+    {
+      "rank": 7,
+      "btrank_rank": 5,
+      "title": "Front Desk Receptionist",
+      "company": "NeueHealth",
+      "url": "https://job-boards.greenhouse.io/premiermedical/jobs/6099094004",
+      "match_score": 75,
+      "embed_sim": 0.4374115467071533,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 2,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant skills and some experience that align well with the front desk receptionist role, but lacks direct receptionist experience and computer application proficiency typically required for the position.",
+        "strengths": [
+          "Bilingual in English and Spanish, meeting the language requirement for the role.",
+          "Experience in customer service and technical support, which indicates strong communication skills and problem-solving ability.",
+          "Excellent organizational skills demonstrated during internships, which is crucial for managing administrative tasks at the front desk."
+        ],
+        "gaps": [
+          "No specific receptionist experience; only internships which may not fully translate to the duties of a front desk receptionist.",
+          "Lack of detailed experience with Microsoft Office Suite or similar computer applications as mentioned in the job description.",
+          "The candidate's experience is primarily in internship roles, which may not demonstrate the 1-year minimum receptionist experience required."
+        ]
+      },
+      "blended_score": 51
+    },
+    {
+      "rank": 8,
+      "btrank_rank": 22,
+      "title": "Call Center - Scheduling Specialist",
+      "company": "Marana Health",
+      "url": "https://jobs.dayforcehcm.com/mhchealth/CANDIDATEPORTAL/jobs/10205",
+      "match_score": 75,
+      "embed_sim": 0.4325580894947052,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 3,
+      "why": {
+        "verdict": "solid",
+        "match_score": 75,
+        "summary": "The candidate has relevant experience and skills that align well with the job requirements for the Scheduling Specialist position, particularly in customer service and bilingual communication. However, they do not have direct call center experience, which is a preferred qualification for the job.",
+        "strengths": [
+          "Bilingual communication skills in English and Spanish.",
+          "Experience in providing customer service and technical support.",
+          "Strong organizational skills demonstrated through internship roles.",
+          "Ability to manage multiple tasks and work in a team environment."
+        ],
+        "gaps": [
+          "Lack of direct call center experience, specifically with multi-line phone systems.",
+          "No specified experience documenting messages in an Electronic Medical Records (EMR) system.",
+          "Does not mention experience with scheduling or appointment confirmation processes."
+        ]
+      },
+      "blended_score": 49
+    },
+    {
+      "rank": 9,
+      "btrank_rank": 3,
+      "title": "Call Center Representative – Physical Therapy Clinic",
+      "company": "Metro Physical & Aquatic Therapy",
+      "url": "https://jobs.smartrecruiters.com/USPhysicalTherapy2/3743990012446906",
+      "match_score": 80,
+      "embed_sim": 0.4205135405063629,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Sales",
+      "comparisons": 1,
+      "why": {
+        "verdict": "solid",
+        "match_score": 80,
+        "summary": "Benjamin's resume indicates relevant experience in customer service and bilingual communication, which align well with the requirements for the Call Center Representative at a physical therapy clinic. However, he lacks direct call center experience and familiarity with medical terminology, which are preferred but not mandatory qualifications for the job.",
+        "strengths": [
+          "Proven customer service excellence",
+          "Bilingual in English and Spanish, enhancing communication with patients",
+          "Experience in a fast-paced internship environment",
+          "Technical support experience that indicates problem-solving skills",
+          "Strong organizational skills demonstrated through internship responsibilities"
+        ],
+        "gaps": [
+          "No direct experience in a call center or healthcare office",
+          "No familiarity with medical terminology or insurance verification",
+          "Experience in scheduling or appointment management not explicitly mentioned"
+        ]
+      },
+      "blended_score": 47
+    },
+    {
+      "rank": 10,
+      "btrank_rank": 12,
+      "title": "Front Desk Receptionist - Little Road Clinic",
+      "company": "NeueHealth (Centrum Health / Premier Medical)",
+      "url": "https://job-boards.greenhouse.io/centrumhealth/jobs/6006261004",
+      "match_score": 70,
+      "embed_sim": 0.4335319399833679,
+      "verdict": "solid",
+      "zone": 2,
+      "family": "Office & Admin",
+      "comparisons": 5,
+      "why": {
+        "verdict": "solid",
+        "match_score": 70,
+        "summary": "The candidate demonstrates relevant customer service and bilingual communication experience, making them a reasonable fit for the Front Desk Receptionist role. However, the resume lacks direct experience in a receptionist capacity and specific administrative tasks required for the job.",
+        "strengths": [
+          "Bilingual in English and Spanish, which matches job requirements.",
+          "Experience in customer service roles, demonstrating strong communication skills.",
+          "Technical support experience shows potential for using computer applications as required for the job."
+        ],
+        "gaps": [
+          "No direct experience listed as a receptionist or in similar administrative roles.",
+          "Lacks specific experience with managing patient records and insurance verification processes.",
+          "Does not mention proficiency in Microsoft Office Suite or related software."
+        ]
+      },
+      "blended_score": 47
+    }
+  ],
+  "meta": {
+    "hull_size": 200,
+    "ranked": 200,
+    "explained": 25,
+    "parquet": "open-jobs.parquet"
+  }
+}

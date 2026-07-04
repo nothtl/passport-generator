@@ -1,0 +1,782 @@
+{
+  "name": "Khristal Aquino Cruz",
+  "zone": 4,
+  "graduated": false,
+  "graduation_year": 2028,
+  "education_level": "bachelors",
+  "source_files": [
+    "Khristal Aquino Cruz - Resume (Data Entry).pdf",
+    "Khristal Aquino Cruz - Resume (Engineering).pdf",
+    "Khristal Aquino Cruz - Resume (General).pdf",
+    "Khristal Aquino Cruz - LinkedIn.md"
+  ],
+  "skills": [
+    "Coordination",
+    "Administrative",
+    "Customer and Personal Service",
+    "Time Management",
+    "Computers and Electronics",
+    "Foreign Language",
+    "English Language",
+    "Speaking",
+    "Complex Problem Solving",
+    "Critical Thinking",
+    "Design",
+    "Engineering and Technology",
+    "Science",
+    "Production and Processing",
+    "Public Safety and Security",
+    "Quality Control Analysis",
+    "Writing",
+    "Programming",
+    "Mathematics",
+    "Management of Financial Resources",
+    "Management of Material Resources",
+    "Instructing",
+    "Social Perceptiveness",
+    "Active Listening",
+    "Negotiation",
+    "Judgment and Decision Making",
+    "Systems Analysis",
+    "Systems Evaluation",
+    "Troubleshooting",
+    "Mechanical",
+    "Administration and Management",
+    "Building and Construction",
+    "Personnel and Human Resources",
+    "Education and Training",
+    "Service Orientation",
+    "Physics",
+    "Psychology",
+    "Economics and Accounting",
+    "Communications and Media",
+    "Installation"
+  ],
+  "detected_skills": [
+    {
+      "onet_skill": "Coordination",
+      "evidence": "project coordination, scheduling, event logistics, team activities, collaborated with multiple university departments",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administrative",
+      "evidence": "record management, accurate documentation, digital records, certification files, organized and updated information, event timelines, schedules, registration records",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Customer and Personal Service",
+      "evidence": "client communication, communicating with clients, assisting students by providing information, support, primary point of contact for students, providing guidance, mentorship",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Time Management",
+      "evidence": "scheduling, multitasking skills, organized schedules, balanced multiple responsibilities, event timelines, meet all deadlines",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Computers and Electronics",
+      "evidence": "Microsoft Office, Google Workspace, digital record systems, SolidWorks, MATLAB, 3D Printing, Arduino, C++, Excel, QuickBooks",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Foreign Language",
+      "evidence": "Bilingual in English and Spanish, Provided bilingual support, Spanish (Native)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "English Language",
+      "evidence": "Bilingual in English and Spanish, English (Fluent)",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Speaking",
+      "evidence": "client communication, communicating with clients, contractors, and team members, communicated effectively with athletes, parents, and staff, point of contact for students",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Complex Problem Solving",
+      "evidence": "problem-solving abilities, resolving student concerns, conflict resolution, troubleshooting and iterative design improvements",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Critical Thinking",
+      "evidence": "evaluating dimensions, fit, and component functionality, iterative design improvements, brainstormed and implemented creative event concepts",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Design",
+      "evidence": "Engineering Design, CAD Design, Designed and modeled engine components, applying engineering design principles, Designed and fabricated a custom award, Designed and programmed an Arduino-based system",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Engineering and Technology",
+      "evidence": "Bachelor of Science in Mechanical Engineering, Engineering Design, Materials Science, Mechanical Component Design, Arduino Automatic Traffic Light System, Mechanical Design",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Science",
+      "evidence": "Materials Science, Statics",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Production and Processing",
+      "evidence": "Shop Skills, Welding Procedures, produced a physical prototype using 3D printing, additive manufacturing techniques, fabricated a custom award, MIG Welding, TIG Welding, Stick Welding, Surface Grinding, Band Saw Operation",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Public Safety and Security",
+      "evidence": "OSHA-30, F-60, SST-10, SCA-211, Flagger, NCCER Core 6, safety planning, Shop Safety Procedures, Site Safety & Compliance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Quality Control Analysis",
+      "evidence": "maintain accurate documentation, accurate digital records, ensure records remained accurate, attention to detail, evaluating dimensions, fit, and component functionality, tested and refined system performance",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Writing",
+      "evidence": "maintain accurate documentation, detailed records, technical drawings, technical documentation, File Organization & Documentation",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Programming",
+      "evidence": "Developed MATLAB code, Applied programming, Designed and programmed an Arduino-based system, C++",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Mathematics",
+      "evidence": "Statics, evaluating dimensions, budgeting",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Financial Resources",
+      "evidence": "Assisted with budgeting, budget tracking systems, Created detailed timelines and budgets",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Management of Material Resources",
+      "evidence": "Managed equipment tracking, manage resources, Managed equipment usage, Inventory Management",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Instructing",
+      "evidence": "Assisted students by providing information, guidance, mentorship, Manage and teach First Year Experience students, offering personalized academic assistance, Managed drills and fitness circuits, offering feedback and guidance",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Social Perceptiveness",
+      "evidence": "Assisted students by providing information, support, conflict resolution, Fostered an inclusive residential community, supporting first-year students, addressing their unique needs, mediate/resolve any dispute, offering feedback and guidance",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Active Listening",
+      "evidence": "communicated effectively with athletes, parents, and staff, Served as a primary point of contact for students, providing guidance, mentorship, conflict resolution",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Negotiation",
+      "evidence": "conflict resolution, mediate/resolve any dispute between students and coworkers",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Judgment and Decision Making",
+      "evidence": "resolving student concerns, mediate/resolve any dispute",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Systems Analysis",
+      "evidence": "Developed timing sequences to simulate real-world traffic signal operation, Design Analysis",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Systems Evaluation",
+      "evidence": "Evaluated dimensions, fit, and component functionality through iterative design improvements, Tested and refined system performance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Troubleshooting",
+      "evidence": "problem resolution, resolving student concerns, troubleshooting and iterative design improvements, Address conflicts and be a point of contact to mediate/resolve any dispute",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Mechanical",
+      "evidence": "Mechanical Engineering, Shop Skills, Welding Procedures, engine components, jack stand, MIG Welding, TIG Welding, Stick Welding",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Administration and Management",
+      "evidence": "project coordination, operational support, Assisted with budgeting, planning, and coordination, Coordinated logistics, scheduling, safety planning, and operational support",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Building and Construction",
+      "evidence": "Construction Training, construction and community development projects, NCCER Core 6",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Personnel and Human Resources",
+      "evidence": "Managed certification tracking and workforce documentation, Leadership",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Education and Training",
+      "evidence": "Construction Training, Manage and teach First Year Experience students, offering feedback and guidance to improve players' performance",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Service Orientation",
+      "evidence": "Supported daily operations by communicating with clients, Assisted students by providing information, support, Fostered an inclusive residential community by supporting first-year students, Provided support during practice sessions",
+      "proficiency": "proficient"
+    },
+    {
+      "onet_skill": "Physics",
+      "evidence": "Statics",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Psychology",
+      "evidence": "Fostered an inclusive residential community by supporting first-year students through academic, social, and personal transitions",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Economics and Accounting",
+      "evidence": "Assisted with budgeting, QuickBooks (Basic)",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Communications and Media",
+      "evidence": "Digital Communication, Communicated effectively with athletes, parents, and staff",
+      "proficiency": "developing"
+    },
+    {
+      "onet_skill": "Installation",
+      "evidence": "Integrated LEDs and circuit components",
+      "proficiency": "emerging"
+    }
+  ],
+  "matched_occupations": [
+    {
+      "soc": "43-4081.00",
+      "title": "Hotel, Motel, and Resort Desk Clerks",
+      "zone": 2,
+      "pct": 94.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Speaking",
+        "Social Perceptiveness",
+        "Public Safety and Security",
+        "Administrative",
+        "Service Orientation",
+        "Active Listening",
+        "Computers and Electronics",
+        "Administration and Management",
+        "Coordination",
+        "Mathematics"
+      ]
+    },
+    {
+      "soc": "51-6052.00",
+      "title": "Tailors, Dressmakers, and Custom Sewers",
+      "zone": 2,
+      "pct": 92.1,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Production and Processing",
+        "Administration and Management",
+        "Economics and Accounting",
+        "Time Management",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking",
+        "Design",
+        "Mathematics",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "49-9098.00",
+      "title": "Helpers--Installation, Maintenance, and Repair Workers",
+      "zone": 2,
+      "pct": 89.7,
+      "matched_skills": [
+        "Mechanical",
+        "Building and Construction",
+        "Customer and Personal Service",
+        "Public Safety and Security",
+        "English Language",
+        "Engineering and Technology",
+        "Mathematics",
+        "Design",
+        "Production and Processing",
+        "Computers and Electronics",
+        "Active Listening",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "51-4192.00",
+      "title": "Layout Workers, Metal and Plastic",
+      "zone": 2,
+      "pct": 89.7,
+      "matched_skills": [
+        "Mathematics",
+        "Design",
+        "Mechanical",
+        "Production and Processing",
+        "Engineering and Technology",
+        "English Language",
+        "Building and Construction",
+        "Administration and Management",
+        "Mathematics",
+        "Computers and Electronics",
+        "Education and Training",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "47-2142.00",
+      "title": "Paperhangers",
+      "zone": 2,
+      "pct": 89.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Building and Construction",
+        "Mathematics",
+        "Mechanical",
+        "Administration and Management",
+        "Public Safety and Security",
+        "Active Listening",
+        "Speaking",
+        "Coordination",
+        "English Language",
+        "Design",
+        "Critical Thinking"
+      ]
+    },
+    {
+      "soc": "47-2152.04",
+      "title": "Solar Thermal Installers and Technicians",
+      "zone": 3,
+      "pct": 88.8,
+      "matched_skills": [
+        "Installation",
+        "Mechanical",
+        "Building and Construction",
+        "Customer and Personal Service",
+        "English Language",
+        "Engineering and Technology",
+        "Education and Training",
+        "Design",
+        "Public Safety and Security",
+        "Computers and Electronics",
+        "Production and Processing",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "47-2231.00",
+      "title": "Solar Photovoltaic Installers",
+      "zone": 2,
+      "pct": 87.8,
+      "matched_skills": [
+        "Building and Construction",
+        "Engineering and Technology",
+        "Mechanical",
+        "Design",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Mathematics",
+        "Public Safety and Security",
+        "Education and Training",
+        "Production and Processing",
+        "Installation",
+        "English Language"
+      ]
+    },
+    {
+      "soc": "47-3013.00",
+      "title": "Helpers--Electricians",
+      "zone": 2,
+      "pct": 87.7,
+      "matched_skills": [
+        "Building and Construction",
+        "Mechanical",
+        "Public Safety and Security",
+        "Design",
+        "Customer and Personal Service",
+        "Administration and Management",
+        "Education and Training",
+        "English Language",
+        "Mathematics",
+        "Engineering and Technology",
+        "Active Listening",
+        "Physics"
+      ]
+    },
+    {
+      "soc": "47-2181.00",
+      "title": "Roofers",
+      "zone": 2,
+      "pct": 87.3,
+      "matched_skills": [
+        "Building and Construction",
+        "Coordination",
+        "Customer and Personal Service",
+        "English Language",
+        "Public Safety and Security",
+        "Education and Training",
+        "Mathematics",
+        "Design",
+        "Active Listening",
+        "Critical Thinking",
+        "Mechanical",
+        "Administration and Management"
+      ]
+    },
+    {
+      "soc": "43-4171.00",
+      "title": "Receptionists and Information Clerks",
+      "zone": 2,
+      "pct": 86.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Speaking",
+        "Administrative",
+        "Active Listening",
+        "English Language",
+        "Service Orientation",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness",
+        "Writing",
+        "Coordination"
+      ]
+    },
+    {
+      "soc": "37-2012.00",
+      "title": "Maids and Housekeeping Cleaners",
+      "zone": 2,
+      "pct": 86.5,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "English Language",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Coordination",
+        "Time Management",
+        "Administration and Management",
+        "Social Perceptiveness",
+        "Active Listening",
+        "Critical Thinking",
+        "Speaking"
+      ]
+    },
+    {
+      "soc": "27-1023.00",
+      "title": "Floral Designers",
+      "zone": 2,
+      "pct": 85.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Active Listening",
+        "Speaking",
+        "Production and Processing",
+        "Design",
+        "English Language",
+        "Service Orientation",
+        "Social Perceptiveness",
+        "Critical Thinking",
+        "Time Management",
+        "Judgment and Decision Making"
+      ]
+    },
+    {
+      "soc": "43-9041.00",
+      "title": "Insurance Claims and Policy Processing Clerks",
+      "zone": 2,
+      "pct": 85.6,
+      "matched_skills": [
+        "Customer and Personal Service",
+        "Administrative",
+        "English Language",
+        "Time Management",
+        "Speaking",
+        "Active Listening",
+        "Critical Thinking",
+        "Writing",
+        "Coordination",
+        "Service Orientation",
+        "Social Perceptiveness"
+      ]
+    },
+    {
+      "soc": "47-2053.00",
+      "title": "Terrazzo Workers and Finishers",
+      "zone": 2,
+      "pct": 85.2,
+      "matched_skills": [
+        "Building and Construction",
+        "Design",
+        "Mathematics",
+        "English Language",
+        "Administration and Management",
+        "Customer and Personal Service",
+        "Mechanical",
+        "Public Safety and Security",
+        "Coordination",
+        "Quality Control Analysis",
+        "Production and Processing"
+      ]
+    },
+    {
+      "soc": "43-6011.00",
+      "title": "Executive Secretaries and Executive Administrative Assistants",
+      "zone": 3,
+      "pct": 84.9,
+      "matched_skills": [
+        "Administrative",
+        "English Language",
+        "Active Listening",
+        "Speaking",
+        "Writing",
+        "Service Orientation",
+        "Customer and Personal Service",
+        "Coordination",
+        "Computers and Electronics",
+        "Critical Thinking",
+        "Social Perceptiveness"
+      ]
+    }
+  ],
+  "top_jobs": {
+    "ready": [
+      {
+        "rank": 1,
+        "btrank_rank": 2,
+        "title": "Manufacturing Engineering Intern",
+        "company": "Base",
+        "url": "https://jobs.ashbyhq.com/base-power/a92c9d93-eac0-4da5-b3f2-edf1eeef146b",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 2,
+        "comparisons": 9,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "Khristal Aquino Cruz's resume showcases relevant engineering coursework, hands-on project experience, and skills that align well with the requirements of the Manufacturing Engineering Intern position at Base. The candidate has demonstrated an understanding of mechanical design through various engineering projects and has experience in project coordination and documentation from internships, which is pertinent to the role. However, there are a few gaps in direct exposure to manufacturing processes and automation that could strengthen the application further.",
+          "strengths": [
+            "Relevant coursework in Mechanical Engineering including design and manufacturing principles, CAD software experience (SolidWorks)",
+            "Hands-on engineering projects demonstrating skills in prototyping, modeling, and iterative design",
+            "Bilingual communication skills that could facilitate diverse team collaboration",
+            "Experience in project coordination and record management, supporting fast-paced environments and multitasking"
+          ],
+          "gaps": [
+            "Limited direct experience in manufacturing processes, automation, or robotics, which is a preference for the role",
+            "No specific mention of participation in factory line layout or workstation design, which is a key responsibility in the job description",
+            "Absence of detailed experience in analyzing manufacturing data to identify bottlenecks, as the job entails process improvement analysis"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "btrank_rank": 4,
+        "title": "x General Submission - Lehigh Mechanical Services Openings",
+        "company": "Elliott-Lewis",
+        "url": "https://elliottlewis.hire.trakstar.com/jobs/fk02ngx/",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 3,
+        "comparisons": 7,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "The candidate demonstrates a solid fit for the Mechanical Services Department roles due to their educational background, relevant experience in mechanical engineering projects, and construction training. Although they lack direct experience in specific mechanical service roles, their transferable skills and knowledge make them a competitive applicant.",
+          "strengths": [
+            "Educational background in Mechanical Engineering with relevant coursework in CAD design and shop skills.",
+            "Experience as an apprentice in project coordination and documentation for construction projects, indicating familiarity with industry practices.",
+            "Bilingual communication skills (English and Spanish) beneficial for client interactions in diverse work environments.",
+            "Hands-on engineering projects involving design and fabrication, showcasing practical skills relevant to mechanical services."
+          ],
+          "gaps": [
+            "Lack of direct experience in HVAC, service technician, or mechanical installation roles which are specifically mentioned in the job description.",
+            "No explicit evidence of experience with physical requirements such as lifting heavy objects or working at heights as described in the job's physical demands."
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "btrank_rank": 6,
+        "title": "Infrastructure & Capital Projects - Administrative Assistant, Data Center, ANS",
+        "company": "Accenture Infrastructure & Capital Projects",
+        "url": "https://jobs.lever.co/InfrastructureandCapitalProjects/8e4d0379-3772-49ff-bd05-efc579bdb869",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 3,
+        "comparisons": 11,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "Khristal Aquino Cruz has relevant educational background and experience that aligns well with the administrative and project coordination needs of the Infrastructure & Capital Projects - Administrative Assistant role. The candidate shows strong organization, communication, and multitasking skills, making her a good fit for the role, although there are some gaps in specific industry experience.",
+          "strengths": [
+            "Strong educational background in Mechanical Engineering, relevant to infrastructure projects.",
+            "Experience in project coordination and administration through multiple roles, including an intern position at Commonpoint and roles at Clarkson University.",
+            "Bilingual communication skills (English and Spanish) facilitate client engagement in diverse communities and enhance service accessibility.",
+            "Proficient in Microsoft Office and Google Workspace, which aligns with the technological proficiency needed for administrative tasks."
+          ],
+          "gaps": [
+            "Limited direct experience in the infrastructure or capital projects sector, which could be important for understanding specific industry nuances.",
+            "No explicit mention of experience with digital innovation tools or AI, which are highlighted in the job description as vital for the role.",
+            "Less focus on experience with large-scale project management, which may be relevant given the complexity implied in the job description."
+          ]
+        }
+      },
+      {
+        "rank": 4,
+        "btrank_rank": 7,
+        "title": "Multi-Family Construction Services Assistant",
+        "company": "CBH Homes",
+        "url": "https://apply.workable.com/j/BC10EF68D2",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 3,
+        "comparisons": 13,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "Khristal's resume displays strong organizational, communication, and project coordination skills, particularly in a construction and administrative context, making it a solid fit for the Multi-Family Construction Services Assistant position. However, there are slight gaps in specific experience with tasks directly mentioned in the job description, such as issuing purchase orders and completing permit applications.",
+          "strengths": [
+            "Strong organizational and coordination skills demonstrated through varied roles at Commonpoint and Clarkson University",
+            "Experience in project documentation and scheduling in a construction context",
+            "Bilingual communication abilities enabling effective interaction with a diverse group of stakeholders",
+            "Experience with administrative and operational support in fast-paced environments"
+          ],
+          "gaps": [
+            "No direct experience mentioned in issuing purchase orders",
+            "Lack of explicit involvement in completing permit applications, which is a key responsibility of the job",
+            "No specific examples of managing relationships with superintendents and trade partners"
+          ]
+        }
+      },
+      {
+        "rank": 5,
+        "btrank_rank": 18,
+        "title": "Administrative Specialist",
+        "company": "Compass Health Network",
+        "url": "https://compasshealthnetwork.pinpointhq.com/en/postings/75702175-3371-4a75-a2ea-c312739223fb",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 3,
+        "comparisons": 11,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "Khristal Aquino Cruz has strong experience in project coordination, administrative support, and bilingual communication, making her a good fit for the Administrative Specialist position. She has relevant skills and experience, particularly in scheduling and organizational support, but lacks specific experience in higher-level administrative functions typically associated with this role.",
+          "strengths": [
+            "Experience in project coordination and documentation from internship at Commonpoint",
+            "Strong organizational skills demonstrated as a Student Life Assistant and Social Event Coordinator",
+            "Bilingual communication skills which enhance client and team communication",
+            "Ability to thrive in fast-paced environments, as evidenced by multiple roles balancing various responsibilities"
+          ],
+          "gaps": [
+            "Lacks specific experience listed in the job description such as high-level administrative functions",
+            "No direct experience mentioned in community engagement activities",
+            "Limited information on previous experience with reporting or detailed tracking beyond events and project coordination"
+          ]
+        }
+      }
+    ],
+    "target": [
+      {
+        "rank": 1,
+        "btrank_rank": 29,
+        "title": "Office Professional",
+        "company": "CBH Homes",
+        "url": "https://apply.workable.com/j/9B5001B31F",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 3,
+        "comparisons": 5,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "Khristal's resume demonstrates relevant experience in project coordination, administrative support, and effective communication, which aligns well with the requirements for the Office Professional position. She possesses strong organizational skills and is proficient in Microsoft Office and Google Drive, making her a good fit for the role.",
+          "strengths": [
+            "Experience in project coordination and administrative support",
+            "Proficient in Microsoft Office Suite and Google Drive",
+            "Bilingual communication skills (English and Spanish)",
+            "Strong organizational and multitasking abilities",
+            "Ability to work independently and as part of a team"
+          ],
+          "gaps": [
+            "No explicit mention of customer service experience",
+            "Limited direct experience in a traditional office environment",
+            "Experience primarily in academic and volunteer settings rather than a full-time professional office setting"
+          ]
+        }
+      },
+      {
+        "rank": 2,
+        "btrank_rank": 30,
+        "title": "Compliance Apprentice",
+        "company": "Rent Prosper",
+        "url": "https://apply.workable.com/j/97D1121B7D",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 2,
+        "comparisons": 10,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "Khristal Aquino Cruz has a solid alignment with the Compliance Apprentice position, showcasing experience in project coordination, documentation, and bilingual communication. Her educational background in Mechanical Engineering and certifications align well with the hands-on nature of the role, although there may be a gap in direct experience related to environmental compliance tests and services.",
+          "strengths": [
+            "Experience in project coordination and documentation for construction projects",
+            "Mechanical aptitude demonstrated through engineering coursework and projects",
+            "Bilingual communication skills, enhancing interactions with diverse clients",
+            "Strong organizational skills and ability to work independently",
+            "Completion of relevant certifications (OSHA-30, F-60) which align with safety requirements in the job"
+          ],
+          "gaps": [
+            "No direct experience mentioned in conducting environmental compliance or leak detection testing",
+            "Limited evidence of hands-on mechanical work outside of classroom projects, which may not fully represent fieldwork experience",
+            "Experience primarily in an educational or support capacity rather than direct operational involvement in compliance roles."
+          ]
+        }
+      },
+      {
+        "rank": 3,
+        "btrank_rank": 31,
+        "title": "Maryland Apprentice Driller",
+        "company": "Dandelion",
+        "url": "https://jobs.ashbyhq.com/dandelion/3a7a2372-6bdd-40d5-a6ff-572552dd96fd",
+        "match_score": 85,
+        "verdict": "solid",
+        "zone": 2,
+        "comparisons": 8,
+        "why": {
+          "verdict": "solid",
+          "match_score": 85,
+          "summary": "Khristal's resume demonstrates a solid fit for the Apprentice Driller position at Dandelion Energy, with a background in project coordination and relevant certifications. Her bilingual skills and experience in construction-related projects are advantages. However, there are some areas where specific drilling or heavy machinery experience is lacking.",
+          "strengths": [
+            "Bilingual communication skills (English/Spanish) beneficial for diverse communication needs on job sites.",
+            "Experience with project coordination and documentation, aligning with the responsibilities of documenting drilling activities and maintaining compliance.",
+            "Certifications in OSHA-30 and other safety training relevant to construction and fieldwork, contributing to safety awareness in drilling operations.",
+            "Mechanical curiosity and background in engineering, showcasing relevant technical skills that can translate to drilling equipment operation."
+          ],
+          "gaps": [
+            "Lack of direct experience in drilling or heavy equipment operation which is a key aspect of the job.",
+            "No mention of previous outdoor or physically demanding work experience that could demonstrate readiness for the physical demands of the role.",
+            "Limited evidence of specific knowledge related to geothermal borehole installation or related drilling techniques."
+          ]
+        }
+      }
+    ]
+  },
+  "meta": {
+    "hull_size": 4538,
+    "ranked": 4538,
+    "explained": 40,
+    "parquet": "open-jobs-subset.parquet"
+  }
+}

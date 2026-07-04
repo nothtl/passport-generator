@@ -1,0 +1,14 @@
+{
+  "Part Time Sales Associate|||TheTileShop1": {
+    "eligible": true,
+    "reason": "Sales associate role, no age restrictions."
+  },
+  "Teller On-Call": {
+    "eligible": true,
+    "reason": "Teller role, typically no age restriction beyond 16."
+  },
+  "Guest Service Specialist|||mcw": {
+    "eligible": true,
+    "reason": "Guest service specialist, likely hotel or retail, no age restriction."
+  }
+}

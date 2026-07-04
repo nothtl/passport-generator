@@ -1,0 +1,10 @@
+{
+  "Test EA Education Required|||linkedin": {
+    "eligible": true,
+    "reason": "Role is an education-related position, no age restrictions."
+  },
+  "Web Development Course Presenter (Project Based)|||ischool": {
+    "eligible": true,
+    "reason": "Role is a web development course presenter, suitable for young adults."
+  }
+}

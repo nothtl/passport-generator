@@ -1,0 +1,38 @@
+{
+  "accepted": true,
+  "chosen_function": "social-service",
+  "chosen_subdomain": "community-support",
+  "confidence": 0.65,
+  "evidence_spans": [
+    {
+      "section": "experience",
+      "text": "Provided Spanish-English interpretation and supported event planning."
+    },
+    {
+      "section": "experience",
+      "text": "Researched organizations for donations and scholarships for low-income students."
+    }
+  ],
+  "goal_domains": [
+    "social-service",
+    "legal"
+  ],
+  "goal_roles": [
+    "community advocate"
+  ],
+  "goal_subdomains": [
+    "community-support",
+    "youth-support"
+  ],
+  "reason_codes": [
+    "explicit goal in headline",
+    "community-focused experience",
+    "bilingual advocacy"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "legal"
+  ],
+  "study_subdomains": []
+}

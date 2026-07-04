@@ -1,0 +1,34 @@
+{
+  "Service Account Coordinator|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Office role, no age restrictions."
+  },
+  "Trainee Leader|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Training role, suitable for youth."
+  },
+  "Call Center Agent|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Call center work, no age restrictions."
+  },
+  "Event Staff|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Event staff, no age restrictions unless serving alcohol."
+  },
+  "Customer Service Specialist|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Customer service, no age restrictions."
+  },
+  "Leadership Development Trainee|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Training program, suitable for youth."
+  },
+  "Entry Level Event Coordinator|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Entry-level coordinator, no age restrictions."
+  },
+  "Customer Support Assistant|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Customer support, no age restrictions."
+  }
+}

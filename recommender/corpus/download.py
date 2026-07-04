@@ -136,6 +136,10 @@ def _download_open_jobs_rows() -> list[dict]:
         "ops", "design", "sales", "hr", "skilled-trade",
         "technology", "food-service", "logistics", "hospitality",
         "administrative", "finance", "manufacturing",
+        # Previously missing — added to fill corpus gaps
+        "social-service", "arts-media", "legal", "science",
+        "protective-service", "agriculture", "personal-care",
+        "building-grounds", "security",
     ]
     target_levels = ["intern", "entry", "junior", ""]
 

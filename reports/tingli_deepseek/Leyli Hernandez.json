@@ -1,0 +1,762 @@
+{
+  "resume": "=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED \nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142 \n\nLEYLI  HERNANDEZ \n\nABOUT ME \n\nMy name is Leyli Hernandez, 17 years old. I’ve grown up and lived in Queens and am very \npassionate about helping my community in any way, anytime. I am constantly assisting in \nany event which has allowed me to be very engaging towards others whenever I get the \nopportunity. I love to stay physically active and always have something to do. I am always \ndown to try new things and expand my horizons. \n\nVOLUNTEERING  HISTORY \n\n● \n\n● \n\nI spend most of the weekends or afterschool hours volunteering with Elmhurst \nCommunity Partnership(ECP) which is a non-profit organization that provides free \nsports clubs, social groups, community assistance, community events and other \nactivities. \nI am also the Co-Chair of the Executive Board of another non-profit company I work \nwith called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and \nColleges to help students work on their leadership skills, career paths, and connects \nthese students with professionals based on their career interests. I am also chair to \nthe Media committee, and work with planning our monthly events to help them run \nsmoother. \n\n \n \n \n \n \n \n \n\fSKILLS \n\nTeam Leadership (Experienced), Community Engagement (Experienced), Problem Solving \n(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public \nSpeaking (Experienced). \n\nEDUCATION \n\nHIGH SCHOOL \n\n40-11 28th St, Astoria, NY 11101  \n\nCurrently a Junior Student-Athlete at Academy of American Studies High \nSchool as I am part of the Varsity Girls Flag Football team  \n\nLANGUAGES \n\nEnglish (Native), Spanish (Highly proficient).",
+  "function": "social-service",
+  "confidence": 61,
+  "skills": [
+    "Coordination",
+    "Communications and Media",
+    "Customer and Personal Service",
+    "Social Perceptiveness",
+    "Time Management",
+    "Active Listening",
+    "Speaking",
+    "Judgment and Decision Making",
+    "Sales and Marketing",
+    "Administrative",
+    "community engagement",
+    "leadership",
+    "management",
+    "media management",
+    "organized",
+    "problem solving",
+    "public speaking",
+    "social media management",
+    "team leadership",
+    "volunteering"
+  ],
+  "verified_skills": [
+    "Coordination",
+    "Communications and Media",
+    "Customer and Personal Service",
+    "Social Perceptiveness",
+    "Time Management",
+    "Active Listening",
+    "Speaking",
+    "Judgment and Decision Making",
+    "Sales and Marketing",
+    "Administrative",
+    "community engagement",
+    "leadership",
+    "management",
+    "media management",
+    "organized",
+    "problem solving",
+    "public speaking",
+    "social media management",
+    "team leadership",
+    "volunteering"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "academy",
+    "afterschool",
+    "as i",
+    "career paths",
+    "community events",
+    "ecp",
+    "engagement",
+    "engaging",
+    "flag football",
+    "football",
+    "groups",
+    "high school",
+    "history",
+    "hours",
+    "junior",
+    "languages",
+    "leadership skills",
+    "learner",
+    "media",
+    "name",
+    "native spanish",
+    "non profit",
+    "non profit organization",
+    "organization",
+    "part",
+    "passionate",
+    "physically active",
+    "professionals",
+    "quick learner",
+    "schools",
+    "social",
+    "social media",
+    "spanish",
+    "speaking",
+    "sports",
+    "student athlete",
+    "u s citizen",
+    "weekends"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "Coordination",
+    "Communications and Media",
+    "Customer and Personal Service",
+    "Social Perceptiveness",
+    "Time Management",
+    "Active Listening",
+    "Speaking",
+    "Judgment and Decision Making",
+    "Sales and Marketing",
+    "Administrative",
+    "community engagement",
+    "leadership",
+    "management",
+    "media management",
+    "organized",
+    "problem solving",
+    "public speaking",
+    "social media management",
+    "team leadership",
+    "volunteering"
+  ],
+  "inferred": [
+    "Bilingual (Spanish)",
+    "Event Planning",
+    "Athletic Coaching"
+  ],
+  "implicit_skills": [
+    {
+      "skill": "Bilingual (Spanish)",
+      "reason": "Native Spanish mentioned in education context",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Event Planning",
+      "reason": "Community engagement and volunteering imply event coordination",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Athletic Coaching",
+      "reason": "Flag football and sports involvement suggest coaching ability",
+      "confidence": "medium"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "child-development",
+    "class-management",
+    "classroom-management",
+    "communication",
+    "curriculum-delivery",
+    "parent-communication",
+    "safety-and-supervision",
+    "sports-instruction",
+    "travel-to-sites"
+  ],
+  "core_gaps": [
+    "child-development",
+    "class-management",
+    "classroom-management",
+    "communication",
+    "curriculum-delivery",
+    "parent-communication",
+    "safety-and-supervision",
+    "sports-instruction",
+    "travel-to-sites"
+  ],
+  "bridge_gaps": [],
+  "stretch_gaps": [
+    "activity-planning",
+    "class-delivery",
+    "coaching",
+    "communications",
+    "curriculum-following",
+    "customer-service",
+    "first-aid",
+    "motivation",
+    "multi-sport",
+    "positive-reinforcement"
+  ],
+  "nice_to_have_gaps": [
+    "activity-planning",
+    "class-delivery",
+    "coaching",
+    "communications",
+    "curriculum-following",
+    "customer-service",
+    "first-aid",
+    "motivation",
+    "multi-sport",
+    "positive-reinforcement"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "privatelessons",
+      "pmi": 3.37
+    },
+    {
+      "skill": "budgeting",
+      "pmi": 3.33
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "planning",
+      "pmi": 3.02
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "mentorship",
+      "pmi": 2.92
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "privatelessons",
+      "pmi": 3.37
+    },
+    {
+      "skill": "budgeting",
+      "pmi": 3.33
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "planning",
+      "pmi": 3.02
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "mentorship",
+      "pmi": 2.92
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 20
+    },
+    {
+      "function": "social-service",
+      "pct": 10
+    },
+    {
+      "function": "legal",
+      "pct": 6
+    },
+    {
+      "function": "sales",
+      "pct": 4
+    },
+    {
+      "function": "finance",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "For a social-service path, focus first on child-development, class-management, classroom-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Amazing Athletes Youth Sports Coach",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/F7F8A9F710",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, suitable for minors.",
+      "bridge": "As an Amazing Athletes coach, you'll sharpen your social perceptiveness and active listening while communicating with parents and adapting to different sites—skills directly transferable to social work and youth advocacy, where understanding diverse needs and building trust is key."
+    },
+    {
+      "title": "Amazing Athletes Youth Sports Coach",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/9FDBB3BB2E",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, suitable for minors.",
+      "bridge": "As a youth sports coach, you're already building transferable skills in communication, social perceptiveness, and judgment—key for social work. Each day you manage groups, adapt to diverse needs, and advocate for kids, directly preparing you to support communities as a youth advocate or community organizer."
+    },
+    {
+      "title": " LA Galaxy, Youth Programs Coach - Part-Time",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
+      "fit": 79,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth coaching role, no age restrictions."
+    },
+    {
+      "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
+      "fit": 79,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth coaching role, no age restrictions."
+    },
+    {
+      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/E1F5847A24",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.111,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, part-time, no age restrictions."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Amazing Athletes Youth Sports Coach",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/F7F8A9F710",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, suitable for minors.",
+      "bridge": "As an Amazing Athletes coach, you'll sharpen your social perceptiveness and active listening while communicating with parents and adapting to different sites—skills directly transferable to social work and youth advocacy, where understanding diverse needs and building trust is key."
+    },
+    {
+      "title": "Amazing Athletes Youth Sports Coach",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/9FDBB3BB2E",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, suitable for minors.",
+      "bridge": "As a youth sports coach, you're already building transferable skills in communication, social perceptiveness, and judgment—key for social work. Each day you manage groups, adapt to diverse needs, and advocate for kids, directly preparing you to support communities as a youth advocate or community organizer."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": " LA Galaxy, Youth Programs Coach - Part-Time",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
+      "fit": 79,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth coaching role, no age restrictions."
+    },
+    {
+      "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
+      "fit": 79,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth coaching role, no age restrictions."
+    },
+    {
+      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/E1F5847A24",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "child-development, class-management, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.111,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports coach, part-time, no age restrictions."
+    }
+  ],
+  "skill_path": "Start by building foundational skills in child development and communication through online courses or volunteer work with youth programs. Look for entry-level roles like youth program assistant or case aide to gain hands-on experience with curriculum delivery and classroom management. As you grow, seek mentorship from experienced social workers or community organizers to refine your skills and advance toward your dream career.",
+  "ideal_careers": [
+    "Social Worker",
+    "Community Organizer",
+    "Youth Advocate"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "social-service"
+    ],
+    "goal_roles": [
+      "Social Worker",
+      "Community Organizer",
+      "Youth Advocate"
+    ],
+    "goal_subdomains": [
+      "youth-support"
+    ],
+    "study_domains": [
+      "education"
+    ],
+    "study_subdomains": [
+      "classroom-support"
+    ],
+    "study_program": "HIGH SCHOOL",
+    "study_level": "high-school",
+    "intent_confidence": 0.537,
+    "intent_strength": 0.737,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate\n=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED\nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142\nLEYLI  HERNANDEZ\nABOUT ME\nMy name is Leyli Hernandez, ",
+    "study_text": "HIGH SCHOOL\n40-11 28th St, Astoria, NY 11101\nCurrently a Junior Student-Athlete at Academy of American Studies High\nSchool as I am part of the Varsity Girls Flag Football team\nLANGUAGES\nEnglish (Native), Spanish (Highly proficient)."
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "social-service": 31,
+      "education": 20,
+      "arts-media": 15
+    },
+    "study": {
+      "education": 54,
+      "logistics": 10,
+      "sales": 8
+    },
+    "classifier": {
+      "arts-media": 50,
+      "sales": 7,
+      "finance": 6
+    },
+    "onet": {
+      "education": 37,
+      "healthcare": 17,
+      "technology": 11
+    },
+    "embeddings": {
+      "education": 8,
+      "technology": 7,
+      "ops": 6
+    },
+    "experience": {}
+  },
+  "candidate_functions": [
+    "social-service",
+    "education"
+  ],
+  "subdomain": "youth-support",
+  "subdomain_confidence": 0.85,
+  "subdomain_alternatives": [
+    "higher-ed-support"
+  ],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "youth-support",
+    "youth-support",
+    "youth-support",
+    "youth-support",
+    "youth-support"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "social-service",
+      "chosen_subdomain": "youth-support",
+      "secondary_function": "education",
+      "goal_domains": [
+        "social-service"
+      ],
+      "study_domains": [
+        "education"
+      ],
+      "goal_subdomains": [
+        "youth-support"
+      ],
+      "study_subdomains": [],
+      "goal_roles": [
+        "Social Worker",
+        "Community Organizer",
+        "Youth Advocate"
+      ],
+      "confidence": 0.85,
+      "evidence_spans": [
+        {
+          "section": "summary",
+          "text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate"
+        },
+        {
+          "section": "summary",
+          "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
+        }
+      ],
+      "reason_codes": [
+        "explicit career goals",
+        "volunteer experience in community and youth organizations"
+      ],
+      "review_reasons": []
+    },
+    "evidence": {
+      "accepted": true,
+      "scored_skills": [
+        "Coordination",
+        "Communications and Media",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Time Management",
+        "Active Listening",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Sales and Marketing",
+        "Administrative",
+        "community engagement",
+        "leadership",
+        "management",
+        "media management",
+        "organized",
+        "problem solving",
+        "public speaking",
+        "social media management",
+        "team leadership",
+        "volunteering"
+      ],
+      "verified_skills": [
+        "Coordination",
+        "Communications and Media",
+        "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Time Management",
+        "Active Listening",
+        "Speaking",
+        "Judgment and Decision Making",
+        "Sales and Marketing",
+        "Administrative",
+        "community engagement",
+        "leadership",
+        "management",
+        "media management",
+        "organized",
+        "problem solving",
+        "public speaking",
+        "social media management",
+        "team leadership",
+        "volunteering"
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "academy",
+        "afterschool",
+        "as i",
+        "career paths",
+        "community events",
+        "ecp",
+        "engagement",
+        "engaging",
+        "flag football",
+        "football",
+        "groups",
+        "high school",
+        "history",
+        "hours",
+        "junior",
+        "languages",
+        "leadership skills",
+        "learner",
+        "media",
+        "name",
+        "native spanish",
+        "non profit",
+        "non profit organization",
+        "organization",
+        "part",
+        "passionate",
+        "physically active",
+        "professionals",
+        "quick learner",
+        "schools",
+        "social",
+        "social media",
+        "spanish",
+        "speaking",
+        "sports",
+        "student athlete",
+        "u s citizen",
+        "weekends"
+      ],
+      "implicit_skills": [
+        {
+          "skill": "Bilingual (Spanish)",
+          "reason": "Native Spanish mentioned in education context",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Event Planning",
+          "reason": "Community engagement and volunteering imply event coordination",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Athletic Coaching",
+          "reason": "Flag football and sports involvement suggest coaching ability",
+          "confidence": "medium"
+        }
+      ],
+      "evidence_items": [],
+      "review_reasons": []
+    }
+  },
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

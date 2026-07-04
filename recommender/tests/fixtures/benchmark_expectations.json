@@ -1,0 +1,12 @@
+{
+  "Abigail Rodriguez": {
+    "expected_functions": ["education", "social-service"],
+    "required_title_keywords": ["tutor", "teacher", "student", "youth", "education"],
+    "forbidden_title_keywords": ["pizza", "wine", "kitchen", "cook"]
+  },
+  "Leila Titikpina": {
+    "expected_functions": ["healthcare"],
+    "required_title_keywords": ["care", "health", "medical", "patient", "clinical"],
+    "forbidden_title_keywords": ["pizza", "wine", "kitchen", "bartender"]
+  }
+}

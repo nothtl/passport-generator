@@ -204,6 +204,8 @@ _occ_funcs = None
 def _load_embedder():
     global _embedder
     if _embedder is None:
+        if os.getenv("RECOMMENDER_DISABLE_EMBEDDINGS", "").strip() == "1":
+            raise RuntimeError("Embeddings disabled by environment")
         from sentence_transformers import SentenceTransformer
         _embedder = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")
     return _embedder
@@ -298,7 +300,12 @@ def _embedding_probas(text: str) -> dict[str, float]:
 
 # ── Fusion Layer ──
 
-def match_role(text: str) -> dict | None:
+def match_role(
+    text: str,
+    aspiration_signal: dict[str, float] | None = None,
+    study_signal: dict[str, float] | None = None,
+    experience_signal: dict[str, float] | None = None,
+) -> dict | None:
     """3-Signal ensemble: classifier + O*NET + embeddings → weighted fusion.
 
     Weights tuned on 2,484 resumes:
@@ -306,6 +313,8 @@ def match_role(text: str) -> dict | None:
       - O*NET:      0.15 (niche occupation vocabulary)
       - Embeddings:  0.35 (semantic bridge)
     """
+    has_intent_signal = bool(aspiration_signal or study_signal or experience_signal)
+
     # Get signals — embedding may fail if sentence_transformers unavailable
     s1 = _classifier_probas(text)
     s2 = _onet_probas(text)
@@ -314,71 +323,42 @@ def match_role(text: str) -> dict | None:
     except Exception:
         s3 = {}
 
-    # Signal 4: LLM (only called if top 2 signals disagree or confidence < 30%)
-    def top(func_probs):
-        return max(func_probs, key=func_probs.get) if func_probs else None
+    signals: list[tuple[str, dict[str, float], float]] = [
+        ("classifier", s1, 0.50),
+        ("onet", s2, 0.15),
+        ("embeddings", s3, 0.35),
+    ]
+    if has_intent_signal:
+        signals = [
+            ("aspiration", aspiration_signal or {}, 0.25),
+            ("study", study_signal or {}, 0.15),
+            ("classifier", s1, 0.25),
+            ("onet", s2, 0.10),
+            ("embeddings", s3, 0.15),
+            ("experience", experience_signal or {}, 0.10),
+        ]
 
-    t1, t2, t3 = top(s1), top(s2), top(s3)
-    max_conf = max(s1.get(t1, 0) if t1 else 0, s2.get(t2, 0) if t2 else 0, s3.get(t3, 0) if t3 else 0)
-    signals_disagree = len({t1, t2, t3} - {None}) >= 2 and not (t1 == t2 == t3)
+    all_funcs = set()
+    for _, signal, _ in signals:
+        all_funcs.update(signal.keys())
+    if not all_funcs:
+        return None
 
-    s4 = {}
-    if signals_disagree or max_conf < 0.30:
-        try:
-            from recommender.llm import classify_resume
-            llm_result = classify_resume(text)
-            if llm_result and llm_result.get("function"):
-                func = llm_result["function"]
-                conf = llm_result.get("confidence", 50) / 100
-                s4 = {func: conf}
-        except Exception:
-            pass
-
-    t4 = top(s4) if s4 else None
-    top_picks = [p for p in [t1, t2, t3, t4] if p]
-
-    # Count votes
-    from collections import Counter
-    votes = Counter(top_picks)
-    winner = votes.most_common(1)[0][0]
-
-    # Weighted blend for the winner
-    w1 = 0.50 if t1 == winner else 0.15
-    w2 = 0.15 if t2 == winner else 0.15
-    w3 = 0.35 if t3 == winner else 0.15
-
-    # Define all_funcs early
-    all_funcs = set(s1.keys()) | set(s2.keys()) | set(s3.keys()) | set(s4.keys())
     fused: dict[str, float] = {}
-
-    # If 2+ experts agree, boost winner weight
-    if votes[winner] >= 2:
-        w1 = 0.55 if t1 == winner else 0.08
-        w2 = 0.12 if t2 == winner else 0.08
-        w3 = 0.30 if t3 == winner else 0.08
-        # LLM as tiebreaker: if it agrees with winner, boost further
-        if t4 == winner:
-            w1 = 0.50 if t1 == winner else 0.05
-            w2 = 0.10 if t2 == winner else 0.05
-            w3 = 0.25 if t3 == winner else 0.05
-
     for func in all_funcs:
-        p1 = s1.get(func, 0)
-        p2 = s2.get(func, 0)
-        p3 = s3.get(func, 0)
-        p4 = s4.get(func, 0)
-        fused[func] = w1 * p1 + w2 * p2 + w3 * p3
-        if s4:
-            fused[func] += 0.15 * p4  # LLM bonus
+        fused[func] = 0.0
+        for _, signal, weight in signals:
+            fused[func] += weight * signal.get(func, 0.0)
 
-    # Normalize
     total = sum(fused.values()) or 1
     for func in fused:
         fused[func] = fused[func] / total * 100
 
-    # Rank
     ranked = sorted(fused.items(), key=lambda x: -x[1])
     best_func, best_pct = ranked[0]
+    candidate_functions = [best_func]
+    if len(ranked) > 1 and abs(ranked[0][1] - ranked[1][1]) <= 12:
+        candidate_functions.append(ranked[1][0])
 
     alternatives = []
     for func, pct in ranked[1:]:
@@ -390,10 +370,10 @@ def match_role(text: str) -> dict | None:
         "level": "Entry",
         "match_pct": round(best_pct),
         "alternatives": alternatives[:5],
+        "candidate_functions": candidate_functions,
         "all_probas": {func: round(p, 1) for func, p in ranked[:10]},
         "signal_breakdown": {
-            "classifier": {func: round(p * 100) for func, p in sorted(s1.items(), key=lambda x: -x[1])[:3]},
-            "onet": {func: round(p * 100) for func, p in sorted(s2.items(), key=lambda x: -x[1])[:3]},
-            "embeddings": {func: round(p * 100) for func, p in sorted(s3.items(), key=lambda x: -x[1])[:3]},
+            name: {func: round(p * 100) for func, p in sorted(signal.items(), key=lambda x: -x[1])[:3]}
+            for name, signal, _ in signals
         },
     }

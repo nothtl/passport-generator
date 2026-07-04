@@ -1,0 +1,756 @@
+{
+  "resume": "=== Cristal Davidson - Resume.pdf ===\n          Cristal C. Davidson \n\nNewark, NJ | (973) 289-2752 | cristal,davidson88@gmail,com  \n\nEDUCATION \n\nFranklin & Marshall College, Lancaster, PA.                                                               (Graduated 2025)  \nHistory and American Studies Joint-Major & Africana Studies Minor \n\n  American History High School, Newark, NJ \n  Graduated Salutatorian                                                                                                   (Graduated 2021) \n\nRELEVANT  EXPERIENCE \n\n  Historic Preservation Trust of Lancaster County           (Lancaster, PA. September 2024 – May 2025)  \n  Archives Intern \n\n●  Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to \n\nimprove accessibility.  \n\n●  Cataloged physical archival materials to improve organization and cleanliness in the office. \n●  Developed social media content to promote the Trust’s initiatives.  \n\n  Mi Gente Latina Club                                              (Lancaster, PA. September 2024 – December 2024) \n  Director of Social Engagement  \n\n●  Coordinated with more than ten on-campus clubs and community organizations to execute social \n\nevents. \n\n●  Served as the primary point of contact for club members and community partners.  \n\n  Mi Gente Latina Club                                                             (Lancaster, PA. January 2024 – May 2024) \n  Senior Advisor  \n\n●  Liaised with senior club members, alumni, and the executive board to improve communication and \n\ncoordination within the club. \n\n●  Organized and executed events that improved senior engagement and club participation. \n●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with \n\nalumni. \n\n  Franklin and Marshall College                                                              (Lancaster, PA. November 2023)        \n  Department of History Student Search Committee \n\n●  Participated in the hiring process by asking questions and engaging with candidates to assess \n\ntheir fit for the department. \n\n●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching \n\nabilities, effectiveness, and presentation skills in a classroom setting.  \n\n  SKILLS \n\n▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+  "function": "arts-media",
+  "confidence": 62,
+  "skills": [
+    "archiving",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "development",
+    "digital",
+    "digital archiving",
+    "leadership",
+    "management",
+    "organizational",
+    "organizational development",
+    "project",
+    "project management",
+    "team collaboration"
+  ],
+  "verified_skills": [
+    "archiving",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "development",
+    "digital",
+    "digital archiving",
+    "leadership",
+    "management",
+    "organizational",
+    "organizational development",
+    "project",
+    "project management",
+    "team collaboration"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "accessibility",
+    "advisor",
+    "archival",
+    "archival work",
+    "archives",
+    "bachelor",
+    "bachelors",
+    "barista",
+    "candidates",
+    "classroom setting",
+    "cleanliness",
+    "content",
+    "coordination",
+    "distribution",
+    "engagement",
+    "engaging",
+    "evaluation",
+    "feedback",
+    "fit",
+    "high school",
+    "history",
+    "materials",
+    "media",
+    "media content",
+    "mentorship",
+    "merchandise",
+    "museums",
+    "office",
+    "organization",
+    "organized",
+    "participation",
+    "pastperfect",
+    "physical",
+    "point of contact",
+    "presentation",
+    "presentation skills",
+    "purchasing",
+    "seniors",
+    "sheets",
+    "social",
+    "social engagement",
+    "social media",
+    "social media content",
+    "software",
+    "speak",
+    "structured",
+    "structured feedback",
+    "surveys",
+    "teaching",
+    "trust",
+    "trust s",
+    "united states"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "archiving",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "development",
+    "digital",
+    "digital archiving",
+    "leadership",
+    "management",
+    "organizational",
+    "organizational development",
+    "project",
+    "project management",
+    "team collaboration"
+  ],
+  "inferred": [
+    "customer service",
+    "time management",
+    "attention to detail"
+  ],
+  "implicit_skills": [
+    {
+      "skill": "customer service",
+      "reason": "Experience as barista and point of contact implies customer service skills.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "time management",
+      "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "attention to detail",
+      "reason": "Archival work and organizational tasks require attention to detail.",
+      "confidence": "medium"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "graphic-design",
+    "adobe-creative-suite",
+    "brand-identity",
+    "digital-design",
+    "motion-graphics",
+    "print-design",
+    "typography"
+  ],
+  "core_gaps": [
+    "graphic-design",
+    "adobe-creative-suite",
+    "brand-identity",
+    "digital-design",
+    "motion-graphics",
+    "print-design",
+    "typography"
+  ],
+  "bridge_gaps": [
+    "adobe-after-effects",
+    "ai-in-design",
+    "animation",
+    "course-designer-tools",
+    "design-systems",
+    "game-design",
+    "golf-course-design",
+    "illustrator",
+    "layout",
+    "layout-design"
+  ],
+  "stretch_gaps": [],
+  "nice_to_have_gaps": [
+    "adobe-after-effects",
+    "ai-in-design",
+    "animation",
+    "course-designer-tools",
+    "design-systems",
+    "game-design",
+    "golf-course-design",
+    "illustrator",
+    "layout",
+    "layout-design"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "training",
+      "pmi": 4.47
+    },
+    {
+      "skill": "stakeholdermanagement",
+      "pmi": 3.35
+    },
+    {
+      "skill": "retailstyling",
+      "pmi": 2.91
+    },
+    {
+      "skill": "editorialdesign",
+      "pmi": 2.89
+    },
+    {
+      "skill": "retaildisplay",
+      "pmi": 2.6
+    },
+    {
+      "skill": "designthinking",
+      "pmi": 2.6
+    },
+    {
+      "skill": "salesgoals",
+      "pmi": 2.55
+    },
+    {
+      "skill": "emotionalintelligence",
+      "pmi": 2.42
+    },
+    {
+      "skill": "artdirection",
+      "pmi": 2.38
+    },
+    {
+      "skill": "retaildesign",
+      "pmi": 2.38
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "training",
+      "pmi": 4.47
+    },
+    {
+      "skill": "stakeholdermanagement",
+      "pmi": 3.35
+    },
+    {
+      "skill": "retailstyling",
+      "pmi": 2.91
+    },
+    {
+      "skill": "editorialdesign",
+      "pmi": 2.89
+    },
+    {
+      "skill": "retaildisplay",
+      "pmi": 2.6
+    },
+    {
+      "skill": "designthinking",
+      "pmi": 2.6
+    },
+    {
+      "skill": "salesgoals",
+      "pmi": 2.55
+    },
+    {
+      "skill": "emotionalintelligence",
+      "pmi": 2.42
+    },
+    {
+      "skill": "artdirection",
+      "pmi": 2.38
+    },
+    {
+      "skill": "retaildesign",
+      "pmi": 2.38
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 15
+    },
+    {
+      "function": "agriculture",
+      "pct": 9
+    },
+    {
+      "function": "ops",
+      "pct": 7
+    },
+    {
+      "function": "technology",
+      "pct": 6
+    },
+    {
+      "function": "design",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "For a arts-media path, focus first on graphic-design, adobe-creative-suite, brand-identity. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Junior Level Designer",
+      "company": "2k",
+      "url": "https://job-boards.greenhouse.io/2k/jobs/7767175003",
+      "fit": 95,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Game design role, no age restrictions."
+    },
+    {
+      "title": "Graphic Designer KZ",
+      "company": "academyofdigitalindustries",
+      "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
+      "fit": 90,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.091,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.5,
+        "experience_alignment": 0.25,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions."
+    },
+    {
+      "title": "Motion Graphic Designer",
+      "company": "docsapp",
+      "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0zqpl/",
+      "fit": 60,
+      "job_type": "bridge",
+      "subdomain": "marketing-creative",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 0.233,
+        "experience_alignment": 0.375,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Motion graphics, no age restrictions."
+    },
+    {
+      "title": "Junior Graphic Designer",
+      "company": "clayco",
+      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.091,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions."
+    },
+    {
+      "title": "Videographer Intern T",
+      "company": "penumbrainc",
+      "url": "https://jobs.lever.co/penumbrainc/cc2b4093-9f2b-414b-9dde-a542f8c2bc37",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.091,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restrictions."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Junior Level Designer",
+      "company": "2k",
+      "url": "https://job-boards.greenhouse.io/2k/jobs/7767175003",
+      "fit": 95,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Game design role, no age restrictions."
+    },
+    {
+      "title": "Graphic Designer KZ",
+      "company": "academyofdigitalindustries",
+      "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
+      "fit": 90,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.091,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.5,
+        "experience_alignment": 0.25,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Motion Graphic Designer",
+      "company": "docsapp",
+      "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0zqpl/",
+      "fit": 60,
+      "job_type": "bridge",
+      "subdomain": "marketing-creative",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 0.233,
+        "experience_alignment": 0.375,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Motion graphics, no age restrictions."
+    },
+    {
+      "title": "Junior Graphic Designer",
+      "company": "clayco",
+      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.091,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions."
+    },
+    {
+      "title": "Videographer Intern T",
+      "company": "penumbrainc",
+      "url": "https://jobs.lever.co/penumbrainc/cc2b4093-9f2b-414b-9dde-a542f8c2bc37",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "function": "design",
+      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "gaps": "graphic-design, adobe-creative-suite, brand-identity",
+      "job_score_breakdown": {
+        "goal_alignment": 0.091,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restrictions."
+    }
+  ],
+  "skill_path": null,
+  "ideal_careers": [],
+  "student_intent": {
+    "goal_domains": [
+      "arts-media",
+      "education"
+    ],
+    "goal_roles": [
+      "archivist",
+      "museum educator"
+    ],
+    "goal_subdomains": [
+      "content-creation",
+      "creative-education"
+    ],
+    "study_domains": [
+      "arts-media",
+      "education"
+    ],
+    "study_subdomains": [
+      "content-creation"
+    ],
+    "study_program": "bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work.",
+    "study_level": "bachelor",
+    "intent_confidence": 0.321,
+    "intent_strength": 0.521,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "Cooperman College Scholar Alum | SPEAKHIRE Alum",
+    "summary_text": "Cooperman College Scholar Alum | SPEAKHIRE Alum\n=== Cristal Davidson - Resume.pdf ===\nCristal C. Davidson\nNewark, NJ | (973) 289-2752 | cristal,davidson88@gmail,com\nRecently graduated from Franklin and Marshall College with a bachelors in History and American Studies. I am now ex",
+    "study_text": "bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work.\nFranklin & Marshall College, Lancaster, PA.                                                               (Graduated 2025)\nHistory and American Studies Joint-Major & Afr"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "arts-media": 17,
+      "ops": 15,
+      "design": 13
+    },
+    "study": {
+      "education": 32,
+      "arts-media": 23,
+      "social-service": 12
+    },
+    "classifier": {
+      "arts-media": 47,
+      "agriculture": 19,
+      "personal-care": 8
+    },
+    "onet": {
+      "education": 29,
+      "healthcare": 15,
+      "technology": 15
+    },
+    "embeddings": {
+      "education": 9,
+      "technology": 7,
+      "ops": 6
+    },
+    "experience": {
+      "education": 51,
+      "agriculture": 21,
+      "arts-media": 12
+    }
+  },
+  "candidate_functions": [
+    "arts-media",
+    "education"
+  ],
+  "subdomain": "content-creation",
+  "subdomain_confidence": 0.72,
+  "subdomain_alternatives": [],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "content-creation",
+    "content-creation",
+    "marketing-creative",
+    "graphic-design",
+    "photo-video"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "arts-media",
+      "chosen_subdomain": "content-creation",
+      "secondary_function": "education",
+      "goal_domains": [
+        "arts-media",
+        "education"
+      ],
+      "study_domains": [
+        "arts-media",
+        "education"
+      ],
+      "goal_subdomains": [
+        "content-creation",
+        "creative-education"
+      ],
+      "study_subdomains": [
+        "content-creation"
+      ],
+      "goal_roles": [
+        "archivist",
+        "museum educator"
+      ],
+      "confidence": 0.65,
+      "evidence_spans": [
+        {
+          "section": "summary",
+          "text": "Recently graduated from Franklin and Marshall College with a bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work."
+        },
+        {
+          "section": "experience",
+          "text": "Developed social media content to promote the Trust’s initiatives."
+        }
+      ],
+      "reason_codes": [
+        "explicit goal",
+        "relevant experience"
+      ],
+      "review_reasons": []
+    },
+    "evidence": {
+      "accepted": true,
+      "scored_skills": [
+        "archiving",
+        "collaboration",
+        "communication",
+        "conflict resolution",
+        "development",
+        "digital",
+        "digital archiving",
+        "leadership",
+        "management",
+        "organizational",
+        "organizational development",
+        "project",
+        "project management",
+        "team collaboration"
+      ],
+      "verified_skills": [
+        "archiving",
+        "collaboration",
+        "communication",
+        "conflict resolution",
+        "development",
+        "digital",
+        "digital archiving",
+        "leadership",
+        "management",
+        "organizational",
+        "organizational development",
+        "project",
+        "project management",
+        "team collaboration"
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "accessibility",
+        "advisor",
+        "archival",
+        "archival work",
+        "archives",
+        "bachelor",
+        "bachelors",
+        "barista",
+        "candidates",
+        "classroom setting",
+        "cleanliness",
+        "content",
+        "coordination",
+        "distribution",
+        "engagement",
+        "engaging",
+        "evaluation",
+        "feedback",
+        "fit",
+        "high school",
+        "history",
+        "materials",
+        "media",
+        "media content",
+        "mentorship",
+        "merchandise",
+        "museums",
+        "office",
+        "organization",
+        "organized",
+        "participation",
+        "pastperfect",
+        "physical",
+        "point of contact",
+        "presentation",
+        "presentation skills",
+        "purchasing",
+        "seniors",
+        "sheets",
+        "social",
+        "social engagement",
+        "social media",
+        "social media content",
+        "software",
+        "speak",
+        "structured",
+        "structured feedback",
+        "surveys",
+        "teaching",
+        "trust",
+        "trust s",
+        "united states"
+      ],
+      "implicit_skills": [
+        {
+          "skill": "customer service",
+          "reason": "Experience as barista and point of contact implies customer service skills.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "time management",
+          "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "attention to detail",
+          "reason": "Archival work and organizational tasks require attention to detail.",
+          "confidence": "medium"
+        }
+      ],
+      "evidence_items": [],
+      "review_reasons": []
+    }
+  },
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

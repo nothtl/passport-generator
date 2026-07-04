@@ -1,0 +1,827 @@
+{
+  "resume": "=== Benjamin Medrano - Resume.pdf ===\nContact \nmedranobenji2006@gmail.com \n(929) 267-6627 \nBronx, NY 10458 \n\nSkills \nCustomer Service \nIntermediate \nBilingualCommunication \nIntermediate \nTechnical Support \nIntermediate \n\nLanguages \nEnglish \nSpanish \n\nBenjamin Medrano \n\nMOTIVATED HIGH SCHOOL GRADUATE | BILINGUAL \nCUSTOMER SERVICE & IT SUPPORT \n\nProfessional Summary \n\nReliable and engaging high school graduate with proven customer service \nexcellence, bilingual communication abilities, and strong organizational \nskills. Demonstrated ability to work effectively in team environments, \nmanage multiple tasks, and maintain professional standards. Eager to \napply communication and service. \n\nProfessional Experience \n\nIntern – Duro Internship    2022-03 – 2022-09 \nR.A.I.N INC CENTER | Bronx, NY \nProvided technical support and organizational assistance in a professional \ninternship setting. \n\n•  Troubleshot hardware and software issues, improving user \n\nexperience. \n\n•  Assisted clients with technical problems, delivering clear and \n\neffective guidance. \n\n•  Organized office inventory, enhancing workspace efficiency and \n\naccessibility. \n\nStudent Intern    2023-05 – 2023-09 \nCrotona International High School | Bronx, NY \nSupported school activities and provided translation services to facilitate \ncommunication. \n\n•  Assisted with Spanish–English translations for students and teachers. \n•  Led group projects, coordinating responsibilities among peers. \n•  Collaborated effectively with classmates, demonstrating teamwork \n\nexcellence. \n\nIntern – Montefiore Einstein Comprehensive Cancer Center    \n2023-11 – 2024-05 \nMontefiore Einstein Cancer Center | Bronx, NY \nSupported administrative and organizational tasks within a healthcare \nresearch environment. \n\n•  Organized office supplies and inventory, streamlining operations. \n•  Assisted staff with technical troubleshooting and administrative \n\ntasks. \n\n•  Contributed to a productive work environment through efficient \n\norganization. \n\nEducation \n\nHigh School Diploma in Leadership, Bilingual Communication, and \nTechnical Skills \nCrotona International High School \n2021 - 2025-06",
+  "function": "technology",
+  "confidence": 61,
+  "skills": [
+    "Customer and Personal Service",
+    "Troubleshooting",
+    "Administrative",
+    "Foreign Language",
+    "Coordination",
+    "Active Listening",
+    "Time Management",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "excellence",
+    "guidance",
+    "hardware",
+    "hardware and software",
+    "healthcare",
+    "it support",
+    "languages",
+    "leadership",
+    "motivated",
+    "office",
+    "office supplies",
+    "operations",
+    "organization",
+    "organizational",
+    "organizational skills",
+    "organized",
+    "productive",
+    "professional",
+    "professional experience",
+    "professional standards",
+    "projects",
+    "reliable",
+    "service",
+    "service excellence",
+    "software",
+    "software issues",
+    "spanish",
+    "spanish english",
+    "standards",
+    "strong organizational skills",
+    "teamwork",
+    "technical",
+    "technical skills",
+    "technical support",
+    "technical troubleshooting",
+    "translation",
+    "translation services",
+    "translations",
+    "troubleshooting",
+    "user experience",
+    "workspace"
+  ],
+  "verified_skills": [
+    "Customer and Personal Service",
+    "Troubleshooting",
+    "Administrative",
+    "Foreign Language",
+    "Coordination",
+    "Active Listening",
+    "Time Management",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "excellence",
+    "guidance",
+    "hardware",
+    "hardware and software",
+    "healthcare",
+    "it support",
+    "languages",
+    "leadership",
+    "motivated",
+    "office",
+    "office supplies",
+    "operations",
+    "organization",
+    "organizational",
+    "organizational skills",
+    "organized",
+    "productive",
+    "professional",
+    "professional experience",
+    "professional standards",
+    "projects",
+    "reliable",
+    "service",
+    "service excellence",
+    "software",
+    "software issues",
+    "spanish",
+    "spanish english",
+    "standards",
+    "strong organizational skills",
+    "teamwork",
+    "technical",
+    "technical skills",
+    "technical support",
+    "technical troubleshooting",
+    "translation",
+    "translation services",
+    "translations",
+    "troubleshooting",
+    "user experience",
+    "workspace"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "diploma",
+    "high school",
+    "high school diploma",
+    "high school graduate",
+    "internship"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "Customer and Personal Service",
+    "Troubleshooting",
+    "Administrative",
+    "Foreign Language",
+    "Coordination",
+    "Active Listening",
+    "Time Management",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "excellence",
+    "guidance",
+    "hardware",
+    "hardware and software",
+    "healthcare",
+    "it support",
+    "languages",
+    "leadership",
+    "motivated",
+    "office",
+    "office supplies",
+    "operations",
+    "organization",
+    "organizational",
+    "organizational skills",
+    "organized",
+    "productive",
+    "professional",
+    "professional experience",
+    "professional standards",
+    "projects",
+    "reliable",
+    "service",
+    "service excellence",
+    "software",
+    "software issues",
+    "spanish",
+    "spanish english",
+    "standards",
+    "strong organizational skills",
+    "teamwork",
+    "technical",
+    "technical skills",
+    "technical support",
+    "technical troubleshooting",
+    "translation",
+    "translation services",
+    "translations",
+    "troubleshooting",
+    "user experience",
+    "workspace"
+  ],
+  "inferred": [
+    "Problem Solving",
+    "Multitasking",
+    "Attention to Detail"
+  ],
+  "implicit_skills": [
+    {
+      "skill": "Problem Solving",
+      "reason": "Troubleshooting and technical support imply problem-solving ability.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Multitasking",
+      "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Attention to Detail",
+      "reason": "Organizational skills and administrative tasks require attention to detail.",
+      "confidence": "medium"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "wellness"
+  ],
+  "core_gaps": [
+    "wellness"
+  ],
+  "bridge_gaps": [
+    "caregiving",
+    "clinical-proficiency",
+    "clinical-training",
+    "epic",
+    "leadership-aspirations",
+    "ma-certification",
+    "on-call",
+    "onboarding",
+    "phlebotomy",
+    "training"
+  ],
+  "stretch_gaps": [
+    "computer-literacy",
+    "documentation",
+    "high-school-diploma",
+    "observational-skills"
+  ],
+  "nice_to_have_gaps": [
+    "caregiving",
+    "clinical-proficiency",
+    "clinical-training",
+    "computer-literacy",
+    "documentation",
+    "epic",
+    "high-school-diploma",
+    "leadership-aspirations",
+    "ma-certification",
+    "observational-skills"
+  ],
+  "verify_gaps": [
+    "multitasking"
+  ],
+  "related": [],
+  "related_skills": [],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 15
+    },
+    {
+      "function": "education",
+      "pct": 14
+    },
+    {
+      "function": "finance",
+      "pct": 7
+    },
+    {
+      "function": "healthcare",
+      "pct": 6
+    },
+    {
+      "function": "sales",
+      "pct": 6
+    }
+  ],
+  "coach_notes": "For a technology path, focus first on wellness. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Physical Therapy Technician",
+      "company": "urpt",
+      "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.444,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "No age restriction for this role.",
+      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and teamwork skills, which are directly transferable to IT roles like coordinating projects and documenting technical processes. Your multitasking and customer service experience will also help you troubleshoot user issues and manage support tickets effectively."
+    },
+    {
+      "title": "Patient Experience Coordinator (Hyde Park)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884025",
+      "fit": 59,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 1.0,
+        "skill_overlap": 0.714,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction.",
+      "bridge": "As a Patient Experience Coordinator, you'll sharpen your communication, organization, and multitasking skills—directly transferable to IT support and development roles where troubleshooting, coordination, and active listening are key. This role builds a strong foundation in customer service and teamwork, which are essential for collaborating on software projects and supporting end-users effectively."
+    },
+    {
+      "title": "Health Center Assistant - Springfield, MO 4/8/2026",
+      "company": "ppgr",
+      "url": "https://jobs.lever.co/ppgr/e410987e-d36c-4343-bf1f-0a8bd65e2348",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.5,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Health center assistant role does not require age 21+ and is suitable for minors/young adults."
+    },
+    {
+      "title": "Patient Experience Coordinator (Des Plaines)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884648",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.455,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction."
+    },
+    {
+      "title": "Patient Experience Coordinator (Wentzville)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.625,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Physical Therapy Technician",
+      "company": "urpt",
+      "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.444,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "No age restriction for this role.",
+      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and teamwork skills, which are directly transferable to IT roles like coordinating projects and documenting technical processes. Your multitasking and customer service experience will also help you troubleshoot user issues and manage support tickets effectively."
+    },
+    {
+      "title": "Patient Experience Coordinator (Hyde Park)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884025",
+      "fit": 59,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 1.0,
+        "skill_overlap": 0.714,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction.",
+      "bridge": "As a Patient Experience Coordinator, you'll sharpen your communication, organization, and multitasking skills—directly transferable to IT support and development roles where troubleshooting, coordination, and active listening are key. This role builds a strong foundation in customer service and teamwork, which are essential for collaborating on software projects and supporting end-users effectively."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Health Center Assistant - Springfield, MO 4/8/2026",
+      "company": "ppgr",
+      "url": "https://jobs.lever.co/ppgr/e410987e-d36c-4343-bf1f-0a8bd65e2348",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.5,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Health center assistant role does not require age 21+ and is suitable for minors/young adults."
+    },
+    {
+      "title": "Patient Experience Coordinator (Des Plaines)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009884648",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.455,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction."
+    },
+    {
+      "title": "Patient Experience Coordinator (Wentzville)",
+      "company": "TVG-MedullaLLC",
+      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "systems",
+      "function": "healthcare",
+      "why": "Uses your Customer and Personal Service, Troubleshooting skills. Aligns with your goal of becoming a Software Engineer.",
+      "gaps": "wellness",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 0.2,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.625,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Patient coordinator, no age restriction."
+    }
+  ],
+  "skill_path": "Start by building wellness skills through online courses or certifications, as they're foundational for tech roles focusing on health tech. Look for entry-level IT support roles in healthcare settings to gain experience with systems like Epic. Gradually transition into software engineering by contributing to open-source health projects or taking coding bootcamps.",
+  "ideal_careers": [
+    "Software Engineer",
+    "IT Support Specialist",
+    "Developer"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "technology"
+    ],
+    "goal_roles": [
+      "Software Engineer",
+      "IT Support Specialist",
+      "Developer"
+    ],
+    "goal_subdomains": [
+      "it-support",
+      "software"
+    ],
+    "study_domains": [
+      "education"
+    ],
+    "study_subdomains": [
+      "classroom-support"
+    ],
+    "study_program": "High School Diploma in Leadership, Bilingual Communication, and",
+    "study_level": "high-school",
+    "intent_confidence": 0.592,
+    "intent_strength": 0.792,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Software Engineer, IT Support Specialist, Developer\n=== Benjamin Medrano - Resume.pdf ===\nContact\nmedranobenji2006@gmail.com\n(929) 267-6627\nBronx, NY 10458",
+    "study_text": "High School Diploma in Leadership, Bilingual Communication, and\nTechnical Skills\nCrotona International High School\n2021 - 2025-06"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "technology": 59,
+      "arts-media": 10,
+      "finance": 8
+    },
+    "study": {
+      "education": 51,
+      "sales": 18,
+      "arts-media": 12
+    },
+    "classifier": {
+      "arts-media": 33,
+      "finance": 14,
+      "healthcare": 11
+    },
+    "onet": {
+      "education": 29,
+      "technology": 19,
+      "healthcare": 14
+    },
+    "embeddings": {
+      "education": 7,
+      "healthcare": 6,
+      "social-service": 6
+    },
+    "experience": {}
+  },
+  "candidate_functions": [
+    "technology",
+    "healthcare"
+  ],
+  "subdomain": "it-support",
+  "subdomain_confidence": 0.72,
+  "subdomain_alternatives": [
+    "it-support",
+    "engineering"
+  ],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "software",
+    "systems",
+    "it-support",
+    "systems",
+    "systems"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "technology",
+      "chosen_subdomain": "it-support",
+      "secondary_function": "healthcare",
+      "goal_domains": [
+        "technology"
+      ],
+      "study_domains": [
+        "education"
+      ],
+      "goal_subdomains": [
+        "it-support",
+        "software"
+      ],
+      "study_subdomains": [],
+      "goal_roles": [
+        "Software Engineer",
+        "IT Support Specialist",
+        "Developer"
+      ],
+      "confidence": 0.7,
+      "evidence_spans": [
+        {
+          "section": "Professional Experience",
+          "text": "Provided technical support and organizational assistance in a professional internship setting."
+        },
+        {
+          "section": "Professional Experience",
+          "text": "Troubleshot hardware and software issues, improving user experience."
+        },
+        {
+          "section": "Professional Experience",
+          "text": "Assisted clients with technical problems, delivering clear and effective guidance."
+        }
+      ],
+      "reason_codes": [
+        "explicit_goal",
+        "experience_technical_support"
+      ],
+      "review_reasons": []
+    },
+    "evidence": {
+      "accepted": true,
+      "scored_skills": [
+        "Customer and Personal Service",
+        "Troubleshooting",
+        "Administrative",
+        "Foreign Language",
+        "Coordination",
+        "Active Listening",
+        "Time Management",
+        "accessibility",
+        "administrative",
+        "administrative tasks",
+        "bilingual",
+        "bilingualcommunication",
+        "clients",
+        "communication",
+        "coordinating",
+        "customer service",
+        "customer service excellence",
+        "delivering",
+        "efficiency",
+        "efficient",
+        "engaging",
+        "english spanish",
+        "excellence",
+        "guidance",
+        "hardware",
+        "hardware and software",
+        "healthcare",
+        "it support",
+        "languages",
+        "leadership",
+        "motivated",
+        "office",
+        "office supplies",
+        "operations",
+        "organization",
+        "organizational",
+        "organizational skills",
+        "organized",
+        "productive",
+        "professional",
+        "professional experience",
+        "professional standards",
+        "projects",
+        "reliable",
+        "service",
+        "service excellence",
+        "software",
+        "software issues",
+        "spanish",
+        "spanish english",
+        "standards",
+        "strong organizational skills",
+        "teamwork",
+        "technical",
+        "technical skills",
+        "technical support",
+        "technical troubleshooting",
+        "translation",
+        "translation services",
+        "translations",
+        "troubleshooting",
+        "user experience",
+        "workspace"
+      ],
+      "verified_skills": [
+        "Customer and Personal Service",
+        "Troubleshooting",
+        "Administrative",
+        "Foreign Language",
+        "Coordination",
+        "Active Listening",
+        "Time Management",
+        "accessibility",
+        "administrative",
+        "administrative tasks",
+        "bilingual",
+        "bilingualcommunication",
+        "clients",
+        "communication",
+        "coordinating",
+        "customer service",
+        "customer service excellence",
+        "delivering",
+        "efficiency",
+        "efficient",
+        "engaging",
+        "english spanish",
+        "excellence",
+        "guidance",
+        "hardware",
+        "hardware and software",
+        "healthcare",
+        "it support",
+        "languages",
+        "leadership",
+        "motivated",
+        "office",
+        "office supplies",
+        "operations",
+        "organization",
+        "organizational",
+        "organizational skills",
+        "organized",
+        "productive",
+        "professional",
+        "professional experience",
+        "professional standards",
+        "projects",
+        "reliable",
+        "service",
+        "service excellence",
+        "software",
+        "software issues",
+        "spanish",
+        "spanish english",
+        "standards",
+        "strong organizational skills",
+        "teamwork",
+        "technical",
+        "technical skills",
+        "technical support",
+        "technical troubleshooting",
+        "translation",
+        "translation services",
+        "translations",
+        "troubleshooting",
+        "user experience",
+        "workspace"
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "diploma",
+        "high school",
+        "high school diploma",
+        "high school graduate",
+        "internship"
+      ],
+      "implicit_skills": [
+        {
+          "skill": "Problem Solving",
+          "reason": "Troubleshooting and technical support imply problem-solving ability.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Multitasking",
+          "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Attention to Detail",
+          "reason": "Organizational skills and administrative tasks require attention to detail.",
+          "confidence": "medium"
+        }
+      ],
+      "evidence_items": [],
+      "review_reasons": []
+    }
+  },
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

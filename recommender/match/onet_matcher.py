@@ -19,9 +19,11 @@ from typing import Any
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _DATA = os.path.join(_HERE, "..", "data")
 _INDEX_PATH = os.path.join(_DATA, "onet_occ_index.json")
+_IMPORTANCE_PATH = os.path.join(_DATA, "onet_importance.json")
 
 # Caches
 _occ_index: dict[str, Any] | None = None  # {occs: [...], keywords: {...}, num_occs: N}
+_importance_index: dict[str, Any] | None = None  # {occupations: {soc: {title, skills: {skill: importance}}}}}
 
 _STOPS = {
     "the", "a", "an", "is", "are", "was", "were", "be", "been", "being",
@@ -222,6 +224,40 @@ def _build_index() -> dict:
     }
 
 
+def _load_importance() -> dict:
+    """Load O*NET importance-weighted skill index."""
+    global _importance_index
+    if _importance_index is None and os.path.exists(_IMPORTANCE_PATH):
+        with open(_IMPORTANCE_PATH, encoding="utf-8") as f:
+            _importance_index = json.load(f)
+    return _importance_index or {}
+
+
+def _importance_score(soc: str, matched_skills: set[str]) -> float:
+    """Score an occupation by importance-weighted coverage of matched skills.
+
+    Instead of flat keyword overlap, this weights each matched skill by its
+    O*NET importance (1-5 scale) for that specific occupation. A student covering
+    'Customer Service' (importance 4.5 for a host, 2.0 for a maid) gets more
+    credit toward host than maid. Only the top 12 core skills are scored.
+    """
+    imp = _load_importance()
+    occs = imp.get("occupations", {})
+    occ = occs.get(soc, {})
+    skills = occ.get("skills", {})
+    if not skills:
+        return 0.0
+
+    # Score only the top 12 most important skills (the zip's approach)
+    top_skills = sorted(skills.items(), key=lambda x: -x[1])[:12]
+    total_importance = sum(v for _, v in top_skills)
+    if total_importance == 0:
+        return 0.0
+
+    covered = sum(v for s, v in top_skills if s.lower() in matched_skills)
+    return covered / total_importance
+
+
 def _load_index() -> dict:
     """Load or build the occupation index."""
     global _occ_index
@@ -276,6 +312,17 @@ def match_onet_occupations(
             weight = tf * idf
             for occ_idx in keyword_occs[w_key]:
                 occ_scores[occ_idx] += weight
+
+    # Apply O*NET importance weighting: boost occupations where matched skills
+    # are high-importance for that specific occupation, penalize where they're not.
+    resume_words_lower = {w.lower() for w in wc.keys()}
+    for occ_idx in list(occ_scores.keys()):
+        if occ_idx < len(occs):
+            soc = occs[occ_idx].get("soc", "")
+            imp_score = _importance_score(soc, resume_words_lower)
+            if imp_score > 0:
+                # Blend: TF-IDF * 0.4 + importance * 0.6
+                occ_scores[occ_idx] = occ_scores[occ_idx] * 0.4 + imp_score * 100 * 0.6
 
     # Apply function-specific bonus: distinctive words boost their function
     resume_words = set(wc.keys())

@@ -1,0 +1,787 @@
+{
+  "resume": "=== Emiliano Hernandez Cordero - Resume.pdf ===\nEMILIANO HERNANDEZ CORDERO\nStaten Island, NY | (347) 544-3827 | emilianocordero122007@aol.com\n\nEDUCATION\nJohn Jay College of Criminal Justice – CUNY, New York, NY\nBachelor of Arts in Criminal Justice | Expected Graduation: 2029\n\nEXPERIENCE\nMcDonald’s – 600 W 125th St, New York, NY 10027\nCrew Member | Sept 20, 2025 – Dec 22, 2025\n(cid:127) Provided fast-paced customer service in a high-volume environment.\n(cid:127) Operated point-of-sale systems and handled cash transactions accurately.\n(cid:127) Prepared food according to safety, quality, and cleanliness standards.\n(cid:127) Collaborated with team members to maintain efficiency during peak hours.\n\nWe Can’t Breathe – Harlem & Brooklyn, NY | Founder’s Assistant | May 2024 – Aug 2024\n(cid:127) Researched organizations for donations and scholarships for low-income students.\n(cid:127) Created persuasive emails to engage sponsors and coordinated food distribution efforts.\n\nLa Colmena Staten Island Community Job Center – Staten Island, NY | Founder’s Assistant | Jan 2025\n– Apr 2025\n(cid:127) Provided Spanish-English interpretation and supported event planning.\n(cid:127) Organized documents and managed resource distribution at community events.\n\nEVC New Media Arts – New York, NY | Teacher’s Helper | May 2023 – Aug 2023\n(cid:127) Assisted with classroom activities, small group instruction, and student support.\n\nRosie O’Grady’s – New York, NY | Busboy | Jan 2021 – Sept 2021\n(cid:127) Maintained cleanliness, supported waitstaff, and prepared dining areas for service.\n\nEXTRACURRICULARS\nDream Team: Co-Leader, New York, NY\nAlianza Multicultural Group: Member, New York, NY\nSpeak Hire Communication Program: Participant, New York, NY\n\nSKILLS & LANGUAGES\nMicrosoft Office, Google Suite, Canva\nBilingual: English & Spanish\nCommunication, teamwork, leadership",
+  "function": "education",
+  "confidence": 56,
+  "skills": [
+    "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
+    "canva",
+    "communication",
+    "english spanish",
+    "english spanish communication",
+    "google",
+    "google suite",
+    "languages",
+    "leadership",
+    "microsoft",
+    "microsoft office",
+    "office",
+    "spanish"
+  ],
+  "verified_skills": [
+    "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
+    "canva",
+    "communication",
+    "english spanish",
+    "english spanish communication",
+    "google",
+    "google suite",
+    "languages",
+    "leadership",
+    "microsoft",
+    "microsoft office",
+    "office",
+    "spanish"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "Active Listening",
+    "Administrative",
+    "Coordination",
+    "Customer and Personal Service",
+    "Foreign Language",
+    "Instructing",
+    "Mathematics",
+    "Sales and Marketing",
+    "Time Management",
+    "advocate",
+    "bachelor",
+    "can",
+    "cash",
+    "cash transactions",
+    "classroom activities",
+    "cleanliness",
+    "cleanliness standards",
+    "community events",
+    "criminal justice",
+    "customer service",
+    "distribution",
+    "documents",
+    "donations",
+    "efficiency",
+    "emails",
+    "event planning",
+    "fast paced",
+    "food",
+    "food distribution",
+    "group instruction",
+    "high volume",
+    "high volume environment",
+    "hours",
+    "instruction",
+    "interpretation",
+    "media",
+    "multicultural",
+    "organized",
+    "point of sale",
+    "pos",
+    "pos systems",
+    "prepared food",
+    "program",
+    "quality",
+    "quality and cleanliness",
+    "quality standards",
+    "safety",
+    "safety and quality",
+    "service",
+    "small group instruction",
+    "spanish communication",
+    "spanish english",
+    "speak",
+    "sponsors",
+    "standards",
+    "student support",
+    "systems",
+    "teamwork",
+    "transactions",
+    "united states",
+    "waitstaff"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
+    "canva",
+    "communication",
+    "english spanish",
+    "english spanish communication",
+    "google",
+    "google suite",
+    "languages",
+    "leadership",
+    "microsoft",
+    "microsoft office",
+    "office",
+    "spanish"
+  ],
+  "inferred": [
+    "Customer Service",
+    "Event Planning",
+    "Teamwork"
+  ],
+  "implicit_skills": [
+    {
+      "skill": "Customer Service",
+      "reason": "Experience with cash transactions and customer service suggests strong customer service skills.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Event Planning",
+      "reason": "Involvement in community events and donations implies event planning ability.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Teamwork",
+      "reason": "Experience in classroom activities and group instruction indicates teamwork skills.",
+      "confidence": "medium"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "cash-handling",
+    "instruction",
+    "safety",
+    "youth-development"
+  ],
+  "core_gaps": [
+    "cash-handling",
+    "instruction",
+    "safety",
+    "youth-development"
+  ],
+  "bridge_gaps": [
+    "class-management",
+    "dance",
+    "game-rules-knowledge",
+    "group-facilitation",
+    "guest-relations",
+    "point-of-sale",
+    "policy-compliance",
+    "store-operations",
+    "tumbling"
+  ],
+  "stretch_gaps": [
+    "attendance-tracking",
+    "bachelors",
+    "basic-accounting",
+    "behavior-interventions",
+    "clerkship",
+    "coaching",
+    "health-education",
+    "life-skills",
+    "multitasking",
+    "restorative-practices"
+  ],
+  "nice_to_have_gaps": [
+    "attendance-tracking",
+    "bachelors",
+    "basic-accounting",
+    "behavior-interventions",
+    "class-management",
+    "clerkship",
+    "coaching",
+    "dance",
+    "game-rules-knowledge",
+    "group-facilitation"
+  ],
+  "verify_gaps": [
+    "customer-service",
+    "teamwork"
+  ],
+  "related": [
+    {
+      "skill": "googleclassroom",
+      "pmi": 5.53
+    },
+    {
+      "skill": "translation",
+      "pmi": 4.26
+    },
+    {
+      "skill": "behaviordocumentation",
+      "pmi": 3.92
+    },
+    {
+      "skill": "crisisprotocols",
+      "pmi": 3.88
+    },
+    {
+      "skill": "travelbetweensites",
+      "pmi": 3.81
+    },
+    {
+      "skill": "bcatcredential",
+      "pmi": 3.81
+    },
+    {
+      "skill": "emr",
+      "pmi": 3.59
+    },
+    {
+      "skill": "criticalthinking",
+      "pmi": 3.54
+    },
+    {
+      "skill": "datadocumentation",
+      "pmi": 3.51
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "googleclassroom",
+      "pmi": 5.53
+    },
+    {
+      "skill": "translation",
+      "pmi": 4.26
+    },
+    {
+      "skill": "behaviordocumentation",
+      "pmi": 3.92
+    },
+    {
+      "skill": "crisisprotocols",
+      "pmi": 3.88
+    },
+    {
+      "skill": "travelbetweensites",
+      "pmi": 3.81
+    },
+    {
+      "skill": "bcatcredential",
+      "pmi": 3.81
+    },
+    {
+      "skill": "emr",
+      "pmi": 3.59
+    },
+    {
+      "skill": "criticalthinking",
+      "pmi": 3.54
+    },
+    {
+      "skill": "datadocumentation",
+      "pmi": 3.51
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 12
+    },
+    {
+      "function": "social-service",
+      "pct": 9
+    },
+    {
+      "function": "finance",
+      "pct": 8
+    },
+    {
+      "function": "legal",
+      "pct": 8
+    },
+    {
+      "function": "skilled-trade",
+      "pct": 7
+    }
+  ],
+  "coach_notes": "For a education path, focus first on cash-handling, instruction, safety. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Sports Based Youth Development Specialist - Football",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3239888",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.467,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.333,
+        "experience_alignment": 0.25,
+        "attainability": 0.65,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports role, no age restriction."
+    },
+    {
+      "title": "Volleyball Coach -Youth Sports",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3536130",
+      "fit": 94,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.556,
+        "experience_alignment": 0.5,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Coaching role, no age restriction."
+    },
+    {
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
+      "fit": 73,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.4,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.448,
+        "attainability": 0.75,
+        "skill_overlap": 0.182,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Children's center assistant, suitable for young adults."
+    },
+    {
+      "title": "Tumbling/Gymnastics Instructor - French Creek YMCA ",
+      "company": "cleveymca",
+      "url": "https://jobs.dayforcehcm.com/cleveymca/CANDIDATEPORTAL/jobs/4647",
+      "fit": 53,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.5,
+        "attainability": 0.75,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Instructor role, no age restriction."
+    },
+    {
+      "title": "Retail Associate",
+      "company": "sandboxvr",
+      "url": "https://jobs.lever.co/sandboxvr/13a46934-741b-4e70-bbdb-236b57a5c0d2",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.571,
+        "attainability": 0.75,
+        "skill_overlap": 0.143,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Retail associate, no age restriction."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Sports Based Youth Development Specialist - Football",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3239888",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.467,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.333,
+        "experience_alignment": 0.25,
+        "attainability": 0.65,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth sports role, no age restriction."
+    },
+    {
+      "title": "Volleyball Coach -Youth Sports",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3536130",
+      "fit": 94,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.556,
+        "experience_alignment": 0.5,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Coaching role, no age restriction."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
+      "fit": 73,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.4,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.448,
+        "attainability": 0.75,
+        "skill_overlap": 0.182,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Children's center assistant, suitable for young adults."
+    },
+    {
+      "title": "Tumbling/Gymnastics Instructor - French Creek YMCA ",
+      "company": "cleveymca",
+      "url": "https://jobs.dayforcehcm.com/cleveymca/CANDIDATEPORTAL/jobs/4647",
+      "fit": 53,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.5,
+        "attainability": 0.75,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Instructor role, no age restriction."
+    },
+    {
+      "title": "Retail Associate",
+      "company": "sandboxvr",
+      "url": "https://jobs.lever.co/sandboxvr/13a46934-741b-4e70-bbdb-236b57a5c0d2",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "cash-handling, instruction, safety",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.571,
+        "attainability": 0.75,
+        "skill_overlap": 0.143,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Retail associate, no age restriction."
+    }
+  ],
+  "skill_path": "Start by building cash-handling and guest-relations skills through entry-level roles like host or cashier at a restaurant, which also gives you safety experience. Then, leverage your youth-development and instruction skills by seeking assistant manager or shift lead positions where you can practice class-management and group-facilitation. Finally, combine these with your interest in justice by exploring roles in culinary education or youth programs that align with your dream of becoming a chef or restaurant manager.",
+  "ideal_careers": [
+    "Justice",
+    "Chef",
+    "Restaurant Manager"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "education",
+      "social-service"
+    ],
+    "goal_roles": [
+      "Teacher's Helper",
+      "Founder's Assistant"
+    ],
+    "goal_subdomains": [
+      "youth-programs",
+      "community-support"
+    ],
+    "study_domains": [
+      "legal"
+    ],
+    "study_subdomains": [],
+    "study_program": "Bachelor of Arts in Criminal Justice | Expected Graduation: 2029",
+    "study_level": "bachelor",
+    "intent_confidence": 0.255,
+    "intent_strength": 0.355,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "Criminal Justice Student | SPEAKHIRE Participant | Bilingual Community Advocate",
+    "summary_text": "Criminal Justice Student | SPEAKHIRE Participant | Bilingual Community Advocate\nIdeal careers: Justice, Chef, Restaurant Manager\n=== Emiliano Hernandez Cordero - Resume.pdf ===\nEMILIANO HERNANDEZ CORDERO\nStaten Island, NY | (347) 544-3827 | emilianocordero122007@aol.com",
+    "study_text": "Bachelor of Arts in Criminal Justice | Expected Graduation: 2029\nJohn Jay College of Criminal Justice – CUNY, New York, NY\nBachelor of Arts in Criminal Justice | Expected Graduation: 2029\n**John Jay College of Criminal Justice – CUNY**\nBachelor of Arts in Criminal Justice | Expec"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "education": 26,
+      "legal": 25,
+      "social-service": 25
+    },
+    "study": {
+      "skilled-trade": 24,
+      "finance": 16,
+      "arts-media": 16
+    },
+    "classifier": {
+      "arts-media": 28,
+      "finance": 15,
+      "education": 9
+    },
+    "onet": {
+      "education": 29,
+      "healthcare": 13,
+      "technology": 13
+    },
+    "embeddings": {
+      "education": 7,
+      "arts-media": 6,
+      "ops": 6
+    },
+    "experience": {
+      "education": 31,
+      "social-service": 20,
+      "arts-media": 15
+    }
+  },
+  "candidate_functions": [
+    "education",
+    "social-service"
+  ],
+  "subdomain": "youth-programs",
+  "subdomain_confidence": 0.714,
+  "subdomain_alternatives": [
+    "classroom-support",
+    "youth-programs"
+  ],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "classroom-support",
+    "youth-programs",
+    "classroom-support",
+    "classroom-support",
+    "youth-programs"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "education",
+      "chosen_subdomain": "youth-programs",
+      "secondary_function": "social-service",
+      "goal_domains": [
+        "education",
+        "social-service"
+      ],
+      "study_domains": [
+        "legal"
+      ],
+      "goal_subdomains": [
+        "youth-programs",
+        "community-support"
+      ],
+      "study_subdomains": [],
+      "goal_roles": [
+        "Teacher's Helper",
+        "Founder's Assistant"
+      ],
+      "confidence": 0.65,
+      "evidence_spans": [
+        {
+          "section": "experience",
+          "text": "Assisted with classroom activities, small group instruction, and student support."
+        },
+        {
+          "section": "experience",
+          "text": "Provided Spanish-English interpretation and supported event planning."
+        }
+      ],
+      "reason_codes": [
+        "explicit_goals_not_clear",
+        "demonstrated_experience_in_education_and_community_support"
+      ],
+      "review_reasons": []
+    },
+    "evidence": {
+      "accepted": true,
+      "scored_skills": [
+        "bilingual",
+        "bilingual english",
+        "bilingual english spanish",
+        "canva",
+        "communication",
+        "english spanish",
+        "english spanish communication",
+        "google",
+        "google suite",
+        "languages",
+        "leadership",
+        "microsoft",
+        "microsoft office",
+        "office",
+        "spanish"
+      ],
+      "verified_skills": [
+        "bilingual",
+        "bilingual english",
+        "bilingual english spanish",
+        "canva",
+        "communication",
+        "english spanish",
+        "english spanish communication",
+        "google",
+        "google suite",
+        "languages",
+        "leadership",
+        "microsoft",
+        "microsoft office",
+        "office",
+        "spanish"
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "Active Listening",
+        "Administrative",
+        "Coordination",
+        "Customer and Personal Service",
+        "Foreign Language",
+        "Instructing",
+        "Mathematics",
+        "Sales and Marketing",
+        "Time Management",
+        "advocate",
+        "bachelor",
+        "can",
+        "cash",
+        "cash transactions",
+        "classroom activities",
+        "cleanliness",
+        "cleanliness standards",
+        "community events",
+        "criminal justice",
+        "customer service",
+        "distribution",
+        "documents",
+        "donations",
+        "efficiency",
+        "emails",
+        "event planning",
+        "fast paced",
+        "food",
+        "food distribution",
+        "group instruction",
+        "high volume",
+        "high volume environment",
+        "hours",
+        "instruction",
+        "interpretation",
+        "media",
+        "multicultural",
+        "organized",
+        "point of sale",
+        "pos",
+        "pos systems",
+        "prepared food",
+        "program",
+        "quality",
+        "quality and cleanliness",
+        "quality standards",
+        "safety",
+        "safety and quality",
+        "service",
+        "small group instruction",
+        "spanish communication",
+        "spanish english",
+        "speak",
+        "sponsors",
+        "standards",
+        "student support",
+        "systems",
+        "teamwork",
+        "transactions",
+        "united states",
+        "waitstaff"
+      ],
+      "implicit_skills": [
+        {
+          "skill": "Customer Service",
+          "reason": "Experience with cash transactions and customer service suggests strong customer service skills.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Event Planning",
+          "reason": "Involvement in community events and donations implies event planning ability.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Teamwork",
+          "reason": "Experience in classroom activities and group instruction indicates teamwork skills.",
+          "confidence": "medium"
+        }
+      ],
+      "evidence_items": [],
+      "review_reasons": []
+    }
+  },
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

@@ -1,0 +1,806 @@
+{
+  "resume": "=== Alan Li - Resume.pdf ===\n“Alan Li  \n Brooklyn, New York •  347-318-6012    \n\n     Alanli2070@gmail.com • h@ps://www.linkedin.com/in/alan-li-765556344/   \n\nEDUCATION  \n\nUNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK  \nBachelor of Science, Business Administra=on  \nMarkeUng  \nGPA 3.3/4.00  \n\nEXPERIENCE  \n\nBig C Wholesale Inc.  \nOﬃce Assistant   \n• \n\nJune 2028  \n\nQueens, New York  \nJune 2023 - Present  \n\n• \n• \n• \n• \n\n• \n\nProvides general administraUve and clerical support to ensure smooth daily operaUons within an oﬃce \nenvironment.  \nOrganizing both physical and electronic ﬁles, ensuring informaUon is easily accessible  \nKeeping track of inventory and replenishing supplies as needed  \nSorUng, distribuUng, and preparing outgoing mail and packages  \nAssisUng with tasks like entering informaUon into databases and preparing reports.   \n\n  University at Buﬀalo – work study  \n  Garage Assistant   \n\nBuﬀalo, New York  \nNovember 2024 – May 2025  \n\nTook out trash from cans in all dorm buildings to help keep the area clean.  \n\n• \n•  Worked closely with staff members as a team to get tasks done  \n• \n• \n\nTalked with students and staﬀ to answer quesUons and provide friendly help.  \nHelped ﬁnish daily tasks by working together with the team.  \n\n  Kyoto restaurant  \n  Hostess   \n\nBuﬀalo, New York  \nAugust 2024 – November 2024  \n\nAs a hostess, I greeted and seated at least 100+ guests with a warm smile and helped reduce guest wait \nUmes by improving the seaUng structure  \nSolve guest concerns quickly, leading to good feedback and repeat visits  \n\n• \n•  Working smoothly with my team to run the service eﬃciently  \n• \n\nTrained new hostesses and improved team eﬃciency  \n\nTECHNICAL SKILLS  \n\nMS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity, \nCommunicaUon, Interpersonal, and CriUcal thinking  \n\n  \n \n  \n  \n  \n  \n  \n  \n  \n\fACTIVITIES  \n\nMarkeUng Club, Chinese Student AssociaUon, Hong Kong Student AssociaUon, Biking, Reading books, \nBasketball, Volleyball, Badminton, Bowling, Weightlihing, Investment, Parent-Child Rela0onship Associa0on, \nChinese, English, and Fuzhounese.",
+  "function": "finance",
+  "confidence": 80,
+  "skills": [
+    "bilingual",
+    "chinese",
+    "data entry",
+    "inventory management",
+    "languages",
+    "management",
+    "spreadsheets",
+    "administrative",
+    "canva",
+    "clerical",
+    "css",
+    "databases",
+    "excel",
+    "html",
+    "javascript",
+    "sales and marketing",
+    "computers and electronics",
+    "mathematics",
+    "time management",
+    "critical thinking",
+    "active listening",
+    "coordination",
+    "instructing",
+    "customer and personal service",
+    "html css",
+    "powerpoint",
+    "data",
+    "finance",
+    "investment",
+    "operations",
+    "organizing",
+    "reports",
+    "technical skills",
+    "work study"
+  ],
+  "verified_skills": [
+    "bilingual",
+    "chinese",
+    "data entry",
+    "inventory management",
+    "languages",
+    "management",
+    "spreadsheets",
+    "administrative",
+    "canva",
+    "clerical",
+    "css",
+    "databases",
+    "excel",
+    "html",
+    "javascript",
+    "sales and marketing",
+    "computers and electronics",
+    "mathematics",
+    "time management",
+    "critical thinking",
+    "active listening",
+    "coordination",
+    "instructing",
+    "customer and personal service",
+    "html css",
+    "powerpoint",
+    "data",
+    "finance",
+    "investment",
+    "operations",
+    "organizing",
+    "reports",
+    "technical skills",
+    "work study"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "access",
+    "administration",
+    "bachelor",
+    "basketball",
+    "business",
+    "business administration",
+    "cleanliness",
+    "clerical support",
+    "concentration",
+    "daily operations",
+    "distributes",
+    "efficiency",
+    "electronic",
+    "feedback",
+    "friendly",
+    "general administrative",
+    "instagram",
+    "interpersonal",
+    "mail",
+    "mail and packages",
+    "ms o",
+    "office",
+    "outgoing",
+    "physical",
+    "present",
+    "replenishes supplies",
+    "replenishing supplies",
+    "restaurant",
+    "science",
+    "service",
+    "spreadsheet",
+    "structure",
+    "tracks",
+    "trash",
+    "united states",
+    "volleyball",
+    "wait",
+    "wait times",
+    "wholesale"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "bilingual",
+    "chinese",
+    "data entry",
+    "inventory management",
+    "languages",
+    "management",
+    "spreadsheets",
+    "administrative",
+    "canva",
+    "clerical",
+    "css",
+    "databases",
+    "excel",
+    "html",
+    "javascript",
+    "sales and marketing",
+    "computers and electronics",
+    "mathematics",
+    "time management",
+    "critical thinking",
+    "active listening",
+    "coordination",
+    "instructing",
+    "customer and personal service",
+    "html css",
+    "powerpoint",
+    "data",
+    "finance",
+    "investment",
+    "operations",
+    "organizing",
+    "reports",
+    "technical skills",
+    "work study"
+  ],
+  "inferred": [
+    "customer service",
+    "teamwork",
+    "attention to detail"
+  ],
+  "implicit_skills": [
+    {
+      "skill": "customer service",
+      "reason": "Experience in administrative and clerical roles often involves customer interaction.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "teamwork",
+      "reason": "Leadership roles in sports and work study imply collaboration.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "attention to detail",
+      "reason": "Data entry and inventory management require precision.",
+      "confidence": "medium"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "accounting",
+    "communication",
+    "data-analysis"
+  ],
+  "core_gaps": [
+    "accounting",
+    "communication",
+    "data-analysis"
+  ],
+  "bridge_gaps": [],
+  "stretch_gaps": [
+    "administrative-support",
+    "budgeting",
+    "dashboards",
+    "datev",
+    "financial-controlling",
+    "financial-planning-and-analysis",
+    "financial-transaction-processing",
+    "forecasting",
+    "lucanet",
+    "numerical-skills"
+  ],
+  "nice_to_have_gaps": [
+    "administrative-support",
+    "budgeting",
+    "dashboards",
+    "datev",
+    "financial-controlling",
+    "financial-planning-and-analysis",
+    "financial-transaction-processing",
+    "forecasting",
+    "lucanet",
+    "numerical-skills"
+  ],
+  "verify_gaps": [
+    "attention-to-detail",
+    "customer-service"
+  ],
+  "related": [
+    {
+      "skill": "portfolioperformance",
+      "pmi": 5.03
+    },
+    {
+      "skill": "databasemanagement",
+      "pmi": 5.03
+    },
+    {
+      "skill": "spanish",
+      "pmi": 5.03
+    },
+    {
+      "skill": "series63",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series65",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series66",
+      "pmi": 4.5
+    },
+    {
+      "skill": "series7",
+      "pmi": 4.27
+    },
+    {
+      "skill": "moneymovement",
+      "pmi": 4.21
+    },
+    {
+      "skill": "wordprocessing",
+      "pmi": 4.14
+    },
+    {
+      "skill": "cashregister",
+      "pmi": 3.75
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "portfolioperformance",
+      "pmi": 5.03
+    },
+    {
+      "skill": "databasemanagement",
+      "pmi": 5.03
+    },
+    {
+      "skill": "spanish",
+      "pmi": 5.03
+    },
+    {
+      "skill": "series63",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series65",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series66",
+      "pmi": 4.5
+    },
+    {
+      "skill": "series7",
+      "pmi": 4.27
+    },
+    {
+      "skill": "moneymovement",
+      "pmi": 4.21
+    },
+    {
+      "skill": "wordprocessing",
+      "pmi": 4.14
+    },
+    {
+      "skill": "cashregister",
+      "pmi": 3.75
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 16
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "arts-media",
+      "pct": 6
+    },
+    {
+      "function": "ops",
+      "pct": 3
+    }
+  ],
+  "coach_notes": "For a finance path, focus first on accounting, communication, data-analysis. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Praktikant:in (m/w/d) - CFO Office",
+      "company": "1komma5grad",
+      "url": "https://1komma5grad.jobs.personio.de/job/2608070?language=en",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.375,
+        "attainability": 0.75,
+        "skill_overlap": 0.375,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship in CFO office is suitable for young adults."
+    },
+    {
+      "title": "FP&A Analyst",
+      "company": "aloyoga",
+      "url": "https://boards.greenhouse.io/aloyoga/jobs/5978039004?gh_jid=5978039004",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.3,
+        "attainability": 0.75,
+        "skill_overlap": 0.3,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "FP&A analyst roles typically do not have age restrictions beyond minimum employment age."
+    },
+    {
+      "title": "Finance Service Representative",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4164785",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.25,
+        "attainability": 0.75,
+        "skill_overlap": 0.3,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Finance service representative, no age restriction."
+    },
+    {
+      "title": "Invoice Entry Clerk - Data Entry",
+      "company": "JobsForHumanity",
+      "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000132955615",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.161,
+        "attainability": 0.85,
+        "skill_overlap": 0.429,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Data entry roles are suitable for minors/young adults."
+    },
+    {
+      "title": "Royalty Analyst",
+      "company": "INgroovesMusicGroup",
+      "url": "https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999679487571",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.232,
+        "attainability": 0.75,
+        "skill_overlap": 0.333,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Royalty analyst role does not have age restrictions."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Praktikant:in (m/w/d) - CFO Office",
+      "company": "1komma5grad",
+      "url": "https://1komma5grad.jobs.personio.de/job/2608070?language=en",
+      "fit": 95,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.375,
+        "attainability": 0.75,
+        "skill_overlap": 0.375,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship in CFO office is suitable for young adults."
+    },
+    {
+      "title": "FP&A Analyst",
+      "company": "aloyoga",
+      "url": "https://boards.greenhouse.io/aloyoga/jobs/5978039004?gh_jid=5978039004",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.3,
+        "attainability": 0.75,
+        "skill_overlap": 0.3,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "FP&A analyst roles typically do not have age restrictions beyond minimum employment age."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Finance Service Representative",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4164785",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.25,
+        "attainability": 0.75,
+        "skill_overlap": 0.3,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Finance service representative, no age restriction."
+    },
+    {
+      "title": "Invoice Entry Clerk - Data Entry",
+      "company": "JobsForHumanity",
+      "url": "https://jobs.smartrecruiters.com/JobsForHumanity/744000132955615",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.161,
+        "attainability": 0.85,
+        "skill_overlap": 0.429,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Data entry roles are suitable for minors/young adults."
+    },
+    {
+      "title": "Royalty Analyst",
+      "company": "INgroovesMusicGroup",
+      "url": "https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999679487571",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
+      "gaps": "accounting, communication, data-analysis",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.232,
+        "attainability": 0.75,
+        "skill_overlap": 0.333,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Royalty analyst role does not have age restrictions."
+    }
+  ],
+  "skill_path": "Start by building a strong foundation in accounting through online courses or a part-time certificate, as it's the core of finance. Then, practice data analysis with Excel and SQL on real datasets from platforms like Kaggle. Look for entry-level roles like accounting clerk or financial analyst intern to gain experience, and use each job to improve communication by presenting findings to your team.",
+  "ideal_careers": [
+    "Finance"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "finance"
+    ],
+    "goal_roles": [],
+    "goal_subdomains": [],
+    "study_domains": [
+      "finance"
+    ],
+    "study_subdomains": [
+      "higher-ed-support",
+      "classroom-support"
+    ],
+    "study_program": "Bachelor of Science, Business Administra=on",
+    "study_level": "bachelor",
+    "intent_confidence": 0.635,
+    "intent_strength": 0.785,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "Business Administration & Finance Student at University at Buffalo | Bilingual",
+    "summary_text": "Business Administration & Finance Student at University at Buffalo | Bilingual\nIdeal careers: Finance\n=== Alan Li - Resume.pdf ===\n“Alan Li\nBrooklyn, New York •  347-318-6012\nAlanli2070@gmail.com • h@ps://www.linkedin.com/in/alan-li-765556344/\nSophomore at the University at Buffa",
+    "study_text": "Bachelor of Science, Business Administra=on\nUNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK\nBachelor of Science, Business Administra=on\nMarkeUng\nGPA 3.3/4.00\n**University at Buffalo School of Management, SUNY** — Business Administration, Finance · 2024 – 2028\n---"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "finance": 64,
+      "technology": 11,
+      "education": 11
+    },
+    "study": {
+      "finance": 53,
+      "education": 29,
+      "sales": 3
+    },
+    "classifier": {
+      "finance": 51,
+      "arts-media": 12,
+      "education": 7
+    },
+    "onet": {
+      "education": 23,
+      "technology": 16,
+      "healthcare": 14
+    },
+    "embeddings": {
+      "administrative": 6,
+      "education": 6,
+      "building-grounds": 6
+    },
+    "experience": {
+      "education": 43,
+      "finance": 25,
+      "arts-media": 8
+    }
+  },
+  "candidate_functions": [
+    "finance",
+    "education"
+  ],
+  "subdomain": "",
+  "subdomain_confidence": 0.0,
+  "subdomain_alternatives": [],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "needs_review": false,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "finance",
+      "chosen_subdomain": "",
+      "secondary_function": "education",
+      "goal_domains": [
+        "finance"
+      ],
+      "study_domains": [
+        "finance"
+      ],
+      "goal_subdomains": [],
+      "study_subdomains": [],
+      "goal_roles": [],
+      "confidence": 0.85,
+      "evidence_spans": [
+        {
+          "section": "summary",
+          "text": "Sophomore at the University at Buffalo, majoring in Business Administration with a Concentration in Finance."
+        },
+        {
+          "section": "summary",
+          "text": "Ideal careers: Finance"
+        }
+      ],
+      "reason_codes": [
+        "explicit goal",
+        "education aligns"
+      ],
+      "review_reasons": []
+    },
+    "evidence": {
+      "accepted": true,
+      "scored_skills": [
+        "bilingual",
+        "chinese",
+        "data entry",
+        "inventory management",
+        "languages",
+        "management",
+        "spreadsheets",
+        "administrative",
+        "canva",
+        "clerical",
+        "css",
+        "databases",
+        "excel",
+        "html",
+        "javascript",
+        "sales and marketing",
+        "computers and electronics",
+        "mathematics",
+        "time management",
+        "critical thinking",
+        "active listening",
+        "coordination",
+        "instructing",
+        "customer and personal service",
+        "html css",
+        "powerpoint",
+        "data",
+        "finance",
+        "investment",
+        "operations",
+        "organizing",
+        "reports",
+        "technical skills",
+        "work study"
+      ],
+      "verified_skills": [
+        "bilingual",
+        "chinese",
+        "data entry",
+        "inventory management",
+        "languages",
+        "management",
+        "spreadsheets",
+        "administrative",
+        "canva",
+        "clerical",
+        "css",
+        "databases",
+        "excel",
+        "html",
+        "javascript",
+        "sales and marketing",
+        "computers and electronics",
+        "mathematics",
+        "time management",
+        "critical thinking",
+        "active listening",
+        "coordination",
+        "instructing",
+        "customer and personal service",
+        "html css",
+        "powerpoint",
+        "data",
+        "finance",
+        "investment",
+        "operations",
+        "organizing",
+        "reports",
+        "technical skills",
+        "work study"
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "access",
+        "administration",
+        "bachelor",
+        "basketball",
+        "business",
+        "business administration",
+        "cleanliness",
+        "clerical support",
+        "concentration",
+        "daily operations",
+        "distributes",
+        "efficiency",
+        "electronic",
+        "feedback",
+        "friendly",
+        "general administrative",
+        "instagram",
+        "interpersonal",
+        "mail",
+        "mail and packages",
+        "ms o",
+        "office",
+        "outgoing",
+        "physical",
+        "present",
+        "replenishes supplies",
+        "replenishing supplies",
+        "restaurant",
+        "science",
+        "service",
+        "spreadsheet",
+        "structure",
+        "tracks",
+        "trash",
+        "united states",
+        "volleyball",
+        "wait",
+        "wait times",
+        "wholesale"
+      ],
+      "implicit_skills": [
+        {
+          "skill": "customer service",
+          "reason": "Experience in administrative and clerical roles often involves customer interaction.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "teamwork",
+          "reason": "Leadership roles in sports and work study imply collaboration.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "attention to detail",
+          "reason": "Data entry and inventory management require precision.",
+          "confidence": "medium"
+        }
+      ],
+      "evidence_items": [],
+      "review_reasons": []
+    }
+  },
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

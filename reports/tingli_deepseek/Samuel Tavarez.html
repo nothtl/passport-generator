@@ -1,27 +1,38 @@
 <!doctype html><meta charset=utf-8><title>Samuel Tavarez — job matches</title>
 <style>
-body{font:15px/1.55 system-ui,Segoe UI,Arial;margin:2rem auto;max-width:900px;color:#1a1a1a;padding:0 1rem}
+body{font:15px/1.55 system-ui,Segoe UI,Arial;margin:2rem auto;max-width:950px;color:#1a1a1a;padding:0 1rem}
 h1{margin:0 0 .2rem} h2{margin:2rem 0 .6rem;font-size:1.15rem;border-bottom:1px solid #eee;padding-bottom:.3rem}
-h4{margin:.2rem 0 .3rem;font-size:.85rem;text-transform:uppercase;letter-spacing:.03em;color:#666}
-.job{border:1px solid #e3e3e3;border-radius:.6rem;padding:1rem;margin:.8rem 0}
+h3{font-size:.95rem;margin:1.5rem 0 .3rem;color:#333}
+h4{margin:.3rem 0;font-size:.82rem;text-transform:uppercase;letter-spacing:.03em;color:#666}
+.job{border:1px solid #e3e3e3;border-radius:.6rem;padding:1rem;margin:.7rem 0}
 .jobhead{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
 .rank{color:#999;font-weight:700;margin-right:.4rem}
 .title{font-weight:700} .company{color:#555;margin-left:.5rem}
 .apply{margin-left:.6rem;color:#1558d6;text-decoration:none;font-weight:600;white-space:nowrap}
-.cols{display:flex;gap:2rem;flex-wrap:wrap} .col{flex:1;min-width:220px}
+.cols{display:flex;gap:2rem;flex-wrap:wrap} .col{flex:1;min-width:200px}
 ul{margin:.2rem 0;padding-left:1.1rem} li{margin:.15rem 0}
 .sub{color:#888;font-size:.85rem}
-.badge{display:inline-block;padding:.15rem .5rem;border-radius:.25rem;font-size:.75rem;font-weight:600;margin-right:.3rem}
+.badge{display:inline-block;padding:.15rem .5rem;border-radius:.25rem;font-size:.73rem;font-weight:600;margin-right:.3rem}
 .badge-ready{background:#d4edda;color:#155724}
 .badge-aspire{background:#cce5ff;color:#004085}
+.badge-blocked{background:#f8d7da;color:#721c24}
 .skills{display:flex;flex-wrap:wrap;gap:.3rem;margin:.5rem 0}
 .skill-tag{background:#f0f0f0;padding:.2rem .5rem;border-radius:.25rem;font-size:.8rem}
+.skill-tag-implicit{background:#fff3cd;padding:.2rem .5rem;border-radius:.25rem;font-size:.8rem}
+.skill-tree{background:#f8f9fa;padding:1rem 1.2rem;border-radius:.5rem;font-size:.82rem;line-height:1.65;overflow-x:auto;border-left:3px solid #1558d6;margin:1rem 0}
+.step-list{counter-reset:step}
+.step-list li{counter-increment:step;margin:.5rem 0;list-style:none}
+.step-list li::before{content:counter(step);background:#1558d6;color:#fff;border-radius:50%;width:1.4rem;height:1.4rem;display:inline-flex;align-items:center;justify-content:center;font-size:.75rem;margin-right:.5rem;font-weight:700}
+.why{color:#2a662a;font-size:.85rem;margin:.3rem 0}
+#summary-box{background:#f0f7ff;border:1px solid #cce5ff;border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0}
+#summary-box b{color:#004085}
 </style>
 <h1>Samuel Tavarez</h1>
 <p class=sub>Career direction: <b>finance</b> · Confidence: 85%</p>
-<p class=sub style="color:#333;max-width:700px;"><b>Path:</b> You already have strong foundational skills in math, communication, and critical thinking. By adding accounting, AI, and financial reporting, you'll bridge directly to your dream career as a Financial Analyst, Accountant, or Finance Professional. Keep building step by step!</p>
-<h2>Skill Progression Tree</h2>
-<pre style="background:#f8f8f8;padding:1rem;border-radius:.5rem;font-size:.8rem;line-height:1.6;overflow-x:auto;">CURRENT SKILLS
+<div class=skills><span class=skill-tag>✓ Customer and Personal Service</span><span class=skill-tag>✓ Mathematics</span><span class=skill-tag>✓ Administrative</span><span class=skill-tag>✓ Coordination</span><span class=skill-tag>✓ Speaking</span><span class=skill-tag>✓ Instructing</span><span class=skill-tag>✓ Critical Thinking</span><span class=skill-tag>✓ Sales and Marketing</span><span class=skill-tag-implicit>~ Microsoft Office</span><span class=skill-tag-implicit>~ Data Analysis</span><span class=skill-tag-implicit>~ Presentation Skills</span></div>
+<div id=summary-box><b>Ideal careers:</b> Financial Analyst, Accountant, Finance Professional<br><span class=sub>You already have strong foundational skills in math, communication, and critical thinking. By adding accounting, AI, and financial reporting, you'll bridge directly to your dream career as a Financial Analyst, Accountant, or Finance Professional. Keep building step by step!</span></div>
+<h2>Skill Progression</h2>
+<pre class=skill-tree>CURRENT SKILLS
 ├── Customer and Personal Service
 ├── Mathematics
 ├── Administrative
@@ -54,46 +65,44 @@ DREAM CAREER
 ├── Financial Analyst
 ├── Accountant
 └── Finance Professional</pre>
-<h4>Action Steps</h4>
-<ol><li>Take a free online course on accounting fundamentals (e.g., Coursera's 'Introduction to Financial Accounting').</li><li>Learn basic AI and automation tools for finance (e.g., explore Microsoft Power Automate or AI in Excel).</li><li>Study economics principles through a short course (e.g., Khan Academy's Microeconomics).</li><li>Practice financial reporting by analyzing sample financial statements (e.g., from SEC EDGAR).</li><li>Build attention to detail by reconciling a mock bank statement using Excel.</li></ol>
-<div class=skills><span class=skill-tag>Customer and Personal Service</span><span class=skill-tag>Mathematics</span><span class=skill-tag>Administrative</span><span class=skill-tag>Coordination</span><span class=skill-tag>Speaking</span><span class=skill-tag>Instructing</span><span class=skill-tag>Critical Thinking</span><span class=skill-tag>Sales and Marketing</span><span class=skill-tag>Active Listening</span><span class=skill-tag>Time Management</span></div>
-<h2>Ready Now — jobs you can do today</h2>
+<ol class=step-list><li>Take a free online course on accounting fundamentals (e.g., Coursera's 'Introduction to Financial Accounting').</li><li>Learn basic AI and automation tools for finance (e.g., explore Microsoft Power Automate or AI in Excel).</li><li>Study economics principles through a short course (e.g., Khan Academy's Microeconomics).</li><li>Practice financial reporting by analyzing sample financial statements (e.g., from SEC EDGAR).</li><li>Build attention to detail by reconciling a mock bank statement using Excel.</li></ol>
+<h2>✓ Ready Now — jobs you can do today</h2>
 <div class=job>
 <div class=jobhead>
-<div><span class=rank>#1</span><span class=badge class=badge-ready>READY 88%</span><span class=title>Corporate Strategy and Development Associate</span><span class=company>weekday-1</span></div>
+<div><span class=rank>#1</span><span class="badge badge-ready">READY 88%</span><span class=title>Corporate Strategy and Development Associate</span><span class=company>weekday-1</span></div>
 <div><a class=apply href="https://apply.workable.com/j/A8C0478994" target=_blank rel=noopener>Apply →</a></div>
 </div>
-<p class=sub>This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
+<p class=why>💡 This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
 </div>
 <div class=job>
 <div class=jobhead>
-<div><span class=rank>#2</span><span class=badge class=badge-ready>READY 83%</span><span class=title>Finance Analyst, External Manufacturing</span><span class=company>AbbVie</span></div>
+<div><span class=rank>#2</span><span class="badge badge-ready">READY 83%</span><span class=title>Finance Analyst, External Manufacturing</span><span class=company>AbbVie</span></div>
 <div><a class=apply href="https://jobs.smartrecruiters.com/AbbVie/3743990013165696" target=_blank rel=noopener>Apply →</a></div>
 </div>
-<p class=sub>This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
+<p class=why>💡 This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
 </div>
-<h2>Work Toward — aspirational jobs</h2>
+<h2>🎯 Work Toward — your ideal career path</h2>
 <div class=job>
 <div class=jobhead>
-<div><span class=rank>#1</span><span class=badge class=badge-aspire>GOAL 72%</span><span class=title>Finance Intern</span><span class=company>solarvest</span></div>
+<div><span class=rank>#1</span><span class="badge badge-aspire">GOAL 72%</span><span class=title>Finance Intern</span><span class=company>solarvest</span></div>
 <div><a class=apply href="https://apply.workable.com/j/45719D45FC" target=_blank rel=noopener>Apply →</a></div>
 </div>
-<p class=sub>This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
+<p class=why>💡 This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
 </div>
 <div class=job>
 <div class=jobhead>
-<div><span class=rank>#2</span><span class=badge class=badge-aspire>GOAL 72%</span><span class=title>Finance and Equity Analyst</span><span class=company>carta</span></div>
+<div><span class=rank>#2</span><span class="badge badge-aspire">GOAL 72%</span><span class=title>Finance and Equity Analyst</span><span class=company>carta</span></div>
 <div><a class=apply href="https://job-boards.greenhouse.io/carta/jobs/7724718003" target=_blank rel=noopener>Apply →</a></div>
 </div>
-<p class=sub>This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
+<p class=why>💡 This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
 </div>
 <div class=job>
 <div class=jobhead>
-<div><span class=rank>#3</span><span class=badge class=badge-aspire>GOAL 72%</span><span class=title>Finance and Equity Analyst - Rotational Program</span><span class=company>carta</span></div>
+<div><span class=rank>#3</span><span class="badge badge-aspire">GOAL 72%</span><span class=title>Finance and Equity Analyst - Rotational Program</span><span class=company>carta</span></div>
 <div><a class=apply href="https://job-boards.greenhouse.io/carta/jobs/7143172003" target=_blank rel=noopener>Apply →</a></div>
 </div>
-<p class=sub>This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
+<p class=why>💡 This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.</p>
 </div>
-<h2>Skill Gaps</h2>
-<div class=cols><div class=col><h4>Core Gaps (build now)</h4><ul><li>accounting</li><li>ai</li><li>automation</li><li>economics</li><li>financial-reporting</li></ul></div><div class=col><h4>Stretch Gaps (future)</h4><ul><li>accounting-principles</li><li>analysis</li><li>attention-to-detail</li><li>bank-reconciliations</li><li>basic-accounting</li></ul></div></div>
+<h2>📋 Skill Gaps to Close</h2>
+<div class=cols><div class=col><h4>🔴 Core (build now)</h4><ul><li>accounting</li><li>ai</li><li>automation</li><li>economics</li><li>financial-reporting</li></ul></div><div class=col><h4>🟢 Stretch (future)</h4><ul><li>accounting-principles</li><li>analysis</li><li>attention-to-detail</li><li>bank-reconciliations</li><li>basic-accounting</li></ul></div></div>
 <p class=sub style="margin-top:2rem;">Generated by SpeakHire Recommender · rescue lane</p>

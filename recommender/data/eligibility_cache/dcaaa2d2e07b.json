@@ -1,0 +1,34 @@
+{
+  "Charlotte Lozier Institute Internship (Fall 2026)": {
+    "eligible": true,
+    "reason": "Internship, no age restriction indicated."
+  },
+  "Substitute - Walden School Program": {
+    "eligible": true,
+    "reason": "Substitute teacher role, suitable for young adults."
+  },
+  "Associate Dean of Students|||UncommonSchools": {
+    "eligible": false,
+    "reason": "Associate Dean typically requires advanced degree and experience, likely 21+."
+  },
+  "Youth Development Assistant": {
+    "eligible": true,
+    "reason": "Youth development assistant, suitable for young adults."
+  },
+  "Part-time Pre-kindergarten Teacher Aide": {
+    "eligible": true,
+    "reason": "Teacher aide, no age restriction."
+  },
+  "Engineering Co-Op - Industrial Equipment & Automation Division|||itw": {
+    "eligible": true,
+    "reason": "Engineering co-op, typically open to students 16+."
+  },
+  "Civil Graduate Engineer": {
+    "eligible": true,
+    "reason": "Civil graduate engineer, but entry-level may be open to recent grads 18+."
+  },
+  "SY 2026-2027 Teacher Assistant (Middle School)": {
+    "eligible": true,
+    "reason": "Teacher assistant, suitable for young adults."
+  }
+}

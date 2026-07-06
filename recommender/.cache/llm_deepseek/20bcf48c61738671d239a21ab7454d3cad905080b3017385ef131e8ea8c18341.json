@@ -1,0 +1,32 @@
+{
+  "accepted": true,
+  "chosen_function": "protective-service",
+  "chosen_subdomain": "",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Reliable and detail-oriented Security Professional with hands-on experience in luxury retail environments and customer-facing roles."
+    },
+    {
+      "section": "Professional Experience",
+      "text": "Maintained a visible security presence on the sales floor to deter theft and ensure customer and employee safety."
+    }
+  ],
+  "goal_domains": [
+    "protective-service"
+  ],
+  "goal_roles": [
+    "Police Officer",
+    "Security Professional"
+  ],
+  "goal_subdomains": [],
+  "reason_codes": [
+    "explicit goal",
+    "professional experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "sales",
+  "study_domains": [],
+  "study_subdomains": []
+}

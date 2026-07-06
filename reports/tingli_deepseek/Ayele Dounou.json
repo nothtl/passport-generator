@@ -87,12 +87,12 @@
     "cash",
     "cleanliness",
     "cleanup",
+    "client",
     "clients",
     "communicate",
+    "customer focused",
     "customers",
-    "diploma",
     "electronic",
-    "event staff",
     "excellent customer service",
     "exceptional customer service",
     "families",
@@ -102,7 +102,6 @@
     "flow",
     "food and beverage",
     "food safety standards",
-    "guest services",
     "guidance",
     "healthcare",
     "high quality service",
@@ -110,6 +109,7 @@
     "high school diploma",
     "host",
     "inquiries",
+    "lead",
     "leader",
     "leadership development",
     "management",
@@ -119,8 +119,18 @@
     "office",
     "operations",
     "orders",
+    "organized",
     "outreach",
-    "passionate"
+    "passionate",
+    "school",
+    "student",
+    "team",
+    "teamwork",
+    "time management",
+    "training",
+    "volunteer",
+    "work",
+    "worker"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -169,17 +179,17 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Roles like ambassador, event support, and catering imply collaboration with teams.",
+      "reason": "Working as event staff and in customer service roles typically requires collaboration with others.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple tasks like cash handling, customer service, and event setup suggests time management.",
+      "reason": "Handling multiple responsibilities like cashiering, catering, and event setup suggests effective time management.",
       "confidence": "medium"
     },
     {
       "skill": "problem-solving",
-      "reason": "Dealing with customer orders, inquiries, and event operations requires quick problem-solving.",
+      "reason": "Dealing with customer orders, inquiries, and event operations implies ability to resolve issues.",
       "confidence": "medium"
     }
   ],
@@ -335,7 +345,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
-        "study_alignment": 0.556,
+        "study_alignment": 0.429,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.28,
         "attainability": 0.75,
@@ -349,7 +359,7 @@
       "title": "Education Steward - AmeriCorps",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 84,
+      "fit": 87,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
@@ -357,7 +367,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.714,
-        "study_alignment": 0.556,
+        "study_alignment": 0.714,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.52,
         "attainability": 0.75,
@@ -371,7 +381,7 @@
       "title": "Leadership Institute Resident / Fall 2026",
       "company": "ChristsChurchOfTheValley",
       "url": "https://jobs.smartrecruiters.com/ChristsChurchOfTheValley/744000090448305",
-      "fit": 73,
+      "fit": 74,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
@@ -379,7 +389,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
-        "study_alignment": 0.222,
+        "study_alignment": 0.286,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.36,
         "attainability": 0.75,
@@ -393,7 +403,7 @@
       "title": "Graduate Assistant - Women’s Basketball",
       "company": "university-of-mount-saint-vincent",
       "url": "https://apply.workable.com/j/9ABAD56567",
-      "fit": 63,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
@@ -401,7 +411,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
-        "study_alignment": 0.444,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.44,
         "attainability": 0.75,
@@ -423,7 +433,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
-        "study_alignment": 0.444,
+        "study_alignment": 0.429,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.36,
         "attainability": 0.85,
@@ -447,7 +457,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
-        "study_alignment": 0.556,
+        "study_alignment": 0.429,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.28,
         "attainability": 0.75,
@@ -461,7 +471,7 @@
       "title": "Education Steward - AmeriCorps",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 84,
+      "fit": 87,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
@@ -469,7 +479,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.714,
-        "study_alignment": 0.556,
+        "study_alignment": 0.714,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.52,
         "attainability": 0.75,
@@ -485,7 +495,7 @@
       "title": "Leadership Institute Resident / Fall 2026",
       "company": "ChristsChurchOfTheValley",
       "url": "https://jobs.smartrecruiters.com/ChristsChurchOfTheValley/744000090448305",
-      "fit": 73,
+      "fit": 74,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
@@ -493,7 +503,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
-        "study_alignment": 0.222,
+        "study_alignment": 0.286,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.36,
         "attainability": 0.75,
@@ -507,7 +517,7 @@
       "title": "Graduate Assistant - Women’s Basketball",
       "company": "university-of-mount-saint-vincent",
       "url": "https://apply.workable.com/j/9ABAD56567",
-      "fit": 63,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
@@ -515,7 +525,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
-        "study_alignment": 0.444,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.44,
         "attainability": 0.75,
@@ -537,7 +547,7 @@
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
-        "study_alignment": 0.444,
+        "study_alignment": 0.429,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.36,
         "attainability": 0.85,
@@ -562,10 +572,10 @@
       "youth-support"
     ],
     "study_domains": [
-      "education"
+      "social-service"
     ],
     "study_subdomains": [
-      "community-education"
+      "youth-support"
     ],
     "study_program": "International Community High School — Bronx, NY",
     "study_level": "high-school",
@@ -615,7 +625,7 @@
     "education"
   ],
   "subdomain": "youth-support",
-  "subdomain_confidence": 0.72,
+  "subdomain_confidence": 0.75,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
@@ -637,18 +647,18 @@
         "social-service"
       ],
       "study_domains": [
-        "education"
+        "social-service"
       ],
       "goal_subdomains": [
         "youth-support"
       ],
       "study_subdomains": [
-        "community-education"
+        "youth-support"
       ],
       "goal_roles": [
         "Youth Ministry Leader"
       ],
-      "confidence": 0.7,
+      "confidence": 0.75,
       "evidence_spans": [
         {
           "section": "VOLUNTEER EXPERIENCE",
@@ -752,12 +762,12 @@
         "cash",
         "cleanliness",
         "cleanup",
+        "client",
         "clients",
         "communicate",
+        "customer focused",
         "customers",
-        "diploma",
         "electronic",
-        "event staff",
         "excellent customer service",
         "exceptional customer service",
         "families",
@@ -767,7 +777,6 @@
         "flow",
         "food and beverage",
         "food safety standards",
-        "guest services",
         "guidance",
         "healthcare",
         "high quality service",
@@ -775,6 +784,7 @@
         "high school diploma",
         "host",
         "inquiries",
+        "lead",
         "leader",
         "leadership development",
         "management",
@@ -784,23 +794,33 @@
         "office",
         "operations",
         "orders",
+        "organized",
         "outreach",
-        "passionate"
+        "passionate",
+        "school",
+        "student",
+        "team",
+        "teamwork",
+        "time management",
+        "training",
+        "volunteer",
+        "work",
+        "worker"
       ],
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Roles like ambassador, event support, and catering imply collaboration with teams.",
+          "reason": "Working as event staff and in customer service roles typically requires collaboration with others.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple tasks like cash handling, customer service, and event setup suggests time management.",
+          "reason": "Handling multiple responsibilities like cashiering, catering, and event setup suggests effective time management.",
           "confidence": "medium"
         },
         {
           "skill": "problem-solving",
-          "reason": "Dealing with customer orders, inquiries, and event operations requires quick problem-solving.",
+          "reason": "Dealing with customer orders, inquiries, and event operations implies ability to resolve issues.",
           "confidence": "medium"
         }
       ],

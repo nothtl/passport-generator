@@ -1,0 +1,39 @@
+{
+  "accepted": true,
+  "chosen_function": "education",
+  "chosen_subdomain": "classroom-support",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "experience",
+      "text": "Support teachers with classroom instruction and lesson preparation."
+    },
+    {
+      "section": "experience",
+      "text": "Provide one-on-one and small group assistance to students to enhance learning outcomes."
+    }
+  ],
+  "goal_domains": [
+    "education"
+  ],
+  "goal_roles": [
+    "Paraprofessional",
+    "Teacher"
+  ],
+  "goal_subdomains": [
+    "classroom-support"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "relevant_experience",
+    "education_alignment"
+  ],
+  "review_reasons": [],
+  "secondary_function": "social-service",
+  "study_domains": [
+    "social-service"
+  ],
+  "study_subdomains": [
+    "youth-support"
+  ]
+}

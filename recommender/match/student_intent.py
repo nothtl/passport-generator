@@ -44,6 +44,21 @@ _DOMAIN_KEYWORDS = {
     },
 }
 
+# Map degree majors to likely career functions
+_MAJOR_TO_FUNCTION: dict[str, str] = {
+    "psychology": "healthcare", "biology": "healthcare", "neuroscience": "healthcare",
+    "history": "education", "american studies": "education", "political science": "education",
+    "sociology": "social-service", "social work": "social-service",
+    "criminal justice": "social-service", "criminology": "legal",
+    "english": "arts-media", "communications": "arts-media", "journalism": "arts-media",
+    "computer science": "technology", "engineering": "technology",
+    "business": "finance", "accounting": "finance", "economics": "finance",
+    "nursing": "healthcare", "pre-med": "healthcare", "public health": "healthcare",
+    "education": "education", "teaching": "education",
+    "graphic design": "design", "fine arts": "arts-media", "art": "arts-media",
+    "marketing": "marketing",
+}
+
 _ROLE_KEYWORDS = {
     "teacher", "tutor", "mentor", "nurse", "physician", "engineer",
     "developer", "designer", "researcher", "assistant", "intern",
@@ -158,6 +173,11 @@ def build_student_intent_profile(
 
     goal_signal = _blend(_keyword_signal(summary_text), _classifier_signal(summary_text))
     study_signal = _blend(_keyword_signal(education_text), _classifier_signal(education_text))
+    # Boost study signal from major-to-function mapping
+    education_lower = education_text.lower()
+    for major, func in _MAJOR_TO_FUNCTION.items():
+        if major in education_lower:
+            study_signal[func] = study_signal.get(func, 0.0) + 0.25
     experience_signal = build_experience_signal(resume_text, combined_sections)
 
     goal_domains = [domain for domain, score in sorted(goal_signal.items(), key=lambda item: -item[1]) if score >= 0.12]

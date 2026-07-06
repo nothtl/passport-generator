@@ -207,24 +207,24 @@
     "workspace"
   ],
   "inferred": [
-    "Problem Solving",
-    "Multitasking",
-    "Attention to Detail"
+    "Customer Service",
+    "Bilingual Communication",
+    "Technical Support"
   ],
   "implicit_skills": [
     {
-      "skill": "Problem Solving",
-      "reason": "Troubleshooting and technical support imply problem-solving ability.",
+      "skill": "Customer Service",
+      "reason": "Mentioned 'customer service excellence' and 'service' multiple times.",
       "confidence": "medium"
     },
     {
-      "skill": "Multitasking",
-      "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+      "skill": "Bilingual Communication",
+      "reason": "Listed 'bilingual', 'spanish', 'english spanish', 'translation'.",
       "confidence": "medium"
     },
     {
-      "skill": "Attention to Detail",
-      "reason": "Organizational skills and administrative tasks require attention to detail.",
+      "skill": "Technical Support",
+      "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'.",
       "confidence": "medium"
     }
   ],
@@ -247,8 +247,8 @@
     "go-to-voip",
     "hardware-repair",
     "high-school-diploma",
-    "network",
-    "network-printers"
+    "multitasking",
+    "network"
   ],
   "nice_to_have_gaps": [
     "computer-literacy",
@@ -259,13 +259,10 @@
     "go-to-voip",
     "hardware-repair",
     "high-school-diploma",
-    "network",
-    "network-printers"
-  ],
-  "verify_gaps": [
     "multitasking",
-    "problem-solving"
+    "network"
   ],
+  "verify_gaps": [],
   "related": [],
   "related_skills": [],
   "alternatives": [
@@ -296,14 +293,14 @@
       "title": "IT Support Specialist - Mondays ONLY",
       "company": "itero-group",
       "url": "https://job-boards.greenhouse.io/itero-group/jobs/5265095008",
-      "fit": 84,
+      "fit": 82,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.625,
+        "goal_alignment": 0.556,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.615,
         "experience_alignment": 0.0,
@@ -313,20 +310,20 @@
       },
       "eligible": true,
       "eligibility_reason": "IT support role, no age restrictions.",
-      "bridge": "Your IT Support Specialist role will sharpen your troubleshooting and communication skills, which are directly transferable to software engineering. Mastering ticketing and documentation now builds the structured problem-solving habits essential for development."
+      "bridge": "Your IT Support Specialist role sharpens troubleshooting and documentation skills, which are directly transferable to software engineering by building a foundation in problem-solving and technical communication. Mastering end-user support and ticketing also hones your ability to understand user needs—a critical skill for developing accessible, user-focused software."
     },
     {
       "title": "Physical Therapy Technician",
       "company": "urpt",
       "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
-      "fit": 81,
+      "fit": 80,
       "job_type": "goal",
       "subdomain": "software",
       "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.375,
+        "goal_alignment": 0.333,
         "study_alignment": 0.222,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -336,42 +333,20 @@
       },
       "eligible": true,
       "eligibility_reason": "No age restriction for this role.",
-      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and documentation skills—directly transferable to IT roles where clear documentation and client interaction are key. Plus, your multitasking and teamwork experience will prepare you for the collaborative, fast-paced environment of software development."
-    },
-    {
-      "title": "IT SUPPORT SPECIALIST",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "it-support",
-      "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
-      "job_score_breakdown": {
-        "goal_alignment": 0.625,
-        "study_alignment": 0.111,
-        "subdomain_alignment": 0.605,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.375,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "IT support specialist, no age restrictions."
+      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and multitasking skills—all of which are directly transferable to software development and IT support, where clear documentation, teamwork, and troubleshooting are key. This role also builds your customer service and coordination abilities, which will help you excel in understanding user needs and collaborating on tech projects."
     },
     {
       "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
-      "fit": 67,
+      "fit": 68,
       "job_type": "goal",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.625,
+        "goal_alignment": 0.667,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.471,
         "experience_alignment": 0.0,
@@ -383,9 +358,9 @@
       "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
     },
     {
-      "title": "Information Technology Technician",
-      "company": "fng",
-      "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
+      "title": "IT SUPPORT SPECIALIST",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
       "fit": 66,
       "job_type": "goal",
       "subdomain": "it-support",
@@ -393,7 +368,29 @@
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.625,
+        "goal_alignment": 0.556,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.605,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.375,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "IT support specialist, no age restrictions."
+    },
+    {
+      "title": "Information Technology Technician",
+      "company": "fng",
+      "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
+      "fit": 64,
+      "job_type": "goal",
+      "subdomain": "it-support",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "documentation, help-desk",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.429,
         "experience_alignment": 0.0,
@@ -410,14 +407,14 @@
       "title": "IT Support Specialist - Mondays ONLY",
       "company": "itero-group",
       "url": "https://job-boards.greenhouse.io/itero-group/jobs/5265095008",
-      "fit": 84,
+      "fit": 82,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.625,
+        "goal_alignment": 0.556,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.615,
         "experience_alignment": 0.0,
@@ -427,20 +424,20 @@
       },
       "eligible": true,
       "eligibility_reason": "IT support role, no age restrictions.",
-      "bridge": "Your IT Support Specialist role will sharpen your troubleshooting and communication skills, which are directly transferable to software engineering. Mastering ticketing and documentation now builds the structured problem-solving habits essential for development."
+      "bridge": "Your IT Support Specialist role sharpens troubleshooting and documentation skills, which are directly transferable to software engineering by building a foundation in problem-solving and technical communication. Mastering end-user support and ticketing also hones your ability to understand user needs—a critical skill for developing accessible, user-focused software."
     },
     {
       "title": "Physical Therapy Technician",
       "company": "urpt",
       "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
-      "fit": 81,
+      "fit": 80,
       "job_type": "goal",
       "subdomain": "software",
       "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.375,
+        "goal_alignment": 0.333,
         "study_alignment": 0.222,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -450,44 +447,22 @@
       },
       "eligible": true,
       "eligibility_reason": "No age restriction for this role.",
-      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and documentation skills—directly transferable to IT roles where clear documentation and client interaction are key. Plus, your multitasking and teamwork experience will prepare you for the collaborative, fast-paced environment of software development."
+      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and multitasking skills—all of which are directly transferable to software development and IT support, where clear documentation, teamwork, and troubleshooting are key. This role also builds your customer service and coordination abilities, which will help you excel in understanding user needs and collaborating on tech projects."
     }
   ],
   "aspirational": [
     {
-      "title": "IT SUPPORT SPECIALIST",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "it-support",
-      "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
-      "job_score_breakdown": {
-        "goal_alignment": 0.625,
-        "study_alignment": 0.111,
-        "subdomain_alignment": 0.605,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.375,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "IT support specialist, no age restrictions."
-    },
-    {
       "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
-      "fit": 67,
+      "fit": 68,
       "job_type": "goal",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.625,
+        "goal_alignment": 0.667,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.471,
         "experience_alignment": 0.0,
@@ -499,9 +474,9 @@
       "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
     },
     {
-      "title": "Information Technology Technician",
-      "company": "fng",
-      "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
+      "title": "IT SUPPORT SPECIALIST",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
       "fit": 66,
       "job_type": "goal",
       "subdomain": "it-support",
@@ -509,7 +484,29 @@
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.625,
+        "goal_alignment": 0.556,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.605,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.375,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "IT support specialist, no age restrictions."
+    },
+    {
+      "title": "Information Technology Technician",
+      "company": "fng",
+      "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
+      "fit": 64,
+      "job_type": "goal",
+      "subdomain": "it-support",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "documentation, help-desk",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.429,
         "experience_alignment": 0.0,
@@ -521,17 +518,17 @@
       "eligibility_reason": "IT technician role, no age restrictions."
     }
   ],
-  "skill_path": "You already have a strong foundation in customer service, troubleshooting, and organization. By focusing on documentation and help-desk skills first, you'll quickly bridge into IT support and software development roles. Keep building step by step—your dream career is within reach!",
+  "skill_path": "You already have strong customer service, troubleshooting, and administrative skills—perfect for IT support. By building documentation and help-desk expertise, then expanding into computer literacy and developer tools, you'll be well on your way to becoming a Software Engineer or IT Support Specialist.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Troubleshooting\n├── Administrative\n├── Foreign Language\n├── Coordination\n├── Active Listening\n├── Time Management\n├── accessibility\n├── administrative\n├── administrative tasks\n├── Problem Solving (implicit)\n├── Multitasking (implicit)\n└── Attention to Detail (implicit)\n    ↓\nBRIDGE SKILLS\n├── documentation\n└── help-desk\n    ↓\nGOAL SKILLS\n├── computer-literacy\n├── desktop-support\n├── developer\n├── diagnostic-tools\n└── end-user-support\n    ↓\nCAREER\n├── Software Engineer\n├── IT Support Specialist\n└── Developer",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Troubleshooting\n├── Administrative\n├── Foreign Language\n├── Coordination\n├── Active Listening\n├── Time Management\n├── Accessibility\n├── Customer Service (implicit)\n├── Bilingual Communication (implicit)\n└── Technical Support (implicit)\n    ↓\nBRIDGE SKILLS\n├── Documentation\n└── Help-desk\n    ↓\nGOAL SKILLS\n├── Computer Literacy\n├── Desktop Support\n├── Developer\n├── Diagnostic Tools\n└── End-User Support\n    ↓\nDREAM CAREERS\n├── Software Engineer\n├── IT Support Specialist\n└── Developer",
     "steps": [
-      "Learn documentation basics: write clear instructions and ticket notes using free resources like Google's Technical Writing course.",
-      "Gain help-desk experience: volunteer for IT support at a local nonprofit or use a free help-desk simulation like Spiceworks.",
-      "Build computer literacy: take a free online course like 'Computer Basics' from GCFGlobal or Microsoft.",
-      "Explore desktop support: practice with virtual labs on platforms like TestOut or ITProTV (free trials).",
-      "Develop diagnostic skills: use free tools like Windows Event Viewer or Linux logs, and take a free CompTIA A+ prep course."
+      "Take a free online course on technical documentation (e.g., Google's Technical Writing course).",
+      "Practice help-desk scenarios using a free ticketing system like osTicket or Spiceworks.",
+      "Learn computer literacy basics: operating systems, file management, and networking fundamentals via YouTube or Coursera.",
+      "Explore diagnostic tools like Windows Event Viewer or Linux syslog through hands-on labs.",
+      "Start a beginner programming course in Python or JavaScript on Codecademy or freeCodeCamp."
     ],
-    "summary": "You already have a strong foundation in customer service, troubleshooting, and organization. By focusing on documentation and help-desk skills first, you'll quickly bridge into IT support and software development roles. Keep building step by step—your dream career is within reach!"
+    "summary": "You already have strong customer service, troubleshooting, and administrative skills—perfect for IT support. By building documentation and help-desk expertise, then expanding into computer literacy and developer tools, you'll be well on your way to becoming a Software Engineer or IT Support Specialist."
   },
   "ideal_careers": [
     "Software Engineer",
@@ -543,8 +540,9 @@
       "technology"
     ],
     "goal_roles": [
+      "Software Engineer",
       "IT Support Specialist",
-      "Software Engineer"
+      "Developer"
     ],
     "goal_subdomains": [
       "it-support",
@@ -600,7 +598,7 @@
     "healthcare"
   ],
   "subdomain": "it-support",
-  "subdomain_confidence": 0.72,
+  "subdomain_confidence": 0.85,
   "subdomain_alternatives": [
     "it-support",
     "engineering"
@@ -609,8 +607,8 @@
   "job_cluster": [
     "it-support",
     "software",
-    "it-support",
     "software",
+    "it-support",
     "it-support"
   ],
   "needs_review": true,
@@ -631,14 +629,13 @@
         "it-support",
         "software"
       ],
-      "study_subdomains": [
-        "classroom-support"
-      ],
+      "study_subdomains": [],
       "goal_roles": [
+        "Software Engineer",
         "IT Support Specialist",
-        "Software Engineer"
+        "Developer"
       ],
-      "confidence": 0.7,
+      "confidence": 0.85,
       "evidence_spans": [
         {
           "section": "Professional Experience",
@@ -655,7 +652,8 @@
       ],
       "reason_codes": [
         "explicit_goal",
-        "experience_tech"
+        "relevant_experience",
+        "skill_match"
       ],
       "review_reasons": []
     },
@@ -801,18 +799,18 @@
       ],
       "implicit_skills": [
         {
-          "skill": "Problem Solving",
-          "reason": "Troubleshooting and technical support imply problem-solving ability.",
+          "skill": "Customer Service",
+          "reason": "Mentioned 'customer service excellence' and 'service' multiple times.",
           "confidence": "medium"
         },
         {
-          "skill": "Multitasking",
-          "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+          "skill": "Bilingual Communication",
+          "reason": "Listed 'bilingual', 'spanish', 'english spanish', 'translation'.",
           "confidence": "medium"
         },
         {
-          "skill": "Attention to Detail",
-          "reason": "Organizational skills and administrative tasks require attention to detail.",
+          "skill": "Technical Support",
+          "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'.",
           "confidence": "medium"
         }
       ],

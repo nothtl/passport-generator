@@ -1,0 +1,42 @@
+{
+  "accepted": true,
+  "chosen_function": "social-service",
+  "chosen_subdomain": "youth-support",
+  "confidence": 0.7,
+  "evidence_spans": [
+    {
+      "section": "experience",
+      "text": "Provided Spanish-English interpretation and supported event planning."
+    },
+    {
+      "section": "experience",
+      "text": "Assisted with classroom activities, small group instruction, and student support."
+    }
+  ],
+  "goal_domains": [
+    "social-service",
+    "legal"
+  ],
+  "goal_roles": [
+    "community advocate",
+    "justice professional"
+  ],
+  "goal_subdomains": [
+    "youth-support",
+    "community-support"
+  ],
+  "reason_codes": [
+    "major in criminal justice",
+    "community advocacy experience",
+    "bilingual community advocate headline"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "social-service",
+    "legal"
+  ],
+  "study_subdomains": [
+    "youth-support"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "accepted": true,
+  "chosen_function": "arts-media",
+  "chosen_subdomain": "photo-video",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "education",
+      "text": "Bachelor of Fine Arts (B.F.A.), Art (Photography Focus)"
+    },
+    {
+      "section": "experience",
+      "text": "Photographer & Visual Artist \u2014 New York, NY"
+    }
+  ],
+  "goal_domains": [
+    "arts-media"
+  ],
+  "goal_roles": [
+    "Photographer",
+    "Model",
+    "Actor"
+  ],
+  "goal_subdomains": [
+    "photo-video"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "education_major",
+    "professional_experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "design",
+  "study_domains": [
+    "arts-media"
+  ],
+  "study_subdomains": [
+    "photo-video"
+  ]
+}

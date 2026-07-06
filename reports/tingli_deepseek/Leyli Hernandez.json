@@ -1,22 +1,20 @@
 {
   "resume": "=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED \nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142 \n\nLEYLI  HERNANDEZ \n\nABOUT ME \n\nMy name is Leyli Hernandez, 17 years old. I’ve grown up and lived in Queens and am very \npassionate about helping my community in any way, anytime. I am constantly assisting in \nany event which has allowed me to be very engaging towards others whenever I get the \nopportunity. I love to stay physically active and always have something to do. I am always \ndown to try new things and expand my horizons. \n\nVOLUNTEERING  HISTORY \n\n● \n\n● \n\nI spend most of the weekends or afterschool hours volunteering with Elmhurst \nCommunity Partnership(ECP) which is a non-profit organization that provides free \nsports clubs, social groups, community assistance, community events and other \nactivities. \nI am also the Co-Chair of the Executive Board of another non-profit company I work \nwith called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and \nColleges to help students work on their leadership skills, career paths, and connects \nthese students with professionals based on their career interests. I am also chair to \nthe Media committee, and work with planning our monthly events to help them run \nsmoother. \n\n \n \n \n \n \n \n \n\fSKILLS \n\nTeam Leadership (Experienced), Community Engagement (Experienced), Problem Solving \n(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public \nSpeaking (Experienced). \n\nEDUCATION \n\nHIGH SCHOOL \n\n40-11 28th St, Astoria, NY 11101  \n\nCurrently a Junior Student-Athlete at Academy of American Studies High \nSchool as I am part of the Varsity Girls Flag Football team  \n\nLANGUAGES \n\nEnglish (Native), Spanish (Highly proficient).",
   "function": "social-service",
-  "confidence": 61,
+  "confidence": 65,
   "skills": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
-    "Active Listening",
+    "Social Perceptiveness",
+    "Speaking",
     "Time Management",
-    "Public Safety and Security",
-    "Foreign Language",
-    "English Language",
+    "Active Listening",
     "community engagement",
-    "engagement",
     "leadership",
     "management",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
     "social media management",
@@ -25,18 +23,16 @@
   "verified_skills": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
-    "Active Listening",
+    "Social Perceptiveness",
+    "Speaking",
     "Time Management",
-    "Public Safety and Security",
-    "Foreign Language",
-    "English Language",
+    "Active Listening",
     "community engagement",
-    "engagement",
     "leadership",
     "management",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
     "social media management",
@@ -50,6 +46,7 @@
     "career paths",
     "community events",
     "ecp",
+    "engagement",
     "engaging",
     "flag football",
     "football",
@@ -66,7 +63,6 @@
     "non profit",
     "non profit organization",
     "organization",
-    "organized",
     "part",
     "passionate",
     "physically active",
@@ -75,6 +71,7 @@
     "schools",
     "social",
     "social media",
+    "spanish",
     "speaking",
     "sports",
     "student athlete",
@@ -86,42 +83,40 @@
   "market_relevant": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
-    "Active Listening",
+    "Social Perceptiveness",
+    "Speaking",
     "Time Management",
-    "Public Safety and Security",
-    "Foreign Language",
-    "English Language",
+    "Active Listening",
     "community engagement",
-    "engagement",
     "leadership",
     "management",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
     "social media management",
     "team leadership"
   ],
   "inferred": [
-    "Bilingual",
+    "Bilingual (Spanish)",
     "Event Planning",
-    "Athletic Coaching"
+    "Mentoring"
   ],
   "implicit_skills": [
     {
-      "skill": "Bilingual",
-      "reason": "Native Spanish and English Language indicate bilingual proficiency.",
+      "skill": "Bilingual (Spanish)",
+      "reason": "Mentioned 'native spanish' and 'spanish' in education context",
       "confidence": "medium"
     },
     {
       "skill": "Event Planning",
-      "reason": "Community engagement and community events suggest event planning skills.",
+      "reason": "Mentioned 'community events' and 'organized'",
       "confidence": "medium"
     },
     {
-      "skill": "Athletic Coaching",
-      "reason": "Flag football, football, sports, and student athlete imply coaching or sports leadership.",
+      "skill": "Mentoring",
+      "reason": "Mentioned 'student athlete' and 'team leadership'",
       "confidence": "medium"
     }
   ],
@@ -177,10 +172,6 @@
   ],
   "related": [
     {
-      "skill": "statequalificationcompliance",
-      "pmi": 3.75
-    },
-    {
       "skill": "privatelessons",
       "pmi": 3.4
     },
@@ -193,36 +184,36 @@
       "pmi": 3.2
     },
     {
-      "skill": "organizationalskills",
-      "pmi": 3.05
-    },
-    {
       "skill": "planning",
       "pmi": 3.02
-    },
-    {
-      "skill": "multitasking",
-      "pmi": 2.98
     },
     {
       "skill": "teamdevelopment",
       "pmi": 2.98
     },
     {
-      "skill": "safetyprotocols",
-      "pmi": 2.94
-    },
-    {
       "skill": "mentorship",
       "pmi": 2.92
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
     }
   ],
   "related_skills": [
     {
-      "skill": "statequalificationcompliance",
-      "pmi": 3.75
-    },
-    {
       "skill": "privatelessons",
       "pmi": 3.4
     },
@@ -235,42 +226,46 @@
       "pmi": 3.2
     },
     {
-      "skill": "organizationalskills",
-      "pmi": 3.05
-    },
-    {
       "skill": "planning",
       "pmi": 3.02
-    },
-    {
-      "skill": "multitasking",
-      "pmi": 2.98
     },
     {
       "skill": "teamdevelopment",
       "pmi": 2.98
     },
     {
-      "skill": "safetyprotocols",
-      "pmi": 2.94
-    },
-    {
       "skill": "mentorship",
       "pmi": 2.92
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
     }
   ],
   "alternatives": [
     {
-      "function": "arts-media",
-      "pct": 20
+      "function": "education",
+      "pct": 22
     },
     {
       "function": "social-service",
-      "pct": 10
+      "pct": 9
     },
     {
       "function": "legal",
-      "pct": 6
+      "pct": 5
     },
     {
       "function": "sales",
@@ -291,7 +286,7 @@
       "job_type": "bridge",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.222,
@@ -313,7 +308,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
@@ -335,7 +330,7 @@
       "job_type": "bridge",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -357,7 +352,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
@@ -379,7 +374,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
@@ -403,7 +398,7 @@
       "job_type": "bridge",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.222,
@@ -425,7 +420,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
@@ -449,7 +444,7 @@
       "job_type": "bridge",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -471,7 +466,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
@@ -493,7 +488,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Social Perceptiveness skills and moves you toward becoming a Social Worker.",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
       "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
@@ -508,17 +503,17 @@
       "eligibility_reason": "Madrichim staff, typical for teens."
     }
   ],
-  "skill_path": "You already have a strong foundation in communication, coordination, and community engagement. By building customer service, education, and history knowledge, you'll be well-equipped to pursue roles as a Social Worker, Community Organizer, or Youth Advocate.",
+  "skill_path": "You already have a strong foundation in coordination, communication, and community engagement. By building customer service, education, and history knowledge, you'll be well-equipped to become a Social Worker, Community Organizer, or Youth Advocate.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Coordination\n├── Communications and Media\n├── Social Perceptiveness\n├── Customer and Personal Service\n├── Active Listening\n├── Time Management\n├── Public Safety and Security\n├── Foreign Language\n├── English Language\n├── Community Engagement\n└── (Implicit) Bilingual, Event Planning, Athletic Coaching\n│\n▼\nBRIDGE SKILLS\n├── Archaeology\n├── Coaching\n├── Communication\n├── English\n└── Gardens\n│\n▼\nGOAL SKILLS\n├── Customer Service\n├── Education\n└── History\n│\n▼\nDREAM CAREERS\n├── Social Worker\n├── Community Organizer\n└── Youth Advocate",
+    "tree": "CURRENT SKILLS\n├── Coordination\n├── Communications and Media\n├── Customer and Personal Service\n├── Social Perceptiveness\n├── Speaking\n├── Time Management\n├── Active Listening\n├── Community Engagement\n├── Leadership\n├── Management\n├── Bilingual (Spanish)\n├── Event Planning\n└── Mentoring\n    ↓\nBRIDGE SKILLS\n├── Coaching\n├── Communication\n├── English\n├── Gardens\n├── Archaeology\n    ↓\nGOAL SKILLS\n├── Customer Service\n├── Education\n├── History\n├── Budgeting\n├── Camp Operations\n├── Classroom Support\n├── Curriculum Planning\n└── Event Participation\n    ↓\nDREAM CAREERS\n├── Social Worker\n├── Community Organizer\n└── Youth Advocate",
     "steps": [
-      "Take a free online course in Customer Service basics (e.g., Coursera's Customer Service Fundamentals).",
-      "Enroll in an introductory Education course at a local community college or via edX.",
-      "Read a book or take a short course on U.S. History or local community history to understand context.",
-      "Volunteer with a local youth organization to practice coaching and event planning.",
-      "Join a community garden project to apply gardening skills and network with community organizers."
+      "Take a free online course in customer service to strengthen client interaction skills.",
+      "Volunteer as a tutor or teaching assistant to gain education and classroom support experience.",
+      "Study local history through community archives or online resources to understand context.",
+      "Attend a workshop on budgeting and event planning to prepare for program management.",
+      "Shadow a social worker or community organizer to see how skills combine in practice."
     ],
-    "summary": "You already have a strong foundation in communication, coordination, and community engagement. By building customer service, education, and history knowledge, you'll be well-equipped to pursue roles as a Social Worker, Community Organizer, or Youth Advocate."
+    "summary": "You already have a strong foundation in coordination, communication, and community engagement. By building customer service, education, and history knowledge, you'll be well-equipped to become a Social Worker, Community Organizer, or Youth Advocate."
   },
   "ideal_careers": [
     "Social Worker",
@@ -546,8 +541,8 @@
     ],
     "study_program": "HIGH SCHOOL",
     "study_level": "high-school",
-    "intent_confidence": 0.537,
-    "intent_strength": 0.737,
+    "intent_confidence": 0.787,
+    "intent_strength": 0.987,
     "has_student_intent": true
   },
   "intent_summary": {
@@ -562,9 +557,9 @@
       "arts-media": 15
     },
     "study": {
-      "education": 54,
-      "logistics": 10,
-      "sales": 8
+      "education": 79,
+      "arts-media": 56,
+      "logistics": 10
     },
     "classifier": {
       "arts-media": 50,
@@ -588,10 +583,8 @@
     "education"
   ],
   "subdomain": "youth-support",
-  "subdomain_confidence": 0.85,
-  "subdomain_alternatives": [
-    "higher-ed-support"
-  ],
+  "subdomain_confidence": 1.0,
+  "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
     "youth-support",
@@ -632,12 +625,21 @@
         },
         {
           "section": "summary",
+          "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
+        },
+        {
+          "section": "summary",
+          "text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst Community Partnership(ECP) which is a non-profit organization that provides free sports clubs, social groups, community assistance, community events and other activities."
+        },
+        {
+          "section": "summary",
           "text": "I am also the Co-Chair of the Executive Board of another non-profit company I work with called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and Colleges to help students work on their leadership skills, career paths, and connects these students with professionals based on their career interests."
         }
       ],
       "reason_codes": [
         "explicit_goal",
-        "volunteer_experience"
+        "volunteer_experience",
+        "nonprofit_leadership"
       ],
       "review_reasons": []
     },
@@ -646,18 +648,16 @@
       "scored_skills": [
         "Coordination",
         "Communications and Media",
-        "Social Perceptiveness",
         "Customer and Personal Service",
-        "Active Listening",
+        "Social Perceptiveness",
+        "Speaking",
         "Time Management",
-        "Public Safety and Security",
-        "Foreign Language",
-        "English Language",
+        "Active Listening",
         "community engagement",
-        "engagement",
         "leadership",
         "management",
         "media management",
+        "organized",
         "problem solving",
         "public speaking",
         "social media management",
@@ -666,18 +666,16 @@
       "verified_skills": [
         "Coordination",
         "Communications and Media",
-        "Social Perceptiveness",
         "Customer and Personal Service",
-        "Active Listening",
+        "Social Perceptiveness",
+        "Speaking",
         "Time Management",
-        "Public Safety and Security",
-        "Foreign Language",
-        "English Language",
+        "Active Listening",
         "community engagement",
-        "engagement",
         "leadership",
         "management",
         "media management",
+        "organized",
         "problem solving",
         "public speaking",
         "social media management",
@@ -691,6 +689,7 @@
         "career paths",
         "community events",
         "ecp",
+        "engagement",
         "engaging",
         "flag football",
         "football",
@@ -707,7 +706,6 @@
         "non profit",
         "non profit organization",
         "organization",
-        "organized",
         "part",
         "passionate",
         "physically active",
@@ -716,6 +714,7 @@
         "schools",
         "social",
         "social media",
+        "spanish",
         "speaking",
         "sports",
         "student athlete",
@@ -725,18 +724,18 @@
       ],
       "implicit_skills": [
         {
-          "skill": "Bilingual",
-          "reason": "Native Spanish and English Language indicate bilingual proficiency.",
+          "skill": "Bilingual (Spanish)",
+          "reason": "Mentioned 'native spanish' and 'spanish' in education context",
           "confidence": "medium"
         },
         {
           "skill": "Event Planning",
-          "reason": "Community engagement and community events suggest event planning skills.",
+          "reason": "Mentioned 'community events' and 'organized'",
           "confidence": "medium"
         },
         {
-          "skill": "Athletic Coaching",
-          "reason": "Flag football, football, sports, and student athlete imply coaching or sports leadership.",
+          "skill": "Mentoring",
+          "reason": "Mentioned 'student athlete' and 'team leadership'",
           "confidence": "medium"
         }
       ],

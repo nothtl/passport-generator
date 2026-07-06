@@ -6,43 +6,53 @@
     "Customer and Personal Service",
     "Monitoring",
     "Public Safety and Security",
-    "Active Listening",
     "Service Orientation",
-    "Foreign Language",
-    "Coordination",
-    "Quality Control Analysis",
-    "Administrative",
     "Speaking",
-    "Access Control",
-    "Basic Computer Skills",
-    "Equipment Maintenance",
-    "Loss Prevention",
-    "Menu Knowledge",
-    "Microsoft Word",
-    "Professional Communication",
-    "Safety Standards",
-    "Sales"
+    "Active Listening",
+    "Coordination",
+    "Writing",
+    "access control",
+    "basic computer skills",
+    "cleanliness",
+    "compliance",
+    "customer service",
+    "equipment maintenance",
+    "french",
+    "guest satisfaction",
+    "loss prevention",
+    "menu knowledge",
+    "microsoft word",
+    "positive customer experience",
+    "professional communication",
+    "safety standards",
+    "sales",
+    "security procedures"
   ],
   "verified_skills": [
     "Customer and Personal Service",
     "Monitoring",
     "Public Safety and Security",
-    "Active Listening",
     "Service Orientation",
-    "Foreign Language",
-    "Coordination",
-    "Quality Control Analysis",
-    "Administrative",
     "Speaking",
-    "Access Control",
-    "Basic Computer Skills",
-    "Equipment Maintenance",
-    "Loss Prevention",
-    "Menu Knowledge",
-    "Microsoft Word",
-    "Professional Communication",
-    "Safety Standards",
-    "Sales"
+    "Active Listening",
+    "Coordination",
+    "Writing",
+    "access control",
+    "basic computer skills",
+    "cleanliness",
+    "compliance",
+    "customer service",
+    "equipment maintenance",
+    "french",
+    "guest satisfaction",
+    "loss prevention",
+    "menu knowledge",
+    "microsoft word",
+    "positive customer experience",
+    "professional communication",
+    "safety standards",
+    "sales",
+    "security procedures"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -54,26 +64,21 @@
     "business",
     "certifications",
     "checks",
-    "cleanliness",
     "cleanliness and safety",
     "cleanup",
     "communication",
-    "compliance",
     "computer",
     "computer skills",
     "control",
     "courses",
     "customer experience",
     "customer facing",
-    "customer service",
     "customers",
     "delivering",
     "detail",
     "detail oriented",
     "equipment",
     "fast paced",
-    "french",
-    "guest satisfaction",
     "hands on",
     "hands on experience",
     "high end retail",
@@ -81,11 +86,11 @@
     "luxury",
     "luxury retail",
     "maintenance",
+    "menu",
     "microsoft",
     "movement",
     "policy",
     "positive",
-    "positive customer experience",
     "prep",
     "prep work",
     "presence",
@@ -105,29 +110,35 @@
     "safety",
     "sales floor",
     "satisfaction",
-    "security"
+    "security",
+    "security presence"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Customer and Personal Service",
     "Monitoring",
     "Public Safety and Security",
-    "Active Listening",
     "Service Orientation",
-    "Foreign Language",
-    "Coordination",
-    "Quality Control Analysis",
-    "Administrative",
     "Speaking",
-    "Access Control",
-    "Basic Computer Skills",
-    "Equipment Maintenance",
-    "Loss Prevention",
-    "Menu Knowledge",
-    "Microsoft Word",
-    "Professional Communication",
-    "Safety Standards",
-    "Sales"
+    "Active Listening",
+    "Coordination",
+    "Writing",
+    "access control",
+    "basic computer skills",
+    "cleanliness",
+    "compliance",
+    "customer service",
+    "equipment maintenance",
+    "french",
+    "guest satisfaction",
+    "loss prevention",
+    "menu knowledge",
+    "microsoft word",
+    "positive customer experience",
+    "professional communication",
+    "safety standards",
+    "sales",
+    "security procedures"
   ],
   "inferred": [
     "Teamwork",
@@ -142,60 +153,50 @@
     },
     {
       "skill": "Time Management",
-      "reason": "Fast-paced environments and prep work imply ability to manage time effectively.",
+      "reason": "Fast-paced environment and prep work imply ability to manage time effectively.",
       "confidence": "medium"
     },
     {
       "skill": "Attention to Detail",
-      "reason": "Mention of detail-oriented and quality control suggests this skill.",
+      "reason": "Mention of cleanliness, safety standards, and compliance suggests attention to detail.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
     "risk-management",
-    "communication",
-    "customer-service",
-    "inventory-control",
-    "merchandise-security",
     "security"
   ],
   "core_gaps": [
     "risk-management",
-    "communication",
-    "customer-service",
-    "inventory-control",
-    "merchandise-security",
     "security"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "asset-protection",
-    "calendar-management",
-    "client-relationship-management",
-    "compliance",
+    "alarm-handling",
+    "audit",
+    "banking-products",
+    "bilingual-maybe",
+    "cash-handling",
+    "cctv-monitoring",
     "computer-skills",
-    "cpr",
-    "crm",
-    "customer-experience",
+    "crowd- and-shop-floor-awareness",
     "data-entry",
-    "emergency-response"
+    "financial-wellness"
   ],
   "nice_to_have_gaps": [
-    "asset-protection",
-    "calendar-management",
-    "client-relationship-management",
-    "compliance",
+    "alarm-handling",
+    "audit",
+    "banking-products",
+    "bilingual-maybe",
+    "cash-handling",
+    "cctv-monitoring",
     "computer-skills",
-    "cpr",
-    "crm",
-    "customer-experience",
+    "crowd- and-shop-floor-awareness",
     "data-entry",
-    "emergency-response"
+    "financial-wellness"
   ],
-  "verify_gaps": [
-    "teamwork"
-  ],
+  "verify_gaps": [],
   "related": [
     {
       "skill": "merchandisesecurity",
@@ -214,7 +215,19 @@
       "pmi": 2.9
     },
     {
+      "skill": "securityassessment",
+      "pmi": 2.38
+    },
+    {
+      "skill": "professionalskills",
+      "pmi": 2.38
+    },
+    {
       "skill": "threatdetection",
+      "pmi": 2.28
+    },
+    {
+      "skill": "consulting",
       "pmi": 2.28
     },
     {
@@ -222,20 +235,8 @@
       "pmi": 2.25
     },
     {
-      "skill": "multitasking",
-      "pmi": 1.99
-    },
-    {
-      "skill": "riskmanagement",
-      "pmi": 1.85
-    },
-    {
-      "skill": "cloudsecurity",
-      "pmi": 1.79
-    },
-    {
-      "skill": "loganalysis",
-      "pmi": 1.79
+      "skill": "governance",
+      "pmi": 2.05
     }
   ],
   "related_skills": [
@@ -256,7 +257,19 @@
       "pmi": 2.9
     },
     {
+      "skill": "securityassessment",
+      "pmi": 2.38
+    },
+    {
+      "skill": "professionalskills",
+      "pmi": 2.38
+    },
+    {
       "skill": "threatdetection",
+      "pmi": 2.28
+    },
+    {
+      "skill": "consulting",
       "pmi": 2.28
     },
     {
@@ -264,20 +277,8 @@
       "pmi": 2.25
     },
     {
-      "skill": "multitasking",
-      "pmi": 1.99
-    },
-    {
-      "skill": "riskmanagement",
-      "pmi": 1.85
-    },
-    {
-      "skill": "cloudsecurity",
-      "pmi": 1.79
-    },
-    {
-      "skill": "loganalysis",
-      "pmi": 1.79
+      "skill": "governance",
+      "pmi": 2.05
     }
   ],
   "alternatives": [
@@ -302,159 +303,159 @@
       "pct": 6
     }
   ],
-  "coach_notes": "For a protective-service path, focus first on risk-management, communication, customer-service. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a protective-service path, focus first on risk-management, security. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
+    {
+      "title": "Asset Protection Specialist - Part Time",
+      "company": "HMGroup",
+      "url": "https://jobs.smartrecruiters.com/HMGroup/744000124442970",
+      "fit": 66,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "protective-service",
+      "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
+      "gaps": "risk-management, security",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.4,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Asset protection, no age restriction."
+    },
     {
       "title": "Risk Associate - Kenwood Towne Centre",
       "company": "aritzia",
       "url": "https://aritzia.wd3.myworkdayjobs.com/job/Kenwood-OH-USA-Kenwood-Towne-Centre/Risk-Associate---Kenwood-Towne-Centre_R0020265",
-      "fit": 63,
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
       "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
+      "gaps": "risk-management, security",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
+        "attainability": 0.85,
+        "skill_overlap": 0.333,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Retail role, no age restriction."
-    },
-    {
-      "title": "Risk Associate - Walnut Street",
-      "company": "aritzia",
-      "url": "https://aritzia.wd3.myworkdayjobs.com/job/Philadelphia-PA-Walnut-Street/Risk-Associate---Walnut-Street_R0010348",
-      "fit": 63,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "protective-service",
-      "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Retail role, no age restriction."
-    },
-    {
-      "title": "STEP-Security Apprentice (Must be a Nisqually Tribal Member)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3011705",
-      "fit": 53,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "protective-service",
-      "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Security apprentice, no age restriction."
     },
     {
       "title": "Security Associate",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3377068",
-      "fit": 53,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
       "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
+      "gaps": "risk-management, security",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
+        "attainability": 0.85,
+        "skill_overlap": 0.333,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Security associate may be unarmed; no age restriction."
     },
     {
-      "title": "Sales Assistant",
-      "company": "AlphabeInsightInc",
-      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000117498137",
-      "fit": 50,
+      "title": "Membership Specialist",
+      "company": "ace",
+      "url": "https://ace.wd5.myworkdayjobs.com/job/Washington-MO/Membership-Specialist_JR202636979",
+      "fit": 54,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
+      "gaps": "risk-management, security",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
-        "study_alignment": 0.0,
+        "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.222,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Sales assistant, no age restriction."
+      "eligibility_reason": "Membership specialist, no age restriction."
+    },
+    {
+      "title": "Teller",
+      "company": "keybank",
+      "url": "https://keybank.wd5.myworkdayjobs.com/job/Castleton-NY/Teller_R-40399",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
+      "gaps": "risk-management, security",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.273,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Bank teller role, no age restriction beyond 16."
     }
   ],
   "ready_now": [
     {
-      "title": "Risk Associate - Kenwood Towne Centre",
-      "company": "aritzia",
-      "url": "https://aritzia.wd3.myworkdayjobs.com/job/Kenwood-OH-USA-Kenwood-Towne-Centre/Risk-Associate---Kenwood-Towne-Centre_R0020265",
-      "fit": 63,
+      "title": "Asset Protection Specialist - Part Time",
+      "company": "HMGroup",
+      "url": "https://jobs.smartrecruiters.com/HMGroup/744000124442970",
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
       "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
+      "gaps": "risk-management, security",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
+        "attainability": 0.85,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Retail role, no age restriction."
+      "eligibility_reason": "Asset protection, no age restriction."
     },
     {
-      "title": "Risk Associate - Walnut Street",
+      "title": "Risk Associate - Kenwood Towne Centre",
       "company": "aritzia",
-      "url": "https://aritzia.wd3.myworkdayjobs.com/job/Philadelphia-PA-Walnut-Street/Risk-Associate---Walnut-Street_R0010348",
-      "fit": 63,
+      "url": "https://aritzia.wd3.myworkdayjobs.com/job/Kenwood-OH-USA-Kenwood-Towne-Centre/Risk-Associate---Kenwood-Towne-Centre_R0020265",
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
       "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
+      "gaps": "risk-management, security",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "attainability": 0.85,
+        "skill_overlap": 0.333,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -463,83 +464,83 @@
   ],
   "aspirational": [
     {
-      "title": "STEP-Security Apprentice (Must be a Nisqually Tribal Member)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3011705",
-      "fit": 53,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "protective-service",
-      "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Security apprentice, no age restriction."
-    },
-    {
       "title": "Security Associate",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3377068",
-      "fit": 53,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
       "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
+      "gaps": "risk-management, security",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
+        "attainability": 0.85,
+        "skill_overlap": 0.333,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Security associate may be unarmed; no age restriction."
     },
     {
-      "title": "Sales Assistant",
-      "company": "AlphabeInsightInc",
-      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000117498137",
-      "fit": 50,
+      "title": "Membership Specialist",
+      "company": "ace",
+      "url": "https://ace.wd5.myworkdayjobs.com/job/Washington-MO/Membership-Specialist_JR202636979",
+      "fit": 54,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
-      "gaps": "risk-management, communication, customer-service",
+      "gaps": "risk-management, security",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
-        "study_alignment": 0.0,
+        "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.222,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Sales assistant, no age restriction."
+      "eligibility_reason": "Membership specialist, no age restriction."
+    },
+    {
+      "title": "Teller",
+      "company": "keybank",
+      "url": "https://keybank.wd5.myworkdayjobs.com/job/Castleton-NY/Teller_R-40399",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "This role builds your Customer and Personal Service, Monitoring, Public Safety and Security skills and moves you toward becoming a Police Officer.",
+      "gaps": "risk-management, security",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.273,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Bank teller role, no age restriction beyond 16."
     }
   ],
-  "skill_path": "You already have a strong foundation in public safety, service, and attention to detail. By building bridge skills like risk management and communication, you'll be well on your way to becoming a Police Officer or Security Professional. Keep pushing forward—your dream career is within reach!",
+  "skill_path": "You already have a strong foundation in customer service, monitoring, and public safety. By adding risk management and security skills, you'll be well on your way to becoming a Police Officer or Security Professional. Keep building step by step!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Monitoring\n├── Public Safety and Security\n├── Active Listening\n├── Service Orientation\n├── Foreign Language\n├── Coordination\n├── Quality Control Analysis\n├── Administrative\n├── Speaking\n├── Teamwork (implicit)\n├── Time Management (implicit)\n└── Attention to Detail (implicit)\n    ↓\nBRIDGE SKILLS\n├── Risk Management\n├── Communication\n├── Customer Service\n├── Inventory Control\n└── Merchandise Security\n    ↓\nGOAL SKILLS\n├── Asset Protection\n├── Calendar Management\n├── Client Relationship Management\n├── Compliance\n└── Computer Skills\n    ↓\nDREAM CAREER\n├── Police Officer\n└── Security Professional",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Monitoring\n├── Public Safety and Security\n├── Service Orientation\n├── Speaking\n├── Active Listening\n├── Coordination\n├── Writing\n├── Access Control\n├── Basic Computer Skills\n├── Teamwork (implicit)\n├── Time Management (implicit)\n└── Attention to Detail (implicit)\n    ↓\nBRIDGE SKILLS\n├── Risk Management\n└── Security\n    ↓\nGOAL SKILLS\n├── Alarm Handling\n├── Audit\n├── Banking Products\n├── Bilingual (maybe)\n└── Cash Handling\n    ↓\nCAREER GOALS\n├── Police Officer\n└── Security Professional",
     "steps": [
-      "Take a risk management fundamentals course (e.g., Coursera 'Risk Management for Security Professionals')",
-      "Enroll in a communication skills workshop (e.g., Toastmasters or 'Effective Communication for Law Enforcement')",
-      "Complete a customer service certification (e.g., NRF's Customer Service & Sales Certification)",
-      "Learn inventory control basics via a short online course (e.g., 'Inventory Management for Retail Security')",
-      "Gain hands-on experience in merchandise security through a part-time job or internship at a retail store"
+      "Enroll in a free online course on risk management (e.g., Coursera's 'Risk Management for Security Professionals').",
+      "Take a security fundamentals course (e.g., ASIS International's 'Security Principles' or a local community college class).",
+      "Practice alarm handling by volunteering or shadowing at a security company or police dispatch center.",
+      "Learn audit basics through a free online module (e.g., ISACA's 'Introduction to Auditing').",
+      "If interested in banking security, take a short course on banking products and cash handling procedures."
     ],
-    "summary": "You already have a strong foundation in public safety, service, and attention to detail. By building bridge skills like risk management and communication, you'll be well on your way to becoming a Police Officer or Security Professional. Keep pushing forward—your dream career is within reach!"
+    "summary": "You already have a strong foundation in customer service, monitoring, and public safety. By adding risk management and security skills, you'll be well on your way to becoming a Police Officer or Security Professional. Keep building step by step!"
   },
   "ideal_careers": [
     "Police Officer",
@@ -550,12 +551,12 @@
       "protective-service"
     ],
     "goal_roles": [
-      "Security Professional",
-      "Police Officer"
+      "Police Officer",
+      "Security Professional"
     ],
     "goal_subdomains": [],
     "study_domains": [
-      "protective-service"
+      "sales"
     ],
     "study_subdomains": [],
     "study_program": "Associate | 12/2020 – 08/2021",
@@ -623,14 +624,12 @@
       "goal_domains": [
         "protective-service"
       ],
-      "study_domains": [
-        "protective-service"
-      ],
+      "study_domains": [],
       "goal_subdomains": [],
       "study_subdomains": [],
       "goal_roles": [
-        "Security Professional",
-        "Police Officer"
+        "Police Officer",
+        "Security Professional"
       ],
       "confidence": 0.85,
       "evidence_spans": [
@@ -655,43 +654,53 @@
         "Customer and Personal Service",
         "Monitoring",
         "Public Safety and Security",
-        "Active Listening",
         "Service Orientation",
-        "Foreign Language",
-        "Coordination",
-        "Quality Control Analysis",
-        "Administrative",
         "Speaking",
-        "Access Control",
-        "Basic Computer Skills",
-        "Equipment Maintenance",
-        "Loss Prevention",
-        "Menu Knowledge",
-        "Microsoft Word",
-        "Professional Communication",
-        "Safety Standards",
-        "Sales"
+        "Active Listening",
+        "Coordination",
+        "Writing",
+        "access control",
+        "basic computer skills",
+        "cleanliness",
+        "compliance",
+        "customer service",
+        "equipment maintenance",
+        "french",
+        "guest satisfaction",
+        "loss prevention",
+        "menu knowledge",
+        "microsoft word",
+        "positive customer experience",
+        "professional communication",
+        "safety standards",
+        "sales",
+        "security procedures"
       ],
       "verified_skills": [
         "Customer and Personal Service",
         "Monitoring",
         "Public Safety and Security",
-        "Active Listening",
         "Service Orientation",
-        "Foreign Language",
-        "Coordination",
-        "Quality Control Analysis",
-        "Administrative",
         "Speaking",
-        "Access Control",
-        "Basic Computer Skills",
-        "Equipment Maintenance",
-        "Loss Prevention",
-        "Menu Knowledge",
-        "Microsoft Word",
-        "Professional Communication",
-        "Safety Standards",
-        "Sales"
+        "Active Listening",
+        "Coordination",
+        "Writing",
+        "access control",
+        "basic computer skills",
+        "cleanliness",
+        "compliance",
+        "customer service",
+        "equipment maintenance",
+        "french",
+        "guest satisfaction",
+        "loss prevention",
+        "menu knowledge",
+        "microsoft word",
+        "positive customer experience",
+        "professional communication",
+        "safety standards",
+        "sales",
+        "security procedures"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -703,26 +712,21 @@
         "business",
         "certifications",
         "checks",
-        "cleanliness",
         "cleanliness and safety",
         "cleanup",
         "communication",
-        "compliance",
         "computer",
         "computer skills",
         "control",
         "courses",
         "customer experience",
         "customer facing",
-        "customer service",
         "customers",
         "delivering",
         "detail",
         "detail oriented",
         "equipment",
         "fast paced",
-        "french",
-        "guest satisfaction",
         "hands on",
         "hands on experience",
         "high end retail",
@@ -730,11 +734,11 @@
         "luxury",
         "luxury retail",
         "maintenance",
+        "menu",
         "microsoft",
         "movement",
         "policy",
         "positive",
-        "positive customer experience",
         "prep",
         "prep work",
         "presence",
@@ -754,7 +758,8 @@
         "safety",
         "sales floor",
         "satisfaction",
-        "security"
+        "security",
+        "security presence"
       ],
       "implicit_skills": [
         {
@@ -764,12 +769,12 @@
         },
         {
           "skill": "Time Management",
-          "reason": "Fast-paced environments and prep work imply ability to manage time effectively.",
+          "reason": "Fast-paced environment and prep work imply ability to manage time effectively.",
           "confidence": "medium"
         },
         {
           "skill": "Attention to Detail",
-          "reason": "Mention of detail-oriented and quality control suggests this skill.",
+          "reason": "Mention of cleanliness, safety standards, and compliance suggests attention to detail.",
           "confidence": "medium"
         }
       ],

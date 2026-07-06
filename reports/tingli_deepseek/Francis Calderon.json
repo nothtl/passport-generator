@@ -4,27 +4,29 @@
   "confidence": 63,
   "skills": [
     "Instructing",
-    "Customer and Personal Service",
     "Fine Arts",
     "Service Orientation",
+    "Monitoring",
     "Coordination",
+    "Food Production",
+    "Customer and Personal Service",
     "Time Management",
-    "Active Listening",
+    "Active Learning",
     "Foreign Language",
-    "bilingual",
-    "typingskills"
+    "bilingual"
   ],
   "verified_skills": [
     "Instructing",
-    "Customer and Personal Service",
     "Fine Arts",
     "Service Orientation",
+    "Monitoring",
     "Coordination",
+    "Food Production",
+    "Customer and Personal Service",
     "Time Management",
-    "Active Listening",
+    "Active Learning",
     "Foreign Language",
-    "bilingual",
-    "typingskills"
+    "bilingual"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -37,40 +39,42 @@
     "high school",
     "meals",
     "paint",
-    "sitter"
+    "sitter",
+    "typingskills"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Instructing",
-    "Customer and Personal Service",
     "Fine Arts",
     "Service Orientation",
+    "Monitoring",
     "Coordination",
+    "Food Production",
+    "Customer and Personal Service",
     "Time Management",
-    "Active Listening",
+    "Active Learning",
     "Foreign Language",
-    "bilingual",
-    "typingskills"
+    "bilingual"
   ],
   "inferred": [
     "Multitasking",
-    "Responsibility",
-    "Creativity"
+    "Creativity",
+    "Responsibility"
   ],
   "implicit_skills": [
     {
       "skill": "Multitasking",
-      "reason": "Managing multiple activities like care, meals, and extracurriculars suggests multitasking ability.",
-      "confidence": "medium"
-    },
-    {
-      "skill": "Responsibility",
-      "reason": "Roles like sitter and care imply responsibility for others.",
+      "reason": "Managing multiple activities like care, meals, and games suggests multitasking ability.",
       "confidence": "medium"
     },
     {
       "skill": "Creativity",
-      "reason": "Activities like dance, paint, and games indicate creative skills.",
+      "reason": "Involvement in dance, paint, and exhibits indicates creative skills.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Responsibility",
+      "reason": "Roles like sitter and care imply responsibility and reliability.",
       "confidence": "medium"
     }
   ],
@@ -79,44 +83,40 @@
     "communication",
     "calendar-management",
     "logistics",
-    "customer-service",
-    "event-planning",
-    "on-site-support",
+    "microsoft-office",
     "organization"
   ],
   "core_gaps": [
     "communication",
     "calendar-management",
     "logistics",
-    "customer-service",
-    "event-planning",
-    "on-site-support",
+    "microsoft-office",
     "organization"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
+    "active-listening",
     "administrative-support",
-    "attention-to-detail",
+    "band-or-ensemble-support",
+    "basic-skills",
+    "budget-management",
+    "budgeting",
+    "bulletin-board-design",
+    "classroom-management",
     "content-management-system",
-    "data-entry",
-    "detail-orientation",
-    "driving",
-    "event-management",
-    "excel",
-    "fact-checking",
-    "microsoft-office"
+    "critical-thinking"
   ],
   "nice_to_have_gaps": [
+    "active-listening",
     "administrative-support",
-    "attention-to-detail",
+    "band-or-ensemble-support",
+    "basic-skills",
+    "budget-management",
+    "budgeting",
+    "bulletin-board-design",
+    "classroom-management",
     "content-management-system",
-    "data-entry",
-    "detail-orientation",
-    "driving",
-    "event-management",
-    "excel",
-    "fact-checking",
-    "microsoft-office"
+    "critical-thinking"
   ],
   "verify_gaps": [],
   "related": [
@@ -235,7 +235,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -250,14 +250,81 @@
       "eligibility_reason": "Internship, no age restriction."
     },
     {
+      "title": "Music Teacher Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4187915",
+      "fit": 78,
+      "job_type": "goal",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Music teacher intern role is suitable for 16-20 year olds.",
+      "bridge": "As a Music Teacher Intern, you're honing communication and coordination skills that are essential for directing photoshoots or managing content calendars, while lesson-planning and student-assessment build your ability to structure engaging narratives and analyze audience feedback—directly transferable to creating compelling media."
+    },
+    {
+      "title": "Event Coordinator",
+      "company": "AlphabeInsightInc",
+      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000060193331",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.25,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.5,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Event coordinator, no age restrictions."
+    },
+    {
+      "title": "Teacher Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1961384",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.25,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.5,
+        "attainability": 0.75,
+        "skill_overlap": 0.294,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teacher assistant role, no age restriction."
+    },
+    {
       "title": "Newsroom Assistant (UNION) - Content",
       "company": "gannett",
       "url": "https://jobs.dayforcehcm.com/gannett/CANDIDATEPORTAL/jobs/89382",
-      "fit": 58,
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -270,72 +337,6 @@
       },
       "eligible": true,
       "eligibility_reason": "Newsroom assistant role does not involve age-restricted activities."
-    },
-    {
-      "title": "Entertainment Coordinator ",
-      "company": "SpectrumRetirementCommunities",
-      "url": "https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990013122916",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "communication, calendar-management, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restrictions for this role."
-    },
-    {
-      "title": "Unpaid Assistant Wedding Coordinator Intern",
-      "company": "leigh-and-co",
-      "url": "https://apply.workable.com/j/108B6F7AFC",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "communication, calendar-management, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Unpaid intern, no age restriction."
-    },
-    {
-      "title": "New School New Books Presenter",
-      "company": "newschool",
-      "url": "https://newschool.wd1.myworkdayjobs.com/job/B---65-West-11th-Street/New-School-New-Books-Presenter_JR108748",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "communication, calendar-management, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Presenter role, no age restriction."
     }
   ],
   "ready_now": [
@@ -347,7 +348,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -362,14 +363,83 @@
       "eligibility_reason": "Internship, no age restriction."
     },
     {
+      "title": "Music Teacher Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4187915",
+      "fit": 78,
+      "job_type": "goal",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Music teacher intern role is suitable for 16-20 year olds.",
+      "bridge": "As a Music Teacher Intern, you're honing communication and coordination skills that are essential for directing photoshoots or managing content calendars, while lesson-planning and student-assessment build your ability to structure engaging narratives and analyze audience feedback—directly transferable to creating compelling media."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Event Coordinator",
+      "company": "AlphabeInsightInc",
+      "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000060193331",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.25,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.5,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Event coordinator, no age restrictions."
+    },
+    {
+      "title": "Teacher Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1961384",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.25,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.5,
+        "attainability": 0.75,
+        "skill_overlap": 0.294,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teacher assistant role, no age restriction."
+    },
+    {
       "title": "Newsroom Assistant (UNION) - Content",
       "company": "gannett",
       "url": "https://jobs.dayforcehcm.com/gannett/CANDIDATEPORTAL/jobs/89382",
-      "fit": 58,
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
+      "why": "This role builds your Instructing, Fine Arts, Service Orientation skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -384,85 +454,17 @@
       "eligibility_reason": "Newsroom assistant role does not involve age-restricted activities."
     }
   ],
-  "aspirational": [
-    {
-      "title": "Entertainment Coordinator ",
-      "company": "SpectrumRetirementCommunities",
-      "url": "https://jobs.smartrecruiters.com/SpectrumRetirementCommunities/3743990013122916",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "communication, calendar-management, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restrictions for this role."
-    },
-    {
-      "title": "Unpaid Assistant Wedding Coordinator Intern",
-      "company": "leigh-and-co",
-      "url": "https://apply.workable.com/j/108B6F7AFC",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "communication, calendar-management, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Unpaid intern, no age restriction."
-    },
-    {
-      "title": "New School New Books Presenter",
-      "company": "newschool",
-      "url": "https://newschool.wd1.myworkdayjobs.com/job/B---65-West-11th-Street/New-School-New-Books-Presenter_JR108748",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "communication, calendar-management, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Presenter role, no age restriction."
-    }
-  ],
-  "skill_path": "You already have a strong foundation in arts, service, and coordination. By building communication, planning, and technical skills, you'll be ready to create compelling content and manage media projects. Keep creating and learning—your dream career is within reach!",
+  "skill_path": "You already have a strong creative and people-oriented foundation. By building communication, organization, and digital tools skills, you'll be ready to shine as a Content Creator, Photographer, or Media Professional. Keep going—your dream career is within reach!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Instructing\n├── Customer and Personal Service\n├── Fine Arts\n├── Service Orientation\n├── Coordination\n├── Time Management\n├── Active Listening\n├── Foreign Language (bilingual)\n├── Typing Skills\n├── Multitasking (implicit)\n├── Responsibility (implicit)\n└── Creativity (implicit)\n    ↓\nBRIDGE SKILLS\n├── Communication\n├── Calendar Management\n├── Logistics\n├── Customer Service\n├── Event Planning\n    ↓\nGOAL SKILLS\n├── Administrative Support\n├── Attention to Detail\n├── Content Management System\n├── Data Entry\n└── Detail Orientation\n    ↓\nDREAM CAREER\n├── Content Creator\n├── Photographer\n└── Media Professional",
+    "tree": "CURRENT SKILLS\n├── Instructing\n├── Fine Arts\n├── Service Orientation\n├── Monitoring\n├── Coordination\n├── Food Production\n├── Customer and Personal Service\n├── Time Management\n├── Active Learning\n├── Foreign Language\n├── Multitasking (implicit)\n├── Creativity (implicit)\n└── Responsibility (implicit)\n    ↓\nBRIDGE SKILLS\n├── Communication\n├── Calendar Management\n├── Logistics\n├── Microsoft Office\n└── Organization\n    ↓\nGOAL SKILLS\n├── Active Listening\n├── Administrative Support\n├── Band or Ensemble Support\n├── Basic Skills\n└── Budget Management\n    ↓\nDREAM CAREERS\n├── Content Creator\n├── Photographer\n└── Media Professional",
     "steps": [
-      "Take a LinkedIn Learning course on Business Communication to strengthen communication skills.",
-      "Practice using Google Calendar or Trello for calendar management and logistics planning.",
-      "Volunteer to help organize a small event to gain event planning experience.",
-      "Create a portfolio website using a CMS like WordPress or Squarespace.",
-      "Apply for an entry-level administrative or content assistant role to build attention to detail and data entry skills."
+      "Start with a free LinkedIn Learning course on 'Communication Foundations' to build your core missing skill.",
+      "Practice calendar management by scheduling your week using Google Calendar; set reminders for deadlines.",
+      "Learn logistics basics by watching YouTube tutorials on event planning or supply chain fundamentals.",
+      "Take a free Microsoft Office course (e.g., from GCFGlobal) focusing on Excel and PowerPoint for organization.",
+      "Develop organization skills by using a task management app like Trello or Notion for your projects."
     ],
-    "summary": "You already have a strong foundation in arts, service, and coordination. By building communication, planning, and technical skills, you'll be ready to create compelling content and manage media projects. Keep creating and learning—your dream career is within reach!"
+    "summary": "You already have a strong creative and people-oriented foundation. By building communication, organization, and digital tools skills, you'll be ready to shine as a Content Creator, Photographer, or Media Professional. Keep going—your dream career is within reach!"
   },
   "ideal_careers": [
     "Content Creator",
@@ -482,7 +484,6 @@
       "content-creation"
     ],
     "study_domains": [
-      "finance",
       "arts-media"
     ],
     "study_subdomains": [
@@ -533,7 +534,7 @@
   },
   "candidate_functions": [
     "arts-media",
-    "design"
+    "education"
   ],
   "subdomain": "content-creation",
   "subdomain_confidence": 0.75,
@@ -543,8 +544,8 @@
   "lane_used": "rescue",
   "job_cluster": [
     "content-creation",
-    "content-creation",
-    "content-creation",
+    "graphic-design",
+    "graphic-design",
     "content-creation",
     "content-creation"
   ],
@@ -555,11 +556,13 @@
       "accepted": true,
       "chosen_function": "arts-media",
       "chosen_subdomain": "content-creation",
-      "secondary_function": "design",
+      "secondary_function": "education",
       "goal_domains": [
         "arts-media"
       ],
-      "study_domains": [],
+      "study_domains": [
+        "arts-media"
+      ],
       "goal_subdomains": [
         "content-creation"
       ],
@@ -569,7 +572,7 @@
         "Photographer",
         "Media Professional"
       ],
-      "confidence": 0.65,
+      "confidence": 0.7,
       "evidence_spans": [
         {
           "section": "summary",
@@ -577,11 +580,12 @@
         },
         {
           "section": "skills",
-          "text": "Graphicdesigning"
+          "text": "- Graphicdesigning"
         }
       ],
       "reason_codes": [
-        "explicit goal"
+        "explicit goal",
+        "skill match"
       ],
       "review_reasons": []
     },
@@ -589,27 +593,29 @@
       "accepted": true,
       "scored_skills": [
         "Instructing",
-        "Customer and Personal Service",
         "Fine Arts",
         "Service Orientation",
+        "Monitoring",
         "Coordination",
+        "Food Production",
+        "Customer and Personal Service",
         "Time Management",
-        "Active Listening",
+        "Active Learning",
         "Foreign Language",
-        "bilingual",
-        "typingskills"
+        "bilingual"
       ],
       "verified_skills": [
         "Instructing",
-        "Customer and Personal Service",
         "Fine Arts",
         "Service Orientation",
+        "Monitoring",
         "Coordination",
+        "Food Production",
+        "Customer and Personal Service",
         "Time Management",
-        "Active Listening",
+        "Active Learning",
         "Foreign Language",
-        "bilingual",
-        "typingskills"
+        "bilingual"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -622,22 +628,23 @@
         "high school",
         "meals",
         "paint",
-        "sitter"
+        "sitter",
+        "typingskills"
       ],
       "implicit_skills": [
         {
           "skill": "Multitasking",
-          "reason": "Managing multiple activities like care, meals, and extracurriculars suggests multitasking ability.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Responsibility",
-          "reason": "Roles like sitter and care imply responsibility for others.",
+          "reason": "Managing multiple activities like care, meals, and games suggests multitasking ability.",
           "confidence": "medium"
         },
         {
           "skill": "Creativity",
-          "reason": "Activities like dance, paint, and games indicate creative skills.",
+          "reason": "Involvement in dance, paint, and exhibits indicates creative skills.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Responsibility",
+          "reason": "Roles like sitter and care imply responsibility and reliability.",
           "confidence": "medium"
         }
       ],

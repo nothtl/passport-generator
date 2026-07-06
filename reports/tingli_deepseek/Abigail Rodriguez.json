@@ -7,8 +7,6 @@
     "bilingual",
     "bilingual spanish",
     "google suite",
-    "mentorship",
-    "outreach",
     "photoshop",
     "public speaking",
     "spanish",
@@ -21,10 +19,11 @@
     "database",
     "design",
     "digital",
+    "entrepreneurship",
     "graphic design",
     "mentoring",
-    "networking",
-    "organization",
+    "mentorship",
+    "outreach",
     "program",
     "projects"
   ],
@@ -33,8 +32,6 @@
     "bilingual",
     "bilingual spanish",
     "google suite",
-    "mentorship",
-    "outreach",
     "photoshop",
     "public speaking",
     "spanish",
@@ -47,16 +44,18 @@
     "database",
     "design",
     "digital",
+    "entrepreneurship",
     "graphic design",
     "mentoring",
-    "networking",
-    "organization",
+    "mentorship",
+    "outreach",
     "program",
     "projects"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "Writing, Communications and Media, Instructing, Coordination, Social Perceptiveness, Customer and Personal Service, Design, Computers and Electronics, Administrative, Speaking, Foreign Language, Active Listening, Time Management",
+    "active listening",
+    "administrative",
     "application process",
     "basketball",
     "behavior",
@@ -64,17 +63,23 @@
     "can",
     "christian",
     "church",
+    "communications and media",
     "community events",
+    "computers and electronics",
+    "coordination",
+    "critical thinking",
     "culture",
+    "customer and personal service",
     "delivery",
-    "entrepreneurship",
     "extracurricular activities",
     "families",
+    "foreign language",
     "google",
     "google maps",
     "grades",
     "high school",
     "home",
+    "instructing",
     "intake",
     "internship",
     "internship application",
@@ -82,21 +87,29 @@
     "kahoot",
     "local",
     "make",
+    "management of personnel resources",
     "manager",
     "maps",
+    "mentors",
     "meta",
     "music",
     "navigate",
+    "networking",
     "non profit",
     "non profit organization",
     "online ordering",
     "ordering",
+    "organization",
     "part",
     "platform",
     "platforms",
     "poetry",
     "present",
-    "programs"
+    "programs",
+    "sales and marketing",
+    "social perceptiveness",
+    "speaking",
+    "writing"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -104,8 +117,6 @@
     "bilingual",
     "bilingual spanish",
     "google suite",
-    "mentorship",
-    "outreach",
     "photoshop",
     "public speaking",
     "spanish",
@@ -118,17 +129,18 @@
     "database",
     "design",
     "digital",
+    "entrepreneurship",
     "graphic design",
     "mentoring",
-    "networking",
-    "organization",
+    "mentorship",
+    "outreach",
     "program",
     "projects"
   ],
   "inferred": [
     "teamwork",
-    "event planning",
-    "leadership"
+    "time management",
+    "problem solving"
   ],
   "implicit_skills": [
     {
@@ -137,20 +149,19 @@
       "confidence": "medium"
     },
     {
-      "skill": "event planning",
-      "reason": "Experience with community events and outreach suggests organizational skills for events.",
+      "skill": "time management",
+      "reason": "Balancing multiple roles (internship, leadership, education) suggests strong time management.",
       "confidence": "medium"
     },
     {
-      "skill": "leadership",
-      "reason": "Mentorship and coordination roles indicate leadership abilities.",
+      "skill": "problem solving",
+      "reason": "Experience with analysis and data indicates problem-solving ability.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
     "classroom-management",
-    "curriculum-delivery",
     "javascript",
     "kahoot",
     "python",
@@ -160,7 +171,6 @@
   ],
   "core_gaps": [
     "classroom-management",
-    "curriculum-delivery",
     "javascript",
     "kahoot",
     "python",
@@ -173,33 +183,29 @@
     "assessment",
     "assisted-instruction",
     "assistive-communication",
-    "bachelors",
-    "background-check",
     "braille",
-    "camp-operations",
-    "coaching",
     "coding",
-    "computer-science"
+    "communication",
+    "critical-thinking",
+    "curricula",
+    "curriculum-design",
+    "data-collection"
   ],
   "nice_to_have_gaps": [
     "assessment",
     "assisted-instruction",
     "assistive-communication",
-    "bachelors",
-    "background-check",
     "braille",
-    "camp-operations",
-    "coaching",
     "coding",
-    "computer-science"
+    "communication",
+    "critical-thinking",
+    "curricula",
+    "curriculum-design",
+    "data-collection"
   ],
   "verify_gaps": [],
   "related": [
     {
-      "skill": "cybersecurity",
-      "pmi": 5.83
-    },
-    {
       "skill": "googleclassroom",
       "pmi": 5.53
     },
@@ -234,14 +240,14 @@
     {
       "skill": "avmaaccredited",
       "pmi": 3.71
+    },
+    {
+      "skill": "classroominstruction",
+      "pmi": 3.48
     }
   ],
   "related_skills": [
     {
-      "skill": "cybersecurity",
-      "pmi": 5.83
-    },
-    {
       "skill": "googleclassroom",
       "pmi": 5.53
     },
@@ -276,6 +282,10 @@
     {
       "skill": "avmaaccredited",
       "pmi": 3.71
+    },
+    {
+      "skill": "classroominstruction",
+      "pmi": 3.48
     }
   ],
   "alternatives": [
@@ -300,8 +310,30 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on classroom-management, curriculum-delivery, javascript. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a education path, focus first on classroom-management, javascript, kahoot. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
+    {
+      "title": "Adjunct Faculty: Entrepreneurship 2026",
+      "company": "AugsburgUniversity-MinneapolisMN",
+      "url": "https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000095442236",
+      "fit": 83,
+      "job_type": "goal",
+      "subdomain": "higher-ed-support",
+      "function": "education",
+      "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, javascript, kahoot",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.048,
+        "experience_alignment": 0.286,
+        "attainability": 0.75,
+        "skill_overlap": 0.286,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Adjunct faculty, no age restriction."
+    },
     {
       "title": "Camp Instructor -Chicago",
       "company": "",
@@ -311,7 +343,7 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.667,
@@ -328,12 +360,12 @@
       "title": "Instructor - Los Angeles",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4036722",
-      "fit": 83,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.667,
@@ -355,7 +387,7 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
         "goal_alignment": 0.778,
         "study_alignment": 0.778,
@@ -369,52 +401,52 @@
       "eligibility_reason": "Paraeducator, no age restriction."
     },
     {
-      "title": "26-27 SY Teaching Jobs: Technology, Computer Science",
-      "company": "kreyco",
-      "url": "https://apply.workable.com/j/3B6AF790CD",
-      "fit": 58,
+      "title": "University Supervisor",
+      "company": "ucumberlands",
+      "url": "https://ucumberlands.wd1.myworkdayjobs.com/job/Remote-Locations/University-Supervisor_R1177-1",
+      "fit": 67,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.071,
-        "experience_alignment": 0.149,
-        "attainability": 0.65,
+        "goal_alignment": 0.556,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.207,
+        "experience_alignment": 0.119,
+        "attainability": 0.75,
         "skill_overlap": 0.1,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Teaching role, no age restriction."
-    },
-    {
-      "title": "Summer Instructor, Burien",
-      "company": "GalileoLearning",
-      "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000133700979",
-      "fit": 56,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.167,
-        "experience_alignment": 0.224,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Summer instructor for youth, no age restriction."
+      "eligibility_reason": "University supervisor roles are typically open to young adults as they involve overseeing student activities or academic support, not age-restricted tasks."
     }
   ],
   "ready_now": [
     {
+      "title": "Adjunct Faculty: Entrepreneurship 2026",
+      "company": "AugsburgUniversity-MinneapolisMN",
+      "url": "https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000095442236",
+      "fit": 83,
+      "job_type": "goal",
+      "subdomain": "higher-ed-support",
+      "function": "education",
+      "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, javascript, kahoot",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.048,
+        "experience_alignment": 0.286,
+        "attainability": 0.75,
+        "skill_overlap": 0.286,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Adjunct faculty, no age restriction."
+    },
+    {
       "title": "Camp Instructor -Chicago",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4001236",
@@ -423,7 +455,7 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.667,
@@ -435,17 +467,19 @@
       },
       "eligible": true,
       "eligibility_reason": "Camp instructor, no age restriction."
-    },
+    }
+  ],
+  "aspirational": [
     {
       "title": "Instructor - Los Angeles",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4036722",
-      "fit": 83,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.667,
@@ -457,9 +491,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Instructor, no age restriction."
-    }
-  ],
-  "aspirational": [
+    },
     {
       "title": "Paraeducator",
       "company": "",
@@ -469,7 +501,7 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
         "goal_alignment": 0.778,
         "study_alignment": 0.778,
@@ -483,61 +515,39 @@
       "eligibility_reason": "Paraeducator, no age restriction."
     },
     {
-      "title": "26-27 SY Teaching Jobs: Technology, Computer Science",
-      "company": "kreyco",
-      "url": "https://apply.workable.com/j/3B6AF790CD",
-      "fit": 58,
+      "title": "University Supervisor",
+      "company": "ucumberlands",
+      "url": "https://ucumberlands.wd1.myworkdayjobs.com/job/Remote-Locations/University-Supervisor_R1177-1",
+      "fit": 67,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "gaps": "classroom-management, javascript, kahoot",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.071,
-        "experience_alignment": 0.149,
-        "attainability": 0.65,
+        "goal_alignment": 0.556,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.207,
+        "experience_alignment": 0.119,
+        "attainability": 0.75,
         "skill_overlap": 0.1,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Teaching role, no age restriction."
-    },
-    {
-      "title": "Summer Instructor, Burien",
-      "company": "GalileoLearning",
-      "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000133700979",
-      "fit": 56,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your adobe, bilingual, bilingual spanish skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.167,
-        "experience_alignment": 0.224,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Summer instructor for youth, no age restriction."
+      "eligibility_reason": "University supervisor roles are typically open to young adults as they involve overseeing student activities or academic support, not age-restricted tasks."
     }
   ],
-  "skill_path": "You already have a strong foundation in communication, creativity, and bilingualism. By building classroom management, coding, and assessment skills, you'll unlock your dream careers in education and creative fields.",
+  "skill_path": "You already have a strong foundation in Adobe, bilingual skills, and public speaking—perfect for education and creative fields. By adding coding and classroom tech skills, you'll unlock paths to Graphic Design and Creative Professional roles. Keep building step by step!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── adobe\n├── bilingual (spanish)\n├── google suite\n├── mentorship\n├── outreach\n├── photoshop\n├── public speaking\n├── analysis\n├── teamwork (implicit)\n├── event planning (implicit)\n└── leadership (implicit)\n    ↓\nBRIDGE SKILLS\n├── classroom-management\n├── curriculum-delivery\n├── javascript\n├── kahoot\n└── python\n    ↓\nGOAL SKILLS\n├── assessment\n├── assisted-instruction\n├── assistive-communication\n├── bachelors\n└── background-check\n    ↓\nCAREERS\n├── Education\n├── Graphic Designer\n└── Creative Professional",
+    "tree": "CURRENT SKILLS\n├── Adobe\n├── Bilingual (Spanish)\n├── Google Suite\n├── Photoshop\n├── Public Speaking\n├── Analysis\n├── Community Outreach\n├── Computer\n├── Teamwork (implicit)\n├── Time Management (implicit)\n└── Problem Solving (implicit)\n    ↓\nBRIDGE SKILLS (Developing)\n├── Classroom Management\n├── JavaScript\n├── Kahoot\n├── Python\n├── Quizizz\n└── (Bridge skills are the immediate next steps)\n    ↓\nGOAL SKILLS (Future)\n├── Assessment\n├── Assisted Instruction\n├── Assistive Communication\n├── Braille\n└── Coding\n    ↓\nDREAM CAREERS\n├── Education\n├── Graphic Designer\n└── Creative Professional",
     "steps": [
-      "Take a free online course on classroom management (e.g., Coursera's 'Foundations of Teaching for Learning').",
-      "Learn JavaScript basics via freeCodeCamp's interactive curriculum.",
-      "Practice Python fundamentals with Codecademy's 'Learn Python 3' course.",
-      "Explore Kahoot! by creating a sample quiz for a subject you enjoy.",
-      "Enroll in a bachelor's degree program in Education or Graphic Design to formalize your skills."
+      "Take a free Codecademy Python course to start coding.",
+      "Practice classroom management by volunteering as a teaching assistant.",
+      "Learn JavaScript basics through interactive platforms like freeCodeCamp.",
+      "Explore Kahoot and Quizizz by creating sample quizzes for fun.",
+      "Build a portfolio project combining graphic design (Photoshop) with coding (HTML/CSS/JS)."
     ],
-    "summary": "You already have a strong foundation in communication, creativity, and bilingualism. By building classroom management, coding, and assessment skills, you'll unlock your dream careers in education and creative fields."
+    "summary": "You already have a strong foundation in Adobe, bilingual skills, and public speaking—perfect for education and creative fields. By adding coding and classroom tech skills, you'll unlock paths to Graphic Design and Creative Professional roles. Keep building step by step!"
   },
   "ideal_careers": [
     "education",
@@ -605,7 +615,7 @@
   },
   "candidate_functions": [
     "education",
-    "arts-media"
+    "social-service"
   ],
   "subdomain": "youth-programs",
   "subdomain_confidence": 0.85,
@@ -616,7 +626,7 @@
   ],
   "lane_used": "rescue",
   "job_cluster": [
-    "classroom-support",
+    "higher-ed-support",
     "classroom-support",
     "classroom-support",
     "classroom-support",
@@ -629,7 +639,7 @@
       "accepted": true,
       "chosen_function": "education",
       "chosen_subdomain": "youth-programs",
-      "secondary_function": "arts-media",
+      "secondary_function": "social-service",
       "goal_domains": [
         "education"
       ],
@@ -654,11 +664,16 @@
         {
           "section": "experience",
           "text": "Manages new intern and staff intake and actively mentors and socializes youth participants."
+        },
+        {
+          "section": "experience",
+          "text": "Teacher-run volunteer program matching upper grades with younger students for networking and mentoring."
         }
       ],
       "reason_codes": [
-        "explicit goal statement",
-        "mentoring experience"
+        "explicit goal",
+        "relevant experience",
+        "education major"
       ],
       "review_reasons": []
     },
@@ -669,8 +684,6 @@
         "bilingual",
         "bilingual spanish",
         "google suite",
-        "mentorship",
-        "outreach",
         "photoshop",
         "public speaking",
         "spanish",
@@ -683,10 +696,11 @@
         "database",
         "design",
         "digital",
+        "entrepreneurship",
         "graphic design",
         "mentoring",
-        "networking",
-        "organization",
+        "mentorship",
+        "outreach",
         "program",
         "projects"
       ],
@@ -695,8 +709,6 @@
         "bilingual",
         "bilingual spanish",
         "google suite",
-        "mentorship",
-        "outreach",
         "photoshop",
         "public speaking",
         "spanish",
@@ -709,16 +721,18 @@
         "database",
         "design",
         "digital",
+        "entrepreneurship",
         "graphic design",
         "mentoring",
-        "networking",
-        "organization",
+        "mentorship",
+        "outreach",
         "program",
         "projects"
       ],
       "possible_skills": [],
       "rejected_skills": [
-        "Writing, Communications and Media, Instructing, Coordination, Social Perceptiveness, Customer and Personal Service, Design, Computers and Electronics, Administrative, Speaking, Foreign Language, Active Listening, Time Management",
+        "active listening",
+        "administrative",
         "application process",
         "basketball",
         "behavior",
@@ -726,17 +740,23 @@
         "can",
         "christian",
         "church",
+        "communications and media",
         "community events",
+        "computers and electronics",
+        "coordination",
+        "critical thinking",
         "culture",
+        "customer and personal service",
         "delivery",
-        "entrepreneurship",
         "extracurricular activities",
         "families",
+        "foreign language",
         "google",
         "google maps",
         "grades",
         "high school",
         "home",
+        "instructing",
         "intake",
         "internship",
         "internship application",
@@ -744,21 +764,29 @@
         "kahoot",
         "local",
         "make",
+        "management of personnel resources",
         "manager",
         "maps",
+        "mentors",
         "meta",
         "music",
         "navigate",
+        "networking",
         "non profit",
         "non profit organization",
         "online ordering",
         "ordering",
+        "organization",
         "part",
         "platform",
         "platforms",
         "poetry",
         "present",
-        "programs"
+        "programs",
+        "sales and marketing",
+        "social perceptiveness",
+        "speaking",
+        "writing"
       ],
       "implicit_skills": [
         {
@@ -767,13 +795,13 @@
           "confidence": "medium"
         },
         {
-          "skill": "event planning",
-          "reason": "Experience with community events and outreach suggests organizational skills for events.",
+          "skill": "time management",
+          "reason": "Balancing multiple roles (internship, leadership, education) suggests strong time management.",
           "confidence": "medium"
         },
         {
-          "skill": "leadership",
-          "reason": "Mentorship and coordination roles indicate leadership abilities.",
+          "skill": "problem solving",
+          "reason": "Experience with analysis and data indicates problem-solving ability.",
           "confidence": "medium"
         }
       ],

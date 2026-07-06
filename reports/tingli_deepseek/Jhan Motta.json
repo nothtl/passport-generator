@@ -6,16 +6,17 @@
     "Fine Arts",
     "Communications and Media",
     "Coordination",
-    "Customer and Personal Service",
     "Time Management",
-    "Active Listening",
-    "Speaking",
-    "Writing",
+    "Customer and Personal Service",
     "Administrative",
+    "Active Listening",
+    "Critical Thinking",
+    "Design",
     "Sales and Marketing",
     "Adobe Illustrator",
     "Adobe Lightroom",
     "Adobe Photoshop",
+    "Art",
     "Art History",
     "Basic Video Editing",
     "Brand Storytelling",
@@ -24,31 +25,18 @@
     "Communication",
     "Composition",
     "Concept Development",
-    "Confident",
-    "Coordinating",
-    "Cosmetics",
-    "Costume Design",
     "Creative Problem Solving",
     "Creativity",
-    "Critiques",
-    "Deep Cleaning",
-    "Design",
+    "Costume Design",
     "Digital Design",
-    "Disinfecting",
-    "Dog Care",
-    "Dog Walking",
     "Editing Software",
     "Editorial",
     "Exhibitions",
     "Fashion",
     "Film",
     "Fluent English",
-    "Focus",
     "French",
-    "General Cleaning",
-    "Guidance",
     "Image Editing",
-    "Immigration",
     "Marketing",
     "Media",
     "Performance",
@@ -59,16 +47,17 @@
     "Fine Arts",
     "Communications and Media",
     "Coordination",
-    "Customer and Personal Service",
     "Time Management",
-    "Active Listening",
-    "Speaking",
-    "Writing",
+    "Customer and Personal Service",
     "Administrative",
+    "Active Listening",
+    "Critical Thinking",
+    "Design",
     "Sales and Marketing",
     "Adobe Illustrator",
     "Adobe Lightroom",
     "Adobe Photoshop",
+    "Art",
     "Art History",
     "Basic Video Editing",
     "Brand Storytelling",
@@ -77,31 +66,18 @@
     "Communication",
     "Composition",
     "Concept Development",
-    "Confident",
-    "Coordinating",
-    "Cosmetics",
-    "Costume Design",
     "Creative Problem Solving",
     "Creativity",
-    "Critiques",
-    "Deep Cleaning",
-    "Design",
+    "Costume Design",
     "Digital Design",
-    "Disinfecting",
-    "Dog Care",
-    "Dog Walking",
     "Editing Software",
     "Editorial",
     "Exhibitions",
     "Fashion",
     "Film",
     "Fluent English",
-    "Focus",
     "French",
-    "General Cleaning",
-    "Guidance",
     "Image Editing",
-    "Immigration",
     "Marketing",
     "Media",
     "Performance",
@@ -113,8 +89,6 @@
     "access",
     "adaptability",
     "administrative assistant",
-    "adobe",
-    "art",
     "awards",
     "bachelor",
     "body language",
@@ -127,11 +101,19 @@
     "career readiness",
     "caretaker",
     "clients",
-    "concentration",
+    "confident",
+    "coordinating",
+    "cosmetics",
     "coursework",
+    "creative",
+    "critiques",
     "culture",
+    "deep cleaning",
     "development",
     "digital",
+    "disinfecting",
+    "dog care",
+    "dog walking",
     "drama",
     "duration",
     "employment",
@@ -141,8 +123,12 @@
     "express",
     "families",
     "fitness",
+    "focus",
+    "general cleaning",
+    "guidance",
     "history",
     "home",
+    "immigration",
     "internship",
     "media studies"
   ],
@@ -151,16 +137,17 @@
     "Fine Arts",
     "Communications and Media",
     "Coordination",
-    "Customer and Personal Service",
     "Time Management",
-    "Active Listening",
-    "Speaking",
-    "Writing",
+    "Customer and Personal Service",
     "Administrative",
+    "Active Listening",
+    "Critical Thinking",
+    "Design",
     "Sales and Marketing",
     "Adobe Illustrator",
     "Adobe Lightroom",
     "Adobe Photoshop",
+    "Art",
     "Art History",
     "Basic Video Editing",
     "Brand Storytelling",
@@ -169,31 +156,18 @@
     "Communication",
     "Composition",
     "Concept Development",
-    "Confident",
-    "Coordinating",
-    "Cosmetics",
-    "Costume Design",
     "Creative Problem Solving",
     "Creativity",
-    "Critiques",
-    "Deep Cleaning",
-    "Design",
+    "Costume Design",
     "Digital Design",
-    "Disinfecting",
-    "Dog Care",
-    "Dog Walking",
     "Editing Software",
     "Editorial",
     "Exhibitions",
     "Fashion",
     "Film",
     "Fluent English",
-    "Focus",
     "French",
-    "General Cleaning",
-    "Guidance",
     "Image Editing",
-    "Immigration",
     "Marketing",
     "Media",
     "Performance",
@@ -201,72 +175,75 @@
     "Talent"
   ],
   "inferred": [
-    "Visual Design",
-    "Event Planning",
-    "Multilingual Communication"
+    "Project Management",
+    "Teamwork",
+    "Visual Communication"
   ],
   "implicit_skills": [
     {
-      "skill": "Visual Design",
-      "reason": "Skills in Adobe Creative Suite and art history suggest visual design ability.",
+      "skill": "Project Management",
+      "reason": "Coordination and time management imply project management skills.",
       "confidence": "medium"
     },
     {
-      "skill": "Event Planning",
-      "reason": "Coordination and exhibitions imply event planning skills.",
+      "skill": "Teamwork",
+      "reason": "Collaboration and client communication indicate teamwork.",
       "confidence": "medium"
     },
     {
-      "skill": "Multilingual Communication",
-      "reason": "Fluent English and French indicate bilingual communication skills.",
+      "skill": "Visual Communication",
+      "reason": "Design, composition, and digital design suggest visual communication skills.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "brand-identity",
-    "graphic-design",
-    "typography",
-    "print-design",
-    "adobe-creative-suite",
-    "illustrator",
-    "layout",
-    "photoshop"
+    "photoshop",
+    "lightroom",
+    "motion-graphics",
+    "photo-editing"
   ],
   "core_gaps": [
-    "brand-identity",
-    "graphic-design",
-    "typography",
-    "print-design",
-    "adobe-creative-suite",
-    "illustrator",
-    "layout",
-    "photoshop"
+    "photoshop",
+    "lightroom",
+    "motion-graphics",
+    "photo-editing"
   ],
-  "bridge_gaps": [],
+  "bridge_gaps": [
+    "adobe-creative-suite",
+    "after-effects",
+    "animation",
+    "dslr",
+    "illustrator",
+    "lighting",
+    "microsoft-office",
+    "mirrorless",
+    "photojournalism",
+    "premiere-pro"
+  ],
   "stretch_gaps": [
-    "ai-in-design",
-    "brand-consultation",
-    "brand-expression",
-    "branding",
-    "color-theory",
-    "content-creation",
-    "design-implementation",
-    "design-systems",
-    "indesign",
-    "layout-design"
+    "audiovisual",
+    "bim",
+    "captioning",
+    "construction-documents",
+    "documentation",
+    "drawing-updates",
+    "gallery-curation",
+    "ict",
+    "modeling",
+    "on-camera-flash"
   ],
   "nice_to_have_gaps": [
-    "ai-in-design",
-    "brand-consultation",
-    "brand-expression",
-    "branding",
-    "color-theory",
-    "content-creation",
-    "design-implementation",
-    "design-systems",
-    "indesign",
-    "layout-design"
+    "adobe-creative-suite",
+    "after-effects",
+    "animation",
+    "audiovisual",
+    "bim",
+    "captioning",
+    "construction-documents",
+    "documentation",
+    "drawing-updates",
+    "dslr"
   ],
   "verify_gaps": [],
   "related": [
@@ -295,10 +272,6 @@
       "pmi": 4.18
     },
     {
-      "skill": "editing",
-      "pmi": 4.06
-    },
-    {
       "skill": "modeling",
       "pmi": 3.89
     },
@@ -309,6 +282,10 @@
     {
       "skill": "nedgraphics",
       "pmi": 3.69
+    },
+    {
+      "skill": "salesgoals",
+      "pmi": 3.65
     }
   ],
   "related_skills": [
@@ -337,10 +314,6 @@
       "pmi": 4.18
     },
     {
-      "skill": "editing",
-      "pmi": 4.06
-    },
-    {
       "skill": "modeling",
       "pmi": 3.89
     },
@@ -351,266 +324,268 @@
     {
       "skill": "nedgraphics",
       "pmi": 3.69
+    },
+    {
+      "skill": "salesgoals",
+      "pmi": 3.65
     }
   ],
   "alternatives": [
     {
-      "function": "arts-media",
-      "pct": 24
+      "function": "design",
+      "pct": 25
     },
     {
       "function": "education",
-      "pct": 18
+      "pct": 19
     },
     {
       "function": "finance",
-      "pct": 4
+      "pct": 3
     },
     {
       "function": "technology",
-      "pct": 4
+      "pct": 3
     }
   ],
-  "coach_notes": "For a arts-media path, focus first on brand-identity, graphic-design, typography. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a arts-media path, focus first on photoshop, lightroom, motion-graphics. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Design Intern",
-      "company": "npca",
-      "url": "https://npca.hire.trakstar.com/jobs/fk0zpul/",
-      "fit": 88,
+      "title": "Photographer (Part-Time)",
+      "company": "majorleaguebaseball",
+      "url": "https://www.mlb.com/careers/opportunities?gh_jid=7958014",
+      "fit": 79,
       "job_type": "goal",
-      "subdomain": "graphic-design",
+      "subdomain": "photo-video",
       "function": "arts-media",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.833,
-        "subdomain_alignment": 0.938,
-        "experience_alignment": 0.338,
+        "goal_alignment": 0.25,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.667,
+        "experience_alignment": 0.333,
         "attainability": 0.75,
-        "skill_overlap": 0.133,
+        "skill_overlap": 0.222,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Design intern role, no age restrictions."
+      "eligibility_reason": "Part-time photographer, no age restrictions."
     },
     {
-      "title": "Graphic Designer KZ",
-      "company": "academyofdigitalindustries",
-      "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "design",
-      "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
-      "job_score_breakdown": {
-        "goal_alignment": 0.714,
-        "study_alignment": 0.833,
-        "subdomain_alignment": 0.5,
-        "experience_alignment": 0.3,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Graphic design, no age restrictions.",
-      "bridge": "As a Graphic Designer, you'll sharpen your brand-identity and digital-design skills, which directly translate to creating cohesive content for your aspirational role as a Content Creator. Additionally, mastering Adobe Creative Suite and layout design will enhance your photography portfolio with professional editing and composition techniques."
-    },
-    {
-      "title": "Junior Graphic Designer",
-      "company": "clayco",
-      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "design",
-      "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
-      "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.833,
-        "subdomain_alignment": 0.636,
-        "experience_alignment": 0.286,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Graphic design, no age restrictions."
-    },
-    {
-      "title": "Graphic Design Internship '26 - DAYBREAKER",
-      "company": "daybreaker",
-      "url": "https://apply.workable.com/j/74719A70D0",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
+      "title": "Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997593",
+      "fit": 73,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
       "function": "arts-media",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.609,
-        "experience_alignment": 0.375,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.519,
+        "experience_alignment": 0.6,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Graphic design internship, no age restrictions."
+      "eligibility_reason": "Photography intern role, no age restrictions."
     },
     {
-      "title": "Junior Communication Specialist and Brand Designer",
-      "company": "admindagency",
-      "url": "https://admindagency.recruitee.com/o/junior-communication-specialist-and-brand-designer-3",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
+      "title": "Videographer Intern T",
+      "company": "penumbrainc",
+      "url": "https://jobs.lever.co/penumbrainc/cc2b4093-9f2b-414b-9dde-a542f8c2bc37",
+      "fit": 63,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
       "function": "design",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.429,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.158,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.722,
+        "experience_alignment": 0.331,
         "attainability": 0.75,
-        "skill_overlap": 0.143,
+        "skill_overlap": 0.125,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Communication and design, no age restrictions."
+      "eligibility_reason": "Internship, no age restrictions."
+    },
+    {
+      "title": "Designer II - Security",
+      "company": "teecom",
+      "url": "https://jobs.lever.co/teecom/69a20044-f193-4609-b052-0f279e992440",
+      "fit": 53,
+      "job_type": "goal",
+      "subdomain": "photo-video",
+      "function": "arts-media",
+      "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
+      "gaps": "photoshop, lightroom, motion-graphics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.25,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.188,
+        "attainability": 0.75,
+        "skill_overlap": 0.062,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Designer role, no age restrictions."
+    },
+    {
+      "title": "Motion Graphic - Placement Padel Method",
+      "company": "biota-smart-home",
+      "url": "https://apply.workable.com/j/D20373384F",
+      "fit": 53,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "function": "arts-media",
+      "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
+      "gaps": "photoshop, lightroom, motion-graphics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.333,
+        "experience_alignment": 0.308,
+        "attainability": 0.65,
+        "skill_overlap": 0.077,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Motion graphic placement, no age restrictions."
     }
   ],
   "ready_now": [
     {
-      "title": "Design Intern",
-      "company": "npca",
-      "url": "https://npca.hire.trakstar.com/jobs/fk0zpul/",
-      "fit": 88,
+      "title": "Photographer (Part-Time)",
+      "company": "majorleaguebaseball",
+      "url": "https://www.mlb.com/careers/opportunities?gh_jid=7958014",
+      "fit": 79,
       "job_type": "goal",
-      "subdomain": "graphic-design",
+      "subdomain": "photo-video",
       "function": "arts-media",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.833,
-        "subdomain_alignment": 0.938,
-        "experience_alignment": 0.338,
+        "goal_alignment": 0.25,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.667,
+        "experience_alignment": 0.333,
         "attainability": 0.75,
-        "skill_overlap": 0.133,
+        "skill_overlap": 0.222,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Design intern role, no age restrictions."
+      "eligibility_reason": "Part-time photographer, no age restrictions."
     },
     {
-      "title": "Graphic Designer KZ",
-      "company": "academyofdigitalindustries",
-      "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "design",
+      "title": "Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997593",
+      "fit": 73,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "function": "arts-media",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.714,
-        "study_alignment": 0.833,
-        "subdomain_alignment": 0.5,
-        "experience_alignment": 0.3,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.519,
+        "experience_alignment": 0.6,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Graphic design, no age restrictions.",
-      "bridge": "As a Graphic Designer, you'll sharpen your brand-identity and digital-design skills, which directly translate to creating cohesive content for your aspirational role as a Content Creator. Additionally, mastering Adobe Creative Suite and layout design will enhance your photography portfolio with professional editing and composition techniques."
+      "eligibility_reason": "Photography intern role, no age restrictions."
     }
   ],
   "aspirational": [
     {
-      "title": "Junior Graphic Designer",
-      "company": "clayco",
-      "url": "https://jobs.crelate.com/portal/clayco/job/ef1e6trbbm5hqwwtdjquxcpxzy",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
+      "title": "Videographer Intern T",
+      "company": "penumbrainc",
+      "url": "https://jobs.lever.co/penumbrainc/cc2b4093-9f2b-414b-9dde-a542f8c2bc37",
+      "fit": 63,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
       "function": "design",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.833,
-        "subdomain_alignment": 0.636,
-        "experience_alignment": 0.286,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.722,
+        "experience_alignment": 0.331,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.125,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Graphic design, no age restrictions."
+      "eligibility_reason": "Internship, no age restrictions."
     },
     {
-      "title": "Graphic Design Internship '26 - DAYBREAKER",
-      "company": "daybreaker",
-      "url": "https://apply.workable.com/j/74719A70D0",
-      "fit": 80,
+      "title": "Designer II - Security",
+      "company": "teecom",
+      "url": "https://jobs.lever.co/teecom/69a20044-f193-4609-b052-0f279e992440",
+      "fit": 53,
       "job_type": "goal",
-      "subdomain": "graphic-design",
+      "subdomain": "photo-video",
       "function": "arts-media",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.609,
-        "experience_alignment": 0.375,
+        "goal_alignment": 0.25,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.188,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.062,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Graphic design internship, no age restrictions."
+      "eligibility_reason": "Designer role, no age restrictions."
     },
     {
-      "title": "Junior Communication Specialist and Brand Designer",
-      "company": "admindagency",
-      "url": "https://admindagency.recruitee.com/o/junior-communication-specialist-and-brand-designer-3",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "design",
+      "title": "Motion Graphic - Placement Padel Method",
+      "company": "biota-smart-home",
+      "url": "https://apply.workable.com/j/D20373384F",
+      "fit": 53,
+      "job_type": "bridge",
+      "subdomain": "photo-video",
+      "function": "arts-media",
       "why": "This role builds your Fine Arts, Communications and Media, Coordination skills and moves you toward becoming a Arts.",
-      "gaps": "brand-identity, graphic-design, typography",
+      "gaps": "photoshop, lightroom, motion-graphics",
       "job_score_breakdown": {
-        "goal_alignment": 0.429,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.158,
-        "attainability": 0.75,
-        "skill_overlap": 0.143,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.333,
+        "experience_alignment": 0.308,
+        "attainability": 0.65,
+        "skill_overlap": 0.077,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Communication and design, no age restrictions."
+      "eligibility_reason": "Motion graphic placement, no age restrictions."
     }
   ],
-  "skill_path": "You already have a strong foundation in arts and communication. By building bridge skills in design and branding, you'll unlock your dream career as a content creator or photographer. Keep creating and learning—you're on the right track!",
+  "skill_path": "You already have a strong foundation in fine arts, communication, and design. By bridging into Adobe Creative Suite and photography tools, you'll unlock the skills to become a versatile Content Creator and Photographer.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Fine Arts\n├── Communications and Media\n├── Coordination\n├── Customer and Personal Service\n├── Time Management\n├── Active Listening\n├── Speaking\n├── Writing\n├── Administrative\n├── Sales and Marketing\n├── Visual Design (implicit)\n├── Event Planning (implicit)\n└── Multilingual Communication (implicit)\n    ↓\nBRIDGE SKILLS\n├── Brand Identity\n├── Graphic Design\n├── Typography\n├── Print Design\n└── Adobe Creative Suite\n    ↓\nGOAL SKILLS\n├── AI in Design\n├── Brand Consultation\n├── Brand Expression\n├── Branding\n└── Color Theory\n    ↓\nDREAM CAREERS\n├── Arts\n├── Content Creator\n└── Photographer",
+    "tree": "CURRENT SKILLS\n├── Fine Arts\n├── Communications and Media\n├── Coordination\n├── Time Management\n├── Customer and Personal Service\n├── Administrative\n├── Active Listening\n├── Critical Thinking\n├── Design\n├── Sales and Marketing\n├── Project Management (implicit)\n├── Teamwork (implicit)\n└── Visual Communication (implicit)\n    ↓\nBRIDGE SKILLS\n├── Adobe Creative Suite\n│   ├── Photoshop\n│   ├── Lightroom\n│   ├── Illustrator\n│   └── After Effects\n├── Animation\n├── DSLR\n├── Motion Graphics\n└── Photo Editing\n    ↓\nGOAL SKILLS\n├── Audiovisual\n├── BIM\n├── Captioning\n├── Construction Documents\n└── Documentation\n    ↓\nDREAM CAREER\n├── Arts\n├── Content Creator\n└── Photographer",
     "steps": [
-      "Master Adobe Creative Suite (Photoshop, Illustrator, InDesign) via LinkedIn Learning or Skillshare courses.",
-      "Learn typography and print design fundamentals through online tutorials and practice projects.",
-      "Study brand identity and graphic design principles by analyzing successful brands and creating mock portfolios.",
-      "Develop color theory and branding skills by taking a specialized course (e.g., Coursera's 'Branding and Visual Design').",
-      "Explore AI in design tools (e.g., Adobe Firefly) and practice brand consultation by offering free services to small businesses."
+      "Master Photoshop and Lightroom through online tutorials (e.g., Adobe's free courses).",
+      "Learn DSLR basics and practice photo editing with real projects.",
+      "Explore motion graphics and After Effects for dynamic content creation.",
+      "Develop Illustrator skills for graphic design and visual branding.",
+      "Build a portfolio showcasing your work across photography, design, and content creation."
     ],
-    "summary": "You already have a strong foundation in arts and communication. By building bridge skills in design and branding, you'll unlock your dream career as a content creator or photographer. Keep creating and learning—you're on the right track!"
+    "summary": "You already have a strong foundation in fine arts, communication, and design. By bridging into Adobe Creative Suite and photography tools, you'll unlock the skills to become a versatile Content Creator and Photographer."
   },
   "ideal_careers": [
     "Arts",
@@ -619,29 +594,26 @@
   ],
   "student_intent": {
     "goal_domains": [
-      "arts-media",
-      "design"
+      "arts-media"
     ],
     "goal_roles": [
       "Photographer",
-      "Content Creator"
+      "Model",
+      "Actor"
     ],
     "goal_subdomains": [
-      "photo-video",
-      "content-creation"
+      "photo-video"
     ],
     "study_domains": [
-      "arts-media",
-      "design"
+      "arts-media"
     ],
     "study_subdomains": [
-      "photo-video",
-      "graphic-design"
+      "photo-video"
     ],
     "study_program": "Bachelor of Fine Arts (B.F.A.), Art (Photography Focus)                                                               Expected Graduation: 2028",
     "study_level": "bachelor",
-    "intent_confidence": 0.565,
-    "intent_strength": 0.765,
+    "intent_confidence": 0.794,
+    "intent_strength": 0.994,
     "has_student_intent": true
   },
   "intent_summary": {
@@ -656,9 +628,9 @@
       "design": 10
     },
     "study": {
+      "arts-media": 79,
       "design": 56,
-      "arts-media": 29,
-      "finance": 4
+      "education": 26
     },
     "classifier": {
       "arts-media": 40,
@@ -694,11 +666,11 @@
   ],
   "lane_used": "rescue",
   "job_cluster": [
-    "graphic-design",
-    "content-creation",
-    "graphic-design",
-    "graphic-design",
-    "graphic-design"
+    "photo-video",
+    "photo-video",
+    "photo-video",
+    "photo-video",
+    "photo-video"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -709,40 +681,37 @@
       "chosen_subdomain": "photo-video",
       "secondary_function": "design",
       "goal_domains": [
-        "arts-media",
-        "design"
+        "arts-media"
       ],
       "study_domains": [
-        "arts-media",
-        "design"
+        "arts-media"
       ],
       "goal_subdomains": [
-        "photo-video",
-        "content-creation"
+        "photo-video"
       ],
       "study_subdomains": [
-        "photo-video",
-        "graphic-design"
+        "photo-video"
       ],
       "goal_roles": [
         "Photographer",
-        "Content Creator"
+        "Model",
+        "Actor"
       ],
       "confidence": 0.85,
       "evidence_spans": [
         {
-          "section": "summary",
-          "text": "Since I was a kid I have been passionate about art expression and the impact that art has in the world and the changes you can create with it."
+          "section": "education",
+          "text": "Bachelor of Fine Arts (B.F.A.), Art (Photography Focus)"
         },
         {
           "section": "experience",
-          "text": "Photographer & Visual Artist — New York, NY                                                                                                      2026 – Present\nDevelop conceptual photography projects exploring identity, emotion, and contemporary social themes"
+          "text": "Photographer & Visual Artist — New York, NY"
         }
       ],
       "reason_codes": [
         "explicit_goal",
-        "study_alignment",
-        "experience_alignment"
+        "education_major",
+        "professional_experience"
       ],
       "review_reasons": []
     },
@@ -752,16 +721,17 @@
         "Fine Arts",
         "Communications and Media",
         "Coordination",
-        "Customer and Personal Service",
         "Time Management",
-        "Active Listening",
-        "Speaking",
-        "Writing",
+        "Customer and Personal Service",
         "Administrative",
+        "Active Listening",
+        "Critical Thinking",
+        "Design",
         "Sales and Marketing",
         "Adobe Illustrator",
         "Adobe Lightroom",
         "Adobe Photoshop",
+        "Art",
         "Art History",
         "Basic Video Editing",
         "Brand Storytelling",
@@ -770,31 +740,18 @@
         "Communication",
         "Composition",
         "Concept Development",
-        "Confident",
-        "Coordinating",
-        "Cosmetics",
-        "Costume Design",
         "Creative Problem Solving",
         "Creativity",
-        "Critiques",
-        "Deep Cleaning",
-        "Design",
+        "Costume Design",
         "Digital Design",
-        "Disinfecting",
-        "Dog Care",
-        "Dog Walking",
         "Editing Software",
         "Editorial",
         "Exhibitions",
         "Fashion",
         "Film",
         "Fluent English",
-        "Focus",
         "French",
-        "General Cleaning",
-        "Guidance",
         "Image Editing",
-        "Immigration",
         "Marketing",
         "Media",
         "Performance",
@@ -805,16 +762,17 @@
         "Fine Arts",
         "Communications and Media",
         "Coordination",
-        "Customer and Personal Service",
         "Time Management",
-        "Active Listening",
-        "Speaking",
-        "Writing",
+        "Customer and Personal Service",
         "Administrative",
+        "Active Listening",
+        "Critical Thinking",
+        "Design",
         "Sales and Marketing",
         "Adobe Illustrator",
         "Adobe Lightroom",
         "Adobe Photoshop",
+        "Art",
         "Art History",
         "Basic Video Editing",
         "Brand Storytelling",
@@ -823,31 +781,18 @@
         "Communication",
         "Composition",
         "Concept Development",
-        "Confident",
-        "Coordinating",
-        "Cosmetics",
-        "Costume Design",
         "Creative Problem Solving",
         "Creativity",
-        "Critiques",
-        "Deep Cleaning",
-        "Design",
+        "Costume Design",
         "Digital Design",
-        "Disinfecting",
-        "Dog Care",
-        "Dog Walking",
         "Editing Software",
         "Editorial",
         "Exhibitions",
         "Fashion",
         "Film",
         "Fluent English",
-        "Focus",
         "French",
-        "General Cleaning",
-        "Guidance",
         "Image Editing",
-        "Immigration",
         "Marketing",
         "Media",
         "Performance",
@@ -859,8 +804,6 @@
         "access",
         "adaptability",
         "administrative assistant",
-        "adobe",
-        "art",
         "awards",
         "bachelor",
         "body language",
@@ -873,11 +816,19 @@
         "career readiness",
         "caretaker",
         "clients",
-        "concentration",
+        "confident",
+        "coordinating",
+        "cosmetics",
         "coursework",
+        "creative",
+        "critiques",
         "culture",
+        "deep cleaning",
         "development",
         "digital",
+        "disinfecting",
+        "dog care",
+        "dog walking",
         "drama",
         "duration",
         "employment",
@@ -887,25 +838,29 @@
         "express",
         "families",
         "fitness",
+        "focus",
+        "general cleaning",
+        "guidance",
         "history",
         "home",
+        "immigration",
         "internship",
         "media studies"
       ],
       "implicit_skills": [
         {
-          "skill": "Visual Design",
-          "reason": "Skills in Adobe Creative Suite and art history suggest visual design ability.",
+          "skill": "Project Management",
+          "reason": "Coordination and time management imply project management skills.",
           "confidence": "medium"
         },
         {
-          "skill": "Event Planning",
-          "reason": "Coordination and exhibitions imply event planning skills.",
+          "skill": "Teamwork",
+          "reason": "Collaboration and client communication indicate teamwork.",
           "confidence": "medium"
         },
         {
-          "skill": "Multilingual Communication",
-          "reason": "Fluent English and French indicate bilingual communication skills.",
+          "skill": "Visual Communication",
+          "reason": "Design, composition, and digital design suggest visual communication skills.",
           "confidence": "medium"
         }
       ],

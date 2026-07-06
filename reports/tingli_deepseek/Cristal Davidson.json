@@ -1,7 +1,7 @@
 {
   "resume": "=== Cristal Davidson - Resume.pdf ===\n          Cristal C. Davidson \n\nNewark, NJ | (973) 289-2752 | cristal,davidson88@gmail,com  \n\nEDUCATION \n\nFranklin & Marshall College, Lancaster, PA.                                                               (Graduated 2025)  \nHistory and American Studies Joint-Major & Africana Studies Minor \n\n  American History High School, Newark, NJ \n  Graduated Salutatorian                                                                                                   (Graduated 2021) \n\nRELEVANT  EXPERIENCE \n\n  Historic Preservation Trust of Lancaster County           (Lancaster, PA. September 2024 – May 2025)  \n  Archives Intern \n\n●  Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to \n\nimprove accessibility.  \n\n●  Cataloged physical archival materials to improve organization and cleanliness in the office. \n●  Developed social media content to promote the Trust’s initiatives.  \n\n  Mi Gente Latina Club                                              (Lancaster, PA. September 2024 – December 2024) \n  Director of Social Engagement  \n\n●  Coordinated with more than ten on-campus clubs and community organizations to execute social \n\nevents. \n\n●  Served as the primary point of contact for club members and community partners.  \n\n  Mi Gente Latina Club                                                             (Lancaster, PA. January 2024 – May 2024) \n  Senior Advisor  \n\n●  Liaised with senior club members, alumni, and the executive board to improve communication and \n\ncoordination within the club. \n\n●  Organized and executed events that improved senior engagement and club participation. \n●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with \n\nalumni. \n\n  Franklin and Marshall College                                                              (Lancaster, PA. November 2023)        \n  Department of History Student Search Committee \n\n●  Participated in the hiring process by asking questions and engaging with candidates to assess \n\ntheir fit for the department. \n\n●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching \n\nabilities, effectiveness, and presentation skills in a classroom setting.  \n\n  SKILLS \n\n▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
   "function": "arts-media",
-  "confidence": 62,
+  "confidence": 63,
   "skills": [
     "archiving",
     "collaboration",
@@ -119,12 +119,12 @@
     },
     {
       "skill": "time management",
-      "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
+      "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "attention to detail",
-      "reason": "Archival work and organizational skills indicate attention to detail.",
+      "reason": "Archival work and digital archiving require attention to detail.",
       "confidence": "medium"
     }
   ],
@@ -265,24 +265,24 @@
   ],
   "alternatives": [
     {
-      "function": "education",
-      "pct": 15
+      "function": "arts-media",
+      "pct": 22
     },
     {
       "function": "agriculture",
-      "pct": 9
+      "pct": 8
     },
     {
       "function": "ops",
-      "pct": 7
-    },
-    {
-      "function": "technology",
       "pct": 6
     },
     {
-      "function": "design",
+      "function": "technology",
       "pct": 5
+    },
+    {
+      "function": "design",
+      "pct": 4
     }
   ],
   "coach_notes": "For a arts-media path, focus first on organization, social-media, coordination. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
@@ -522,23 +522,23 @@
     ],
     "goal_roles": [
       "archivist",
-      "museum educator"
+      "museum curator"
     ],
     "goal_subdomains": [
       "content-creation",
-      "creative-education"
+      "community-education"
     ],
     "study_domains": [
-      "arts-media",
-      "education"
+      "education",
+      "arts-media"
     ],
     "study_subdomains": [
-      "content-creation"
+      "higher-ed-support"
     ],
     "study_program": "bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work.",
     "study_level": "bachelor",
-    "intent_confidence": 0.321,
-    "intent_strength": 0.521,
+    "intent_confidence": 1.071,
+    "intent_strength": 1.0,
     "has_student_intent": true
   },
   "intent_summary": {
@@ -553,8 +553,8 @@
       "design": 13
     },
     "study": {
-      "education": 32,
-      "arts-media": 23,
+      "education": 107,
+      "arts-media": 48,
       "social-service": 12
     },
     "classifier": {
@@ -583,8 +583,11 @@
     "education"
   ],
   "subdomain": "content-creation",
-  "subdomain_confidence": 0.72,
-  "subdomain_alternatives": [],
+  "subdomain_confidence": 0.938,
+  "subdomain_alternatives": [
+    "classroom-support",
+    "youth-programs"
+  ],
   "lane_used": "rescue",
   "job_cluster": [
     "marketing-creative",
@@ -606,21 +609,21 @@
         "education"
       ],
       "study_domains": [
-        "arts-media",
-        "education"
+        "education",
+        "arts-media"
       ],
       "goal_subdomains": [
         "content-creation",
-        "creative-education"
+        "community-education"
       ],
       "study_subdomains": [
-        "content-creation"
+        "higher-ed-support"
       ],
       "goal_roles": [
         "archivist",
-        "museum educator"
+        "museum curator"
       ],
-      "confidence": 0.65,
+      "confidence": 0.7,
       "evidence_spans": [
         {
           "section": "summary",
@@ -734,12 +737,12 @@
         },
         {
           "skill": "time management",
-          "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
+          "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "attention to detail",
-          "reason": "Archival work and organizational skills indicate attention to detail.",
+          "reason": "Archival work and digital archiving require attention to detail.",
           "confidence": "medium"
         }
       ],

@@ -1,0 +1,38 @@
+{
+  "accepted": true,
+  "chosen_function": "education",
+  "chosen_subdomain": "community-education",
+  "confidence": 0.65,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Motivated and goal-oriented college graduate with an Associate Degree in Business to secure a position as a translator where I can utilize my linguistic, organizational skills, attention to detail, and experience in administrative tasks to contribute effectively to the smooth operation of the organization."
+    },
+    {
+      "section": "education",
+      "text": "Post Secondary Readiness 2023-2024 \u2022 Building a resume , Improving communication skills in terms of language, and concentrating on the audience."
+    }
+  ],
+  "goal_domains": [
+    "education"
+  ],
+  "goal_roles": [
+    "translator"
+  ],
+  "goal_subdomains": [
+    "community-education"
+  ],
+  "reason_codes": [
+    "explicit goal",
+    "education major",
+    "multilingual skills"
+  ],
+  "review_reasons": [],
+  "secondary_function": "arts-media",
+  "study_domains": [
+    "education"
+  ],
+  "study_subdomains": [
+    "community-education"
+  ]
+}

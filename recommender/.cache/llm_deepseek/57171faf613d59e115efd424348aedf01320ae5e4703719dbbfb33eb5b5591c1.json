@@ -1,0 +1,42 @@
+{
+  "accepted": true,
+  "chosen_function": "technology",
+  "chosen_subdomain": "software",
+  "confidence": 0.95,
+  "evidence_spans": [
+    {
+      "section": "education",
+      "text": "Bachelor of Science, Software Engineering | Anticipated May 2027"
+    },
+    {
+      "section": "experience",
+      "text": "Contributed to development and maintenance of SCOOPortal, a web application supporting RIT SCOOP for students and faculty."
+    },
+    {
+      "section": "experience",
+      "text": "Created a web application using HTML and JavaScript to display local recycling centers."
+    }
+  ],
+  "goal_domains": [
+    "technology"
+  ],
+  "goal_roles": [
+    "Software Engineer"
+  ],
+  "goal_subdomains": [
+    "software"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "education_major",
+    "relevant_experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "",
+  "study_domains": [
+    "technology"
+  ],
+  "study_subdomains": [
+    "software"
+  ]
+}

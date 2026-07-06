@@ -1,7 +1,7 @@
 {
   "resume": "=== Iyana Rankin - Resume.pdf ===\nIyana Rankin \n\nDetermined individual with a proven track record in stock and brand \nmanagement, poised to leverage this expertise into a progressive role. \nCommitted to delivering exceptional results and contributing effectively to \norganizational growth. \n\n68 Fallon Dr \nHamden, CT 06514 \n(347) 545-6409 \niyanarankin05@gmail.com \n\nEXPERIENCE \n\nSKILLS \n\nMadrag, North Haven,CT— Team Lead \n\n June 2024 - Present \n\nAs a team lead, my responsibilities include Opening and/or closing the store, \n\nopening and closing registers, counting the safe as well as making deposits \n\nHighly organized \n\n  Great communication \n\n  Time and task management \n\nas a part of closing procedures. As team lead I also handle projects such as \n\n  Basic Computer Skills \n\nreworking the visual walls and dressing the mannequins as well as \n\nre-organizing areas of the store. Essentially I act as a manager when the \n\nmanager is not present. \n\nAmazon, Danbury,CT — Warehouse Associate  \n\nOctober 2023 - February 2024 \n\nAs an Amazon Stock Associate, my primary responsibilities typically \n\n  Responsible \n\n  Team Player \n\n  Sensitive to Needs \n\n  Problem Solving \n\n  G suite \n\ninclude Receiving and inspecting incoming shipments of goods.Organizing \n\n  Microsoft/Zoom \n\nand storing inventory in designated locations within the warehouse. And \n\npicking and packing items for customer orders, ensuring accuracy and \n\nefﬁciency. \n\nPrimark, Brooklyn,NY — Overnight Replenishment Associate  \n\nMay 2023 - October 2023 \n\nAs a Replenishment Associate at Primark, my key duties typically include \nreplenishing merchandise on the sales ﬂoor to maintain attractive and fully \nstocked displays. Monitoring inventory levels and identifying areas \nrequiring restocking to meet customer demand.Efﬁciently unpacking and \nsorting incoming deliveries of merchandise.And ensuring accurate pricing \nand labeling of products before placing them on the sales ﬂoor. \n\nAlpine Scout Camp, Alpine,NJ — Counselor  \n\nJune 2020 - August 2020 \n\nWhile working as a counselor my duties included Supporting operations \nwithin the Arts and Theater Department by preparing necessary supplies \nand materials for camp activities. Provided guidance and instruction to \ncampers, explaining project requirements,and assisting them with their \ncreative endeavors. Ensured a positive and engaging experience for campers \nby offering support and encouragement throughout the artistic process. \n\n  EDUCATION \n\n  Cypress Hills Collegiate \n\nPreparatory High School, \n\nBrooklyn,Ny — High School \n\nDiploma \n\n  September 2018 - August 2021 \n\n  Graduated early with high \n\nhonors. \n\n \n \n   \n   \n\fBuilding Beats, Brooklyn,Ny — Youth Intern \n\nJune 2019 - August 2019 \n\nDuring my internship at the Summer Youth Employment Program, I \nactively collaborated with working professionals and fellow interns to \ndevelop a diverse skill set. This experience enabled me to enhance my \nabilities in personal branding, problem-solving, effective communication, \nand email etiquette. \n\nSpeakhire, Brooklyn,Ny — Intern \n\nNovember 2020- April 2021 \n\nDuring my internship, I enhanced proﬁciency in social media management \nand marketing strategies through practical application.Contributed to \nrecording and reﬁning sounds, demonstrating a commitment to audio \nproduction and development. Strengthened communication abilities by \npresenting end-of-summer projects encompassing sampling, tempo, beat, \nand album cover design.",
-  "function": "sales",
-  "confidence": 62,
+  "function": "arts-media",
+  "confidence": 61,
   "skills": [
     "accuracy",
     "accurate pricing",
@@ -22,12 +22,14 @@
     "great communication",
     "marketing strategies",
     "media management",
-    "microsoft",
     "organizational",
+    "organized",
     "personal branding",
-    "pricing and labeling",
+    "picking and packing",
     "problem solving",
-    "production"
+    "production",
+    "project",
+    "projects"
   ],
   "verified_skills": [
     "accuracy",
@@ -49,18 +51,21 @@
     "great communication",
     "marketing strategies",
     "media management",
-    "microsoft",
     "organizational",
+    "organized",
     "personal branding",
-    "pricing and labeling",
+    "picking and packing",
     "problem solving",
-    "production"
+    "production",
+    "project",
+    "projects"
   ],
   "possible_skills": [],
   "rejected_skills": [
     "act",
     "audio",
     "basic computer",
+    "brand",
     "camp activities",
     "closing procedures",
     "computer",
@@ -94,23 +99,21 @@
     "materials",
     "media",
     "merchandise",
+    "microsoft",
     "monitoring",
     "opening and closing",
     "operations",
     "orders",
-    "organized",
     "organizing",
     "part",
-    "picking and packing",
     "poised",
     "positive",
     "present",
     "presenting",
+    "pricing and labeling",
     "procedures",
     "professionals",
     "program",
-    "project",
-    "projects",
     "receiving"
   ],
   "skill_weights": {},
@@ -134,12 +137,14 @@
     "great communication",
     "marketing strategies",
     "media management",
-    "microsoft",
     "organizational",
+    "organized",
     "personal branding",
-    "pricing and labeling",
+    "picking and packing",
     "problem solving",
-    "production"
+    "production",
+    "project",
+    "projects"
   ],
   "inferred": [
     "teamwork",
@@ -149,61 +154,68 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Mentioned camp activities and counselor roles imply collaboration.",
+      "reason": "Experience as a counselor and camp activities imply collaboration.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple duties like opening/closing and deliveries suggests time management.",
+      "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "attention to detail",
-      "reason": "Skills like accuracy, pricing, labeling, and inspecting indicate attention to detail.",
+      "reason": "Skills like accuracy, counting, and inspecting indicate attention to detail.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "customer-service",
-    "organization",
-    "sales",
+    "communications",
+    "photography",
     "social-media",
-    "marketing",
-    "relationship-building"
+    "video"
   ],
   "core_gaps": [
-    "customer-service",
-    "organization",
-    "sales",
+    "communications",
+    "photography",
     "social-media",
-    "marketing",
-    "relationship-building"
+    "video"
   ],
-  "bridge_gaps": [],
+  "bridge_gaps": [
+    "behavior-observation",
+    "bilingual-english-mandarin",
+    "customer-service",
+    "de-escalation",
+    "documentation",
+    "education-knowledge",
+    "enrollment",
+    "high-school-diploma",
+    "outlook",
+    "sales"
+  ],
   "stretch_gaps": [
-    "administration",
+    "adobe-creative-suite",
+    "audio",
     "camp-activities",
+    "canva",
+    "content-creation",
     "content-curation",
-    "cross-functional",
-    "customer-success",
-    "data-driven",
-    "event-coordination",
-    "growth",
-    "installation",
-    "inventory"
+    "facilitation",
+    "graphic-design",
+    "marketing",
+    "media"
   ],
   "nice_to_have_gaps": [
-    "administration",
+    "adobe-creative-suite",
+    "audio",
+    "behavior-observation",
+    "bilingual-english-mandarin",
     "camp-activities",
+    "canva",
+    "content-creation",
     "content-curation",
-    "cross-functional",
-    "customer-success",
-    "data-driven",
-    "event-coordination",
-    "growth",
-    "installation",
-    "inventory"
+    "customer-service",
+    "de-escalation"
   ],
   "verify_gaps": [
     "teamwork",
@@ -211,86 +223,86 @@
   ],
   "related": [
     {
-      "skill": "yardoperations",
-      "pmi": 7.42
+      "skill": "basicmeasuringskills",
+      "pmi": 3.81
     },
     {
-      "skill": "dispatch",
-      "pmi": 7.08
+      "skill": "framingequipmentoperation",
+      "pmi": 3.81
     },
     {
-      "skill": "appleproducts",
-      "pmi": 6.24
+      "skill": "omnichannelprocesses",
+      "pmi": 3.81
     },
     {
-      "skill": "takeoffs",
-      "pmi": 6.12
+      "skill": "sopcompliance",
+      "pmi": 3.81
     },
     {
-      "skill": "omnichannelpos",
-      "pmi": 6.04
+      "skill": "glasscutter",
+      "pmi": 3.76
     },
     {
-      "skill": "proactivesales",
-      "pmi": 5.68
+      "skill": "positiveattitude",
+      "pmi": 3.13
     },
     {
-      "skill": "instoreactivation",
-      "pmi": 5.66
+      "skill": "retailoperations",
+      "pmi": 2.85
     },
     {
-      "skill": "leveragingtechnology",
-      "pmi": 5.58
+      "skill": "englishcommunication",
+      "pmi": 2.71
     },
     {
-      "skill": "identifyingopportunities",
-      "pmi": 5.4
+      "skill": "safetycompliance",
+      "pmi": 2.67
     },
     {
-      "skill": "delivery",
-      "pmi": 5.34
+      "skill": "ui",
+      "pmi": 2.63
     }
   ],
   "related_skills": [
     {
-      "skill": "yardoperations",
-      "pmi": 7.42
+      "skill": "basicmeasuringskills",
+      "pmi": 3.81
     },
     {
-      "skill": "dispatch",
-      "pmi": 7.08
+      "skill": "framingequipmentoperation",
+      "pmi": 3.81
     },
     {
-      "skill": "appleproducts",
-      "pmi": 6.24
+      "skill": "omnichannelprocesses",
+      "pmi": 3.81
     },
     {
-      "skill": "takeoffs",
-      "pmi": 6.12
+      "skill": "sopcompliance",
+      "pmi": 3.81
     },
     {
-      "skill": "omnichannelpos",
-      "pmi": 6.04
+      "skill": "glasscutter",
+      "pmi": 3.76
     },
     {
-      "skill": "proactivesales",
-      "pmi": 5.68
+      "skill": "positiveattitude",
+      "pmi": 3.13
     },
     {
-      "skill": "instoreactivation",
-      "pmi": 5.66
+      "skill": "retailoperations",
+      "pmi": 2.85
     },
     {
-      "skill": "leveragingtechnology",
-      "pmi": 5.58
+      "skill": "englishcommunication",
+      "pmi": 2.71
     },
     {
-      "skill": "identifyingopportunities",
-      "pmi": 5.4
+      "skill": "safetycompliance",
+      "pmi": 2.67
     },
     {
-      "skill": "delivery",
-      "pmi": 5.34
+      "skill": "ui",
+      "pmi": 2.63
     }
   ],
   "alternatives": [
@@ -300,7 +312,7 @@
     },
     {
       "function": "design",
-      "pct": 10
+      "pct": 9
     },
     {
       "function": "sales",
@@ -315,22 +327,44 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For a sales path, focus first on customer-service, organization, sales. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a arts-media path, focus first on communications, photography, social-media. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
+    {
+      "title": "Summer Program Lead Facilitator – Media & Content Creation",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4067578",
+      "fit": 63,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Media and content creation role, suitable for youth."
+    },
     {
       "title": "2024-2025 Sports Photography Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 67,
+      "fit": 58,
       "job_type": "goal",
-      "subdomain": "",
+      "subdomain": "photo-video",
       "function": "arts-media",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.278,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
@@ -340,109 +374,109 @@
       "eligibility_reason": "Photography intern role, no age restrictions."
     },
     {
-      "title": "Installation Apprentice",
-      "company": "greatwindowsservices",
-      "url": "https://jobs.hunterdouglas.com/division/greatwindowsservices/job/7777687003?gh_jid=7777687003",
-      "fit": 67,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "arts-media",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Installation apprentice, no age restriction."
-    },
-    {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Growth Associate",
-      "company": "maple",
-      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
-      "fit": 55,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.1,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Growth associate, no age restriction."
-    },
-    {
-      "title": "Sales Associate Competitive Pay + Endless Commission",
+      "title": "Marketing Intern (Graphic Design Focus)",
       "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4172836",
-      "fit": 55,
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3998040",
+      "fit": 50,
       "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
+      "subdomain": "marketing-creative",
+      "function": "arts-media",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.1,
-        "subdomain_alignment": 0.0,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.171,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Sales associate, no age restriction."
+      "eligibility_reason": "Marketing intern with graphic design focus, suitable for minors."
+    },
+    {
+      "title": "Mental Health Associate",
+      "company": "Rivermont-Schools",
+      "url": "https://jobs.ashbyhq.com/Rivermont-Schools/ab30f487-c38d-4b35-920a-2050f23752ac",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.222,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Mental health associate role may be entry-level, no legal age bar."
+    },
+    {
+      "title": "Student Advisor",
+      "company": "thinkacademyus",
+      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7769028003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.5,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Student advisor, no age restrictions."
     }
   ],
   "ready_now": [
     {
+      "title": "Summer Program Lead Facilitator – Media & Content Creation",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4067578",
+      "fit": 63,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Media and content creation role, suitable for youth."
+    },
+    {
       "title": "2024-2025 Sports Photography Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 67,
+      "fit": 58,
       "job_type": "goal",
-      "subdomain": "",
+      "subdomain": "photo-video",
       "function": "arts-media",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.278,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
@@ -450,96 +484,74 @@
       },
       "eligible": true,
       "eligibility_reason": "Photography intern role, no age restrictions."
-    },
-    {
-      "title": "Installation Apprentice",
-      "company": "greatwindowsservices",
-      "url": "https://jobs.hunterdouglas.com/division/greatwindowsservices/job/7777687003?gh_jid=7777687003",
-      "fit": 67,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "arts-media",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Installation apprentice, no age restriction."
     }
   ],
   "aspirational": [
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Growth Associate",
-      "company": "maple",
-      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
-      "fit": 55,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.1,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Growth associate, no age restriction."
-    },
-    {
-      "title": "Sales Associate Competitive Pay + Endless Commission",
+      "title": "Marketing Intern (Graphic Design Focus)",
       "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4172836",
-      "fit": 55,
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3998040",
+      "fit": 50,
       "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "customer-service, organization, sales",
+      "subdomain": "marketing-creative",
+      "function": "arts-media",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.1,
-        "subdomain_alignment": 0.0,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.171,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Sales associate, no age restriction."
+      "eligibility_reason": "Marketing intern with graphic design focus, suitable for minors."
+    },
+    {
+      "title": "Mental Health Associate",
+      "company": "Rivermont-Schools",
+      "url": "https://jobs.ashbyhq.com/Rivermont-Schools/ab30f487-c38d-4b35-920a-2050f23752ac",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.222,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Mental health associate role may be entry-level, no legal age bar."
+    },
+    {
+      "title": "Student Advisor",
+      "company": "thinkacademyus",
+      "url": "https://job-boards.greenhouse.io/thinkacademyus/jobs/7769028003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "communications, photography, social-media",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.5,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Student advisor, no age restrictions."
     }
   ],
   "skill_path": null,
@@ -547,19 +559,20 @@
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
-      "sales"
+      "arts-media"
     ],
     "goal_roles": [
-      "team lead",
-      "brand manager"
+      "content creator",
+      "audio producer"
     ],
-    "goal_subdomains": [],
+    "goal_subdomains": [
+      "content-creation"
+    ],
     "study_domains": [
-      "arts-media",
-      "education"
+      "arts-media"
     ],
     "study_subdomains": [
-      "creative-education"
+      "content-creation"
     ],
     "study_program": "Associate",
     "study_level": "associate",
@@ -581,7 +594,7 @@
     "study": {
       "education": 41,
       "arts-media": 28,
-      "design": 12
+      "marketing": 25
     },
     "classifier": {
       "arts-media": 46,
@@ -601,57 +614,62 @@
     "experience": {}
   },
   "candidate_functions": [
-    "sales",
-    "arts-media"
+    "arts-media",
+    "education"
   ],
-  "subdomain": "",
-  "subdomain_confidence": 0.0,
+  "subdomain": "content-creation",
+  "subdomain_confidence": 0.68,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
-    "",
-    "",
-    "",
-    "",
-    ""
+    "content-creation",
+    "photo-video",
+    "marketing-creative",
+    "content-creation",
+    "content-creation"
   ],
   "needs_review": true,
   "review_reasons": [],
   "llm_stage_results": {
     "route": {
       "accepted": true,
-      "chosen_function": "sales",
-      "chosen_subdomain": "",
-      "secondary_function": "arts-media",
+      "chosen_function": "arts-media",
+      "chosen_subdomain": "content-creation",
+      "secondary_function": "education",
       "goal_domains": [
-        "sales"
+        "arts-media"
       ],
       "study_domains": [
-        "arts-media",
-        "education"
+        "arts-media"
       ],
-      "goal_subdomains": [],
+      "goal_subdomains": [
+        "content-creation"
+      ],
       "study_subdomains": [
-        "creative-education"
+        "content-creation"
       ],
       "goal_roles": [
-        "team lead",
-        "brand manager"
+        "content creator",
+        "audio producer"
       ],
-      "confidence": 0.6,
+      "confidence": 0.65,
       "evidence_spans": [
         {
-          "section": "summary",
-          "text": "Determined individual with a proven track record in stock and brand management, poised to leverage this expertise into a progressive role."
+          "section": "education",
+          "text": "Contributed to recording and refining sounds, demonstrating a commitment to audio production and development."
+        },
+        {
+          "section": "education",
+          "text": "Strengthened communication abilities by presenting end-of-summer projects encompassing sampling, tempo, beat, and album cover design."
         },
         {
           "section": "skills",
-          "text": "As a team lead, my responsibilities include Opening and/or closing the store, opening and closing registers, counting the safe as well as making deposits"
+          "text": "Provided guidance and instruction to campers, explaining project requirements,and assisting them with their creative endeavors."
         }
       ],
       "reason_codes": [
-        "explicit goal in summary",
-        "demonstrated experience in retail and team lead"
+        "explicit_goal",
+        "relevant_experience"
       ],
       "review_reasons": []
     },
@@ -677,12 +695,14 @@
         "great communication",
         "marketing strategies",
         "media management",
-        "microsoft",
         "organizational",
+        "organized",
         "personal branding",
-        "pricing and labeling",
+        "picking and packing",
         "problem solving",
-        "production"
+        "production",
+        "project",
+        "projects"
       ],
       "verified_skills": [
         "accuracy",
@@ -704,18 +724,21 @@
         "great communication",
         "marketing strategies",
         "media management",
-        "microsoft",
         "organizational",
+        "organized",
         "personal branding",
-        "pricing and labeling",
+        "picking and packing",
         "problem solving",
-        "production"
+        "production",
+        "project",
+        "projects"
       ],
       "possible_skills": [],
       "rejected_skills": [
         "act",
         "audio",
         "basic computer",
+        "brand",
         "camp activities",
         "closing procedures",
         "computer",
@@ -749,39 +772,37 @@
         "materials",
         "media",
         "merchandise",
+        "microsoft",
         "monitoring",
         "opening and closing",
         "operations",
         "orders",
-        "organized",
         "organizing",
         "part",
-        "picking and packing",
         "poised",
         "positive",
         "present",
         "presenting",
+        "pricing and labeling",
         "procedures",
         "professionals",
         "program",
-        "project",
-        "projects",
         "receiving"
       ],
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Mentioned camp activities and counselor roles imply collaboration.",
+          "reason": "Experience as a counselor and camp activities imply collaboration.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple duties like opening/closing and deliveries suggests time management.",
+          "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "attention to detail",
-          "reason": "Skills like accuracy, pricing, labeling, and inspecting indicate attention to detail.",
+          "reason": "Skills like accuracy, counting, and inspecting indicate attention to detail.",
           "confidence": "medium"
         }
       ],

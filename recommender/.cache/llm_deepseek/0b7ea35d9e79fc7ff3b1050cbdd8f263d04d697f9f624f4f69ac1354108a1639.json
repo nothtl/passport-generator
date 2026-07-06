@@ -1,0 +1,38 @@
+{
+  "accepted": true,
+  "chosen_function": "technology",
+  "chosen_subdomain": "engineering",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "education",
+      "text": "Clarkson University - Bachelor of Science in Mechanical Engineering"
+    },
+    {
+      "section": "education",
+      "text": "Designed and modeled engine components and a jack stand using SolidWorks."
+    }
+  ],
+  "goal_domains": [
+    "technology"
+  ],
+  "goal_roles": [
+    "Mechanical Engineer"
+  ],
+  "goal_subdomains": [
+    "engineering"
+  ],
+  "reason_codes": [
+    "explicit_education",
+    "engineering_projects",
+    "technical_skills"
+  ],
+  "review_reasons": [],
+  "secondary_function": "skilled-trade",
+  "study_domains": [
+    "technology"
+  ],
+  "study_subdomains": [
+    "engineering"
+  ]
+}

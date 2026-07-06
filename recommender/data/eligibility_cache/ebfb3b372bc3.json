@@ -1,0 +1,10 @@
+{
+  "Full Stack Developer|||gdit": {
+    "eligible": true,
+    "reason": "No age restrictions for software development roles."
+  },
+  "Software Engineer": {
+    "eligible": true,
+    "reason": "No age restrictions for software engineering roles."
+  }
+}

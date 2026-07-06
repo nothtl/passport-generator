@@ -1,0 +1,37 @@
+{
+  "accepted": true,
+  "chosen_function": "arts-media",
+  "chosen_subdomain": "content-creation",
+  "confidence": 0.7,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Ideal careers: Content Creator, Photographer, Media Professional"
+    },
+    {
+      "section": "skills",
+      "text": "- Graphicdesigning"
+    }
+  ],
+  "goal_domains": [
+    "arts-media"
+  ],
+  "goal_roles": [
+    "Content Creator",
+    "Photographer",
+    "Media Professional"
+  ],
+  "goal_subdomains": [
+    "content-creation"
+  ],
+  "reason_codes": [
+    "explicit goal",
+    "skill match"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "arts-media"
+  ],
+  "study_subdomains": []
+}

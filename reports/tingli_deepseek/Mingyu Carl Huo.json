@@ -9,35 +9,12 @@
     "canva",
     "clinical",
     "clinical experience",
-    "credential",
     "data",
     "design",
     "desmos",
-    "engaging",
     "english language",
     "english language learners",
-    "esl",
-    "mathematics",
-    "instructing",
-    "education and training",
-    "active listening",
-    "administrative",
-    "customer and personal service",
-    "sales and marketing",
-    "english language",
-    "computers and electronics",
-    "google classroom",
-    "google workspace",
-    "lesson plans",
-    "literacy",
-    "mandarin",
-    "microsoft office",
-    "microsoft office suite",
-    "paraprofessional",
-    "science of reading",
-    "teacher education",
-    "tutor",
-    "workspace"
+    "esl"
   ],
   "verified_skills": [
     "algebra",
@@ -46,75 +23,24 @@
     "canva",
     "clinical",
     "clinical experience",
-    "credential",
     "data",
     "design",
     "desmos",
-    "engaging",
     "english language",
     "english language learners",
-    "esl",
-    "mathematics",
-    "instructing",
-    "education and training",
-    "active listening",
-    "administrative",
-    "customer and personal service",
-    "sales and marketing",
-    "english language",
-    "computers and electronics",
-    "google classroom",
-    "google workspace",
-    "lesson plans",
-    "literacy",
-    "mandarin",
-    "microsoft office",
-    "microsoft office suite",
-    "paraprofessional",
-    "science of reading",
-    "teacher education",
-    "tutor",
-    "workspace"
+    "esl"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "active listening",
-    "administrative",
     "cash",
     "cash transactions",
     "cashier",
     "certificate",
-    "computers and electronics",
-    "customer and personal service",
+    "credential",
     "customers",
-    "education and training",
-    "english language",
-    "grades",
-    "high school",
-    "instructing",
-    "instruction",
-    "instructional materials",
-    "instructions",
-    "kahoot",
-    "materials",
-    "mathematics",
-    "membership",
-    "microsoft",
-    "office",
-    "office suite",
+    "engaging",
     "orders",
-    "organize",
     "organized",
-    "pilot",
-    "plans",
-    "present",
-    "professional",
-    "program",
-    "references",
-    "sales and marketing",
-    "schedules",
-    "scholarship",
-    "science",
     "transactions"
   ],
   "skill_weights": {},
@@ -125,61 +51,44 @@
     "canva",
     "clinical",
     "clinical experience",
-    "credential",
     "data",
     "design",
     "desmos",
-    "engaging",
     "english language",
     "english language learners",
-    "esl",
-    "mathematics",
-    "instructing",
-    "education and training",
-    "active listening",
-    "administrative",
-    "customer and personal service",
-    "sales and marketing",
-    "english language",
-    "computers and electronics",
-    "google classroom",
-    "google workspace",
-    "lesson plans",
-    "literacy",
-    "mandarin",
-    "microsoft office",
-    "microsoft office suite",
-    "paraprofessional",
-    "science of reading",
-    "teacher education",
-    "tutor",
-    "workspace"
+    "esl"
   ],
   "inferred": [
+    "teaching",
     "classroom management",
-    "curriculum development",
     "bilingual communication"
   ],
   "implicit_skills": [
     {
-      "skill": "classroom management",
-      "reason": "Experience as a paraprofessional and tutor implies managing student behavior and engagement.",
+      "skill": "teaching",
+      "reason": "Experience with lesson plans, instruction, and instructional materials implies teaching ability.",
       "confidence": "medium"
     },
     {
-      "skill": "curriculum development",
-      "reason": "Creating lesson plans and instructional materials suggests curriculum design skills.",
+      "skill": "classroom management",
+      "reason": "Experience as a paraprofessional and with grades, schedules, and organized activities suggests classroom management skills.",
       "confidence": "medium"
     },
     {
       "skill": "bilingual communication",
-      "reason": "Knowledge of Mandarin and ESL indicates ability to communicate with diverse populations.",
+      "reason": "Knowledge of foreign language (Mandarin) and ESL experience indicates bilingual communication skills.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
-  "gaps": [],
-  "core_gaps": [],
+  "gaps": [
+    "literacy",
+    "mathematics"
+  ],
+  "core_gaps": [
+    "literacy",
+    "mathematics"
+  ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "adult-education",
@@ -214,20 +123,12 @@
       "pmi": 6.22
     },
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
       "skill": "veterinarystudent",
       "pmi": 5.78
     },
     {
       "skill": "trigonometry",
       "pmi": 5.59
-    },
-    {
-      "skill": "googlesuite",
-      "pmi": 5.53
     },
     {
       "skill": "statistics",
@@ -248,6 +149,14 @@
     {
       "skill": "externship",
       "pmi": 4.92
+    },
+    {
+      "skill": "teamcommunication",
+      "pmi": 4.39
+    },
+    {
+      "skill": "mentorship",
+      "pmi": 4.1
     }
   ],
   "related_skills": [
@@ -256,20 +165,12 @@
       "pmi": 6.22
     },
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
       "skill": "veterinarystudent",
       "pmi": 5.78
     },
     {
       "skill": "trigonometry",
       "pmi": 5.59
-    },
-    {
-      "skill": "googlesuite",
-      "pmi": 5.53
     },
     {
       "skill": "statistics",
@@ -290,6 +191,14 @@
     {
       "skill": "externship",
       "pmi": 4.92
+    },
+    {
+      "skill": "teamcommunication",
+      "pmi": 4.39
+    },
+    {
+      "skill": "mentorship",
+      "pmi": 4.1
     }
   ],
   "alternatives": [
@@ -314,7 +223,7 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on classroom-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a education path, focus first on literacy, mathematics. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Lower School Instructional Assistant Teacher",
@@ -325,14 +234,14 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.625,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.65,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -347,14 +256,14 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.625,
         "subdomain_alignment": 0.773,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.286,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -364,19 +273,19 @@
       "title": "SY2026-2027 - Elementary Teacher Pool (Primary Grades K-2)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3903591",
-      "fit": 76,
+      "fit": 75,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.842,
         "experience_alignment": 0.0,
         "attainability": 0.65,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -391,14 +300,14 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.375,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.125,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -413,7 +322,7 @@
       "subdomain": "higher-ed-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.5,
@@ -437,14 +346,14 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.625,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.65,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -459,14 +368,14 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.625,
         "subdomain_alignment": 0.773,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.286,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -478,19 +387,19 @@
       "title": "SY2026-2027 - Elementary Teacher Pool (Primary Grades K-2)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3903591",
-      "fit": 76,
+      "fit": 75,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.842,
         "experience_alignment": 0.0,
         "attainability": 0.65,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -505,14 +414,14 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.375,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.125,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -527,7 +436,7 @@
       "subdomain": "higher-ed-support",
       "function": "education",
       "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "",
+      "gaps": "literacy, mathematics",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.5,
@@ -541,17 +450,17 @@
       "eligibility_reason": "Tutoring role, no age restriction."
     }
   ],
-  "skill_path": "You already have a strong foundation in algebra, assessments, and clinical experience, plus implicit skills like classroom management and bilingual communication. By focusing on bridge skills like class-assistance and curriculum-support, you'll be well on your way to becoming a Teacher, Teaching Assistant, or Youth Counselor!",
+  "skill_path": "You already have a strong foundation in algebra, assessments, and classroom-relevant skills. By building literacy and mathematics, then gaining hands-on experience as a classroom assistant, you'll be well on your way to becoming a Teacher, Teaching Assistant, or Youth Counselor. Keep going!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── algebra\n├── assessments\n├── calculus\n├── canva\n├── clinical\n├── clinical experience\n├── credential\n├── data\n├── design\n├── desmos\n├── classroom management (implicit)\n├── curriculum development (implicit)\n└── bilingual communication (implicit)\n    ↓\nBRIDGE SKILLS\n├── curriculum-support\n├── class-assistance\n├── critical-thinking\n├── assessment\n└── adult-education\n    ↓\nGOAL SKILLS\n├── Teacher: classroom management, curriculum development, assessment, bilingual communication\n├── Teaching Assistant: class-assistance, curriculum-support, critical-thinking\n└── Youth Counselor: clinical experience, critical-thinking, bilingual communication\n    ↓\nCAREERS\n├── Teacher\n├── Teaching Assistant\n└── Youth Counselor",
+    "tree": "CURRENT SKILLS\n├── algebra\n├── assessments\n├── calculus\n├── canva\n├── clinical\n├── clinical experience\n├── data\n├── design\n├── desmos\n├── english language\n├── teaching (implicit)\n├── classroom management (implicit)\n└── bilingual communication (implicit)\n    │\n    ▼\nBRIDGE SKILLS (developing)\n├── literacy\n├── mathematics\n├── curriculum-support\n├── class-assistance\n├── critical-thinking\n└── assessment\n    │\n    ▼\nGOAL SKILLS (stretch)\n├── adult-education\n└── assessment\n    │\n    ▼\nCAREER PATHS\n├── Teaching Assistant\n├── Teacher\n└── Youth Counselor",
     "steps": [
-      "Volunteer as a teaching assistant or tutor to gain class-assistance and curriculum-support experience.",
-      "Take a free online course on classroom management or curriculum development (e.g., Coursera's 'Foundations of Teaching for Learning').",
-      "Practice critical thinking by analyzing case studies in education or youth counseling.",
-      "Explore adult-education by teaching a workshop or online class (e.g., through local community centers).",
-      "Update your resume and apply for entry-level roles like Teaching Assistant or Youth Counselor to build bridge skills."
+      "1. Enroll in a basic literacy and mathematics course to strengthen foundational skills.",
+      "2. Volunteer as a classroom assistant to gain practical class-assistance and curriculum-support experience.",
+      "3. Take a workshop on critical thinking and assessment design to bridge to goal skills.",
+      "4. Pursue a certification or associate degree in education or youth development.",
+      "5. Apply for a Teaching Assistant role to gain experience and progress toward Teacher or Youth Counselor."
     ],
-    "summary": "You already have a strong foundation in algebra, assessments, and clinical experience, plus implicit skills like classroom management and bilingual communication. By focusing on bridge skills like class-assistance and curriculum-support, you'll be well on your way to becoming a Teacher, Teaching Assistant, or Youth Counselor!"
+    "summary": "You already have a strong foundation in algebra, assessments, and classroom-relevant skills. By building literacy and mathematics, then gaining hands-on experience as a classroom assistant, you'll be well on your way to becoming a Teacher, Teaching Assistant, or Youth Counselor. Keep going!"
   },
   "ideal_careers": [
     "Teacher",
@@ -660,13 +569,14 @@
           "text": "OBJECTIVE:  To obtain a position as a Secondary Mathematics Teacher"
         },
         {
-          "section": "experience",
-          "text": "Student Teacher\n•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus"
+          "section": "skills",
+          "text": "Spring 2026\nBayside High School, Flushing, New York\nStudent Teacher\n•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus"
         }
       ],
       "reason_codes": [
         "explicit goal",
-        "relevant experience"
+        "relevant experience",
+        "education major"
       ],
       "review_reasons": []
     },
@@ -679,35 +589,12 @@
         "canva",
         "clinical",
         "clinical experience",
-        "credential",
         "data",
         "design",
         "desmos",
-        "engaging",
         "english language",
         "english language learners",
-        "esl",
-        "mathematics",
-        "instructing",
-        "education and training",
-        "active listening",
-        "administrative",
-        "customer and personal service",
-        "sales and marketing",
-        "english language",
-        "computers and electronics",
-        "google classroom",
-        "google workspace",
-        "lesson plans",
-        "literacy",
-        "mandarin",
-        "microsoft office",
-        "microsoft office suite",
-        "paraprofessional",
-        "science of reading",
-        "teacher education",
-        "tutor",
-        "workspace"
+        "esl"
       ],
       "verified_skills": [
         "algebra",
@@ -716,91 +603,40 @@
         "canva",
         "clinical",
         "clinical experience",
-        "credential",
         "data",
         "design",
         "desmos",
-        "engaging",
         "english language",
         "english language learners",
-        "esl",
-        "mathematics",
-        "instructing",
-        "education and training",
-        "active listening",
-        "administrative",
-        "customer and personal service",
-        "sales and marketing",
-        "english language",
-        "computers and electronics",
-        "google classroom",
-        "google workspace",
-        "lesson plans",
-        "literacy",
-        "mandarin",
-        "microsoft office",
-        "microsoft office suite",
-        "paraprofessional",
-        "science of reading",
-        "teacher education",
-        "tutor",
-        "workspace"
+        "esl"
       ],
       "possible_skills": [],
       "rejected_skills": [
-        "active listening",
-        "administrative",
         "cash",
         "cash transactions",
         "cashier",
         "certificate",
-        "computers and electronics",
-        "customer and personal service",
+        "credential",
         "customers",
-        "education and training",
-        "english language",
-        "grades",
-        "high school",
-        "instructing",
-        "instruction",
-        "instructional materials",
-        "instructions",
-        "kahoot",
-        "materials",
-        "mathematics",
-        "membership",
-        "microsoft",
-        "office",
-        "office suite",
+        "engaging",
         "orders",
-        "organize",
         "organized",
-        "pilot",
-        "plans",
-        "present",
-        "professional",
-        "program",
-        "references",
-        "sales and marketing",
-        "schedules",
-        "scholarship",
-        "science",
         "transactions"
       ],
       "implicit_skills": [
         {
-          "skill": "classroom management",
-          "reason": "Experience as a paraprofessional and tutor implies managing student behavior and engagement.",
+          "skill": "teaching",
+          "reason": "Experience with lesson plans, instruction, and instructional materials implies teaching ability.",
           "confidence": "medium"
         },
         {
-          "skill": "curriculum development",
-          "reason": "Creating lesson plans and instructional materials suggests curriculum design skills.",
+          "skill": "classroom management",
+          "reason": "Experience as a paraprofessional and with grades, schedules, and organized activities suggests classroom management skills.",
           "confidence": "medium"
         },
         {
           "skill": "bilingual communication",
-          "reason": "Knowledge of Mandarin and ESL indicates ability to communicate with diverse populations.",
+          "reason": "Knowledge of foreign language (Mandarin) and ESL experience indicates bilingual communication skills.",
           "confidence": "medium"
         }
       ],

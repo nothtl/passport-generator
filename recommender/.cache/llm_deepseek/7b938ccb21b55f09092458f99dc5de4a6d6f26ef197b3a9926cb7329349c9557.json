@@ -1,0 +1,43 @@
+{
+  "accepted": true,
+  "chosen_function": "technology",
+  "chosen_subdomain": "it-support",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "Professional Experience",
+      "text": "Provided technical support and organizational assistance in a professional internship setting."
+    },
+    {
+      "section": "Professional Experience",
+      "text": "Troubleshot hardware and software issues, improving user experience."
+    },
+    {
+      "section": "Professional Experience",
+      "text": "Assisted clients with technical problems, delivering clear and effective guidance."
+    }
+  ],
+  "goal_domains": [
+    "technology"
+  ],
+  "goal_roles": [
+    "Software Engineer",
+    "IT Support Specialist",
+    "Developer"
+  ],
+  "goal_subdomains": [
+    "it-support",
+    "software"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "relevant_experience",
+    "skill_match"
+  ],
+  "review_reasons": [],
+  "secondary_function": "healthcare",
+  "study_domains": [
+    "education"
+  ],
+  "study_subdomains": []
+}

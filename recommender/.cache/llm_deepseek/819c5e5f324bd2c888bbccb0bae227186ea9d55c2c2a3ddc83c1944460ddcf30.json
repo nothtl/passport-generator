@@ -1,0 +1,47 @@
+{
+  "accepted": true,
+  "chosen_function": "social-service",
+  "chosen_subdomain": "youth-support",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "summary",
+      "text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate"
+    },
+    {
+      "section": "summary",
+      "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
+    },
+    {
+      "section": "summary",
+      "text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst Community Partnership(ECP) which is a non-profit organization that provides free sports clubs, social groups, community assistance, community events and other activities."
+    },
+    {
+      "section": "summary",
+      "text": "I am also the Co-Chair of the Executive Board of another non-profit company I work with called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and Colleges to help students work on their leadership skills, career paths, and connects these students with professionals based on their career interests."
+    }
+  ],
+  "goal_domains": [
+    "social-service"
+  ],
+  "goal_roles": [
+    "Social Worker",
+    "Community Organizer",
+    "Youth Advocate"
+  ],
+  "goal_subdomains": [
+    "youth-support",
+    "community-support"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "volunteer_experience",
+    "nonprofit_leadership"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "education"
+  ],
+  "study_subdomains": []
+}

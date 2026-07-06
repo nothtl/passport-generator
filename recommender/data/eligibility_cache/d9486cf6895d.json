@@ -1,0 +1,26 @@
+{
+  "Administrative Assistant II|||IntegratedResourcesINC": {
+    "eligible": true,
+    "reason": "Administrative roles are suitable for 16-20 year olds."
+  },
+  "OPERATIONS CLERK": {
+    "eligible": true,
+    "reason": "Operations clerk is an entry-level office role, no age restriction."
+  },
+  "Field Marketing Coordinator": {
+    "eligible": true,
+    "reason": "Field marketing coordinator is suitable for young adults."
+  },
+  "Clinical Project Associate|||IntegratedResourcesINC": {
+    "eligible": true,
+    "reason": "Clinical project associate may require specific education but no age restriction."
+  },
+  "Certification Assistant|||pepperlfuchs": {
+    "eligible": true,
+    "reason": "Certification assistant is an office role, no age restriction."
+  },
+  "Operations Coordinator|||serverobotics": {
+    "eligible": true,
+    "reason": "Operations coordinator is suitable for young adults."
+  }
+}

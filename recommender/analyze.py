@@ -101,10 +101,13 @@ def _build_candidate_jobs(
     secondary = candidate_functions[1] if len(candidate_functions) > 1 else ""
     pull_functions = [primary_function] + ([secondary] if secondary else [])
 
+    # Only expand to broad pools when the primary pool has very few jobs
     if primary_function in NARROW_POOLS and len(pull_functions) <= 2:
-        for broad in ["support", "ops", "education", "healthcare"]:
-            if broad not in pull_functions:
-                pull_functions.append(broad)
+        primary_jobs = retrieve_jds(primary_function, "Entry", student_skills, top_k=5)
+        if len(primary_jobs) < 3:  # Only expand if primary pool is truly thin
+            for broad in ["support", "ops", "education", "healthcare"]:
+                if broad not in pull_functions:
+                    pull_functions.append(broad)
     # Try per-function parquets first (better data), subset as fallback
     combined: list[dict] = []
     seen = set()
@@ -174,7 +177,7 @@ def _coerce_llm_config(llm_config: LLMConfig | dict | None) -> LLMConfig:
     return _with_default_cache(LLMConfig(mode=_default_llm_mode()))
 
 
-def _build_function_pool(best: dict, student_intent: dict) -> list[str]:
+def _build_function_pool(best: dict, student_intent: dict, resume_text: str = "") -> list[str]:
     ordered: list[str] = []
     for value in [best.get("function"), *(best.get("candidate_functions", []))]:
         if value and value not in ordered:
@@ -191,7 +194,25 @@ def _build_function_pool(best: dict, student_intent: dict) -> list[str]:
         for func, _score in sorted(signal.items(), key=lambda item: -item[1]):
             if func not in ordered:
                 ordered.append(func)
-    return ordered[:6]
+    # Always include ops + support as fallback options for admin-like resumes
+    # (the classifier never predicts these but they're common for project coordinators)
+    for fallback in ["ops", "support", "administrative"]:
+        if fallback not in ordered:
+            ordered.append(fallback)
+
+    # Deterministic pre-filter: eliminate functions with zero keyword support
+    resume_lower = (resume_text or "").lower()
+    _TECH_KEYWORDS = ["software", "developer", "engineer", "engineering", "programming",
+                      "python", "java", "react", "aws", "cloud", "devops", "system",
+                      "hardware", "firmware", "embedded", "full stack", "frontend",
+                      "backend", "machine learning", "data science", "network",
+                      "computer", "database", "server", "linux", "automation"]
+    if "technology" in ordered and not any(kw in resume_lower for kw in _TECH_KEYWORDS):
+        ordered.remove("technology")
+        if "ops" not in ordered:
+            ordered.insert(0, "ops")
+
+    return ordered[:8]
 
 
 def _route_conflict(best: dict, student_intent: dict) -> bool:
@@ -423,7 +444,8 @@ def analyze(
     llm_stage_results: dict[str, dict] = {}
     review_reasons: list[str] = []
     chosen_function = best["function"]
-    candidate_functions = [chosen_function]
+    pool = _build_function_pool(best, student_intent, combined_text)
+    candidate_functions = pool[:3] if pool else [chosen_function]
     chosen_subdomain, subdomain_confidence, subdomain_alternatives = _determine_subdomain(
         chosen_function,
         student_intent,
@@ -435,8 +457,8 @@ def analyze(
 
     if orchestrator and allow_rescue and (force_rescue or _should_run_route_stage(best, student_intent, llm_cfg)):
         route_payload = {
-            "candidate_functions": _build_function_pool(best, student_intent),
-            "candidate_subdomains": _candidate_subdomains(_build_function_pool(best, student_intent)),
+            "candidate_functions": _build_function_pool(best, student_intent, combined_text),
+            "candidate_subdomains": _candidate_subdomains(_build_function_pool(best, student_intent, combined_text)),
             "headline_text": headline_text,
             "summary_text": student_intent.get("intent_summary", {}).get("summary_text", ""),
             "study_text": student_intent.get("intent_summary", {}).get("study_text", ""),

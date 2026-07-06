@@ -1,0 +1,14 @@
+{
+  "Recovery Peer Support": {
+    "eligible": true,
+    "reason": "Recovery peer support roles typically do not have age restrictions beyond 16."
+  },
+  "Bilingual Teen Health Educator": {
+    "eligible": true,
+    "reason": "Teen health educator roles are suitable for young adults."
+  },
+  "ABA Behavior Technician": {
+    "eligible": true,
+    "reason": "ABA behavior technician roles may require certification but not age 21+."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "accepted": true,
+  "chosen_function": "healthcare",
+  "chosen_subdomain": "clinical-support",
+  "confidence": 0.9,
+  "evidence_spans": [
+    {
+      "section": "education",
+      "text": "Bachelor of Science in Health Science"
+    },
+    {
+      "section": "experience",
+      "text": "Home Health Aide \u2014 Platinum Home Care"
+    },
+    {
+      "section": "experience",
+      "text": "Intern & Physician Shadowing \u2014 North Manhattan Eye Center"
+    }
+  ],
+  "goal_domains": [
+    "healthcare"
+  ],
+  "goal_roles": [
+    "Nurse",
+    "Medical Assistant",
+    "Healthcare Professional"
+  ],
+  "goal_subdomains": [
+    "clinical-support"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "relevant_experience",
+    "relevant_education"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "healthcare"
+  ],
+  "study_subdomains": [
+    "clinical-support"
+  ]
+}

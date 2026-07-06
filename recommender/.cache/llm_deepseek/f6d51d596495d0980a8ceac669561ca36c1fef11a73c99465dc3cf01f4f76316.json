@@ -1,0 +1,42 @@
+{
+  "accepted": true,
+  "chosen_function": "arts-media",
+  "chosen_subdomain": "content-creation",
+  "confidence": 0.65,
+  "evidence_spans": [
+    {
+      "section": "education",
+      "text": "Contributed to recording and refining sounds, demonstrating a commitment to audio production and development."
+    },
+    {
+      "section": "education",
+      "text": "Strengthened communication abilities by presenting end-of-summer projects encompassing sampling, tempo, beat, and album cover design."
+    },
+    {
+      "section": "skills",
+      "text": "Provided guidance and instruction to campers, explaining project requirements,and assisting them with their creative endeavors."
+    }
+  ],
+  "goal_domains": [
+    "arts-media"
+  ],
+  "goal_roles": [
+    "content creator",
+    "audio producer"
+  ],
+  "goal_subdomains": [
+    "content-creation"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "relevant_experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "arts-media"
+  ],
+  "study_subdomains": [
+    "content-creation"
+  ]
+}

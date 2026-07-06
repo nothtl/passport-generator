@@ -1,0 +1,31 @@
+{
+  "accepted": true,
+  "chosen_function": "finance",
+  "chosen_subdomain": "",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "education",
+      "text": "Bachelor of Science, Business Administra=on\nMarkeUng\nGPA 3.3/4.00\n**University at Buffalo School of Management, SUNY** \u2014 Business Administration, Finance \u00b7 2024 \u2013 2028"
+    },
+    {
+      "section": "summary",
+      "text": "Sophomore at the University at Buffalo, majoring in Business Administration with a Concentration in Finance."
+    }
+  ],
+  "goal_domains": [
+    "finance"
+  ],
+  "goal_roles": [],
+  "goal_subdomains": [],
+  "reason_codes": [
+    "explicit goal",
+    "education major"
+  ],
+  "review_reasons": [],
+  "secondary_function": "administrative",
+  "study_domains": [
+    "finance"
+  ],
+  "study_subdomains": []
+}

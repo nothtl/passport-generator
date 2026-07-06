@@ -1,0 +1,39 @@
+{
+  "accepted": true,
+  "chosen_function": "finance",
+  "chosen_subdomain": "",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "headline_text",
+      "text": "Aspiring Investment Banking | Finance Major | Sophomore at Baruch College"
+    },
+    {
+      "section": "education",
+      "text": "Bachelor of Business Administration in Finance                                                                                                           Expected May 2028"
+    }
+  ],
+  "goal_domains": [
+    "finance"
+  ],
+  "goal_roles": [
+    "investment banker",
+    "financial analyst"
+  ],
+  "goal_subdomains": [
+    "investment-banking"
+  ],
+  "reason_codes": [
+    "explicit career goal",
+    "relevant major",
+    "business case study experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "finance"
+  ],
+  "study_subdomains": [
+    "finance"
+  ]
+}

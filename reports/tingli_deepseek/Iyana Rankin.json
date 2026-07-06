@@ -155,7 +155,7 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Experience as a counselor and in camp activities implies collaboration.",
+      "reason": "Experience as a counselor and camp activities imply collaboration.",
       "confidence": "medium"
     },
     {
@@ -165,49 +165,47 @@
     },
     {
       "skill": "attention to detail",
-      "reason": "Skills like accuracy, counting, and inspecting indicate attention to detail.",
+      "reason": "Skills like accuracy, counting, inspecting, and pricing indicate attention to detail.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "marketing",
-    "sales",
     "customer-service",
-    "organization",
-    "social-media",
-    "administration",
-    "relationship-building"
+    "cash-handling",
+    "replenishment",
+    "sales"
   ],
   "core_gaps": [
-    "marketing",
-    "sales",
     "customer-service",
-    "organization",
-    "social-media",
-    "administration",
-    "relationship-building"
+    "cash-handling",
+    "replenishment",
+    "sales"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "client-relationship-management",
-    "event-coordination",
-    "insurance",
-    "interpersonal-skills",
-    "negotiation",
-    "office-administration",
-    "planning",
-    "presentation"
+    "baking",
+    "basic-measuring-skills",
+    "cake-decorating",
+    "cross-functional",
+    "cross-selling",
+    "customer-success",
+    "data-driven",
+    "decorating-techniques",
+    "etiquette",
+    "food-safety"
   ],
   "nice_to_have_gaps": [
-    "client-relationship-management",
-    "event-coordination",
-    "insurance",
-    "interpersonal-skills",
-    "negotiation",
-    "office-administration",
-    "planning",
-    "presentation"
+    "baking",
+    "basic-measuring-skills",
+    "cake-decorating",
+    "cross-functional",
+    "cross-selling",
+    "customer-success",
+    "data-driven",
+    "decorating-techniques",
+    "etiquette",
+    "food-safety"
   ],
   "verify_gaps": [
     "teamwork"
@@ -318,21 +316,109 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For a sales path, focus first on marketing, sales, customer-service. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a sales path, focus first on customer-service, cash-handling, replenishment. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 67,
+      "title": "Growth Associate",
+      "company": "maple",
+      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "marketing, sales, customer-service",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Growth associate, no age restriction."
+    },
+    {
+      "title": "Sales Associate Competitive Pay + Endless Commission",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4172836",
+      "fit": 83,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Sales associate, no age restriction."
+    },
+    {
+      "title": "PT Framer",
+      "company": "michaels",
+      "url": "https://michaels.wd5.myworkdayjobs.com/job/Houston-9666-Old-Katy-Rd/PT-Framer_R00313205",
+      "fit": 63,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.1,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "PT Framer at Michaels, no age restriction."
+    },
+    {
+      "title": "Cake Decorator",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3784388",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
-        "study_alignment": 0.2,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Cake decorator, no age restriction."
+    },
+    {
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -341,66 +427,112 @@
       },
       "eligible": true,
       "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Insurance Broker",
-      "company": "alchemy-financial-group",
-      "url": "https://alchemy-financial-group.breezy.hr/p/58f91da7d1bb-insurance-broker",
-      "fit": 66,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "marketing, sales, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.1,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Insurance broker roles typically require licensing but not a minimum age of 21, so eligible for 16-20 year olds."
-    },
-    {
-      "title": "Key Holder",
-      "company": "Comoto",
-      "url": "https://jobs.smartrecruiters.com/Comoto/743999899351063",
-      "fit": 53,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "marketing, sales, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Key holder role does not require age 21+."
     }
   ],
   "ready_now": [
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 67,
+      "title": "Growth Associate",
+      "company": "maple",
+      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "marketing, sales, customer-service",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Growth associate, no age restriction."
+    },
+    {
+      "title": "Sales Associate Competitive Pay + Endless Commission",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4172836",
+      "fit": 83,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Sales associate, no age restriction."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "PT Framer",
+      "company": "michaels",
+      "url": "https://michaels.wd5.myworkdayjobs.com/job/Houston-9666-Old-Katy-Rd/PT-Framer_R00313205",
+      "fit": 63,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.1,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "PT Framer at Michaels, no age restriction."
+    },
+    {
+      "title": "Cake Decorator",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3784388",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
-        "study_alignment": 0.2,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Cake decorator, no age restriction."
+    },
+    {
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "customer-service, cash-handling, replenishment",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -409,52 +541,6 @@
       },
       "eligible": true,
       "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Insurance Broker",
-      "company": "alchemy-financial-group",
-      "url": "https://alchemy-financial-group.breezy.hr/p/58f91da7d1bb-insurance-broker",
-      "fit": 66,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "marketing, sales, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.1,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Insurance broker roles typically require licensing but not a minimum age of 21, so eligible for 16-20 year olds."
-    }
-  ],
-  "aspirational": [
-    {
-      "title": "Key Holder",
-      "company": "Comoto",
-      "url": "https://jobs.smartrecruiters.com/Comoto/743999899351063",
-      "fit": 53,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "marketing, sales, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Key holder role does not require age 21+."
     }
   ],
   "skill_path": null,
@@ -469,11 +555,10 @@
     ],
     "goal_subdomains": [],
     "study_domains": [
-      "arts-media",
-      "education"
+      "arts-media"
     ],
     "study_subdomains": [
-      "creative-education"
+      "content-creation"
     ],
     "study_program": "Associate",
     "study_level": "associate",
@@ -525,6 +610,8 @@
   "job_cluster": [
     "",
     "",
+    "",
+    "",
     ""
   ],
   "needs_review": true,
@@ -539,18 +626,17 @@
         "sales"
       ],
       "study_domains": [
-        "arts-media",
-        "education"
+        "arts-media"
       ],
       "goal_subdomains": [],
       "study_subdomains": [
-        "creative-education"
+        "content-creation"
       ],
       "goal_roles": [
         "team lead",
         "stock associate"
       ],
-      "confidence": 0.6,
+      "confidence": 0.65,
       "evidence_spans": [
         {
           "section": "skills",
@@ -686,7 +772,7 @@
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Experience as a counselor and in camp activities implies collaboration.",
+          "reason": "Experience as a counselor and camp activities imply collaboration.",
           "confidence": "medium"
         },
         {
@@ -696,7 +782,7 @@
         },
         {
           "skill": "attention to detail",
-          "reason": "Skills like accuracy, counting, and inspecting indicate attention to detail.",
+          "reason": "Skills like accuracy, counting, inspecting, and pricing indicate attention to detail.",
           "confidence": "medium"
         }
       ],

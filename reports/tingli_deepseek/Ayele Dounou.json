@@ -74,6 +74,7 @@
     "food safety standards",
     "fundraising",
     "growth",
+    "guest relations",
     "guest services",
     "guidance",
     "healthcare",
@@ -134,7 +135,7 @@
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple responsibilities such as catering, event support, and customer service suggests effective time management.",
+      "reason": "Handling multiple responsibilities such as attendance, catering, and event support suggests effective time management.",
       "confidence": "medium"
     },
     {
@@ -145,47 +146,46 @@
   ],
   "skill_evidence": [],
   "gaps": [
-    "child-development",
-    "class-management",
-    "classroom-management",
-    "parent-communication",
-    "safety-and-supervision",
-    "travel-to-sites"
+    "leadership",
+    "organization",
+    "coaching",
+    "high-school-diploma"
   ],
   "core_gaps": [
-    "child-development",
-    "class-management",
-    "classroom-management",
-    "parent-communication",
-    "safety-and-supervision",
-    "travel-to-sites"
+    "leadership",
+    "organization",
+    "coaching",
+    "high-school-diploma"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "activity-planning",
-    "class-delivery",
-    "communications",
-    "curriculum-delivery",
-    "curriculum-following",
-    "first-aid",
-    "lesson-planning",
-    "multi-sport",
-    "positive-reinforcement",
-    "reporting"
+    "application-assistance",
+    "basketball",
+    "community-outreach",
+    "data-entry",
+    "education",
+    "enrollment",
+    "food-systems",
+    "implement-program-activities",
+    "independent-work",
+    "kpi"
   ],
   "nice_to_have_gaps": [
-    "activity-planning",
-    "class-delivery",
-    "communications",
-    "curriculum-delivery",
-    "curriculum-following",
-    "first-aid",
-    "lesson-planning",
-    "multi-sport",
-    "positive-reinforcement",
-    "reporting"
+    "application-assistance",
+    "basketball",
+    "community-outreach",
+    "data-entry",
+    "education",
+    "enrollment",
+    "food-systems",
+    "implement-program-activities",
+    "independent-work",
+    "kpi"
   ],
-  "verify_gaps": [],
+  "verify_gaps": [
+    "time-management",
+    "teamwork"
+  ],
   "related": [
     {
       "skill": "behaviordocumentation",
@@ -292,254 +292,250 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For a social-service path, focus first on child-development, class-management, classroom-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a social-service path, focus first on leadership, organization, coaching. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": " LA Galaxy, Youth Programs Coach - Part-Time",
-      "company": "aegworldwide",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
-      "fit": 68,
+      "title": "Program Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4110992",
+      "fit": 88,
       "job_type": "goal",
       "subdomain": "youth-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
+      "gaps": "leadership, organization, coaching",
       "job_score_breakdown": {
-        "goal_alignment": 0.357,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.36,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth coaching role, no age restrictions."
-    },
-    {
-      "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
-      "company": "aegworldwide",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
-      "fit": 65,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.357,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.16,
-        "attainability": 0.75,
-        "skill_overlap": 0.143,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth coaching role, no age restrictions."
-    },
-    {
-      "title": "Amazing Athletes Youth Sports Coach",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 53,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.357,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
+        "goal_alignment": 0.429,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.28,
         "attainability": 0.75,
         "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "Program Assistant is an administrative role suitable for youth."
     },
     {
-      "title": "Preschool and Early Childhood Youth Sports Coach - WEEKEND ONLY",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/B36C78A38D",
-      "fit": 53,
+      "title": "Education Steward - AmeriCorps",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
+      "fit": 83,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "leadership, organization, coaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.714,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.52,
+        "attainability": 0.75,
+        "skill_overlap": 0.091,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Education steward, suitable for youth."
+    },
+    {
+      "title": "Leadership Institute Resident / Fall 2026",
+      "company": "ChristsChurchOfTheValley",
+      "url": "https://jobs.smartrecruiters.com/ChristsChurchOfTheValley/744000090448305",
+      "fit": 70,
       "job_type": "goal",
       "subdomain": "youth-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
+      "gaps": "leadership, organization, coaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.286,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.36,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Leadership institute resident, no age restrictions."
+    },
+    {
+      "title": "Graduate Assistant - Women’s Basketball",
+      "company": "university-of-mount-saint-vincent",
+      "url": "https://apply.workable.com/j/9ABAD56567",
+      "fit": 60,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "leadership, organization, coaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.429,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.44,
+        "attainability": 0.65,
+        "skill_overlap": 0.1,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graduate assistant, but role is for university; likely requires enrollment, not age 21+."
+    },
+    {
+      "title": "Enrollment Advisor",
+      "company": "aviationinstituteofmaintenance",
+      "url": "https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5267633008",
+      "fit": 57,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "leadership, organization, coaching",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.167,
+        "experience_alignment": 0.4,
         "attainability": 0.75,
-        "skill_overlap": 0.167,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, weekend only, no age restrictions."
-    },
-    {
-      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 51,
-      "job_type": "bridge",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.214,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.44,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth sports coach, part-time, no age restrictions."
+      "eligibility_reason": "Enrollment advisor, no age restrictions."
     }
   ],
   "ready_now": [
     {
-      "title": " LA Galaxy, Youth Programs Coach - Part-Time",
-      "company": "aegworldwide",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7941808002",
-      "fit": 68,
+      "title": "Program Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4110992",
+      "fit": 88,
       "job_type": "goal",
       "subdomain": "youth-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
+      "gaps": "leadership, organization, coaching",
       "job_score_breakdown": {
-        "goal_alignment": 0.357,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.36,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth coaching role, no age restrictions."
-    },
-    {
-      "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
-      "company": "aegworldwide",
-      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/7953121002",
-      "fit": 65,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.357,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.16,
-        "attainability": 0.75,
-        "skill_overlap": 0.143,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth coaching role, no age restrictions."
-    }
-  ],
-  "aspirational": [
-    {
-      "title": "Amazing Athletes Youth Sports Coach",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 53,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.357,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
+        "goal_alignment": 0.429,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.28,
         "attainability": 0.75,
         "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "Program Assistant is an administrative role suitable for youth."
     },
     {
-      "title": "Preschool and Early Childhood Youth Sports Coach - WEEKEND ONLY",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/B36C78A38D",
-      "fit": 53,
+      "title": "Education Steward - AmeriCorps",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
+      "fit": 83,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "leadership, organization, coaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.714,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.52,
+        "attainability": 0.75,
+        "skill_overlap": 0.091,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Education steward, suitable for youth."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Leadership Institute Resident / Fall 2026",
+      "company": "ChristsChurchOfTheValley",
+      "url": "https://jobs.smartrecruiters.com/ChristsChurchOfTheValley/744000090448305",
+      "fit": 70,
       "job_type": "goal",
       "subdomain": "youth-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
+      "gaps": "leadership, organization, coaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.286,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.36,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Leadership institute resident, no age restrictions."
+    },
+    {
+      "title": "Graduate Assistant - Women’s Basketball",
+      "company": "university-of-mount-saint-vincent",
+      "url": "https://apply.workable.com/j/9ABAD56567",
+      "fit": 60,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "leadership, organization, coaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.429,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.44,
+        "attainability": 0.65,
+        "skill_overlap": 0.1,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graduate assistant, but role is for university; likely requires enrollment, not age 21+."
+    },
+    {
+      "title": "Enrollment Advisor",
+      "company": "aviationinstituteofmaintenance",
+      "url": "https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5267633008",
+      "fit": 57,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "gaps": "leadership, organization, coaching",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.167,
+        "experience_alignment": 0.4,
         "attainability": 0.75,
-        "skill_overlap": 0.167,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, weekend only, no age restrictions."
-    },
-    {
-      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 51,
-      "job_type": "bridge",
-      "subdomain": "youth-support",
-      "function": "education",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "child-development, class-management, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.214,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.44,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth sports coach, part-time, no age restrictions."
+      "eligibility_reason": "Enrollment advisor, no age restrictions."
     }
   ],
   "skill_path": null,
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
-      "social-service",
-      "education"
+      "social-service"
     ],
     "goal_roles": [
       "Youth Ministry Leader"
     ],
     "goal_subdomains": [
-      "youth-support",
-      "community-support"
+      "youth-support"
     ],
     "study_domains": [
       "education"
     ],
     "study_subdomains": [
-      "community-support",
-      "youth-support",
-      "graphic-design"
+      "community-education"
     ],
     "study_program": "International Community High School — Bronx, NY",
     "study_level": "high-school",
@@ -594,10 +590,10 @@
   "lane_used": "rescue",
   "job_cluster": [
     "youth-support",
+    "community-support",
     "youth-support",
-    "youth-support",
-    "youth-support",
-    "youth-support"
+    "community-support",
+    "community-support"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -608,17 +604,17 @@
       "chosen_subdomain": "youth-support",
       "secondary_function": "education",
       "goal_domains": [
-        "social-service",
-        "education"
+        "social-service"
       ],
       "study_domains": [
         "education"
       ],
       "goal_subdomains": [
-        "youth-support",
-        "community-support"
+        "youth-support"
       ],
-      "study_subdomains": [],
+      "study_subdomains": [
+        "community-education"
+      ],
       "goal_roles": [
         "Youth Ministry Leader"
       ],
@@ -630,12 +626,12 @@
         },
         {
           "section": "VOLUNTEER EXPERIENCE",
-          "text": "Provide guidance and support to encourage personal and spiritual growth."
+          "text": "Plan activities, retreats, service projects, and community outreach initiatives."
         }
       ],
       "reason_codes": [
-        "volunteer leadership in youth ministry",
-        "no explicit career goals, but strong volunteer signal in youth support"
+        "volunteer leadership in youth programs",
+        "community service focus"
       ],
       "review_reasons": []
     },
@@ -713,6 +709,7 @@
         "food safety standards",
         "fundraising",
         "growth",
+        "guest relations",
         "guest services",
         "guidance",
         "healthcare",
@@ -750,7 +747,7 @@
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple responsibilities such as catering, event support, and customer service suggests effective time management.",
+          "reason": "Handling multiple responsibilities such as attendance, catering, and event support suggests effective time management.",
           "confidence": "medium"
         },
         {

@@ -94,23 +94,29 @@ def _build_candidate_jobs(
         for broad in ["support", "ops", "education", "healthcare"]:
             if broad not in pull_functions:
                 pull_functions.append(broad)
+    # Try per-function parquets first (better data), subset as fallback
     combined: list[dict] = []
     seen = set()
-    subset_jobs = retrieve_from_subset(
-        function=primary_function,
-        student_skills=student_skills,
-        top_k=max(12, top_k * 3),
-        function_labels=pull_functions if len(pull_functions) > 1 else None,
-    )
-    if subset_jobs:
-        combined = subset_jobs
-    else:
-        for function in candidate_functions:
-            rows = retrieve_jds(function, "Entry", student_skills, top_k=max(8, top_k * 3))
-            for row in rows:
-                key = row.get("id") or row.get("url") or f"{row.get('title')}::{row.get('company')}"
-                if key in seen:
-                    continue
+    for function in pull_functions:
+        rows = retrieve_jds(function, "Entry", student_skills, top_k=max(8, top_k * 3))
+        for row in rows:
+            key = row.get("id") or row.get("url") or f"{row.get('title')}::{row.get('company')}"
+            if key in seen:
+                continue
+            seen.add(key)
+            combined.append(row)
+
+    # Fall back to subset for thin functions or gaps
+    if len(combined) < top_k * 2:
+        subset_jobs = retrieve_from_subset(
+            function=primary_function,
+            student_skills=student_skills,
+            top_k=max(12, top_k * 3),
+            function_labels=pull_functions if len(pull_functions) > 1 else None,
+        )
+        for row in subset_jobs:
+            key = row.get("id") or row.get("url") or f"{row.get('title')}::{row.get('company')}"
+            if key not in seen:
                 seen.add(key)
                 combined.append(row)
 

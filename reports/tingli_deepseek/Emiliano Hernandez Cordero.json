@@ -17,7 +17,25 @@
     "microsoft",
     "microsoft office",
     "office",
-    "spanish"
+    "spanish",
+    "advocate",
+    "cash transactions",
+    "classroom activities",
+    "cleanliness standards",
+    "community events",
+    "criminal justice",
+    "customer service",
+    "event planning",
+    "food distribution",
+    "group instruction",
+    "interpretation",
+    "point of sale",
+    "pos systems",
+    "small group instruction",
+    "spanish communication",
+    "student support",
+    "teamwork",
+    "waitstaff"
   ],
   "verified_skills": [
     "bilingual",
@@ -34,7 +52,25 @@
     "microsoft",
     "microsoft office",
     "office",
-    "spanish"
+    "spanish",
+    "advocate",
+    "cash transactions",
+    "classroom activities",
+    "cleanliness standards",
+    "community events",
+    "criminal justice",
+    "customer service",
+    "event planning",
+    "food distribution",
+    "group instruction",
+    "interpretation",
+    "point of sale",
+    "pos systems",
+    "small group instruction",
+    "spanish communication",
+    "student support",
+    "teamwork",
+    "waitstaff"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -45,39 +81,26 @@
     "Foreign Language",
     "Instructing",
     "Mathematics",
-    "Writing",
-    "advocate",
+    "Sales and Marketing",
+    "Service Orientation",
     "bachelor",
     "can",
     "cash",
-    "cash transactions",
-    "classroom activities",
     "cleanliness",
-    "cleanliness standards",
-    "community events",
-    "criminal justice",
-    "customer service",
     "distribution",
     "documents",
     "donations",
     "efficiency",
     "emails",
-    "event planning",
     "fast paced",
     "food",
-    "food distribution",
-    "group instruction",
     "high volume",
     "high volume environment",
     "hours",
     "instruction",
-    "interpretation",
     "media",
     "multicultural",
     "organized",
-    "point of sale",
-    "pos",
-    "pos systems",
     "prepared food",
     "program",
     "quality",
@@ -86,18 +109,12 @@
     "safety",
     "safety and quality",
     "service",
-    "small group instruction",
-    "spanish communication",
-    "spanish english",
     "speak",
     "sponsors",
     "standards",
-    "student support",
     "systems",
-    "teamwork",
     "transactions",
-    "united states",
-    "waitstaff"
+    "united states"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -115,89 +132,116 @@
     "microsoft",
     "microsoft office",
     "office",
-    "spanish"
-  ],
-  "inferred": [
+    "spanish",
+    "advocate",
+    "cash transactions",
+    "classroom activities",
+    "cleanliness standards",
+    "community events",
+    "criminal justice",
     "customer service",
     "event planning",
-    "teamwork"
+    "food distribution",
+    "group instruction",
+    "interpretation",
+    "point of sale",
+    "pos systems",
+    "small group instruction",
+    "spanish communication",
+    "student support",
+    "teamwork",
+    "waitstaff"
+  ],
+  "inferred": [
+    "Microsoft Excel",
+    "Customer Relationship Management",
+    "Cross-cultural Communication"
   ],
   "implicit_skills": [
     {
-      "skill": "customer service",
-      "reason": "Experience with cash transactions and point of sale systems implies customer service skills.",
+      "skill": "Microsoft Excel",
+      "reason": "Microsoft Office implies Excel proficiency",
       "confidence": "medium"
     },
     {
-      "skill": "event planning",
-      "reason": "Experience with community events and classroom activities suggests event planning ability.",
+      "skill": "Customer Relationship Management",
+      "reason": "Customer service and point of sale experience suggest CRM skills",
       "confidence": "medium"
     },
     {
-      "skill": "teamwork",
-      "reason": "Experience with group instruction and community events indicates teamwork.",
+      "skill": "Cross-cultural Communication",
+      "reason": "Bilingual and multicultural experience indicate this skill",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
-  "gaps": [
-    "child-development",
-    "coaching",
-    "positive-reinforcement",
-    "sports-instruction",
-    "classroom-management",
-    "curriculum-delivery",
-    "parent-communication",
-    "safety-and-supervision",
-    "travel-to-sites"
+  "gaps": [],
+  "core_gaps": [],
+  "bridge_gaps": [
+    "cash-handling",
+    "classroom-support",
+    "cleanliness",
+    "computer-skills",
+    "developmentally-appropriate-practices",
+    "english-proficiency",
+    "food-preparation",
+    "food-safety",
+    "instructional-assistant",
+    "inventory-management"
   ],
-  "core_gaps": [
-    "child-development",
-    "coaching",
-    "positive-reinforcement",
-    "sports-instruction",
-    "classroom-management",
-    "curriculum-delivery",
-    "parent-communication",
-    "safety-and-supervision",
-    "travel-to-sites"
-  ],
-  "bridge_gaps": [],
   "stretch_gaps": [
-    "class-delivery",
-    "class-management",
-    "curriculum",
-    "curriculum-adherence",
-    "curriculum-following",
-    "lesson-planning",
-    "motivation",
-    "multi-sport",
-    "multisport",
-    "training"
+    "active-listening",
+    "administrative-support",
+    "attention-to-detail",
+    "data-entry",
+    "event-participation",
+    "excel",
+    "multimodal-instruction",
+    "private-lessons",
+    "public-speaking",
+    "team-work"
   ],
   "nice_to_have_gaps": [
-    "class-delivery",
-    "class-management",
-    "curriculum",
-    "curriculum-adherence",
-    "curriculum-following",
-    "lesson-planning",
-    "motivation",
-    "multi-sport",
-    "multisport",
-    "training"
+    "active-listening",
+    "administrative-support",
+    "attention-to-detail",
+    "cash-handling",
+    "classroom-support",
+    "cleanliness",
+    "computer-skills",
+    "data-entry",
+    "developmentally-appropriate-practices",
+    "english-proficiency"
   ],
-  "verify_gaps": [
-    "teamwork"
-  ],
+  "verify_gaps": [],
   "related": [
     {
       "skill": "googleclassroom",
       "pmi": 5.53
     },
     {
+      "skill": "privateinstruction",
+      "pmi": 4.37
+    },
+    {
+      "skill": "studentaffairs",
+      "pmi": 4.31
+    },
+    {
       "skill": "translation",
       "pmi": 4.26
+    },
+    {
+      "skill": "1on1instruction",
+      "pmi": 4.19
+    },
+    {
+      "skill": "vendormanagement",
+      "pmi": 4.08
+    },
+    {
+      "skill": "dormmanagement",
+      "pmi": 4.02
     },
     {
       "skill": "behaviordocumentation",
@@ -210,26 +254,6 @@
     {
       "skill": "travelbetweensites",
       "pmi": 3.81
-    },
-    {
-      "skill": "bcatcredential",
-      "pmi": 3.81
-    },
-    {
-      "skill": "emr",
-      "pmi": 3.59
-    },
-    {
-      "skill": "criticalthinking",
-      "pmi": 3.54
-    },
-    {
-      "skill": "datadocumentation",
-      "pmi": 3.51
-    },
-    {
-      "skill": "inwaterskillsassessment",
-      "pmi": 3.2
     }
   ],
   "related_skills": [
@@ -238,8 +262,28 @@
       "pmi": 5.53
     },
     {
+      "skill": "privateinstruction",
+      "pmi": 4.37
+    },
+    {
+      "skill": "studentaffairs",
+      "pmi": 4.31
+    },
+    {
       "skill": "translation",
       "pmi": 4.26
+    },
+    {
+      "skill": "1on1instruction",
+      "pmi": 4.19
+    },
+    {
+      "skill": "vendormanagement",
+      "pmi": 4.08
+    },
+    {
+      "skill": "dormmanagement",
+      "pmi": 4.02
     },
     {
       "skill": "behaviordocumentation",
@@ -252,26 +296,6 @@
     {
       "skill": "travelbetweensites",
       "pmi": 3.81
-    },
-    {
-      "skill": "bcatcredential",
-      "pmi": 3.81
-    },
-    {
-      "skill": "emr",
-      "pmi": 3.59
-    },
-    {
-      "skill": "criticalthinking",
-      "pmi": 3.54
-    },
-    {
-      "skill": "datadocumentation",
-      "pmi": 3.51
-    },
-    {
-      "skill": "inwaterskillsassessment",
-      "pmi": 3.2
     }
   ],
   "alternatives": [
@@ -296,238 +320,234 @@
       "pct": 7
     }
   ],
-  "coach_notes": "For a social-service path, focus first on child-development, coaching, positive-reinforcement. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "Your profile already shows relevant signals for social-service. Keep building direct project or internship evidence.",
   "jobs": [
     {
-      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 72,
+      "title": "Youth Success Specialist Intern",
+      "company": "theirc",
+      "url": "https://theirc.wd1.myworkdayjobs.com/job/Baltimore-MD-USA/Youth-Success-Specialist-Intern_JR00003024",
+      "fit": 88,
       "job_type": "goal",
-      "subdomain": "community-support",
-      "function": "education",
+      "subdomain": "youth-support",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.625,
         "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.333,
+        "subdomain_alignment": 0.462,
+        "experience_alignment": 0.507,
         "attainability": 0.75,
-        "skill_overlap": 0.222,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, part-time, no age restrictions.",
-      "bridge": "As a Youth Sports Coach, you're building transferable skills like communication, teamwork, and motivation—essential for leading a kitchen team or managing a restaurant. Your bilingual ability and curriculum delivery experience also directly prepare you for clear instruction and customer service in culinary settings."
+      "eligibility_reason": "Youth success specialist internship is suitable for young adults."
     },
     {
-      "title": "Amazing Athletes : Youth Sports Coach - Plano,TX",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/978E89445F",
+      "title": "Dance Professional",
+      "company": "fred-astaire-dance-studios-3",
+      "url": "https://apply.workable.com/j/A8270D9145",
       "fit": 69,
       "job_type": "goal",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.375,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.164,
+        "experience_alignment": 0.254,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a Youth Sports Coach, you'll sharpen communication and class-management skills that are essential for managing a restaurant team, while bilingual abilities and curriculum experience translate directly to training staff and creating menus—practical steps toward becoming a Chef or Restaurant Manager."
+      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
     },
     {
-      "title": "Amazing Athletes Youth Sports Coach",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 59,
-      "job_type": "goal",
+      "title": "Dual Language Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
+      "fit": 53,
+      "job_type": "bridge",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.125,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.224,
+        "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "No age restrictions for language assistant roles."
     },
     {
-      "title": "Amazing Athletes Youth Sports Coach - Chicago, IL",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/D3D85A8411",
-      "fit": 59,
-      "job_type": "goal",
+      "title": "Instructional Assistant (Spanish Speaking)",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
+      "fit": 52,
+      "job_type": "bridge",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.164,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "experience_alignment": 0.429,
+        "attainability": 0.85,
+        "skill_overlap": 0.429,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "Instructional assistant role is suitable for minors/young adults."
     },
     {
-      "title": "Amazing Athletes Youth Sports Coach - Las Vegas",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/7C3AB1D1AA",
-      "fit": 59,
-      "job_type": "goal",
+      "title": "Subway Sandwich Artist",
+      "company": "PilotCompany",
+      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
+      "fit": 52,
+      "job_type": "bridge",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.164,
+        "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.375,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "Sandwich making, no alcohol/gambling/etc."
     }
   ],
   "ready_now": [
     {
-      "title": "Amazing Athletes: Youth Sports Coach (Part-Time)",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/E1F5847A24",
-      "fit": 72,
+      "title": "Youth Success Specialist Intern",
+      "company": "theirc",
+      "url": "https://theirc.wd1.myworkdayjobs.com/job/Baltimore-MD-USA/Youth-Success-Specialist-Intern_JR00003024",
+      "fit": 88,
       "job_type": "goal",
-      "subdomain": "community-support",
-      "function": "education",
+      "subdomain": "youth-support",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.625,
         "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.333,
+        "subdomain_alignment": 0.462,
+        "experience_alignment": 0.507,
         "attainability": 0.75,
-        "skill_overlap": 0.222,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, part-time, no age restrictions.",
-      "bridge": "As a Youth Sports Coach, you're building transferable skills like communication, teamwork, and motivation—essential for leading a kitchen team or managing a restaurant. Your bilingual ability and curriculum delivery experience also directly prepare you for clear instruction and customer service in culinary settings."
+      "eligibility_reason": "Youth success specialist internship is suitable for young adults."
     },
     {
-      "title": "Amazing Athletes : Youth Sports Coach - Plano,TX",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/978E89445F",
+      "title": "Dance Professional",
+      "company": "fred-astaire-dance-studios-3",
+      "url": "https://apply.workable.com/j/A8270D9145",
       "fit": 69,
       "job_type": "goal",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.375,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.164,
+        "experience_alignment": 0.254,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a Youth Sports Coach, you'll sharpen communication and class-management skills that are essential for managing a restaurant team, while bilingual abilities and curriculum experience translate directly to training staff and creating menus—practical steps toward becoming a Chef or Restaurant Manager."
+      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
     }
   ],
   "aspirational": [
     {
-      "title": "Amazing Athletes Youth Sports Coach",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/F7F8A9F710",
-      "fit": 59,
-      "job_type": "goal",
+      "title": "Dual Language Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
+      "fit": 53,
+      "job_type": "bridge",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.125,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.224,
+        "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "No age restrictions for language assistant roles."
     },
     {
-      "title": "Amazing Athletes Youth Sports Coach - Chicago, IL",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/D3D85A8411",
-      "fit": 59,
-      "job_type": "goal",
+      "title": "Instructional Assistant (Spanish Speaking)",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
+      "fit": 52,
+      "job_type": "bridge",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.164,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "experience_alignment": 0.429,
+        "attainability": 0.85,
+        "skill_overlap": 0.429,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "Instructional assistant role is suitable for minors/young adults."
     },
     {
-      "title": "Amazing Athletes Youth Sports Coach - Las Vegas",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/7C3AB1D1AA",
-      "fit": 59,
-      "job_type": "goal",
+      "title": "Subway Sandwich Artist",
+      "company": "PilotCompany",
+      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
+      "fit": 52,
+      "job_type": "bridge",
       "subdomain": "community-support",
-      "function": "education",
+      "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "child-development, coaching, positive-reinforcement",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.164,
+        "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.375,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth sports coach, suitable for minors."
+      "eligibility_reason": "Sandwich making, no alcohol/gambling/etc."
     }
   ],
-  "skill_path": "Start by building child-development and classroom-management skills through volunteering at youth programs or after-school clubs; this directly supports your justice and social-service goals. Then, gain coaching and positive-reinforcement experience by assisting in sports instruction or leading group activities, which also transfer to restaurant management. Look for entry-level roles like youth counselor, assistant coach, or kitchen team member to blend these skills while exploring your dream careers.",
+  "skill_path": "Start by building cash-handling and computer skills through entry-level roles like host or cashier in a restaurant, which also teach cleanliness. Then, seek a line cook or assistant manager position to gain kitchen and supervisory experience, bridging to chef or restaurant manager. For justice, volunteer in community programs to apply developmentally-appropriate practices and classroom-support skills, then pursue a social service role in juvenile justice.",
   "ideal_careers": [
     "Justice",
     "Chef",
@@ -539,12 +559,10 @@
       "legal"
     ],
     "goal_roles": [
-      "community advocate",
-      "criminal justice professional"
+      "community advocate"
     ],
     "goal_subdomains": [
-      "community-support",
-      "youth-support"
+      "community-support"
     ],
     "study_domains": [
       "legal"
@@ -605,7 +623,7 @@
   ],
   "lane_used": "rescue",
   "job_cluster": [
-    "community-support",
+    "youth-support",
     "community-support",
     "community-support",
     "community-support",
@@ -627,13 +645,11 @@
         "legal"
       ],
       "goal_subdomains": [
-        "community-support",
-        "youth-support"
+        "community-support"
       ],
       "study_subdomains": [],
       "goal_roles": [
-        "community advocate",
-        "criminal justice professional"
+        "community advocate"
       ],
       "confidence": 0.65,
       "evidence_spans": [
@@ -647,7 +663,7 @@
         }
       ],
       "reason_codes": [
-        "explicit goal in headline",
+        "explicit goals in headline",
         "community-focused experience",
         "bilingual advocacy"
       ],
@@ -670,7 +686,25 @@
         "microsoft",
         "microsoft office",
         "office",
-        "spanish"
+        "spanish",
+        "advocate",
+        "cash transactions",
+        "classroom activities",
+        "cleanliness standards",
+        "community events",
+        "criminal justice",
+        "customer service",
+        "event planning",
+        "food distribution",
+        "group instruction",
+        "interpretation",
+        "point of sale",
+        "pos systems",
+        "small group instruction",
+        "spanish communication",
+        "student support",
+        "teamwork",
+        "waitstaff"
       ],
       "verified_skills": [
         "bilingual",
@@ -687,7 +721,25 @@
         "microsoft",
         "microsoft office",
         "office",
-        "spanish"
+        "spanish",
+        "advocate",
+        "cash transactions",
+        "classroom activities",
+        "cleanliness standards",
+        "community events",
+        "criminal justice",
+        "customer service",
+        "event planning",
+        "food distribution",
+        "group instruction",
+        "interpretation",
+        "point of sale",
+        "pos systems",
+        "small group instruction",
+        "spanish communication",
+        "student support",
+        "teamwork",
+        "waitstaff"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -698,39 +750,26 @@
         "Foreign Language",
         "Instructing",
         "Mathematics",
-        "Writing",
-        "advocate",
+        "Sales and Marketing",
+        "Service Orientation",
         "bachelor",
         "can",
         "cash",
-        "cash transactions",
-        "classroom activities",
         "cleanliness",
-        "cleanliness standards",
-        "community events",
-        "criminal justice",
-        "customer service",
         "distribution",
         "documents",
         "donations",
         "efficiency",
         "emails",
-        "event planning",
         "fast paced",
         "food",
-        "food distribution",
-        "group instruction",
         "high volume",
         "high volume environment",
         "hours",
         "instruction",
-        "interpretation",
         "media",
         "multicultural",
         "organized",
-        "point of sale",
-        "pos",
-        "pos systems",
         "prepared food",
         "program",
         "quality",
@@ -739,33 +778,27 @@
         "safety",
         "safety and quality",
         "service",
-        "small group instruction",
-        "spanish communication",
-        "spanish english",
         "speak",
         "sponsors",
         "standards",
-        "student support",
         "systems",
-        "teamwork",
         "transactions",
-        "united states",
-        "waitstaff"
+        "united states"
       ],
       "implicit_skills": [
         {
-          "skill": "customer service",
-          "reason": "Experience with cash transactions and point of sale systems implies customer service skills.",
+          "skill": "Microsoft Excel",
+          "reason": "Microsoft Office implies Excel proficiency",
           "confidence": "medium"
         },
         {
-          "skill": "event planning",
-          "reason": "Experience with community events and classroom activities suggests event planning ability.",
+          "skill": "Customer Relationship Management",
+          "reason": "Customer service and point of sale experience suggest CRM skills",
           "confidence": "medium"
         },
         {
-          "skill": "teamwork",
-          "reason": "Experience with group instruction and community events indicates teamwork.",
+          "skill": "Cross-cultural Communication",
+          "reason": "Bilingual and multicultural experience indicate this skill",
           "confidence": "medium"
         }
       ],

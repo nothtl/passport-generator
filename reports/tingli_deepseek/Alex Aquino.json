@@ -252,49 +252,48 @@
   "implicit_skills": [],
   "skill_evidence": [],
   "gaps": [
-    "documentation",
-    "excel",
-    "testing"
+    "microsoft-office",
+    "time-management"
   ],
   "core_gaps": [
-    "documentation",
-    "excel",
-    "testing"
+    "microsoft-office",
+    "time-management"
   ],
   "bridge_gaps": [
-    "crimping",
-    "engineering-drawings",
-    "heat-gun",
-    "reading-engineering-drawings",
-    "safety-procedures",
-    "shop-aids",
-    "stripping",
-    "verification",
-    "wire-harness-manufacturing"
+    "advanced-excel",
+    "auditing",
+    "blueprints",
+    "confined-space",
+    "construction-management",
+    "customer-service",
+    "data-analysis",
+    "delivery-driving",
+    "documentation",
+    "engineering"
   ],
   "stretch_gaps": [
-    "biomedical",
-    "blueprint-reading",
-    "calibration",
-    "chemical",
-    "cleanroom",
-    "cmm-machines",
-    "cnc-machines",
-    "cqv",
-    "data-analysis",
-    "deviation-investigation"
+    "concrete",
+    "drywall",
+    "electrical",
+    "framing",
+    "masonry",
+    "mechanical",
+    "painting",
+    "plumbing",
+    "roofing",
+    "stucco"
   ],
   "nice_to_have_gaps": [
-    "biomedical",
-    "blueprint-reading",
-    "calibration",
-    "chemical",
-    "cleanroom",
-    "cmm-machines",
-    "cnc-machines",
-    "cqv",
-    "crimping",
-    "data-analysis"
+    "advanced-excel",
+    "auditing",
+    "blueprints",
+    "concrete",
+    "confined-space",
+    "construction-management",
+    "customer-service",
+    "data-analysis",
+    "delivery-driving",
+    "documentation"
   ],
   "verify_gaps": [],
   "related": [],
@@ -321,231 +320,231 @@
       "pct": 6
     }
   ],
-  "coach_notes": "For a technology path, focus first on documentation, excel, testing. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a technology path, focus first on microsoft-office, time-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "CQV Engineer / Deviation Investigator (New Grad)",
-      "company": "veristainc",
-      "url": "https://job-boards.greenhouse.io/veristainc/jobs/4502656008",
-      "fit": 82,
+      "title": "Entry Level Construction Technician",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4177571",
+      "fit": 88,
       "job_type": "goal",
       "subdomain": "engineering",
-      "function": "engineering",
+      "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
+      "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.25,
-        "subdomain_alignment": 0.917,
-        "experience_alignment": 0.385,
+        "goal_alignment": 0.556,
+        "study_alignment": 0.714,
+        "subdomain_alignment": 0.727,
+        "experience_alignment": 0.235,
         "attainability": 0.75,
-        "skill_overlap": 0.154,
+        "skill_overlap": 0.067,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Engineering role, no age restriction."
+      "eligibility_reason": "Entry-level construction technician roles are suitable for 16-20 year olds."
     },
     {
-      "title": "Calibration Technician",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4078028",
-      "fit": 79,
-      "job_type": "goal",
-      "subdomain": "engineering",
-      "function": "engineering",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.25,
-        "subdomain_alignment": 0.75,
-        "experience_alignment": 0.385,
-        "attainability": 0.75,
-        "skill_overlap": 0.154,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Calibration technician, no age restriction."
-    },
-    {
-      "title": "Manufacturing Inline Controls Process Technician (Nights)",
-      "company": "globalfoundries",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Manufacturing-Inline-Controls-Process-Technician_JR-2600901",
-      "fit": 69,
-      "job_type": "goal",
-      "subdomain": "robotics-manufacturing",
-      "function": "engineering",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.317,
-        "experience_alignment": 0.414,
-        "attainability": 0.75,
-        "skill_overlap": 0.053,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Manufacturing technician, no age restriction."
-    },
-    {
-      "title": "Production Operator-Days",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4211358",
-      "fit": 67,
-      "job_type": "goal",
-      "subdomain": "robotics-manufacturing",
-      "function": "engineering",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.571,
-        "experience_alignment": 0.357,
-        "attainability": 0.75,
-        "skill_overlap": 0.143,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Production operator, no age restriction."
-    },
-    {
-      "title": "Avionics Craftsman II (Contract)",
-      "company": "greenpointtechnologies",
-      "url": "https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5232809008",
-      "fit": 63,
+      "title": "Plumbing Apprentice",
+      "company": "sila",
+      "url": "https://jobs.lever.co/sila/354fbc33-956d-45cc-99ac-9aa8d58b4102",
+      "fit": 85,
       "job_type": "bridge",
       "subdomain": "engineering",
-      "function": "engineering",
+      "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
+      "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.25,
-        "subdomain_alignment": 0.773,
-        "experience_alignment": 0.426,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.429,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.375,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Avionics technician, no age restriction."
+      "eligibility_reason": "Apprentice, no age restriction."
+    },
+    {
+      "title": "Assistant Safety Coordinator",
+      "company": "holderconstruction",
+      "url": "https://job-boards.greenhouse.io/holderconstruction/jobs/4182689009",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "engineering",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.302,
+        "attainability": 0.75,
+        "skill_overlap": 0.167,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Safety coordinator role, no age restriction."
+    },
+    {
+      "title": "Welder/Fabricator- 2nd Shift",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "robotics-manufacturing",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
+    },
+    {
+      "title": "Purchasing Intern",
+      "company": "BoschGroup",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
+      "fit": 59,
+      "job_type": "bridge",
+      "subdomain": "engineering",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restriction."
     }
   ],
   "ready_now": [
     {
-      "title": "CQV Engineer / Deviation Investigator (New Grad)",
-      "company": "veristainc",
-      "url": "https://job-boards.greenhouse.io/veristainc/jobs/4502656008",
-      "fit": 82,
+      "title": "Entry Level Construction Technician",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4177571",
+      "fit": 88,
       "job_type": "goal",
       "subdomain": "engineering",
-      "function": "engineering",
+      "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
+      "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.25,
-        "subdomain_alignment": 0.917,
-        "experience_alignment": 0.385,
+        "goal_alignment": 0.556,
+        "study_alignment": 0.714,
+        "subdomain_alignment": 0.727,
+        "experience_alignment": 0.235,
         "attainability": 0.75,
-        "skill_overlap": 0.154,
+        "skill_overlap": 0.067,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Engineering role, no age restriction."
+      "eligibility_reason": "Entry-level construction technician roles are suitable for 16-20 year olds."
     },
     {
-      "title": "Calibration Technician",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4078028",
-      "fit": 79,
-      "job_type": "goal",
+      "title": "Plumbing Apprentice",
+      "company": "sila",
+      "url": "https://jobs.lever.co/sila/354fbc33-956d-45cc-99ac-9aa8d58b4102",
+      "fit": 85,
+      "job_type": "bridge",
       "subdomain": "engineering",
-      "function": "engineering",
+      "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
+      "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.25,
-        "subdomain_alignment": 0.75,
-        "experience_alignment": 0.385,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.429,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.154,
+        "skill_overlap": 0.375,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Calibration technician, no age restriction."
+      "eligibility_reason": "Apprentice, no age restriction."
     }
   ],
   "aspirational": [
     {
-      "title": "Manufacturing Inline Controls Process Technician (Nights)",
-      "company": "globalfoundries",
-      "url": "https://globalfoundries.wd1.myworkdayjobs.com/job/USA---New-York---Malta/Manufacturing-Inline-Controls-Process-Technician_JR-2600901",
-      "fit": 69,
-      "job_type": "goal",
-      "subdomain": "robotics-manufacturing",
-      "function": "engineering",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.317,
-        "experience_alignment": 0.414,
-        "attainability": 0.75,
-        "skill_overlap": 0.053,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Manufacturing technician, no age restriction."
-    },
-    {
-      "title": "Production Operator-Days",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4211358",
-      "fit": 67,
-      "job_type": "goal",
-      "subdomain": "robotics-manufacturing",
-      "function": "engineering",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.571,
-        "experience_alignment": 0.357,
-        "attainability": 0.75,
-        "skill_overlap": 0.143,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Production operator, no age restriction."
-    },
-    {
-      "title": "Avionics Craftsman II (Contract)",
-      "company": "greenpointtechnologies",
-      "url": "https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5232809008",
-      "fit": 63,
+      "title": "Assistant Safety Coordinator",
+      "company": "holderconstruction",
+      "url": "https://job-boards.greenhouse.io/holderconstruction/jobs/4182689009",
+      "fit": 61,
       "job_type": "bridge",
       "subdomain": "engineering",
-      "function": "engineering",
+      "function": "skilled-trade",
       "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "documentation, excel, testing",
+      "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.25,
-        "subdomain_alignment": 0.773,
-        "experience_alignment": 0.426,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.302,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.167,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Avionics technician, no age restriction."
+      "eligibility_reason": "Safety coordinator role, no age restriction."
+    },
+    {
+      "title": "Welder/Fabricator- 2nd Shift",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "robotics-manufacturing",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
+    },
+    {
+      "title": "Purchasing Intern",
+      "company": "BoschGroup",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
+      "fit": 59,
+      "job_type": "bridge",
+      "subdomain": "engineering",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restriction."
     }
   ],
   "skill_path": null,
@@ -556,21 +555,18 @@
       "skilled-trade"
     ],
     "goal_roles": [
-      "Mechanical Engineer",
-      "CAD Designer"
+      "mechanical engineer",
+      "design engineer"
     ],
     "goal_subdomains": [
       "engineering",
       "robotics-manufacturing"
     ],
     "study_domains": [
-      "technology",
-      "design",
-      "skilled-trade"
+      "technology"
     ],
     "study_subdomains": [
-      "engineering",
-      "robotics-manufacturing"
+      "engineering"
     ],
     "study_program": "Bachelor of Science in Mechanical Engineering",
     "study_level": "bachelor",
@@ -620,7 +616,7 @@
     "skilled-trade"
   ],
   "subdomain": "engineering",
-  "subdomain_confidence": 0.7,
+  "subdomain_confidence": 0.85,
   "subdomain_alternatives": [
     "systems",
     "robotics-manufacturing",
@@ -630,7 +626,7 @@
   "job_cluster": [
     "engineering",
     "engineering",
-    "robotics-manufacturing",
+    "engineering",
     "robotics-manufacturing",
     "engineering"
   ],
@@ -647,23 +643,20 @@
         "skilled-trade"
       ],
       "study_domains": [
-        "technology",
-        "design",
-        "skilled-trade"
+        "technology"
       ],
       "goal_subdomains": [
         "engineering",
         "robotics-manufacturing"
       ],
       "study_subdomains": [
-        "engineering",
-        "robotics-manufacturing"
+        "engineering"
       ],
       "goal_roles": [
-        "Mechanical Engineer",
-        "CAD Designer"
+        "mechanical engineer",
+        "design engineer"
       ],
-      "confidence": 0.7,
+      "confidence": 0.85,
       "evidence_spans": [
         {
           "section": "education",
@@ -675,8 +668,9 @@
         }
       ],
       "reason_codes": [
-        "education_major",
-        "project_experience"
+        "explicit_education",
+        "engineering_projects",
+        "technical_skills"
       ],
       "review_reasons": []
     },

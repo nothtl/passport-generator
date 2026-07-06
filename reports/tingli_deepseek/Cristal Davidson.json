@@ -515,7 +515,7 @@
     ],
     "goal_roles": [
       "archivist",
-      "museum educator"
+      "museum curator"
     ],
     "goal_subdomains": [
       "content-creation",
@@ -611,7 +611,7 @@
       ],
       "goal_roles": [
         "archivist",
-        "museum educator"
+        "museum curator"
       ],
       "confidence": 0.7,
       "evidence_spans": [

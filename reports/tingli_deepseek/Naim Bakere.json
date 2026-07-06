@@ -21,9 +21,10 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organization",
-    "organizational",
     "organizational skills",
+    "organization",
+    "organizing",
+    "teamwork",
     "tech",
     "technical",
     "programming",
@@ -49,9 +50,10 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organization",
-    "organizational",
     "organizational skills",
+    "organization",
+    "organizing",
+    "teamwork",
     "tech",
     "technical",
     "programming",
@@ -70,7 +72,6 @@
     "business",
     "can",
     "certificate",
-    "communicating",
     "customers",
     "detail",
     "excellence",
@@ -83,7 +84,6 @@
     "motivated",
     "operation",
     "ordering",
-    "organizing",
     "plan",
     "prayer",
     "present",
@@ -95,7 +95,6 @@
     "sportsmanship",
     "stem",
     "stock",
-    "teamwork",
     "united states"
   ],
   "skill_weights": {},
@@ -118,9 +117,10 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organization",
-    "organizational",
     "organizational skills",
+    "organization",
+    "organizing",
+    "teamwork",
     "tech",
     "technical",
     "programming",
@@ -129,61 +129,59 @@
   ],
   "inferred": [
     "customer service",
-    "project management",
+    "inventory management",
     "bilingual communication"
   ],
   "implicit_skills": [
     {
       "skill": "customer service",
-      "reason": "Experience with customers and ordering suggests customer service skills.",
+      "reason": "Experience with customers and ordering implies customer service skills.",
       "confidence": "medium"
     },
     {
-      "skill": "project management",
-      "reason": "Organizing and planning projects implies project management ability.",
+      "skill": "inventory management",
+      "reason": "Experience with stock and ordering suggests inventory management.",
       "confidence": "medium"
     },
     {
       "skill": "bilingual communication",
-      "reason": "Multilingual skills and translator role indicate bilingual communication.",
+      "reason": "Multilingual skills and translator role imply bilingual communication ability.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "teamwork",
     "child-development",
     "classroom-management"
   ],
   "core_gaps": [
-    "teamwork",
     "child-development",
     "classroom-management"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "adaptability",
+    "basketball",
     "child-supervision",
-    "class-lesson-planning",
     "coaching",
     "discipline",
-    "early-childhood-education",
     "education",
-    "fitness",
     "food-systems",
-    "google-apps"
+    "google-apps",
+    "high-school-diploma",
+    "microsoft-office"
   ],
   "nice_to_have_gaps": [
     "adaptability",
+    "basketball",
     "child-supervision",
-    "class-lesson-planning",
     "coaching",
     "discipline",
-    "early-childhood-education",
     "education",
-    "fitness",
     "food-systems",
-    "google-apps"
+    "google-apps",
+    "high-school-diploma",
+    "microsoft-office"
   ],
   "verify_gaps": [],
   "related": [
@@ -292,47 +290,69 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on teamwork, child-development, classroom-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a education path, focus first on child-development, classroom-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Preschool Aide",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4129459",
-      "fit": 88,
+      "fit": 77,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
+      "gaps": "child-development, classroom-management",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.667,
-        "subdomain_alignment": 0.903,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.095,
-        "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "attainability": 0.85,
+        "skill_overlap": 0.5,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Preschool aide role is suitable for minors."
     },
     {
-      "title": "Education Steward - AmeriCorps",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 88,
+      "title": "Children's Soccer Coach",
+      "company": "super-soccer-stars",
+      "url": "https://apply.workable.com/j/4DBE9FFE96",
+      "fit": 72,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
+      "gaps": "child-development, classroom-management",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.917,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.111,
+        "attainability": 0.85,
+        "skill_overlap": 0.556,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "No age restrictions for coaching children's soccer."
+    },
+    {
+      "title": "Education Steward - AmeriCorps",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
+      "gaps": "child-development, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.083,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.364,
+        "skill_overlap": 0.455,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -342,67 +362,45 @@
       "title": "After School Program Teacher Assistant",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4225794",
-      "fit": 76,
+      "fit": 61,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
+      "gaps": "child-development, classroom-management",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.825,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.048,
-        "attainability": 0.75,
-        "skill_overlap": 0.333,
+        "attainability": 0.85,
+        "skill_overlap": 0.444,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Teacher assistant in after school program is suitable."
     },
     {
-      "title": "Youth Soccer Coach",
-      "company": "super-soccer-stars",
-      "url": "https://apply.workable.com/j/6F7F78C721",
-      "fit": 75,
+      "title": "Graduate Assistant - Women’s Basketball",
+      "company": "university-of-mount-saint-vincent",
+      "url": "https://apply.workable.com/j/9ABAD56567",
+      "fit": 56,
       "job_type": "goal",
-      "subdomain": "classroom-support",
+      "subdomain": "higher-ed-support",
       "function": "education",
       "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
+      "gaps": "child-development, classroom-management",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.444,
-        "subdomain_alignment": 1.0,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.143,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth soccer coach role is suitable for young adults."
-    },
-    {
-      "title": "Children's Soccer Coach",
-      "company": "super-soccer-stars",
-      "url": "https://apply.workable.com/j/4DBE9FFE96",
-      "fit": 74,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.571,
-        "experience_alignment": 0.111,
-        "attainability": 0.85,
-        "skill_overlap": 0.556,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restrictions for coaching children's soccer."
+      "eligibility_reason": "Graduate assistant, but role is for university; likely requires enrollment, not age 21+."
     }
   ],
   "ready_now": [
@@ -410,106 +408,38 @@
       "title": "Preschool Aide",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4129459",
-      "fit": 88,
+      "fit": 77,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
+      "gaps": "child-development, classroom-management",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.667,
-        "subdomain_alignment": 0.903,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.095,
-        "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "attainability": 0.85,
+        "skill_overlap": 0.5,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Preschool aide role is suitable for minors."
     },
     {
-      "title": "Education Steward - AmeriCorps",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.917,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.364,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Education steward, suitable for youth."
-    }
-  ],
-  "aspirational": [
-    {
-      "title": "After School Program Teacher Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4225794",
-      "fit": 76,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.825,
-        "experience_alignment": 0.048,
-        "attainability": 0.75,
-        "skill_overlap": 0.333,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Teacher assistant in after school program is suitable."
-    },
-    {
-      "title": "Youth Soccer Coach",
-      "company": "super-soccer-stars",
-      "url": "https://apply.workable.com/j/6F7F78C721",
-      "fit": 75,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.143,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth soccer coach role is suitable for young adults."
-    },
-    {
       "title": "Children's Soccer Coach",
       "company": "super-soccer-stars",
       "url": "https://apply.workable.com/j/4DBE9FFE96",
-      "fit": 74,
+      "fit": 72,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
-      "gaps": "teamwork, child-development, classroom-management",
+      "gaps": "child-development, classroom-management",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.571,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.111,
         "attainability": 0.85,
         "skill_overlap": 0.556,
@@ -517,6 +447,74 @@
       },
       "eligible": true,
       "eligibility_reason": "No age restrictions for coaching children's soccer."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Education Steward - AmeriCorps",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
+      "gaps": "child-development, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.083,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.455,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Education steward, suitable for youth."
+    },
+    {
+      "title": "After School Program Teacher Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4225794",
+      "fit": 61,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
+      "gaps": "child-development, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.048,
+        "attainability": 0.85,
+        "skill_overlap": 0.444,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teacher assistant in after school program is suitable."
+    },
+    {
+      "title": "Graduate Assistant - Women’s Basketball",
+      "company": "university-of-mount-saint-vincent",
+      "url": "https://apply.workable.com/j/9ABAD56567",
+      "fit": 56,
+      "job_type": "goal",
+      "subdomain": "higher-ed-support",
+      "function": "education",
+      "why": "Uses your analytical, analytical skills, engineering skills in a education role.",
+      "gaps": "child-development, classroom-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.143,
+        "attainability": 0.75,
+        "skill_overlap": 0.4,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graduate assistant, but role is for university; likely requires enrollment, not age 21+."
     }
   ],
   "skill_path": null,
@@ -529,13 +527,13 @@
       "translator"
     ],
     "goal_subdomains": [
-      "classroom-support"
+      "community-education"
     ],
     "study_domains": [
       "education"
     ],
     "study_subdomains": [
-      "classroom-support"
+      "community-education"
     ],
     "study_program": "Associated with ELLIS:",
     "study_level": "associate",
@@ -584,7 +582,7 @@
     "education",
     "arts-media"
   ],
-  "subdomain": "classroom-support",
+  "subdomain": "community-education",
   "subdomain_confidence": 1.0,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
@@ -593,7 +591,7 @@
     "classroom-support",
     "classroom-support",
     "classroom-support",
-    "classroom-support"
+    "higher-ed-support"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -601,7 +599,7 @@
     "route": {
       "accepted": true,
       "chosen_function": "education",
-      "chosen_subdomain": "classroom-support",
+      "chosen_subdomain": "community-education",
       "secondary_function": "arts-media",
       "goal_domains": [
         "education"
@@ -610,10 +608,10 @@
         "education"
       ],
       "goal_subdomains": [
-        "classroom-support"
+        "community-education"
       ],
       "study_subdomains": [
-        "classroom-support"
+        "community-education"
       ],
       "goal_roles": [
         "translator"
@@ -630,8 +628,8 @@
         }
       ],
       "reason_codes": [
-        "explicit goal in summary",
-        "thin resume with broad entry-level pool"
+        "explicit goal",
+        "thin resume"
       ],
       "review_reasons": []
     },
@@ -656,9 +654,10 @@
         "modeling",
         "attention to detail",
         "time management",
-        "organization",
-        "organizational",
         "organizational skills",
+        "organization",
+        "organizing",
+        "teamwork",
         "tech",
         "technical",
         "programming",
@@ -684,9 +683,10 @@
         "modeling",
         "attention to detail",
         "time management",
-        "organization",
-        "organizational",
         "organizational skills",
+        "organization",
+        "organizing",
+        "teamwork",
         "tech",
         "technical",
         "programming",
@@ -705,7 +705,6 @@
         "business",
         "can",
         "certificate",
-        "communicating",
         "customers",
         "detail",
         "excellence",
@@ -718,7 +717,6 @@
         "motivated",
         "operation",
         "ordering",
-        "organizing",
         "plan",
         "prayer",
         "present",
@@ -730,23 +728,22 @@
         "sportsmanship",
         "stem",
         "stock",
-        "teamwork",
         "united states"
       ],
       "implicit_skills": [
         {
           "skill": "customer service",
-          "reason": "Experience with customers and ordering suggests customer service skills.",
+          "reason": "Experience with customers and ordering implies customer service skills.",
           "confidence": "medium"
         },
         {
-          "skill": "project management",
-          "reason": "Organizing and planning projects implies project management ability.",
+          "skill": "inventory management",
+          "reason": "Experience with stock and ordering suggests inventory management.",
           "confidence": "medium"
         },
         {
           "skill": "bilingual communication",
-          "reason": "Multilingual skills and translator role indicate bilingual communication.",
+          "reason": "Multilingual skills and translator role imply bilingual communication ability.",
           "confidence": "medium"
         }
       ],

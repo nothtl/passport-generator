@@ -7,11 +7,13 @@
     "bilingual",
     "bilingual spanish",
     "google suite",
-    "mentorship",
-    "outreach",
     "photoshop",
     "public speaking",
     "spanish",
+    "mentorship",
+    "mentorship program",
+    "outreach",
+    "program",
     "analysis",
     "community outreach",
     "computer",
@@ -22,22 +24,39 @@
     "design",
     "digital",
     "entrepreneurship",
+    "google maps",
     "graphic design",
     "mentoring",
     "networking",
-    "program",
-    "projects"
+    "poetry",
+    "present",
+    "social perceptiveness",
+    "active listening",
+    "critical thinking",
+    "management of personnel resources",
+    "speaking",
+    "foreign language",
+    "writing",
+    "instructing",
+    "coordination",
+    "customer and personal service",
+    "communications and media",
+    "administrative",
+    "computers and electronics",
+    "mathematics"
   ],
   "verified_skills": [
     "adobe",
     "bilingual",
     "bilingual spanish",
     "google suite",
-    "mentorship",
-    "outreach",
     "photoshop",
     "public speaking",
     "spanish",
+    "mentorship",
+    "mentorship program",
+    "outreach",
+    "program",
     "analysis",
     "community outreach",
     "computer",
@@ -48,16 +67,29 @@
     "design",
     "digital",
     "entrepreneurship",
+    "google maps",
     "graphic design",
     "mentoring",
     "networking",
-    "program",
-    "projects"
+    "poetry",
+    "present",
+    "social perceptiveness",
+    "active listening",
+    "critical thinking",
+    "management of personnel resources",
+    "speaking",
+    "foreign language",
+    "writing",
+    "instructing",
+    "coordination",
+    "customer and personal service",
+    "communications and media",
+    "administrative",
+    "computers and electronics",
+    "mathematics"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "active listening",
-    "administrative",
     "application process",
     "basketball",
     "behavior",
@@ -65,23 +97,15 @@
     "can",
     "christian",
     "church",
-    "communications and media",
     "community events",
-    "computers and electronics",
-    "coordination",
-    "critical thinking",
     "culture",
-    "customer and personal service",
     "delivery",
     "extracurricular activities",
     "families",
-    "foreign language",
     "google",
-    "google maps",
     "grades",
     "high school",
     "home",
-    "instructing",
     "intake",
     "internship",
     "internship application",
@@ -89,9 +113,9 @@
     "kahoot",
     "local",
     "make",
-    "management of personnel resources",
     "manager",
     "maps",
+    "mentor",
     "mentors",
     "meta",
     "music",
@@ -103,14 +127,7 @@
     "organization",
     "part",
     "platform",
-    "platforms",
-    "poetry",
-    "present",
-    "programs",
-    "sales and marketing",
-    "social perceptiveness",
-    "speaking",
-    "writing"
+    "platforms"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -118,11 +135,13 @@
     "bilingual",
     "bilingual spanish",
     "google suite",
-    "mentorship",
-    "outreach",
     "photoshop",
     "public speaking",
     "spanish",
+    "mentorship",
+    "mentorship program",
+    "outreach",
+    "program",
     "analysis",
     "community outreach",
     "computer",
@@ -133,11 +152,26 @@
     "design",
     "digital",
     "entrepreneurship",
+    "google maps",
     "graphic design",
     "mentoring",
     "networking",
-    "program",
-    "projects"
+    "poetry",
+    "present",
+    "social perceptiveness",
+    "active listening",
+    "critical thinking",
+    "management of personnel resources",
+    "speaking",
+    "foreign language",
+    "writing",
+    "instructing",
+    "coordination",
+    "customer and personal service",
+    "communications and media",
+    "administrative",
+    "computers and electronics",
+    "mathematics"
   ],
   "inferred": [
     "teamwork",
@@ -147,69 +181,69 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Involvement in community events and outreach suggests collaboration.",
+      "reason": "Experience with community outreach and extracurricular activities implies collaboration.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Balancing extracurricular activities, internships, and academics implies time management.",
+      "reason": "Balancing multiple roles (mentorship, internship, community events) suggests strong time management.",
       "confidence": "medium"
     },
     {
       "skill": "problem solving",
-      "reason": "Experience with analysis and critical thinking indicates problem-solving ability.",
+      "reason": "Critical thinking and analysis skills indicate problem-solving ability.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "teaching",
+    "classroom-management",
     "communication",
     "english",
     "lbs1",
     "pel",
-    "speaking",
-    "special-education",
-    "writing"
+    "special-education"
   ],
   "core_gaps": [
-    "teaching",
+    "classroom-management",
     "communication",
     "english",
     "lbs1",
     "pel",
-    "speaking",
-    "special-education",
-    "writing"
+    "special-education"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "career-coaching",
-    "classroom-management",
-    "critical-thinking",
-    "curriculum-design",
-    "customer-service",
+    "bachelor-s-degree",
+    "case-management",
+    "client-screening",
+    "coaching",
+    "documentation",
     "education standards",
-    "education-events",
-    "facilitation",
-    "innovation",
-    "leadership"
+    "intake",
+    "job-readiness",
+    "leadership",
+    "microsoft-office"
   ],
   "nice_to_have_gaps": [
-    "career-coaching",
-    "classroom-management",
-    "critical-thinking",
-    "curriculum-design",
-    "customer-service",
+    "bachelor-s-degree",
+    "case-management",
+    "client-screening",
+    "coaching",
+    "documentation",
     "education standards",
-    "education-events",
-    "facilitation",
-    "innovation",
-    "leadership"
+    "intake",
+    "job-readiness",
+    "leadership",
+    "microsoft-office"
   ],
   "verify_gaps": [],
   "related": [
     {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
       "skill": "cybersecurity",
       "pmi": 5.83
     },
@@ -218,40 +252,40 @@
       "pmi": 5.53
     },
     {
+      "skill": "readingcomprehension",
+      "pmi": 4.76
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "reading",
+      "pmi": 4.39
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
       "skill": "clinicalexposure",
       "pmi": 4.37
     },
     {
+      "skill": "literature",
+      "pmi": 4.36
+    },
+    {
       "skill": "translation",
       "pmi": 4.26
-    },
-    {
-      "skill": "veterinarystudent",
-      "pmi": 4.25
-    },
-    {
-      "skill": "clinicalexperience",
-      "pmi": 4.1
-    },
-    {
-      "skill": "externship",
-      "pmi": 3.91
-    },
-    {
-      "skill": "carecoordination",
-      "pmi": 3.81
-    },
-    {
-      "skill": "dvm",
-      "pmi": 3.74
-    },
-    {
-      "skill": "avmaaccredited",
-      "pmi": 3.71
     }
   ],
   "related_skills": [
     {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
       "skill": "cybersecurity",
       "pmi": 5.83
     },
@@ -260,36 +294,32 @@
       "pmi": 5.53
     },
     {
+      "skill": "readingcomprehension",
+      "pmi": 4.76
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "reading",
+      "pmi": 4.39
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
       "skill": "clinicalexposure",
       "pmi": 4.37
     },
     {
+      "skill": "literature",
+      "pmi": 4.36
+    },
+    {
       "skill": "translation",
       "pmi": 4.26
-    },
-    {
-      "skill": "veterinarystudent",
-      "pmi": 4.25
-    },
-    {
-      "skill": "clinicalexperience",
-      "pmi": 4.1
-    },
-    {
-      "skill": "externship",
-      "pmi": 3.91
-    },
-    {
-      "skill": "carecoordination",
-      "pmi": 3.81
-    },
-    {
-      "skill": "dvm",
-      "pmi": 3.74
-    },
-    {
-      "skill": "avmaaccredited",
-      "pmi": 3.71
     }
   ],
   "alternatives": [
@@ -314,47 +344,47 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on teaching, communication, english. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a education path, focus first on classroom-management, communication, english. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Adjunct Faculty: Entrepreneurship 2026",
-      "company": "AugsburgUniversity-MinneapolisMN",
-      "url": "https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000095442236",
+      "title": "Part-time Career Coach, NeOn Works",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3106151",
       "fit": 83,
       "job_type": "goal",
-      "subdomain": "higher-ed-support",
+      "subdomain": "youth-programs",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.048,
-        "experience_alignment": 0.286,
-        "attainability": 0.75,
-        "skill_overlap": 0.286,
+        "goal_alignment": 0.5,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.545,
+        "experience_alignment": 0.403,
+        "attainability": 0.65,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Adjunct faculty, no age restriction."
+      "eligibility_reason": "Career coaching is a professional role that does not have legal age restrictions for minors/young adults."
     },
     {
       "title": "University Supervisor",
       "company": "ucumberlands",
       "url": "https://ucumberlands.wd1.myworkdayjobs.com/job/Remote-Locations/University-Supervisor_R1177-1",
-      "fit": 77,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.4,
         "study_alignment": 0.556,
         "subdomain_alignment": 0.207,
         "experience_alignment": 0.119,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -364,109 +394,109 @@
       "title": "Bilingual Special Education Teacher (English/Spanish)",
       "company": "menta",
       "url": "https://jobs.lever.co/menta/deea67a2-ceb6-487a-9611-10db54c8954a",
-      "fit": 64,
+      "fit": 60,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.4,
         "study_alignment": 0.556,
         "subdomain_alignment": 0.115,
         "experience_alignment": 0.03,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Same as above."
     },
     {
-      "title": "Bilingual Special Education Teacher (English/Spanish)",
-      "company": "menta",
-      "url": "https://jobs.lever.co/menta/02cdb7bf-d510-4f61-9aec-92390e906085",
-      "fit": 64,
+      "title": "Substitute Teacher",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1035263",
+      "fit": 57,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.4,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.115,
-        "experience_alignment": 0.03,
-        "attainability": 0.75,
-        "skill_overlap": 0.182,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.09,
+        "attainability": 0.65,
+        "skill_overlap": 0.167,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Same as above."
+      "eligibility_reason": "Substitute teacher, no age restriction."
     },
     {
-      "title": "Supply Chain Coordinator Coach",
-      "company": "coursecareers",
-      "url": "https://jobs.ashbyhq.com/coursecareers/66dd0b81-12a6-430a-9810-c0ee0fb3f323",
-      "fit": 64,
+      "title": "26-27 SY Teaching Jobs: Art, Music",
+      "company": "kreyco",
+      "url": "https://apply.workable.com/j/F84EAC2E6F",
+      "fit": 54,
       "job_type": "goal",
-      "subdomain": "community-education",
+      "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.3,
         "study_alignment": 0.444,
-        "subdomain_alignment": 0.32,
-        "experience_alignment": 0.125,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "subdomain_alignment": 0.083,
+        "experience_alignment": 0.149,
+        "attainability": 0.65,
+        "skill_overlap": 0.083,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Supply chain coordinator coach role is suitable for young adults."
+      "eligibility_reason": "Teaching roles in art and music are suitable for 16-20 year olds as they do not involve age-restricted activities."
     }
   ],
   "ready_now": [
     {
-      "title": "Adjunct Faculty: Entrepreneurship 2026",
-      "company": "AugsburgUniversity-MinneapolisMN",
-      "url": "https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000095442236",
+      "title": "Part-time Career Coach, NeOn Works",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3106151",
       "fit": 83,
       "job_type": "goal",
-      "subdomain": "higher-ed-support",
+      "subdomain": "youth-programs",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.048,
-        "experience_alignment": 0.286,
-        "attainability": 0.75,
-        "skill_overlap": 0.286,
+        "goal_alignment": 0.5,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.545,
+        "experience_alignment": 0.403,
+        "attainability": 0.65,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Adjunct faculty, no age restriction."
+      "eligibility_reason": "Career coaching is a professional role that does not have legal age restrictions for minors/young adults."
     },
     {
       "title": "University Supervisor",
       "company": "ucumberlands",
       "url": "https://ucumberlands.wd1.myworkdayjobs.com/job/Remote-Locations/University-Supervisor_R1177-1",
-      "fit": 77,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.4,
         "study_alignment": 0.556,
         "subdomain_alignment": 0.207,
         "experience_alignment": 0.119,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -478,70 +508,70 @@
       "title": "Bilingual Special Education Teacher (English/Spanish)",
       "company": "menta",
       "url": "https://jobs.lever.co/menta/deea67a2-ceb6-487a-9611-10db54c8954a",
-      "fit": 64,
+      "fit": 60,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.4,
         "study_alignment": 0.556,
         "subdomain_alignment": 0.115,
         "experience_alignment": 0.03,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Same as above."
     },
     {
-      "title": "Bilingual Special Education Teacher (English/Spanish)",
-      "company": "menta",
-      "url": "https://jobs.lever.co/menta/02cdb7bf-d510-4f61-9aec-92390e906085",
-      "fit": 64,
+      "title": "Substitute Teacher",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1035263",
+      "fit": 57,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.4,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.115,
-        "experience_alignment": 0.03,
-        "attainability": 0.75,
-        "skill_overlap": 0.182,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.09,
+        "attainability": 0.65,
+        "skill_overlap": 0.167,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Same as above."
+      "eligibility_reason": "Substitute teacher, no age restriction."
     },
     {
-      "title": "Supply Chain Coordinator Coach",
-      "company": "coursecareers",
-      "url": "https://jobs.ashbyhq.com/coursecareers/66dd0b81-12a6-430a-9810-c0ee0fb3f323",
-      "fit": 64,
+      "title": "26-27 SY Teaching Jobs: Art, Music",
+      "company": "kreyco",
+      "url": "https://apply.workable.com/j/F84EAC2E6F",
+      "fit": 54,
       "job_type": "goal",
-      "subdomain": "community-education",
+      "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your adobe, bilingual skills. Aligns with your goal of becoming a education.",
-      "gaps": "teaching, communication, english",
+      "gaps": "classroom-management, communication, english",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
+        "goal_alignment": 0.3,
         "study_alignment": 0.444,
-        "subdomain_alignment": 0.32,
-        "experience_alignment": 0.125,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "subdomain_alignment": 0.083,
+        "experience_alignment": 0.149,
+        "attainability": 0.65,
+        "skill_overlap": 0.083,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Supply chain coordinator coach role is suitable for young adults."
+      "eligibility_reason": "Teaching roles in art and music are suitable for 16-20 year olds as they do not involve age-restricted activities."
     }
   ],
-  "skill_path": "Start by building foundational teaching and communication skills through volunteer tutoring or assistant roles in educational settings. Simultaneously, take online courses in graphic design (like Canva or Adobe basics) to develop your creative portfolio. Look for entry-level positions like instructional designer or educational content creator, where you can blend your education background with design skills.",
+  "skill_path": "Start by building classroom-management and communication skills through volunteering as a teaching assistant or leading small group activities. Then, take online courses in graphic design to develop your creative portfolio, and apply for entry-level roles like instructional designer or educational content creator. This combination of teaching experience and design skills will make you a strong candidate for creative professional roles in education.",
   "ideal_careers": [
     "education",
     "Graphic Designer",
@@ -552,7 +582,8 @@
       "education"
     ],
     "goal_roles": [
-      "education intern"
+      "Program Manager",
+      "Mentor"
     ],
     "goal_subdomains": [
       "youth-programs"
@@ -619,11 +650,11 @@
   ],
   "lane_used": "rescue",
   "job_cluster": [
-    "higher-ed-support",
+    "youth-programs",
     "classroom-support",
     "classroom-support",
     "classroom-support",
-    "community-education"
+    "classroom-support"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -646,7 +677,8 @@
         "youth-programs"
       ],
       "goal_roles": [
-        "education intern"
+        "Program Manager",
+        "Mentor"
       ],
       "confidence": 0.85,
       "evidence_spans": [
@@ -661,7 +693,7 @@
       ],
       "reason_codes": [
         "explicit goal",
-        "experience in youth mentoring"
+        "relevant experience"
       ],
       "review_reasons": []
     },
@@ -672,11 +704,13 @@
         "bilingual",
         "bilingual spanish",
         "google suite",
-        "mentorship",
-        "outreach",
         "photoshop",
         "public speaking",
         "spanish",
+        "mentorship",
+        "mentorship program",
+        "outreach",
+        "program",
         "analysis",
         "community outreach",
         "computer",
@@ -687,22 +721,39 @@
         "design",
         "digital",
         "entrepreneurship",
+        "google maps",
         "graphic design",
         "mentoring",
         "networking",
-        "program",
-        "projects"
+        "poetry",
+        "present",
+        "social perceptiveness",
+        "active listening",
+        "critical thinking",
+        "management of personnel resources",
+        "speaking",
+        "foreign language",
+        "writing",
+        "instructing",
+        "coordination",
+        "customer and personal service",
+        "communications and media",
+        "administrative",
+        "computers and electronics",
+        "mathematics"
       ],
       "verified_skills": [
         "adobe",
         "bilingual",
         "bilingual spanish",
         "google suite",
-        "mentorship",
-        "outreach",
         "photoshop",
         "public speaking",
         "spanish",
+        "mentorship",
+        "mentorship program",
+        "outreach",
+        "program",
         "analysis",
         "community outreach",
         "computer",
@@ -713,16 +764,29 @@
         "design",
         "digital",
         "entrepreneurship",
+        "google maps",
         "graphic design",
         "mentoring",
         "networking",
-        "program",
-        "projects"
+        "poetry",
+        "present",
+        "social perceptiveness",
+        "active listening",
+        "critical thinking",
+        "management of personnel resources",
+        "speaking",
+        "foreign language",
+        "writing",
+        "instructing",
+        "coordination",
+        "customer and personal service",
+        "communications and media",
+        "administrative",
+        "computers and electronics",
+        "mathematics"
       ],
       "possible_skills": [],
       "rejected_skills": [
-        "active listening",
-        "administrative",
         "application process",
         "basketball",
         "behavior",
@@ -730,23 +794,15 @@
         "can",
         "christian",
         "church",
-        "communications and media",
         "community events",
-        "computers and electronics",
-        "coordination",
-        "critical thinking",
         "culture",
-        "customer and personal service",
         "delivery",
         "extracurricular activities",
         "families",
-        "foreign language",
         "google",
-        "google maps",
         "grades",
         "high school",
         "home",
-        "instructing",
         "intake",
         "internship",
         "internship application",
@@ -754,9 +810,9 @@
         "kahoot",
         "local",
         "make",
-        "management of personnel resources",
         "manager",
         "maps",
+        "mentor",
         "mentors",
         "meta",
         "music",
@@ -768,29 +824,22 @@
         "organization",
         "part",
         "platform",
-        "platforms",
-        "poetry",
-        "present",
-        "programs",
-        "sales and marketing",
-        "social perceptiveness",
-        "speaking",
-        "writing"
+        "platforms"
       ],
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Involvement in community events and outreach suggests collaboration.",
+          "reason": "Experience with community outreach and extracurricular activities implies collaboration.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Balancing extracurricular activities, internships, and academics implies time management.",
+          "reason": "Balancing multiple roles (mentorship, internship, community events) suggests strong time management.",
           "confidence": "medium"
         },
         {
           "skill": "problem solving",
-          "reason": "Experience with analysis and critical thinking indicates problem-solving ability.",
+          "reason": "Critical thinking and analysis skills indicate problem-solving ability.",
           "confidence": "medium"
         }
       ],

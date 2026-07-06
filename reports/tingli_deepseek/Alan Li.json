@@ -5,7 +5,6 @@
   "skills": [
     "bilingual",
     "chinese",
-    "data",
     "data entry",
     "inventory management",
     "languages",
@@ -17,37 +16,34 @@
     "instructing",
     "time management",
     "critical thinking",
+    "active listening",
     "computers and electronics",
     "sales and marketing",
-    "mathematics",
-    "active listening",
     "canva",
     "css",
+    "data",
+    "databases",
     "excel",
     "html",
     "html css",
+    "instagram",
     "javascript",
     "powerpoint",
-    "technical skills",
-    "clerical",
-    "clerical support",
-    "databases",
-    "finance",
-    "investment",
-    "operations",
-    "organizing",
     "reports",
+    "technical skills",
+    "clerical support",
+    "daily operations",
+    "efficiency",
+    "feedback",
+    "interpersonal",
+    "organizing",
     "service",
-    "spreadsheet",
     "structure",
-    "tracks",
-    "wait times",
     "work study"
   ],
   "verified_skills": [
     "bilingual",
     "chinese",
-    "data",
     "data entry",
     "inventory management",
     "languages",
@@ -59,31 +55,29 @@
     "instructing",
     "time management",
     "critical thinking",
+    "active listening",
     "computers and electronics",
     "sales and marketing",
-    "mathematics",
-    "active listening",
     "canva",
     "css",
+    "data",
+    "databases",
     "excel",
     "html",
     "html css",
+    "instagram",
     "javascript",
     "powerpoint",
-    "technical skills",
-    "clerical",
-    "clerical support",
-    "databases",
-    "finance",
-    "investment",
-    "operations",
-    "organizing",
     "reports",
+    "technical skills",
+    "clerical support",
+    "daily operations",
+    "efficiency",
+    "feedback",
+    "interpersonal",
+    "organizing",
     "service",
-    "spreadsheet",
     "structure",
-    "tracks",
-    "wait times",
     "work study"
   ],
   "possible_skills": [],
@@ -94,21 +88,22 @@
     "basketball",
     "business",
     "business administration",
+    "chinese",
     "cleanliness",
+    "clerical",
     "concentration",
-    "daily operations",
     "distributes",
-    "efficiency",
     "electronic",
-    "feedback",
+    "finance",
     "friendly",
     "general administrative",
-    "instagram",
-    "interpersonal",
+    "investment",
+    "japanese",
     "mail",
     "mail and packages",
     "ms o",
     "office",
+    "operations",
     "outgoing",
     "physical",
     "present",
@@ -116,18 +111,19 @@
     "replenishing supplies",
     "restaurant",
     "science",
-    "technical",
+    "spreadsheet",
+    "tracks",
     "trash",
     "united states",
     "volleyball",
     "wait",
+    "wait times",
     "wholesale"
   ],
   "skill_weights": {},
   "market_relevant": [
     "bilingual",
     "chinese",
-    "data",
     "data entry",
     "inventory management",
     "languages",
@@ -139,127 +135,99 @@
     "instructing",
     "time management",
     "critical thinking",
+    "active listening",
     "computers and electronics",
     "sales and marketing",
-    "mathematics",
-    "active listening",
     "canva",
     "css",
+    "data",
+    "databases",
     "excel",
     "html",
     "html css",
+    "instagram",
     "javascript",
     "powerpoint",
-    "technical skills",
-    "clerical",
-    "clerical support",
-    "databases",
-    "finance",
-    "investment",
-    "operations",
-    "organizing",
     "reports",
+    "technical skills",
+    "clerical support",
+    "daily operations",
+    "efficiency",
+    "feedback",
+    "interpersonal",
+    "organizing",
     "service",
-    "spreadsheet",
     "structure",
-    "tracks",
-    "wait times",
     "work study"
   ],
   "inferred": [
-    "Microsoft Office Suite",
+    "Microsoft Office",
     "Customer Service",
-    "Data Analysis"
+    "Teamwork"
   ],
   "implicit_skills": [
     {
-      "skill": "Microsoft Office Suite",
-      "reason": "Mentioned 'excel', 'powerpoint', 'spreadsheets', and 'ms o' likely refers to Microsoft Office",
+      "skill": "Microsoft Office",
+      "reason": "Mentioned 'excel', 'powerpoint', and 'ms o' likely refers to Microsoft Office suite.",
       "confidence": "medium"
     },
     {
       "skill": "Customer Service",
-      "reason": "Mentioned 'customer and personal service', 'service', and 'friendly' implies customer service skills",
+      "reason": "Listed 'customer and personal service' and 'service' indicate customer service skills.",
       "confidence": "medium"
     },
     {
-      "skill": "Data Analysis",
-      "reason": "Mentioned 'data', 'data entry', 'spreadsheets', 'reports', and 'databases' suggests data analysis capability",
+      "skill": "Teamwork",
+      "reason": "Experience in 'restaurant' and 'work study' implies collaboration.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "accounting",
     "attention-to-detail",
-    "communication"
+    "communication",
+    "data-analysis",
+    "finance"
   ],
   "core_gaps": [
-    "accounting",
     "attention-to-detail",
-    "communication"
+    "communication",
+    "data-analysis",
+    "finance"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "administrative-support",
+    "accounting",
     "budgeting",
     "dashboards",
     "datev",
+    "deductions",
     "financial-controlling",
     "financial-planning-and-analysis",
     "financial-transaction-processing",
     "forecasting",
-    "lucanet",
-    "numerical-skills"
+    "garnishments"
   ],
   "nice_to_have_gaps": [
-    "administrative-support",
+    "accounting",
     "budgeting",
     "dashboards",
     "datev",
+    "deductions",
     "financial-controlling",
     "financial-planning-and-analysis",
     "financial-transaction-processing",
     "forecasting",
-    "lucanet",
-    "numerical-skills"
+    "garnishments"
   ],
   "verify_gaps": [
-    "data-analysis",
-    "customer-service"
+    "customer-service",
+    "microsoft-office"
   ],
   "related": [
     {
-      "skill": "portfolioperformance",
-      "pmi": 5.03
-    },
-    {
-      "skill": "databasemanagement",
-      "pmi": 5.03
-    },
-    {
       "skill": "spanish",
       "pmi": 5.03
-    },
-    {
-      "skill": "series63",
-      "pmi": 4.74
-    },
-    {
-      "skill": "series65",
-      "pmi": 4.74
-    },
-    {
-      "skill": "series66",
-      "pmi": 4.5
-    },
-    {
-      "skill": "series7",
-      "pmi": 4.27
-    },
-    {
-      "skill": "moneymovement",
-      "pmi": 4.21
     },
     {
       "skill": "wordprocessing",
@@ -268,40 +236,40 @@
     {
       "skill": "cashregister",
       "pmi": 3.75
+    },
+    {
+      "skill": "guestservice",
+      "pmi": 3.75
+    },
+    {
+      "skill": "english",
+      "pmi": 3.56
+    },
+    {
+      "skill": "capitalstructure",
+      "pmi": 3.39
+    },
+    {
+      "skill": "bloomberg",
+      "pmi": 3.32
+    },
+    {
+      "skill": "capitalraising",
+      "pmi": 3.21
+    },
+    {
+      "skill": "payroll",
+      "pmi": 2.79
+    },
+    {
+      "skill": "datev",
+      "pmi": 2.78
     }
   ],
   "related_skills": [
     {
-      "skill": "portfolioperformance",
-      "pmi": 5.03
-    },
-    {
-      "skill": "databasemanagement",
-      "pmi": 5.03
-    },
-    {
       "skill": "spanish",
       "pmi": 5.03
-    },
-    {
-      "skill": "series63",
-      "pmi": 4.74
-    },
-    {
-      "skill": "series65",
-      "pmi": 4.74
-    },
-    {
-      "skill": "series66",
-      "pmi": 4.5
-    },
-    {
-      "skill": "series7",
-      "pmi": 4.27
-    },
-    {
-      "skill": "moneymovement",
-      "pmi": 4.21
     },
     {
       "skill": "wordprocessing",
@@ -310,6 +278,34 @@
     {
       "skill": "cashregister",
       "pmi": 3.75
+    },
+    {
+      "skill": "guestservice",
+      "pmi": 3.75
+    },
+    {
+      "skill": "english",
+      "pmi": 3.56
+    },
+    {
+      "skill": "capitalstructure",
+      "pmi": 3.39
+    },
+    {
+      "skill": "bloomberg",
+      "pmi": 3.32
+    },
+    {
+      "skill": "capitalraising",
+      "pmi": 3.21
+    },
+    {
+      "skill": "payroll",
+      "pmi": 2.79
+    },
+    {
+      "skill": "datev",
+      "pmi": 2.78
     }
   ],
   "alternatives": [
@@ -330,7 +326,7 @@
       "pct": 3
     }
   ],
-  "coach_notes": "For a finance path, focus first on accounting, attention-to-detail, communication. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a finance path, focus first on attention-to-detail, communication, data-analysis. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Praktikant:in (m/w/d) - CFO Office",
@@ -341,14 +337,14 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -363,14 +359,14 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.3,
         "attainability": 0.75,
-        "skill_overlap": 0.3,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -385,7 +381,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
@@ -407,7 +403,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
@@ -421,26 +417,26 @@
       "eligibility_reason": "Data entry roles are suitable for minors/young adults."
     },
     {
-      "title": "Royalty Analyst",
-      "company": "INgroovesMusicGroup",
-      "url": "https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999679487571",
+      "title": "Payroll Clerk",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4198255",
       "fit": 80,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.232,
-        "attainability": 0.75,
-        "skill_overlap": 0.333,
+        "experience_alignment": 0.286,
+        "attainability": 0.65,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Royalty analyst role does not have age restrictions."
+      "eligibility_reason": "Payroll clerk, no age restriction."
     }
   ],
   "ready_now": [
@@ -453,14 +449,14 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -475,14 +471,14 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.3,
         "attainability": 0.75,
-        "skill_overlap": 0.3,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -499,7 +495,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
@@ -521,7 +517,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
@@ -535,29 +531,29 @@
       "eligibility_reason": "Data entry roles are suitable for minors/young adults."
     },
     {
-      "title": "Royalty Analyst",
-      "company": "INgroovesMusicGroup",
-      "url": "https://jobs.smartrecruiters.com/INgroovesMusicGroup/743999679487571",
+      "title": "Payroll Clerk",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4198255",
       "fit": 80,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "Uses your bilingual, chinese skills. Aligns with your goal of becoming a Finance.",
-      "gaps": "accounting, attention-to-detail, communication",
+      "gaps": "attention-to-detail, communication, data-analysis",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.232,
-        "attainability": 0.75,
-        "skill_overlap": 0.333,
+        "experience_alignment": 0.286,
+        "attainability": 0.65,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Royalty analyst role does not have age restrictions."
+      "eligibility_reason": "Payroll clerk, no age restriction."
     }
   ],
-  "skill_path": "Start by mastering accounting fundamentals through online courses like Coursera's Financial Accounting, then practice attention-to-detail by reconciling mock statements. Look for entry-level roles like accounts payable clerk or junior analyst, where you can build communication skills by presenting findings to senior team members. Gain real experience through internships or volunteer bookkeeping for small businesses.",
+  "skill_path": "Start by building attention-to-detail through tasks like reconciling accounts or proofreading financial reports, then strengthen data analysis with Excel or SQL courses. Look for entry-level roles like financial analyst or accounting assistant that require these skills, and gain experience through internships or volunteer bookkeeping. Each step brings you closer to your dream career in finance.",
   "ideal_careers": [
     "Finance"
   ],
@@ -661,8 +657,8 @@
         }
       ],
       "reason_codes": [
-        "explicit_goal",
-        "education_major"
+        "explicit goal",
+        "study field"
       ],
       "review_reasons": []
     },
@@ -671,7 +667,6 @@
       "scored_skills": [
         "bilingual",
         "chinese",
-        "data",
         "data entry",
         "inventory management",
         "languages",
@@ -683,37 +678,34 @@
         "instructing",
         "time management",
         "critical thinking",
+        "active listening",
         "computers and electronics",
         "sales and marketing",
-        "mathematics",
-        "active listening",
         "canva",
         "css",
+        "data",
+        "databases",
         "excel",
         "html",
         "html css",
+        "instagram",
         "javascript",
         "powerpoint",
-        "technical skills",
-        "clerical",
-        "clerical support",
-        "databases",
-        "finance",
-        "investment",
-        "operations",
-        "organizing",
         "reports",
+        "technical skills",
+        "clerical support",
+        "daily operations",
+        "efficiency",
+        "feedback",
+        "interpersonal",
+        "organizing",
         "service",
-        "spreadsheet",
         "structure",
-        "tracks",
-        "wait times",
         "work study"
       ],
       "verified_skills": [
         "bilingual",
         "chinese",
-        "data",
         "data entry",
         "inventory management",
         "languages",
@@ -725,31 +717,29 @@
         "instructing",
         "time management",
         "critical thinking",
+        "active listening",
         "computers and electronics",
         "sales and marketing",
-        "mathematics",
-        "active listening",
         "canva",
         "css",
+        "data",
+        "databases",
         "excel",
         "html",
         "html css",
+        "instagram",
         "javascript",
         "powerpoint",
-        "technical skills",
-        "clerical",
-        "clerical support",
-        "databases",
-        "finance",
-        "investment",
-        "operations",
-        "organizing",
         "reports",
+        "technical skills",
+        "clerical support",
+        "daily operations",
+        "efficiency",
+        "feedback",
+        "interpersonal",
+        "organizing",
         "service",
-        "spreadsheet",
         "structure",
-        "tracks",
-        "wait times",
         "work study"
       ],
       "possible_skills": [],
@@ -760,21 +750,22 @@
         "basketball",
         "business",
         "business administration",
+        "chinese",
         "cleanliness",
+        "clerical",
         "concentration",
-        "daily operations",
         "distributes",
-        "efficiency",
         "electronic",
-        "feedback",
+        "finance",
         "friendly",
         "general administrative",
-        "instagram",
-        "interpersonal",
+        "investment",
+        "japanese",
         "mail",
         "mail and packages",
         "ms o",
         "office",
+        "operations",
         "outgoing",
         "physical",
         "present",
@@ -782,27 +773,29 @@
         "replenishing supplies",
         "restaurant",
         "science",
-        "technical",
+        "spreadsheet",
+        "tracks",
         "trash",
         "united states",
         "volleyball",
         "wait",
+        "wait times",
         "wholesale"
       ],
       "implicit_skills": [
         {
-          "skill": "Microsoft Office Suite",
-          "reason": "Mentioned 'excel', 'powerpoint', 'spreadsheets', and 'ms o' likely refers to Microsoft Office",
+          "skill": "Microsoft Office",
+          "reason": "Mentioned 'excel', 'powerpoint', and 'ms o' likely refers to Microsoft Office suite.",
           "confidence": "medium"
         },
         {
           "skill": "Customer Service",
-          "reason": "Mentioned 'customer and personal service', 'service', and 'friendly' implies customer service skills",
+          "reason": "Listed 'customer and personal service' and 'service' indicate customer service skills.",
           "confidence": "medium"
         },
         {
-          "skill": "Data Analysis",
-          "reason": "Mentioned 'data', 'data entry', 'spreadsheets', 'reports', and 'databases' suggests data analysis capability",
+          "skill": "Teamwork",
+          "reason": "Experience in 'restaurant' and 'work study' implies collaboration.",
           "confidence": "medium"
         }
       ],

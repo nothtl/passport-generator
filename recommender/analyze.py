@@ -558,7 +558,13 @@ def analyze(
 
     ready_now = []
     aspirational = []
+    seen_titles = set()
     for job in ranked_jobs:
+        title = job.get("title", "")
+        if title in seen_titles:
+            continue
+        seen_titles.add(title)
+
         bd = job.get("job_score_breakdown", {})
         llm_adj = bd.get("llm_adjustments", {})
         why_text = llm_adj.get("why_fits", "") or job.get("why", "")

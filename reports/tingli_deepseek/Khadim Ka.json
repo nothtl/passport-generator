@@ -4,18 +4,21 @@
   "confidence": 54,
   "skills": [
     "Customer and Personal Service",
-    "Monitoring",
     "Public Safety and Security",
-    "Active Listening",
-    "Service Orientation",
-    "Foreign Language",
+    "Monitoring",
     "Coordination",
-    "Quality Control Analysis",
+    "Service Orientation",
+    "Speaking",
+    "Active Listening",
+    "Time Management",
+    "Administrative",
+    "Writing",
     "access control",
     "basic computer skills",
     "cleanliness and safety",
     "communication",
     "compliance",
+    "computer skills",
     "customer service",
     "detail oriented",
     "equipment maintenance",
@@ -26,33 +29,31 @@
     "high end retail",
     "loss prevention",
     "luxury retail",
-    "maintenance",
     "menu knowledge",
     "microsoft word",
-    "policy",
     "positive customer experience",
-    "prep work",
     "professional communication",
     "quality",
-    "reporting",
     "safety standards",
-    "sales",
-    "security procedures"
+    "sales"
   ],
   "verified_skills": [
     "Customer and Personal Service",
-    "Monitoring",
     "Public Safety and Security",
-    "Active Listening",
-    "Service Orientation",
-    "Foreign Language",
+    "Monitoring",
     "Coordination",
-    "Quality Control Analysis",
+    "Service Orientation",
+    "Speaking",
+    "Active Listening",
+    "Time Management",
+    "Administrative",
+    "Writing",
     "access control",
     "basic computer skills",
     "cleanliness and safety",
     "communication",
     "compliance",
+    "computer skills",
     "customer service",
     "detail oriented",
     "equipment maintenance",
@@ -63,21 +64,26 @@
     "high end retail",
     "loss prevention",
     "luxury retail",
-    "maintenance",
     "menu knowledge",
     "microsoft word",
-    "policy",
     "positive customer experience",
-    "prep work",
     "professional communication",
     "quality",
-    "reporting",
     "safety standards",
-    "sales",
-    "security procedures"
+    "sales"
   ],
   "possible_skills": [],
   "rejected_skills": [
+    "Active Listening",
+    "Administrative",
+    "Coordination",
+    "Customer and Personal Service",
+    "Monitoring",
+    "Public Safety and Security",
+    "Service Orientation",
+    "Speaking",
+    "Time Management",
+    "Writing",
     "access",
     "assist",
     "awareness",
@@ -89,7 +95,6 @@
     "cleanliness",
     "cleanup",
     "computer",
-    "computer skills",
     "control",
     "courses",
     "customer experience",
@@ -100,12 +105,14 @@
     "equipment",
     "hands on",
     "license",
-    "luxury",
+    "maintenance",
     "menu",
     "microsoft",
     "movement",
+    "policy",
     "positive",
     "prep",
+    "prep work",
     "presence",
     "prevention",
     "procedures",
@@ -114,6 +121,7 @@
     "professional experience",
     "relationships",
     "reliable",
+    "reporting",
     "restaurant",
     "retail",
     "retail environment",
@@ -121,24 +129,26 @@
     "safety",
     "sales floor",
     "satisfaction",
-    "security",
-    "security presence"
+    "security"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Customer and Personal Service",
-    "Monitoring",
     "Public Safety and Security",
-    "Active Listening",
-    "Service Orientation",
-    "Foreign Language",
+    "Monitoring",
     "Coordination",
-    "Quality Control Analysis",
+    "Service Orientation",
+    "Speaking",
+    "Active Listening",
+    "Time Management",
+    "Administrative",
+    "Writing",
     "access control",
     "basic computer skills",
     "cleanliness and safety",
     "communication",
     "compliance",
+    "computer skills",
     "customer service",
     "detail oriented",
     "equipment maintenance",
@@ -149,23 +159,18 @@
     "high end retail",
     "loss prevention",
     "luxury retail",
-    "maintenance",
     "menu knowledge",
     "microsoft word",
-    "policy",
     "positive customer experience",
-    "prep work",
     "professional communication",
     "quality",
-    "reporting",
     "safety standards",
-    "sales",
-    "security procedures"
+    "sales"
   ],
   "inferred": [
     "Teamwork",
-    "Time Management",
-    "Problem Solving"
+    "Problem Solving",
+    "Adaptability"
   ],
   "implicit_skills": [
     {
@@ -174,13 +179,13 @@
       "confidence": "medium"
     },
     {
-      "skill": "Time Management",
-      "reason": "Handling multiple tasks like prep work, customer service, and maintaining cleanliness suggests good time management.",
+      "skill": "Problem Solving",
+      "reason": "Roles involving customer service and loss prevention often require quick thinking to resolve issues.",
       "confidence": "medium"
     },
     {
-      "skill": "Problem Solving",
-      "reason": "Skills like loss prevention and quality control analysis imply the ability to identify and resolve issues.",
+      "skill": "Adaptability",
+      "reason": "Fast-paced environments and handling various tasks indicate ability to adapt.",
       "confidence": "medium"
     }
   ],
@@ -222,6 +227,10 @@
   ],
   "related": [
     {
+      "skill": "interviewing",
+      "pmi": 3.66
+    },
+    {
       "skill": "merchandisesecurity",
       "pmi": 3.59
     },
@@ -250,20 +259,20 @@
       "pmi": 2.28
     },
     {
-      "skill": "consulting",
+      "skill": "attentiontodetail",
       "pmi": 2.28
     },
     {
-      "skill": "alarmsystems",
-      "pmi": 2.25
-    },
-    {
-      "skill": "governance",
-      "pmi": 2.05
+      "skill": "consulting",
+      "pmi": 2.28
     }
   ],
   "related_skills": [
     {
+      "skill": "interviewing",
+      "pmi": 3.66
+    },
+    {
       "skill": "merchandisesecurity",
       "pmi": 3.59
     },
@@ -292,16 +301,12 @@
       "pmi": 2.28
     },
     {
-      "skill": "consulting",
+      "skill": "attentiontodetail",
       "pmi": 2.28
     },
     {
-      "skill": "alarmsystems",
-      "pmi": 2.25
-    },
-    {
-      "skill": "governance",
-      "pmi": 2.05
+      "skill": "consulting",
+      "pmi": 2.28
     }
   ],
   "alternatives": [
@@ -336,7 +341,7 @@
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
@@ -358,7 +363,7 @@
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -380,7 +385,7 @@
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -402,7 +407,7 @@
       "job_type": "bridge",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -426,7 +431,7 @@
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
@@ -448,7 +453,7 @@
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -472,7 +477,7 @@
       "job_type": "goal",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
@@ -494,7 +499,7 @@
       "job_type": "bridge",
       "subdomain": "",
       "function": "protective-service",
-      "why": "Uses your Customer and Personal Service, Monitoring skills. Aligns with your goal of becoming a Police Officer.",
+      "why": "Uses your Customer and Personal Service, Public Safety and Security skills. Aligns with your goal of becoming a Police Officer.",
       "gaps": "attention to detail, incident reporting",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -509,7 +514,7 @@
       "eligibility_reason": "Role does not involve age-restricted activities; suitable for minors."
     }
   ],
-  "skill_path": "Start by sharpening your observation skills through daily practice—like noting details in your environment—and take a free online course on safety procedures. Look for entry-level security roles where you can gain hands-on experience with incident reporting, then apply for police cadet programs to build attention to detail in a structured setting.",
+  "skill_path": "Start by building observation skills through daily practice—try noting details in your environment and writing brief reports. Then, look for entry-level security roles where you can learn safety procedures and incident reporting on the job. These steps will directly prepare you for police academy training.",
   "ideal_careers": [
     "Police Officer",
     "Security Professional"
@@ -519,12 +524,12 @@
       "protective-service"
     ],
     "goal_roles": [
-      "Security Professional",
-      "Police Officer"
+      "Police Officer",
+      "Security Professional"
     ],
     "goal_subdomains": [],
     "study_domains": [
-      "sales"
+      "protective-service"
     ],
     "study_subdomains": [],
     "study_program": "Associate | 12/2020 – 08/2021",
@@ -592,13 +597,13 @@
         "protective-service"
       ],
       "study_domains": [
-        "sales"
+        "protective-service"
       ],
       "goal_subdomains": [],
       "study_subdomains": [],
       "goal_roles": [
-        "Security Professional",
-        "Police Officer"
+        "Police Officer",
+        "Security Professional"
       ],
       "confidence": 0.85,
       "evidence_spans": [
@@ -621,18 +626,21 @@
       "accepted": true,
       "scored_skills": [
         "Customer and Personal Service",
-        "Monitoring",
         "Public Safety and Security",
-        "Active Listening",
-        "Service Orientation",
-        "Foreign Language",
+        "Monitoring",
         "Coordination",
-        "Quality Control Analysis",
+        "Service Orientation",
+        "Speaking",
+        "Active Listening",
+        "Time Management",
+        "Administrative",
+        "Writing",
         "access control",
         "basic computer skills",
         "cleanliness and safety",
         "communication",
         "compliance",
+        "computer skills",
         "customer service",
         "detail oriented",
         "equipment maintenance",
@@ -643,33 +651,31 @@
         "high end retail",
         "loss prevention",
         "luxury retail",
-        "maintenance",
         "menu knowledge",
         "microsoft word",
-        "policy",
         "positive customer experience",
-        "prep work",
         "professional communication",
         "quality",
-        "reporting",
         "safety standards",
-        "sales",
-        "security procedures"
+        "sales"
       ],
       "verified_skills": [
         "Customer and Personal Service",
-        "Monitoring",
         "Public Safety and Security",
-        "Active Listening",
-        "Service Orientation",
-        "Foreign Language",
+        "Monitoring",
         "Coordination",
-        "Quality Control Analysis",
+        "Service Orientation",
+        "Speaking",
+        "Active Listening",
+        "Time Management",
+        "Administrative",
+        "Writing",
         "access control",
         "basic computer skills",
         "cleanliness and safety",
         "communication",
         "compliance",
+        "computer skills",
         "customer service",
         "detail oriented",
         "equipment maintenance",
@@ -680,21 +686,26 @@
         "high end retail",
         "loss prevention",
         "luxury retail",
-        "maintenance",
         "menu knowledge",
         "microsoft word",
-        "policy",
         "positive customer experience",
-        "prep work",
         "professional communication",
         "quality",
-        "reporting",
         "safety standards",
-        "sales",
-        "security procedures"
+        "sales"
       ],
       "possible_skills": [],
       "rejected_skills": [
+        "Active Listening",
+        "Administrative",
+        "Coordination",
+        "Customer and Personal Service",
+        "Monitoring",
+        "Public Safety and Security",
+        "Service Orientation",
+        "Speaking",
+        "Time Management",
+        "Writing",
         "access",
         "assist",
         "awareness",
@@ -706,7 +717,6 @@
         "cleanliness",
         "cleanup",
         "computer",
-        "computer skills",
         "control",
         "courses",
         "customer experience",
@@ -717,12 +727,14 @@
         "equipment",
         "hands on",
         "license",
-        "luxury",
+        "maintenance",
         "menu",
         "microsoft",
         "movement",
+        "policy",
         "positive",
         "prep",
+        "prep work",
         "presence",
         "prevention",
         "procedures",
@@ -731,6 +743,7 @@
         "professional experience",
         "relationships",
         "reliable",
+        "reporting",
         "restaurant",
         "retail",
         "retail environment",
@@ -738,8 +751,7 @@
         "safety",
         "sales floor",
         "satisfaction",
-        "security",
-        "security presence"
+        "security"
       ],
       "implicit_skills": [
         {
@@ -748,13 +760,13 @@
           "confidence": "medium"
         },
         {
-          "skill": "Time Management",
-          "reason": "Handling multiple tasks like prep work, customer service, and maintaining cleanliness suggests good time management.",
+          "skill": "Problem Solving",
+          "reason": "Roles involving customer service and loss prevention often require quick thinking to resolve issues.",
           "confidence": "medium"
         },
         {
-          "skill": "Problem Solving",
-          "reason": "Skills like loss prevention and quality control analysis imply the ability to identify and resolve issues.",
+          "skill": "Adaptability",
+          "reason": "Fast-paced environments and handling various tasks indicate ability to adapt.",
           "confidence": "medium"
         }
       ],

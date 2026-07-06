@@ -155,12 +155,12 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Experience as a counselor and camp activities imply collaboration.",
+      "reason": "Experience as a counselor and in camp activities implies collaboration with others.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
+      "reason": "Handling opening/closing procedures and multiple tasks suggests ability to manage time.",
       "confidence": "medium"
     },
     {
@@ -175,43 +175,43 @@
     "customer-service",
     "marketing",
     "organization",
+    "relationship-building",
     "social-media",
-    "administration",
-    "relationship-building"
+    "administration"
   ],
   "core_gaps": [
     "sales",
     "customer-service",
     "marketing",
     "organization",
+    "relationship-building",
     "social-media",
-    "administration",
-    "relationship-building"
+    "administration"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "cash-management",
     "client-relationship-management",
-    "event-coordination",
+    "hospitality",
     "insurance",
-    "interpersonal-skills",
     "merchandising",
     "negotiation",
     "office-administration",
     "opening-and-closing",
-    "planning"
+    "presentation",
+    "product-knowledge"
   ],
   "nice_to_have_gaps": [
     "cash-management",
     "client-relationship-management",
-    "event-coordination",
+    "hospitality",
     "insurance",
-    "interpersonal-skills",
     "merchandising",
     "negotiation",
     "office-administration",
     "opening-and-closing",
-    "planning"
+    "presentation",
+    "product-knowledge"
   ],
   "verify_gaps": [
     "teamwork"
@@ -347,76 +347,10 @@
       "eligibility_reason": "Key holder role does not require age 21+."
     },
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 67,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8581869002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.133,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
       "title": "Insurance Broker",
       "company": "alchemy-financial-group",
       "url": "https://alchemy-financial-group.breezy.hr/p/58f91da7d1bb-insurance-broker",
-      "fit": 56,
+      "fit": 64,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
@@ -424,7 +358,7 @@
       "gaps": "sales, customer-service, marketing",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
-        "study_alignment": 0.1,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -433,6 +367,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Insurance broker roles typically require licensing but not a minimum age of 21, so eligible for 16-20 year olds."
+    },
+    {
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "sales, customer-service, marketing",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Leasing consultant role does not require age 21+."
     }
   ],
   "ready_now": [
@@ -459,78 +415,10 @@
       "eligibility_reason": "Key holder role does not require age 21+."
     },
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 67,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    }
-  ],
-  "aspirational": [
-    {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8581869002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.133,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
       "title": "Insurance Broker",
       "company": "alchemy-financial-group",
       "url": "https://alchemy-financial-group.breezy.hr/p/58f91da7d1bb-insurance-broker",
-      "fit": 56,
+      "fit": 64,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
@@ -538,7 +426,7 @@
       "gaps": "sales, customer-service, marketing",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
-        "study_alignment": 0.1,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -547,6 +435,30 @@
       },
       "eligible": true,
       "eligibility_reason": "Insurance broker roles typically require licensing but not a minimum age of 21, so eligible for 16-20 year olds."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
+      "fit": 54,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "sales, customer-service, marketing",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Leasing consultant role does not require age 21+."
     }
   ],
   "skill_path": null,
@@ -561,11 +473,10 @@
     ],
     "goal_subdomains": [],
     "study_domains": [
-      "arts-media",
-      "education"
+      "arts-media"
     ],
     "study_subdomains": [
-      "creative-education"
+      "content-creation"
     ],
     "study_program": "Associate",
     "study_level": "associate",
@@ -617,8 +528,6 @@
   "job_cluster": [
     "",
     "",
-    "",
-    "",
     ""
   ],
   "needs_review": true,
@@ -633,12 +542,11 @@
         "sales"
       ],
       "study_domains": [
-        "arts-media",
-        "education"
+        "arts-media"
       ],
       "goal_subdomains": [],
       "study_subdomains": [
-        "creative-education"
+        "content-creation"
       ],
       "goal_roles": [
         "team lead",
@@ -652,12 +560,12 @@
         },
         {
           "section": "skills",
-          "text": "As a team lead, my responsibilities include Opening and/or closing the store, opening and closing registers, counting the safe as well as making deposits"
+          "text": "As a team lead, my responsibilities include Opening and/or closing the store, opening and closing registers, counting the safe as well as making deposits as a part of closing procedures."
         }
       ],
       "reason_codes": [
         "explicit goal in summary",
-        "demonstrated experience in retail and team leadership"
+        "demonstrated experience in retail and brand management"
       ],
       "review_reasons": []
     },
@@ -780,12 +688,12 @@
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Experience as a counselor and camp activities imply collaboration.",
+          "reason": "Experience as a counselor and in camp activities implies collaboration with others.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
+          "reason": "Handling opening/closing procedures and multiple tasks suggests ability to manage time.",
           "confidence": "medium"
         },
         {

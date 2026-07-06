@@ -2,11 +2,11 @@
   "accepted": true,
   "chosen_function": "arts-media",
   "chosen_subdomain": "content-creation",
-  "confidence": 0.7,
+  "confidence": 0.65,
   "evidence_spans": [
     {
       "section": "summary",
-      "text": "I am now exploring careers in museums, libraries, or archival work."
+      "text": "Recently graduated from Franklin and Marshall College with a bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work."
     },
     {
       "section": "experience",
@@ -19,7 +19,7 @@
   ],
   "goal_roles": [
     "archivist",
-    "museum curator"
+    "museum educator"
   ],
   "goal_subdomains": [
     "content-creation",

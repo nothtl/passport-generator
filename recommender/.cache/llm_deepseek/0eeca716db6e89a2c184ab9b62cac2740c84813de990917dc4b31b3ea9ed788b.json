@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Mentioned 'native spanish' and 'spanish' in education context",
-      "skill": "Bilingual (Spanish)"
+      "reason": "Native Spanish and English Language indicate bilingual proficiency.",
+      "skill": "Bilingual"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'community events' and 'volunteering'",
+      "reason": "Community engagement and community events suggest event planning skills.",
       "skill": "Event Planning"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'flag football', 'football', 'sports', 'student athlete'",
+      "reason": "Flag football, football, sports, and student athlete imply coaching or sports leadership.",
       "skill": "Athletic Coaching"
     }
   ],
@@ -26,7 +26,6 @@
     "career paths",
     "community events",
     "ecp",
-    "engagement",
     "engaging",
     "flag football",
     "football",
@@ -51,52 +50,53 @@
     "quick learner",
     "schools",
     "social",
-    "spanish",
+    "social media",
     "speaking",
     "sports",
     "student athlete",
     "u s citizen",
+    "volunteering",
     "weekends"
   ],
   "review_reasons": [],
   "scored_skills": [
     "Coordination",
     "Communications and Media",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
+    "Customer and Personal Service",
     "Active Listening",
-    "Complex Problem Solving",
-    "Sales and Marketing",
-    "Speaking",
+    "Time Management",
+    "Public Safety and Security",
+    "Foreign Language",
+    "English Language",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
     "media management",
     "problem solving",
     "public speaking",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "team leadership"
   ],
   "verified_skills": [
     "Coordination",
     "Communications and Media",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
+    "Customer and Personal Service",
     "Active Listening",
-    "Complex Problem Solving",
-    "Sales and Marketing",
-    "Speaking",
+    "Time Management",
+    "Public Safety and Security",
+    "Foreign Language",
+    "English Language",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
     "media management",
     "problem solving",
     "public speaking",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "team leadership"
   ]
 }

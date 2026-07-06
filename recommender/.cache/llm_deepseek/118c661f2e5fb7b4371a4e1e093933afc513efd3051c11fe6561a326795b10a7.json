@@ -29,8 +29,8 @@
     "software"
   ],
   "reason_codes": [
-    "explicit goal",
-    "experience in IT support"
+    "explicit_goal",
+    "experience_tech"
   ],
   "review_reasons": [],
   "secondary_function": "healthcare",
@@ -38,6 +38,6 @@
     "education"
   ],
   "study_subdomains": [
-    "community-education"
+    "classroom-support"
   ]
 }

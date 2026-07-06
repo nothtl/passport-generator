@@ -5,30 +5,26 @@
   "skills": [
     "Instructing",
     "Customer and Personal Service",
+    "Fine Arts",
     "Service Orientation",
     "Coordination",
-    "Fine Arts",
-    "Food Production",
-    "Monitoring",
-    "Social Perceptiveness",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
     "Foreign Language",
-    "bilingual"
+    "bilingual",
+    "typingskills"
   ],
   "verified_skills": [
     "Instructing",
     "Customer and Personal Service",
+    "Fine Arts",
     "Service Orientation",
     "Coordination",
-    "Fine Arts",
-    "Food Production",
-    "Monitoring",
-    "Social Perceptiveness",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
     "Foreign Language",
-    "bilingual"
+    "bilingual",
+    "typingskills"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -41,23 +37,20 @@
     "high school",
     "meals",
     "paint",
-    "sitter",
-    "typingskills"
+    "sitter"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Instructing",
     "Customer and Personal Service",
+    "Fine Arts",
     "Service Orientation",
     "Coordination",
-    "Fine Arts",
-    "Food Production",
-    "Monitoring",
-    "Social Perceptiveness",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
     "Foreign Language",
-    "bilingual"
+    "bilingual",
+    "typingskills"
   ],
   "inferred": [
     "Multitasking",
@@ -67,17 +60,17 @@
   "implicit_skills": [
     {
       "skill": "Multitasking",
-      "reason": "Managing care, meals, and activities suggests multitasking ability.",
+      "reason": "Managing multiple activities like care, meals, and extracurriculars suggests multitasking ability.",
       "confidence": "medium"
     },
     {
       "skill": "Responsibility",
-      "reason": "Caring for a child or pet implies responsibility.",
+      "reason": "Roles like sitter and care imply responsibility for others.",
       "confidence": "medium"
     },
     {
       "skill": "Creativity",
-      "reason": "Engaging in dance, paint, and games indicates creativity.",
+      "reason": "Activities like dance, paint, and games indicate creative skills.",
       "confidence": "medium"
     }
   ],
@@ -242,7 +235,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -264,7 +257,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -286,11 +279,11 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
-        "study_alignment": 0.111,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.2,
         "attainability": 0.75,
@@ -308,7 +301,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
@@ -330,11 +323,11 @@
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
-        "study_alignment": 0.111,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.1,
         "attainability": 0.75,
@@ -354,7 +347,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -376,7 +369,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
@@ -400,11 +393,11 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
-        "study_alignment": 0.111,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.2,
         "attainability": 0.75,
@@ -422,7 +415,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
@@ -444,11 +437,11 @@
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
       "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
-        "study_alignment": 0.111,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.1,
         "attainability": 0.75,
@@ -459,7 +452,18 @@
       "eligibility_reason": "Presenter role, no age restriction."
     }
   ],
-  "skill_path": "Start by building communication and customer-service skills through part-time roles in retail or hospitality, which also teach logistics and calendar management. Then, seek internships or assistant positions at media agencies or event planning companies to gain hands-on experience in content creation and photography. This step-by-step approach will close your skill gaps while opening doors to your dream career.",
+  "skill_path": "You already have a strong foundation in arts, service, and coordination. By building communication, planning, and technical skills, you'll be ready to create compelling content and manage media projects. Keep creating and learning—your dream career is within reach!",
+  "skill_tree": {
+    "tree": "CURRENT SKILLS\n├── Instructing\n├── Customer and Personal Service\n├── Fine Arts\n├── Service Orientation\n├── Coordination\n├── Time Management\n├── Active Listening\n├── Foreign Language (bilingual)\n├── Typing Skills\n├── Multitasking (implicit)\n├── Responsibility (implicit)\n└── Creativity (implicit)\n    ↓\nBRIDGE SKILLS\n├── Communication\n├── Calendar Management\n├── Logistics\n├── Customer Service\n├── Event Planning\n    ↓\nGOAL SKILLS\n├── Administrative Support\n├── Attention to Detail\n├── Content Management System\n├── Data Entry\n└── Detail Orientation\n    ↓\nDREAM CAREER\n├── Content Creator\n├── Photographer\n└── Media Professional",
+    "steps": [
+      "Take a LinkedIn Learning course on Business Communication to strengthen communication skills.",
+      "Practice using Google Calendar or Trello for calendar management and logistics planning.",
+      "Volunteer to help organize a small event to gain event planning experience.",
+      "Create a portfolio website using a CMS like WordPress or Squarespace.",
+      "Apply for an entry-level administrative or content assistant role to build attention to detail and data entry skills."
+    ],
+    "summary": "You already have a strong foundation in arts, service, and coordination. By building communication, planning, and technical skills, you'll be ready to create compelling content and manage media projects. Keep creating and learning—your dream career is within reach!"
+  },
   "ideal_careers": [
     "Content Creator",
     "Photographer",
@@ -478,7 +482,8 @@
       "content-creation"
     ],
     "study_domains": [
-      "education"
+      "finance",
+      "arts-media"
     ],
     "study_subdomains": [
       "graphic-design"
@@ -554,9 +559,7 @@
       "goal_domains": [
         "arts-media"
       ],
-      "study_domains": [
-        "education"
-      ],
+      "study_domains": [],
       "goal_subdomains": [
         "content-creation"
       ],
@@ -566,7 +569,7 @@
         "Photographer",
         "Media Professional"
       ],
-      "confidence": 0.7,
+      "confidence": 0.65,
       "evidence_spans": [
         {
           "section": "summary",
@@ -578,7 +581,7 @@
         }
       ],
       "reason_codes": [
-        "explicit career goals"
+        "explicit goal"
       ],
       "review_reasons": []
     },
@@ -587,30 +590,26 @@
       "scored_skills": [
         "Instructing",
         "Customer and Personal Service",
+        "Fine Arts",
         "Service Orientation",
         "Coordination",
-        "Fine Arts",
-        "Food Production",
-        "Monitoring",
-        "Social Perceptiveness",
         "Time Management",
-        "Active Learning",
+        "Active Listening",
         "Foreign Language",
-        "bilingual"
+        "bilingual",
+        "typingskills"
       ],
       "verified_skills": [
         "Instructing",
         "Customer and Personal Service",
+        "Fine Arts",
         "Service Orientation",
         "Coordination",
-        "Fine Arts",
-        "Food Production",
-        "Monitoring",
-        "Social Perceptiveness",
         "Time Management",
-        "Active Learning",
+        "Active Listening",
         "Foreign Language",
-        "bilingual"
+        "bilingual",
+        "typingskills"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -623,23 +622,22 @@
         "high school",
         "meals",
         "paint",
-        "sitter",
-        "typingskills"
+        "sitter"
       ],
       "implicit_skills": [
         {
           "skill": "Multitasking",
-          "reason": "Managing care, meals, and activities suggests multitasking ability.",
+          "reason": "Managing multiple activities like care, meals, and extracurriculars suggests multitasking ability.",
           "confidence": "medium"
         },
         {
           "skill": "Responsibility",
-          "reason": "Caring for a child or pet implies responsibility.",
+          "reason": "Roles like sitter and care imply responsibility for others.",
           "confidence": "medium"
         },
         {
           "skill": "Creativity",
-          "reason": "Engaging in dance, paint, and games indicates creativity.",
+          "reason": "Activities like dance, paint, and games indicate creative skills.",
           "confidence": "medium"
         }
       ],

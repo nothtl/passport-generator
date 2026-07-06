@@ -24,13 +24,10 @@
     "media management",
     "microsoft",
     "organizational",
-    "organized",
     "personal branding",
-    "picking and packing",
+    "pricing and labeling",
     "problem solving",
-    "production",
-    "project",
-    "projects"
+    "production"
   ],
   "verified_skills": [
     "accuracy",
@@ -54,13 +51,10 @@
     "media management",
     "microsoft",
     "organizational",
-    "organized",
     "personal branding",
-    "picking and packing",
+    "pricing and labeling",
     "problem solving",
-    "production",
-    "project",
-    "projects"
+    "production"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -104,16 +98,19 @@
     "opening and closing",
     "operations",
     "orders",
+    "organized",
     "organizing",
     "part",
+    "picking and packing",
     "poised",
     "positive",
     "present",
     "presenting",
-    "pricing and labeling",
     "procedures",
     "professionals",
     "program",
+    "project",
+    "projects",
     "receiving"
   ],
   "skill_weights": {},
@@ -139,13 +136,10 @@
     "media management",
     "microsoft",
     "organizational",
-    "organized",
     "personal branding",
-    "picking and packing",
+    "pricing and labeling",
     "problem solving",
-    "production",
-    "project",
-    "projects"
+    "production"
   ],
   "inferred": [
     "teamwork",
@@ -155,68 +149,65 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Experience as a counselor and in camp activities implies collaboration.",
+      "reason": "Mentioned camp activities and counselor roles imply collaboration.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
+      "reason": "Handling multiple duties like opening/closing and deliveries suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "attention to detail",
-      "reason": "Skills like accuracy, counting, and inspecting indicate attention to detail.",
+      "reason": "Skills like accuracy, pricing, labeling, and inspecting indicate attention to detail.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
     "customer-service",
-    "sales",
-    "cash-handling",
-    "marketing",
     "organization",
-    "relationship-building",
-    "replenishment",
-    "social-media"
+    "sales",
+    "social-media",
+    "marketing",
+    "relationship-building"
   ],
   "core_gaps": [
     "customer-service",
-    "sales",
-    "cash-handling",
-    "marketing",
     "organization",
-    "relationship-building",
-    "replenishment",
-    "social-media"
+    "sales",
+    "social-media",
+    "marketing",
+    "relationship-building"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "administration",
-    "basic-measuring-skills",
+    "camp-activities",
+    "content-curation",
     "cross-functional",
-    "cross-selling",
     "customer-success",
     "data-driven",
-    "etiquette",
     "event-coordination",
-    "framing-equipment-operation",
-    "glass-cutter"
+    "growth",
+    "installation",
+    "inventory"
   ],
   "nice_to_have_gaps": [
     "administration",
-    "basic-measuring-skills",
+    "camp-activities",
+    "content-curation",
     "cross-functional",
-    "cross-selling",
     "customer-success",
     "data-driven",
-    "etiquette",
     "event-coordination",
-    "framing-equipment-operation",
-    "glass-cutter"
+    "growth",
+    "installation",
+    "inventory"
   ],
   "verify_gaps": [
-    "teamwork"
+    "teamwork",
+    "time-management"
   ],
   "related": [
     {
@@ -324,20 +315,86 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For a sales path, focus first on customer-service, sales, cash-handling. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a sales path, focus first on customer-service, organization, sales. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
+    {
+      "title": "2024-2025 Sports Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
+      "fit": 67,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Photography intern role, no age restrictions."
+    },
+    {
+      "title": "Installation Apprentice",
+      "company": "greatwindowsservices",
+      "url": "https://jobs.hunterdouglas.com/division/greatwindowsservices/job/7777687003?gh_jid=7777687003",
+      "fit": 67,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.111,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Installation apprentice, no age restriction."
+    },
+    {
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
+      "fit": 57,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.167,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Leasing consultant role does not require age 21+."
+    },
     {
       "title": "Growth Associate",
       "company": "maple",
       "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
-      "fit": 75,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
       "job_score_breakdown": {
-        "goal_alignment": 1.0,
+        "goal_alignment": 0.667,
         "study_alignment": 0.1,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -352,14 +409,14 @@
       "title": "Sales Associate Competitive Pay + Endless Commission",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4172836",
-      "fit": 75,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
       "job_score_breakdown": {
-        "goal_alignment": 1.0,
+        "goal_alignment": 0.667,
         "study_alignment": 0.1,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -369,87 +426,89 @@
       },
       "eligible": true,
       "eligibility_reason": "Sales associate, no age restriction."
-    },
-    {
-      "title": "PT Framer",
-      "company": "michaels",
-      "url": "https://michaels.wd5.myworkdayjobs.com/job/Houston-9666-Old-Katy-Rd/PT-Framer_R00313205",
-      "fit": 63,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "arts-media",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
-      "job_score_breakdown": {
-        "goal_alignment": 1.0,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "PT Framer at Michaels, no age restriction."
-    },
-    {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Cake Decorator",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3784388",
-      "fit": 54,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "arts-media",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Cake decorator, no age restriction."
     }
   ],
   "ready_now": [
     {
-      "title": "Growth Associate",
-      "company": "maple",
-      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
-      "fit": 75,
+      "title": "2024-2025 Sports Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
+      "fit": 67,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Photography intern role, no age restrictions."
+    },
+    {
+      "title": "Installation Apprentice",
+      "company": "greatwindowsservices",
+      "url": "https://jobs.hunterdouglas.com/division/greatwindowsservices/job/7777687003?gh_jid=7777687003",
+      "fit": 67,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "arts-media",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.111,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Installation apprentice, no age restriction."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
+      "fit": 57,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
       "job_score_breakdown": {
-        "goal_alignment": 1.0,
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.167,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Leasing consultant role does not require age 21+."
+    },
+    {
+      "title": "Growth Associate",
+      "company": "maple",
+      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
+      "fit": 55,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
         "study_alignment": 0.1,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -464,14 +523,14 @@
       "title": "Sales Associate Competitive Pay + Endless Commission",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4172836",
-      "fit": 75,
+      "fit": 55,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
+      "why": "A sales role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "customer-service, organization, sales",
       "job_score_breakdown": {
-        "goal_alignment": 1.0,
+        "goal_alignment": 0.667,
         "study_alignment": 0.1,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -483,75 +542,8 @@
       "eligibility_reason": "Sales associate, no age restriction."
     }
   ],
-  "aspirational": [
-    {
-      "title": "PT Framer",
-      "company": "michaels",
-      "url": "https://michaels.wd5.myworkdayjobs.com/job/Houston-9666-Old-Katy-Rd/PT-Framer_R00313205",
-      "fit": 63,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "arts-media",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
-      "job_score_breakdown": {
-        "goal_alignment": 1.0,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "PT Framer at Michaels, no age restriction."
-    },
-    {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8540828002",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    },
-    {
-      "title": "Cake Decorator",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3784388",
-      "fit": 54,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "arts-media",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "customer-service, sales, cash-handling",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Cake decorator, no age restriction."
-    }
-  ],
   "skill_path": null,
+  "skill_tree": null,
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
@@ -559,7 +551,7 @@
     ],
     "goal_roles": [
       "team lead",
-      "stock associate"
+      "brand manager"
     ],
     "goal_subdomains": [],
     "study_domains": [
@@ -644,22 +636,22 @@
       ],
       "goal_roles": [
         "team lead",
-        "stock associate"
+        "brand manager"
       ],
-      "confidence": 0.65,
+      "confidence": 0.6,
       "evidence_spans": [
-        {
-          "section": "skills",
-          "text": "As a team lead, my responsibilities include Opening and/or closing the store, opening and closing registers, counting the safe as well as making deposits"
-        },
         {
           "section": "summary",
           "text": "Determined individual with a proven track record in stock and brand management, poised to leverage this expertise into a progressive role."
+        },
+        {
+          "section": "skills",
+          "text": "As a team lead, my responsibilities include Opening and/or closing the store, opening and closing registers, counting the safe as well as making deposits"
         }
       ],
       "reason_codes": [
         "explicit goal in summary",
-        "demonstrated experience in retail and stock management"
+        "demonstrated experience in retail and team lead"
       ],
       "review_reasons": []
     },
@@ -687,13 +679,10 @@
         "media management",
         "microsoft",
         "organizational",
-        "organized",
         "personal branding",
-        "picking and packing",
+        "pricing and labeling",
         "problem solving",
-        "production",
-        "project",
-        "projects"
+        "production"
       ],
       "verified_skills": [
         "accuracy",
@@ -717,13 +706,10 @@
         "media management",
         "microsoft",
         "organizational",
-        "organized",
         "personal branding",
-        "picking and packing",
+        "pricing and labeling",
         "problem solving",
-        "production",
-        "project",
-        "projects"
+        "production"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -767,32 +753,35 @@
         "opening and closing",
         "operations",
         "orders",
+        "organized",
         "organizing",
         "part",
+        "picking and packing",
         "poised",
         "positive",
         "present",
         "presenting",
-        "pricing and labeling",
         "procedures",
         "professionals",
         "program",
+        "project",
+        "projects",
         "receiving"
       ],
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Experience as a counselor and in camp activities implies collaboration.",
+          "reason": "Mentioned camp activities and counselor roles imply collaboration.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
+          "reason": "Handling multiple duties like opening/closing and deliveries suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "attention to detail",
-          "reason": "Skills like accuracy, counting, and inspecting indicate attention to detail.",
+          "reason": "Skills like accuracy, pricing, labeling, and inspecting indicate attention to detail.",
           "confidence": "medium"
         }
       ],

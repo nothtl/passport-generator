@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Managing care, meals, and activities suggests multitasking ability.",
+      "reason": "Managing multiple activities like care, meals, and extracurriculars suggests multitasking ability.",
       "skill": "Multitasking"
     },
     {
       "confidence": "medium",
-      "reason": "Caring for a child or pet implies responsibility.",
+      "reason": "Roles like sitter and care imply responsibility for others.",
       "skill": "Responsibility"
     },
     {
       "confidence": "medium",
-      "reason": "Engaging in dance, paint, and games indicates creativity.",
+      "reason": "Activities like dance, paint, and games indicate creative skills.",
       "skill": "Creativity"
     }
   ],
@@ -29,36 +29,31 @@
     "high school",
     "meals",
     "paint",
-    "sitter",
-    "typingskills"
+    "sitter"
   ],
   "review_reasons": [],
   "scored_skills": [
     "Instructing",
     "Customer and Personal Service",
+    "Fine Arts",
     "Service Orientation",
     "Coordination",
-    "Fine Arts",
-    "Food Production",
-    "Monitoring",
-    "Social Perceptiveness",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
     "Foreign Language",
-    "bilingual"
+    "bilingual",
+    "typingskills"
   ],
   "verified_skills": [
     "Instructing",
     "Customer and Personal Service",
+    "Fine Arts",
     "Service Orientation",
     "Coordination",
-    "Fine Arts",
-    "Food Production",
-    "Monitoring",
-    "Social Perceptiveness",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
     "Foreign Language",
-    "bilingual"
+    "bilingual",
+    "typingskills"
   ]
 }

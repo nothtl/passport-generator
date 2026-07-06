@@ -135,13 +135,14 @@ def _build_candidate_jobs(
 
 
 def _auto_explain(title: str, function: str, subdomain: str, skills: list[str], goals: list[str]) -> str:
-    """Generate a simple auto-explanation without LLM. Honest about what we know."""
+    """Generate a contextual explanation for why this job fits the student."""
     if not skills:
-        return "This role matches your general career direction."
-    top_skills = skills[:4]
+        return f"This {function.replace('-',' ')} role matches your career direction."
+    top_skills = [s for s in skills[:6] if len(s) > 2 and s not in ('can','make','part','home')][:3]
     if goals:
-        return f"Uses your {', '.join(top_skills[:2])} skills. Aligns with your goal of becoming a {goals[0]}."
-    return f"Uses your {', '.join(top_skills[:3])} skills in a {function} role."
+        goal_str = goals[0]
+        return f"This role builds your {', '.join(top_skills)} skills and moves you toward becoming a {goal_str}."
+    return f"A {function.replace('-',' ')} role that uses your {', '.join(top_skills)} skills."
 
 
 def _default_coach_notes(function: str, core_gaps: list[str], verify_gaps: list[str]) -> str:
@@ -637,15 +638,21 @@ def analyze(
         else:
             break
 
-    # Generate overall skill path from current position to aspirational goals
+    # Generate skill progression tree + path
+    skill_tree = None
     skill_path = None
     if ideal_careers:
-        skill_path = generate_skill_path(
-            ideal_careers=ideal_careers,
-            current_function=chosen_function,
+        from recommender.llm.skill_tree import generate_skill_tree
+        skill_tree = generate_skill_tree(
+            student_skills=extracted_skills[:15],
+            implicit_skills=[s.get("skill","") for s in skill_profile.get("implicit_skills", [])],
             core_gaps=gaps["core_gaps"],
             bridge_gaps=gaps["bridge_gaps"],
+            stretch_gaps=gaps["stretch_gaps"],
+            current_function=chosen_function,
+            ideal_careers=ideal_careers,
         )
+        skill_path = skill_tree.get("summary", "") if skill_tree else None
 
     # Legacy flat job list for backward compatibility
     jobs = ready_now + aspirational
@@ -690,6 +697,7 @@ def analyze(
         "ready_now": ready_now,
         "aspirational": aspirational,
         "skill_path": skill_path,
+        "skill_tree": skill_tree,
         "ideal_careers": ideal_careers,
         "student_intent": {
             "goal_domains": student_intent.get("goal_domains", []),

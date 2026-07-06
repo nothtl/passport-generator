@@ -164,22 +164,22 @@
   "inferred": [
     "teamwork",
     "time management",
-    "problem solving"
+    "problem-solving"
   ],
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Roles like event support and catering imply collaboration with teams.",
+      "reason": "Roles like ambassador, event support, and catering imply collaboration with teams.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple tasks like cashiering and event setup suggests time management.",
+      "reason": "Handling multiple tasks like cash handling, customer service, and event setup suggests time management.",
       "confidence": "medium"
     },
     {
-      "skill": "problem solving",
-      "reason": "Customer service and event operations often require quick problem resolution.",
+      "skill": "problem-solving",
+      "reason": "Dealing with customer orders, inquiries, and event operations requires quick problem-solving.",
       "confidence": "medium"
     }
   ],
@@ -331,7 +331,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
@@ -353,7 +353,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.714,
@@ -375,7 +375,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
@@ -397,7 +397,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
@@ -419,7 +419,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
@@ -443,7 +443,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
@@ -465,7 +465,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.714,
@@ -489,7 +489,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
@@ -511,7 +511,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
@@ -533,7 +533,7 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
+      "why": "A social service role that uses your ambassador, attendance, catering skills.",
       "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
@@ -549,6 +549,7 @@
     }
   ],
   "skill_path": null,
+  "skill_tree": null,
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
@@ -789,17 +790,17 @@
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Roles like event support and catering imply collaboration with teams.",
+          "reason": "Roles like ambassador, event support, and catering imply collaboration with teams.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple tasks like cashiering and event setup suggests time management.",
+          "reason": "Handling multiple tasks like cash handling, customer service, and event setup suggests time management.",
           "confidence": "medium"
         },
         {
-          "skill": "problem solving",
-          "reason": "Customer service and event operations often require quick problem resolution.",
+          "skill": "problem-solving",
+          "reason": "Dealing with customer orders, inquiries, and event operations requires quick problem-solving.",
           "confidence": "medium"
         }
       ],

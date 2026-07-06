@@ -4,18 +4,18 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Roles like event support and catering imply collaboration with teams.",
+      "reason": "Roles like ambassador, event support, and catering imply collaboration with teams.",
       "skill": "teamwork"
     },
     {
       "confidence": "medium",
-      "reason": "Handling multiple tasks like cashiering and event setup suggests time management.",
+      "reason": "Handling multiple tasks like cash handling, customer service, and event setup suggests time management.",
       "skill": "time management"
     },
     {
       "confidence": "medium",
-      "reason": "Customer service and event operations often require quick problem resolution.",
-      "skill": "problem solving"
+      "reason": "Dealing with customer orders, inquiries, and event operations requires quick problem-solving.",
+      "skill": "problem-solving"
     }
   ],
   "possible_skills": [],

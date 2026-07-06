@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Experience as a counselor and in camp activities implies collaboration.",
+      "reason": "Mentioned camp activities and counselor roles imply collaboration.",
       "skill": "teamwork"
     },
     {
       "confidence": "medium",
-      "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
+      "reason": "Handling multiple duties like opening/closing and deliveries suggests time management.",
       "skill": "time management"
     },
     {
       "confidence": "medium",
-      "reason": "Skills like accuracy, counting, and inspecting indicate attention to detail.",
+      "reason": "Skills like accuracy, pricing, labeling, and inspecting indicate attention to detail.",
       "skill": "attention to detail"
     }
   ],
@@ -60,16 +60,19 @@
     "opening and closing",
     "operations",
     "orders",
+    "organized",
     "organizing",
     "part",
+    "picking and packing",
     "poised",
     "positive",
     "present",
     "presenting",
-    "pricing and labeling",
     "procedures",
     "professionals",
     "program",
+    "project",
+    "projects",
     "receiving"
   ],
   "review_reasons": [],
@@ -95,13 +98,10 @@
     "media management",
     "microsoft",
     "organizational",
-    "organized",
     "personal branding",
-    "picking and packing",
+    "pricing and labeling",
     "problem solving",
-    "production",
-    "project",
-    "projects"
+    "production"
   ],
   "verified_skills": [
     "accuracy",
@@ -125,12 +125,9 @@
     "media management",
     "microsoft",
     "organizational",
-    "organized",
     "personal branding",
-    "picking and packing",
+    "pricing and labeling",
     "problem solving",
-    "production",
-    "project",
-    "projects"
+    "production"
   ]
 }

@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Barista and advisor roles imply customer interaction and service skills.",
+      "reason": "Experience as barista and advisor implies customer service skills.",
       "skill": "customer service"
     },
     {
       "confidence": "medium",
-      "reason": "Managing multiple responsibilities like barista, advisor, and archival work suggests time management.",
+      "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
       "skill": "time management"
     },
     {
       "confidence": "medium",
-      "reason": "Archival work and digital archiving require meticulous attention to detail.",
+      "reason": "Archival work and organizational skills indicate attention to detail.",
       "skill": "attention to detail"
     }
   ],

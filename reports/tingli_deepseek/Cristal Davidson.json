@@ -114,17 +114,17 @@
   "implicit_skills": [
     {
       "skill": "customer service",
-      "reason": "Barista and advisor roles imply customer interaction and service skills.",
+      "reason": "Experience as barista and advisor implies customer service skills.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Managing multiple responsibilities like barista, advisor, and archival work suggests time management.",
+      "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "attention to detail",
-      "reason": "Archival work and digital archiving require meticulous attention to detail.",
+      "reason": "Archival work and organizational skills indicate attention to detail.",
       "confidence": "medium"
     }
   ],
@@ -295,7 +295,7 @@
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "education",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.545,
@@ -317,7 +317,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.273,
@@ -339,7 +339,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.455,
@@ -361,7 +361,7 @@
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -383,7 +383,7 @@
       "job_type": "bridge",
       "subdomain": "photo-video",
       "function": "arts-media",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.182,
@@ -407,7 +407,7 @@
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "education",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.545,
@@ -429,7 +429,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.273,
@@ -453,7 +453,7 @@
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.455,
@@ -475,7 +475,7 @@
       "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "arts-media",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
@@ -497,7 +497,7 @@
       "job_type": "bridge",
       "subdomain": "photo-video",
       "function": "arts-media",
-      "why": "Uses your archiving, collaboration, communication skills in a arts-media role.",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.182,
@@ -513,6 +513,7 @@
     }
   ],
   "skill_path": null,
+  "skill_tree": null,
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
@@ -521,7 +522,7 @@
     ],
     "goal_roles": [
       "archivist",
-      "museum curator"
+      "museum educator"
     ],
     "goal_subdomains": [
       "content-creation",
@@ -617,13 +618,13 @@
       ],
       "goal_roles": [
         "archivist",
-        "museum curator"
+        "museum educator"
       ],
-      "confidence": 0.7,
+      "confidence": 0.65,
       "evidence_spans": [
         {
           "section": "summary",
-          "text": "I am now exploring careers in museums, libraries, or archival work."
+          "text": "Recently graduated from Franklin and Marshall College with a bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work."
         },
         {
           "section": "experience",
@@ -728,17 +729,17 @@
       "implicit_skills": [
         {
           "skill": "customer service",
-          "reason": "Barista and advisor roles imply customer interaction and service skills.",
+          "reason": "Experience as barista and advisor implies customer service skills.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Managing multiple responsibilities like barista, advisor, and archival work suggests time management.",
+          "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "attention to detail",
-          "reason": "Archival work and digital archiving require meticulous attention to detail.",
+          "reason": "Archival work and organizational skills indicate attention to detail.",
           "confidence": "medium"
         }
       ],

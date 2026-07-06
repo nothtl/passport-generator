@@ -1,7 +1,7 @@
 {
   "accepted": true,
   "chosen_function": "education",
-  "chosen_subdomain": "community-education",
+  "chosen_subdomain": "classroom-support",
   "confidence": 0.6,
   "evidence_spans": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "section": "experience",
-      "text": "Intern \u2014 Tomorrow's Business Leaders \u00b7 Internship"
+      "text": "Intern \u2014 Tomorrow's Business Leaders \u00b7 Internship\nJun 2023 \u2013 Present \u00b7 3 yrs 1 mo \u00b7 New York, United States \u00b7 Remote"
     }
   ],
   "goal_domains": [
@@ -20,11 +20,11 @@
     "translator"
   ],
   "goal_subdomains": [
-    "community-education"
+    "classroom-support"
   ],
   "reason_codes": [
     "explicit goal in summary",
-    "thin resume with broad skills"
+    "thin resume with broad entry-level pool"
   ],
   "review_reasons": [],
   "secondary_function": "arts-media",
@@ -32,6 +32,6 @@
     "education"
   ],
   "study_subdomains": [
-    "community-education"
+    "classroom-support"
   ]
 }

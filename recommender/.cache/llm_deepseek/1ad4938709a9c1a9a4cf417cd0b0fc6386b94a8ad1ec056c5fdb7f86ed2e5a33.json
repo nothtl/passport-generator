@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Experience with customers and ordering suggests customer service skills.",
+      "reason": "Mentioned 'teams' and 'sports' which imply collaboration",
+      "skill": "teamwork"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Listed 'customers' and 'ordering' in experience context",
       "skill": "customer service"
     },
     {
       "confidence": "medium",
-      "reason": "Organizing and planning projects implies project management ability.",
-      "skill": "project management"
-    },
-    {
-      "confidence": "medium",
-      "reason": "Multilingual skills and translator role indicate bilingual communication.",
+      "reason": "Has 'english language learners' and 'french' indicating language skills",
       "skill": "bilingual communication"
     }
   ],
@@ -30,6 +30,7 @@
     "business",
     "can",
     "certificate",
+    "communicating",
     "customers",
     "detail",
     "excellence",
@@ -42,17 +43,19 @@
     "motivated",
     "operation",
     "ordering",
-    "plan",
+    "organizing",
     "prayer",
     "present",
     "projects",
     "readiness",
     "secure",
+    "soccer",
     "speak",
     "sports",
     "sportsmanship",
     "stem",
     "stock",
+    "teams",
     "united states"
   ],
   "review_reasons": [],
@@ -75,13 +78,13 @@
     "modeling",
     "attention to detail",
     "time management",
+    "organizational",
     "organizational skills",
     "organization",
-    "organizing",
-    "teamwork",
+    "plan",
+    "programming",
     "tech",
     "technical",
-    "programming",
     "translator",
     "video"
   ],
@@ -104,13 +107,13 @@
     "modeling",
     "attention to detail",
     "time management",
+    "organizational",
     "organizational skills",
     "organization",
-    "organizing",
-    "teamwork",
+    "plan",
+    "programming",
     "tech",
     "technical",
-    "programming",
     "translator",
     "video"
   ]

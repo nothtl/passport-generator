@@ -351,13 +351,21 @@ def _stream_full_parquet(function_labels: set[str], keyword_filters: list[str], 
 _ONET_ONLY_FUNCTIONS = {"protective-service"}  # Subset has no physical security jobs — use O*NET fallback exclusively
 
 _SUBSET_FUNCTION_MAP = {
-    "technology": "engineering",  # subset uses "engineering" not "technology"
-    "social-service": "education",  # fallback; keyword-filtered below
+    # Subset uses different labels — map our vocabulary to theirs
+    "technology": "engineering",
+    "social-service": "education",
     "arts-media": "design",
     "agriculture": "other",
     "building-grounds": "other",
     "personal-care": "other",
     "science": "research",
+    "food-service": "other",
+    "administrative": "ops",
+    "logistics": "ops",
+    "manufacturing": "ops",
+    "hospitality": "other",
+    "protective-service": "security",
+    "security": "security",
 }
 
 # Keywords that redirect generic-function jobs to our specific functions

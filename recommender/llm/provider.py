@@ -99,3 +99,52 @@ class OpenRouterProvider:
             body = json.loads(response.read().decode("utf-8"))
         content = body["choices"][0]["message"]["content"]
         return json.loads(content)
+
+
+class DeepSeekProvider:
+    """DeepSeek API provider with retry + backoff. OpenAI-compatible endpoint."""
+
+    def __init__(self, api_key: str = "", model: str = "deepseek-chat"):
+        self.api_key = (api_key or os.getenv("DEEPSEEK_API_KEY", "")).strip()
+        self.model = model
+        self.base_url = "https://api.deepseek.com/v1/chat/completions"
+
+    def complete_json(self, stage: str, system_prompt: str, user_prompt: str, model: str) -> dict[str, Any]:
+        if not self.api_key:
+            raise RuntimeError("DeepSeek API key not configured")
+
+        messages = []
+        if system_prompt and system_prompt.strip():
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": user_prompt})
+
+        payload = {
+            "model": model or self.model,
+            "temperature": 0,
+            "top_p": 1,
+            "max_tokens": 800,
+            "response_format": {"type": "json_object"},
+            "messages": messages,
+        }
+
+        last_error = None
+        for attempt in range(3):
+            try:
+                req = urllib.request.Request(
+                    self.base_url,
+                    data=json.dumps(payload).encode("utf-8"),
+                    headers={
+                        "Authorization": f"Bearer {self.api_key}",
+                        "Content-Type": "application/json",
+                    },
+                    method="POST",
+                )
+                with urllib.request.urlopen(req, timeout=60) as response:
+                    body = json.loads(response.read().decode("utf-8"))
+                return json.loads(body["choices"][0]["message"]["content"])
+            except Exception as e:
+                last_error = e
+                if attempt < 2:
+                    import time
+                    time.sleep(2 ** attempt)
+        raise RuntimeError(f"DeepSeek failed after 3 attempts: {last_error}")

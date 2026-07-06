@@ -50,6 +50,20 @@ _JUNK_SKILLS = {
 _DEFAULT_LLM_CACHE_DIR = os.path.join(_PROJECT_DIR, "recommender", ".cache", "llm")
 DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
 
+# ── Tuning constants (named to replace magic numbers) ──
+CONFIDENCE_BOOST = 40           # Added to raw classifier % for user-facing confidence
+FIT_BOOST = 30                  # Added to raw IDF fit scores
+FIT_READY_BOOST = 5             # Extra boost for ready_now tier
+FIT_ASPIRE_PENALTY = 5          # Penalty for aspirational tier
+ROUTE_LOW_CONF = 38             # Trigger LLM route judge below this confidence
+ROUTE_TOP_GAP = 12              # Trigger LLM route judge when top-2 gap <= this
+ROUTE_INTENT_MIN = 0.45         # Minimum intent confidence to consider goal conflict
+EVIDENCE_SKILL_MAX = 50         # Trigger evidence judge when extracted > this many skills
+EVIDENCE_JUNK_RATIO = 0.08      # Trigger evidence judge when junk ratio > this
+EVIDENCE_MARKET_OVERLAP = 0.30  # Trigger evidence judge when market overlap < this
+SPARSE_SKILL_THRESHOLD = 30     # Consider resume sparse below this many extracted skills
+NARROW_POOLS = {"legal", "engineering", "science", "agriculture", "personal-care"}
+
 
 def _default_llm_mode() -> str:
     env_mode = os.getenv("RECOMMENDER_DEFAULT_LLM_MODE", "").strip().lower()
@@ -87,9 +101,6 @@ def _build_candidate_jobs(
     secondary = candidate_functions[1] if len(candidate_functions) > 1 else ""
     pull_functions = [primary_function] + ([secondary] if secondary else [])
 
-    # Narrow-pool functions: the subset has few/no entry-level jobs for these.
-    # When classified into one, also pull from broad fallback pools.
-    NARROW_POOLS = {"legal", "engineering", "science", "agriculture", "personal-care"}
     if primary_function in NARROW_POOLS and len(pull_functions) <= 2:
         for broad in ["support", "ops", "education", "healthcare"]:
             if broad not in pull_functions:
@@ -200,10 +211,10 @@ def _should_run_route_stage(best: dict, student_intent: dict, llm_config: LLMCon
     if alternatives:
         top_gap = abs(best.get("match_pct", 0) - alternatives[0].get("match_pct", 0))
     return (
-        best.get("match_pct", 0) < 38
-        or top_gap <= 12
+        best.get("match_pct", 0) < ROUTE_LOW_CONF
+        or top_gap <= ROUTE_TOP_GAP
         or (
-            student_intent.get("intent_confidence", 0.0) >= 0.45
+            student_intent.get("intent_confidence", 0.0) >= ROUTE_INTENT_MIN
             and _route_conflict(best, student_intent)
         )
     )
@@ -242,9 +253,9 @@ def _should_run_evidence_stage(
     if llm_config.mode == "off":
         return False
     return (
-        len(extracted_skills) > 50
-        or _skill_junk_ratio(extracted_skills) > 0.08
-        or _market_overlap(chosen_function, extracted_skills) < 0.30
+        len(extracted_skills) > EVIDENCE_SKILL_MAX
+        or _skill_junk_ratio(extracted_skills) > EVIDENCE_JUNK_RATIO
+        or _market_overlap(chosen_function, extracted_skills) < EVIDENCE_MARKET_OVERLAP
         or current_needs_review
     )
 
@@ -662,18 +673,18 @@ def analyze(
     for j in jobs:
         raw = j.get("fit", 0)
         if raw > 0:
-            j["fit"] = min(round(raw + 30), 85)
+            j["fit"] = min(round(raw + FIT_BOOST), 85)
     for j in ready_now:
         if j.get("fit", 0) > 0:
-            j["fit"] = min(j["fit"] + 5, 88)
+            j["fit"] = min(j["fit"] + FIT_READY_BOOST, 88)
     for j in aspirational:
         if j.get("fit", 0) > 0:
-            j["fit"] = max(j["fit"] - 5, 50)
+            j["fit"] = max(j["fit"] - FIT_ASPIRE_PENALTY, 50)
 
     return {
         "resume": resume_text.strip(),
         "function": chosen_function,
-        "confidence": max(50, min(95, best["match_pct"] + 40)),
+        "confidence": max(50, min(95, best["match_pct"] + CONFIDENCE_BOOST)),
         "skills": extracted_skills,
         "verified_skills": verified_skills,
         "possible_skills": possible_skills,

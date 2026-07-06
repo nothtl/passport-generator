@@ -15,6 +15,7 @@ sys.path.insert(0, str(ROOT))
 
 from recommender.analyze import analyze
 from recommender.llm import LLMConfig
+from recommender.llm.provider import DeepSeekProvider
 
 OLD_REPORTS = ROOT / "reports" / "tingli_reports"
 NEW_REPORTS = ROOT / "reports" / "tingli_deepseek"
@@ -22,54 +23,8 @@ STUDENT_DATA = ROOT / "Passport_Agent_Actual_Test" / "Passport_Agent_Actual" / "
 BENCHMARKS_PATH = ROOT / "recommender" / "tests" / "fixtures" / "benchmark_expectations.json"
 
 DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
-DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
 DEEPSEEK_MODEL = "deepseek-chat"  # resolves to deepseek-v4-flash
 
-
-class DeepSeekProvider:
-    def __init__(self, api_key: str = "", model: str = DEEPSEEK_MODEL):
-        self.api_key = api_key or DEEPSEEK_KEY
-        self.model = model
-
-    def complete_json(self, stage: str, system_prompt: str, user_prompt: str, model: str) -> dict[str, Any]:
-        if not self.api_key:
-            raise RuntimeError("DeepSeek API key not configured")
-
-        messages = []
-        if system_prompt and system_prompt.strip():
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": user_prompt})
-
-        payload = {
-            "model": model or self.model,
-            "temperature": 0,
-            "top_p": 1,
-            "max_tokens": 800,
-            "response_format": {"type": "json_object"},
-            "messages": messages,
-        }
-
-        for attempt in range(3):
-            try:
-                req = urllib.request.Request(
-                    DEEPSEEK_URL,
-                    data=json.dumps(payload).encode("utf-8"),
-                    headers={
-                        "Authorization": f"Bearer {self.api_key}",
-                        "Content-Type": "application/json",
-                    },
-                    method="POST",
-                )
-                with urllib.request.urlopen(req, timeout=60) as response:
-                    body = json.loads(response.read().decode("utf-8"))
-                content = body["choices"][0]["message"]["content"]
-                return json.loads(content)
-            except Exception as e:
-                if attempt == 2:
-                    print(f"  [DeepSeek] Failed after 3 attempts: {e}")
-                    raise
-                time.sleep(2 ** attempt)
-        return {}
 
 
 def _normalize_name(name: str) -> str:

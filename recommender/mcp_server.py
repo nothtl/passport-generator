@@ -59,7 +59,12 @@ def extract_skills(resume_text: str, linkedin_text: str = "") -> list[str]:
     "Works offline — no data download needed.",
 )
 def match_role(skills: list[str]) -> dict:
-    return {"note": "Pass raw resume text to analyze_resume for full classification"}
+    """Classify skills into best-fit career function using the ML classifier."""
+    combined = ", ".join(skills) if skills else ""
+    if not combined.strip():
+        return {"error": "No skills provided"}
+    from recommender.match.ensemble_matcher import match_role as _match
+    return _match(combined)
 
 
 @mcp.tool(

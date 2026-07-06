@@ -37,6 +37,10 @@ _cached_df: dict[str, Any] = {}
 _cached_idf: dict[str, dict[str, float]] = {}
 _cached_pmi: dict[str, dict[tuple[str, str], float]] = {}
 
+def _norm_skill(s: str) -> str:
+    """Normalize a skill name: lowercase, strip hyphens/spaces/punctuation."""
+    return re.sub(r"[- ,/]", "", str(s).lower())
+
 _UUID_RE = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$")
 _BLOCKED_TITLE_PATTERNS = (
     "physician",
@@ -52,7 +56,6 @@ _BLOCKED_TITLE_PATTERNS = (
     "manager",
 )
 _SENIORITY_PATTERNS = ("senior",)
-
 
 def _resolve_func(func_lower: str) -> str:
     """Resolve function to parquet file, using fallback if missing or too small."""
@@ -72,7 +75,6 @@ def _resolve_func(func_lower: str) -> str:
         if os.path.exists(fallback_path) and os.path.getsize(fallback_path) > 100_000:
             return fallback
     return func_lower
-
 
 def _load_df(func_lower: str) -> Any:
     cache_key = func_lower  # always cache under original name
@@ -101,7 +103,6 @@ def _load_df(func_lower: str) -> Any:
     _cached_df[cache_key] = df
     return df
 
-
 def _compute_idf(func_lower: str) -> dict[str, float]:
     """Compute IDF for each unique skill in this function's JD corpus.
 
@@ -120,7 +121,7 @@ def _compute_idf(func_lower: str) -> dict[str, float]:
 
     N = len(df)
 
-    def _norm(s):
+    def _norm_skill(s):
         return re.sub(r"[- ,/]", "", str(s).lower())
 
     # Count document frequency per skill
@@ -131,7 +132,7 @@ def _compute_idf(func_lower: str) -> dict[str, float]:
         seen_in_jd = set()
         for s in (list(skills) if hasattr(skills, "__iter__") else []):
             if isinstance(s, str):
-                normed = _norm(s)
+                normed = _norm_skill(s)
                 if normed and normed not in seen_in_jd:
                     skill_df[normed] = skill_df.get(normed, 0) + 1
                     seen_in_jd.add(normed)
@@ -143,9 +144,6 @@ def _compute_idf(func_lower: str) -> dict[str, float]:
     _cached_idf[func_lower] = idf
     return idf
 
-
-
-
 def _compute_pmi(func_lower: str) -> dict[tuple[str, str], float]:
     """Compute PMI for skill pairs in this function's JD corpus."""
     df = _load_df(func_lower)
@@ -154,7 +152,7 @@ def _compute_pmi(func_lower: str) -> dict[tuple[str, str], float]:
 
     N = len(df)
 
-    def _norm(s):
+    def _norm_skill(s):
         return re.sub(r"[- ,/]", "", str(s).lower())
 
     single_freq: dict[str, int] = {}
@@ -167,7 +165,7 @@ def _compute_pmi(func_lower: str) -> dict[tuple[str, str], float]:
         seen = set()
         for s in (list(skills) if hasattr(skills, "__iter__") else []):
             if isinstance(s, str):
-                n = _norm(s)
+                n = _norm_skill(s)
                 if n and n not in seen:
                     normed.append(n)
                     seen.add(n)
@@ -195,14 +193,13 @@ def _compute_pmi(func_lower: str) -> dict[tuple[str, str], float]:
 
     return pmi
 
-
 def get_related_skills(function: str, student_skills: list[str], top_k: int = 10) -> list[tuple[str, float]]:
     """Find skills the student lacks that co-occur with ones they have."""
-    def _norm(s):
+    def _norm_skill(s):
         return re.sub(r"[- ,/]", "", str(s).lower())
 
     pmi = _compute_pmi(function.lower())
-    student_normed = {_norm(s) for s in student_skills}
+    student_normed = {_norm_skill(s) for s in student_skills}
 
     related = {}
     for (a, b), score in pmi.items():
@@ -216,7 +213,6 @@ def get_related_skills(function: str, student_skills: list[str], top_k: int = 10
     ranked = sorted(related.items(), key=lambda x: -x[1])
     return ranked[:top_k]
 
-
 def get_jd_skill_vocabulary(function: str) -> set[str]:
     """Return the set of all unique skill names in this function's JDs.
     Used for filtering student skills to only market-relevant ones."""
@@ -226,7 +222,7 @@ def get_jd_skill_vocabulary(function: str) -> set[str]:
         return set()
     
     import re
-    def _norm(s):
+    def _norm_skill(s):
         return re.sub(r'[- ,/]', '', str(s).lower())
     
     vocab = set()
@@ -234,9 +230,8 @@ def get_jd_skill_vocabulary(function: str) -> set[str]:
         if skills is None: continue
         for s in (list(skills) if hasattr(skills, '__iter__') else []):
             if isinstance(s, str) and len(s) > 2:
-                vocab.add(_norm(s))
+                vocab.add(_norm_skill(s))
     return vocab
-
 
 def filter_job_records(
     jobs: list[dict[str, Any]],
@@ -301,10 +296,8 @@ def filter_job_records(
 
     return filtered
 
-
 _SUBSET_PATH = os.path.join(_CORPUS_DIR, "open_jobs_subset.parquet")
 _subset_cache = None
-
 
 def _load_subset():
     global _subset_cache
@@ -312,7 +305,6 @@ def _load_subset():
         import pyarrow.parquet as pq
         _subset_cache = pq.read_table(_SUBSET_PATH).to_pandas()
     return _subset_cache
-
 
 def _stream_full_parquet(function_labels: set[str], keyword_filters: list[str], top_k: int) -> list[dict]:
     """Stream through the full 21GB parquet by row groups, filtering on the fly."""
@@ -359,7 +351,6 @@ def _stream_full_parquet(function_labels: set[str], keyword_filters: list[str], 
         result = pd.concat(matched, ignore_index=True)
         return result.head(top_k).to_dict("records")
     return []
-
 
 # Map our pipeline functions to subset parquet labels (different vocabularies)
 _ONET_ONLY_FUNCTIONS = {"protective-service"}  # Subset has no physical security jobs — use O*NET fallback exclusively
@@ -410,7 +401,6 @@ _FUNCTION_KEYWORDS = {
         "creative", "visual", "designer",
     ],
 }
-
 
 def retrieve_from_subset(
     function: str = "",
@@ -508,7 +498,7 @@ def retrieve_from_subset(
     if student_skills and "skills" in df.columns and len(df) > 0:
         import re as _re2
         _norm2 = lambda s: _re2.sub(r"[- ,/]", "", str(s).lower())
-        student_set = {_norm2(s) for s in student_skills}
+        student_set = {_norm_skill(s) for s in student_skills}
 
         def _score(row_skills):
             if row_skills is None:
@@ -519,7 +509,7 @@ def retrieve_from_subset(
             except Exception:
                 return 0
             for s in skills_list:
-                if isinstance(s, str) and _norm2(s) in student_set:
+                if isinstance(s, str) and _norm_skill(s) in student_set:
                     total += 1.0
             return total
 
@@ -536,7 +526,6 @@ def retrieve_from_subset(
         results.extend(fallbacks)
 
     return results
-
 
 # Synthetic O*NET fallback jobs for functions with thin/no subset coverage
 _ONET_FALLBACKS: dict[str, list[dict]] = {
@@ -659,14 +648,12 @@ _ONET_FALLBACKS: dict[str, list[dict]] = {
     ],
 }
 
-
 def _get_onet_fallback(function: str, count: int) -> list[dict]:
     """Return synthetic O*NET fallback jobs for functions with thin subset coverage."""
     fallbacks = _ONET_FALLBACKS.get(function, [])
     if not fallbacks:
         return []
     return fallbacks[:count]
-
 
 def retrieve_jds(
     function: str,
@@ -691,17 +678,17 @@ def retrieve_jds(
             result = pd.concat([result, extra])
         return result.to_dict("records")
 
-    def _norm(s):
+    def _norm_skill(s):
         return re.sub(r"[- ,/]", "", str(s).lower())
 
     idf = _compute_idf(func_lower)
-    student_set = set(_norm(s) for s in student_skills)
+    student_set = set(_norm_skill(s) for s in student_skills)
 
     # Build TF weights from the skill list: if a skill like "security" appears
     # multiple times in the extracted skills (from different n-grams), weight it higher.
     # Single-occurrence skills get TF=1.0 baseline.
     from collections import Counter as _Counter
-    _tf_counts = _Counter(_norm(s) for s in student_skills)
+    _tf_counts = _Counter(_norm_skill(s) for s in student_skills)
     student_tf = {n: 1 + math.log(c) for n, c in _tf_counts.items()}
 
     # Expand via ESCO synonyms (data-driven, 85K alt-labels)
@@ -711,11 +698,11 @@ def retrieve_jds(
         with open(_syn_path) as _f:
             _esco = json.load(_f)
         for canonical, aliases in _esco.items():
-            if _norm(canonical) in student_set:
+            if _norm_skill(canonical) in student_set:
                 continue
-            if any(_norm(a) in student_set for a in aliases):
-                student_set.add(_norm(canonical))
-                student_tf[_norm(canonical)] = 1.5  # inferred synonyms get slight boost
+            if any(_norm_skill(a) in student_set for a in aliases):
+                student_set.add(_norm_skill(canonical))
+                student_tf[_norm_skill(canonical)] = 1.5  # inferred synonyms get slight boost
     except Exception:
         pass
 
@@ -726,7 +713,7 @@ def retrieve_jds(
         total = 0.0
         for s in (list(row_skills) if hasattr(row_skills, "__iter__") else []):
             if isinstance(s, str):
-                normed = _norm(s)
+                normed = _norm_skill(s)
                 if normed in student_set:
                     tf = student_tf.get(normed, 1.0)
                     total += tf * idf.get(normed, 1.0)

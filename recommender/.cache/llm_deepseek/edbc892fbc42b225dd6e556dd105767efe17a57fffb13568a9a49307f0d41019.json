@@ -17,8 +17,8 @@
     "protective-service"
   ],
   "goal_roles": [
-    "Security Professional",
-    "Police Officer"
+    "Police Officer",
+    "Security Professional"
   ],
   "goal_subdomains": [],
   "reason_codes": [
@@ -28,7 +28,7 @@
   "review_reasons": [],
   "secondary_function": "sales",
   "study_domains": [
-    "sales"
+    "protective-service"
   ],
   "study_subdomains": []
 }

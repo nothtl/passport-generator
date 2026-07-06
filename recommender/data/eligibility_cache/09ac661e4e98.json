@@ -1,0 +1,38 @@
+{
+  "Associate Software Development Engineer|||boeing": {
+    "eligible": true,
+    "reason": "Software development roles are suitable for 16-20 year olds."
+  },
+  "Support Intern|||jitterbit": {
+    "eligible": true,
+    "reason": "Support intern roles are suitable for young adults."
+  },
+  "Front End Engineer|||leverdemo": {
+    "eligible": true,
+    "reason": "Front end engineer roles are suitable for young adults."
+  },
+  "Full Stack Java Developer - DV cleared|||infotel-uk": {
+    "eligible": true,
+    "reason": "Software developer roles are suitable; DV clearance may require age but role itself does not legally require 21+."
+  },
+  "Software Engineer|||leidos": {
+    "eligible": true,
+    "reason": "Software engineer roles are suitable for young adults."
+  },
+  "Software Engineer, New Grad|||ixllearning": {
+    "eligible": true,
+    "reason": "New grad software engineer roles are suitable for recent grads."
+  },
+  "Associate Software Engineer|||asrcfh": {
+    "eligible": true,
+    "reason": "Associate software engineer roles are suitable for young adults."
+  },
+  "Working Student - Web Software Developer|||BoschGroup": {
+    "eligible": true,
+    "reason": "Working student web developer roles are suitable for students."
+  },
+  "Initiativbewerbung Schwerpunkt Softwareentwicklung (m/w/d)|||consist": {
+    "eligible": true,
+    "reason": "Software development roles are suitable for young adults."
+  }
+}

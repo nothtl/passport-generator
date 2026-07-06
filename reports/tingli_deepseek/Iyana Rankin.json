@@ -155,12 +155,12 @@
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Experience as a counselor and in camp activities implies collaboration with others.",
+      "reason": "Experience as a counselor and in camp activities implies collaboration.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling opening/closing procedures and multiple tasks suggests ability to manage time.",
+      "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
       "confidence": "medium"
     },
     {
@@ -171,47 +171,43 @@
   ],
   "skill_evidence": [],
   "gaps": [
+    "marketing",
     "sales",
     "customer-service",
-    "marketing",
     "organization",
-    "relationship-building",
     "social-media",
-    "administration"
+    "administration",
+    "relationship-building"
   ],
   "core_gaps": [
+    "marketing",
     "sales",
     "customer-service",
-    "marketing",
     "organization",
-    "relationship-building",
     "social-media",
-    "administration"
+    "administration",
+    "relationship-building"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "cash-management",
     "client-relationship-management",
-    "hospitality",
+    "event-coordination",
     "insurance",
-    "merchandising",
+    "interpersonal-skills",
     "negotiation",
     "office-administration",
-    "opening-and-closing",
-    "presentation",
-    "product-knowledge"
+    "planning",
+    "presentation"
   ],
   "nice_to_have_gaps": [
-    "cash-management",
     "client-relationship-management",
-    "hospitality",
+    "event-coordination",
     "insurance",
-    "merchandising",
+    "interpersonal-skills",
     "negotiation",
     "office-administration",
-    "opening-and-closing",
-    "presentation",
-    "product-knowledge"
+    "planning",
+    "presentation"
   ],
   "verify_gaps": [
     "teamwork"
@@ -322,43 +318,43 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For a sales path, focus first on sales, customer-service, marketing. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a sales path, focus first on marketing, sales, customer-service. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Key Holder",
-      "company": "Comoto",
-      "url": "https://jobs.smartrecruiters.com/Comoto/743999899351063",
-      "fit": 73,
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
+      "fit": 67,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
+      "gaps": "marketing, sales, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 1.0,
-        "study_alignment": 0.0,
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.111,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Key holder role does not require age 21+."
+      "eligibility_reason": "Leasing consultant role does not require age 21+."
     },
     {
       "title": "Insurance Broker",
       "company": "alchemy-financial-group",
       "url": "https://alchemy-financial-group.breezy.hr/p/58f91da7d1bb-insurance-broker",
-      "fit": 64,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
+      "gaps": "marketing, sales, customer-service",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
-        "study_alignment": 0.0,
+        "study_alignment": 0.1,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -369,41 +365,17 @@
       "eligibility_reason": "Insurance broker roles typically require licensing but not a minimum age of 21, so eligible for 16-20 year olds."
     },
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 54,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "sales",
-      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
-    }
-  ],
-  "ready_now": [
-    {
       "title": "Key Holder",
       "company": "Comoto",
       "url": "https://jobs.smartrecruiters.com/Comoto/743999899351063",
-      "fit": 73,
+      "fit": 53,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
+      "gaps": "marketing, sales, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 1.0,
+        "goal_alignment": 0.667,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -413,20 +385,44 @@
       },
       "eligible": true,
       "eligibility_reason": "Key holder role does not require age 21+."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
+      "fit": 67,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "sales",
+      "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
+      "gaps": "marketing, sales, customer-service",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Leasing consultant role does not require age 21+."
     },
     {
       "title": "Insurance Broker",
       "company": "alchemy-financial-group",
       "url": "https://alchemy-financial-group.breezy.hr/p/58f91da7d1bb-insurance-broker",
-      "fit": 64,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
+      "gaps": "marketing, sales, customer-service",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
-        "study_alignment": 0.0,
+        "study_alignment": 0.1,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -439,26 +435,26 @@
   ],
   "aspirational": [
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 54,
+      "title": "Key Holder",
+      "company": "Comoto",
+      "url": "https://jobs.smartrecruiters.com/Comoto/743999899351063",
+      "fit": 53,
       "job_type": "goal",
       "subdomain": "",
       "function": "sales",
       "why": "Uses your accuracy, accurate pricing, amazon skills in a sales role.",
-      "gaps": "sales, customer-service, marketing",
+      "gaps": "marketing, sales, customer-service",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.111,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
+      "eligibility_reason": "Key holder role does not require age 21+."
     }
   ],
   "skill_path": null,
@@ -469,14 +465,15 @@
     ],
     "goal_roles": [
       "team lead",
-      "brand manager"
+      "stock associate"
     ],
     "goal_subdomains": [],
     "study_domains": [
-      "arts-media"
+      "arts-media",
+      "education"
     ],
     "study_subdomains": [
-      "content-creation"
+      "creative-education"
     ],
     "study_program": "Associate",
     "study_level": "associate",
@@ -542,30 +539,31 @@
         "sales"
       ],
       "study_domains": [
-        "arts-media"
+        "arts-media",
+        "education"
       ],
       "goal_subdomains": [],
       "study_subdomains": [
-        "content-creation"
+        "creative-education"
       ],
       "goal_roles": [
         "team lead",
-        "brand manager"
+        "stock associate"
       ],
       "confidence": 0.6,
       "evidence_spans": [
         {
-          "section": "summary",
-          "text": "Determined individual with a proven track record in stock and brand management, poised to leverage this expertise into a progressive role."
+          "section": "skills",
+          "text": "As a team lead, my responsibilities include Opening and/or closing the store, opening and closing registers, counting the safe as well as making deposits"
         },
         {
-          "section": "skills",
-          "text": "As a team lead, my responsibilities include Opening and/or closing the store, opening and closing registers, counting the safe as well as making deposits as a part of closing procedures."
+          "section": "summary",
+          "text": "Determined individual with a proven track record in stock and brand management, poised to leverage this expertise into a progressive role."
         }
       ],
       "reason_codes": [
         "explicit goal in summary",
-        "demonstrated experience in retail and brand management"
+        "demonstrated experience in retail and stock management"
       ],
       "review_reasons": []
     },
@@ -688,12 +686,12 @@
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Experience as a counselor and in camp activities implies collaboration with others.",
+          "reason": "Experience as a counselor and in camp activities implies collaboration.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling opening/closing procedures and multiple tasks suggests ability to manage time.",
+          "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
           "confidence": "medium"
         },
         {

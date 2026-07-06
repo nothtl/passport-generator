@@ -5,34 +5,54 @@
   "skills": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
+    "Social Perceptiveness",
+    "Speaking",
     "Active Listening",
     "Time Management",
-    "Public Safety and Security",
-    "Leadership",
-    "Problem Solving",
-    "Public Speaking",
-    "Team Leadership",
-    "Social Media Management",
-    "Media Management",
-    "Community Engagement"
+    "Critical Thinking",
+    "Management of Personnel Resources",
+    "community engagement",
+    "engagement",
+    "leadership",
+    "management",
+    "media",
+    "media management",
+    "organized",
+    "problem solving",
+    "public speaking",
+    "social",
+    "social media",
+    "social media management",
+    "speaking",
+    "team leadership",
+    "volunteering"
   ],
   "verified_skills": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
+    "Social Perceptiveness",
+    "Speaking",
     "Active Listening",
     "Time Management",
-    "Public Safety and Security",
-    "Leadership",
-    "Problem Solving",
-    "Public Speaking",
-    "Team Leadership",
-    "Social Media Management",
-    "Media Management",
-    "Community Engagement"
+    "Critical Thinking",
+    "Management of Personnel Resources",
+    "community engagement",
+    "engagement",
+    "leadership",
+    "management",
+    "media",
+    "media management",
+    "organized",
+    "problem solving",
+    "public speaking",
+    "social",
+    "social media",
+    "social media management",
+    "speaking",
+    "team leadership",
+    "volunteering"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -42,7 +62,6 @@
     "career paths",
     "community events",
     "ecp",
-    "engagement",
     "engaging",
     "flag football",
     "football",
@@ -53,51 +72,54 @@
     "junior",
     "languages",
     "learner",
-    "management",
-    "media",
     "name",
     "native spanish",
     "non profit",
     "non profit organization",
     "organization",
-    "organized",
     "part",
     "passionate",
     "physically active",
     "professionals",
     "quick learner",
     "schools",
-    "social",
-    "social media",
     "spanish",
-    "speaking",
     "sports",
     "student athlete",
     "u s citizen",
-    "volunteering",
     "weekends"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
+    "Social Perceptiveness",
+    "Speaking",
     "Active Listening",
     "Time Management",
-    "Public Safety and Security",
-    "Leadership",
-    "Problem Solving",
-    "Public Speaking",
-    "Team Leadership",
-    "Social Media Management",
-    "Media Management",
-    "Community Engagement"
+    "Critical Thinking",
+    "Management of Personnel Resources",
+    "community engagement",
+    "engagement",
+    "leadership",
+    "management",
+    "media",
+    "media management",
+    "organized",
+    "problem solving",
+    "public speaking",
+    "social",
+    "social media",
+    "social media management",
+    "speaking",
+    "team leadership",
+    "volunteering"
   ],
   "inferred": [
     "Bilingual (Spanish)",
-    "Event Coordination",
-    "Athletic Coaching or Mentoring"
+    "Event Planning",
+    "Athletic Coaching"
   ],
   "implicit_skills": [
     {
@@ -106,13 +128,13 @@
       "confidence": "medium"
     },
     {
-      "skill": "Event Coordination",
-      "reason": "Experience with community engagement and community events suggests event planning skills.",
+      "skill": "Event Planning",
+      "reason": "Mentioned 'community events' and 'organized' suggests event coordination.",
       "confidence": "medium"
     },
     {
-      "skill": "Athletic Coaching or Mentoring",
-      "reason": "Involvement in flag football, football, sports, and student athlete indicates coaching or mentoring ability.",
+      "skill": "Athletic Coaching",
+      "reason": "Mentioned 'flag football', 'football', 'sports', 'student athlete' implies coaching or sports management.",
       "confidence": "medium"
     }
   ],
@@ -167,6 +189,22 @@
   "verify_gaps": [],
   "related": [
     {
+      "skill": "contentcreation",
+      "pmi": 5.12
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
+      "skill": "microsoftoffice",
+      "pmi": 3.54
+    },
+    {
       "skill": "privatelessons",
       "pmi": 3.37
     },
@@ -175,40 +213,40 @@
       "pmi": 3.33
     },
     {
+      "skill": "eventplanning",
+      "pmi": 3.21
+    },
+    {
       "skill": "inwaterskillsassessment",
       "pmi": 3.2
     },
     {
+      "skill": "confidentiality",
+      "pmi": 3.11
+    },
+    {
       "skill": "planning",
       "pmi": 3.02
-    },
-    {
-      "skill": "teamdevelopment",
-      "pmi": 2.98
-    },
-    {
-      "skill": "mentorship",
-      "pmi": 2.92
-    },
-    {
-      "skill": "communityoutreach",
-      "pmi": 2.86
-    },
-    {
-      "skill": "physics",
-      "pmi": 2.82
-    },
-    {
-      "skill": "remoteteaching",
-      "pmi": 2.82
-    },
-    {
-      "skill": "flexibility",
-      "pmi": 2.8
     }
   ],
   "related_skills": [
     {
+      "skill": "contentcreation",
+      "pmi": 5.12
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
+      "skill": "microsoftoffice",
+      "pmi": 3.54
+    },
+    {
       "skill": "privatelessons",
       "pmi": 3.37
     },
@@ -217,36 +255,20 @@
       "pmi": 3.33
     },
     {
+      "skill": "eventplanning",
+      "pmi": 3.21
+    },
+    {
       "skill": "inwaterskillsassessment",
       "pmi": 3.2
     },
     {
+      "skill": "confidentiality",
+      "pmi": 3.11
+    },
+    {
       "skill": "planning",
       "pmi": 3.02
-    },
-    {
-      "skill": "teamdevelopment",
-      "pmi": 2.98
-    },
-    {
-      "skill": "mentorship",
-      "pmi": 2.92
-    },
-    {
-      "skill": "communityoutreach",
-      "pmi": 2.86
-    },
-    {
-      "skill": "physics",
-      "pmi": 2.82
-    },
-    {
-      "skill": "remoteteaching",
-      "pmi": 2.82
-    },
-    {
-      "skill": "flexibility",
-      "pmi": 2.8
     }
   ],
   "alternatives": [
@@ -294,7 +316,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a youth sports coach, you'll build transferable skills like parent communication, positive reinforcement, and safety supervision, which directly apply to social work and youth advocacy by strengthening your ability to engage families, support emotional development, and ensure child well-being."
+      "bridge": "As a Youth Sports Coach, you'll build transferable skills in communication, social perceptiveness, and critical thinking through parent communication and adapting instruction, which directly apply to advocating for youth and organizing communities in social work."
     },
     {
       "title": " LA Galaxy, Youth Programs Coach - Part-Time",
@@ -317,7 +339,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth coaching role, no age restrictions.",
-      "bridge": "As a Youth Programs Coach, you'll build transferable skills in youth development, team-building, and communication—directly applicable to social work and youth advocacy. These experiences will strengthen your ability to connect with diverse youth, manage group dynamics, and coordinate community programs, laying a practical foundation for your aspirational career."
+      "bridge": "As a Youth Programs Coach, you'll build transferable skills in youth development, team-building, and communication—directly applicable to social work and youth advocacy. This role hones your ability to manage groups, plan engaging activities, and report outcomes, all while strengthening your social perceptiveness and active listening."
     },
     {
       "title": "LA Galaxy, Youth Programs Coach - Juniors and Skills",
@@ -408,7 +430,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a youth sports coach, you'll build transferable skills like parent communication, positive reinforcement, and safety supervision, which directly apply to social work and youth advocacy by strengthening your ability to engage families, support emotional development, and ensure child well-being."
+      "bridge": "As a Youth Sports Coach, you'll build transferable skills in communication, social perceptiveness, and critical thinking through parent communication and adapting instruction, which directly apply to advocating for youth and organizing communities in social work."
     },
     {
       "title": " LA Galaxy, Youth Programs Coach - Part-Time",
@@ -431,7 +453,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth coaching role, no age restrictions.",
-      "bridge": "As a Youth Programs Coach, you'll build transferable skills in youth development, team-building, and communication—directly applicable to social work and youth advocacy. These experiences will strengthen your ability to connect with diverse youth, manage group dynamics, and coordinate community programs, laying a practical foundation for your aspirational career."
+      "bridge": "As a Youth Programs Coach, you'll build transferable skills in youth development, team-building, and communication—directly applicable to social work and youth advocacy. This role hones your ability to manage groups, plan engaging activities, and report outcomes, all while strengthening your social perceptiveness and active listening."
     }
   ],
   "aspirational": [
@@ -502,7 +524,7 @@
       "eligibility_reason": "Youth sports coach, suitable for minors."
     }
   ],
-  "skill_path": "Start by building foundational skills in child development and communication through free online courses or workshops. Look for entry-level roles like youth program assistant or after-school tutor to gain hands-on classroom management and curriculum delivery experience. As you grow, seek mentorship in community organizing to transition into advocacy roles.",
+  "skill_path": "Start by building foundational skills in child development and communication through online courses or volunteer work with youth programs. Look for entry-level roles like youth mentor or program assistant to gain hands-on classroom management and curriculum delivery experience. As you grow, seek opportunities to lead small group activities, which will prepare you for social work or community organizing roles.",
   "ideal_careers": [
     "Social Worker",
     "Community Organizer",
@@ -615,12 +637,12 @@
         },
         {
           "section": "summary",
-          "text": "I am also the Co-Chair of the Executive Board of another non-profit company I work with called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and Colleges to help students work on their leadership skills, career paths, and connects these students with professionals based on their career interests."
+          "text": "I am very passionate about helping my community in any way, anytime."
         }
       ],
       "reason_codes": [
-        "explicit_career_goals",
-        "volunteer_experience_in_community_and_youth"
+        "explicit_goal",
+        "volunteer_experience"
       ],
       "review_reasons": []
     },
@@ -629,34 +651,54 @@
       "scored_skills": [
         "Coordination",
         "Communications and Media",
-        "Social Perceptiveness",
         "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Speaking",
         "Active Listening",
         "Time Management",
-        "Public Safety and Security",
-        "Leadership",
-        "Problem Solving",
-        "Public Speaking",
-        "Team Leadership",
-        "Social Media Management",
-        "Media Management",
-        "Community Engagement"
+        "Critical Thinking",
+        "Management of Personnel Resources",
+        "community engagement",
+        "engagement",
+        "leadership",
+        "management",
+        "media",
+        "media management",
+        "organized",
+        "problem solving",
+        "public speaking",
+        "social",
+        "social media",
+        "social media management",
+        "speaking",
+        "team leadership",
+        "volunteering"
       ],
       "verified_skills": [
         "Coordination",
         "Communications and Media",
-        "Social Perceptiveness",
         "Customer and Personal Service",
+        "Social Perceptiveness",
+        "Speaking",
         "Active Listening",
         "Time Management",
-        "Public Safety and Security",
-        "Leadership",
-        "Problem Solving",
-        "Public Speaking",
-        "Team Leadership",
-        "Social Media Management",
-        "Media Management",
-        "Community Engagement"
+        "Critical Thinking",
+        "Management of Personnel Resources",
+        "community engagement",
+        "engagement",
+        "leadership",
+        "management",
+        "media",
+        "media management",
+        "organized",
+        "problem solving",
+        "public speaking",
+        "social",
+        "social media",
+        "social media management",
+        "speaking",
+        "team leadership",
+        "volunteering"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -666,7 +708,6 @@
         "career paths",
         "community events",
         "ecp",
-        "engagement",
         "engaging",
         "flag football",
         "football",
@@ -677,28 +718,21 @@
         "junior",
         "languages",
         "learner",
-        "management",
-        "media",
         "name",
         "native spanish",
         "non profit",
         "non profit organization",
         "organization",
-        "organized",
         "part",
         "passionate",
         "physically active",
         "professionals",
         "quick learner",
         "schools",
-        "social",
-        "social media",
         "spanish",
-        "speaking",
         "sports",
         "student athlete",
         "u s citizen",
-        "volunteering",
         "weekends"
       ],
       "implicit_skills": [
@@ -708,13 +742,13 @@
           "confidence": "medium"
         },
         {
-          "skill": "Event Coordination",
-          "reason": "Experience with community engagement and community events suggests event planning skills.",
+          "skill": "Event Planning",
+          "reason": "Mentioned 'community events' and 'organized' suggests event coordination.",
           "confidence": "medium"
         },
         {
-          "skill": "Athletic Coaching or Mentoring",
-          "reason": "Involvement in flag football, football, sports, and student athlete indicates coaching or mentoring ability.",
+          "skill": "Athletic Coaching",
+          "reason": "Mentioned 'flag football', 'football', 'sports', 'student athlete' implies coaching or sports management.",
           "confidence": "medium"
         }
       ],

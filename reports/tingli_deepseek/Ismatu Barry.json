@@ -6,17 +6,14 @@
     "Instructing",
     "Administrative",
     "Monitoring",
-    "Coordination",
+    "Foreign Language",
     "Writing",
     "Customer and Personal Service",
-    "Foreign Language",
-    "Active Listening",
-    "Public Safety and Security",
+    "Coordination",
     "Time Management",
-    "Speaking",
+    "Public Safety and Security",
     "attention to detail",
     "communication",
-    "english fluent",
     "excel",
     "french",
     "interpreter",
@@ -30,37 +27,40 @@
     "access",
     "administrative assistant",
     "administrative duties",
-    "aide",
-    "assist",
     "attendance tracking",
-    "behavior",
     "building access",
     "classroom instruction",
-    "clerical",
     "clerical support",
-    "clients",
-    "administration",
-    "bachelor",
+    "confidentiality",
     "criminal justice",
-    "political science",
-    "public administration",
-    "science"
+    "information security",
+    "instruction",
+    "lesson preparation",
+    "microsoft",
+    "monitor",
+    "office suite",
+    "operations",
+    "organization",
+    "organized",
+    "paraprofessional",
+    "patrols",
+    "policies",
+    "powerpoint",
+    "presentations",
+    "procedures"
   ],
   "verified_skills": [
     "Instructing",
     "Administrative",
     "Monitoring",
-    "Coordination",
+    "Foreign Language",
     "Writing",
     "Customer and Personal Service",
-    "Foreign Language",
-    "Active Listening",
-    "Public Safety and Security",
+    "Coordination",
     "Time Management",
-    "Speaking",
+    "Public Safety and Security",
     "attention to detail",
     "communication",
-    "english fluent",
     "excel",
     "french",
     "interpreter",
@@ -74,25 +74,30 @@
     "access",
     "administrative assistant",
     "administrative duties",
-    "aide",
-    "assist",
     "attendance tracking",
-    "behavior",
     "building access",
     "classroom instruction",
-    "clerical",
     "clerical support",
-    "clients",
-    "administration",
-    "bachelor",
+    "confidentiality",
     "criminal justice",
-    "political science",
-    "public administration",
-    "science"
+    "information security",
+    "instruction",
+    "lesson preparation",
+    "microsoft",
+    "monitor",
+    "office suite",
+    "operations",
+    "organization",
+    "organized",
+    "paraprofessional",
+    "patrols",
+    "policies",
+    "powerpoint",
+    "presentations",
+    "procedures"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "Active Listening",
     "Administrative",
     "Coordination",
     "Customer and Personal Service",
@@ -100,7 +105,6 @@
     "Instructing",
     "Monitoring",
     "Public Safety and Security",
-    "Speaking",
     "Time Management",
     "Writing",
     "access",
@@ -140,7 +144,6 @@
     "immigration",
     "incidents",
     "inclusive classroom",
-    "information security",
     "instruction",
     "interpreter",
     "languages",
@@ -171,24 +174,23 @@
     "policies",
     "political science",
     "powerpoint",
-    "present"
+    "present",
+    "presentations",
+    "procedures"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Instructing",
     "Administrative",
     "Monitoring",
-    "Coordination",
+    "Foreign Language",
     "Writing",
     "Customer and Personal Service",
-    "Foreign Language",
-    "Active Listening",
-    "Public Safety and Security",
+    "Coordination",
     "Time Management",
-    "Speaking",
+    "Public Safety and Security",
     "attention to detail",
     "communication",
-    "english fluent",
     "excel",
     "french",
     "interpreter",
@@ -202,90 +204,88 @@
     "access",
     "administrative assistant",
     "administrative duties",
-    "aide",
-    "assist",
     "attendance tracking",
-    "behavior",
     "building access",
     "classroom instruction",
-    "clerical",
     "clerical support",
-    "clients",
-    "administration",
-    "bachelor",
+    "confidentiality",
     "criminal justice",
-    "political science",
-    "public administration",
-    "science"
+    "information security",
+    "instruction",
+    "lesson preparation",
+    "microsoft",
+    "monitor",
+    "office suite",
+    "operations",
+    "organization",
+    "organized",
+    "paraprofessional",
+    "patrols",
+    "policies",
+    "powerpoint",
+    "presentations",
+    "procedures"
   ],
   "inferred": [
-    "Microsoft Office",
-    "Multilingual Communication",
-    "Classroom Management"
+    "Classroom Management",
+    "Data Entry",
+    "Customer Service"
   ],
   "implicit_skills": [
     {
-      "skill": "Microsoft Office",
-      "reason": "Listed 'microsoft office' and 'microsoft office suite' explicitly, but also 'excel', 'powerpoint' indicate proficiency.",
-      "confidence": "medium"
-    },
-    {
-      "skill": "Multilingual Communication",
-      "reason": "Mentioned 'multilingual', 'multilingual communication', 'french', 'interpreter', 'languages'.",
-      "confidence": "medium"
-    },
-    {
       "skill": "Classroom Management",
-      "reason": "Experience includes 'classroom instruction', 'behavior', 'attendance tracking', 'lesson preparation'.",
+      "reason": "Experience with classroom instruction and lesson preparation implies classroom management skills.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Data Entry",
+      "reason": "Clerical support and attendance tracking suggest data entry proficiency.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Customer Service",
+      "reason": "Client interaction and communication indicate customer service skills.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
     "teamwork",
-    "english",
-    "organization",
-    "outlook",
-    "powerpoint",
-    "windows",
-    "word"
+    "english"
   ],
   "core_gaps": [
     "teamwork",
-    "english",
-    "organization",
-    "outlook",
-    "powerpoint",
-    "windows",
-    "word"
+    "english"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
+    "bachelor-s-degree",
     "basic-accounting",
     "cash-handling",
     "clerkship",
     "computer-literacy",
-    "confidentiality",
-    "customer-service",
-    "data-entry",
+    "critical-thinking",
+    "google-suite",
     "instructional-support",
     "interpersonal-skills",
-    "microsoft-office-365"
+    "ms-office"
   ],
   "nice_to_have_gaps": [
+    "bachelor-s-degree",
     "basic-accounting",
     "cash-handling",
     "clerkship",
     "computer-literacy",
-    "confidentiality",
-    "customer-service",
-    "data-entry",
+    "critical-thinking",
+    "google-suite",
     "instructional-support",
     "interpersonal-skills",
-    "microsoft-office-365"
+    "ms-office"
   ],
   "verify_gaps": [
-    "classroom-management"
+    "classroom-management",
+    "customer-service",
+    "data-entry"
   ],
   "related": [
     {
@@ -293,40 +293,40 @@
       "pmi": 5.93
     },
     {
-      "skill": "socialstudies",
-      "pmi": 5.93
+      "skill": "microsoftoffice365",
+      "pmi": 5.36
     },
     {
       "skill": "onetoonesupport",
       "pmi": 5.24
     },
     {
-      "skill": "stem",
-      "pmi": 5.24
-    },
-    {
-      "skill": "microsoftoffice365",
-      "pmi": 4.83
+      "skill": "word",
+      "pmi": 4.78
     },
     {
       "skill": "readingcomprehension",
       "pmi": 4.76
     },
     {
-      "skill": "word",
-      "pmi": 4.73
-    },
-    {
       "skill": "coteaching",
       "pmi": 4.65
     },
     {
-      "skill": "powerpoint",
-      "pmi": 4.52
-    },
-    {
       "skill": "outlook",
       "pmi": 4.49
+    },
+    {
+      "skill": "windows",
+      "pmi": 4.49
+    },
+    {
+      "skill": "contentdevelopment",
+      "pmi": 4.49
+    },
+    {
+      "skill": "autismspectrum",
+      "pmi": 4.47
     }
   ],
   "related_skills": [
@@ -335,40 +335,40 @@
       "pmi": 5.93
     },
     {
-      "skill": "socialstudies",
-      "pmi": 5.93
+      "skill": "microsoftoffice365",
+      "pmi": 5.36
     },
     {
       "skill": "onetoonesupport",
       "pmi": 5.24
     },
     {
-      "skill": "stem",
-      "pmi": 5.24
-    },
-    {
-      "skill": "microsoftoffice365",
-      "pmi": 4.83
+      "skill": "word",
+      "pmi": 4.78
     },
     {
       "skill": "readingcomprehension",
       "pmi": 4.76
     },
     {
-      "skill": "word",
-      "pmi": 4.73
-    },
-    {
       "skill": "coteaching",
       "pmi": 4.65
     },
     {
-      "skill": "powerpoint",
-      "pmi": 4.52
-    },
-    {
       "skill": "outlook",
       "pmi": 4.49
+    },
+    {
+      "skill": "windows",
+      "pmi": 4.49
+    },
+    {
+      "skill": "contentdevelopment",
+      "pmi": 4.49
+    },
+    {
+      "skill": "autismspectrum",
+      "pmi": 4.47
     }
   ],
   "alternatives": [
@@ -393,7 +393,7 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on teamwork, english, organization. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a education path, focus first on teamwork, english. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Instructional Aide ",
@@ -404,36 +404,58 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.7,
         "study_alignment": 0.667,
         "subdomain_alignment": 0.926,
         "experience_alignment": 0.444,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
+        "attainability": 0.85,
+        "skill_overlap": 0.444,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Instructional aide, no age restriction."
     },
     {
-      "title": "Children's Center Student Assistant",
-      "company": "associated-students-inc",
-      "url": "https://apply.workable.com/j/919A2F2464",
-      "fit": 86,
+      "title": "Substitute Teacher",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1035263",
+      "fit": 88,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.25,
+        "attainability": 0.65,
+        "skill_overlap": 0.333,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Substitute teacher, no age restriction."
+    },
+    {
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
+      "fit": 77,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.4,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.714,
         "experience_alignment": 0.474,
         "attainability": 0.75,
-        "skill_overlap": 0.273,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -443,19 +465,19 @@
       "title": "Academic Instructor",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3787066",
-      "fit": 73,
+      "fit": 74,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.3,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.833,
         "experience_alignment": 0.368,
         "attainability": 0.75,
-        "skill_overlap": 0.176,
+        "skill_overlap": 0.235,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -470,7 +492,7 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.3,
         "study_alignment": 0.444,
@@ -482,28 +504,6 @@
       },
       "eligible": true,
       "eligibility_reason": "AmeriCorps education role, no age restriction."
-    },
-    {
-      "title": "Youth Development Professional (Houston Pasadena Corps)",
-      "company": "tsa",
-      "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/146168",
-      "fit": 66,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
-      "job_score_breakdown": {
-        "goal_alignment": 0.3,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.5,
-        "experience_alignment": 0.316,
-        "attainability": 0.75,
-        "skill_overlap": 0.154,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth development role, suitable for 16-20."
     }
   ],
   "ready_now": [
@@ -516,60 +516,82 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.7,
         "study_alignment": 0.667,
         "subdomain_alignment": 0.926,
         "experience_alignment": 0.444,
-        "attainability": 0.75,
-        "skill_overlap": 0.111,
+        "attainability": 0.85,
+        "skill_overlap": 0.444,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Instructional aide, no age restriction."
     },
     {
-      "title": "Children's Center Student Assistant",
-      "company": "associated-students-inc",
-      "url": "https://apply.workable.com/j/919A2F2464",
-      "fit": 86,
+      "title": "Substitute Teacher",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1035263",
+      "fit": 88,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.25,
+        "attainability": 0.65,
+        "skill_overlap": 0.333,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Substitute teacher, no age restriction."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
+      "fit": 77,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.4,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.714,
         "experience_alignment": 0.474,
         "attainability": 0.75,
-        "skill_overlap": 0.273,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Children's center assistant, suitable for young adults."
-    }
-  ],
-  "aspirational": [
+    },
     {
       "title": "Academic Instructor",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3787066",
-      "fit": 73,
+      "fit": 74,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.3,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.833,
         "experience_alignment": 0.368,
         "attainability": 0.75,
-        "skill_overlap": 0.176,
+        "skill_overlap": 0.235,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -584,7 +606,7 @@
       "subdomain": "classroom-support",
       "function": "education",
       "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
+      "gaps": "teamwork, english",
       "job_score_breakdown": {
         "goal_alignment": 0.3,
         "study_alignment": 0.444,
@@ -596,31 +618,9 @@
       },
       "eligible": true,
       "eligibility_reason": "AmeriCorps education role, no age restriction."
-    },
-    {
-      "title": "Youth Development Professional (Houston Pasadena Corps)",
-      "company": "tsa",
-      "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/146168",
-      "fit": 66,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "Uses your Instructing, Administrative skills. Aligns with your goal of becoming a Science.",
-      "gaps": "teamwork, english, organization",
-      "job_score_breakdown": {
-        "goal_alignment": 0.3,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.5,
-        "experience_alignment": 0.316,
-        "attainability": 0.75,
-        "skill_overlap": 0.154,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth development role, suitable for 16-20."
     }
   ],
-  "skill_path": "Start by strengthening your English and organization skills through online courses or workshops, as these are foundational for teaching. Then, seek a part-time role as a teaching assistant or tutor to build teamwork and practical classroom experience. Finally, practice creating PowerPoint presentations for lesson plans to showcase your readiness for a full teaching position.",
+  "skill_path": "Start by strengthening your English through online courses or conversation groups, then practice teamwork by joining study groups or volunteering for group projects. Look for entry-level roles like tutoring or teacher's aide to gain classroom experience while building these skills. With consistent effort, you'll be ready for a teaching assistant position and eventually a full science teacher role.",
   "ideal_careers": [
     "Science",
     "Teacher",
@@ -750,17 +750,14 @@
         "Instructing",
         "Administrative",
         "Monitoring",
-        "Coordination",
+        "Foreign Language",
         "Writing",
         "Customer and Personal Service",
-        "Foreign Language",
-        "Active Listening",
-        "Public Safety and Security",
+        "Coordination",
         "Time Management",
-        "Speaking",
+        "Public Safety and Security",
         "attention to detail",
         "communication",
-        "english fluent",
         "excel",
         "french",
         "interpreter",
@@ -774,37 +771,40 @@
         "access",
         "administrative assistant",
         "administrative duties",
-        "aide",
-        "assist",
         "attendance tracking",
-        "behavior",
         "building access",
         "classroom instruction",
-        "clerical",
         "clerical support",
-        "clients",
-        "administration",
-        "bachelor",
+        "confidentiality",
         "criminal justice",
-        "political science",
-        "public administration",
-        "science"
+        "information security",
+        "instruction",
+        "lesson preparation",
+        "microsoft",
+        "monitor",
+        "office suite",
+        "operations",
+        "organization",
+        "organized",
+        "paraprofessional",
+        "patrols",
+        "policies",
+        "powerpoint",
+        "presentations",
+        "procedures"
       ],
       "verified_skills": [
         "Instructing",
         "Administrative",
         "Monitoring",
-        "Coordination",
+        "Foreign Language",
         "Writing",
         "Customer and Personal Service",
-        "Foreign Language",
-        "Active Listening",
-        "Public Safety and Security",
+        "Coordination",
         "Time Management",
-        "Speaking",
+        "Public Safety and Security",
         "attention to detail",
         "communication",
-        "english fluent",
         "excel",
         "french",
         "interpreter",
@@ -818,25 +818,30 @@
         "access",
         "administrative assistant",
         "administrative duties",
-        "aide",
-        "assist",
         "attendance tracking",
-        "behavior",
         "building access",
         "classroom instruction",
-        "clerical",
         "clerical support",
-        "clients",
-        "administration",
-        "bachelor",
+        "confidentiality",
         "criminal justice",
-        "political science",
-        "public administration",
-        "science"
+        "information security",
+        "instruction",
+        "lesson preparation",
+        "microsoft",
+        "monitor",
+        "office suite",
+        "operations",
+        "organization",
+        "organized",
+        "paraprofessional",
+        "patrols",
+        "policies",
+        "powerpoint",
+        "presentations",
+        "procedures"
       ],
       "possible_skills": [],
       "rejected_skills": [
-        "Active Listening",
         "Administrative",
         "Coordination",
         "Customer and Personal Service",
@@ -844,7 +849,6 @@
         "Instructing",
         "Monitoring",
         "Public Safety and Security",
-        "Speaking",
         "Time Management",
         "Writing",
         "access",
@@ -884,7 +888,6 @@
         "immigration",
         "incidents",
         "inclusive classroom",
-        "information security",
         "instruction",
         "interpreter",
         "languages",
@@ -915,22 +918,24 @@
         "policies",
         "political science",
         "powerpoint",
-        "present"
+        "present",
+        "presentations",
+        "procedures"
       ],
       "implicit_skills": [
         {
-          "skill": "Microsoft Office",
-          "reason": "Listed 'microsoft office' and 'microsoft office suite' explicitly, but also 'excel', 'powerpoint' indicate proficiency.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Multilingual Communication",
-          "reason": "Mentioned 'multilingual', 'multilingual communication', 'french', 'interpreter', 'languages'.",
-          "confidence": "medium"
-        },
-        {
           "skill": "Classroom Management",
-          "reason": "Experience includes 'classroom instruction', 'behavior', 'attendance tracking', 'lesson preparation'.",
+          "reason": "Experience with classroom instruction and lesson preparation implies classroom management skills.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Data Entry",
+          "reason": "Clerical support and attendance tracking suggest data entry proficiency.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Customer Service",
+          "reason": "Client interaction and communication indicate customer service skills.",
           "confidence": "medium"
         }
       ],

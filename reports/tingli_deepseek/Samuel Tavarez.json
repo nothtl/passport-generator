@@ -7,13 +7,18 @@
     "Mathematics",
     "Administrative",
     "Coordination",
+    "Active Listening",
     "Speaking",
     "Instructing",
     "Critical Thinking",
     "Sales and Marketing",
+    "Time Management",
     "administration",
+    "analyses",
     "analysis",
     "analytical",
+    "analyzing",
+    "banking finance",
     "bilingual",
     "brand",
     "brand value",
@@ -37,6 +42,7 @@
     "composition",
     "comprehension",
     "content",
+    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -72,22 +78,25 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "layout"
+    "investment banking"
   ],
   "verified_skills": [
     "Customer and Personal Service",
     "Mathematics",
     "Administrative",
     "Coordination",
+    "Active Listening",
     "Speaking",
     "Instructing",
     "Critical Thinking",
     "Sales and Marketing",
+    "Time Management",
     "administration",
+    "analyses",
     "analysis",
     "analytical",
+    "analyzing",
+    "banking finance",
     "bilingual",
     "brand",
     "brand value",
@@ -111,6 +120,7 @@
     "composition",
     "comprehension",
     "content",
+    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -146,22 +156,14 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "layout"
+    "investment banking"
   ],
   "possible_skills": [],
   "rejected_skills": [
     "act",
-    "analyses",
-    "analyzing",
     "assignments",
-    "balancing",
-    "banking finance",
-    "courses",
-    "math",
-    "science",
-    "spanish"
+    "bachelor",
+    "balancing"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -169,13 +171,18 @@
     "Mathematics",
     "Administrative",
     "Coordination",
+    "Active Listening",
     "Speaking",
     "Instructing",
     "Critical Thinking",
     "Sales and Marketing",
+    "Time Management",
     "administration",
+    "analyses",
     "analysis",
     "analytical",
+    "analyzing",
+    "banking finance",
     "bilingual",
     "brand",
     "brand value",
@@ -199,6 +206,7 @@
     "composition",
     "comprehension",
     "content",
+    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -234,80 +242,75 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "layout"
+    "investment banking"
   ],
   "inferred": [
     "Microsoft Office",
-    "Data Analysis",
-    "Project Management"
+    "Teamwork",
+    "Problem Solving"
   ],
   "implicit_skills": [
     {
       "skill": "Microsoft Office",
-      "reason": "Excel and Google Docs imply proficiency in office suites",
+      "reason": "Excel and Google Docs mentioned, likely proficient in Office suite",
       "confidence": "medium"
     },
     {
-      "skill": "Data Analysis",
-      "reason": "Mention of analysis, financial analysis, and charts suggests data analysis skills",
+      "skill": "Teamwork",
+      "reason": "Collaborative and group leader mentioned",
       "confidence": "medium"
     },
     {
-      "skill": "Project Management",
-      "reason": "Coordination, goal setting, and group leader indicate project management abilities",
+      "skill": "Problem Solving",
+      "reason": "Critical thinking and analytical skills listed",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
     "organization",
-    "multitasking",
-    "supervision",
-    "teamwork"
+    "outlook",
+    "supervision"
   ],
   "core_gaps": [
     "organization",
-    "multitasking",
-    "supervision",
-    "teamwork"
+    "outlook",
+    "supervision"
   ],
   "bridge_gaps": [
     "child-care",
     "child-development",
     "curriculum-implementation",
-    "microsoft-office-365",
-    "outlook",
-    "powerpoint",
-    "record-keeping",
-    "word"
+    "multitasking"
   ],
   "stretch_gaps": [
+    "account-openings",
     "accounting",
     "accounting-entries",
     "accounts-paya ble",
-    "accounts-receivable",
+    "asset-transfers",
+    "attention-to-detail",
+    "billing",
     "cash-management",
-    "collections",
-    "credit-analysis",
-    "de-escalation",
-    "financial-statements",
-    "gaap"
+    "electronic-billing",
+    "financial-statements"
   ],
   "nice_to_have_gaps": [
+    "account-openings",
     "accounting",
     "accounting-entries",
     "accounts-paya ble",
-    "accounts-receivable",
+    "asset-transfers",
+    "attention-to-detail",
+    "billing",
     "cash-management",
     "child-care",
-    "child-development",
-    "collections",
-    "credit-analysis",
-    "curriculum-implementation"
+    "child-development"
   ],
-  "verify_gaps": [],
+  "verify_gaps": [
+    "microsoft-office",
+    "teamwork"
+  ],
   "related": [
     {
       "skill": "spanish",
@@ -414,29 +417,29 @@
       "pct": 3
     }
   ],
-  "coach_notes": "For a finance path, focus first on organization, multitasking, supervision. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a finance path, focus first on organization, outlook, supervision. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Credit Analyst I",
-      "company": "generac",
-      "url": "https://generac.wd5.myworkdayjobs.com/job/Waukesha-WI---USA/Credit-Analyst-I_JR14596",
-      "fit": 83,
+      "title": "Billing Clerk",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4159052",
+      "fit": 84,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.3,
-        "attainability": 0.65,
-        "skill_overlap": 0.3,
+        "attainability": 0.75,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Credit analyst roles typically do not have age restrictions beyond 16, and the role is suitable for young adults."
+      "eligibility_reason": "Billing clerk role, no age restriction."
     },
     {
       "title": "Accountant I",
@@ -447,7 +450,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -461,6 +464,28 @@
       "eligibility_reason": "Accounting role, no age restriction."
     },
     {
+      "title": "Client Service Associate",
+      "company": "focuspartnerswealth",
+      "url": "https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6100546004",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
+      "gaps": "organization, outlook, supervision",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.313,
+        "attainability": 0.65,
+        "skill_overlap": 0.235,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Client service associate, no age restriction."
+    },
+    {
       "title": "Extended Care",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3919566",
@@ -469,7 +494,7 @@
       "subdomain": "",
       "function": "education",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
@@ -491,7 +516,7 @@
       "subdomain": "",
       "function": "education",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
@@ -503,52 +528,30 @@
       },
       "eligible": true,
       "eligibility_reason": "Before/after school teacher, suitable for young adults."
-    },
-    {
-      "title": "Youth Development Professional_NE-TX_350-Boys and Girls Club 1",
-      "company": "tsa",
-      "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/139200",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "",
-      "function": "education",
-      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
-      "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.3,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth development roles are suitable for ages 16-20."
     }
   ],
   "ready_now": [
     {
-      "title": "Credit Analyst I",
-      "company": "generac",
-      "url": "https://generac.wd5.myworkdayjobs.com/job/Waukesha-WI---USA/Credit-Analyst-I_JR14596",
-      "fit": 83,
+      "title": "Billing Clerk",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4159052",
+      "fit": 84,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.3,
-        "attainability": 0.65,
-        "skill_overlap": 0.3,
+        "attainability": 0.75,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Credit analyst roles typically do not have age restrictions beyond 16, and the role is suitable for young adults."
+      "eligibility_reason": "Billing clerk role, no age restriction."
     },
     {
       "title": "Accountant I",
@@ -559,7 +562,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -575,6 +578,28 @@
   ],
   "aspirational": [
     {
+      "title": "Client Service Associate",
+      "company": "focuspartnerswealth",
+      "url": "https://job-boards.greenhouse.io/focuspartnerswealth/jobs/6100546004",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
+      "gaps": "organization, outlook, supervision",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.313,
+        "attainability": 0.65,
+        "skill_overlap": 0.235,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Client service associate, no age restriction."
+    },
+    {
       "title": "Extended Care",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3919566",
@@ -583,7 +608,7 @@
       "subdomain": "",
       "function": "education",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
@@ -605,7 +630,7 @@
       "subdomain": "",
       "function": "education",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
+      "gaps": "organization, outlook, supervision",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
@@ -617,31 +642,9 @@
       },
       "eligible": true,
       "eligibility_reason": "Before/after school teacher, suitable for young adults."
-    },
-    {
-      "title": "Youth Development Professional_NE-TX_350-Boys and Girls Club 1",
-      "company": "tsa",
-      "url": "https://jobs.dayforcehcm.com/tsa/CANDIDATEPORTAL/jobs/139200",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "",
-      "function": "education",
-      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "organization, multitasking, supervision",
-      "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.3,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth development roles are suitable for ages 16-20."
     }
   ],
-  "skill_path": "Start by building foundational skills like organization and multitasking through hands-on roles such as a childcare assistant or administrative support, where you'll also gain experience with Microsoft Office 365 and Outlook. Then, seek entry-level finance positions like accounting clerk or junior analyst to develop teamwork and supervision skills while applying your bridge skills. This step-by-step approach will gradually close your gaps and prepare you for a Financial Analyst or Accountant role.",
+  "skill_path": "Start by building organization and multitasking skills through roles like administrative assistant or childcare coordinator, where you can manage schedules and implement structured routines. Then, seek entry-level finance positions like accounting clerk or junior analyst to apply these skills while learning supervision and financial software. Consider volunteering for budget planning in community groups to bridge your childcare experience with financial analysis.",
   "ideal_careers": [
     "Financial Analyst",
     "Accountant",
@@ -763,13 +766,18 @@
         "Mathematics",
         "Administrative",
         "Coordination",
+        "Active Listening",
         "Speaking",
         "Instructing",
         "Critical Thinking",
         "Sales and Marketing",
+        "Time Management",
         "administration",
+        "analyses",
         "analysis",
         "analytical",
+        "analyzing",
+        "banking finance",
         "bilingual",
         "brand",
         "brand value",
@@ -793,6 +801,7 @@
         "composition",
         "comprehension",
         "content",
+        "courses",
         "culture",
         "customer relationships",
         "customer service",
@@ -828,22 +837,25 @@
         "inventory management",
         "inventory tracking",
         "investment",
-        "investment banking",
-        "languages",
-        "layout"
+        "investment banking"
       ],
       "verified_skills": [
         "Customer and Personal Service",
         "Mathematics",
         "Administrative",
         "Coordination",
+        "Active Listening",
         "Speaking",
         "Instructing",
         "Critical Thinking",
         "Sales and Marketing",
+        "Time Management",
         "administration",
+        "analyses",
         "analysis",
         "analytical",
+        "analyzing",
+        "banking finance",
         "bilingual",
         "brand",
         "brand value",
@@ -867,6 +879,7 @@
         "composition",
         "comprehension",
         "content",
+        "courses",
         "culture",
         "customer relationships",
         "customer service",
@@ -902,37 +915,29 @@
         "inventory management",
         "inventory tracking",
         "investment",
-        "investment banking",
-        "languages",
-        "layout"
+        "investment banking"
       ],
       "possible_skills": [],
       "rejected_skills": [
         "act",
-        "analyses",
-        "analyzing",
         "assignments",
-        "balancing",
-        "banking finance",
-        "courses",
-        "math",
-        "science",
-        "spanish"
+        "bachelor",
+        "balancing"
       ],
       "implicit_skills": [
         {
           "skill": "Microsoft Office",
-          "reason": "Excel and Google Docs imply proficiency in office suites",
+          "reason": "Excel and Google Docs mentioned, likely proficient in Office suite",
           "confidence": "medium"
         },
         {
-          "skill": "Data Analysis",
-          "reason": "Mention of analysis, financial analysis, and charts suggests data analysis skills",
+          "skill": "Teamwork",
+          "reason": "Collaborative and group leader mentioned",
           "confidence": "medium"
         },
         {
-          "skill": "Project Management",
-          "reason": "Coordination, goal setting, and group leader indicate project management abilities",
+          "skill": "Problem Solving",
+          "reason": "Critical thinking and analytical skills listed",
           "confidence": "medium"
         }
       ],

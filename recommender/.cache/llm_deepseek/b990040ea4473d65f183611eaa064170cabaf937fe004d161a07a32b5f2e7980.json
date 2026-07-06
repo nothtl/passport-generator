@@ -4,18 +4,18 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Listed as 'customer service excellence' and 'service excellence'",
-      "skill": "Customer Service"
+      "reason": "Troubleshooting and technical support imply problem-solving ability.",
+      "skill": "Problem Solving"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'bilingual', 'spanish english', 'translation'",
-      "skill": "Bilingual Communication"
+      "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+      "skill": "Multitasking"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'",
-      "skill": "Technical Support"
+      "reason": "Organizational skills and administrative tasks require attention to detail.",
+      "skill": "Attention to Detail"
     }
   ],
   "possible_skills": [],

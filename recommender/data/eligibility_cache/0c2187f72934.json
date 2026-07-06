@@ -1,0 +1,18 @@
+{
+  "Patient Services Coordinator": {
+    "eligible": true,
+    "reason": "Patient Services Coordinator is an administrative role, not requiring age 21+."
+  },
+  "Carpenter": {
+    "eligible": true,
+    "reason": "Carpentry is a skilled trade open to minors with proper supervision."
+  },
+  "IT-Systemadministrator (m/w/d) - Schwerpunkt Microsoft 365 Administration|||prokuras": {
+    "eligible": true,
+    "reason": "IT system administration is suitable for young adults."
+  },
+  "STEP-IT Apprentice (Must be a Nisqually Tribal Member)": {
+    "eligible": true,
+    "reason": "Apprenticeship programs are typically open to 16-20 year olds."
+  }
+}

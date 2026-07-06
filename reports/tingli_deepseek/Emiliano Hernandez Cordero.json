@@ -4,32 +4,50 @@
   "confidence": 56,
   "skills": [
     "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
     "canva",
     "communication",
+    "english spanish",
+    "english spanish communication",
+    "google",
     "google suite",
     "languages",
     "leadership",
+    "microsoft",
     "microsoft office",
+    "office",
     "spanish"
   ],
   "verified_skills": [
     "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
     "canva",
     "communication",
+    "english spanish",
+    "english spanish communication",
+    "google",
     "google suite",
     "languages",
     "leadership",
+    "microsoft",
     "microsoft office",
+    "office",
     "spanish"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "active listening",
-    "administrative",
+    "Active Listening",
+    "Administrative",
+    "Coordination",
+    "Customer and Personal Service",
+    "Foreign Language",
+    "Instructing",
+    "Mathematics",
+    "Writing",
     "advocate",
     "bachelor",
-    "bilingual english",
-    "bilingual english spanish",
     "can",
     "cash",
     "cash transactions",
@@ -37,35 +55,25 @@
     "cleanliness",
     "cleanliness standards",
     "community events",
-    "coordination",
     "criminal justice",
-    "customer and personal service",
     "customer service",
     "distribution",
     "documents",
     "donations",
     "efficiency",
     "emails",
-    "english spanish",
-    "english spanish communication",
     "event planning",
     "fast paced",
     "food",
     "food distribution",
-    "foreign language",
-    "google",
     "group instruction",
     "high volume",
     "high volume environment",
     "hours",
-    "instructing",
     "instruction",
     "interpretation",
-    "mathematics",
     "media",
-    "microsoft",
     "multicultural",
-    "office",
     "organized",
     "point of sale",
     "pos",
@@ -77,9 +85,7 @@
     "quality standards",
     "safety",
     "safety and quality",
-    "sales and marketing",
     "service",
-    "service orientation",
     "small group instruction",
     "spanish communication",
     "spanish english",
@@ -91,24 +97,30 @@
     "teamwork",
     "transactions",
     "united states",
-    "waitstaff",
-    "writing"
+    "waitstaff"
   ],
   "skill_weights": {},
   "market_relevant": [
     "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
     "canva",
     "communication",
+    "english spanish",
+    "english spanish communication",
+    "google",
     "google suite",
     "languages",
     "leadership",
+    "microsoft",
     "microsoft office",
+    "office",
     "spanish"
   ],
   "inferred": [
     "customer service",
-    "teamwork",
-    "event planning"
+    "event planning",
+    "teamwork"
   ],
   "implicit_skills": [
     {
@@ -117,13 +129,13 @@
       "confidence": "medium"
     },
     {
-      "skill": "teamwork",
-      "reason": "Experience in classroom activities and community events suggests teamwork.",
+      "skill": "event planning",
+      "reason": "Experience with community events and classroom activities suggests event planning ability.",
       "confidence": "medium"
     },
     {
-      "skill": "event planning",
-      "reason": "Experience with community events and sponsors implies event planning skills.",
+      "skill": "teamwork",
+      "reason": "Experience with group instruction and community events indicates teamwork.",
       "confidence": "medium"
     }
   ],
@@ -294,7 +306,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -307,7 +319,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, part-time, no age restrictions.",
-      "bridge": "As a Youth Sports Coach, you're already building leadership, communication, and teamwork skills that are directly transferable to managing a restaurant or kitchen. These skills, combined with your bilingual abilities and tech proficiency, will help you lead teams, coordinate operations, and motivate staff in the culinary or justice fields."
+      "bridge": "As a Youth Sports Coach, you're building transferable skills like communication, teamwork, and motivation—essential for leading a kitchen team or managing a restaurant. Your bilingual ability and curriculum delivery experience also directly prepare you for clear instruction and customer service in culinary settings."
     },
     {
       "title": "Amazing Athletes : Youth Sports Coach - Plano,TX",
@@ -317,7 +329,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -330,7 +342,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a Youth Sports Coach, you'll build leadership, communication, and class-management skills that are directly transferable to managing a restaurant team or leading a kitchen. Coaching also hones your ability to train others and adapt quickly—essential for a chef or justice professional navigating high-pressure environments."
+      "bridge": "As a Youth Sports Coach, you'll sharpen communication and class-management skills that are essential for managing a restaurant team, while bilingual abilities and curriculum experience translate directly to training staff and creating menus—practical steps toward becoming a Chef or Restaurant Manager."
     },
     {
       "title": "Amazing Athletes Youth Sports Coach",
@@ -340,7 +352,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -362,7 +374,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -384,7 +396,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -408,7 +420,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -421,7 +433,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, part-time, no age restrictions.",
-      "bridge": "As a Youth Sports Coach, you're already building leadership, communication, and teamwork skills that are directly transferable to managing a restaurant or kitchen. These skills, combined with your bilingual abilities and tech proficiency, will help you lead teams, coordinate operations, and motivate staff in the culinary or justice fields."
+      "bridge": "As a Youth Sports Coach, you're building transferable skills like communication, teamwork, and motivation—essential for leading a kitchen team or managing a restaurant. Your bilingual ability and curriculum delivery experience also directly prepare you for clear instruction and customer service in culinary settings."
     },
     {
       "title": "Amazing Athletes : Youth Sports Coach - Plano,TX",
@@ -431,7 +443,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -444,7 +456,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Youth sports coach, suitable for minors.",
-      "bridge": "As a Youth Sports Coach, you'll build leadership, communication, and class-management skills that are directly transferable to managing a restaurant team or leading a kitchen. Coaching also hones your ability to train others and adapt quickly—essential for a chef or justice professional navigating high-pressure environments."
+      "bridge": "As a Youth Sports Coach, you'll sharpen communication and class-management skills that are essential for managing a restaurant team, while bilingual abilities and curriculum experience translate directly to training staff and creating menus—practical steps toward becoming a Chef or Restaurant Manager."
     }
   ],
   "aspirational": [
@@ -456,7 +468,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -478,7 +490,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -500,7 +512,7 @@
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "education",
-      "why": "Uses your bilingual, canva skills. Aligns with your goal of becoming a Justice.",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
       "gaps": "child-development, coaching, positive-reinforcement",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
@@ -515,7 +527,7 @@
       "eligibility_reason": "Youth sports coach, suitable for minors."
     }
   ],
-  "skill_path": "Start by building child-development and classroom-management skills through entry-level roles like daycare assistant or after-school program leader, which also offer coaching experience. Then, pursue a part-time kitchen position to gain restaurant basics while using positive-reinforcement skills to lead teams. Finally, combine these into a restaurant manager role where you can apply sports-instruction energy to motivate staff and oversee operations.",
+  "skill_path": "Start by building child-development and classroom-management skills through volunteering at youth programs or after-school clubs; this directly supports your justice and social-service goals. Then, gain coaching and positive-reinforcement experience by assisting in sports instruction or leading group activities, which also transfer to restaurant management. Look for entry-level roles like youth counselor, assistant coach, or kitchen team member to blend these skills while exploring your dream careers.",
   "ideal_careers": [
     "Justice",
     "Chef",
@@ -645,32 +657,50 @@
       "accepted": true,
       "scored_skills": [
         "bilingual",
+        "bilingual english",
+        "bilingual english spanish",
         "canva",
         "communication",
+        "english spanish",
+        "english spanish communication",
+        "google",
         "google suite",
         "languages",
         "leadership",
+        "microsoft",
         "microsoft office",
+        "office",
         "spanish"
       ],
       "verified_skills": [
         "bilingual",
+        "bilingual english",
+        "bilingual english spanish",
         "canva",
         "communication",
+        "english spanish",
+        "english spanish communication",
+        "google",
         "google suite",
         "languages",
         "leadership",
+        "microsoft",
         "microsoft office",
+        "office",
         "spanish"
       ],
       "possible_skills": [],
       "rejected_skills": [
-        "active listening",
-        "administrative",
+        "Active Listening",
+        "Administrative",
+        "Coordination",
+        "Customer and Personal Service",
+        "Foreign Language",
+        "Instructing",
+        "Mathematics",
+        "Writing",
         "advocate",
         "bachelor",
-        "bilingual english",
-        "bilingual english spanish",
         "can",
         "cash",
         "cash transactions",
@@ -678,35 +708,25 @@
         "cleanliness",
         "cleanliness standards",
         "community events",
-        "coordination",
         "criminal justice",
-        "customer and personal service",
         "customer service",
         "distribution",
         "documents",
         "donations",
         "efficiency",
         "emails",
-        "english spanish",
-        "english spanish communication",
         "event planning",
         "fast paced",
         "food",
         "food distribution",
-        "foreign language",
-        "google",
         "group instruction",
         "high volume",
         "high volume environment",
         "hours",
-        "instructing",
         "instruction",
         "interpretation",
-        "mathematics",
         "media",
-        "microsoft",
         "multicultural",
-        "office",
         "organized",
         "point of sale",
         "pos",
@@ -718,9 +738,7 @@
         "quality standards",
         "safety",
         "safety and quality",
-        "sales and marketing",
         "service",
-        "service orientation",
         "small group instruction",
         "spanish communication",
         "spanish english",
@@ -732,8 +750,7 @@
         "teamwork",
         "transactions",
         "united states",
-        "waitstaff",
-        "writing"
+        "waitstaff"
       ],
       "implicit_skills": [
         {
@@ -742,13 +759,13 @@
           "confidence": "medium"
         },
         {
-          "skill": "teamwork",
-          "reason": "Experience in classroom activities and community events suggests teamwork.",
+          "skill": "event planning",
+          "reason": "Experience with community events and classroom activities suggests event planning ability.",
           "confidence": "medium"
         },
         {
-          "skill": "event planning",
-          "reason": "Experience with community events and sponsors implies event planning skills.",
+          "skill": "teamwork",
+          "reason": "Experience with group instruction and community events indicates teamwork.",
           "confidence": "medium"
         }
       ],

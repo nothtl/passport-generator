@@ -1,30 +1,28 @@
 {
   "accepted": true,
   "chosen_function": "healthcare",
-  "chosen_subdomain": "pre-med-shadowing",
-  "confidence": 0.85,
+  "chosen_subdomain": "clinical-support",
+  "confidence": 0.9,
   "evidence_spans": [
     {
       "section": "experience",
-      "text": "In collaboration with Professor Kari Brossard, studied the antimicrobial resistance in the bacterial DNA of monkey feces and the possible implications on human health and antibiotic development."
+      "text": "Home Health Aide \u2014 Platinum Home Care\nJuly 2023 \u2013 April 2025 \u00b7 Brooklyn, NY\nCompleted 75 hours of professional training. Assisted patients with Activities of Daily Living including grocery shopping and house cleaning. Reminded patients of medication schedules and upcoming doctor visits."
     },
     {
       "section": "experience",
-      "text": "Completed weekly meetings with a mentor covering modules in preparation for medical school admission."
-    },
-    {
-      "section": "experience",
-      "text": "Guided patients to examination rooms and gathered background information."
+      "text": "Intern & Physician Shadowing \u2014 North Manhattan Eye Center\nJune 2023 \u2013 August 2023 \u00b7 New York, NY\nGuided patients to examination rooms and gathered background information. Participated in brainstorming sessions on improving the work environment. Interacted with physicians and staff to learn diagnostic processes and eye pathology identification."
     }
   ],
   "goal_domains": [
     "healthcare"
   ],
   "goal_roles": [
-    "Physician",
-    "Medical Assistant"
+    "Nurse",
+    "Medical Assistant",
+    "Healthcare Professional"
   ],
   "goal_subdomains": [
+    "clinical-support",
     "pre-med-shadowing"
   ],
   "reason_codes": [
@@ -38,6 +36,6 @@
     "healthcare"
   ],
   "study_subdomains": [
-    "pre-med-shadowing"
+    "clinical-support"
   ]
 }

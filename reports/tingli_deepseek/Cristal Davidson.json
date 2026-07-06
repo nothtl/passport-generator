@@ -114,17 +114,17 @@
   "implicit_skills": [
     {
       "skill": "customer service",
-      "reason": "Experience as barista and advisor implies customer service skills.",
+      "reason": "Barista and advisor roles imply customer interaction and service skills.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
+      "reason": "Managing multiple responsibilities like barista, advisor, and archival work suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "attention to detail",
-      "reason": "Archival work and digital archiving require attention to detail.",
+      "reason": "Archival work and digital archiving require meticulous attention to detail.",
       "confidence": "medium"
     }
   ],
@@ -182,7 +182,7 @@
   "related": [
     {
       "skill": "training",
-      "pmi": 4.47
+      "pmi": 4.46
     },
     {
       "skill": "stakeholdermanagement",
@@ -224,7 +224,7 @@
   "related_skills": [
     {
       "skill": "training",
-      "pmi": 4.47
+      "pmi": 4.46
     },
     {
       "skill": "stakeholdermanagement",
@@ -521,7 +521,7 @@
     ],
     "goal_roles": [
       "archivist",
-      "museum educator"
+      "museum curator"
     ],
     "goal_subdomains": [
       "content-creation",
@@ -617,7 +617,7 @@
       ],
       "goal_roles": [
         "archivist",
-        "museum educator"
+        "museum curator"
       ],
       "confidence": 0.7,
       "evidence_spans": [
@@ -728,17 +728,17 @@
       "implicit_skills": [
         {
           "skill": "customer service",
-          "reason": "Experience as barista and advisor implies customer service skills.",
+          "reason": "Barista and advisor roles imply customer interaction and service skills.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
+          "reason": "Managing multiple responsibilities like barista, advisor, and archival work suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "attention to detail",
-          "reason": "Archival work and digital archiving require attention to detail.",
+          "reason": "Archival work and digital archiving require meticulous attention to detail.",
           "confidence": "medium"
         }
       ],

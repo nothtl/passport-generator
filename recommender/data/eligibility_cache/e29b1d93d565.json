@@ -1,0 +1,66 @@
+{
+  "Risk Associate - Walnut Street|||aritzia": {
+    "eligible": true,
+    "reason": "Retail role, no age restriction."
+  },
+  "Detention Deputy Pre-Certified|||hcso": {
+    "eligible": false,
+    "reason": "Detention deputy typically requires age 21+."
+  },
+  "Security Associate": {
+    "eligible": true,
+    "reason": "Security associate may be unarmed; no age restriction."
+  },
+  "Risk Associate - Kenwood Towne Centre|||aritzia": {
+    "eligible": true,
+    "reason": "Retail role, no age restriction."
+  },
+  "Premise Guard - Part Time Weekends|||gardaworld": {
+    "eligible": true,
+    "reason": "Premise guard likely unarmed; no age restriction."
+  },
+  "Asset Protection Specialist - Part Time|||HMGroup": {
+    "eligible": true,
+    "reason": "Asset protection, no age restriction."
+  },
+  "L1 Cyber Security Analyst|||sphynx": {
+    "eligible": true,
+    "reason": "Cyber security analyst, no age restriction."
+  },
+  "STEP-Security Apprentice (Must be a Nisqually Tribal Member)": {
+    "eligible": true,
+    "reason": "Security apprentice, no age restriction."
+  },
+  "Security Support Specialist - Milwaukee, WI|||tsg": {
+    "eligible": true,
+    "reason": "Security support specialist, no age restriction."
+  },
+  "Sales Assistant|||AlphabeInsightInc": {
+    "eligible": true,
+    "reason": "Sales assistant, no age restriction."
+  },
+  "Vivrelle 2026 Fall Internship (Sept - Dec)|||vivrelle": {
+    "eligible": true,
+    "reason": "Internship, no age restriction."
+  },
+  "BDC Representative (CAG)": {
+    "eligible": true,
+    "reason": "BDC representative, no age restriction."
+  },
+  "2026 Internship - Sales and Marketing - Cosmetics (July - December)|||luxasia": {
+    "eligible": true,
+    "reason": "Internship, no age restriction."
+  },
+  "Summer 2025 PAID Internship In France, PR, Fashion, Art, Business, Marketing|||StudyAbroadEurope": {
+    "eligible": true,
+    "reason": "Internship, no age restriction."
+  },
+  "Werkstudent (m/w/d) Vertrieb - Aftermarket/Ersatzteilmarkt|||elringklinger": {
+    "eligible": true,
+    "reason": "Student job, no age restriction."
+  },
+  "Membership Specialist|||ace": {
+    "eligible": true,
+    "reason": "Membership specialist, no age restriction."
+  }
+}

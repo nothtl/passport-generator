@@ -4,30 +4,30 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Experience with cash transactions and point of sale systems implies customer service skills.",
+      "reason": "Experience includes cash transactions and customer service, indicating customer service skills.",
       "skill": "customer service"
     },
     {
       "confidence": "medium",
-      "reason": "Experience with community events and classroom activities suggests event planning ability.",
+      "reason": "Experience includes community events, implying event planning skills.",
       "skill": "event planning"
     },
     {
       "confidence": "medium",
-      "reason": "Experience with group instruction and community events indicates teamwork.",
+      "reason": "Experience includes classroom activities and community events, suggesting teamwork.",
       "skill": "teamwork"
     }
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "Active Listening",
     "Administrative",
     "Coordination",
     "Customer and Personal Service",
     "Foreign Language",
     "Instructing",
     "Mathematics",
-    "Writing",
+    "Sales and Marketing",
+    "Service Orientation",
     "advocate",
     "bachelor",
     "can",

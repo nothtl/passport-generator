@@ -1,0 +1,54 @@
+{
+  "Professional Football Instructor": {
+    "eligible": true,
+    "reason": "Coaching role, no age restriction."
+  },
+  "Upper School Assistant Football Coach": {
+    "eligible": true,
+    "reason": "Assistant coach, no age restriction."
+  },
+  "Educational Consultant|||thinkacademyus": {
+    "eligible": true,
+    "reason": "Consulting role, no age restriction."
+  },
+  "Algebra Tutor|||ajtutoring": {
+    "eligible": true,
+    "reason": "Tutoring role, no age restriction."
+  },
+  "Club Staff": {
+    "eligible": true,
+    "reason": "Club staff, likely suitable."
+  },
+  "Y Learning Center Site Lead|||ymcadetroit": {
+    "eligible": true,
+    "reason": "Site lead at youth center, no age restriction."
+  },
+  "Arizona Fall League - Graphic Design Assistant|||majorleaguebaseball": {
+    "eligible": true,
+    "reason": "Graphic design assistant, no age restriction."
+  },
+  "Shift Leader|||insomniacookies": {
+    "eligible": true,
+    "reason": "Shift leader at cookie shop, no alcohol."
+  },
+  "Summer Theatre Production Assistant (Summer 2026 002920)|||middleburycollege": {
+    "eligible": true,
+    "reason": "Theatre production assistant, no age restriction."
+  },
+  "Quereinsteiger Augenoptik (w/m/d)|||fielmann": {
+    "eligible": true,
+    "reason": "Optician trainee, no age restriction."
+  },
+  "I-CPT-11050 Web Design and Development VA|||20four7va": {
+    "eligible": true,
+    "reason": "Web design VA, remote, no age restriction."
+  },
+  "Interiors & Curation Ambassador | Rambler - Columbus, OH|||lvcollective": {
+    "eligible": true,
+    "reason": "Interiors ambassador, no age restriction."
+  },
+  "House Attendant Housekeeping - Black Walnut & Vineyard (PT)": {
+    "eligible": true,
+    "reason": "Housekeeping, no age restriction."
+  }
+}

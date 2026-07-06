@@ -5,52 +5,40 @@
   "skills": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
-    "Active Listening",
+    "Social Perceptiveness",
     "Time Management",
+    "Active Listening",
     "Complex Problem Solving",
+    "Sales and Marketing",
     "Speaking",
-    "Administrative",
     "community engagement",
-    "engagement",
     "leadership",
     "management",
-    "media",
     "media management",
-    "organized",
     "problem solving",
     "public speaking",
-    "social",
-    "social media",
     "social media management",
-    "speaking",
     "team leadership",
     "volunteering"
   ],
   "verified_skills": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
-    "Active Listening",
+    "Social Perceptiveness",
     "Time Management",
+    "Active Listening",
     "Complex Problem Solving",
+    "Sales and Marketing",
     "Speaking",
-    "Administrative",
     "community engagement",
-    "engagement",
     "leadership",
     "management",
-    "media",
     "media management",
-    "organized",
     "problem solving",
     "public speaking",
-    "social",
-    "social media",
     "social media management",
-    "speaking",
     "team leadership",
     "volunteering"
   ],
@@ -62,6 +50,7 @@
     "career paths",
     "community events",
     "ecp",
+    "engagement",
     "engaging",
     "flag football",
     "football",
@@ -71,20 +60,23 @@
     "hours",
     "junior",
     "languages",
-    "leadership skills",
     "learner",
+    "media",
     "name",
     "native spanish",
     "non profit",
     "non profit organization",
     "organization",
+    "organized",
     "part",
     "passionate",
     "physically active",
     "professionals",
     "quick learner",
     "schools",
+    "social",
     "spanish",
+    "speaking",
     "sports",
     "student athlete",
     "u s citizen",
@@ -94,123 +86,103 @@
   "market_relevant": [
     "Coordination",
     "Communications and Media",
-    "Social Perceptiveness",
     "Customer and Personal Service",
-    "Active Listening",
+    "Social Perceptiveness",
     "Time Management",
+    "Active Listening",
     "Complex Problem Solving",
+    "Sales and Marketing",
     "Speaking",
-    "Administrative",
     "community engagement",
-    "engagement",
     "leadership",
     "management",
-    "media",
     "media management",
-    "organized",
     "problem solving",
     "public speaking",
-    "social",
-    "social media",
     "social media management",
-    "speaking",
     "team leadership",
     "volunteering"
   ],
   "inferred": [
     "Bilingual (Spanish)",
     "Event Planning",
-    "Teamwork"
+    "Athletic Coaching"
   ],
   "implicit_skills": [
     {
       "skill": "Bilingual (Spanish)",
-      "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
+      "reason": "Mentioned 'native spanish' and 'spanish' in education context",
       "confidence": "medium"
     },
     {
       "skill": "Event Planning",
-      "reason": "Mentioned 'community events' and 'organized' suggests ability to plan events.",
+      "reason": "Mentioned 'community events' and 'volunteering'",
       "confidence": "medium"
     },
     {
-      "skill": "Teamwork",
-      "reason": "Mentioned 'team leadership' and 'student athlete' implies collaboration.",
+      "skill": "Athletic Coaching",
+      "reason": "Mentioned 'flag football', 'football', 'sports', 'student athlete'",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
     "customer-service",
-    "communication",
     "education",
     "history"
   ],
   "core_gaps": [
     "customer-service",
-    "communication",
     "education",
     "history"
   ],
   "bridge_gaps": [
     "archaeology",
     "coaching",
+    "communication",
     "english",
     "gardens",
     "interpretation",
     "organization",
     "parents-communication",
     "student-support",
-    "tour-management",
-    "tutoring"
+    "tour-management"
   ],
   "stretch_gaps": [
+    "budgeting",
     "camp-operations",
     "classroom-support",
+    "curriculum-planning",
     "event-participation",
     "event-support",
     "facilitation",
+    "group-facilitation",
     "group-instruction",
-    "logistics",
-    "multimodal-instruction",
-    "multitasking",
-    "private-lessons"
+    "logistics"
   ],
   "nice_to_have_gaps": [
     "archaeology",
+    "budgeting",
     "camp-operations",
     "classroom-support",
     "coaching",
+    "communication",
+    "curriculum-planning",
     "english",
     "event-participation",
-    "event-support",
-    "facilitation",
-    "gardens",
-    "group-instruction"
+    "event-support"
   ],
   "verify_gaps": [
-    "teamwork"
+    "event-planning"
   ],
   "related": [
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
-      "skill": "contentcreation",
-      "pmi": 5.12
-    },
-    {
       "skill": "privatelessons",
-      "pmi": 3.37
+      "pmi": 3.4
     },
     {
       "skill": "budgeting",
       "pmi": 3.33
-    },
-    {
-      "skill": "eventplanning",
-      "pmi": 3.21
     },
     {
       "skill": "inwaterskillsassessment",
@@ -225,34 +197,34 @@
       "pmi": 2.98
     },
     {
-      "skill": "safetyprotocols",
-      "pmi": 2.95
-    },
-    {
       "skill": "mentorship",
       "pmi": 2.92
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
     }
   ],
   "related_skills": [
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
-      "skill": "contentcreation",
-      "pmi": 5.12
-    },
-    {
       "skill": "privatelessons",
-      "pmi": 3.37
+      "pmi": 3.4
     },
     {
       "skill": "budgeting",
       "pmi": 3.33
-    },
-    {
-      "skill": "eventplanning",
-      "pmi": 3.21
     },
     {
       "skill": "inwaterskillsassessment",
@@ -267,12 +239,24 @@
       "pmi": 2.98
     },
     {
-      "skill": "safetyprotocols",
-      "pmi": 2.95
-    },
-    {
       "skill": "mentorship",
       "pmi": 2.92
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
     }
   ],
   "alternatives": [
@@ -297,7 +281,7 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a social-service path, focus first on customer-service, communication, education. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a social-service path, focus first on customer-service, education, history. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "English and History tutor",
@@ -308,7 +292,7 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.222,
         "study_alignment": 0.556,
@@ -322,37 +306,15 @@
       "eligibility_reason": "Tutor, no age restriction."
     },
     {
-      "title": "Student: Auggie Admissions Ambassador, 2026-27",
-      "company": "AugsburgUniversity-MinneapolisMN",
-      "url": "https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000121516754",
-      "fit": 59,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.111,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.286,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Admissions ambassador role is suitable for high school/college students."
-    },
-    {
       "title": "Dance Professional",
       "company": "fred-astaire-dance-studios-3",
       "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 50,
+      "fit": 58,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.222,
@@ -374,7 +336,7 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.333,
@@ -396,7 +358,7 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.667,
@@ -408,6 +370,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Camp counselor, no age restriction."
+    },
+    {
+      "title": "Madrichim Staff - Summer 2026",
+      "company": "bbyo",
+      "url": "https://bbyo.org/about/careers/career-details/?gh_jid=7344243",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "social-service",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "customer-service, education, history",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.3,
+        "quality_penalty": 0.45
+      },
+      "eligible": true,
+      "eligibility_reason": "Madrichim staff, typical for teens."
     }
   ],
   "ready_now": [
@@ -420,7 +404,7 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.222,
         "study_alignment": 0.556,
@@ -434,39 +418,15 @@
       "eligibility_reason": "Tutor, no age restriction."
     },
     {
-      "title": "Student: Auggie Admissions Ambassador, 2026-27",
-      "company": "AugsburgUniversity-MinneapolisMN",
-      "url": "https://jobs.smartrecruiters.com/AugsburgUniversity-MinneapolisMN/744000121516754",
-      "fit": 59,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.111,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.286,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Admissions ambassador role is suitable for high school/college students."
-    }
-  ],
-  "aspirational": [
-    {
       "title": "Dance Professional",
       "company": "fred-astaire-dance-studios-3",
       "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 50,
+      "fit": 58,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.222,
@@ -478,7 +438,9 @@
       },
       "eligible": true,
       "eligibility_reason": "Dance professional role is suitable for minors/young adults."
-    },
+    }
+  ],
+  "aspirational": [
     {
       "title": "Cultural Site Interpreter",
       "company": "thetrustees",
@@ -488,7 +450,7 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.333,
@@ -510,7 +472,7 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
-      "gaps": "customer-service, communication, education",
+      "gaps": "customer-service, education, history",
       "job_score_breakdown": {
         "goal_alignment": 0.556,
         "study_alignment": 0.667,
@@ -522,9 +484,31 @@
       },
       "eligible": true,
       "eligibility_reason": "Camp counselor, no age restriction."
+    },
+    {
+      "title": "Madrichim Staff - Summer 2026",
+      "company": "bbyo",
+      "url": "https://bbyo.org/about/careers/career-details/?gh_jid=7344243",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "social-service",
+      "why": "Uses your Coordination, Communications and Media skills. Aligns with your goal of becoming a Social Worker.",
+      "gaps": "customer-service, education, history",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.3,
+        "quality_penalty": 0.45
+      },
+      "eligible": true,
+      "eligibility_reason": "Madrichim staff, typical for teens."
     }
   ],
-  "skill_path": "Start by building your communication and customer-service skills through entry-level roles like a receptionist at a nonprofit or a youth program assistant. These positions will give you practical experience in social service settings while you learn about community needs. Once you have a foundation, seek volunteer opportunities in local gardens or museums to develop your coaching and interpretation skills, which directly apply to youth advocacy and community organizing.",
+  "skill_path": "Start by building communication and coaching skills through volunteer roles like tutoring or mentoring youth, which directly apply to social work and youth advocacy. Then, seek entry-level positions in customer service or education (e.g., case aide, after-school program assistant) to gain experience with diverse populations. As you grow, explore community organizing internships to apply your history knowledge and bridge skills like archaeology or gardens into community projects.",
   "ideal_careers": [
     "Social Worker",
     "Community Organizer",
@@ -638,15 +622,11 @@
         {
           "section": "summary",
           "text": "I am very passionate about helping my community in any way, anytime."
-        },
-        {
-          "section": "summary",
-          "text": "I am also the Co-Chair of the Executive Board of another non-profit company I work with called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and Colleges to help students work on their leadership skills, career paths, and connects these students with professionals based on their career interests."
         }
       ],
       "reason_codes": [
-        "explicit_career_goals",
-        "volunteer_experience_in_community_and_youth"
+        "explicit_goal",
+        "volunteer_experience"
       ],
       "review_reasons": []
     },
@@ -655,52 +635,40 @@
       "scored_skills": [
         "Coordination",
         "Communications and Media",
-        "Social Perceptiveness",
         "Customer and Personal Service",
-        "Active Listening",
+        "Social Perceptiveness",
         "Time Management",
+        "Active Listening",
         "Complex Problem Solving",
+        "Sales and Marketing",
         "Speaking",
-        "Administrative",
         "community engagement",
-        "engagement",
         "leadership",
         "management",
-        "media",
         "media management",
-        "organized",
         "problem solving",
         "public speaking",
-        "social",
-        "social media",
         "social media management",
-        "speaking",
         "team leadership",
         "volunteering"
       ],
       "verified_skills": [
         "Coordination",
         "Communications and Media",
-        "Social Perceptiveness",
         "Customer and Personal Service",
-        "Active Listening",
+        "Social Perceptiveness",
         "Time Management",
+        "Active Listening",
         "Complex Problem Solving",
+        "Sales and Marketing",
         "Speaking",
-        "Administrative",
         "community engagement",
-        "engagement",
         "leadership",
         "management",
-        "media",
         "media management",
-        "organized",
         "problem solving",
         "public speaking",
-        "social",
-        "social media",
         "social media management",
-        "speaking",
         "team leadership",
         "volunteering"
       ],
@@ -712,6 +680,7 @@
         "career paths",
         "community events",
         "ecp",
+        "engagement",
         "engaging",
         "flag football",
         "football",
@@ -721,20 +690,23 @@
         "hours",
         "junior",
         "languages",
-        "leadership skills",
         "learner",
+        "media",
         "name",
         "native spanish",
         "non profit",
         "non profit organization",
         "organization",
+        "organized",
         "part",
         "passionate",
         "physically active",
         "professionals",
         "quick learner",
         "schools",
+        "social",
         "spanish",
+        "speaking",
         "sports",
         "student athlete",
         "u s citizen",
@@ -743,17 +715,17 @@
       "implicit_skills": [
         {
           "skill": "Bilingual (Spanish)",
-          "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
+          "reason": "Mentioned 'native spanish' and 'spanish' in education context",
           "confidence": "medium"
         },
         {
           "skill": "Event Planning",
-          "reason": "Mentioned 'community events' and 'organized' suggests ability to plan events.",
+          "reason": "Mentioned 'community events' and 'volunteering'",
           "confidence": "medium"
         },
         {
-          "skill": "Teamwork",
-          "reason": "Mentioned 'team leadership' and 'student athlete' implies collaboration.",
+          "skill": "Athletic Coaching",
+          "reason": "Mentioned 'flag football', 'football', 'sports', 'student athlete'",
           "confidence": "medium"
         }
       ],

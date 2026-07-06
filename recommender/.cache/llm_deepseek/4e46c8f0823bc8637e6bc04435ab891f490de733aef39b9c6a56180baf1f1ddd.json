@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Experience includes 'assisting patients', 'in patient care', and certifications like CPR and First Aid.",
+      "reason": "Experience includes 'assisting patients', 'in patient care', 'home health aide', and skills like 'Medicine and Dentistry', 'CPR', 'First Aid'.",
       "skill": "Patient Care"
     },
     {
       "confidence": "medium",
-      "reason": "Mentions 'collaboration' and 'group support' in experience.",
+      "reason": "Mentions 'collaboration', 'group support', and 'coordination'.",
       "skill": "Teamwork"
     },
     {
       "confidence": "medium",
-      "reason": "Skills include 'Active Listening', 'Speaking', 'Writing', and 'Foreign Language'.",
+      "reason": "Includes 'Active Listening', 'Social Perceptiveness', 'Speaking', 'Writing', and 'Foreign Language'.",
       "skill": "Communication"
     }
   ],
@@ -33,12 +33,11 @@
     "bachelor",
     "brainstorming",
     "care",
-    "collaboration",
     "college access",
+    "coordination",
     "counting",
     "daily living",
     "development",
-    "diagnosis",
     "dishes",
     "engaging",
     "equipment",
@@ -52,6 +51,7 @@
     "group support",
     "guidance",
     "health",
+    "health screenings",
     "home",
     "home care",
     "hospitals",
@@ -60,7 +60,14 @@
     "identification",
     "in patient",
     "insights",
-    "science"
+    "level",
+    "listening",
+    "management of financial resources",
+    "monitoring",
+    "quality control analysis",
+    "social perceptiveness",
+    "speaking",
+    "writing"
   ],
   "review_reasons": [],
   "scored_skills": [
@@ -71,19 +78,16 @@
     "Instructing",
     "Computers and Electronics",
     "Active Listening",
+    "Social Perceptiveness",
     "Coordination",
     "Science",
     "Biology",
     "Mathematics",
+    "Quality Control Analysis",
+    "Management of Financial Resources",
     "Foreign Language",
-    "Administration and Management",
-    "Social Perceptiveness",
-    "Service Orientation",
-    "Writing",
-    "Reading Comprehension",
     "Speaking",
-    "Critical Thinking",
-    "Time Management",
+    "Writing",
     "acrobat",
     "adobe",
     "adobe acrobat",
@@ -103,11 +107,11 @@
     "case management",
     "diagnostic",
     "health screening",
-    "health screenings",
     "home health",
     "home health aide",
     "in patient care",
-    "lead"
+    "lead",
+    "leader"
   ],
   "verified_skills": [
     "Administrative",
@@ -117,19 +121,16 @@
     "Instructing",
     "Computers and Electronics",
     "Active Listening",
+    "Social Perceptiveness",
     "Coordination",
     "Science",
     "Biology",
     "Mathematics",
+    "Quality Control Analysis",
+    "Management of Financial Resources",
     "Foreign Language",
-    "Administration and Management",
-    "Social Perceptiveness",
-    "Service Orientation",
-    "Writing",
-    "Reading Comprehension",
     "Speaking",
-    "Critical Thinking",
-    "Time Management",
+    "Writing",
     "acrobat",
     "adobe",
     "adobe acrobat",
@@ -149,10 +150,10 @@
     "case management",
     "diagnostic",
     "health screening",
-    "health screenings",
     "home health",
     "home health aide",
     "in patient care",
-    "lead"
+    "lead",
+    "leader"
   ]
 }

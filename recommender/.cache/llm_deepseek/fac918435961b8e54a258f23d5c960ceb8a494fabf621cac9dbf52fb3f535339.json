@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Managing care, meals, and activities for children or pets implies multitasking.",
+      "reason": "Managing care, meals, and activities suggests multitasking ability.",
       "skill": "Multitasking"
     },
     {
       "confidence": "medium",
-      "reason": "Being a sitter and caring for others demonstrates responsibility.",
+      "reason": "Caring for a child or pet implies responsibility.",
       "skill": "Responsibility"
     },
     {
       "confidence": "medium",
-      "reason": "Engaging in dance, paint, and games suggests creative skills.",
+      "reason": "Engaging in dance, paint, and games indicates creativity.",
       "skill": "Creativity"
     }
   ],
@@ -36,10 +36,12 @@
   "scored_skills": [
     "Instructing",
     "Customer and Personal Service",
-    "Fine Arts",
     "Service Orientation",
     "Coordination",
+    "Fine Arts",
+    "Food Production",
     "Monitoring",
+    "Social Perceptiveness",
     "Time Management",
     "Active Learning",
     "Foreign Language",
@@ -48,10 +50,12 @@
   "verified_skills": [
     "Instructing",
     "Customer and Personal Service",
-    "Fine Arts",
     "Service Orientation",
     "Coordination",
+    "Fine Arts",
+    "Food Production",
     "Monitoring",
+    "Social Perceptiveness",
     "Time Management",
     "Active Learning",
     "Foreign Language",

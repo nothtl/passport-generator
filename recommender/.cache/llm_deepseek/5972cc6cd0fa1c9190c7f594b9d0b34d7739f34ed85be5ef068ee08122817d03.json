@@ -2,7 +2,7 @@
   "accepted": true,
   "chosen_function": "sales",
   "chosen_subdomain": "",
-  "confidence": 0.6,
+  "confidence": 0.65,
   "evidence_spans": [
     {
       "section": "skills",

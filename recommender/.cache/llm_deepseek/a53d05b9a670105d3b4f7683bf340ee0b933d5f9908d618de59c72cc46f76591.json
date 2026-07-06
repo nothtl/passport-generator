@@ -2,7 +2,7 @@
   "accepted": true,
   "chosen_function": "technology",
   "chosen_subdomain": "engineering",
-  "confidence": 0.7,
+  "confidence": 0.85,
   "evidence_spans": [
     {
       "section": "education",
@@ -18,26 +18,24 @@
     "skilled-trade"
   ],
   "goal_roles": [
-    "Mechanical Engineer",
-    "CAD Designer"
+    "mechanical engineer",
+    "manufacturing engineer"
   ],
   "goal_subdomains": [
     "engineering",
     "robotics-manufacturing"
   ],
   "reason_codes": [
-    "education_major",
-    "project_experience"
+    "explicit_education",
+    "project_experience",
+    "technical_skills"
   ],
   "review_reasons": [],
   "secondary_function": "skilled-trade",
   "study_domains": [
-    "technology",
-    "design",
-    "skilled-trade"
+    "technology"
   ],
   "study_subdomains": [
-    "engineering",
-    "robotics-manufacturing"
+    "engineering"
   ]
 }

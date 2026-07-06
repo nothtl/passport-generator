@@ -1,0 +1,18 @@
+{
+  "Physical Therapy aide|||USPhysicalTherapy2": {
+    "eligible": true,
+    "reason": "Physical therapy aide roles are open to minors with no age restriction."
+  },
+  "Phlebotomist-Bilingual (Spanish)|||labcorp": {
+    "eligible": true,
+    "reason": "Phlebotomist roles typically require certification but not age 21+."
+  },
+  "Phlebotomist - Part-Time - In Patient 2nd Shift|||labcorp": {
+    "eligible": true,
+    "reason": "Phlebotomist roles are suitable for 16-20 year olds with proper training."
+  },
+  "Phlebotomist Per Diem|||labcorp": {
+    "eligible": true,
+    "reason": "Per diem phlebotomist positions are not age-restricted."
+  }
+}

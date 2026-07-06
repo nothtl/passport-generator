@@ -17,7 +17,28 @@
     "government",
     "guest relations",
     "hospitality",
-    "languages"
+    "languages",
+    "cash handling",
+    "cashier",
+    "community outreach",
+    "coordinate",
+    "customer orders",
+    "dining experience",
+    "coaching",
+    "development",
+    "distribution",
+    "fundraising",
+    "growth",
+    "interviews",
+    "leadership",
+    "mentor",
+    "event operations",
+    "event setup",
+    "food safety",
+    "inventory management",
+    "microsoft office",
+    "organization",
+    "plan"
   ],
   "verified_skills": [
     "ambassador",
@@ -34,33 +55,43 @@
     "government",
     "guest relations",
     "hospitality",
-    "languages"
+    "languages",
+    "cash handling",
+    "cashier",
+    "community outreach",
+    "coordinate",
+    "customer orders",
+    "dining experience",
+    "coaching",
+    "development",
+    "distribution",
+    "fundraising",
+    "growth",
+    "interviews",
+    "leadership",
+    "mentor",
+    "event operations",
+    "event setup",
+    "food safety",
+    "inventory management",
+    "microsoft office",
+    "organization",
+    "plan"
   ],
   "possible_skills": [],
   "rejected_skills": [
     "assignments",
     "assist",
     "beverage",
+    "career readiness",
     "cash",
-    "cash handling",
-    "cashier",
     "cleanliness",
     "cleanup",
     "clients",
-    "coaching",
     "communicate",
-    "community outreach",
-    "coordinate",
-    "customer focused",
-    "customer orders",
     "customers",
-    "development",
-    "dining experience",
     "diploma",
-    "distribution",
     "electronic",
-    "event operations",
-    "event setup",
     "event staff",
     "excellent customer service",
     "exceptional customer service",
@@ -70,11 +101,7 @@
     "fast paced environments",
     "flow",
     "food and beverage",
-    "food safety",
     "food safety standards",
-    "fundraising",
-    "growth",
-    "guest relations",
     "guest services",
     "guidance",
     "healthcare",
@@ -83,26 +110,17 @@
     "high school diploma",
     "host",
     "inquiries",
-    "interviews",
-    "inventory management",
-    "lead",
     "leader",
-    "leadership",
     "leadership development",
     "management",
-    "mentor",
     "microsoft",
-    "microsoft office",
     "ministry",
     "motivated",
     "office",
     "operations",
     "orders",
-    "organization",
-    "organized",
     "outreach",
-    "passionate",
-    "plan"
+    "passionate"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -120,67 +138,78 @@
     "government",
     "guest relations",
     "hospitality",
-    "languages"
+    "languages",
+    "cash handling",
+    "cashier",
+    "community outreach",
+    "coordinate",
+    "customer orders",
+    "dining experience",
+    "coaching",
+    "development",
+    "distribution",
+    "fundraising",
+    "growth",
+    "interviews",
+    "leadership",
+    "mentor",
+    "event operations",
+    "event setup",
+    "food safety",
+    "inventory management",
+    "microsoft office",
+    "organization",
+    "plan"
   ],
   "inferred": [
     "teamwork",
     "time management",
-    "problem-solving"
+    "problem solving"
   ],
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Roles like ambassador, event support, and guest relations imply collaboration with teams.",
+      "reason": "Roles like event support and catering imply collaboration with teams.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple responsibilities such as attendance, catering, and event support suggests effective time management.",
+      "reason": "Handling multiple tasks like cashiering and event setup suggests time management.",
       "confidence": "medium"
     },
     {
-      "skill": "problem-solving",
-      "reason": "Customer service and guest relations roles often require resolving issues on the spot.",
+      "skill": "problem solving",
+      "reason": "Customer service and event operations often require quick problem resolution.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
-  "gaps": [
-    "leadership",
-    "organization",
-    "coaching",
-    "high-school-diploma"
-  ],
-  "core_gaps": [
-    "leadership",
-    "organization",
-    "coaching",
-    "high-school-diploma"
-  ],
+  "gaps": [],
+  "core_gaps": [],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "application-assistance",
+    "basic-accounting",
     "basketball",
-    "community-outreach",
-    "data-entry",
+    "clerkship",
     "education",
-    "enrollment",
     "food-systems",
+    "high-school-diploma",
     "implement-program-activities",
     "independent-work",
-    "kpi"
+    "lead",
+    "mentorship"
   ],
   "nice_to_have_gaps": [
-    "application-assistance",
+    "basic-accounting",
     "basketball",
-    "community-outreach",
-    "data-entry",
+    "clerkship",
     "education",
-    "enrollment",
     "food-systems",
+    "high-school-diploma",
     "implement-program-activities",
     "independent-work",
-    "kpi"
+    "lead",
+    "mentorship"
   ],
   "verify_gaps": [
     "time-management",
@@ -188,6 +217,14 @@
   ],
   "related": [
     {
+      "skill": "academicmonitoring",
+      "pmi": 5.11
+    },
+    {
+      "skill": "recruiting",
+      "pmi": 4.53
+    },
+    {
       "skill": "behaviordocumentation",
       "pmi": 3.92
     },
@@ -196,40 +233,40 @@
       "pmi": 3.92
     },
     {
-      "skill": "iceskating",
-      "pmi": 3.51
+      "skill": "kitchenequipment",
+      "pmi": 3.91
     },
     {
-      "skill": "gymnastics",
-      "pmi": 3.23
+      "skill": "crisisprotocols",
+      "pmi": 3.88
     },
     {
-      "skill": "leadership",
-      "pmi": 2.69
+      "skill": "cook",
+      "pmi": 3.82
     },
     {
-      "skill": "groupactivities",
-      "pmi": 2.44
+      "skill": "culinaryskills",
+      "pmi": 3.82
     },
     {
-      "skill": "lifting40pounds",
-      "pmi": 2.2
+      "skill": "stationrotation",
+      "pmi": 3.82
     },
     {
-      "skill": "sales",
-      "pmi": 2.2
-    },
-    {
-      "skill": "cashhandling",
-      "pmi": 2.2
-    },
-    {
-      "skill": "enrollmentprocess",
-      "pmi": 2.2
+      "skill": "stationwork",
+      "pmi": 3.82
     }
   ],
   "related_skills": [
     {
+      "skill": "academicmonitoring",
+      "pmi": 5.11
+    },
+    {
+      "skill": "recruiting",
+      "pmi": 4.53
+    },
+    {
       "skill": "behaviordocumentation",
       "pmi": 3.92
     },
@@ -238,36 +275,28 @@
       "pmi": 3.92
     },
     {
-      "skill": "iceskating",
-      "pmi": 3.51
+      "skill": "kitchenequipment",
+      "pmi": 3.91
     },
     {
-      "skill": "gymnastics",
-      "pmi": 3.23
+      "skill": "crisisprotocols",
+      "pmi": 3.88
     },
     {
-      "skill": "leadership",
-      "pmi": 2.69
+      "skill": "cook",
+      "pmi": 3.82
     },
     {
-      "skill": "groupactivities",
-      "pmi": 2.44
+      "skill": "culinaryskills",
+      "pmi": 3.82
     },
     {
-      "skill": "lifting40pounds",
-      "pmi": 2.2
+      "skill": "stationrotation",
+      "pmi": 3.82
     },
     {
-      "skill": "sales",
-      "pmi": 2.2
-    },
-    {
-      "skill": "cashhandling",
-      "pmi": 2.2
-    },
-    {
-      "skill": "enrollmentprocess",
-      "pmi": 2.2
+      "skill": "stationwork",
+      "pmi": 3.82
     }
   ],
   "alternatives": [
@@ -292,7 +321,7 @@
       "pct": 5
     }
   ],
-  "coach_notes": "For a social-service path, focus first on leadership, organization, coaching. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a social-service path, focus first on time-management, teamwork. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Program Assistant",
@@ -303,14 +332,14 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
         "study_alignment": 0.556,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.28,
         "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -320,19 +349,19 @@
       "title": "Education Steward - AmeriCorps",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 83,
+      "fit": 84,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.714,
         "study_alignment": 0.556,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.52,
         "attainability": 0.75,
-        "skill_overlap": 0.091,
+        "skill_overlap": 0.273,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -342,19 +371,19 @@
       "title": "Leadership Institute Resident / Fall 2026",
       "company": "ChristsChurchOfTheValley",
       "url": "https://jobs.smartrecruiters.com/ChristsChurchOfTheValley/744000090448305",
-      "fit": 70,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
         "study_alignment": 0.222,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.36,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.429,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -364,45 +393,45 @@
       "title": "Graduate Assistant - Women’s Basketball",
       "company": "university-of-mount-saint-vincent",
       "url": "https://apply.workable.com/j/9ABAD56567",
-      "fit": 60,
+      "fit": 63,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.44,
-        "attainability": 0.65,
-        "skill_overlap": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.5,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Graduate assistant, but role is for university; likely requires enrollment, not age 21+."
     },
     {
-      "title": "Enrollment Advisor",
-      "company": "aviationinstituteofmaintenance",
-      "url": "https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5267633008",
-      "fit": 57,
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
+      "fit": 58,
       "job_type": "goal",
-      "subdomain": "community-support",
+      "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "experience_alignment": 0.36,
+        "attainability": 0.85,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Enrollment advisor, no age restrictions."
+      "eligibility_reason": "Children's center assistant, suitable for young adults."
     }
   ],
   "ready_now": [
@@ -415,14 +444,14 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
         "study_alignment": 0.556,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.28,
         "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -432,19 +461,19 @@
       "title": "Education Steward - AmeriCorps",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 83,
+      "fit": 84,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.714,
         "study_alignment": 0.556,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.52,
         "attainability": 0.75,
-        "skill_overlap": 0.091,
+        "skill_overlap": 0.273,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -456,19 +485,19 @@
       "title": "Leadership Institute Resident / Fall 2026",
       "company": "ChristsChurchOfTheValley",
       "url": "https://jobs.smartrecruiters.com/ChristsChurchOfTheValley/744000090448305",
-      "fit": 70,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
         "study_alignment": 0.222,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.36,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.429,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -478,45 +507,45 @@
       "title": "Graduate Assistant - Women’s Basketball",
       "company": "university-of-mount-saint-vincent",
       "url": "https://apply.workable.com/j/9ABAD56567",
-      "fit": 60,
+      "fit": 63,
       "job_type": "goal",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.429,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.44,
-        "attainability": 0.65,
-        "skill_overlap": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.5,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Graduate assistant, but role is for university; likely requires enrollment, not age 21+."
     },
     {
-      "title": "Enrollment Advisor",
-      "company": "aviationinstituteofmaintenance",
-      "url": "https://job-boards.greenhouse.io/aviationinstituteofmaintenance/jobs/5267633008",
-      "fit": 57,
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
+      "fit": 58,
       "job_type": "goal",
-      "subdomain": "community-support",
+      "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your ambassador, attendance, catering skills in a social-service role.",
-      "gaps": "leadership, organization, coaching",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.286,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "experience_alignment": 0.36,
+        "attainability": 0.85,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Enrollment advisor, no age restrictions."
+      "eligibility_reason": "Children's center assistant, suitable for young adults."
     }
   ],
   "skill_path": null,
@@ -593,7 +622,7 @@
     "community-support",
     "youth-support",
     "community-support",
-    "community-support"
+    "youth-support"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -618,7 +647,7 @@
       "goal_roles": [
         "Youth Ministry Leader"
       ],
-      "confidence": 0.65,
+      "confidence": 0.7,
       "evidence_spans": [
         {
           "section": "VOLUNTEER EXPERIENCE",
@@ -630,8 +659,8 @@
         }
       ],
       "reason_codes": [
-        "volunteer leadership in youth programs",
-        "community service focus"
+        "explicit volunteer role in youth support",
+        "community outreach focus"
       ],
       "review_reasons": []
     },
@@ -652,7 +681,28 @@
         "government",
         "guest relations",
         "hospitality",
-        "languages"
+        "languages",
+        "cash handling",
+        "cashier",
+        "community outreach",
+        "coordinate",
+        "customer orders",
+        "dining experience",
+        "coaching",
+        "development",
+        "distribution",
+        "fundraising",
+        "growth",
+        "interviews",
+        "leadership",
+        "mentor",
+        "event operations",
+        "event setup",
+        "food safety",
+        "inventory management",
+        "microsoft office",
+        "organization",
+        "plan"
       ],
       "verified_skills": [
         "ambassador",
@@ -669,33 +719,43 @@
         "government",
         "guest relations",
         "hospitality",
-        "languages"
+        "languages",
+        "cash handling",
+        "cashier",
+        "community outreach",
+        "coordinate",
+        "customer orders",
+        "dining experience",
+        "coaching",
+        "development",
+        "distribution",
+        "fundraising",
+        "growth",
+        "interviews",
+        "leadership",
+        "mentor",
+        "event operations",
+        "event setup",
+        "food safety",
+        "inventory management",
+        "microsoft office",
+        "organization",
+        "plan"
       ],
       "possible_skills": [],
       "rejected_skills": [
         "assignments",
         "assist",
         "beverage",
+        "career readiness",
         "cash",
-        "cash handling",
-        "cashier",
         "cleanliness",
         "cleanup",
         "clients",
-        "coaching",
         "communicate",
-        "community outreach",
-        "coordinate",
-        "customer focused",
-        "customer orders",
         "customers",
-        "development",
-        "dining experience",
         "diploma",
-        "distribution",
         "electronic",
-        "event operations",
-        "event setup",
         "event staff",
         "excellent customer service",
         "exceptional customer service",
@@ -705,11 +765,7 @@
         "fast paced environments",
         "flow",
         "food and beverage",
-        "food safety",
         "food safety standards",
-        "fundraising",
-        "growth",
-        "guest relations",
         "guest services",
         "guidance",
         "healthcare",
@@ -718,41 +774,32 @@
         "high school diploma",
         "host",
         "inquiries",
-        "interviews",
-        "inventory management",
-        "lead",
         "leader",
-        "leadership",
         "leadership development",
         "management",
-        "mentor",
         "microsoft",
-        "microsoft office",
         "ministry",
         "motivated",
         "office",
         "operations",
         "orders",
-        "organization",
-        "organized",
         "outreach",
-        "passionate",
-        "plan"
+        "passionate"
       ],
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Roles like ambassador, event support, and guest relations imply collaboration with teams.",
+          "reason": "Roles like event support and catering imply collaboration with teams.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple responsibilities such as attendance, catering, and event support suggests effective time management.",
+          "reason": "Handling multiple tasks like cashiering and event setup suggests time management.",
           "confidence": "medium"
         },
         {
-          "skill": "problem-solving",
-          "reason": "Customer service and guest relations roles often require resolving issues on the spot.",
+          "skill": "problem solving",
+          "reason": "Customer service and event operations often require quick problem resolution.",
           "confidence": "medium"
         }
       ],

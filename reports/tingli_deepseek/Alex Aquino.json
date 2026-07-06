@@ -367,6 +367,50 @@
       "eligibility_reason": "Apprentice, no age restriction."
     },
     {
+      "title": "Welder/Fabricator- 2nd Shift",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
+      "fit": 65,
+      "job_type": "bridge",
+      "subdomain": "robotics-manufacturing",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
+    },
+    {
+      "title": "Purchasing Intern",
+      "company": "BoschGroup",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
+      "fit": 63,
+      "job_type": "bridge",
+      "subdomain": "engineering",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restriction."
+    },
+    {
       "title": "Assistant Safety Coordinator",
       "company": "holderconstruction",
       "url": "https://job-boards.greenhouse.io/holderconstruction/jobs/4182689009",
@@ -387,50 +431,6 @@
       },
       "eligible": true,
       "eligibility_reason": "Safety coordinator role, no age restriction."
-    },
-    {
-      "title": "Welder/Fabricator- 2nd Shift",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
-      "fit": 61,
-      "job_type": "bridge",
-      "subdomain": "robotics-manufacturing",
-      "function": "skilled-trade",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "microsoft-office, time-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.143,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
-    },
-    {
-      "title": "Purchasing Intern",
-      "company": "BoschGroup",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
-      "fit": 59,
-      "job_type": "bridge",
-      "subdomain": "engineering",
-      "function": "skilled-trade",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "microsoft-office, time-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.286,
-        "subdomain_alignment": 0.533,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Internship, no age restriction."
     }
   ],
   "ready_now": [
@@ -481,6 +481,50 @@
   ],
   "aspirational": [
     {
+      "title": "Welder/Fabricator- 2nd Shift",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
+      "fit": 65,
+      "job_type": "bridge",
+      "subdomain": "robotics-manufacturing",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
+    },
+    {
+      "title": "Purchasing Intern",
+      "company": "BoschGroup",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
+      "fit": 63,
+      "job_type": "bridge",
+      "subdomain": "engineering",
+      "function": "skilled-trade",
+      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship, no age restriction."
+    },
+    {
       "title": "Assistant Safety Coordinator",
       "company": "holderconstruction",
       "url": "https://job-boards.greenhouse.io/holderconstruction/jobs/4182689009",
@@ -501,50 +545,6 @@
       },
       "eligible": true,
       "eligibility_reason": "Safety coordinator role, no age restriction."
-    },
-    {
-      "title": "Welder/Fabricator- 2nd Shift",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
-      "fit": 61,
-      "job_type": "bridge",
-      "subdomain": "robotics-manufacturing",
-      "function": "skilled-trade",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "microsoft-office, time-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.143,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
-    },
-    {
-      "title": "Purchasing Intern",
-      "company": "BoschGroup",
-      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
-      "fit": 59,
-      "job_type": "bridge",
-      "subdomain": "engineering",
-      "function": "skilled-trade",
-      "why": "Uses your academic assistance, accessibility, accuracy skills in a technology role.",
-      "gaps": "microsoft-office, time-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.286,
-        "subdomain_alignment": 0.533,
-        "experience_alignment": 0.4,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Internship, no age restriction."
     }
   ],
   "skill_path": null,
@@ -556,7 +556,7 @@
     ],
     "goal_roles": [
       "mechanical engineer",
-      "design engineer"
+      "manufacturing engineer"
     ],
     "goal_subdomains": [
       "engineering",
@@ -626,8 +626,8 @@
   "job_cluster": [
     "engineering",
     "engineering",
-    "engineering",
     "robotics-manufacturing",
+    "engineering",
     "engineering"
   ],
   "needs_review": true,
@@ -654,7 +654,7 @@
       ],
       "goal_roles": [
         "mechanical engineer",
-        "design engineer"
+        "manufacturing engineer"
       ],
       "confidence": 0.85,
       "evidence_spans": [
@@ -669,7 +669,7 @@
       ],
       "reason_codes": [
         "explicit_education",
-        "engineering_projects",
+        "project_experience",
         "technical_skills"
       ],
       "review_reasons": []

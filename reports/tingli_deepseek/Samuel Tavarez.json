@@ -10,20 +10,18 @@
     "Speaking",
     "Instructing",
     "Foreign Language",
-    "Sales and Marketing",
     "Critical Thinking",
     "Active Listening",
-    "administration",
+    "Time Management",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "banking finance",
+    "balancing",
     "bilingual",
     "brand",
     "brand value",
     "business",
-    "business administration",
     "business analysis",
     "business case",
     "canva",
@@ -42,7 +40,6 @@
     "composition",
     "comprehension",
     "content",
-    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -88,20 +85,18 @@
     "Speaking",
     "Instructing",
     "Foreign Language",
-    "Sales and Marketing",
     "Critical Thinking",
     "Active Listening",
-    "administration",
+    "Time Management",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "banking finance",
+    "balancing",
     "bilingual",
     "brand",
     "brand value",
     "business",
-    "business administration",
     "business analysis",
     "business case",
     "canva",
@@ -120,7 +115,6 @@
     "composition",
     "comprehension",
     "content",
-    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -161,9 +155,15 @@
   "possible_skills": [],
   "rejected_skills": [
     "act",
+    "administration",
     "assignments",
     "bachelor",
-    "balancing"
+    "business administration",
+    "courses",
+    "math",
+    "mathematics",
+    "science",
+    "spanish"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -174,20 +174,18 @@
     "Speaking",
     "Instructing",
     "Foreign Language",
-    "Sales and Marketing",
     "Critical Thinking",
     "Active Listening",
-    "administration",
+    "Time Management",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "banking finance",
+    "balancing",
     "bilingual",
     "brand",
     "brand value",
     "business",
-    "business administration",
     "business analysis",
     "business case",
     "canva",
@@ -206,7 +204,6 @@
     "composition",
     "comprehension",
     "content",
-    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -247,50 +244,52 @@
   "inferred": [
     "Microsoft Office",
     "Data Analysis",
-    "Project Management"
+    "Customer Relationship Management"
   ],
   "implicit_skills": [
     {
       "skill": "Microsoft Office",
-      "reason": "Mentioned Excel and Google Docs, likely proficient in Office suite",
+      "reason": "Excel and Google Docs are mentioned, implying proficiency in office suites.",
       "confidence": "medium"
     },
     {
       "skill": "Data Analysis",
-      "reason": "Mentioned analysis, financial analysis, charts",
+      "reason": "Multiple analysis-related terms (analyses, analysis, analytical, analyzing) suggest data analysis skills.",
       "confidence": "medium"
     },
     {
-      "skill": "Project Management",
-      "reason": "Mentioned coordination, goal setting, group leader",
+      "skill": "Customer Relationship Management",
+      "reason": "Customer service, customer relationships, and clients indicate CRM skills.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
     "accounting",
-    "budgeting",
+    "ai",
+    "automation",
     "economics",
     "financial-reporting",
-    "forecasting",
+    "financial-statements",
     "microsoft-excel"
   ],
   "core_gaps": [
     "accounting",
-    "budgeting",
+    "ai",
+    "automation",
     "economics",
     "financial-reporting",
-    "forecasting",
+    "financial-statements",
     "microsoft-excel"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "accounting-principles",
-    "ai",
     "attention-to-detail",
-    "automation",
     "bank-reconciliations",
     "basic-accounting",
+    "budgeting",
+    "cliscripting",
     "cost-accounting",
     "data-entry",
     "dcf",
@@ -298,24 +297,25 @@
   ],
   "nice_to_have_gaps": [
     "accounting-principles",
-    "ai",
     "attention-to-detail",
-    "automation",
     "bank-reconciliations",
     "basic-accounting",
+    "budgeting",
+    "cliscripting",
     "cost-accounting",
     "data-entry",
     "dcf",
     "due-diligence"
   ],
-  "verify_gaps": [
-    "data-analysis",
-    "project-management"
-  ],
+  "verify_gaps": [],
   "related": [
     {
       "skill": "spanish",
       "pmi": 5.03
+    },
+    {
+      "skill": "standforlongperiods",
+      "pmi": 4.86
     },
     {
       "skill": "certifications",
@@ -330,6 +330,14 @@
       "pmi": 4.44
     },
     {
+      "skill": "depositprocessing",
+      "pmi": 4.19
+    },
+    {
+      "skill": "computerskills",
+      "pmi": 4.16
+    },
+    {
       "skill": "quicklearning",
       "pmi": 3.75
     },
@@ -340,18 +348,6 @@
     {
       "skill": "guestservice",
       "pmi": 3.75
-    },
-    {
-      "skill": "english",
-      "pmi": 3.56
-    },
-    {
-      "skill": "duediligence",
-      "pmi": 3.05
-    },
-    {
-      "skill": "economics",
-      "pmi": 2.89
     }
   ],
   "related_skills": [
@@ -360,6 +356,10 @@
       "pmi": 5.03
     },
     {
+      "skill": "standforlongperiods",
+      "pmi": 4.86
+    },
+    {
       "skill": "certifications",
       "pmi": 4.73
     },
@@ -372,6 +372,14 @@
       "pmi": 4.44
     },
     {
+      "skill": "depositprocessing",
+      "pmi": 4.19
+    },
+    {
+      "skill": "computerskills",
+      "pmi": 4.16
+    },
+    {
       "skill": "quicklearning",
       "pmi": 3.75
     },
@@ -382,18 +390,6 @@
     {
       "skill": "guestservice",
       "pmi": 3.75
-    },
-    {
-      "skill": "english",
-      "pmi": 3.56
-    },
-    {
-      "skill": "duediligence",
-      "pmi": 3.05
-    },
-    {
-      "skill": "economics",
-      "pmi": 2.89
     }
   ],
   "alternatives": [
@@ -418,7 +414,7 @@
       "pct": 3
     }
   ],
-  "coach_notes": "For a finance path, focus first on accounting, budgeting, economics. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a finance path, focus first on accounting, ai, automation. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Corporate Strategy and Development Associate",
@@ -429,7 +425,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
@@ -451,7 +447,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -465,28 +461,6 @@
       "eligibility_reason": "Finance analyst role is appropriate for minors/young adults."
     },
     {
-      "title": "Management Trainee - Business and Finance",
-      "company": "flatgigs",
-      "url": "https://apply.workable.com/j/C6C6B63207",
-      "fit": 73,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "finance",
-      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 1.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.226,
-        "attainability": 0.75,
-        "skill_overlap": 0.444,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Management trainee, no age restriction."
-    },
-    {
       "title": "Finance Intern",
       "company": "solarvest",
       "url": "https://apply.workable.com/j/45719D45FC",
@@ -495,7 +469,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -517,7 +491,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -529,6 +503,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Finance and equity analyst, no age restriction."
+    },
+    {
+      "title": "Finance and Equity Analyst - Rotational Program",
+      "company": "carta",
+      "url": "https://job-boards.greenhouse.io/carta/jobs/7143172003",
+      "fit": 72,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
+      "gaps": "accounting, ai, automation",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.261,
+        "attainability": 0.65,
+        "skill_overlap": 0.231,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Finance and equity analyst rotational program, no age restriction."
     }
   ],
   "ready_now": [
@@ -541,7 +537,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 1.0,
         "study_alignment": 1.0,
@@ -563,7 +559,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -579,28 +575,6 @@
   ],
   "aspirational": [
     {
-      "title": "Management Trainee - Business and Finance",
-      "company": "flatgigs",
-      "url": "https://apply.workable.com/j/C6C6B63207",
-      "fit": 73,
-      "job_type": "goal",
-      "subdomain": "",
-      "function": "finance",
-      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 1.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.226,
-        "attainability": 0.75,
-        "skill_overlap": 0.444,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Management trainee, no age restriction."
-    },
-    {
       "title": "Finance Intern",
       "company": "solarvest",
       "url": "https://apply.workable.com/j/45719D45FC",
@@ -609,7 +583,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -631,7 +605,7 @@
       "subdomain": "",
       "function": "finance",
       "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
-      "gaps": "accounting, budgeting, economics",
+      "gaps": "accounting, ai, automation",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 1.0,
@@ -643,9 +617,31 @@
       },
       "eligible": true,
       "eligibility_reason": "Finance and equity analyst, no age restriction."
+    },
+    {
+      "title": "Finance and Equity Analyst - Rotational Program",
+      "company": "carta",
+      "url": "https://job-boards.greenhouse.io/carta/jobs/7143172003",
+      "fit": 72,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "Uses your Customer and Personal Service, Mathematics skills. Aligns with your goal of becoming a Financial Analyst.",
+      "gaps": "accounting, ai, automation",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 1.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.261,
+        "attainability": 0.65,
+        "skill_overlap": 0.231,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Finance and equity analyst rotational program, no age restriction."
     }
   ],
-  "skill_path": "Start by mastering accounting and financial-reporting fundamentals through online courses like Coursera's Financial Accounting or edX's Accounting in 60 Minutes. Then, target entry-level roles such as Accounts Payable Clerk or Junior Financial Analyst to gain hands-on budgeting and forecasting experience. Build economics knowledge via free resources like Khan Academy, and use Excel or QuickBooks projects to demonstrate practical skills.",
+  "skill_path": "Start by mastering accounting fundamentals through online courses like Coursera's Financial Accounting, then build AI and automation skills with Python and tools like Alteryx. Look for entry-level roles like Accounting Clerk or Junior Financial Analyst to gain practical experience in financial reporting and economics. As you progress, seek projects involving automated reporting or data analysis to bridge the gap toward your dream career.",
   "ideal_careers": [
     "Financial Analyst",
     "Accountant",
@@ -770,20 +766,18 @@
         "Speaking",
         "Instructing",
         "Foreign Language",
-        "Sales and Marketing",
         "Critical Thinking",
         "Active Listening",
-        "administration",
+        "Time Management",
         "analyses",
         "analysis",
         "analytical",
         "analyzing",
-        "banking finance",
+        "balancing",
         "bilingual",
         "brand",
         "brand value",
         "business",
-        "business administration",
         "business analysis",
         "business case",
         "canva",
@@ -802,7 +796,6 @@
         "composition",
         "comprehension",
         "content",
-        "courses",
         "culture",
         "customer relationships",
         "customer service",
@@ -848,20 +841,18 @@
         "Speaking",
         "Instructing",
         "Foreign Language",
-        "Sales and Marketing",
         "Critical Thinking",
         "Active Listening",
-        "administration",
+        "Time Management",
         "analyses",
         "analysis",
         "analytical",
         "analyzing",
-        "banking finance",
+        "balancing",
         "bilingual",
         "brand",
         "brand value",
         "business",
-        "business administration",
         "business analysis",
         "business case",
         "canva",
@@ -880,7 +871,6 @@
         "composition",
         "comprehension",
         "content",
-        "courses",
         "culture",
         "customer relationships",
         "customer service",
@@ -921,24 +911,30 @@
       "possible_skills": [],
       "rejected_skills": [
         "act",
+        "administration",
         "assignments",
         "bachelor",
-        "balancing"
+        "business administration",
+        "courses",
+        "math",
+        "mathematics",
+        "science",
+        "spanish"
       ],
       "implicit_skills": [
         {
           "skill": "Microsoft Office",
-          "reason": "Mentioned Excel and Google Docs, likely proficient in Office suite",
+          "reason": "Excel and Google Docs are mentioned, implying proficiency in office suites.",
           "confidence": "medium"
         },
         {
           "skill": "Data Analysis",
-          "reason": "Mentioned analysis, financial analysis, charts",
+          "reason": "Multiple analysis-related terms (analyses, analysis, analytical, analyzing) suggest data analysis skills.",
           "confidence": "medium"
         },
         {
-          "skill": "Project Management",
-          "reason": "Mentioned coordination, goal setting, group leader",
+          "skill": "Customer Relationship Management",
+          "reason": "Customer service, customer relationships, and clients indicate CRM skills.",
           "confidence": "medium"
         }
       ],

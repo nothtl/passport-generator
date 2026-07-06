@@ -1,0 +1,30 @@
+{
+  "technology (Entry)": {
+    "eligible": true,
+    "reason": "Technology entry-level roles are suitable for 16-20 year olds."
+  },
+  "Welder/Fabricator- 2nd Shift": {
+    "eligible": true,
+    "reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
+  },
+  "Welder -1st Shift": {
+    "eligible": true,
+    "reason": "Welder roles are lawful for minors with proper training and safety measures."
+  },
+  "Skilled Laborers/ Carpenters|||esselenvironmental": {
+    "eligible": true,
+    "reason": "Skilled laborer/carpenter roles are suitable for 16-20 year olds with supervision."
+  },
+  "Entry Level Construction Technician": {
+    "eligible": true,
+    "reason": "Entry-level construction technician roles are suitable for 16-20 year olds."
+  },
+  "Laborer|||ssc": {
+    "eligible": true,
+    "reason": "Laborer roles are suitable for 16-20 year olds."
+  },
+  "Licensed Esthetician + Front Bar Receptionist|||facefoundri": {
+    "eligible": false,
+    "reason": "Licensed esthetician may require age 18+ and front bar receptionist may involve alcohol service."
+  }
+}

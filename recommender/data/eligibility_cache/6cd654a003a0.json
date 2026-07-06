@@ -1,0 +1,70 @@
+{
+  "Teacher Assistant": {
+    "eligible": true,
+    "reason": "Teacher assistant role, no age restriction."
+  },
+  "Adjunct Associate Faculty, Fundamentals of Data Engineering (On-Campus, Fall '26)|||ColumbiaUniversity1": {
+    "eligible": false,
+    "reason": "Adjunct faculty typically requires advanced degree and age 21+."
+  },
+  "education (Entry)": {
+    "eligible": true,
+    "reason": "Entry-level education role, no age restriction."
+  },
+  "Summer Instructor, Burien|||GalileoLearning": {
+    "eligible": true,
+    "reason": "Summer instructor for youth, no age restriction."
+  },
+  "Camp Counselor -DMV": {
+    "eligible": true,
+    "reason": "Camp counselor, no age restriction."
+  },
+  "Paraeducator": {
+    "eligible": true,
+    "reason": "Paraeducator, no age restriction."
+  },
+  "Instructor - Los Angeles": {
+    "eligible": true,
+    "reason": "Instructor, no age restriction."
+  },
+  "Camp Instructor -Chicago": {
+    "eligible": true,
+    "reason": "Camp instructor, no age restriction."
+  },
+  "design (Entry)": {
+    "eligible": true,
+    "reason": "Entry-level design role, no age restriction."
+  },
+  "Social-First Content & Design Specialist|||virtuhire": {
+    "eligible": true,
+    "reason": "Content & design specialist, no age restriction."
+  },
+  "Creative Designer (Graphics & Video)|||virtuhire": {
+    "eligible": true,
+    "reason": "Creative designer, no age restriction."
+  },
+  "Unpaid Assistant Wedding Coordinator Intern|||leigh-and-co": {
+    "eligible": true,
+    "reason": "Unpaid intern, no age restriction."
+  },
+  "Administrative Assistant": {
+    "eligible": true,
+    "reason": "Administrative assistant, no age restriction."
+  },
+  "New School New Books Presenter|||newschool": {
+    "eligible": true,
+    "reason": "Presenter role, no age restriction."
+  },
+  "Wine Steward PT|||ohmc": {
+    "eligible": false,
+    "reason": "Wine steward involves serving alcohol, requires 21+."
+  },
+  "Year One - Junior Designer - Architecture|||som": {
+    "eligible": true,
+    "reason": "Junior designer, no age restriction."
+  },
+  "Designer": {
+    "eligible": true,
+    "reason": "Designer, no age restriction."
+  }
+}

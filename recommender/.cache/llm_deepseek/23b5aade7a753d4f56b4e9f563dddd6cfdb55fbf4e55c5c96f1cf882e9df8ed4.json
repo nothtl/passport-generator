@@ -29,6 +29,8 @@
   ],
   "review_reasons": [],
   "secondary_function": "design",
-  "study_domains": [],
+  "study_domains": [
+    "education"
+  ],
   "study_subdomains": []
 }

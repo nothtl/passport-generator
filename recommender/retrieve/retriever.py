@@ -55,13 +55,22 @@ _SENIORITY_PATTERNS = ("senior",)
 
 
 def _resolve_func(func_lower: str) -> str:
-    """Resolve function to parquet file, using fallback if missing."""
+    """Resolve function to parquet file, using fallback if missing or too small."""
     path = os.path.join(_CORPUS_DIR, f"{func_lower}.parquet")
-    if os.path.exists(path):
+    if os.path.exists(path) and os.path.getsize(path) > 100_000:  # >100KB = real data
         return func_lower
+    # Try subset function map first (e.g., technology → engineering)
+    mapped = _SUBSET_FUNCTION_MAP.get(func_lower)
+    if mapped:
+        mapped_path = os.path.join(_CORPUS_DIR, f"{mapped}.parquet")
+        if os.path.exists(mapped_path) and os.path.getsize(mapped_path) > 100_000:
+            return mapped
+    # Try fallback map
     fallback = _FALLBACK_MAP.get(func_lower)
     if fallback:
-        return fallback
+        fallback_path = os.path.join(_CORPUS_DIR, f"{fallback}.parquet")
+        if os.path.exists(fallback_path) and os.path.getsize(fallback_path) > 100_000:
+            return fallback
     return func_lower
 
 
@@ -81,6 +90,11 @@ def _load_df(func_lower: str) -> Any:
         filters=[("level", "in", ["intern", "entry", "junior", "Intern", "Entry", "Junior"])],
     )
     df = table.to_pandas()
+    if df.empty:
+        _cached_df[cache_key] = None
+        return None
+    # Filter out O*NET placeholder rows (e.g. "technology (Entry)")
+    df = df[~df["title"].str.lower().str.contains(r"^[a-z]+ \(entry\)$", regex=True, na=False)]
     if df.empty:
         _cached_df[cache_key] = None
         return None

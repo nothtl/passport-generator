@@ -11,11 +11,9 @@
     "Food Production",
     "Monitoring",
     "Social Perceptiveness",
-    "Active Listening",
     "Time Management",
     "Active Learning",
     "Foreign Language",
-    "Design",
     "bilingual"
   ],
   "verified_skills": [
@@ -27,11 +25,9 @@
     "Food Production",
     "Monitoring",
     "Social Perceptiveness",
-    "Active Listening",
     "Time Management",
     "Active Learning",
     "Foreign Language",
-    "Design",
     "bilingual"
   ],
   "possible_skills": [],
@@ -58,72 +54,76 @@
     "Food Production",
     "Monitoring",
     "Social Perceptiveness",
-    "Active Listening",
     "Time Management",
     "Active Learning",
     "Foreign Language",
-    "Design",
     "bilingual"
   ],
   "inferred": [
-    "Childcare",
-    "Artistic Skills",
-    "Event Coordination"
+    "Multitasking",
+    "Responsibility",
+    "Creativity"
   ],
   "implicit_skills": [
     {
-      "skill": "Childcare",
-      "reason": "Mentioned 'care' and 'sitter' implies childcare experience.",
+      "skill": "Multitasking",
+      "reason": "Managing care, meals, and activities suggests multitasking ability.",
       "confidence": "medium"
     },
     {
-      "skill": "Artistic Skills",
-      "reason": "Mentioned 'paint', 'dance', 'fine arts' suggests artistic abilities.",
+      "skill": "Responsibility",
+      "reason": "Caring for a child or pet implies responsibility.",
       "confidence": "medium"
     },
     {
-      "skill": "Event Coordination",
-      "reason": "Mentioned 'exhibits' and 'extracurricular activities' implies organizing events.",
+      "skill": "Creativity",
+      "reason": "Engaging in dance, paint, and games indicates creativity.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "calendar-management",
     "communication",
+    "calendar-management",
     "logistics",
+    "customer-service",
+    "event-planning",
+    "on-site-support",
     "organization"
   ],
   "core_gaps": [
-    "calendar-management",
     "communication",
+    "calendar-management",
     "logistics",
+    "customer-service",
+    "event-planning",
+    "on-site-support",
     "organization"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "administrative-support",
-    "content-creation",
+    "attention-to-detail",
     "content-management-system",
-    "customer-service",
     "data-entry",
     "detail-orientation",
     "driving",
     "event-management",
-    "event-planning",
-    "excel"
+    "excel",
+    "fact-checking",
+    "microsoft-office"
   ],
   "nice_to_have_gaps": [
     "administrative-support",
-    "content-creation",
+    "attention-to-detail",
     "content-management-system",
-    "customer-service",
     "data-entry",
     "detail-orientation",
     "driving",
     "event-management",
-    "event-planning",
-    "excel"
+    "excel",
+    "fact-checking",
+    "microsoft-office"
   ],
   "verify_gaps": [],
   "related": [
@@ -232,7 +232,7 @@
       "pct": 6
     }
   ],
-  "coach_notes": "For a arts-media path, focus first on calendar-management, communication, logistics. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a arts-media path, focus first on communication, calendar-management, logistics. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Artist Management Intern, DreamWorks Animation, Fall 2026",
@@ -243,7 +243,7 @@
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 0.0,
@@ -257,37 +257,15 @@
       "eligibility_reason": "Internship, no age restriction."
     },
     {
-      "title": "Freelance Production Assistant (Social) - NBC Sports",
-      "company": "NBCUniversal3",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000131478681",
-      "fit": 70,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.5,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restrictions for this role."
-    },
-    {
       "title": "Newsroom Assistant (UNION) - Content",
       "company": "gannett",
       "url": "https://jobs.dayforcehcm.com/gannett/CANDIDATEPORTAL/jobs/89382",
-      "fit": 50,
+      "fit": 58,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 0.0,
@@ -309,10 +287,10 @@
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
-        "study_alignment": 0.0,
+        "study_alignment": 0.111,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.2,
         "attainability": 0.75,
@@ -331,7 +309,7 @@
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
         "study_alignment": 0.0,
@@ -343,6 +321,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Unpaid intern, no age restriction."
+    },
+    {
+      "title": "New School New Books Presenter",
+      "company": "newschool",
+      "url": "https://newschool.wd1.myworkdayjobs.com/job/B---65-West-11th-Street/New-School-New-Books-Presenter_JR108748",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "arts-media",
+      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Presenter role, no age restriction."
     }
   ],
   "ready_now": [
@@ -355,7 +355,7 @@
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 0.0,
@@ -369,39 +369,15 @@
       "eligibility_reason": "Internship, no age restriction."
     },
     {
-      "title": "Freelance Production Assistant (Social) - NBC Sports",
-      "company": "NBCUniversal3",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000131478681",
-      "fit": 70,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.5,
-        "experience_alignment": 0.1,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restrictions for this role."
-    }
-  ],
-  "aspirational": [
-    {
       "title": "Newsroom Assistant (UNION) - Content",
       "company": "gannett",
       "url": "https://jobs.dayforcehcm.com/gannett/CANDIDATEPORTAL/jobs/89382",
-      "fit": 50,
+      "fit": 58,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.5,
         "study_alignment": 0.0,
@@ -413,7 +389,9 @@
       },
       "eligible": true,
       "eligibility_reason": "Newsroom assistant role does not involve age-restricted activities."
-    },
+    }
+  ],
+  "aspirational": [
     {
       "title": "Entertainment Coordinator ",
       "company": "SpectrumRetirementCommunities",
@@ -423,10 +401,10 @@
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
-        "study_alignment": 0.0,
+        "study_alignment": 0.111,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.2,
         "attainability": 0.75,
@@ -445,7 +423,7 @@
       "subdomain": "content-creation",
       "function": "arts-media",
       "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
-      "gaps": "calendar-management, communication, logistics",
+      "gaps": "communication, calendar-management, logistics",
       "job_score_breakdown": {
         "goal_alignment": 0.25,
         "study_alignment": 0.0,
@@ -457,9 +435,31 @@
       },
       "eligible": true,
       "eligibility_reason": "Unpaid intern, no age restriction."
+    },
+    {
+      "title": "New School New Books Presenter",
+      "company": "newschool",
+      "url": "https://newschool.wd1.myworkdayjobs.com/job/B---65-West-11th-Street/New-School-New-Books-Presenter_JR108748",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "arts-media",
+      "why": "Uses your Instructing, Customer and Personal Service skills. Aligns with your goal of becoming a Content Creator.",
+      "gaps": "communication, calendar-management, logistics",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Presenter role, no age restriction."
     }
   ],
-  "skill_path": "Start by mastering calendar management and organization—use tools like Google Calendar or Trello to plan content shoots and deadlines. Then, build communication and logistics skills by volunteering for event coordination or assisting a local media team. Look for entry-level roles like production assistant or social media coordinator to gain hands-on experience while you develop your photography and content creation portfolio.",
+  "skill_path": "Start by building communication and customer-service skills through part-time roles in retail or hospitality, which also teach logistics and calendar management. Then, seek internships or assistant positions at media agencies or event planning companies to gain hands-on experience in content creation and photography. This step-by-step approach will close your skill gaps while opening doors to your dream career.",
   "ideal_careers": [
     "Content Creator",
     "Photographer",
@@ -478,8 +478,7 @@
       "content-creation"
     ],
     "study_domains": [
-      "finance",
-      "arts-media"
+      "education"
     ],
     "study_subdomains": [
       "graphic-design"
@@ -555,7 +554,9 @@
       "goal_domains": [
         "arts-media"
       ],
-      "study_domains": [],
+      "study_domains": [
+        "education"
+      ],
       "goal_subdomains": [
         "content-creation"
       ],
@@ -592,11 +593,9 @@
         "Food Production",
         "Monitoring",
         "Social Perceptiveness",
-        "Active Listening",
         "Time Management",
         "Active Learning",
         "Foreign Language",
-        "Design",
         "bilingual"
       ],
       "verified_skills": [
@@ -608,11 +607,9 @@
         "Food Production",
         "Monitoring",
         "Social Perceptiveness",
-        "Active Listening",
         "Time Management",
         "Active Learning",
         "Foreign Language",
-        "Design",
         "bilingual"
       ],
       "possible_skills": [],
@@ -631,18 +628,18 @@
       ],
       "implicit_skills": [
         {
-          "skill": "Childcare",
-          "reason": "Mentioned 'care' and 'sitter' implies childcare experience.",
+          "skill": "Multitasking",
+          "reason": "Managing care, meals, and activities suggests multitasking ability.",
           "confidence": "medium"
         },
         {
-          "skill": "Artistic Skills",
-          "reason": "Mentioned 'paint', 'dance', 'fine arts' suggests artistic abilities.",
+          "skill": "Responsibility",
+          "reason": "Caring for a child or pet implies responsibility.",
           "confidence": "medium"
         },
         {
-          "skill": "Event Coordination",
-          "reason": "Mentioned 'exhibits' and 'extracurricular activities' implies organizing events.",
+          "skill": "Creativity",
+          "reason": "Engaging in dance, paint, and games indicates creativity.",
           "confidence": "medium"
         }
       ],

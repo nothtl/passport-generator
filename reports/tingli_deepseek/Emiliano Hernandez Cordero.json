@@ -17,25 +17,7 @@
     "microsoft",
     "microsoft office",
     "office",
-    "spanish",
-    "advocate",
-    "cash transactions",
-    "classroom activities",
-    "cleanliness standards",
-    "community events",
-    "criminal justice",
-    "customer service",
-    "event planning",
-    "food distribution",
-    "group instruction",
-    "interpretation",
-    "point of sale",
-    "pos systems",
-    "small group instruction",
-    "spanish communication",
-    "student support",
-    "teamwork",
-    "waitstaff"
+    "spanish"
   ],
   "verified_skills": [
     "bilingual",
@@ -52,29 +34,10 @@
     "microsoft",
     "microsoft office",
     "office",
-    "spanish",
-    "advocate",
-    "cash transactions",
-    "classroom activities",
-    "cleanliness standards",
-    "community events",
-    "criminal justice",
-    "customer service",
-    "event planning",
-    "food distribution",
-    "group instruction",
-    "interpretation",
-    "point of sale",
-    "pos systems",
-    "small group instruction",
-    "spanish communication",
-    "student support",
-    "teamwork",
-    "waitstaff"
+    "spanish"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "Active Listening",
     "Administrative",
     "Coordination",
     "Customer and Personal Service",
@@ -83,24 +46,38 @@
     "Mathematics",
     "Sales and Marketing",
     "Service Orientation",
+    "advocate",
     "bachelor",
     "can",
     "cash",
+    "cash transactions",
+    "classroom activities",
     "cleanliness",
+    "cleanliness standards",
+    "community events",
+    "criminal justice",
+    "customer service",
     "distribution",
     "documents",
     "donations",
     "efficiency",
     "emails",
+    "event planning",
     "fast paced",
     "food",
+    "food distribution",
+    "group instruction",
     "high volume",
     "high volume environment",
     "hours",
     "instruction",
+    "interpretation",
     "media",
     "multicultural",
     "organized",
+    "point of sale",
+    "pos",
+    "pos systems",
     "prepared food",
     "program",
     "quality",
@@ -109,12 +86,18 @@
     "safety",
     "safety and quality",
     "service",
+    "small group instruction",
+    "spanish communication",
+    "spanish english",
     "speak",
     "sponsors",
     "standards",
+    "student support",
     "systems",
+    "teamwork",
     "transactions",
-    "united states"
+    "united states",
+    "waitstaff"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -132,54 +115,39 @@
     "microsoft",
     "microsoft office",
     "office",
-    "spanish",
-    "advocate",
-    "cash transactions",
-    "classroom activities",
-    "cleanliness standards",
-    "community events",
-    "criminal justice",
-    "customer service",
-    "event planning",
-    "food distribution",
-    "group instruction",
-    "interpretation",
-    "point of sale",
-    "pos systems",
-    "small group instruction",
-    "spanish communication",
-    "student support",
-    "teamwork",
-    "waitstaff"
+    "spanish"
   ],
   "inferred": [
-    "Microsoft Excel",
-    "Customer Relationship Management",
-    "Cross-cultural Communication"
+    "customer service",
+    "event planning",
+    "teamwork"
   ],
   "implicit_skills": [
     {
-      "skill": "Microsoft Excel",
-      "reason": "Microsoft Office implies Excel proficiency",
+      "skill": "customer service",
+      "reason": "Experience includes cash transactions and customer service, indicating customer service skills.",
       "confidence": "medium"
     },
     {
-      "skill": "Customer Relationship Management",
-      "reason": "Customer service and point of sale experience suggest CRM skills",
+      "skill": "event planning",
+      "reason": "Experience includes community events, implying event planning skills.",
       "confidence": "medium"
     },
     {
-      "skill": "Cross-cultural Communication",
-      "reason": "Bilingual and multicultural experience indicate this skill",
+      "skill": "teamwork",
+      "reason": "Experience includes classroom activities and community events, suggesting teamwork.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
-  "gaps": [],
-  "core_gaps": [],
+  "gaps": [
+    "classroom-support"
+  ],
+  "core_gaps": [
+    "classroom-support"
+  ],
   "bridge_gaps": [
     "cash-handling",
-    "classroom-support",
     "cleanliness",
     "computer-skills",
     "developmentally-appropriate-practices",
@@ -187,61 +155,45 @@
     "food-preparation",
     "food-safety",
     "instructional-assistant",
-    "inventory-management"
+    "inventory-management",
+    "organization"
   ],
   "stretch_gaps": [
-    "active-listening",
     "administrative-support",
     "attention-to-detail",
+    "camp-operations",
+    "coordination",
     "data-entry",
-    "event-participation",
+    "event-support",
     "excel",
-    "multimodal-instruction",
-    "private-lessons",
-    "public-speaking",
-    "team-work"
+    "facilitation",
+    "logistics",
+    "safety-monitoring"
   ],
   "nice_to_have_gaps": [
-    "active-listening",
     "administrative-support",
     "attention-to-detail",
+    "camp-operations",
     "cash-handling",
-    "classroom-support",
     "cleanliness",
     "computer-skills",
+    "coordination",
     "data-entry",
     "developmentally-appropriate-practices",
     "english-proficiency"
   ],
-  "verify_gaps": [],
+  "verify_gaps": [
+    "teamwork",
+    "customer-service"
+  ],
   "related": [
     {
       "skill": "googleclassroom",
       "pmi": 5.53
     },
     {
-      "skill": "privateinstruction",
-      "pmi": 4.37
-    },
-    {
-      "skill": "studentaffairs",
-      "pmi": 4.31
-    },
-    {
       "skill": "translation",
       "pmi": 4.26
-    },
-    {
-      "skill": "1on1instruction",
-      "pmi": 4.19
-    },
-    {
-      "skill": "vendormanagement",
-      "pmi": 4.08
-    },
-    {
-      "skill": "dormmanagement",
-      "pmi": 4.02
     },
     {
       "skill": "behaviordocumentation",
@@ -254,6 +206,26 @@
     {
       "skill": "travelbetweensites",
       "pmi": 3.81
+    },
+    {
+      "skill": "bcatcredential",
+      "pmi": 3.81
+    },
+    {
+      "skill": "emr",
+      "pmi": 3.59
+    },
+    {
+      "skill": "criticalthinking",
+      "pmi": 3.54
+    },
+    {
+      "skill": "datadocumentation",
+      "pmi": 3.51
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
     }
   ],
   "related_skills": [
@@ -262,28 +234,8 @@
       "pmi": 5.53
     },
     {
-      "skill": "privateinstruction",
-      "pmi": 4.37
-    },
-    {
-      "skill": "studentaffairs",
-      "pmi": 4.31
-    },
-    {
       "skill": "translation",
       "pmi": 4.26
-    },
-    {
-      "skill": "1on1instruction",
-      "pmi": 4.19
-    },
-    {
-      "skill": "vendormanagement",
-      "pmi": 4.08
-    },
-    {
-      "skill": "dormmanagement",
-      "pmi": 4.02
     },
     {
       "skill": "behaviordocumentation",
@@ -296,6 +248,26 @@
     {
       "skill": "travelbetweensites",
       "pmi": 3.81
+    },
+    {
+      "skill": "bcatcredential",
+      "pmi": 3.81
+    },
+    {
+      "skill": "emr",
+      "pmi": 3.59
+    },
+    {
+      "skill": "criticalthinking",
+      "pmi": 3.54
+    },
+    {
+      "skill": "datadocumentation",
+      "pmi": 3.51
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
     }
   ],
   "alternatives": [
@@ -320,7 +292,7 @@
       "pct": 7
     }
   ],
-  "coach_notes": "Your profile already shows relevant signals for social-service. Keep building direct project or internship evidence.",
+  "coach_notes": "For a social-service path, focus first on classroom-support. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Youth Success Specialist Intern",
@@ -331,51 +303,29 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.625,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.462,
         "experience_alignment": 0.507,
         "attainability": 0.75,
-        "skill_overlap": 0.364,
+        "skill_overlap": 0.273,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Youth success specialist internship is suitable for young adults."
     },
     {
-      "title": "Dance Professional",
-      "company": "fred-astaire-dance-studios-3",
-      "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 69,
-      "job_type": "goal",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
-      "job_score_breakdown": {
-        "goal_alignment": 0.375,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.254,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
-    },
-    {
       "title": "Dual Language Assistant",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
-      "fit": 53,
+      "fit": 63,
       "job_type": "bridge",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.125,
         "study_alignment": 0.5,
@@ -392,19 +342,19 @@
       "title": "Instructional Assistant (Spanish Speaking)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
-      "fit": 52,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.429,
-        "attainability": 0.85,
-        "skill_overlap": 0.429,
+        "attainability": 0.75,
+        "skill_overlap": 0.286,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -414,23 +364,45 @@
       "title": "Subway Sandwich Artist",
       "company": "PilotCompany",
       "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
-      "fit": 52,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Sandwich making, no alcohol/gambling/etc."
+    },
+    {
+      "title": "Camp Counselor -DMV",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
+      "fit": 0,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "social-service",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "classroom-support",
+      "job_score_breakdown": {
+        "goal_alignment": 0.375,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.269,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.45
+      },
+      "eligible": true,
+      "eligibility_reason": "Camp counselor, no age restriction."
     }
   ],
   "ready_now": [
@@ -443,53 +415,29 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.625,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.462,
         "experience_alignment": 0.507,
         "attainability": 0.75,
-        "skill_overlap": 0.364,
+        "skill_overlap": 0.273,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Youth success specialist internship is suitable for young adults."
     },
     {
-      "title": "Dance Professional",
-      "company": "fred-astaire-dance-studios-3",
-      "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 69,
-      "job_type": "goal",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
-      "job_score_breakdown": {
-        "goal_alignment": 0.375,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.254,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
-    }
-  ],
-  "aspirational": [
-    {
       "title": "Dual Language Assistant",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
-      "fit": 53,
+      "fit": 63,
       "job_type": "bridge",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.125,
         "study_alignment": 0.5,
@@ -501,24 +449,26 @@
       },
       "eligible": true,
       "eligibility_reason": "No age restrictions for language assistant roles."
-    },
+    }
+  ],
+  "aspirational": [
     {
       "title": "Instructional Assistant (Spanish Speaking)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
-      "fit": 52,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.429,
-        "attainability": 0.85,
-        "skill_overlap": 0.429,
+        "attainability": 0.75,
+        "skill_overlap": 0.286,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -528,26 +478,48 @@
       "title": "Subway Sandwich Artist",
       "company": "PilotCompany",
       "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
-      "fit": 52,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "community-support",
       "function": "social-service",
       "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
-      "gaps": "",
+      "gaps": "classroom-support",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
         "study_alignment": 0.5,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Sandwich making, no alcohol/gambling/etc."
+    },
+    {
+      "title": "Camp Counselor -DMV",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
+      "fit": 0,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "social-service",
+      "why": "Uses your bilingual, bilingual english skills. Aligns with your goal of becoming a Justice.",
+      "gaps": "classroom-support",
+      "job_score_breakdown": {
+        "goal_alignment": 0.375,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.269,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.45
+      },
+      "eligible": true,
+      "eligibility_reason": "Camp counselor, no age restriction."
     }
   ],
-  "skill_path": "Start by building cash-handling and computer skills through entry-level roles like host or cashier in a restaurant, which also teach cleanliness. Then, seek a line cook or assistant manager position to gain kitchen and supervisory experience, bridging to chef or restaurant manager. For justice, volunteer in community programs to apply developmentally-appropriate practices and classroom-support skills, then pursue a social service role in juvenile justice.",
+  "skill_path": "Start by building cash-handling and cleanliness skills through entry-level roles like host or busser, which also develop computer skills and English proficiency. Then, seek positions as a line cook or assistant manager to gain restaurant operations experience, while volunteering in classroom settings to practice developmentally-appropriate practices. This dual path builds toward chef or restaurant manager roles, with justice work possible later through community food programs.",
   "ideal_careers": [
     "Justice",
     "Chef",
@@ -627,7 +599,7 @@
     "community-support",
     "community-support",
     "community-support",
-    "community-support"
+    "youth-support"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -663,8 +635,8 @@
         }
       ],
       "reason_codes": [
-        "explicit goals in headline",
-        "community-focused experience",
+        "explicit goal in headline",
+        "community service experience",
         "bilingual advocacy"
       ],
       "review_reasons": []
@@ -686,25 +658,7 @@
         "microsoft",
         "microsoft office",
         "office",
-        "spanish",
-        "advocate",
-        "cash transactions",
-        "classroom activities",
-        "cleanliness standards",
-        "community events",
-        "criminal justice",
-        "customer service",
-        "event planning",
-        "food distribution",
-        "group instruction",
-        "interpretation",
-        "point of sale",
-        "pos systems",
-        "small group instruction",
-        "spanish communication",
-        "student support",
-        "teamwork",
-        "waitstaff"
+        "spanish"
       ],
       "verified_skills": [
         "bilingual",
@@ -721,29 +675,10 @@
         "microsoft",
         "microsoft office",
         "office",
-        "spanish",
-        "advocate",
-        "cash transactions",
-        "classroom activities",
-        "cleanliness standards",
-        "community events",
-        "criminal justice",
-        "customer service",
-        "event planning",
-        "food distribution",
-        "group instruction",
-        "interpretation",
-        "point of sale",
-        "pos systems",
-        "small group instruction",
-        "spanish communication",
-        "student support",
-        "teamwork",
-        "waitstaff"
+        "spanish"
       ],
       "possible_skills": [],
       "rejected_skills": [
-        "Active Listening",
         "Administrative",
         "Coordination",
         "Customer and Personal Service",
@@ -752,24 +687,38 @@
         "Mathematics",
         "Sales and Marketing",
         "Service Orientation",
+        "advocate",
         "bachelor",
         "can",
         "cash",
+        "cash transactions",
+        "classroom activities",
         "cleanliness",
+        "cleanliness standards",
+        "community events",
+        "criminal justice",
+        "customer service",
         "distribution",
         "documents",
         "donations",
         "efficiency",
         "emails",
+        "event planning",
         "fast paced",
         "food",
+        "food distribution",
+        "group instruction",
         "high volume",
         "high volume environment",
         "hours",
         "instruction",
+        "interpretation",
         "media",
         "multicultural",
         "organized",
+        "point of sale",
+        "pos",
+        "pos systems",
         "prepared food",
         "program",
         "quality",
@@ -778,27 +727,33 @@
         "safety",
         "safety and quality",
         "service",
+        "small group instruction",
+        "spanish communication",
+        "spanish english",
         "speak",
         "sponsors",
         "standards",
+        "student support",
         "systems",
+        "teamwork",
         "transactions",
-        "united states"
+        "united states",
+        "waitstaff"
       ],
       "implicit_skills": [
         {
-          "skill": "Microsoft Excel",
-          "reason": "Microsoft Office implies Excel proficiency",
+          "skill": "customer service",
+          "reason": "Experience includes cash transactions and customer service, indicating customer service skills.",
           "confidence": "medium"
         },
         {
-          "skill": "Customer Relationship Management",
-          "reason": "Customer service and point of sale experience suggest CRM skills",
+          "skill": "event planning",
+          "reason": "Experience includes community events, implying event planning skills.",
           "confidence": "medium"
         },
         {
-          "skill": "Cross-cultural Communication",
-          "reason": "Bilingual and multicultural experience indicate this skill",
+          "skill": "teamwork",
+          "reason": "Experience includes classroom activities and community events, suggesting teamwork.",
           "confidence": "medium"
         }
       ],

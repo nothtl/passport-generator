@@ -1,0 +1,18 @@
+{
+  "Lower School Instructional Assistant Teacher": {
+    "eligible": true,
+    "reason": "Instructional assistant roles are suitable for 16-20 year olds."
+  },
+  "Paraprofessional - Special Education": {
+    "eligible": true,
+    "reason": "Paraprofessional roles in special education are suitable for minors."
+  },
+  "Paraprofessional": {
+    "eligible": true,
+    "reason": "Paraprofessional roles are suitable for minors."
+  },
+  "Highly Qualified Paraprofessional": {
+    "eligible": true,
+    "reason": "Highly qualified paraprofessional roles are suitable for 16-20 year olds."
+  }
+}

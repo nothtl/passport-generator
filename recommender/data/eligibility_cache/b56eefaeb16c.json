@@ -1,0 +1,42 @@
+{
+  "Business Trainee|||bcipkg": {
+    "eligible": true,
+    "reason": "Business trainee role, no age restriction."
+  },
+  "Account Executive (Pharma agency)|||avalerehealth": {
+    "eligible": true,
+    "reason": "Account executive in pharma agency, no age restriction."
+  },
+  "Growth Associate|||maple": {
+    "eligible": true,
+    "reason": "Growth associate, no age restriction."
+  },
+  "NAI NorCal - Commercial Real Estate - DoD Skillbridge Internship|||nainnorcal": {
+    "eligible": true,
+    "reason": "Internship in commercial real estate, no age restriction."
+  },
+  "Sales Associate Competitive Pay + Endless Commission": {
+    "eligible": true,
+    "reason": "Sales associate, no age restriction."
+  },
+  "Houseperson": {
+    "eligible": true,
+    "reason": "Houseperson, no age restriction."
+  },
+  "Bartender - Brothers Bar & Grill,  Broad Ripple, Indianapolis, IN": {
+    "eligible": false,
+    "reason": "Bartender role requires age 21+ to serve alcohol."
+  },
+  "Cake Decorator": {
+    "eligible": true,
+    "reason": "Cake decorator, no age restriction."
+  },
+  "PT Framer|||michaels": {
+    "eligible": true,
+    "reason": "PT Framer at Michaels, no age restriction."
+  },
+  "Installation Apprentice|||greatwindowsservices": {
+    "eligible": true,
+    "reason": "Installation apprentice, no age restriction."
+  }
+}

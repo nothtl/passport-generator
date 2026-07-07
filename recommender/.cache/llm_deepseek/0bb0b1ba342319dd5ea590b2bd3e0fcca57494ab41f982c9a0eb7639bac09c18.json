@@ -4,25 +4,26 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Excel and Google Docs imply proficiency in office software.",
+      "reason": "Excel and Google Docs imply proficiency in office suites",
       "skill": "Microsoft Office"
     },
     {
       "confidence": "medium",
-      "reason": "Collaborative and group leader indicate teamwork skills.",
-      "skill": "Teamwork"
+      "reason": "Analytical skills and financial analysis suggest data analysis capability",
+      "skill": "Data Analysis"
     },
     {
       "confidence": "medium",
-      "reason": "Critical thinking and analytical skills imply problem-solving ability.",
-      "skill": "Problem Solving"
+      "reason": "Coordination, goal setting, and group leader indicate project management skills",
+      "skill": "Project Management"
     }
   ],
   "possible_skills": [],
   "rejected_skills": [
     "act",
     "assignments",
-    "bachelor"
+    "bachelor",
+    "balancing"
   ],
   "review_reasons": [],
   "scored_skills": [
@@ -33,15 +34,14 @@
     "Speaking",
     "Foreign Language",
     "Instructing",
-    "Critical Thinking",
     "Active Listening",
     "Sales and Marketing",
+    "Critical Thinking",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -102,9 +102,7 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "spanish"
+    "investment banking"
   ],
   "verified_skills": [
     "Customer and Personal Service",
@@ -114,15 +112,14 @@
     "Speaking",
     "Foreign Language",
     "Instructing",
-    "Critical Thinking",
     "Active Listening",
     "Sales and Marketing",
+    "Critical Thinking",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -183,8 +180,6 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "spanish"
+    "investment banking"
   ]
 }

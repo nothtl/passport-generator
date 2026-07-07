@@ -114,7 +114,7 @@
   "implicit_skills": [
     {
       "skill": "customer service",
-      "reason": "Experience as barista and point of contact implies customer service skills.",
+      "reason": "Experience as barista and advisor implies customer service skills.",
       "confidence": "medium"
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "skill": "attention to detail",
-      "reason": "Archival work and organizational development require attention to detail.",
+      "reason": "Archival work and organizational skills require attention to detail.",
       "confidence": "medium"
     }
   ],
@@ -141,28 +141,17 @@
   ],
   "bridge_gaps": [
     "administrative-support",
-    "calendar-management",
-    "camp-activities",
-    "content-curation",
-    "media-content",
-    "photo-editing",
-    "photography",
-    "production-administration",
-    "team-work",
-    "web-content"
-  ],
-  "stretch_gaps": [
     "basic-technology",
     "blogging",
+    "calendar-management",
+    "camp-activities",
     "camp-operations",
     "classroom-management",
     "classroom-support",
     "coaching",
-    "community-engagement",
-    "content-creation",
-    "crisp-data-entry",
-    "event-planning"
+    "community-engagement"
   ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
     "administrative-support",
     "basic-technology",
@@ -288,39 +277,17 @@
   "coach_notes": "For a arts-media path, focus first on organization, social-media, coordination. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Youth Instructor & Program Support Specialist",
-      "company": "super-soccer-stars",
-      "url": "https://apply.workable.com/j/D82C956AFF",
-      "fit": 85,
-      "job_type": "goal",
-      "subdomain": "marketing-creative",
-      "function": "education",
-      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
-      "gaps": "organization, social-media, coordination",
-      "job_score_breakdown": {
-        "goal_alignment": 0.545,
-        "study_alignment": 0.778,
-        "subdomain_alignment": 0.294,
-        "experience_alignment": 0.25,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth instructor, no age restrictions."
-    },
-    {
       "title": "Osmosis Health Leadership Initiative (Formerly OMEF)",
       "company": "osmosis",
       "url": "https://job-boards.greenhouse.io/osmosis/jobs/5628745003",
-      "fit": 78,
-      "job_type": "goal",
+      "fit": 70,
+      "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "education",
       "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
-        "goal_alignment": 0.273,
+        "goal_alignment": 0.0,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.7,
         "experience_alignment": 0.25,
@@ -332,26 +299,26 @@
       "eligibility_reason": "Leadership initiative, no age restriction."
     },
     {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 65,
-      "job_type": "goal",
-      "subdomain": "content-creation",
+      "title": "Youth Instructor & Program Support Specialist",
+      "company": "super-soccer-stars",
+      "url": "https://apply.workable.com/j/D82C956AFF",
+      "fit": 68,
+      "job_type": "bridge",
+      "subdomain": "marketing-creative",
       "function": "education",
       "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
-        "goal_alignment": 0.455,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.375,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.778,
+        "subdomain_alignment": 0.294,
+        "experience_alignment": 0.25,
         "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "skill_overlap": 0.1,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
+      "eligibility_reason": "Youth instructor, no age restrictions."
     },
     {
       "title": "Artist Management Intern, DreamWorks Animation, Fall 2026",
@@ -376,17 +343,39 @@
       "eligibility_reason": "Internship, no age restriction."
     },
     {
+      "title": "Camp Counselor -DMV",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
+      "fit": 51,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
+      "gaps": "organization, social-media, coordination",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.375,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Camp counselor, no age restriction."
+    },
+    {
       "title": "2024-2025 Sports Photography Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 54,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "photo-video",
       "function": "arts-media",
       "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
-        "goal_alignment": 0.182,
+        "goal_alignment": 0.0,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.278,
         "experience_alignment": 0.25,
@@ -400,39 +389,17 @@
   ],
   "ready_now": [
     {
-      "title": "Youth Instructor & Program Support Specialist",
-      "company": "super-soccer-stars",
-      "url": "https://apply.workable.com/j/D82C956AFF",
-      "fit": 85,
-      "job_type": "goal",
-      "subdomain": "marketing-creative",
-      "function": "education",
-      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
-      "gaps": "organization, social-media, coordination",
-      "job_score_breakdown": {
-        "goal_alignment": 0.545,
-        "study_alignment": 0.778,
-        "subdomain_alignment": 0.294,
-        "experience_alignment": 0.25,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth instructor, no age restrictions."
-    },
-    {
       "title": "Osmosis Health Leadership Initiative (Formerly OMEF)",
       "company": "osmosis",
       "url": "https://job-boards.greenhouse.io/osmosis/jobs/5628745003",
-      "fit": 78,
-      "job_type": "goal",
+      "fit": 70,
+      "job_type": "bridge",
       "subdomain": "content-creation",
       "function": "education",
       "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
-        "goal_alignment": 0.273,
+        "goal_alignment": 0.0,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.7,
         "experience_alignment": 0.25,
@@ -442,31 +409,31 @@
       },
       "eligible": true,
       "eligibility_reason": "Leadership initiative, no age restriction."
-    }
-  ],
-  "aspirational": [
+    },
     {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 65,
-      "job_type": "goal",
-      "subdomain": "content-creation",
+      "title": "Youth Instructor & Program Support Specialist",
+      "company": "super-soccer-stars",
+      "url": "https://apply.workable.com/j/D82C956AFF",
+      "fit": 68,
+      "job_type": "bridge",
+      "subdomain": "marketing-creative",
       "function": "education",
       "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
-        "goal_alignment": 0.455,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.375,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.778,
+        "subdomain_alignment": 0.294,
+        "experience_alignment": 0.25,
         "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "skill_overlap": 0.1,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
-    },
+      "eligibility_reason": "Youth instructor, no age restrictions."
+    }
+  ],
+  "aspirational": [
     {
       "title": "Artist Management Intern, DreamWorks Animation, Fall 2026",
       "company": "NBCUniversal3",
@@ -490,17 +457,39 @@
       "eligibility_reason": "Internship, no age restriction."
     },
     {
+      "title": "Camp Counselor -DMV",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
+      "fit": 51,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "A arts media role that uses your archiving, collaboration, communication skills.",
+      "gaps": "organization, social-media, coordination",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.375,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Camp counselor, no age restriction."
+    },
+    {
       "title": "2024-2025 Sports Photography Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 54,
+      "fit": 50,
       "job_type": "bridge",
       "subdomain": "photo-video",
       "function": "arts-media",
       "why": "A arts media role that uses your archiving, collaboration, communication skills.",
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
-        "goal_alignment": 0.182,
+        "goal_alignment": 0.0,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.278,
         "experience_alignment": 0.25,
@@ -517,16 +506,14 @@
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
-      "arts-media",
-      "education"
+      "arts-media"
     ],
     "goal_roles": [
       "archivist",
-      "museum educator"
+      "museum curator"
     ],
     "goal_subdomains": [
-      "content-creation",
-      "community-education"
+      "content-creation"
     ],
     "study_domains": [
       "education"
@@ -589,8 +576,8 @@
   ],
   "lane_used": "rescue",
   "job_cluster": [
-    "marketing-creative",
     "content-creation",
+    "marketing-creative",
     "content-creation",
     "content-creation",
     "photo-video"
@@ -604,22 +591,20 @@
       "chosen_subdomain": "content-creation",
       "secondary_function": "education",
       "goal_domains": [
-        "arts-media",
-        "education"
+        "arts-media"
       ],
       "study_domains": [
         "education"
       ],
       "goal_subdomains": [
-        "content-creation",
-        "community-education"
+        "content-creation"
       ],
       "study_subdomains": [
         "higher-ed-support"
       ],
       "goal_roles": [
         "archivist",
-        "museum educator"
+        "museum curator"
       ],
       "confidence": 0.7,
       "evidence_spans": [
@@ -633,8 +618,8 @@
         }
       ],
       "reason_codes": [
-        "explicit goal",
-        "work experience in archives and content creation"
+        "explicit goal in summary",
+        "relevant internship experience"
       ],
       "review_reasons": []
     },
@@ -730,7 +715,7 @@
       "implicit_skills": [
         {
           "skill": "customer service",
-          "reason": "Experience as barista and point of contact implies customer service skills.",
+          "reason": "Experience as barista and advisor implies customer service skills.",
           "confidence": "medium"
         },
         {
@@ -740,7 +725,7 @@
         },
         {
           "skill": "attention to detail",
-          "reason": "Archival work and organizational development require attention to detail.",
+          "reason": "Archival work and organizational skills require attention to detail.",
           "confidence": "medium"
         }
       ],

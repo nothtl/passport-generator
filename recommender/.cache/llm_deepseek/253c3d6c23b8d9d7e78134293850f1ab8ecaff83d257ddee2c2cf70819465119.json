@@ -4,7 +4,7 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Experience as barista and point of contact implies customer service skills.",
+      "reason": "Experience as barista and advisor implies customer service skills.",
       "skill": "customer service"
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "confidence": "medium",
-      "reason": "Archival work and organizational development require attention to detail.",
+      "reason": "Archival work and organizational skills require attention to detail.",
       "skill": "attention to detail"
     }
   ],

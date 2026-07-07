@@ -1,29 +1,33 @@
 {
   "resume": "=== aylin_calderon_resume.pdf ===\nAylin Calderon\n\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com\n\nEDUCATION\n\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n\nWork Experience\nLittle Pulp Arts Center, Glendale, NY\n\nIntern\n\n- Helped children learn to paint\n- Cleaned exhibits\n- Painted posters\n\nBabysitter & Pet Sitter:\n-cooked meals\n-played games with the children\n-Supervised children\n-fed and took care of their cat\n\nEXTRACURRICULAR ACTIVITIES\nFlushing International High School Dance lessons\n\nSKILLS\n\n- Goodteamplayer\n- Abilitytomultitaskandcompleteprojectsontime\n- Abilitytolearnquickly\n-    Bilingual:SpanishandEnglish\n- Typingskills\n\nHOBBIES & INTERESTS\n\n- Playingsoccer\n- Graphicdesigning\n- Videogaming\n\nSpring 2022\n\nSummer 2020",
   "function": "arts-media",
-  "confidence": 63,
+  "confidence": 61,
   "skills": [
     "Instructing",
-    "Customer and Personal Service",
     "Fine Arts",
+    "Customer and Personal Service",
     "Service Orientation",
-    "Monitoring",
     "Coordination",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
+    "Social Perceptiveness",
     "Foreign Language",
+    "Food Production",
+    "Monitoring",
     "bilingual"
   ],
   "verified_skills": [
     "Instructing",
-    "Customer and Personal Service",
     "Fine Arts",
+    "Customer and Personal Service",
     "Service Orientation",
-    "Monitoring",
     "Coordination",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
+    "Social Perceptiveness",
     "Foreign Language",
+    "Food Production",
+    "Monitoring",
     "bilingual"
   ],
   "possible_skills": [],
@@ -43,73 +47,77 @@
   "skill_weights": {},
   "market_relevant": [
     "Instructing",
-    "Customer and Personal Service",
     "Fine Arts",
+    "Customer and Personal Service",
     "Service Orientation",
-    "Monitoring",
     "Coordination",
     "Time Management",
-    "Active Learning",
+    "Active Listening",
+    "Social Perceptiveness",
     "Foreign Language",
+    "Food Production",
+    "Monitoring",
     "bilingual"
   ],
   "inferred": [
-    "Communication",
     "Multitasking",
-    "Adaptability"
+    "Responsibility",
+    "Creativity"
   ],
   "implicit_skills": [
     {
-      "skill": "Communication",
-      "reason": "Instructing and bilingual imply strong communication skills.",
-      "confidence": "medium"
-    },
-    {
       "skill": "Multitasking",
-      "reason": "Coordination and time management suggest ability to handle multiple tasks.",
+      "reason": "Managing care, meals, and activities for children or pets implies multitasking.",
       "confidence": "medium"
     },
     {
-      "skill": "Adaptability",
-      "reason": "Experience with diverse activities like dance, games, and care indicates flexibility.",
+      "skill": "Responsibility",
+      "reason": "Babysitting or pet sitting requires reliability and responsibility.",
+      "confidence": "medium"
+    },
+    {
+      "skill": "Creativity",
+      "reason": "Engaging children in games, dance, and paint suggests creative activity planning.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "logistics"
+    "logistics",
+    "communication",
+    "customer-service"
   ],
   "core_gaps": [
-    "logistics"
+    "logistics",
+    "communication",
+    "customer-service"
   ],
-  "bridge_gaps": [],
-  "stretch_gaps": [
-    "active-listening",
-    "administrative-support",
+  "bridge_gaps": [
+    "active-learning",
+    "afterschool-programming",
     "band-or-ensemble-support",
     "basic-skills",
     "budget-management",
     "budgeting",
     "bulletin-board-design",
-    "calendar-management",
-    "camp-operations",
-    "classroom-management"
+    "camp-activities",
+    "camp-counselor",
+    "check-in-check-out"
   ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
-    "active-listening",
-    "administrative-support",
+    "active-learning",
+    "afterschool-programming",
     "band-or-ensemble-support",
     "basic-skills",
     "budget-management",
     "budgeting",
     "bulletin-board-design",
-    "calendar-management",
-    "camp-operations",
-    "classroom-management"
+    "camp-activities",
+    "camp-counselor",
+    "check-in-check-out"
   ],
-  "verify_gaps": [
-    "communication"
-  ],
+  "verify_gaps": [],
   "related": [
     {
       "skill": "audiovisual",
@@ -208,29 +216,29 @@
       "pct": 6
     },
     {
-      "function": "design",
+      "function": "technology",
       "pct": 6
     },
     {
-      "function": "technology",
-      "pct": 6
+      "function": "skilled-trade",
+      "pct": 5
     }
   ],
-  "coach_notes": "For a arts-media path, focus first on logistics. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a arts-media path, focus first on logistics, communication, customer-service. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Music Teacher Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4187915",
-      "fit": 88,
-      "job_type": "goal",
+      "fit": 63,
+      "job_type": "bridge",
       "subdomain": "graphic-design",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.667,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.1,
         "attainability": 0.65,
@@ -239,86 +247,43 @@
       },
       "eligible": true,
       "eligibility_reason": "Music teacher intern role is suitable for 16-20 year olds.",
-      "bridge": "As a Music Teacher Intern, you're already building transferable skills like communication, coordination, and time management—essential for content creation and media work. Your experience in lesson-planning and student-assessment hones your ability to structure projects and evaluate outcomes, directly applicable to planning photo shoots or editing workflows."
-    },
-    {
-      "title": "Artist Management Intern, DreamWorks Animation, Fall 2026",
-      "company": "NBCUniversal3",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000133438250",
-      "fit": 79,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.65,
-        "skill_overlap": 0.286,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Internship, no age restriction."
-    },
-    {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 56,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.3,
-        "attainability": 0.75,
-        "skill_overlap": 0.083,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
+      "bridge": "As a Music Teacher Intern, you'll sharpen communication, coordination, and time management—skills that directly translate to managing content calendars, collaborating with clients, and orchestrating photo shoots. Plus, the lesson-planning and student-assessment experience hones your ability to structure creative projects and evaluate audience engagement, key for a Content Creator or Media Professional."
     },
     {
       "title": "Teacher Assistant",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1961384",
-      "fit": 56,
-      "job_type": "goal",
-      "subdomain": "content-creation",
+      "fit": 52,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.333,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.294,
+        "skill_overlap": 0.353,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Teacher assistant role, no age restriction."
+      "eligibility_reason": "Teacher assistant role, no age restriction.",
+      "bridge": "Your role as a Teacher Assistant hones active listening, critical thinking, and monitoring skills, which are directly transferable to content creation and photography—helping you understand audience needs, refine your creative vision, and manage projects effectively."
     },
     {
       "title": "Event Coordinator",
       "company": "AlphabeInsightInc",
       "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000060193331",
       "fit": 50,
-      "job_type": "goal",
+      "job_type": "bridge",
       "subdomain": "graphic-design",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.5,
         "experience_alignment": 0.0,
@@ -328,6 +293,50 @@
       },
       "eligible": true,
       "eligibility_reason": "Event coordinator, no age restrictions."
+    },
+    {
+      "title": "August Execs Madrichim 2026",
+      "company": "bbyo",
+      "url": "https://bbyo.org/about/careers/career-details/?gh_jid=7927373",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Madrichim (counselor) role is suitable for 16-20 year olds."
+    },
+    {
+      "title": "Substitute Summer Camp Counselor, Southern California ",
+      "company": "GalileoLearning",
+      "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000118696597",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Summer camp counselor role is suitable for 16-20 year olds."
     }
   ],
   "ready_now": [
@@ -335,15 +344,15 @@
       "title": "Music Teacher Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4187915",
-      "fit": 88,
-      "job_type": "goal",
+      "fit": 63,
+      "job_type": "bridge",
       "subdomain": "graphic-design",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.667,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.1,
         "attainability": 0.65,
@@ -352,88 +361,45 @@
       },
       "eligible": true,
       "eligibility_reason": "Music teacher intern role is suitable for 16-20 year olds.",
-      "bridge": "As a Music Teacher Intern, you're already building transferable skills like communication, coordination, and time management—essential for content creation and media work. Your experience in lesson-planning and student-assessment hones your ability to structure projects and evaluate outcomes, directly applicable to planning photo shoots or editing workflows."
-    },
-    {
-      "title": "Artist Management Intern, DreamWorks Animation, Fall 2026",
-      "company": "NBCUniversal3",
-      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000133438250",
-      "fit": 79,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "arts-media",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.65,
-        "skill_overlap": 0.286,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Internship, no age restriction."
-    }
-  ],
-  "aspirational": [
-    {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 56,
-      "job_type": "goal",
-      "subdomain": "content-creation",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.3,
-        "attainability": 0.75,
-        "skill_overlap": 0.083,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
+      "bridge": "As a Music Teacher Intern, you'll sharpen communication, coordination, and time management—skills that directly translate to managing content calendars, collaborating with clients, and orchestrating photo shoots. Plus, the lesson-planning and student-assessment experience hones your ability to structure creative projects and evaluate audience engagement, key for a Content Creator or Media Professional."
     },
     {
       "title": "Teacher Assistant",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1961384",
-      "fit": 56,
-      "job_type": "goal",
-      "subdomain": "content-creation",
+      "fit": 52,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.333,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.5,
         "attainability": 0.75,
-        "skill_overlap": 0.294,
+        "skill_overlap": 0.353,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Teacher assistant role, no age restriction."
-    },
+      "eligibility_reason": "Teacher assistant role, no age restriction.",
+      "bridge": "Your role as a Teacher Assistant hones active listening, critical thinking, and monitoring skills, which are directly transferable to content creation and photography—helping you understand audience needs, refine your creative vision, and manage projects effectively."
+    }
+  ],
+  "aspirational": [
     {
       "title": "Event Coordinator",
       "company": "AlphabeInsightInc",
       "url": "https://jobs.smartrecruiters.com/AlphabeInsightInc/744000060193331",
       "fit": 50,
-      "job_type": "goal",
+      "job_type": "bridge",
       "subdomain": "graphic-design",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.5,
         "experience_alignment": 0.0,
@@ -443,19 +409,63 @@
       },
       "eligible": true,
       "eligibility_reason": "Event coordinator, no age restrictions."
+    },
+    {
+      "title": "August Execs Madrichim 2026",
+      "company": "bbyo",
+      "url": "https://bbyo.org/about/careers/career-details/?gh_jid=7927373",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Madrichim (counselor) role is suitable for 16-20 year olds."
+    },
+    {
+      "title": "Substitute Summer Camp Counselor, Southern California ",
+      "company": "GalileoLearning",
+      "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000118696597",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "education",
+      "why": "This role builds your Instructing, Fine Arts, Customer and Personal Service skills and moves you toward becoming a Content Creator.",
+      "gaps": "logistics, communication, customer-service",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Summer camp counselor role is suitable for 16-20 year olds."
     }
   ],
-  "skill_path": "You already have a strong foundation in communication, creativity, and coordination. By building logistics and administrative skills, you'll be well-equipped to thrive as a Content Creator, Photographer, or Media Professional. Keep learning and stay adaptable!",
+  "skill_path": "You already have a strong foundation in creativity, communication, and coordination. By building bridge skills like active learning and logistics, you'll be ready to launch into content creation, photography, or media professional roles. Keep creating and connecting—your dream career is within reach!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Instructing\n├── Customer and Personal Service\n├── Fine Arts\n├── Service Orientation\n├── Monitoring\n├── Coordination\n├── Time Management\n├── Active Learning\n├── Foreign Language (bilingual)\n├── Communication (implicit)\n├── Multitasking (implicit)\n└── Adaptability (implicit)\n    ↓\nBRIDGE SKILLS (developing)\n├── Logistics\n    ↓\nGOAL SKILLS (stretch)\n├── Active Listening\n├── Administrative Support\n├── Band or Ensemble Support\n├── Basic Skills\n└── Budget Management\n    ↓\nDREAM CAREER\n├── Content Creator\n├── Photographer\n└── Media Professional",
+    "tree": "CURRENT SKILLS\n├── Instructing\n├── Fine Arts\n├── Customer and Personal Service\n├── Service Orientation\n├── Coordination\n├── Time Management\n├── Active Listening\n├── Social Perceptiveness\n├── Foreign Language\n├── Food Production\n├── Multitasking (implicit)\n├── Responsibility (implicit)\n└── Creativity (implicit)\n    ↓\nBRIDGE SKILLS\n├── Active Learning\n├── Afterschool Programming\n├── Band or Ensemble Support\n├── Basic Skills\n├── Budget Management\n├── Logistics (core missing)\n├── Communication (core missing)\n└── Customer Service (core missing)\n    ↓\nGOAL SKILLS\n├── Content Creation\n├── Photography\n├── Media Production\n└── Media Professional\n    ↓\nDREAM CAREERS\n├── Content Creator\n├── Photographer\n└── Media Professional",
     "steps": [
-      "Enroll in a logistics fundamentals course (e.g., Coursera's Supply Chain Logistics) to build core missing skill.",
-      "Practice active listening in daily conversations and take a free online workshop (e.g., Coursera's Active Listening).",
-      "Volunteer for administrative support roles in a local media or arts organization to gain hands-on experience.",
-      "Join a community band or ensemble to develop band/ensemble support skills and network.",
-      "Take a free budgeting course (e.g., Khan Academy's Personal Finance) and apply it to a small project."
+      "Take a free online course in digital photography basics (e.g., Coursera's 'Photography Basics and Beyond')",
+      "Volunteer to create social media content for a local nonprofit to practice content creation and communication",
+      "Enroll in a community college course on media production or video editing",
+      "Seek a part-time role in customer service at a media company to build customer-service and logistics skills",
+      "Join a local photography club or ensemble to develop active learning and collaboration skills"
     ],
-    "summary": "You already have a strong foundation in communication, creativity, and coordination. By building logistics and administrative skills, you'll be well-equipped to thrive as a Content Creator, Photographer, or Media Professional. Keep learning and stay adaptable!"
+    "summary": "You already have a strong foundation in creativity, communication, and coordination. By building bridge skills like active learning and logistics, you'll be ready to launch into content creation, photography, or media professional roles. Keep creating and connecting—your dream career is within reach!"
   },
   "ideal_careers": [
     "Content Creator",
@@ -467,35 +477,33 @@
       "arts-media"
     ],
     "goal_roles": [
-      "Content Creator",
-      "Photographer",
-      "Media Professional"
+      "graphic designer"
     ],
     "goal_subdomains": [
-      "content-creation"
+      "graphic-design"
     ],
     "study_domains": [
-      "education"
+      "arts-media"
     ],
     "study_subdomains": [
       "graphic-design"
     ],
     "study_program": "- TheFlushingInternationalHighSchool,Queens,NY",
     "study_level": "",
-    "intent_confidence": 0.317,
-    "intent_strength": 0.517,
+    "intent_confidence": 0.283,
+    "intent_strength": 0.483,
     "has_student_intent": true
   },
   "intent_summary": {
     "headline": "",
-    "summary_text": "Ideal careers: Content Creator, Photographer, Media Professional\n=== aylin_calderon_resume.pdf ===\nAylin Calderon\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com",
+    "summary_text": "Gain skills I can use at a future jobGet coaches and mentors who can help me with college and career, \nGain skills I can use at a future job, \nLearn about collegesLearn about colleges; Gain skills I can use at a future jobGet coaches and mentors who can help me with college and c",
     "study_text": "- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023"
   },
   "signal_breakdown": {
     "aspiration": {
-      "arts-media": 32,
-      "design": 13,
-      "finance": 10
+      "arts-media": 24,
+      "finance": 12,
+      "personal-care": 10
     },
     "study": {
       "finance": 28,
@@ -527,17 +535,15 @@
     "arts-media",
     "education"
   ],
-  "subdomain": "content-creation",
-  "subdomain_confidence": 0.75,
-  "subdomain_alternatives": [
-    "graphic-design"
-  ],
+  "subdomain": "graphic-design",
+  "subdomain_confidence": 1.0,
+  "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
     "graphic-design",
-    "content-creation",
-    "content-creation",
-    "content-creation",
+    "graphic-design",
+    "graphic-design",
+    "graphic-design",
     "graphic-design"
   ],
   "needs_review": true,
@@ -546,42 +552,37 @@
     "route": {
       "accepted": true,
       "chosen_function": "arts-media",
-      "chosen_subdomain": "content-creation",
+      "chosen_subdomain": "graphic-design",
       "secondary_function": "education",
       "goal_domains": [
         "arts-media"
       ],
       "study_domains": [
-        "education"
+        "arts-media"
       ],
       "goal_subdomains": [
-        "content-creation"
+        "graphic-design"
       ],
-      "study_subdomains": [],
+      "study_subdomains": [
+        "graphic-design"
+      ],
       "goal_roles": [
-        "Content Creator",
-        "Photographer",
-        "Media Professional"
+        "graphic designer"
       ],
       "confidence": 0.65,
       "evidence_spans": [
-        {
-          "section": "summary",
-          "text": "Ideal careers: Content Creator, Photographer, Media Professional"
-        },
         {
           "section": "experience",
           "text": "Little Pulp Arts Center, Glendale, NY Intern - Helped children learn to paint - Cleaned exhibits - Painted posters"
         },
         {
           "section": "skills",
-          "text": "HOBBIES & INTERESTS - Playingsoccer - Graphicdesigning - Videogaming"
+          "text": "HOBBIES & INTERESTS - Playing soccer - Graphicdesigning - Videogaming"
         }
       ],
       "reason_codes": [
-        "explicit goal",
-        "experience in arts",
-        "education not strongly aligned"
+        "explicit interest in graphic design",
+        "arts internship experience"
       ],
       "review_reasons": []
     },
@@ -589,26 +590,30 @@
       "accepted": true,
       "scored_skills": [
         "Instructing",
-        "Customer and Personal Service",
         "Fine Arts",
+        "Customer and Personal Service",
         "Service Orientation",
-        "Monitoring",
         "Coordination",
         "Time Management",
-        "Active Learning",
+        "Active Listening",
+        "Social Perceptiveness",
         "Foreign Language",
+        "Food Production",
+        "Monitoring",
         "bilingual"
       ],
       "verified_skills": [
         "Instructing",
-        "Customer and Personal Service",
         "Fine Arts",
+        "Customer and Personal Service",
         "Service Orientation",
-        "Monitoring",
         "Coordination",
         "Time Management",
-        "Active Learning",
+        "Active Listening",
+        "Social Perceptiveness",
         "Foreign Language",
+        "Food Production",
+        "Monitoring",
         "bilingual"
       ],
       "possible_skills": [],
@@ -627,18 +632,18 @@
       ],
       "implicit_skills": [
         {
-          "skill": "Communication",
-          "reason": "Instructing and bilingual imply strong communication skills.",
-          "confidence": "medium"
-        },
-        {
           "skill": "Multitasking",
-          "reason": "Coordination and time management suggest ability to handle multiple tasks.",
+          "reason": "Managing care, meals, and activities for children or pets implies multitasking.",
           "confidence": "medium"
         },
         {
-          "skill": "Adaptability",
-          "reason": "Experience with diverse activities like dance, games, and care indicates flexibility.",
+          "skill": "Responsibility",
+          "reason": "Babysitting or pet sitting requires reliability and responsibility.",
+          "confidence": "medium"
+        },
+        {
+          "skill": "Creativity",
+          "reason": "Engaging children in games, dance, and paint suggests creative activity planning.",
           "confidence": "medium"
         }
       ],

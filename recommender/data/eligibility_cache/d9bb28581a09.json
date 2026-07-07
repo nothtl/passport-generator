@@ -1,0 +1,10 @@
+{
+  "Front Office Administrator|||mpsw": {
+    "eligible": true,
+    "reason": "Front office admin role is suitable for 16-20 year olds."
+  },
+  "Delivery Driver|||serviceprosautoglassllc": {
+    "eligible": true,
+    "reason": "Delivery driver role is suitable for 16-20 year olds if they have a valid driver's license."
+  }
+}

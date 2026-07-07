@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Experience with customers and ordering implies customer service skills.",
+      "reason": "Experience with customers and ordering suggests customer service skills.",
       "skill": "customer service"
     },
     {
       "confidence": "medium",
-      "reason": "Experience with stock and ordering suggests inventory management.",
-      "skill": "inventory management"
+      "reason": "Organizing, planning, and leadership imply project management ability.",
+      "skill": "project management"
     },
     {
       "confidence": "medium",
-      "reason": "Multilingual skills and translator role indicate bilingual communication ability.",
+      "reason": "Multilingual and translator roles indicate bilingual communication skills.",
       "skill": "bilingual communication"
     }
   ],

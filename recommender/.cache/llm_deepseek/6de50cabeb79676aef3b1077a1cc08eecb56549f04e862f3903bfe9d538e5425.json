@@ -4,18 +4,18 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Mentioned 'native spanish' and 'spanish' in education context",
+      "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
       "skill": "Bilingual (Spanish)"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'community events' and 'volunteering'",
+      "reason": "Mentioned 'community events' and 'organized' suggests event coordination.",
       "skill": "Event Planning"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'quick learner' and 'physically active'",
-      "skill": "Adaptability"
+      "reason": "Mentioned 'team leadership' and 'student athlete' implies collaboration.",
+      "skill": "Teamwork"
     }
   ],
   "possible_skills": [],
@@ -26,7 +26,6 @@
     "career paths",
     "community events",
     "ecp",
-    "engagement",
     "engaging",
     "flag football",
     "football",
@@ -36,26 +35,25 @@
     "hours",
     "junior",
     "languages",
+    "leadership skills",
     "learner",
-    "media",
     "name",
     "native spanish",
     "non profit",
     "non profit organization",
     "organization",
-    "organized",
     "part",
     "passionate",
     "physically active",
     "professionals",
     "quick learner",
     "schools",
-    "social",
     "spanish",
-    "speaking",
     "sports",
     "student athlete",
+    "team leadership",
     "u s citizen",
+    "volunteering",
     "weekends"
   ],
   "review_reasons": [],
@@ -66,18 +64,23 @@
     "Social Perceptiveness",
     "Time Management",
     "Active Listening",
-    "Speaking",
     "Complex Problem Solving",
+    "Speaking",
     "Sales and Marketing",
+    "Management of Personnel Resources",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
+    "media",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
+    "social",
+    "social media",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "speaking"
   ],
   "verified_skills": [
     "Coordination",
@@ -86,17 +89,22 @@
     "Social Perceptiveness",
     "Time Management",
     "Active Listening",
-    "Speaking",
     "Complex Problem Solving",
+    "Speaking",
     "Sales and Marketing",
+    "Management of Personnel Resources",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
+    "media",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
+    "social",
+    "social media",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "speaking"
   ]
 }

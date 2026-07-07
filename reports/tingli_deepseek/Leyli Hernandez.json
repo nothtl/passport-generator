@@ -9,18 +9,23 @@
     "Social Perceptiveness",
     "Time Management",
     "Active Listening",
-    "Speaking",
     "Complex Problem Solving",
+    "Speaking",
     "Sales and Marketing",
+    "Management of Personnel Resources",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
+    "media",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
+    "social",
+    "social media",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "speaking"
   ],
   "verified_skills": [
     "Coordination",
@@ -29,18 +34,23 @@
     "Social Perceptiveness",
     "Time Management",
     "Active Listening",
-    "Speaking",
     "Complex Problem Solving",
+    "Speaking",
     "Sales and Marketing",
+    "Management of Personnel Resources",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
+    "media",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
+    "social",
+    "social media",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "speaking"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -50,7 +60,6 @@
     "career paths",
     "community events",
     "ecp",
-    "engagement",
     "engaging",
     "flag football",
     "football",
@@ -60,26 +69,25 @@
     "hours",
     "junior",
     "languages",
+    "leadership skills",
     "learner",
-    "media",
     "name",
     "native spanish",
     "non profit",
     "non profit organization",
     "organization",
-    "organized",
     "part",
     "passionate",
     "physically active",
     "professionals",
     "quick learner",
     "schools",
-    "social",
     "spanish",
-    "speaking",
     "sports",
     "student athlete",
+    "team leadership",
     "u s citizen",
+    "volunteering",
     "weekends"
   ],
   "skill_weights": {},
@@ -90,38 +98,43 @@
     "Social Perceptiveness",
     "Time Management",
     "Active Listening",
-    "Speaking",
     "Complex Problem Solving",
+    "Speaking",
     "Sales and Marketing",
+    "Management of Personnel Resources",
     "community engagement",
+    "engagement",
     "leadership",
     "management",
+    "media",
     "media management",
+    "organized",
     "problem solving",
     "public speaking",
+    "social",
+    "social media",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "speaking"
   ],
   "inferred": [
     "Bilingual (Spanish)",
     "Event Planning",
-    "Adaptability"
+    "Teamwork"
   ],
   "implicit_skills": [
     {
       "skill": "Bilingual (Spanish)",
-      "reason": "Mentioned 'native spanish' and 'spanish' in education context",
+      "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
       "confidence": "medium"
     },
     {
       "skill": "Event Planning",
-      "reason": "Mentioned 'community events' and 'volunteering'",
+      "reason": "Mentioned 'community events' and 'organized' suggests event coordination.",
       "confidence": "medium"
     },
     {
-      "skill": "Adaptability",
-      "reason": "Mentioned 'quick learner' and 'physically active'",
+      "skill": "Teamwork",
+      "reason": "Mentioned 'team leadership' and 'student athlete' implies collaboration.",
       "confidence": "medium"
     }
   ],
@@ -177,12 +190,20 @@
   ],
   "related": [
     {
+      "skill": "contentcreation",
+      "pmi": 5.21
+    },
+    {
       "skill": "privatelessons",
       "pmi": 3.4
     },
     {
       "skill": "budgeting",
       "pmi": 3.33
+    },
+    {
+      "skill": "eventplanning",
+      "pmi": 3.23
     },
     {
       "skill": "inwaterskillsassessment",
@@ -197,34 +218,34 @@
       "pmi": 2.98
     },
     {
+      "skill": "safetyprotocols",
+      "pmi": 2.94
+    },
+    {
       "skill": "mentorship",
       "pmi": 2.92
     },
     {
       "skill": "communityoutreach",
       "pmi": 2.86
-    },
-    {
-      "skill": "physics",
-      "pmi": 2.82
-    },
-    {
-      "skill": "remoteteaching",
-      "pmi": 2.82
-    },
-    {
-      "skill": "flexibility",
-      "pmi": 2.8
     }
   ],
   "related_skills": [
     {
+      "skill": "contentcreation",
+      "pmi": 5.21
+    },
+    {
       "skill": "privatelessons",
       "pmi": 3.4
     },
     {
       "skill": "budgeting",
       "pmi": 3.33
+    },
+    {
+      "skill": "eventplanning",
+      "pmi": 3.23
     },
     {
       "skill": "inwaterskillsassessment",
@@ -239,24 +260,16 @@
       "pmi": 2.98
     },
     {
+      "skill": "safetyprotocols",
+      "pmi": 2.94
+    },
+    {
       "skill": "mentorship",
       "pmi": 2.92
     },
     {
       "skill": "communityoutreach",
       "pmi": 2.86
-    },
-    {
-      "skill": "physics",
-      "pmi": 2.82
-    },
-    {
-      "skill": "remoteteaching",
-      "pmi": 2.82
-    },
-    {
-      "skill": "flexibility",
-      "pmi": 2.8
     }
   ],
   "alternatives": [
@@ -508,17 +521,17 @@
       "eligibility_reason": "Madrichim staff, typical for teens."
     }
   ],
-  "skill_path": "You already have a strong foundation in communication and community engagement. By building your knowledge in customer service, education, and history, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate.",
+  "skill_path": "You already have a strong foundation in coordination, communication, and social perceptiveness. By building bridge skills like coaching and education, and then adding customer service and budgeting, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate.",
   "skill_tree": {
-    "tree": "Social Service Career Path\n├── Current Skills\n│   ├── Coordination\n│   ├── Communications & Media\n│   ├── Customer & Personal Service\n│   ├── Social Perceptiveness\n│   ├── Time Management\n│   ├── Active Listening\n│   ├── Speaking\n│   ├── Complex Problem Solving\n│   ├── Sales & Marketing\n│   └── Community Engagement\n├── Implicit Skills\n│   ├── Bilingual (Spanish)\n│   ├── Event Planning\n│   └── Adaptability\n├── Bridge Skills (Developing)\n│   ├── Archaeology\n│   ├── Coaching\n│   ├── Communication\n│   ├── English\n│   └── Gardens\n├── Core Missing Skills (Needed Now)\n│   ├── Customer Service\n│   ├── Education\n│   └── History\n├── Stretch Skills (Future)\n│   ├── Budgeting\n│   ├── Camp Operations\n│   ├── Classroom Support\n│   ├── Curriculum Planning\n│   └── Event Participation\n└── Dream Careers\n    ├── Social Worker\n    ├── Community Organizer\n    └── Youth Advocate",
+    "tree": "CURRENT SKILLS\n├── Coordination\n├── Communications and Media\n├── Customer and Personal Service\n├── Social Perceptiveness\n├── Time Management\n├── Active Listening\n├── Complex Problem Solving\n├── Speaking\n├── Sales and Marketing\n├── Management of Personnel Resources\n├── Bilingual (Spanish)\n├── Event Planning\n└── Teamwork\n    ↓\nBRIDGE SKILLS\n├── Coaching\n├── Communication\n├── English\n├── Gardens\n└── Archaeology\n    ↓\nGOAL SKILLS\n├── Customer Service\n├── Education\n├── History\n├── Budgeting\n├── Camp Operations\n├── Classroom Support\n├── Curriculum Planning\n└── Event Participation\n    ↓\nDREAM CAREERS\n├── Social Worker\n├── Community Organizer\n└── Youth Advocate",
     "steps": [
-      "Take a free online course in customer service to strengthen your people skills.",
-      "Enroll in an introductory education course (e.g., Coursera's Foundations of Teaching).",
-      "Study history through a local community college class or free resources like Khan Academy.",
-      "Volunteer with a community garden or youth program to apply gardening and coaching skills.",
-      "Attend a workshop on budgeting and event planning to prepare for stretch roles."
+      "Take a free online course in Customer Service to strengthen your people skills.",
+      "Volunteer as a tutor or mentor to gain Education and Coaching experience.",
+      "Study local History through community archives or online resources.",
+      "Enroll in a Budgeting workshop or use free tools like Mint to practice.",
+      "Seek an internship in a youth program or community organization to apply all skills."
     ],
-    "summary": "You already have a strong foundation in communication and community engagement. By building your knowledge in customer service, education, and history, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate."
+    "summary": "You already have a strong foundation in coordination, communication, and social perceptiveness. By building bridge skills like coaching and education, and then adding customer service and budgeting, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate."
   },
   "ideal_careers": [
     "Social Worker",
@@ -535,7 +548,8 @@
       "Youth Advocate"
     ],
     "goal_subdomains": [
-      "youth-support"
+      "youth-support",
+      "community-support"
     ],
     "study_domains": [
       "education"
@@ -612,7 +626,8 @@
         "education"
       ],
       "goal_subdomains": [
-        "youth-support"
+        "youth-support",
+        "community-support"
       ],
       "study_subdomains": [],
       "goal_roles": [
@@ -624,7 +639,7 @@
       "evidence_spans": [
         {
           "section": "summary",
-          "text": "I am very passionate about helping my community in any way, anytime."
+          "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
         },
         {
           "section": "summary",
@@ -651,18 +666,23 @@
         "Social Perceptiveness",
         "Time Management",
         "Active Listening",
-        "Speaking",
         "Complex Problem Solving",
+        "Speaking",
         "Sales and Marketing",
+        "Management of Personnel Resources",
         "community engagement",
+        "engagement",
         "leadership",
         "management",
+        "media",
         "media management",
+        "organized",
         "problem solving",
         "public speaking",
+        "social",
+        "social media",
         "social media management",
-        "team leadership",
-        "volunteering"
+        "speaking"
       ],
       "verified_skills": [
         "Coordination",
@@ -671,18 +691,23 @@
         "Social Perceptiveness",
         "Time Management",
         "Active Listening",
-        "Speaking",
         "Complex Problem Solving",
+        "Speaking",
         "Sales and Marketing",
+        "Management of Personnel Resources",
         "community engagement",
+        "engagement",
         "leadership",
         "management",
+        "media",
         "media management",
+        "organized",
         "problem solving",
         "public speaking",
+        "social",
+        "social media",
         "social media management",
-        "team leadership",
-        "volunteering"
+        "speaking"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -692,7 +717,6 @@
         "career paths",
         "community events",
         "ecp",
-        "engagement",
         "engaging",
         "flag football",
         "football",
@@ -702,42 +726,41 @@
         "hours",
         "junior",
         "languages",
+        "leadership skills",
         "learner",
-        "media",
         "name",
         "native spanish",
         "non profit",
         "non profit organization",
         "organization",
-        "organized",
         "part",
         "passionate",
         "physically active",
         "professionals",
         "quick learner",
         "schools",
-        "social",
         "spanish",
-        "speaking",
         "sports",
         "student athlete",
+        "team leadership",
         "u s citizen",
+        "volunteering",
         "weekends"
       ],
       "implicit_skills": [
         {
           "skill": "Bilingual (Spanish)",
-          "reason": "Mentioned 'native spanish' and 'spanish' in education context",
+          "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
           "confidence": "medium"
         },
         {
           "skill": "Event Planning",
-          "reason": "Mentioned 'community events' and 'volunteering'",
+          "reason": "Mentioned 'community events' and 'organized' suggests event coordination.",
           "confidence": "medium"
         },
         {
-          "skill": "Adaptability",
-          "reason": "Mentioned 'quick learner' and 'physically active'",
+          "skill": "Teamwork",
+          "reason": "Mentioned 'team leadership' and 'student athlete' implies collaboration.",
           "confidence": "medium"
         }
       ],

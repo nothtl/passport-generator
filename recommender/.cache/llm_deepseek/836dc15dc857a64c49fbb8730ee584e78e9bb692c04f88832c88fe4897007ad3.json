@@ -14,20 +14,18 @@
     }
   ],
   "goal_domains": [
-    "arts-media",
-    "education"
+    "arts-media"
   ],
   "goal_roles": [
     "archivist",
-    "museum educator"
+    "museum curator"
   ],
   "goal_subdomains": [
-    "content-creation",
-    "community-education"
+    "content-creation"
   ],
   "reason_codes": [
-    "explicit goal",
-    "work experience in archives and content creation"
+    "explicit goal in summary",
+    "relevant internship experience"
   ],
   "review_reasons": [],
   "secondary_function": "education",

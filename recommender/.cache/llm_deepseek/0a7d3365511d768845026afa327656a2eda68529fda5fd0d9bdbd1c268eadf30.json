@@ -11,13 +11,17 @@
     {
       "section": "experience",
       "text": "Created a web application using HTML and JavaScript to display local recycling centers."
+    },
+    {
+      "section": "education",
+      "text": "Bachelor of Science, Software Engineering | Anticipated May 2027"
     }
   ],
   "goal_domains": [
     "technology"
   ],
   "goal_roles": [
-    "Software Engineer"
+    "software engineer"
   ],
   "goal_subdomains": [
     "software"
@@ -25,7 +29,7 @@
   "reason_codes": [
     "explicit_goal",
     "strong_experience",
-    "education_aligned"
+    "education_major"
   ],
   "review_reasons": [],
   "secondary_function": "design",

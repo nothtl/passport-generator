@@ -96,6 +96,48 @@ def _derive_ideal_careers(old_result: dict, headline: str) -> list[str]:
     return careers[:3]
 
 
+def _extract_survey_data(student_name: str) -> dict:
+    """Extract career-intent fields from agent1 raw_data JSON."""
+    slug = _normalize_name(student_name)
+    agent1_dir = ROOT / "Passport_Agent_Actual_Test" / "Passport_Agent_Actual" / "agent1" / "outputs"
+    raw_path = agent1_dir / f"{slug}_raw_data.json"
+    if not raw_path.exists():
+        # Try alternate slug format
+        for f in agent1_dir.glob("*.json"):
+            if _normalize_name(f.stem.replace("_raw_data", "")) == slug:
+                raw_path = f
+                break
+    if not raw_path.exists():
+        return {}
+
+    with open(raw_path, encoding="utf-8") as f:
+        data = json.load(f)
+    fields = data.get("fields", {})
+
+    result = {}
+    # Map survey fields to analyze() params
+    field_map = {
+        "SMART GOAL": "smart_goals_text",
+        "Hope to Gain": "hope_to_gain_text",
+        "What do you hope to gain by going through this program": "hope_to_gain_text",
+        "If you do not have a job, what is your ideal future career job": "ideal_career_text",
+        "What are three skills you have that will help you in your future career": "self_assessed_text",
+        "Languages": "languages_text",
+    }
+    for survey_key, param_key in field_map.items():
+        for fkey, fval in fields.items():
+            if survey_key.lower() in fkey.lower() and fval.get("status") == "found" and fval.get("value"):
+                val = str(fval["value"]).strip()
+                if val and val not in ("I don't know", "i don't know", "N/A", ""):
+                    if param_key in result:
+                        result[param_key] += "; " + val
+                    else:
+                        result[param_key] = val
+                    break
+
+    return result
+
+
 def _load_benchmarks() -> dict:
     if BENCHMARKS_PATH.exists():
         with open(BENCHMARKS_PATH, encoding="utf-8") as f:
@@ -179,6 +221,7 @@ def main():
         headline_text = _extract_headline(linkedin_text)
         study_text = _extract_study_text(linkedin_text, resume_text)
         ideal_careers = _derive_ideal_careers(old_result, headline_text)
+        survey = _extract_survey_data(name)
 
         t0 = time.time()
         try:
@@ -188,6 +231,10 @@ def main():
                 headline_text=headline_text,
                 study_text=study_text,
                 ideal_careers=ideal_careers,
+                career_goals_text=survey.get("hope_to_gain_text", ""),
+                smart_goals_text=survey.get("smart_goals_text", ""),
+                hope_to_gain_text=survey.get("hope_to_gain_text", ""),
+                ideal_career_text=survey.get("ideal_career_text", ""),
                 top_k=5,
                 lane_mode="hybrid",
                 llm_config=llm_config,

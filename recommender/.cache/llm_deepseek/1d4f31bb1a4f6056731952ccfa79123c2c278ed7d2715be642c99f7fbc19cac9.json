@@ -1,8 +1,8 @@
 {
   "accepted": true,
-  "chosen_function": "social-service",
-  "chosen_subdomain": "youth-support",
-  "confidence": 0.85,
+  "chosen_function": "education",
+  "chosen_subdomain": "youth-programs",
+  "confidence": 0.65,
   "evidence_spans": [
     {
       "section": "VOLUNTEER EXPERIENCE",
@@ -14,23 +14,26 @@
     }
   ],
   "goal_domains": [
+    "education",
     "social-service"
   ],
   "goal_roles": [
     "Youth Ministry Leader"
   ],
   "goal_subdomains": [
+    "youth-programs",
     "youth-support"
   ],
   "reason_codes": [
-    "explicit volunteer experience in youth mentoring and community outreach"
+    "volunteer experience in youth mentoring",
+    "no explicit career goals",
+    "education major",
+    "strong evidence in youth programs"
   ],
   "review_reasons": [],
-  "secondary_function": "education",
+  "secondary_function": "social-service",
   "study_domains": [
-    "social-service"
+    "education"
   ],
-  "study_subdomains": [
-    "youth-support"
-  ]
+  "study_subdomains": []
 }

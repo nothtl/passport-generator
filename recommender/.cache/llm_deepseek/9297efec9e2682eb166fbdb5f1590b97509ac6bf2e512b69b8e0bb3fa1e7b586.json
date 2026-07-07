@@ -1,0 +1,38 @@
+{
+  "accepted": true,
+  "chosen_function": "arts-media",
+  "chosen_subdomain": "content-creation",
+  "confidence": 0.65,
+  "evidence_spans": [
+    {
+      "section": "education",
+      "text": "During my internship, I enhanced proficiency in social media management and marketing strategies through practical application.Contributed to recording and refining sounds, demonstrating a commitment to audio production and development. Strengthened communication abilities by presenting end-of-summer projects encompassing sampling, tempo, beat, and album cover design."
+    },
+    {
+      "section": "skills",
+      "text": "While working as a counselor my duties included Supporting operations within the Arts and Theater Department by preparing necessary supplies and materials for camp activities."
+    }
+  ],
+  "goal_domains": [
+    "arts-media"
+  ],
+  "goal_roles": [
+    "Social Media Manager",
+    "Content Creator"
+  ],
+  "goal_subdomains": [
+    "content-creation"
+  ],
+  "reason_codes": [
+    "explicit_goal",
+    "work_experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "sales",
+  "study_domains": [
+    "arts-media"
+  ],
+  "study_subdomains": [
+    "content-creation"
+  ]
+}

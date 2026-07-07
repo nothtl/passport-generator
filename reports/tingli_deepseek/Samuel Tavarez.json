@@ -10,15 +10,14 @@
     "Speaking",
     "Foreign Language",
     "Instructing",
-    "Critical Thinking",
     "Active Listening",
     "Sales and Marketing",
+    "Critical Thinking",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -79,9 +78,7 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "spanish"
+    "investment banking"
   ],
   "verified_skills": [
     "Customer and Personal Service",
@@ -91,15 +88,14 @@
     "Speaking",
     "Foreign Language",
     "Instructing",
-    "Critical Thinking",
     "Active Listening",
     "Sales and Marketing",
+    "Critical Thinking",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -160,15 +156,14 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "spanish"
+    "investment banking"
   ],
   "possible_skills": [],
   "rejected_skills": [
     "act",
     "assignments",
-    "bachelor"
+    "bachelor",
+    "balancing"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -179,15 +174,14 @@
     "Speaking",
     "Foreign Language",
     "Instructing",
-    "Critical Thinking",
     "Active Listening",
     "Sales and Marketing",
+    "Critical Thinking",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
-    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -248,29 +242,27 @@
     "inventory management",
     "inventory tracking",
     "investment",
-    "investment banking",
-    "languages",
-    "spanish"
+    "investment banking"
   ],
   "inferred": [
     "Microsoft Office",
-    "Teamwork",
-    "Problem Solving"
+    "Data Analysis",
+    "Project Management"
   ],
   "implicit_skills": [
     {
       "skill": "Microsoft Office",
-      "reason": "Excel and Google Docs imply proficiency in office software.",
+      "reason": "Excel and Google Docs imply proficiency in office suites",
       "confidence": "medium"
     },
     {
-      "skill": "Teamwork",
-      "reason": "Collaborative and group leader indicate teamwork skills.",
+      "skill": "Data Analysis",
+      "reason": "Analytical skills and financial analysis suggest data analysis capability",
       "confidence": "medium"
     },
     {
-      "skill": "Problem Solving",
-      "reason": "Critical thinking and analytical skills imply problem-solving ability.",
+      "skill": "Project Management",
+      "reason": "Coordination, goal setting, and group leader indicate project management skills",
       "confidence": "medium"
     }
   ],
@@ -300,9 +292,9 @@
     "bank-reconciliations",
     "basic-accounting",
     "cost-accounting",
-    "data-analysis",
     "data-entry",
-    "dcf"
+    "dcf",
+    "due-diligence"
   ],
   "nice_to_have_gaps": [
     "accounting-principles",
@@ -312,15 +304,18 @@
     "bank-reconciliations",
     "basic-accounting",
     "cost-accounting",
-    "data-analysis",
     "data-entry",
-    "dcf"
+    "dcf",
+    "due-diligence"
   ],
-  "verify_gaps": [],
+  "verify_gaps": [
+    "data-analysis",
+    "project-management"
+  ],
   "related": [
     {
-      "skill": "standforlongperiods",
-      "pmi": 4.86
+      "skill": "spanish",
+      "pmi": 5.03
     },
     {
       "skill": "certifications",
@@ -335,18 +330,6 @@
       "pmi": 4.44
     },
     {
-      "skill": "depositprocessing",
-      "pmi": 4.19
-    },
-    {
-      "skill": "computerskills",
-      "pmi": 4.16
-    },
-    {
-      "skill": "english",
-      "pmi": 3.93
-    },
-    {
       "skill": "quicklearning",
       "pmi": 3.75
     },
@@ -357,12 +340,24 @@
     {
       "skill": "guestservice",
       "pmi": 3.75
+    },
+    {
+      "skill": "english",
+      "pmi": 3.56
+    },
+    {
+      "skill": "duediligence",
+      "pmi": 3.05
+    },
+    {
+      "skill": "economics",
+      "pmi": 2.89
     }
   ],
   "related_skills": [
     {
-      "skill": "standforlongperiods",
-      "pmi": 4.86
+      "skill": "spanish",
+      "pmi": 5.03
     },
     {
       "skill": "certifications",
@@ -377,18 +372,6 @@
       "pmi": 4.44
     },
     {
-      "skill": "depositprocessing",
-      "pmi": 4.19
-    },
-    {
-      "skill": "computerskills",
-      "pmi": 4.16
-    },
-    {
-      "skill": "english",
-      "pmi": 3.93
-    },
-    {
       "skill": "quicklearning",
       "pmi": 3.75
     },
@@ -399,6 +382,18 @@
     {
       "skill": "guestservice",
       "pmi": 3.75
+    },
+    {
+      "skill": "english",
+      "pmi": 3.56
+    },
+    {
+      "skill": "duediligence",
+      "pmi": 3.05
+    },
+    {
+      "skill": "economics",
+      "pmi": 2.89
     }
   ],
   "alternatives": [
@@ -650,17 +645,17 @@
       "eligibility_reason": "Finance and equity analyst, no age restriction."
     }
   ],
-  "skill_path": "You have a strong foundation in customer service, math, and critical thinking—perfect for finance. By building accounting, budgeting, and forecasting skills, you'll be well on your way to becoming a Financial Analyst or Accountant. Keep pushing forward!",
+  "skill_path": "You already have a strong foundation in customer service, math, and critical thinking. By adding accounting, budgeting, and forecasting skills, you'll be well on your way to a rewarding career as a Financial Analyst or Accountant.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Mathematics\n├── Administrative\n├── Coordination\n├── Speaking\n├── Foreign Language\n├── Instructing\n├── Critical Thinking\n├── Active Listening\n├── Sales and Marketing\n├── Microsoft Office\n├── Teamwork\n└── Problem Solving\n    ↓\nBRIDGE SKILLS\n├── Accounting\n├── Budgeting\n├── Economics\n├── Financial Reporting\n└── Forecasting\n    ↓\nGOAL SKILLS\n├── Accounting Principles\n├── AI\n├── Attention to Detail\n├── Automation\n└── Bank Reconciliations\n    ↓\nCAREER\n├── Financial Analyst\n├── Accountant\n└── Finance Professional",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Mathematics\n├── Administrative\n├── Coordination\n├── Speaking\n├── Foreign Language\n├── Instructing\n├── Active Listening\n├── Sales and Marketing\n├── Critical Thinking\n├── Microsoft Office (implicit)\n├── Data Analysis (implicit)\n└── Project Management (implicit)\n    │\n    ▼\nBRIDGE SKILLS\n├── Accounting\n├── Budgeting\n├── Economics\n├── Financial Reporting\n└── Forecasting\n    │\n    ▼\nGOAL SKILLS\n├── Accounting Principles\n├── AI\n├── Attention to Detail\n├── Automation\n└── Bank Reconciliations\n    │\n    ▼\nCAREER: Financial Analyst, Accountant, Finance Professional",
     "steps": [
-      "Enroll in an introductory accounting course (e.g., Coursera's 'Financial Accounting Fundamentals') to build core accounting knowledge.",
-      "Take a budgeting and forecasting workshop (e.g., Udemy's 'Budgeting and Forecasting for Business') to master financial planning.",
-      "Study economics basics through a free online resource like Khan Academy's 'Microeconomics' and 'Macroeconomics'.",
-      "Practice financial reporting by creating mock reports using Excel templates and learning from resources like CFI's 'Financial Reporting' course.",
-      "Explore AI and automation in finance by taking a short course like 'AI for Finance' on edX and using tools like QuickBooks for bank reconciliations."
+      "Take an introductory accounting course (e.g., Coursera's 'Accounting: Principles of Financial Accounting') to build core accounting knowledge.",
+      "Learn budgeting basics through a free online course like 'Budgeting and Financial Planning' on edX.",
+      "Study economics fundamentals with a resource like Khan Academy's microeconomics and macroeconomics.",
+      "Practice financial reporting by creating sample income statements and balance sheets using Excel.",
+      "Develop forecasting skills by analyzing historical data and building simple financial models in Excel."
     ],
-    "summary": "You have a strong foundation in customer service, math, and critical thinking—perfect for finance. By building accounting, budgeting, and forecasting skills, you'll be well on your way to becoming a Financial Analyst or Accountant. Keep pushing forward!"
+    "summary": "You already have a strong foundation in customer service, math, and critical thinking. By adding accounting, budgeting, and forecasting skills, you'll be well on your way to a rewarding career as a Financial Analyst or Accountant."
   },
   "ideal_careers": [
     "Financial Analyst",
@@ -771,8 +766,8 @@
         }
       ],
       "reason_codes": [
-        "explicit career goal",
-        "relevant major"
+        "explicit goal",
+        "education major"
       ],
       "review_reasons": []
     },
@@ -786,15 +781,14 @@
         "Speaking",
         "Foreign Language",
         "Instructing",
-        "Critical Thinking",
         "Active Listening",
         "Sales and Marketing",
+        "Critical Thinking",
         "administration",
         "analyses",
         "analysis",
         "analytical",
         "analyzing",
-        "balancing",
         "banking finance",
         "bilingual",
         "brand",
@@ -855,9 +849,7 @@
         "inventory management",
         "inventory tracking",
         "investment",
-        "investment banking",
-        "languages",
-        "spanish"
+        "investment banking"
       ],
       "verified_skills": [
         "Customer and Personal Service",
@@ -867,15 +859,14 @@
         "Speaking",
         "Foreign Language",
         "Instructing",
-        "Critical Thinking",
         "Active Listening",
         "Sales and Marketing",
+        "Critical Thinking",
         "administration",
         "analyses",
         "analysis",
         "analytical",
         "analyzing",
-        "balancing",
         "banking finance",
         "bilingual",
         "brand",
@@ -936,30 +927,29 @@
         "inventory management",
         "inventory tracking",
         "investment",
-        "investment banking",
-        "languages",
-        "spanish"
+        "investment banking"
       ],
       "possible_skills": [],
       "rejected_skills": [
         "act",
         "assignments",
-        "bachelor"
+        "bachelor",
+        "balancing"
       ],
       "implicit_skills": [
         {
           "skill": "Microsoft Office",
-          "reason": "Excel and Google Docs imply proficiency in office software.",
+          "reason": "Excel and Google Docs imply proficiency in office suites",
           "confidence": "medium"
         },
         {
-          "skill": "Teamwork",
-          "reason": "Collaborative and group leader indicate teamwork skills.",
+          "skill": "Data Analysis",
+          "reason": "Analytical skills and financial analysis suggest data analysis capability",
           "confidence": "medium"
         },
         {
-          "skill": "Problem Solving",
-          "reason": "Critical thinking and analytical skills imply problem-solving ability.",
+          "skill": "Project Management",
+          "reason": "Coordination, goal setting, and group leader indicate project management skills",
           "confidence": "medium"
         }
       ],

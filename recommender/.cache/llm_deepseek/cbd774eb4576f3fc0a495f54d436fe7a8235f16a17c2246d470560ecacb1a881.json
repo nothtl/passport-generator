@@ -4,17 +4,17 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Coordination and time management imply project management ability.",
+      "reason": "Coordination and time management skills imply project management ability.",
       "skill": "Project Management"
     },
     {
       "confidence": "medium",
-      "reason": "Customer and Personal Service, client communication indicate customer service skills.",
+      "reason": "Customer and Personal Service, client communication, and social perceptiveness indicate customer service skills.",
       "skill": "Customer Service"
     },
     {
       "confidence": "medium",
-      "reason": "Adobe skills, art history, and digital design suggest visual design competency.",
+      "reason": "Adobe Creative Suite, digital design, and photography suggest visual design skills.",
       "skill": "Visual Design"
     }
   ],
@@ -23,6 +23,8 @@
     "access",
     "adaptability",
     "administrative assistant",
+    "adobe",
+    "art",
     "awards",
     "bachelor",
     "body language",
@@ -58,21 +60,24 @@
     "editorial",
     "employment",
     "employment based immigration",
+    "english proficient",
     "etc",
+    "exhibitions",
     "express",
     "families",
     "fashion",
     "film",
     "fitness",
+    "fluent english",
     "focus",
     "french",
     "general cleaning",
     "guidance",
     "history",
-    "immigration",
     "internship",
     "media studies",
-    "performance"
+    "performance",
+    "talent"
   ],
   "review_reasons": [],
   "scored_skills": [
@@ -82,9 +87,9 @@
     "Time Management",
     "Customer and Personal Service",
     "Administrative",
-    "Speaking",
     "Active Listening",
     "Critical Thinking",
+    "Speaking",
     "Writing",
     "Sales and Marketing",
     "Social Perceptiveness",
@@ -97,18 +102,15 @@
     "Client Communication",
     "Collaboration",
     "Concept Development",
+    "Costume Design",
     "Creative Problem Solving",
     "Creativity",
-    "Costume Design",
     "Digital Design",
     "Editing Software",
-    "Exhibitions",
-    "Fluent English",
     "Image Editing",
     "Marketing",
     "Media",
-    "Photography",
-    "Talent"
+    "Photography"
   ],
   "verified_skills": [
     "Fine Arts",
@@ -117,9 +119,9 @@
     "Time Management",
     "Customer and Personal Service",
     "Administrative",
-    "Speaking",
     "Active Listening",
     "Critical Thinking",
+    "Speaking",
     "Writing",
     "Sales and Marketing",
     "Social Perceptiveness",
@@ -132,17 +134,14 @@
     "Client Communication",
     "Collaboration",
     "Concept Development",
+    "Costume Design",
     "Creative Problem Solving",
     "Creativity",
-    "Costume Design",
     "Digital Design",
     "Editing Software",
-    "Exhibitions",
-    "Fluent English",
     "Image Editing",
     "Marketing",
     "Media",
-    "Photography",
-    "Talent"
+    "Photography"
   ]
 }

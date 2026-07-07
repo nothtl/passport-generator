@@ -1,7 +1,7 @@
 {
   "resume": "=== Iyana Rankin - Resume.pdf ===\nIyana Rankin \n\nDetermined individual with a proven track record in stock and brand \nmanagement, poised to leverage this expertise into a progressive role. \nCommitted to delivering exceptional results and contributing effectively to \norganizational growth. \n\n68 Fallon Dr \nHamden, CT 06514 \n(347) 545-6409 \niyanarankin05@gmail.com \n\nEXPERIENCE \n\nSKILLS \n\nMadrag, North Haven,CT— Team Lead \n\n June 2024 - Present \n\nAs a team lead, my responsibilities include Opening and/or closing the store, \n\nopening and closing registers, counting the safe as well as making deposits \n\nHighly organized \n\n  Great communication \n\n  Time and task management \n\nas a part of closing procedures. As team lead I also handle projects such as \n\n  Basic Computer Skills \n\nreworking the visual walls and dressing the mannequins as well as \n\nre-organizing areas of the store. Essentially I act as a manager when the \n\nmanager is not present. \n\nAmazon, Danbury,CT — Warehouse Associate  \n\nOctober 2023 - February 2024 \n\nAs an Amazon Stock Associate, my primary responsibilities typically \n\n  Responsible \n\n  Team Player \n\n  Sensitive to Needs \n\n  Problem Solving \n\n  G suite \n\ninclude Receiving and inspecting incoming shipments of goods.Organizing \n\n  Microsoft/Zoom \n\nand storing inventory in designated locations within the warehouse. And \n\npicking and packing items for customer orders, ensuring accuracy and \n\nefﬁciency. \n\nPrimark, Brooklyn,NY — Overnight Replenishment Associate  \n\nMay 2023 - October 2023 \n\nAs a Replenishment Associate at Primark, my key duties typically include \nreplenishing merchandise on the sales ﬂoor to maintain attractive and fully \nstocked displays. Monitoring inventory levels and identifying areas \nrequiring restocking to meet customer demand.Efﬁciently unpacking and \nsorting incoming deliveries of merchandise.And ensuring accurate pricing \nand labeling of products before placing them on the sales ﬂoor. \n\nAlpine Scout Camp, Alpine,NJ — Counselor  \n\nJune 2020 - August 2020 \n\nWhile working as a counselor my duties included Supporting operations \nwithin the Arts and Theater Department by preparing necessary supplies \nand materials for camp activities. Provided guidance and instruction to \ncampers, explaining project requirements,and assisting them with their \ncreative endeavors. Ensured a positive and engaging experience for campers \nby offering support and encouragement throughout the artistic process. \n\n  EDUCATION \n\n  Cypress Hills Collegiate \n\nPreparatory High School, \n\nBrooklyn,Ny — High School \n\nDiploma \n\n  September 2018 - August 2021 \n\n  Graduated early with high \n\nhonors. \n\n \n \n   \n   \n\fBuilding Beats, Brooklyn,Ny — Youth Intern \n\nJune 2019 - August 2019 \n\nDuring my internship at the Summer Youth Employment Program, I \nactively collaborated with working professionals and fellow interns to \ndevelop a diverse skill set. This experience enabled me to enhance my \nabilities in personal branding, problem-solving, effective communication, \nand email etiquette. \n\nSpeakhire, Brooklyn,Ny — Intern \n\nNovember 2020- April 2021 \n\nDuring my internship, I enhanced proﬁciency in social media management \nand marketing strategies through practical application.Contributed to \nrecording and reﬁning sounds, demonstrating a commitment to audio \nproduction and development. Strengthened communication abilities by \npresenting end-of-summer projects encompassing sampling, tempo, beat, \nand album cover design.",
   "function": "arts-media",
-  "confidence": 61,
+  "confidence": 62,
   "skills": [
     "accuracy",
     "accurate pricing",
@@ -160,7 +160,7 @@
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple duties like opening/closing, deliveries, and orders suggests time management.",
+      "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
       "confidence": "medium"
     },
     {
@@ -171,50 +171,52 @@
   ],
   "skill_evidence": [],
   "gaps": [
-    "marketing",
     "social-media",
-    "customer-service",
+    "marketing",
     "organization",
+    "administration",
+    "customer-service",
     "relationship-building",
     "sales",
-    "administration"
+    "photography"
   ],
   "core_gaps": [
-    "marketing",
     "social-media",
-    "customer-service",
+    "marketing",
     "organization",
+    "administration",
+    "customer-service",
     "relationship-building",
     "sales",
-    "administration"
+    "photography"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "adobe-creative-suite",
+    "camp-activities",
     "canva",
     "communications",
+    "content-curation",
     "event-coordination",
     "event-planning",
     "graphic-design",
     "hospitality",
-    "office-administration",
-    "photography",
-    "planning"
+    "media-content"
   ],
   "nice_to_have_gaps": [
     "adobe-creative-suite",
+    "camp-activities",
     "canva",
     "communications",
+    "content-curation",
     "event-coordination",
     "event-planning",
     "graphic-design",
     "hospitality",
-    "office-administration",
-    "photography",
-    "planning"
+    "media-content"
   ],
   "verify_gaps": [
-    "teamwork"
+    "time-management"
   ],
   "related": [
     {
@@ -307,59 +309,59 @@
     },
     {
       "function": "design",
-      "pct": 9
+      "pct": 10
     },
     {
       "function": "sales",
-      "pct": 9
-    },
-    {
-      "function": "finance",
       "pct": 7
     },
     {
-      "function": "technology",
-      "pct": 5
+      "function": "finance",
+      "pct": 6
+    },
+    {
+      "function": "personal-care",
+      "pct": 6
     }
   ],
-  "coach_notes": "For a arts-media path, focus first on marketing, social-media, customer-service. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a arts-media path, focus first on social-media, marketing, organization. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Leasing Consultant",
-      "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 77,
+      "title": "2024-2025 Sports Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
+      "fit": 68,
       "job_type": "goal",
-      "subdomain": "marketing-creative",
-      "function": "sales",
+      "subdomain": "photo-video",
+      "function": "arts-media",
       "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
+      "gaps": "social-media, marketing, organization",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.7,
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.278,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Leasing consultant role does not require age 21+."
+      "eligibility_reason": "Photography intern role, no age restrictions."
     },
     {
       "title": "Marketing Intern (Graphic Design Focus)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3998040",
-      "fit": 74,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "arts-media",
       "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
+      "gaps": "social-media, marketing, organization",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.3,
-        "subdomain_alignment": 0.537,
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.171,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
@@ -369,87 +371,19 @@
       "eligibility_reason": "Marketing intern with graphic design focus, suitable for minors."
     },
     {
-      "title": "NAI NorCal - Commercial Real Estate - DoD Skillbridge Internship",
-      "company": "nainnorcal",
-      "url": "https://jobs.lever.co/nainnorcal/c798af0d-d2ba-47b6-b94b-835fefdec40a",
-      "fit": 61,
-      "job_type": "goal",
-      "subdomain": "marketing-creative",
-      "function": "sales",
-      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Internship in commercial real estate, no age restriction."
-    },
-    {
-      "title": "Account Executive (Pharma agency)",
-      "company": "avalerehealth",
-      "url": "https://jobs.lever.co/avalerehealth/80f89404-5de6-4f53-a139-04b3b8ffb26d",
-      "fit": 60,
-      "job_type": "goal",
-      "subdomain": "marketing-creative",
-      "function": "sales",
-      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Account executive in pharma agency, no age restriction."
-    },
-    {
-      "title": "2024-2025 Sports Photography Intern",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "photo-video",
-      "function": "arts-media",
-      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
-      "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.278,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Photography intern role, no age restrictions."
-    }
-  ],
-  "ready_now": [
-    {
       "title": "Leasing Consultant",
       "company": "thesciongroupllc",
-      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8511127002",
-      "fit": 77,
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8425531002",
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "sales",
       "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
+      "gaps": "social-media, marketing, organization",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.7,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.3,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.2,
@@ -459,19 +393,87 @@
       "eligibility_reason": "Leasing consultant role does not require age 21+."
     },
     {
+      "title": "Account Executive (Pharma agency)",
+      "company": "avalerehealth",
+      "url": "https://jobs.lever.co/avalerehealth/80f89404-5de6-4f53-a139-04b3b8ffb26d",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "marketing-creative",
+      "function": "sales",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "social-media, marketing, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Account executive in pharma agency, no age restriction."
+    },
+    {
+      "title": "Growth Associate",
+      "company": "maple",
+      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "sales",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "social-media, marketing, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Growth associate, no age restriction."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "2024-2025 Sports Photography Intern",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
+      "fit": 68,
+      "job_type": "goal",
+      "subdomain": "photo-video",
+      "function": "arts-media",
+      "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
+      "gaps": "social-media, marketing, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.278,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Photography intern role, no age restrictions."
+    },
+    {
       "title": "Marketing Intern (Graphic Design Focus)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3998040",
-      "fit": 74,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "arts-media",
       "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
+      "gaps": "social-media, marketing, organization",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.3,
-        "subdomain_alignment": 0.537,
+        "goal_alignment": 0.667,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.171,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
@@ -483,41 +485,41 @@
   ],
   "aspirational": [
     {
-      "title": "NAI NorCal - Commercial Real Estate - DoD Skillbridge Internship",
-      "company": "nainnorcal",
-      "url": "https://jobs.lever.co/nainnorcal/c798af0d-d2ba-47b6-b94b-835fefdec40a",
-      "fit": 61,
+      "title": "Leasing Consultant",
+      "company": "thesciongroupllc",
+      "url": "https://job-boards.greenhouse.io/thesciongroupllc/jobs/8425531002",
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "sales",
       "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
+      "gaps": "social-media, marketing, organization",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
+        "goal_alignment": 0.333,
         "study_alignment": 0.0,
-        "subdomain_alignment": 1.0,
+        "subdomain_alignment": 0.3,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.2,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Internship in commercial real estate, no age restriction."
+      "eligibility_reason": "Leasing consultant role does not require age 21+."
     },
     {
       "title": "Account Executive (Pharma agency)",
       "company": "avalerehealth",
       "url": "https://jobs.lever.co/avalerehealth/80f89404-5de6-4f53-a139-04b3b8ffb26d",
-      "fit": 60,
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "sales",
       "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
+      "gaps": "social-media, marketing, organization",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
+        "goal_alignment": 0.333,
         "study_alignment": 0.0,
-        "subdomain_alignment": 1.0,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
@@ -527,26 +529,26 @@
       "eligibility_reason": "Account executive in pharma agency, no age restriction."
     },
     {
-      "title": "2024-2025 Sports Photography Intern",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 57,
-      "job_type": "goal",
-      "subdomain": "photo-video",
-      "function": "arts-media",
+      "title": "Growth Associate",
+      "company": "maple",
+      "url": "https://jobs.ashbyhq.com/maple/d1db8e61-f03b-4f8d-b15a-9a8af0891a54",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "sales",
       "why": "A arts media role that uses your accuracy, accurate pricing, amazon skills.",
-      "gaps": "marketing, social-media, customer-service",
+      "gaps": "social-media, marketing, organization",
       "job_score_breakdown": {
-        "goal_alignment": 0.5,
-        "study_alignment": 0.2,
-        "subdomain_alignment": 0.278,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Photography intern role, no age restrictions."
+      "eligibility_reason": "Growth associate, no age restriction."
     }
   ],
   "skill_path": null,
@@ -554,40 +556,37 @@
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
-      "arts-media",
-      "sales"
+      "arts-media"
     ],
     "goal_roles": [
-      "content creator",
-      "social media manager"
+      "Social Media Manager",
+      "Content Creator"
     ],
     "goal_subdomains": [
-      "content-creation",
-      "marketing-creative"
+      "content-creation"
     ],
     "study_domains": [
-      "arts-media",
-      "education"
+      "arts-media"
     ],
     "study_subdomains": [
-      "creative-education"
+      "content-creation"
     ],
     "study_program": "Associate",
     "study_level": "associate",
     "intent_confidence": 0.411,
-    "intent_strength": 0.511,
+    "intent_strength": 0.611,
     "has_student_intent": true
   },
   "intent_summary": {
     "headline": "",
-    "summary_text": "=== Iyana Rankin - Resume.pdf ===\nIyana Rankin\nDetermined individual with a proven track record in stock and brand\nmanagement, poised to leverage this expertise into a progressive role.\nCommitted to delivering exceptional results and contributing effectively to\norganizational gro",
+    "summary_text": "Gain skills I can use at a future jobMake new friendsGain skills I can use at a future job, \nLearn about colleges, \nGet coaches and mentors who can help me with college and career, \nMake new friends, \nLearn about careersLearn about collegesLearn about careers; Gain skills I can u",
     "study_text": "Associate\nCypress Hills Collegiate\nPreparatory High School,\nBrooklyn,Ny — High School\nDiploma\nSeptember 2018 - August 2021\nGraduated early with high\nhonors.\nBuilding Beats, Brooklyn,Ny — Youth Intern\nJune 2019 - August 2019\nDuring my internship at the Summer Youth Employment Prog"
   },
   "signal_breakdown": {
     "aspiration": {
-      "sales": 19,
-      "finance": 15,
-      "arts-media": 13
+      "arts-media": 17,
+      "sales": 14,
+      "personal-care": 13
     },
     "study": {
       "education": 41,
@@ -616,15 +615,15 @@
     "sales"
   ],
   "subdomain": "content-creation",
-  "subdomain_confidence": 0.68,
+  "subdomain_confidence": 0.72,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
+    "photo-video",
     "marketing-creative",
     "marketing-creative",
     "marketing-creative",
-    "marketing-creative",
-    "photo-video"
+    "content-creation"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -635,39 +634,35 @@
       "chosen_subdomain": "content-creation",
       "secondary_function": "sales",
       "goal_domains": [
-        "arts-media",
-        "sales"
+        "arts-media"
       ],
       "study_domains": [
-        "arts-media",
-        "education"
+        "arts-media"
       ],
       "goal_subdomains": [
-        "content-creation",
-        "marketing-creative"
+        "content-creation"
       ],
       "study_subdomains": [
-        "creative-education"
+        "content-creation"
       ],
       "goal_roles": [
-        "content creator",
-        "social media manager"
+        "Social Media Manager",
+        "Content Creator"
       ],
       "confidence": 0.65,
       "evidence_spans": [
         {
           "section": "education",
-          "text": "Contributed to recording and refining sounds, demonstrating a commitment to audio production and development."
+          "text": "During my internship, I enhanced proficiency in social media management and marketing strategies through practical application.Contributed to recording and refining sounds, demonstrating a commitment to audio production and development. Strengthened communication abilities by presenting end-of-summer projects encompassing sampling, tempo, beat, and album cover design."
         },
         {
-          "section": "education",
-          "text": "Strengthened communication abilities by presenting end-of-summer projects encompassing sampling, tempo, beat, and album cover design."
+          "section": "skills",
+          "text": "While working as a counselor my duties included Supporting operations within the Arts and Theater Department by preparing necessary supplies and materials for camp activities."
         }
       ],
       "reason_codes": [
-        "explicit internship in audio production and album cover design",
-        "social media management experience",
-        "strong arts-media classifier signal"
+        "explicit_goal",
+        "work_experience"
       ],
       "review_reasons": []
     },
@@ -795,7 +790,7 @@
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple duties like opening/closing, deliveries, and orders suggests time management.",
+          "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
           "confidence": "medium"
         },
         {

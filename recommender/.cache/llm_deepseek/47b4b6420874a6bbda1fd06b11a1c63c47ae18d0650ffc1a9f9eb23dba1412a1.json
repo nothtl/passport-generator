@@ -1,0 +1,42 @@
+{
+  "accepted": true,
+  "chosen_function": "healthcare",
+  "chosen_subdomain": "clinical-support",
+  "confidence": 0.85,
+  "evidence_spans": [
+    {
+      "section": "experience",
+      "text": "Home Health Aide \u2014 Platinum Home Care\nJuly 2023 \u2013 April 2025 \u00b7 Brooklyn, NY\nCompleted 75 hours of professional training. Assisted patients with Activities of Daily Living including grocery shopping and house cleaning. Reminded patients of medication schedules and upcoming doctor visits."
+    },
+    {
+      "section": "experience",
+      "text": "Intern & Physician Shadowing \u2014 North Manhattan Eye Center\nJune 2023 \u2013 August 2023 \u00b7 New York, NY\nGuided patients to examination rooms and gathered background information. Participated in brainstorming sessions on improving the work environment. Interacted with physicians and staff to learn diagnostic processes and eye pathology identification."
+    },
+    {
+      "section": "education",
+      "text": "Bachelor of Science in Health Science"
+    }
+  ],
+  "goal_domains": [
+    "healthcare"
+  ],
+  "goal_roles": [
+    "physician"
+  ],
+  "goal_subdomains": [
+    "pre-med-shadowing"
+  ],
+  "reason_codes": [
+    "explicit_goal_medical_school",
+    "health_science_major",
+    "healthcare_work_experience"
+  ],
+  "review_reasons": [],
+  "secondary_function": "education",
+  "study_domains": [
+    "healthcare"
+  ],
+  "study_subdomains": [
+    "health-admin"
+  ]
+}

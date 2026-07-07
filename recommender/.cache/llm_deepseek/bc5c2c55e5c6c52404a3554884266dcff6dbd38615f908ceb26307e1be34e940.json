@@ -23,10 +23,12 @@
   "goal_subdomains": [],
   "reason_codes": [
     "explicit goal",
-    "strong work experience"
+    "work experience"
   ],
   "review_reasons": [],
   "secondary_function": "sales",
-  "study_domains": [],
+  "study_domains": [
+    "protective-service"
+  ],
   "study_subdomains": []
 }

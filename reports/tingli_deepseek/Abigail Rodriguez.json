@@ -4,21 +4,22 @@
   "confidence": 67,
   "skills": [
     "Writing",
-    "Design",
+    "Communications and Media",
     "Instructing",
     "Coordination",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Communications and Media",
+    "Customer and Personal Service",
+    "Sales and Marketing",
     "Administrative",
     "Computers and Electronics",
-    "Mathematics",
+    "Design",
+    "English Language",
     "Speaking",
-    "Foreign Language",
-    "Active Listening",
     "Monitoring",
     "Management of Personnel Resources",
-    "Sales and Marketing",
+    "Active Listening",
+    "Critical Thinking",
+    "Time Management",
     "adobe",
     "analysis",
     "bilingual",
@@ -27,13 +28,12 @@
     "conservation",
     "content",
     "creative",
+    "culture",
     "data",
     "database",
     "design",
     "digital",
     "entrepreneurship",
-    "google",
-    "google suite",
     "graphic design",
     "mentor",
     "mentoring",
@@ -41,31 +41,43 @@
     "mentorship",
     "mentorship program",
     "networking",
-    "outreach",
+    "non profit",
+    "non profit organization",
     "photoshop",
     "platform",
     "platforms",
-    "poetry",
     "public speaking",
-    "spanish"
+    "spanish",
+    "google",
+    "google suite",
+    "outreach",
+    "community outreach",
+    "community events",
+    "intake",
+    "online ordering",
+    "ordering",
+    "organization",
+    "present",
+    "program"
   ],
   "verified_skills": [
     "Writing",
-    "Design",
+    "Communications and Media",
     "Instructing",
     "Coordination",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Communications and Media",
+    "Customer and Personal Service",
+    "Sales and Marketing",
     "Administrative",
     "Computers and Electronics",
-    "Mathematics",
+    "Design",
+    "English Language",
     "Speaking",
-    "Foreign Language",
-    "Active Listening",
     "Monitoring",
     "Management of Personnel Resources",
-    "Sales and Marketing",
+    "Active Listening",
+    "Critical Thinking",
+    "Time Management",
     "adobe",
     "analysis",
     "bilingual",
@@ -74,13 +86,12 @@
     "conservation",
     "content",
     "creative",
+    "culture",
     "data",
     "database",
     "design",
     "digital",
     "entrepreneurship",
-    "google",
-    "google suite",
     "graphic design",
     "mentor",
     "mentoring",
@@ -88,13 +99,24 @@
     "mentorship",
     "mentorship program",
     "networking",
-    "outreach",
+    "non profit",
+    "non profit organization",
     "photoshop",
     "platform",
     "platforms",
-    "poetry",
     "public speaking",
-    "spanish"
+    "spanish",
+    "google",
+    "google suite",
+    "outreach",
+    "community outreach",
+    "community events",
+    "intake",
+    "online ordering",
+    "ordering",
+    "organization",
+    "present",
+    "program"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -105,17 +127,14 @@
     "can",
     "christian",
     "church",
-    "community events",
-    "community outreach",
-    "culture",
     "delivery",
     "extracurricular activities",
     "families",
     "google maps",
+    "grade",
     "grades",
     "high school",
     "home",
-    "intake",
     "internship",
     "internship application",
     "internship program",
@@ -127,33 +146,28 @@
     "meta",
     "music",
     "navigate",
-    "non profit",
-    "non profit organization",
-    "online ordering",
-    "ordering",
-    "organization",
     "part",
-    "present",
-    "program"
+    "poetry"
   ],
   "skill_weights": {},
   "market_relevant": [
     "Writing",
-    "Design",
+    "Communications and Media",
     "Instructing",
     "Coordination",
-    "Customer and Personal Service",
     "Social Perceptiveness",
-    "Communications and Media",
+    "Customer and Personal Service",
+    "Sales and Marketing",
     "Administrative",
     "Computers and Electronics",
-    "Mathematics",
+    "Design",
+    "English Language",
     "Speaking",
-    "Foreign Language",
-    "Active Listening",
     "Monitoring",
     "Management of Personnel Resources",
-    "Sales and Marketing",
+    "Active Listening",
+    "Critical Thinking",
+    "Time Management",
     "adobe",
     "analysis",
     "bilingual",
@@ -162,13 +176,12 @@
     "conservation",
     "content",
     "creative",
+    "culture",
     "data",
     "database",
     "design",
     "digital",
     "entrepreneurship",
-    "google",
-    "google suite",
     "graphic design",
     "mentor",
     "mentoring",
@@ -176,33 +189,44 @@
     "mentorship",
     "mentorship program",
     "networking",
-    "outreach",
+    "non profit",
+    "non profit organization",
     "photoshop",
     "platform",
     "platforms",
-    "poetry",
     "public speaking",
-    "spanish"
+    "spanish",
+    "google",
+    "google suite",
+    "outreach",
+    "community outreach",
+    "community events",
+    "intake",
+    "online ordering",
+    "ordering",
+    "organization",
+    "present",
+    "program"
   ],
   "inferred": [
-    "Teamwork",
-    "Problem Solving",
-    "Time Management"
+    "Event Planning",
+    "Team Leadership",
+    "Project Management"
   ],
   "implicit_skills": [
     {
-      "skill": "Teamwork",
-      "reason": "Mentoring and coordination imply collaboration",
+      "skill": "Event Planning",
+      "reason": "Experience with community events and coordination implies event planning skills.",
       "confidence": "medium"
     },
     {
-      "skill": "Problem Solving",
-      "reason": "Analysis and design skills suggest troubleshooting",
+      "skill": "Team Leadership",
+      "reason": "Leadership experience and management of personnel resources indicate team leadership.",
       "confidence": "medium"
     },
     {
-      "skill": "Time Management",
-      "reason": "Handling multiple roles like instructing and coordination",
+      "skill": "Project Management",
+      "reason": "Coordination, monitoring, and management skills suggest project management ability.",
       "confidence": "medium"
     }
   ],
@@ -210,46 +234,36 @@
   "gaps": [
     "classroom-management",
     "curriculum-delivery",
-    "javascript",
-    "kahoot",
-    "python",
-    "quizizz",
-    "teaching",
-    "youth-development"
+    "teaching"
   ],
   "core_gaps": [
     "classroom-management",
     "curriculum-delivery",
-    "javascript",
-    "kahoot",
-    "python",
-    "quizizz",
-    "teaching",
-    "youth-development"
+    "teaching"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "assessment",
     "assisted-instruction",
     "assistive-communication",
+    "bachelor-s-degree",
     "bachelors",
     "background-check",
     "braille",
     "camp-operations",
     "coaching",
-    "coding",
+    "communication",
     "computer-science"
   ],
   "nice_to_have_gaps": [
-    "assessment",
     "assisted-instruction",
     "assistive-communication",
+    "bachelor-s-degree",
     "bachelors",
     "background-check",
     "braille",
     "camp-operations",
     "coaching",
-    "coding",
+    "communication",
     "computer-science"
   ],
   "verify_gaps": [],
@@ -271,6 +285,14 @@
       "pmi": 4.8
     },
     {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "mathematics",
+      "pmi": 4.47
+    },
+    {
       "skill": "reading",
       "pmi": 4.43
     },
@@ -279,20 +301,12 @@
       "pmi": 4.39
     },
     {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
       "skill": "clinicalexposure",
       "pmi": 4.37
-    },
-    {
-      "skill": "translation",
-      "pmi": 4.26
-    },
-    {
-      "skill": "teamparticipation",
-      "pmi": 4.26
-    },
-    {
-      "skill": "veterinarystudent",
-      "pmi": 4.25
     }
   ],
   "related_skills": [
@@ -313,6 +327,14 @@
       "pmi": 4.8
     },
     {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "mathematics",
+      "pmi": 4.47
+    },
+    {
       "skill": "reading",
       "pmi": 4.43
     },
@@ -321,37 +343,29 @@
       "pmi": 4.39
     },
     {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
       "skill": "clinicalexposure",
       "pmi": 4.37
-    },
-    {
-      "skill": "translation",
-      "pmi": 4.26
-    },
-    {
-      "skill": "teamparticipation",
-      "pmi": 4.26
-    },
-    {
-      "skill": "veterinarystudent",
-      "pmi": 4.25
     }
   ],
   "alternatives": [
     {
       "function": "arts-media",
-      "pct": 20
+      "pct": 21
     },
     {
       "function": "design",
-      "pct": 13
-    },
-    {
-      "function": "finance",
-      "pct": 5
+      "pct": 10
     },
     {
       "function": "technology",
+      "pct": 5
+    },
+    {
+      "function": "finance",
       "pct": 5
     },
     {
@@ -359,66 +373,22 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on classroom-management, curriculum-delivery, javascript. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a education path, focus first on classroom-management, curriculum-delivery, teaching. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
-    {
-      "title": "Paraeducator",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3708552",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
-      "job_score_breakdown": {
-        "goal_alignment": 0.778,
-        "study_alignment": 0.778,
-        "subdomain_alignment": 0.75,
-        "experience_alignment": 0.164,
-        "attainability": 0.65,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Paraeducator, no age restriction."
-    },
-    {
-      "title": "Camp Instructor -Chicago",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4001236",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.417,
-        "experience_alignment": 0.269,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Camp instructor, no age restriction."
-    },
     {
       "title": "Instructor - Los Angeles",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4036722",
-      "fit": 79,
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.667,
-        "subdomain_alignment": 0.417,
+        "subdomain_alignment": 0.125,
         "experience_alignment": 0.254,
         "attainability": 0.75,
         "skill_overlap": 0.111,
@@ -428,19 +398,63 @@
       "eligibility_reason": "Instructor, no age restriction."
     },
     {
-      "title": "26-27 SY Teaching Jobs: Technology, Computer Science",
-      "company": "kreyco",
-      "url": "https://apply.workable.com/j/3B6AF790CD",
-      "fit": 75,
+      "title": "Paraeducator",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3708552",
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.778,
+        "study_alignment": 0.778,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.164,
+        "attainability": 0.65,
+        "skill_overlap": 0.1,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Paraeducator, no age restriction."
+    },
+    {
+      "title": "Substitute Teacher",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1035263",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.09,
+        "attainability": 0.65,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Substitute teacher, no age restriction."
+    },
+    {
+      "title": "26-27 SY Teaching Jobs: Technology, Computer Science",
+      "company": "kreyco",
+      "url": "https://apply.workable.com/j/3B6AF790CD",
+      "fit": 58,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.444,
-        "subdomain_alignment": 0.929,
+        "subdomain_alignment": 0.071,
         "experience_alignment": 0.149,
         "attainability": 0.65,
         "skill_overlap": 0.1,
@@ -453,16 +467,16 @@
       "title": "Summer Instructor, Burien",
       "company": "GalileoLearning",
       "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000133700979",
-      "fit": 67,
+      "fit": 56,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.333,
-        "subdomain_alignment": 0.708,
+        "subdomain_alignment": 0.167,
         "experience_alignment": 0.224,
         "attainability": 0.75,
         "skill_overlap": 0.125,
@@ -474,65 +488,19 @@
   ],
   "ready_now": [
     {
-      "title": "Paraeducator",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3708552",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
-      "job_score_breakdown": {
-        "goal_alignment": 0.778,
-        "study_alignment": 0.778,
-        "subdomain_alignment": 0.75,
-        "experience_alignment": 0.164,
-        "attainability": 0.65,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Paraeducator, no age restriction."
-    },
-    {
-      "title": "Camp Instructor -Chicago",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4001236",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 0.417,
-        "experience_alignment": 0.269,
-        "attainability": 0.75,
-        "skill_overlap": 0.1,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Camp instructor, no age restriction."
-    }
-  ],
-  "aspirational": [
-    {
       "title": "Instructor - Los Angeles",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4036722",
-      "fit": 79,
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
       "job_score_breakdown": {
         "goal_alignment": 0.667,
         "study_alignment": 0.667,
-        "subdomain_alignment": 0.417,
+        "subdomain_alignment": 0.125,
         "experience_alignment": 0.254,
         "attainability": 0.75,
         "skill_overlap": 0.111,
@@ -542,19 +510,65 @@
       "eligibility_reason": "Instructor, no age restriction."
     },
     {
-      "title": "26-27 SY Teaching Jobs: Technology, Computer Science",
-      "company": "kreyco",
-      "url": "https://apply.workable.com/j/3B6AF790CD",
-      "fit": 75,
+      "title": "Paraeducator",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3708552",
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.778,
+        "study_alignment": 0.778,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.164,
+        "attainability": 0.65,
+        "skill_overlap": 0.1,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Paraeducator, no age restriction."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Substitute Teacher",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1035263",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.09,
+        "attainability": 0.65,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Substitute teacher, no age restriction."
+    },
+    {
+      "title": "26-27 SY Teaching Jobs: Technology, Computer Science",
+      "company": "kreyco",
+      "url": "https://apply.workable.com/j/3B6AF790CD",
+      "fit": 58,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.444,
-        "subdomain_alignment": 0.929,
+        "subdomain_alignment": 0.071,
         "experience_alignment": 0.149,
         "attainability": 0.65,
         "skill_overlap": 0.1,
@@ -567,16 +581,16 @@
       "title": "Summer Instructor, Burien",
       "company": "GalileoLearning",
       "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000133700979",
-      "fit": 67,
+      "fit": 56,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your Writing, Design, Instructing skills and moves you toward becoming a education.",
-      "gaps": "classroom-management, curriculum-delivery, javascript",
+      "why": "This role builds your Writing, Communications and Media, Instructing skills and moves you toward becoming a education.",
+      "gaps": "classroom-management, curriculum-delivery, teaching",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.333,
-        "subdomain_alignment": 0.708,
+        "subdomain_alignment": 0.167,
         "experience_alignment": 0.224,
         "attainability": 0.75,
         "skill_overlap": 0.125,
@@ -586,17 +600,17 @@
       "eligibility_reason": "Summer instructor for youth, no age restriction."
     }
   ],
-  "skill_path": "You already have a strong foundation in writing, design, and instruction. By adding programming and classroom management skills, you'll unlock careers in education and creative fields.",
+  "skill_path": "You have a strong foundation in communication, design, and coordination. By gaining teaching credentials and a degree, you'll unlock pathways to education, graphic design, and other creative careers.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Writing\n├── Design\n├── Instructing\n├── Coordination\n├── Customer and Personal Service\n├── Social Perceptiveness\n├── Communications and Media\n├── Administrative\n├── Computers and Electronics\n├── Mathematics\n├── Teamwork\n├── Problem Solving\n└── Time Management\n    │\n    ▼\nBRIDGE SKILLS\n├── Classroom Management\n├── Curriculum Delivery\n├── JavaScript\n├── Kahoot\n└── Python\n    │\n    ▼\nGOAL SKILLS\n├── Assessment\n├── Assisted Instruction\n├── Assistive Communication\n├── Bachelor's\n└── Background Check\n    │\n    ▼\nDREAM CAREERS\n├── Education\n├── Graphic Designer\n└── Creative Professional",
+    "tree": "CURRENT SKILLS\n├── Writing\n├── Communications and Media\n├── Instructing\n├── Coordination\n├── Social Perceptiveness\n├── Customer and Personal Service\n├── Sales and Marketing\n├── Administrative\n├── Computers and Electronics\n├── Design\n└── Implicit Skills\n    ├── Event Planning\n    ├── Team Leadership\n    └── Project Management\n    ↓\nBRIDGE SKILLS\n├── classroom-management\n├── curriculum-delivery\n└── teaching\n    ↓\nGOAL SKILLS\n├── assisted-instruction\n├── assistive-communication\n├── bachelor-s-degree\n├── bachelors\n└── background-check\n    ↓\nCAREER\n├── Education\n├── Graphic Designer\n└── Creative Professional",
     "steps": [
-      "Take a free Codecademy Python course to start programming basics.",
-      "Learn JavaScript through interactive platforms like freeCodeCamp.",
-      "Practice classroom management by volunteering as a teaching assistant.",
-      "Design a Kahoot quiz to combine your design and instructing skills.",
-      "Enroll in a bachelor's program in education or graphic design to formalize your knowledge."
+      "Enroll in a teaching certification program to gain classroom management and curriculum delivery skills.",
+      "Complete a bachelor's degree in education or a related field to meet degree requirements.",
+      "Obtain a background check and any required state teaching credentials.",
+      "Take an online course in assistive communication tools to support diverse learners.",
+      "Build a portfolio combining design skills with educational materials to transition into graphic design or creative roles."
     ],
-    "summary": "You already have a strong foundation in writing, design, and instruction. By adding programming and classroom management skills, you'll unlock careers in education and creative fields."
+    "summary": "You have a strong foundation in communication, design, and coordination. By gaining teaching credentials and a degree, you'll unlock pathways to education, graphic design, and other creative careers."
   },
   "ideal_careers": [
     "education",
@@ -617,7 +631,7 @@
       "education"
     ],
     "study_subdomains": [
-      "classroom-support"
+      "youth-programs"
     ],
     "study_program": "**The City College of New York**",
     "study_level": "high-school",
@@ -627,14 +641,14 @@
   },
   "intent_summary": {
     "headline": "Student at City College seeking education Internship",
-    "summary_text": "Student at City College seeking education Internship\nIdeal careers: education, Graphic Designer, Creative Professional\n=== Abigail Rodriguez - Resume.pdf ===\nAbigail Rodriguez\nabigailro0899655@gmail.com.\nhttps://www.linkedin.com/in/abigail-rodriguez-254b93202/\n929-922-1214\nIt is ",
+    "summary_text": "Student at City College seeking education Internship\nGet coaches and mentors who can help me with college and career; Get coaches and mentors who can help me with college and career\nA specific goal is to improve mygrades and focus on a measurable general career high score reachin",
     "study_text": "**The City College of New York**\n**Crotona International High School** — 2018 – 2022\n---"
   },
   "signal_breakdown": {
     "aspiration": {
-      "education": 38,
-      "design": 32,
-      "arts-media": 9
+      "education": 39,
+      "design": 23,
+      "arts-media": 13
     },
     "study": {
       "education": 51,
@@ -699,7 +713,7 @@
         "youth-programs"
       ],
       "study_subdomains": [
-        "classroom-support"
+        "youth-programs"
       ],
       "goal_roles": [
         "education intern"
@@ -717,7 +731,8 @@
       ],
       "reason_codes": [
         "explicit goal in summary",
-        "strong experience in youth mentoring and program management"
+        "mentoring experience",
+        "education major"
       ],
       "review_reasons": []
     },
@@ -725,21 +740,22 @@
       "accepted": true,
       "scored_skills": [
         "Writing",
-        "Design",
+        "Communications and Media",
         "Instructing",
         "Coordination",
-        "Customer and Personal Service",
         "Social Perceptiveness",
-        "Communications and Media",
+        "Customer and Personal Service",
+        "Sales and Marketing",
         "Administrative",
         "Computers and Electronics",
-        "Mathematics",
+        "Design",
+        "English Language",
         "Speaking",
-        "Foreign Language",
-        "Active Listening",
         "Monitoring",
         "Management of Personnel Resources",
-        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Time Management",
         "adobe",
         "analysis",
         "bilingual",
@@ -748,13 +764,12 @@
         "conservation",
         "content",
         "creative",
+        "culture",
         "data",
         "database",
         "design",
         "digital",
         "entrepreneurship",
-        "google",
-        "google suite",
         "graphic design",
         "mentor",
         "mentoring",
@@ -762,31 +777,43 @@
         "mentorship",
         "mentorship program",
         "networking",
-        "outreach",
+        "non profit",
+        "non profit organization",
         "photoshop",
         "platform",
         "platforms",
-        "poetry",
         "public speaking",
-        "spanish"
+        "spanish",
+        "google",
+        "google suite",
+        "outreach",
+        "community outreach",
+        "community events",
+        "intake",
+        "online ordering",
+        "ordering",
+        "organization",
+        "present",
+        "program"
       ],
       "verified_skills": [
         "Writing",
-        "Design",
+        "Communications and Media",
         "Instructing",
         "Coordination",
-        "Customer and Personal Service",
         "Social Perceptiveness",
-        "Communications and Media",
+        "Customer and Personal Service",
+        "Sales and Marketing",
         "Administrative",
         "Computers and Electronics",
-        "Mathematics",
+        "Design",
+        "English Language",
         "Speaking",
-        "Foreign Language",
-        "Active Listening",
         "Monitoring",
         "Management of Personnel Resources",
-        "Sales and Marketing",
+        "Active Listening",
+        "Critical Thinking",
+        "Time Management",
         "adobe",
         "analysis",
         "bilingual",
@@ -795,13 +822,12 @@
         "conservation",
         "content",
         "creative",
+        "culture",
         "data",
         "database",
         "design",
         "digital",
         "entrepreneurship",
-        "google",
-        "google suite",
         "graphic design",
         "mentor",
         "mentoring",
@@ -809,13 +835,24 @@
         "mentorship",
         "mentorship program",
         "networking",
-        "outreach",
+        "non profit",
+        "non profit organization",
         "photoshop",
         "platform",
         "platforms",
-        "poetry",
         "public speaking",
-        "spanish"
+        "spanish",
+        "google",
+        "google suite",
+        "outreach",
+        "community outreach",
+        "community events",
+        "intake",
+        "online ordering",
+        "ordering",
+        "organization",
+        "present",
+        "program"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -826,17 +863,14 @@
         "can",
         "christian",
         "church",
-        "community events",
-        "community outreach",
-        "culture",
         "delivery",
         "extracurricular activities",
         "families",
         "google maps",
+        "grade",
         "grades",
         "high school",
         "home",
-        "intake",
         "internship",
         "internship application",
         "internship program",
@@ -848,29 +882,23 @@
         "meta",
         "music",
         "navigate",
-        "non profit",
-        "non profit organization",
-        "online ordering",
-        "ordering",
-        "organization",
         "part",
-        "present",
-        "program"
+        "poetry"
       ],
       "implicit_skills": [
         {
-          "skill": "Teamwork",
-          "reason": "Mentoring and coordination imply collaboration",
+          "skill": "Event Planning",
+          "reason": "Experience with community events and coordination implies event planning skills.",
           "confidence": "medium"
         },
         {
-          "skill": "Problem Solving",
-          "reason": "Analysis and design skills suggest troubleshooting",
+          "skill": "Team Leadership",
+          "reason": "Leadership experience and management of personnel resources indicate team leadership.",
           "confidence": "medium"
         },
         {
-          "skill": "Time Management",
-          "reason": "Handling multiple roles like instructing and coordination",
+          "skill": "Project Management",
+          "reason": "Coordination, monitoring, and management skills suggest project management ability.",
           "confidence": "medium"
         }
       ],

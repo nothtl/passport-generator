@@ -6,7 +6,7 @@
   "evidence_spans": [
     {
       "section": "summary",
-      "text": "I am very passionate about helping my community in any way, anytime."
+      "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
     },
     {
       "section": "summary",
@@ -26,7 +26,8 @@
     "Youth Advocate"
   ],
   "goal_subdomains": [
-    "youth-support"
+    "youth-support",
+    "community-support"
   ],
   "reason_codes": [
     "explicit_goal",

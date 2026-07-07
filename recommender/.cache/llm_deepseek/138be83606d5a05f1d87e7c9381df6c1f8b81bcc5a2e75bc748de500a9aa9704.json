@@ -18,8 +18,7 @@
     }
   ],
   "goal_domains": [
-    "arts-media",
-    "design"
+    "arts-media"
   ],
   "goal_roles": [
     "Photographer",
@@ -31,9 +30,9 @@
     "content-creation"
   ],
   "reason_codes": [
-    "explicit_goals",
-    "education_major",
-    "work_experience"
+    "explicit career goals",
+    "strong work experience in arts-media",
+    "education in arts-media"
   ],
   "review_reasons": [],
   "secondary_function": "design",

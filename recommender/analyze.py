@@ -134,6 +134,10 @@ def _build_candidate_jobs(
                 seen.add(key)
                 combined.append(row)
 
+    # The 21GB dataset has very few entry-level jobs for niche functions
+    # (aerospace, protective-service, etc). We use per-function parquets + subset
+    # as the primary source, with O*NET fallback for the thinnest functions.
+
     filtered = filter_job_records(
         combined,
         candidate_function=candidate_functions[0] if candidate_functions else "",

@@ -21,8 +21,8 @@
   ],
   "goal_subdomains": [],
   "reason_codes": [
-    "explicit goal",
-    "education major"
+    "explicit_goal",
+    "education_major"
   ],
   "review_reasons": [],
   "secondary_function": "education",

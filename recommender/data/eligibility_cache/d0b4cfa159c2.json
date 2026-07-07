@@ -1,0 +1,18 @@
+{
+  "Bilingual 1st Grade Teacher (Spanish)|||accelschools": {
+    "eligible": true,
+    "reason": "Teaching roles do not have age restrictions beyond typical employment laws; 16-20 year olds can be teachers or assistants."
+  },
+  "Bilingual 4th Grade Teacher (Spanish)|||accelschools": {
+    "eligible": true,
+    "reason": "Same as above; teaching roles are eligible for minors/young adults."
+  },
+  "Dean of Students|||accelschools": {
+    "eligible": true,
+    "reason": "Dean of Students is an educational role, not age-restricted to 21+."
+  },
+  "Family & Community Liaison|||accelschools": {
+    "eligible": true,
+    "reason": "Liaison role is administrative/community-facing, no legal age barrier."
+  }
+}

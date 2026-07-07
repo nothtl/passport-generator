@@ -14,21 +14,24 @@
     }
   ],
   "goal_domains": [
-    "arts-media"
+    "arts-media",
+    "education"
   ],
   "goal_roles": [
     "Social Media Manager",
     "Content Creator"
   ],
   "goal_subdomains": [
-    "content-creation"
+    "content-creation",
+    "creative-education"
   ],
   "reason_codes": [
-    "explicit_goal",
-    "work_experience"
+    "explicit_goal_weak",
+    "experience_strong",
+    "education_support"
   ],
   "review_reasons": [],
-  "secondary_function": "sales",
+  "secondary_function": "education",
   "study_domains": [
     "arts-media"
   ],

@@ -18,7 +18,8 @@
     }
   ],
   "goal_domains": [
-    "social-service"
+    "social-service",
+    "education"
   ],
   "goal_roles": [
     "Social Worker",

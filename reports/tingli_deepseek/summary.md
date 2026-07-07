@@ -1,6 +1,6 @@
 # DeepSeek v4 Flash — Recommender Reports
 
-Generated 19 reports in 7.0m using DeepSeek v4 flash.
+Generated 19 reports in 5.8m using DeepSeek v4 flash.
 LLM config: mode=force, model=deepseek-chat, max_calls=9
 
 ## Stats
@@ -12,38 +12,38 @@ LLM config: mode=force, model=deepseek-chat, max_calls=9
 
 | Student | Function | Subdomain | Lane | Conf | Review | Skills | Rejected | Time |
 |---------|----------|-----------|------|------|--------|--------|----------|------|
-| Abigail Rodriguez | education | youth-programs | rescue | 67% | YES | 56 | 28 | 92s |
-| Alan Li | finance |  | rescue | 82% | OK | 37 | 33 | 18s |
-| Alex Aquino | technology | engineering | rescue | 72% | YES | 79 | 0 | 7s |
-| Ayele Dounou | education | youth-programs | rescue | 58% | YES | 15 | 64 | 8s |
-| Benjamin Medrano | technology | it-support | rescue | 61% | YES | 63 | 5 | 56s |
-| Bianka Pena | healthcare | research | rescue | 64% | YES | 32 | 46 | 25s |
-| Cristal Davidson | arts-media | content-creation | rescue | 63% | YES | 14 | 52 | 7s |
-| Devin Rhodie | technology | software | rescue | 95% | OK | 48 | 29 | 24s |
-| Emiliano Hernandez Cordero | social-service | community-support | rescue | 55% | YES | 15 | 60 | 17s |
-| Francis Calderon | arts-media | graphic-design | rescue | 61% | YES | 12 | 11 | 18s |
-| Ismatu Barry | education | classroom-support | rescue | 69% | YES | 42 | 80 | 21s |
-| Iyana Rankin | arts-media | content-creation | rescue | 62% | YES | 28 | 51 | 9s |
-| Jhan Motta | arts-media | photo-video | rescue | 67% | YES | 30 | 58 | 23s |
-| Khadim Ka | protective-service |  | rescue | 54% | YES | 36 | 42 | 16s |
-| Leila Titikpina | healthcare | clinical-support | rescue | 72% | YES | 45 | 39 | 24s |
-| Leyli Hernandez | social-service | youth-support | rescue | 65% | YES | 23 | 35 | 16s |
-| Mingyu Carl Huo | education | classroom-support | rescue | 82% | OK | 47 | 21 | 16s |
-| Naim Bakere | education | community-education | rescue | 61% | YES | 27 | 35 | 8s |
-| Samuel Tavarez | finance |  | rescue | 85% | OK | 76 | 4 | 16s |
+| Abigail Rodriguez | education | youth-programs | rescue | 67% | YES | 49 | 30 | 59s |
+| Alan Li | finance |  | rescue | 82% | OK | 15 | 59 | 18s |
+| Alex Aquino | technology | engineering | rescue | 72% | YES | 79 | 0 | 6s |
+| Ayele Dounou | education | youth-programs | rescue | 58% | YES | 36 | 43 | 8s |
+| Benjamin Medrano | technology | it-support | rescue | 61% | YES | 58 | 5 | 48s |
+| Bianka Pena | healthcare | research | rescue | 64% | YES | 59 | 21 | 19s |
+| Cristal Davidson | arts-media | content-creation | rescue | 63% | YES | 14 | 52 | 6s |
+| Devin Rhodie | technology | software | rescue | 95% | OK | 40 | 41 | 23s |
+| Emiliano Hernandez Cordero | social-service | community-support | rescue | 55% | YES | 15 | 62 | 15s |
+| Francis Calderon | arts-media | graphic-design | rescue | 61% | YES | 10 | 10 | 16s |
+| Ismatu Barry | education | classroom-support | rescue | 69% | YES | 34 | 47 | 16s |
+| Iyana Rankin | arts-media | content-creation | rescue | 62% | YES | 28 | 51 | 8s |
+| Jhan Motta | arts-media | photo-video | rescue | 67% | YES | 57 | 34 | 21s |
+| Khadim Ka | protective-service |  | rescue | 54% | YES | 36 | 42 | 17s |
+| Leila Titikpina | healthcare | clinical-support | rescue | 72% | YES | 85 | 0 | 18s |
+| Leyli Hernandez | social-service | youth-support | rescue | 65% | YES | 21 | 35 | 15s |
+| Mingyu Carl Huo | education | classroom-support | rescue | 82% | OK | 12 | 7 | 14s |
+| Naim Bakere | education | community-education | rescue | 61% | YES | 27 | 35 | 7s |
+| Samuel Tavarez | finance |  | rescue | 85% | OK | 72 | 10 | 15s |
 
 ## Benchmarks
 
-### Abigail Rodriguez — PASS
+### Abigail Rodriguez — FAIL
 - Function: `education` (subdomain: `youth-programs`)
 - Lane: `rescue`
-- Top jobs: ['Instructor - Los Angeles', 'Paraeducator', 'Substitute Teacher']
-- Core gaps: ['classroom-management', 'curriculum-delivery', 'teaching']
+- Top jobs: ['Camp Instructor -Chicago', 'Instructor - Los Angeles', 'Paraeducator']
+- Core gaps: ['classroom-management', 'curriculum-delivery', 'javascript', 'kahoot', 'python']
 - Forbidden hits: None
 
-### Leila Titikpina — FAIL
+### Leila Titikpina — PASS
 - Function: `healthcare` (subdomain: `clinical-support`)
 - Lane: `rescue`
-- Top jobs: ['Certified Nursing Assistant (CNA)', 'Teacher Assistant', 'Pharmacy Technician']
-- Core gaps: []
+- Top jobs: ['Pharmacy Technician', 'Refugee Health & Social Integration Intern (Summer 2026)', 'Certified Nursing Assistant (CNA)']
+- Core gaps: ['cpr-for-the-professional-rescuer', 'data-entry', 'lifeguard', 'record-keeping']
 - Forbidden hits: None

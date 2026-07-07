@@ -14,18 +14,20 @@
     }
   ],
   "goal_domains": [
-    "technology"
+    "technology",
+    "skilled-trade"
   ],
   "goal_roles": [
-    "mechanical engineer"
+    "Mechanical Engineer"
   ],
   "goal_subdomains": [
-    "engineering"
+    "engineering",
+    "robotics-manufacturing"
   ],
   "reason_codes": [
-    "strong_education",
-    "engineering_projects",
-    "construction_training"
+    "strong_education_in_mechanical_engineering",
+    "engineering_projects_using_CAD_and_programming",
+    "construction_training_certifications"
   ],
   "review_reasons": [],
   "secondary_function": "skilled-trade",

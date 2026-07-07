@@ -7,50 +7,46 @@
     "Communications and Media",
     "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
-    "Active Listening",
-    "Complex Problem Solving",
     "Speaking",
-    "Sales and Marketing",
+    "Active Listening",
+    "Time Management",
+    "Critical Thinking",
     "Management of Personnel Resources",
+    "Sales and Marketing",
     "community engagement",
     "engagement",
     "leadership",
     "management",
-    "media",
     "media management",
     "organized",
     "problem solving",
     "public speaking",
-    "social",
-    "social media",
     "social media management",
-    "speaking"
+    "team leadership",
+    "volunteering"
   ],
   "verified_skills": [
     "Coordination",
     "Communications and Media",
     "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
-    "Active Listening",
-    "Complex Problem Solving",
     "Speaking",
-    "Sales and Marketing",
+    "Active Listening",
+    "Time Management",
+    "Critical Thinking",
     "Management of Personnel Resources",
+    "Sales and Marketing",
     "community engagement",
     "engagement",
     "leadership",
     "management",
-    "media",
     "media management",
     "organized",
     "problem solving",
     "public speaking",
-    "social",
-    "social media",
     "social media management",
-    "speaking"
+    "team leadership",
+    "volunteering"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -69,8 +65,8 @@
     "hours",
     "junior",
     "languages",
-    "leadership skills",
     "learner",
+    "media",
     "name",
     "native spanish",
     "non profit",
@@ -82,12 +78,12 @@
     "professionals",
     "quick learner",
     "schools",
+    "social",
     "spanish",
+    "speaking",
     "sports",
     "student athlete",
-    "team leadership",
     "u s citizen",
-    "volunteering",
     "weekends"
   ],
   "skill_weights": {},
@@ -96,102 +92,104 @@
     "Communications and Media",
     "Customer and Personal Service",
     "Social Perceptiveness",
-    "Time Management",
-    "Active Listening",
-    "Complex Problem Solving",
     "Speaking",
-    "Sales and Marketing",
+    "Active Listening",
+    "Time Management",
+    "Critical Thinking",
     "Management of Personnel Resources",
+    "Sales and Marketing",
     "community engagement",
     "engagement",
     "leadership",
     "management",
-    "media",
     "media management",
     "organized",
     "problem solving",
     "public speaking",
-    "social",
-    "social media",
     "social media management",
-    "speaking"
+    "team leadership",
+    "volunteering"
   ],
   "inferred": [
     "Bilingual (Spanish)",
     "Event Planning",
-    "Teamwork"
+    "Team Collaboration"
   ],
   "implicit_skills": [
     {
       "skill": "Bilingual (Spanish)",
-      "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
+      "reason": "Mentioned 'native spanish' and 'spanish' in education context",
       "confidence": "medium"
     },
     {
       "skill": "Event Planning",
-      "reason": "Mentioned 'community events' and 'organized' suggests event coordination.",
+      "reason": "Mentioned 'community events' and 'organized'",
       "confidence": "medium"
     },
     {
-      "skill": "Teamwork",
-      "reason": "Mentioned 'team leadership' and 'student athlete' implies collaboration.",
+      "skill": "Team Collaboration",
+      "reason": "Mentioned 'team leadership' and 'groups'",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
   "gaps": [
+    "communication",
     "customer-service",
     "education",
-    "history"
+    "history",
+    "organization"
   ],
   "core_gaps": [
+    "communication",
     "customer-service",
     "education",
-    "history"
+    "history",
+    "organization"
   ],
   "bridge_gaps": [
     "archaeology",
-    "coaching",
-    "communication",
-    "english",
     "gardens",
     "interpretation",
-    "organization",
-    "parents-communication",
-    "student-support",
     "tour-management"
   ],
   "stretch_gaps": [
-    "budgeting",
-    "camp-operations",
-    "classroom-support",
-    "curriculum-planning",
-    "event-participation",
-    "event-support",
-    "facilitation",
-    "group-facilitation",
-    "group-instruction",
-    "logistics"
-  ],
-  "nice_to_have_gaps": [
-    "archaeology",
-    "budgeting",
     "camp-operations",
     "classroom-support",
     "coaching",
-    "communication",
-    "curriculum-planning",
     "english",
     "event-participation",
-    "event-support"
+    "event-support",
+    "facilitation",
+    "group-instruction",
+    "logistics",
+    "microsoft-office"
   ],
-  "verify_gaps": [
-    "event-planning"
+  "nice_to_have_gaps": [
+    "archaeology",
+    "camp-operations",
+    "classroom-support",
+    "coaching",
+    "english",
+    "event-participation",
+    "event-support",
+    "facilitation",
+    "gardens",
+    "group-instruction"
   ],
+  "verify_gaps": [],
   "related": [
     {
-      "skill": "contentcreation",
-      "pmi": 5.21
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
+      "skill": "microsoftoffice",
+      "pmi": 3.54
     },
     {
       "skill": "privatelessons",
@@ -202,12 +200,12 @@
       "pmi": 3.33
     },
     {
-      "skill": "eventplanning",
-      "pmi": 3.23
-    },
-    {
       "skill": "inwaterskillsassessment",
       "pmi": 3.2
+    },
+    {
+      "skill": "confidentiality",
+      "pmi": 3.11
     },
     {
       "skill": "planning",
@@ -220,20 +218,20 @@
     {
       "skill": "safetyprotocols",
       "pmi": 2.94
-    },
-    {
-      "skill": "mentorship",
-      "pmi": 2.92
-    },
-    {
-      "skill": "communityoutreach",
-      "pmi": 2.86
     }
   ],
   "related_skills": [
     {
-      "skill": "contentcreation",
-      "pmi": 5.21
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 4.39
+    },
+    {
+      "skill": "microsoftoffice",
+      "pmi": 3.54
     },
     {
       "skill": "privatelessons",
@@ -244,12 +242,12 @@
       "pmi": 3.33
     },
     {
-      "skill": "eventplanning",
-      "pmi": 3.23
-    },
-    {
       "skill": "inwaterskillsassessment",
       "pmi": 3.2
+    },
+    {
+      "skill": "confidentiality",
+      "pmi": 3.11
     },
     {
       "skill": "planning",
@@ -262,14 +260,6 @@
     {
       "skill": "safetyprotocols",
       "pmi": 2.94
-    },
-    {
-      "skill": "mentorship",
-      "pmi": 2.92
-    },
-    {
-      "skill": "communityoutreach",
-      "pmi": 2.86
     }
   ],
   "alternatives": [
@@ -294,20 +284,42 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a social-service path, focus first on customer-service, education, history. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a social-service path, focus first on communication, customer-service, education. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
+    {
+      "title": "Instructional Aide (Pre-Employment Transition Services) - Jonesboro",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2742946",
+      "fit": 88,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "social-service",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
+      "gaps": "communication, customer-service, education",
+      "job_score_breakdown": {
+        "goal_alignment": 0.438,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.4,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Role is an instructional aide, no age restrictions beyond typical employment."
+    },
     {
       "title": "English and History tutor",
       "company": "ajtutoring",
       "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
-      "fit": 81,
-      "job_type": "bridge",
+      "fit": 83,
+      "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.222,
+        "goal_alignment": 0.312,
         "study_alignment": 0.556,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -322,14 +334,14 @@
       "title": "Dance Professional",
       "company": "fred-astaire-dance-studios-3",
       "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 58,
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
+        "goal_alignment": 0.25,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -349,9 +361,9 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.0,
+        "goal_alignment": 0.125,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -371,9 +383,9 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.562,
         "study_alignment": 0.667,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -383,43 +395,43 @@
       },
       "eligible": true,
       "eligibility_reason": "Camp counselor, no age restriction."
-    },
-    {
-      "title": "Madrichim Staff - Summer 2026",
-      "company": "bbyo",
-      "url": "https://bbyo.org/about/careers/career-details/?gh_jid=7344243",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
-      "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.3,
-        "quality_penalty": 0.45
-      },
-      "eligible": true,
-      "eligibility_reason": "Madrichim staff, typical for teens."
     }
   ],
   "ready_now": [
     {
-      "title": "English and History tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
-      "fit": 81,
-      "job_type": "bridge",
+      "title": "Instructional Aide (Pre-Employment Transition Services) - Jonesboro",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2742946",
+      "fit": 88,
+      "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.222,
+        "goal_alignment": 0.438,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.4,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Role is an instructional aide, no age restrictions beyond typical employment."
+    },
+    {
+      "title": "English and History tutor",
+      "company": "ajtutoring",
+      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
+      "fit": 83,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "social-service",
+      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
+      "gaps": "communication, customer-service, education",
+      "job_score_breakdown": {
+        "goal_alignment": 0.312,
         "study_alignment": 0.556,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -429,19 +441,21 @@
       },
       "eligible": true,
       "eligibility_reason": "Tutor, no age restriction."
-    },
+    }
+  ],
+  "aspirational": [
     {
       "title": "Dance Professional",
       "company": "fred-astaire-dance-studios-3",
       "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 58,
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
+        "goal_alignment": 0.25,
         "study_alignment": 0.222,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -451,9 +465,7 @@
       },
       "eligible": true,
       "eligibility_reason": "Dance professional role is suitable for minors/young adults."
-    }
-  ],
-  "aspirational": [
+    },
     {
       "title": "Cultural Site Interpreter",
       "company": "thetrustees",
@@ -463,9 +475,9 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.0,
+        "goal_alignment": 0.125,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
@@ -485,9 +497,9 @@
       "subdomain": "youth-support",
       "function": "social-service",
       "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
+      "gaps": "communication, customer-service, education",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
+        "goal_alignment": 0.562,
         "study_alignment": 0.667,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
@@ -497,41 +509,19 @@
       },
       "eligible": true,
       "eligibility_reason": "Camp counselor, no age restriction."
-    },
-    {
-      "title": "Madrichim Staff - Summer 2026",
-      "company": "bbyo",
-      "url": "https://bbyo.org/about/careers/career-details/?gh_jid=7344243",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "customer-service, education, history",
-      "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.3,
-        "quality_penalty": 0.45
-      },
-      "eligible": true,
-      "eligibility_reason": "Madrichim staff, typical for teens."
     }
   ],
-  "skill_path": "You already have a strong foundation in coordination, communication, and social perceptiveness. By building bridge skills like coaching and education, and then adding customer service and budgeting, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate.",
+  "skill_path": "You already have a powerful set of skills in coordination, communication, and social perceptiveness. By building bridge skills like interpretation and event planning, and then targeting specific goal skills like education and history, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Coordination\n├── Communications and Media\n├── Customer and Personal Service\n├── Social Perceptiveness\n├── Time Management\n├── Active Listening\n├── Complex Problem Solving\n├── Speaking\n├── Sales and Marketing\n├── Management of Personnel Resources\n├── Bilingual (Spanish)\n├── Event Planning\n└── Teamwork\n    ↓\nBRIDGE SKILLS\n├── Coaching\n├── Communication\n├── English\n├── Gardens\n└── Archaeology\n    ↓\nGOAL SKILLS\n├── Customer Service\n├── Education\n├── History\n├── Budgeting\n├── Camp Operations\n├── Classroom Support\n├── Curriculum Planning\n└── Event Participation\n    ↓\nDREAM CAREERS\n├── Social Worker\n├── Community Organizer\n└── Youth Advocate",
+    "tree": "CURRENT SKILLS\n├── Coordination\n├── Communications and Media\n├── Customer and Personal Service\n├── Social Perceptiveness\n├── Speaking\n├── Active Listening\n├── Time Management\n├── Critical Thinking\n├── Management of Personnel Resources\n├── Sales and Marketing\n├── Bilingual (Spanish)\n├── Event Planning\n└── Team Collaboration\n    ↓\nBRIDGE SKILLS\n├── Archaeology\n├── Gardens\n├── Interpretation\n└── Tour Management\n    ↓\nGOAL SKILLS\n├── Communication\n├── Customer Service\n├── Education\n├── History\n├── Organization\n├── Camp Operations\n├── Classroom Support\n├── Coaching\n├── English\n└── Event Participation\n    ↓\nCAREER\n├── Social Worker\n├── Community Organizer\n└── Youth Advocate",
     "steps": [
-      "Take a free online course in Customer Service to strengthen your people skills.",
-      "Volunteer as a tutor or mentor to gain Education and Coaching experience.",
-      "Study local History through community archives or online resources.",
-      "Enroll in a Budgeting workshop or use free tools like Mint to practice.",
-      "Seek an internship in a youth program or community organization to apply all skills."
+      "Take a free online course in communication or public speaking to strengthen your already strong foundation.",
+      "Volunteer at a local community garden or museum to develop interpretation and event planning skills.",
+      "Enroll in a history or education class at a community college to build knowledge for youth advocacy.",
+      "Seek a part-time role in camp operations or classroom support to gain hands-on experience with youth.",
+      "Network with social workers and community organizers to learn about their career paths and find mentorship."
     ],
-    "summary": "You already have a strong foundation in coordination, communication, and social perceptiveness. By building bridge skills like coaching and education, and then adding customer service and budgeting, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate."
+    "summary": "You already have a powerful set of skills in coordination, communication, and social perceptiveness. By building bridge skills like interpretation and event planning, and then targeting specific goal skills like education and history, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate."
   },
   "ideal_careers": [
     "Social Worker",
@@ -540,7 +530,8 @@
   ],
   "student_intent": {
     "goal_domains": [
-      "social-service"
+      "social-service",
+      "education"
     ],
     "goal_roles": [
       "Social Worker",
@@ -620,7 +611,8 @@
       "chosen_subdomain": "youth-support",
       "secondary_function": "education",
       "goal_domains": [
-        "social-service"
+        "social-service",
+        "education"
       ],
       "study_domains": [
         "education"
@@ -664,50 +656,46 @@
         "Communications and Media",
         "Customer and Personal Service",
         "Social Perceptiveness",
-        "Time Management",
-        "Active Listening",
-        "Complex Problem Solving",
         "Speaking",
-        "Sales and Marketing",
+        "Active Listening",
+        "Time Management",
+        "Critical Thinking",
         "Management of Personnel Resources",
+        "Sales and Marketing",
         "community engagement",
         "engagement",
         "leadership",
         "management",
-        "media",
         "media management",
         "organized",
         "problem solving",
         "public speaking",
-        "social",
-        "social media",
         "social media management",
-        "speaking"
+        "team leadership",
+        "volunteering"
       ],
       "verified_skills": [
         "Coordination",
         "Communications and Media",
         "Customer and Personal Service",
         "Social Perceptiveness",
-        "Time Management",
-        "Active Listening",
-        "Complex Problem Solving",
         "Speaking",
-        "Sales and Marketing",
+        "Active Listening",
+        "Time Management",
+        "Critical Thinking",
         "Management of Personnel Resources",
+        "Sales and Marketing",
         "community engagement",
         "engagement",
         "leadership",
         "management",
-        "media",
         "media management",
         "organized",
         "problem solving",
         "public speaking",
-        "social",
-        "social media",
         "social media management",
-        "speaking"
+        "team leadership",
+        "volunteering"
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -726,8 +714,8 @@
         "hours",
         "junior",
         "languages",
-        "leadership skills",
         "learner",
+        "media",
         "name",
         "native spanish",
         "non profit",
@@ -739,28 +727,28 @@
         "professionals",
         "quick learner",
         "schools",
+        "social",
         "spanish",
+        "speaking",
         "sports",
         "student athlete",
-        "team leadership",
         "u s citizen",
-        "volunteering",
         "weekends"
       ],
       "implicit_skills": [
         {
           "skill": "Bilingual (Spanish)",
-          "reason": "Mentioned 'native spanish' and 'spanish' in education context, indicating fluency.",
+          "reason": "Mentioned 'native spanish' and 'spanish' in education context",
           "confidence": "medium"
         },
         {
           "skill": "Event Planning",
-          "reason": "Mentioned 'community events' and 'organized' suggests event coordination.",
+          "reason": "Mentioned 'community events' and 'organized'",
           "confidence": "medium"
         },
         {
-          "skill": "Teamwork",
-          "reason": "Mentioned 'team leadership' and 'student athlete' implies collaboration.",
+          "skill": "Team Collaboration",
+          "reason": "Mentioned 'team leadership' and 'groups'",
           "confidence": "medium"
         }
       ],

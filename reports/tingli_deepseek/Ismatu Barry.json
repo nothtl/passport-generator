@@ -12,39 +12,31 @@
     "Foreign Language",
     "Active Listening",
     "Public Safety and Security",
+    "Troubleshooting",
     "Time Management",
     "Speaking",
     "attention to detail",
     "communication",
-    "english fluent",
     "excel",
     "french",
     "interpreter",
     "languages",
     "management",
     "microsoft office",
-    "microsoft office suite",
     "multilingual",
     "multilingual communication",
     "native english",
-    "access",
-    "administrative assistant",
-    "administrative duties",
-    "aide",
-    "assist",
-    "attendance tracking",
-    "behavior",
-    "building access",
     "classroom instruction",
-    "clerical",
-    "clerical support",
-    "clients",
-    "administration",
-    "bachelor",
-    "criminal justice",
-    "political science",
-    "public administration",
-    "science"
+    "confidentiality",
+    "information security",
+    "lesson preparation",
+    "microsoft office suite",
+    "monitor",
+    "organization",
+    "organized",
+    "patrols",
+    "policies",
+    "powerpoint"
   ],
   "verified_skills": [
     "Instructing",
@@ -56,53 +48,34 @@
     "Foreign Language",
     "Active Listening",
     "Public Safety and Security",
+    "Troubleshooting",
     "Time Management",
     "Speaking",
     "attention to detail",
     "communication",
-    "english fluent",
     "excel",
     "french",
     "interpreter",
     "languages",
     "management",
     "microsoft office",
-    "microsoft office suite",
     "multilingual",
     "multilingual communication",
     "native english",
-    "access",
-    "administrative assistant",
-    "administrative duties",
-    "aide",
-    "assist",
-    "attendance tracking",
-    "behavior",
-    "building access",
     "classroom instruction",
-    "clerical",
-    "clerical support",
-    "clients",
-    "administration",
-    "bachelor",
-    "criminal justice",
-    "political science",
-    "public administration",
-    "science"
+    "confidentiality",
+    "information security",
+    "lesson preparation",
+    "microsoft office suite",
+    "monitor",
+    "organization",
+    "organized",
+    "patrols",
+    "policies",
+    "powerpoint"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "Active Listening",
-    "Administrative",
-    "Coordination",
-    "Customer and Personal Service",
-    "Foreign Language",
-    "Instructing",
-    "Monitoring",
-    "Public Safety and Security",
-    "Speaking",
-    "Time Management",
-    "Writing",
     "access",
     "administration",
     "administrative",
@@ -112,17 +85,13 @@
     "assist",
     "attendance",
     "attendance tracking",
-    "attention to detail",
     "bachelor",
     "behavior",
     "building access",
-    "classroom instruction",
     "clerical",
     "clerical support",
     "clients",
-    "communication",
     "communications",
-    "confidentiality",
     "conversations",
     "correspondence",
     "criminal justice",
@@ -133,45 +102,27 @@
     "documents",
     "duties",
     "english fluent",
-    "excel",
-    "french",
     "high school",
     "identification",
     "immigration",
     "incidents",
     "inclusive classroom",
-    "information security",
     "instruction",
-    "interpreter",
-    "languages",
-    "legal",
-    "lesson preparation",
     "lunch",
-    "management",
     "materials",
     "meetings",
     "microsoft",
-    "microsoft office",
-    "microsoft office suite",
-    "monitor",
-    "multilingual",
-    "multilingual communication",
-    "native english",
     "oct",
     "office",
     "office suite",
     "one on one",
     "operations",
-    "organization",
-    "organized",
     "p s i",
     "paraprofessional",
-    "patrols",
     "point of contact",
-    "policies",
     "political science",
-    "powerpoint",
-    "present"
+    "public administration",
+    "science"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -184,59 +135,51 @@
     "Foreign Language",
     "Active Listening",
     "Public Safety and Security",
+    "Troubleshooting",
     "Time Management",
     "Speaking",
     "attention to detail",
     "communication",
-    "english fluent",
     "excel",
     "french",
     "interpreter",
     "languages",
     "management",
     "microsoft office",
-    "microsoft office suite",
     "multilingual",
     "multilingual communication",
     "native english",
-    "access",
-    "administrative assistant",
-    "administrative duties",
-    "aide",
-    "assist",
-    "attendance tracking",
-    "behavior",
-    "building access",
     "classroom instruction",
-    "clerical",
-    "clerical support",
-    "clients",
-    "administration",
-    "bachelor",
-    "criminal justice",
-    "political science",
-    "public administration",
-    "science"
+    "confidentiality",
+    "information security",
+    "lesson preparation",
+    "microsoft office suite",
+    "monitor",
+    "organization",
+    "organized",
+    "patrols",
+    "policies",
+    "powerpoint"
   ],
   "inferred": [
-    "Microsoft Office",
-    "Foreign Language Proficiency",
-    "Classroom Management"
+    "Microsoft Excel",
+    "Microsoft PowerPoint",
+    "Translation"
   ],
   "implicit_skills": [
     {
-      "skill": "Microsoft Office",
-      "reason": "Mentioned 'excel', 'powerpoint', 'microsoft office suite'",
+      "skill": "Microsoft Excel",
+      "reason": "Listed 'excel' which implies proficiency in Microsoft Excel.",
       "confidence": "medium"
     },
     {
-      "skill": "Foreign Language Proficiency",
-      "reason": "Mentioned 'french', 'interpreter', 'multilingual'",
+      "skill": "Microsoft PowerPoint",
+      "reason": "Listed 'powerpoint' which implies proficiency in Microsoft PowerPoint.",
       "confidence": "medium"
     },
     {
-      "skill": "Classroom Management",
-      "reason": "Mentioned 'classroom instruction', 'behavior', 'inclusive classroom'",
+      "skill": "Translation",
+      "reason": "Listed 'interpreter' and 'multilingual' which imply translation skills.",
       "confidence": "medium"
     }
   ],
@@ -254,20 +197,26 @@
     "interpersonal-relationships"
   ],
   "bridge_gaps": [
+    "calendar-management",
+    "data-entry",
+    "documentation",
     "general-physical-activities",
-    "physical-activities"
+    "meeting-scheduling",
+    "outlook",
+    "physical-activities",
+    "word"
   ],
   "stretch_gaps": [
     "affidavit-for-student-employment",
     "attendance",
     "basic-accounting",
-    "calendar-management",
     "cash-handling",
     "child-abuse-clearance",
     "clerkship",
-    "confidentiality",
     "criminal-clearance",
-    "customer-service"
+    "customer-service",
+    "fbi-clearance",
+    "multitasking"
   ],
   "nice_to_have_gaps": [
     "affidavit-for-student-employment",
@@ -277,9 +226,9 @@
     "cash-handling",
     "child-abuse-clearance",
     "clerkship",
-    "confidentiality",
     "criminal-clearance",
-    "customer-service"
+    "customer-service",
+    "data-entry"
   ],
   "verify_gaps": [],
   "related": [
@@ -288,20 +237,8 @@
       "pmi": 5.93
     },
     {
-      "skill": "socialstudies",
-      "pmi": 5.93
-    },
-    {
-      "skill": "onetoonesupport",
-      "pmi": 5.24
-    },
-    {
-      "skill": "stem",
-      "pmi": 5.24
-    },
-    {
       "skill": "microsoftoffice365",
-      "pmi": 4.83
+      "pmi": 5.36
     },
     {
       "skill": "readingcomprehension",
@@ -309,19 +246,31 @@
     },
     {
       "skill": "word",
-      "pmi": 4.73
+      "pmi": 4.78
     },
     {
       "skill": "coteaching",
       "pmi": 4.65
     },
     {
-      "skill": "powerpoint",
-      "pmi": 4.52
-    },
-    {
       "skill": "outlook",
       "pmi": 4.49
+    },
+    {
+      "skill": "windows",
+      "pmi": 4.49
+    },
+    {
+      "skill": "contentdevelopment",
+      "pmi": 4.49
+    },
+    {
+      "skill": "mathematics",
+      "pmi": 4.47
+    },
+    {
+      "skill": "reading",
+      "pmi": 4.43
     }
   ],
   "related_skills": [
@@ -330,20 +279,8 @@
       "pmi": 5.93
     },
     {
-      "skill": "socialstudies",
-      "pmi": 5.93
-    },
-    {
-      "skill": "onetoonesupport",
-      "pmi": 5.24
-    },
-    {
-      "skill": "stem",
-      "pmi": 5.24
-    },
-    {
       "skill": "microsoftoffice365",
-      "pmi": 4.83
+      "pmi": 5.36
     },
     {
       "skill": "readingcomprehension",
@@ -351,19 +288,31 @@
     },
     {
       "skill": "word",
-      "pmi": 4.73
+      "pmi": 4.78
     },
     {
       "skill": "coteaching",
       "pmi": 4.65
     },
     {
-      "skill": "powerpoint",
-      "pmi": 4.52
-    },
-    {
       "skill": "outlook",
       "pmi": 4.49
+    },
+    {
+      "skill": "windows",
+      "pmi": 4.49
+    },
+    {
+      "skill": "contentdevelopment",
+      "pmi": 4.49
+    },
+    {
+      "skill": "mathematics",
+      "pmi": 4.47
+    },
+    {
+      "skill": "reading",
+      "pmi": 4.43
     }
   ],
   "alternatives": [
@@ -391,9 +340,9 @@
   "coach_notes": "For a education path, focus first on critical-thinking, getting-information, handling-and-moving-objects. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Children's Center Student Assistant",
-      "company": "associated-students-inc",
-      "url": "https://apply.workable.com/j/919A2F2464",
+      "title": "Student Support Specialist (WSSD STUDENTS ONLY)",
+      "company": "ccres",
+      "url": "https://apply.workable.com/j/6B91342771",
       "fit": 86,
       "job_type": "goal",
       "subdomain": "classroom-support",
@@ -401,12 +350,34 @@
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.4,
+        "goal_alignment": 0.444,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.667,
+        "experience_alignment": 0.3,
+        "attainability": 0.75,
+        "skill_overlap": 0.3,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "No age restriction; suitable for youth."
+    },
+    {
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
+      "fit": 85,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
+      "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
         "study_alignment": 0.444,
         "subdomain_alignment": 0.714,
         "experience_alignment": 0.474,
         "attainability": 0.75,
-        "skill_overlap": 0.273,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -416,41 +387,19 @@
       "title": "Education Assistant",
       "company": "croihealth",
       "url": "https://job-boards.greenhouse.io/croihealth/jobs/5272601008",
-      "fit": 85,
-      "job_type": "goal",
+      "fit": 74,
+      "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.3,
+        "goal_alignment": 0.222,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.941,
         "experience_alignment": 0.408,
-        "attainability": 0.75,
-        "skill_overlap": 0.3,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restriction; suitable for youth."
-    },
-    {
-      "title": "Student Support Specialist (WSSD STUDENTS ONLY)",
-      "company": "ccres",
-      "url": "https://apply.workable.com/j/6B91342771",
-      "fit": 74,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
-      "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
-      "job_score_breakdown": {
-        "goal_alignment": 0.4,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.667,
-        "experience_alignment": 0.3,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "attainability": 0.85,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -460,14 +409,14 @@
       "title": "Non-CDL Delivery 26' Box Truck /  Warehouse Associate",
       "company": "cabp",
       "url": "https://jobs.dayforcehcm.com/cabp/CANDIDATEPORTAL/jobs/26993",
-      "fit": 71,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "ops",
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.2,
+        "goal_alignment": 0.222,
         "study_alignment": 0.333,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.145,
@@ -482,14 +431,14 @@
       "title": "Non-CDL Delivery Driver 26' Box Truck / Warehouse Associate",
       "company": "cabp",
       "url": "https://jobs.dayforcehcm.com/cabp/CANDIDATEPORTAL/jobs/26892",
-      "fit": 71,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "ops",
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.2,
+        "goal_alignment": 0.222,
         "study_alignment": 0.333,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.145,
@@ -503,9 +452,9 @@
   ],
   "ready_now": [
     {
-      "title": "Children's Center Student Assistant",
-      "company": "associated-students-inc",
-      "url": "https://apply.workable.com/j/919A2F2464",
+      "title": "Student Support Specialist (WSSD STUDENTS ONLY)",
+      "company": "ccres",
+      "url": "https://apply.workable.com/j/6B91342771",
       "fit": 86,
       "job_type": "goal",
       "subdomain": "classroom-support",
@@ -513,21 +462,21 @@
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.4,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.714,
-        "experience_alignment": 0.474,
+        "goal_alignment": 0.444,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.667,
+        "experience_alignment": 0.3,
         "attainability": 0.75,
-        "skill_overlap": 0.273,
+        "skill_overlap": 0.3,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Children's center assistant, suitable for young adults."
+      "eligibility_reason": "No age restriction; suitable for youth."
     },
     {
-      "title": "Education Assistant",
-      "company": "croihealth",
-      "url": "https://job-boards.greenhouse.io/croihealth/jobs/5272601008",
+      "title": "Children's Center Student Assistant",
+      "company": "associated-students-inc",
+      "url": "https://apply.workable.com/j/919A2F2464",
       "fit": 85,
       "job_type": "goal",
       "subdomain": "classroom-support",
@@ -535,36 +484,36 @@
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.3,
-        "study_alignment": 0.333,
-        "subdomain_alignment": 0.941,
-        "experience_alignment": 0.408,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.714,
+        "experience_alignment": 0.474,
         "attainability": 0.75,
-        "skill_overlap": 0.3,
+        "skill_overlap": 0.364,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "No age restriction; suitable for youth."
+      "eligibility_reason": "Children's center assistant, suitable for young adults."
     }
   ],
   "aspirational": [
     {
-      "title": "Student Support Specialist (WSSD STUDENTS ONLY)",
-      "company": "ccres",
-      "url": "https://apply.workable.com/j/6B91342771",
+      "title": "Education Assistant",
+      "company": "croihealth",
+      "url": "https://job-boards.greenhouse.io/croihealth/jobs/5272601008",
       "fit": 74,
-      "job_type": "goal",
+      "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.4,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.667,
-        "experience_alignment": 0.3,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.941,
+        "experience_alignment": 0.408,
+        "attainability": 0.85,
+        "skill_overlap": 0.4,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -574,14 +523,14 @@
       "title": "Non-CDL Delivery 26' Box Truck /  Warehouse Associate",
       "company": "cabp",
       "url": "https://jobs.dayforcehcm.com/cabp/CANDIDATEPORTAL/jobs/26993",
-      "fit": 71,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "ops",
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.2,
+        "goal_alignment": 0.222,
         "study_alignment": 0.333,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.145,
@@ -596,14 +545,14 @@
       "title": "Non-CDL Delivery Driver 26' Box Truck / Warehouse Associate",
       "company": "cabp",
       "url": "https://jobs.dayforcehcm.com/cabp/CANDIDATEPORTAL/jobs/26892",
-      "fit": 71,
+      "fit": 72,
       "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "ops",
       "why": "This role builds your Instructing, Administrative, Monitoring skills and moves you toward becoming a Science.",
       "gaps": "critical-thinking, getting-information, handling-and-moving-objects",
       "job_score_breakdown": {
-        "goal_alignment": 0.2,
+        "goal_alignment": 0.222,
         "study_alignment": 0.333,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.145,
@@ -615,17 +564,17 @@
       "eligibility_reason": "Non-CDL delivery and warehouse roles are suitable for 16-20 year olds."
     }
   ],
-  "skill_path": "You already have a strong foundation in instruction, administration, and communication. By building critical thinking, information gathering, and interpersonal skills, you'll be well on your way to becoming a science teacher or teaching assistant.",
+  "skill_path": "You already have a strong foundation in instruction, administration, and communication. By building bridge skills like calendar management and documentation, and then focusing on critical thinking and interpersonal relationships, you'll be well-prepared to become a science teacher or teaching assistant. Keep going—you're on the right track!",
   "skill_tree": {
-    "tree": "Current Skills\n├── Instructing\n├── Administrative\n├── Monitoring\n├── Coordination\n├── Writing\n├── Customer and Personal Service\n├── Foreign Language\n├── Active Listening\n├── Public Safety and Security\n└── Time Management\n│\n├── Implicit Skills\n│   ├── Microsoft Office\n│   ├── Foreign Language Proficiency\n│   └── Classroom Management\n│\n└── Core Missing Skills (Needed Now)\n    ├── Critical-Thinking\n    ├── Getting-Information\n    ├── Handling-and-Moving-Objects\n    └── Interpersonal-Relationships\n        │\n        └── Bridge Skills (Developing)\n            ├── General-Physical-Activities\n            └── Physical-Activities\n                │\n                └── Stretch Skills (Future)\n                    ├── Affidavit-for-Student-Employment\n                    ├── Attendance\n                    ├── Basic-Accounting\n                    ├── Calendar-Management\n                    └── Cash-Handling\n                        │\n                        └── Dream Career\n                            ├── Science\n                            ├── Teacher\n                            └── Teaching Assistant",
+    "tree": "CURRENT SKILLS\n├── Instructing\n├── Administrative\n├── Monitoring\n├── Coordination\n├── Writing\n├── Customer and Personal Service\n├── Foreign Language\n├── Active Listening\n├── Public Safety and Security\n├── Troubleshooting\n├── Microsoft Excel\n├── Microsoft PowerPoint\n└── Translation\n    ↓\nBRIDGE SKILLS\n├── Calendar Management\n├── Data Entry\n├── Documentation\n├── General Physical Activities\n└── Meeting Scheduling\n    ↓\nGOAL SKILLS\n├── Critical Thinking\n├── Getting Information\n├── Handling and Moving Objects\n├── Interpersonal Relationships\n├── Affidavit for Student Employment\n├── Attendance\n├── Basic Accounting\n├── Cash Handling\n└── Child Abuse Clearance\n    ↓\nDREAM CAREER\n├── Science Teacher\n└── Teaching Assistant",
     "steps": [
-      "Enroll in a free online course on critical thinking (e.g., Coursera's 'Critical Thinking Skills for University Success')",
-      "Practice getting information by conducting a simple research project on a science topic you enjoy",
-      "Volunteer to help move classroom materials or set up lab equipment to develop handling-and-moving-objects skills",
-      "Join a teacher's assistant program or volunteer in a classroom to build interpersonal relationships",
-      "Take a workshop on basic accounting and calendar management to prepare for administrative duties in education"
+      "Enroll in a free online course on critical thinking (e.g., Coursera's 'Critical Thinking Skills for the Professional')",
+      "Practice getting information by conducting research on a science topic and summarizing findings",
+      "Volunteer for a role involving handling and moving objects (e.g., lab assistant or classroom setup)",
+      "Join a study group or volunteer to improve interpersonal relationships through teamwork",
+      "Complete a child abuse clearance certification online (e.g., through your state's child welfare agency)"
     ],
-    "summary": "You already have a strong foundation in instruction, administration, and communication. By building critical thinking, information gathering, and interpersonal skills, you'll be well on your way to becoming a science teacher or teaching assistant."
+    "summary": "You already have a strong foundation in instruction, administration, and communication. By building bridge skills like calendar management and documentation, and then focusing on critical thinking and interpersonal relationships, you'll be well-prepared to become a science teacher or teaching assistant. Keep going—you're on the right track!"
   },
   "ideal_careers": [
     "Science",
@@ -637,8 +586,7 @@
       "education"
     ],
     "goal_roles": [
-      "Paraprofessional",
-      "Administrative Assistant"
+      "Paraprofessional"
     ],
     "goal_subdomains": [
       "classroom-support"
@@ -730,8 +678,7 @@
         "classroom-support"
       ],
       "goal_roles": [
-        "Paraprofessional",
-        "Administrative Assistant"
+        "Paraprofessional"
       ],
       "confidence": 0.85,
       "evidence_spans": [
@@ -741,7 +688,7 @@
         },
         {
           "section": "experience",
-          "text": "Managed staff schedules, coordinated meetings, and maintained organized records."
+          "text": "Provide one-on-one and small group assistance to students to enhance learning outcomes."
         }
       ],
       "reason_codes": [
@@ -762,39 +709,31 @@
         "Foreign Language",
         "Active Listening",
         "Public Safety and Security",
+        "Troubleshooting",
         "Time Management",
         "Speaking",
         "attention to detail",
         "communication",
-        "english fluent",
         "excel",
         "french",
         "interpreter",
         "languages",
         "management",
         "microsoft office",
-        "microsoft office suite",
         "multilingual",
         "multilingual communication",
         "native english",
-        "access",
-        "administrative assistant",
-        "administrative duties",
-        "aide",
-        "assist",
-        "attendance tracking",
-        "behavior",
-        "building access",
         "classroom instruction",
-        "clerical",
-        "clerical support",
-        "clients",
-        "administration",
-        "bachelor",
-        "criminal justice",
-        "political science",
-        "public administration",
-        "science"
+        "confidentiality",
+        "information security",
+        "lesson preparation",
+        "microsoft office suite",
+        "monitor",
+        "organization",
+        "organized",
+        "patrols",
+        "policies",
+        "powerpoint"
       ],
       "verified_skills": [
         "Instructing",
@@ -806,53 +745,34 @@
         "Foreign Language",
         "Active Listening",
         "Public Safety and Security",
+        "Troubleshooting",
         "Time Management",
         "Speaking",
         "attention to detail",
         "communication",
-        "english fluent",
         "excel",
         "french",
         "interpreter",
         "languages",
         "management",
         "microsoft office",
-        "microsoft office suite",
         "multilingual",
         "multilingual communication",
         "native english",
-        "access",
-        "administrative assistant",
-        "administrative duties",
-        "aide",
-        "assist",
-        "attendance tracking",
-        "behavior",
-        "building access",
         "classroom instruction",
-        "clerical",
-        "clerical support",
-        "clients",
-        "administration",
-        "bachelor",
-        "criminal justice",
-        "political science",
-        "public administration",
-        "science"
+        "confidentiality",
+        "information security",
+        "lesson preparation",
+        "microsoft office suite",
+        "monitor",
+        "organization",
+        "organized",
+        "patrols",
+        "policies",
+        "powerpoint"
       ],
       "possible_skills": [],
       "rejected_skills": [
-        "Active Listening",
-        "Administrative",
-        "Coordination",
-        "Customer and Personal Service",
-        "Foreign Language",
-        "Instructing",
-        "Monitoring",
-        "Public Safety and Security",
-        "Speaking",
-        "Time Management",
-        "Writing",
         "access",
         "administration",
         "administrative",
@@ -862,17 +782,13 @@
         "assist",
         "attendance",
         "attendance tracking",
-        "attention to detail",
         "bachelor",
         "behavior",
         "building access",
-        "classroom instruction",
         "clerical",
         "clerical support",
         "clients",
-        "communication",
         "communications",
-        "confidentiality",
         "conversations",
         "correspondence",
         "criminal justice",
@@ -883,60 +799,42 @@
         "documents",
         "duties",
         "english fluent",
-        "excel",
-        "french",
         "high school",
         "identification",
         "immigration",
         "incidents",
         "inclusive classroom",
-        "information security",
         "instruction",
-        "interpreter",
-        "languages",
-        "legal",
-        "lesson preparation",
         "lunch",
-        "management",
         "materials",
         "meetings",
         "microsoft",
-        "microsoft office",
-        "microsoft office suite",
-        "monitor",
-        "multilingual",
-        "multilingual communication",
-        "native english",
         "oct",
         "office",
         "office suite",
         "one on one",
         "operations",
-        "organization",
-        "organized",
         "p s i",
         "paraprofessional",
-        "patrols",
         "point of contact",
-        "policies",
         "political science",
-        "powerpoint",
-        "present"
+        "public administration",
+        "science"
       ],
       "implicit_skills": [
         {
-          "skill": "Microsoft Office",
-          "reason": "Mentioned 'excel', 'powerpoint', 'microsoft office suite'",
+          "skill": "Microsoft Excel",
+          "reason": "Listed 'excel' which implies proficiency in Microsoft Excel.",
           "confidence": "medium"
         },
         {
-          "skill": "Foreign Language Proficiency",
-          "reason": "Mentioned 'french', 'interpreter', 'multilingual'",
+          "skill": "Microsoft PowerPoint",
+          "reason": "Listed 'powerpoint' which implies proficiency in Microsoft PowerPoint.",
           "confidence": "medium"
         },
         {
-          "skill": "Classroom Management",
-          "reason": "Mentioned 'classroom instruction', 'behavior', 'inclusive classroom'",
+          "skill": "Translation",
+          "reason": "Listed 'interpreter' and 'multilingual' which imply translation skills.",
           "confidence": "medium"
         }
       ],

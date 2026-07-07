@@ -268,8 +268,8 @@
     "data-analysis",
     "documentation",
     "engineering",
-    "fall-protection",
-    "hand-tools"
+    "equipment-set-up",
+    "fabrication"
   ],
   "stretch_gaps": [
     "concrete",
@@ -333,7 +333,7 @@
       "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
       "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.714,
+        "goal_alignment": 0.625,
         "study_alignment": 0.714,
         "subdomain_alignment": 0.727,
         "experience_alignment": 0.235,
@@ -348,14 +348,14 @@
       "title": "Plumbing Apprentice",
       "company": "sila",
       "url": "https://jobs.lever.co/sila/354fbc33-956d-45cc-99ac-9aa8d58b4102",
-      "fit": 87,
+      "fit": 86,
       "job_type": "goal",
       "subdomain": "engineering",
       "function": "skilled-trade",
       "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
       "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.286,
+        "goal_alignment": 0.25,
         "study_alignment": 0.429,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.375,
@@ -389,6 +389,28 @@
       "eligibility_reason": "Safety coordinator role, no age restriction."
     },
     {
+      "title": "Welder/Fabricator- 2nd Shift",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "robotics-manufacturing",
+      "function": "skilled-trade",
+      "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
+    },
+    {
       "title": "Purchasing Intern",
       "company": "BoschGroup",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
@@ -399,7 +421,7 @@
       "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
       "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.143,
+        "goal_alignment": 0.125,
         "study_alignment": 0.286,
         "subdomain_alignment": 0.533,
         "experience_alignment": 0.4,
@@ -409,28 +431,6 @@
       },
       "eligible": true,
       "eligibility_reason": "Internship, no age restriction."
-    },
-    {
-      "title": "Skilled Laborers/ Carpenters",
-      "company": "esselenvironmental",
-      "url": "https://apply.workable.com/j/1BB6D20694",
-      "fit": 51,
-      "job_type": "bridge",
-      "subdomain": "engineering",
-      "function": "skilled-trade",
-      "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
-      "gaps": "microsoft-office, time-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.143,
-        "study_alignment": 0.286,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.5,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Skilled laborer/carpenter roles are suitable for 16-20 year olds with supervision."
     }
   ],
   "ready_now": [
@@ -445,7 +445,7 @@
       "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
       "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.714,
+        "goal_alignment": 0.625,
         "study_alignment": 0.714,
         "subdomain_alignment": 0.727,
         "experience_alignment": 0.235,
@@ -460,14 +460,14 @@
       "title": "Plumbing Apprentice",
       "company": "sila",
       "url": "https://jobs.lever.co/sila/354fbc33-956d-45cc-99ac-9aa8d58b4102",
-      "fit": 87,
+      "fit": 86,
       "job_type": "goal",
       "subdomain": "engineering",
       "function": "skilled-trade",
       "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
       "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.286,
+        "goal_alignment": 0.25,
         "study_alignment": 0.429,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.375,
@@ -503,6 +503,28 @@
       "eligibility_reason": "Safety coordinator role, no age restriction."
     },
     {
+      "title": "Welder/Fabricator- 2nd Shift",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4024610",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "robotics-manufacturing",
+      "function": "skilled-trade",
+      "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
+      "gaps": "microsoft-office, time-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.4,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Welder/fabricator roles are lawful for minors with proper training and safety measures."
+    },
+    {
       "title": "Purchasing Intern",
       "company": "BoschGroup",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129558629",
@@ -513,7 +535,7 @@
       "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
       "gaps": "microsoft-office, time-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.143,
+        "goal_alignment": 0.125,
         "study_alignment": 0.286,
         "subdomain_alignment": 0.533,
         "experience_alignment": 0.4,
@@ -523,28 +545,6 @@
       },
       "eligible": true,
       "eligibility_reason": "Internship, no age restriction."
-    },
-    {
-      "title": "Skilled Laborers/ Carpenters",
-      "company": "esselenvironmental",
-      "url": "https://apply.workable.com/j/1BB6D20694",
-      "fit": 51,
-      "job_type": "bridge",
-      "subdomain": "engineering",
-      "function": "skilled-trade",
-      "why": "A technology role that uses your academic assistance, accessibility, accuracy skills.",
-      "gaps": "microsoft-office, time-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.143,
-        "study_alignment": 0.286,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.5,
-        "attainability": 0.75,
-        "skill_overlap": 0.167,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Skilled laborer/carpenter roles are suitable for 16-20 year olds with supervision."
     }
   ],
   "skill_path": null,
@@ -552,13 +552,15 @@
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
-      "technology"
+      "technology",
+      "skilled-trade"
     ],
     "goal_roles": [
-      "mechanical engineer"
+      "Mechanical Engineer"
     ],
     "goal_subdomains": [
-      "engineering"
+      "engineering",
+      "robotics-manufacturing"
     ],
     "study_domains": [
       "technology"
@@ -625,7 +627,7 @@
     "engineering",
     "engineering",
     "engineering",
-    "engineering",
+    "robotics-manufacturing",
     "engineering"
   ],
   "needs_review": true,
@@ -637,19 +639,21 @@
       "chosen_subdomain": "engineering",
       "secondary_function": "skilled-trade",
       "goal_domains": [
-        "technology"
+        "technology",
+        "skilled-trade"
       ],
       "study_domains": [
         "technology"
       ],
       "goal_subdomains": [
-        "engineering"
+        "engineering",
+        "robotics-manufacturing"
       ],
       "study_subdomains": [
         "engineering"
       ],
       "goal_roles": [
-        "mechanical engineer"
+        "Mechanical Engineer"
       ],
       "confidence": 0.85,
       "evidence_spans": [
@@ -663,9 +667,9 @@
         }
       ],
       "reason_codes": [
-        "strong_education",
-        "engineering_projects",
-        "construction_training"
+        "strong_education_in_mechanical_engineering",
+        "engineering_projects_using_CAD_and_programming",
+        "construction_training_certifications"
       ],
       "review_reasons": []
     },

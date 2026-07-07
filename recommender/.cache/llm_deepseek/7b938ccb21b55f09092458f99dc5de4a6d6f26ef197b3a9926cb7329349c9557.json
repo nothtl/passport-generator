@@ -2,7 +2,7 @@
   "accepted": true,
   "chosen_function": "technology",
   "chosen_subdomain": "it-support",
-  "confidence": 0.7,
+  "confidence": 0.65,
   "evidence_spans": [
     {
       "section": "Professional Experience",
@@ -17,16 +17,14 @@
     "technology"
   ],
   "goal_roles": [
-    "Software Engineer",
     "IT Support Specialist"
   ],
   "goal_subdomains": [
-    "it-support",
-    "software"
+    "it-support"
   ],
   "reason_codes": [
-    "explicit goal",
-    "work experience"
+    "explicit_goal",
+    "work_experience"
   ],
   "review_reasons": [],
   "secondary_function": "healthcare",

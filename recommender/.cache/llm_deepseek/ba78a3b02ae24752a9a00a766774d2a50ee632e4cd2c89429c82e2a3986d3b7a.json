@@ -15,27 +15,23 @@
   ],
   "goal_domains": [
     "social-service",
-    "education"
+    "legal"
   ],
   "goal_roles": [
-    "community advocate",
-    "youth worker"
+    "community advocate"
   ],
   "goal_subdomains": [
-    "community-support",
-    "youth-support"
+    "community-support"
   ],
   "reason_codes": [
-    "education major in criminal justice maps to social-service",
-    "experience includes community support and advocacy",
-    "headline states 'Bilingual Community Advocate'"
+    "education major in criminal justice",
+    "experience in community support roles",
+    "bilingual community advocate headline"
   ],
   "review_reasons": [],
   "secondary_function": "education",
   "study_domains": [
-    "social-service"
+    "legal"
   ],
-  "study_subdomains": [
-    "community-support"
-  ]
+  "study_subdomains": []
 }

@@ -10,21 +10,25 @@
     },
     {
       "section": "skills",
-      "text": "HOBBIES & INTERESTS - Playing soccer - Graphicdesigning - Videogaming"
+      "text": "HOBBIES & INTERESTS - Playing soccer - Graphic designing - Videogaming"
     }
   ],
   "goal_domains": [
-    "arts-media"
+    "arts-media",
+    "education"
   ],
   "goal_roles": [
-    "graphic designer"
+    "graphic designer",
+    "art teacher"
   ],
   "goal_subdomains": [
-    "graphic-design"
+    "graphic-design",
+    "creative-education"
   ],
   "reason_codes": [
     "explicit interest in graphic design",
-    "arts internship experience"
+    "arts internship experience",
+    "education-related experience with children"
   ],
   "review_reasons": [],
   "secondary_function": "education",

@@ -306,8 +306,12 @@ def _load_subset():
         _subset_cache = pq.read_table(_SUBSET_PATH).to_pandas()
     return _subset_cache
 
-def _stream_full_parquet(function_labels: set[str], keyword_filters: list[str], top_k: int) -> list[dict]:
-    """Stream through the full 21GB parquet by row groups, filtering on the fly."""
+def _stream_full_parquet(function_labels: set[str], keyword_filters: list[str], top_k: int,
+                         include_all_levels: bool = False) -> list[dict]:
+    """Stream through the full 21GB parquet by row groups, filtering on the fly.
+
+    If include_all_levels=True, keeps Mid/Senior jobs for aspirational tier.
+    """
     full_path = os.path.join(_CORPUS_DIR, "_open_jobs_full.parquet")
     if not os.path.exists(full_path):
         return []
@@ -316,8 +320,9 @@ def _stream_full_parquet(function_labels: set[str], keyword_filters: list[str], 
     pf = pq.ParquetFile(full_path)
     matched = []
     target_levels = {"intern", "entry", "junior", "", "unknown"}
-    _senior = ("manager", "director", "principal", "senior", "lead ", "chief ",
-               "attorney", "counsel", "general application", "account executive", "vp ")
+    if include_all_levels:
+        target_levels.update({"mid", "senior", "staff", "associate"})
+    _senior = ("general application", "account executive", "vp ", "vice president")
 
     for i in range(pf.metadata.num_row_groups):
         table = pf.read_row_group(i, columns=["id", "ats", "company", "title", "url",

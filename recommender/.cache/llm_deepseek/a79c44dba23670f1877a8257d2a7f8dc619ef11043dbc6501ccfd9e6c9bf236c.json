@@ -9,20 +9,18 @@
       "text": "Business Administration & Finance Student at University at Buffalo | Bilingual"
     },
     {
-      "section": "summary",
-      "text": "Sophomore at the University at Buffalo, majoring in Business Administration with a Concentration in Finance."
+      "section": "summary_text",
+      "text": "Ideal careers: Finance"
     }
   ],
   "goal_domains": [
     "finance"
   ],
-  "goal_roles": [
-    "Finance"
-  ],
+  "goal_roles": [],
   "goal_subdomains": [],
   "reason_codes": [
-    "explicit_goal",
-    "education_major"
+    "explicit goal",
+    "study field matches goal"
   ],
   "review_reasons": [],
   "secondary_function": "administrative",

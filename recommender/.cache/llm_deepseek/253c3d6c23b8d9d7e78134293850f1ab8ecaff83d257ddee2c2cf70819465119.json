@@ -9,12 +9,12 @@
     },
     {
       "confidence": "medium",
-      "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
+      "reason": "Balancing multiple roles (barista, advisor, mentorship) suggests time management.",
       "skill": "time management"
     },
     {
       "confidence": "medium",
-      "reason": "Archival work and organizational skills require attention to detail.",
+      "reason": "Archival work and digital archiving require attention to detail.",
       "skill": "attention to detail"
     }
   ],

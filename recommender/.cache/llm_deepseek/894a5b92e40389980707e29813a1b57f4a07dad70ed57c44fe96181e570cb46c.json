@@ -11,17 +11,14 @@
     {
       "section": "skills",
       "text": "Conducted HIV-1 research on pathogenesis and host restriction factors."
-    },
-    {
-      "section": "skills",
-      "text": "Contributed to a public health research project on maternal mortality and healthcare access."
     }
   ],
   "goal_domains": [
     "healthcare"
   ],
   "goal_roles": [
-    "researcher"
+    "Research Scientist",
+    "Public Health Analyst"
   ],
   "goal_subdomains": [
     "research"

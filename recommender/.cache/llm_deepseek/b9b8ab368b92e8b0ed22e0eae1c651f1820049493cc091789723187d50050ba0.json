@@ -4,26 +4,32 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Excel and Google Docs imply proficiency in office suites",
+      "reason": "Excel and Google Docs listed, likely proficient in Office suite",
       "skill": "Microsoft Office"
     },
     {
       "confidence": "medium",
-      "reason": "Analytical skills and financial analysis suggest data analysis capability",
-      "skill": "Data Analysis"
+      "reason": "Collaborative and group leader mentioned",
+      "skill": "Teamwork"
     },
     {
       "confidence": "medium",
-      "reason": "Coordination, goal setting, and group leader indicate project management skills",
-      "skill": "Project Management"
+      "reason": "Critical thinking and analytical skills listed",
+      "skill": "Problem Solving"
     }
   ],
   "possible_skills": [],
   "rejected_skills": [
     "act",
+    "analyses",
+    "analysis",
+    "analyzing",
     "assignments",
-    "bachelor",
-    "balancing"
+    "balancing",
+    "courses",
+    "math",
+    "science",
+    "spanish"
   ],
   "review_reasons": [],
   "scored_skills": [
@@ -31,17 +37,15 @@
     "Mathematics",
     "Administrative",
     "Coordination",
-    "Speaking",
-    "Foreign Language",
+    "Critical Thinking",
     "Instructing",
+    "Foreign Language",
     "Active Listening",
     "Sales and Marketing",
-    "Critical Thinking",
+    "Writing",
+    "Time Management",
     "administration",
-    "analyses",
-    "analysis",
     "analytical",
-    "analyzing",
     "banking finance",
     "bilingual",
     "brand",
@@ -66,7 +70,6 @@
     "composition",
     "comprehension",
     "content",
-    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -101,25 +104,22 @@
     "interpreter",
     "inventory management",
     "inventory tracking",
-    "investment",
-    "investment banking"
+    "investment"
   ],
   "verified_skills": [
     "Customer and Personal Service",
     "Mathematics",
     "Administrative",
     "Coordination",
-    "Speaking",
-    "Foreign Language",
+    "Critical Thinking",
     "Instructing",
+    "Foreign Language",
     "Active Listening",
     "Sales and Marketing",
-    "Critical Thinking",
+    "Writing",
+    "Time Management",
     "administration",
-    "analyses",
-    "analysis",
     "analytical",
-    "analyzing",
     "banking finance",
     "bilingual",
     "brand",
@@ -144,7 +144,6 @@
     "composition",
     "comprehension",
     "content",
-    "courses",
     "culture",
     "customer relationships",
     "customer service",
@@ -179,7 +178,6 @@
     "interpreter",
     "inventory management",
     "inventory tracking",
-    "investment",
-    "investment banking"
+    "investment"
   ]
 }

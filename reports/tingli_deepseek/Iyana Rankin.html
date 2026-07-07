@@ -1,72 +1,165 @@
-<!doctype html><meta charset=utf-8><title>Iyana Rankin — job matches</title>
+<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
+<title>Iyana Rankin | SpeakHire</title>
 <style>
-body{font:15px/1.55 system-ui,Segoe UI,Arial;margin:2rem auto;max-width:950px;color:#1a1a1a;padding:0 1rem}
-h1{margin:0 0 .2rem} h2{margin:2rem 0 .6rem;font-size:1.15rem;border-bottom:1px solid #eee;padding-bottom:.3rem}
-h3{font-size:.95rem;margin:1.5rem 0 .3rem;color:#333}
-h4{margin:.3rem 0;font-size:.82rem;text-transform:uppercase;letter-spacing:.03em;color:#666}
-.job{border:1px solid #e3e3e3;border-radius:.6rem;padding:1rem;margin:.7rem 0}
-.jobhead{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
-.rank{color:#999;font-weight:700;margin-right:.4rem}
-.title{font-weight:700} .company{color:#555;margin-left:.5rem}
-.apply{margin-left:.6rem;color:#1558d6;text-decoration:none;font-weight:600;white-space:nowrap}
-.cols{display:flex;gap:2rem;flex-wrap:wrap} .col{flex:1;min-width:200px}
-ul{margin:.2rem 0;padding-left:1.1rem} li{margin:.15rem 0}
-.sub{color:#888;font-size:.85rem}
-.badge{display:inline-block;padding:.15rem .5rem;border-radius:.25rem;font-size:.73rem;font-weight:600;margin-right:.3rem}
-.badge-ready{background:#d4edda;color:#155724}
-.badge-aspire{background:#cce5ff;color:#004085}
-.badge-blocked{background:#f8d7da;color:#721c24}
-.skills{display:flex;flex-wrap:wrap;gap:.3rem;margin:.5rem 0}
-.skill-tag{background:#f0f0f0;padding:.2rem .5rem;border-radius:.25rem;font-size:.8rem}
-.skill-tag-implicit{background:#fff3cd;padding:.2rem .5rem;border-radius:.25rem;font-size:.8rem}
-.skill-tree{background:#f8f9fa;padding:1rem 1.2rem;border-radius:.5rem;font-size:.82rem;line-height:1.65;overflow-x:auto;border-left:3px solid #1558d6;margin:1rem 0}
-.step-list{counter-reset:step}
-.step-list li{counter-increment:step;margin:.5rem 0;list-style:none}
-.step-list li::before{content:counter(step);background:#1558d6;color:#fff;border-radius:50%;width:1.4rem;height:1.4rem;display:inline-flex;align-items:center;justify-content:center;font-size:.75rem;margin-right:.5rem;font-weight:700}
-.why{color:#2a662a;font-size:.85rem;margin:.3rem 0}
-#summary-box{background:#f0f7ff;border:1px solid #cce5ff;border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0}
-#summary-box b{color:#004085}
+:root {
+  --ink: #1a1a2e; --muted: #4a4a6a; --soft: #6b6b8a;
+  --accent: #5b5fef; --accent-glow: #7c7ff8;
+  --surface: #ffffff; --surface-alt: #f5f4fA;
+  --border: #e8e8f0; --border-focus: #d0d0e0;
+  --ready: #2d8a56; --ready-bg: #eaf5ef;
+  --goal: #4a6cf7; --goal-bg: #eef1fe;
+  --gap-core: #c44545; --gap-bridge: #c4820e; --gap-stretch: #3b7a3b;
+  --radius: 10px; --radius-sm: 6px;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font:15px/1.6 "Inter","Segoe UI",system-ui,sans-serif;color:var(--ink);background:var(--surface-alt);min-height:100vh}
+.container{max-width:960px;margin:0 auto;padding:2rem 1.5rem 4rem}
+
+.header{padding:2rem 0 1.5rem;border-bottom:1px solid var(--border);margin-bottom:2rem}
+.header h1{font-size:1.8rem;font-weight:700;letter-spacing:-0.02em;color:var(--ink)}
+.header .meta{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:.4rem;font-size:.88rem;color:var(--muted)}
+.header .meta span{display:flex;align-items:center;gap:.3rem}
+.header .meta .tag{display:inline-block;padding:.15rem .55rem;border-radius:99px;font-size:.76rem;font-weight:600;letter-spacing:.01em}
+.tag-ready{background:var(--ready-bg);color:var(--ready)}
+.tag-goal{background:var(--goal-bg);color:var(--goal)}
+.tag-review{background:#fef3cd;color:#856404}
+.needs-review{border-left:3px solid #e2a300}
+
+/* Skills bar */
+.skills-bar{display:flex;flex-wrap:wrap;gap:.4rem;margin:1rem 0}
+.skill{display:inline-flex;align-items:center;gap:.25rem;padding:.25rem .6rem;border-radius:99px;font-size:.78rem;font-weight:500;background:var(--surface);border:1px solid var(--border);color:var(--ink)}
+.skill-implicit{background:var(--surface-alt);border-style:dashed;color:var(--muted)}
+
+/* Summary card */
+.summary-card{background:linear-gradient(135deg,#f0f1ff 0%,#f5f4fA 100%);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0}
+.summary-card p{color:var(--ink);font-size:.92rem;line-height:1.6}
+.summary-card .careers{font-weight:600;color:var(--accent)}
+
+/* Bento grid */
+.bento{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin:1.5rem 0}
+.bento-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem;transition:box-shadow .2s}
+.bento-card:hover{box-shadow:0 2px 12px rgba(0,0,0,.06)}
+.bento-card h3{font-size:.82rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:.6rem;padding-bottom:.5rem;border-bottom:1px solid var(--border)}
+.bento-card.full{grid-column:1/-1}
+
+/* Job cards */
+.job-list{display:flex;flex-direction:column;gap:.8rem}
+.job-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1rem 1.2rem;transition:box-shadow .15s;position:relative}
+.job-card:hover{box-shadow:0 1px 8px rgba(0,0,0,.05)}
+.job-card .job-top{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
+.job-card .job-title{font-weight:600;font-size:.95rem;color:var(--ink)}
+.job-card .job-company{font-size:.82rem;color:var(--muted);margin-top:.1rem}
+.job-card .job-score{font-size:.78rem;font-weight:700;padding:.15rem .5rem;border-radius:99px;white-space:nowrap}
+.score-ready{background:var(--ready-bg);color:var(--ready)}
+.score-goal{background:var(--goal-bg);color:var(--goal)}
+.job-card .job-why{font-size:.82rem;color:var(--muted);margin-top:.4rem;line-height:1.5}
+.job-card .job-link{font-size:.8rem;color:var(--accent);text-decoration:none;font-weight:600}
+.job-card .job-link:hover{text-decoration:underline}
+
+/* Skill tree */
+.skill-tree{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0;font-family:"JetBrains Mono","SF Mono","Cascadia Code",monospace;font-size:.8rem;line-height:1.7;color:var(--ink);white-space:pre;overflow-x:auto}
+
+/* Steps */
+.steps{counter-reset:step;list-style:none;padding:0}
+.steps li{counter-increment:step;padding:.35rem 0 .35rem 2rem;position:relative;font-size:.88rem;color:var(--ink)}
+.steps li::before{content:counter(step);position:absolute;left:0;top:.3rem;width:1.3rem;height:1.3rem;background:var(--accent);color:#fff;border-radius:50%;font-size:.7rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+
+/* Gaps grid */
+.gaps-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem}
+.gap-col h4{font-size:.76rem;font-weight:600;text-transform:uppercase;letter-spacing:.03em;margin-bottom:.4rem}
+.gap-col ul{list-style:none;padding:0}
+.gap-col li{font-size:.82rem;padding:.2rem 0;border-bottom:1px dotted var(--border)}
+.gap-col li:last-child{border-bottom:none}
+.gap-core h4{color:var(--gap-core)}.gap-bridge h4{color:var(--gap-bridge)}.gap-stretch h4{color:var(--gap-stretch)}
+
+/* Section heading */
+.section-head{display:flex;align-items:center;gap:.6rem;margin:2rem 0 1rem}
+.section-head h2{font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--ink)}
+.section-head .line{flex:1;height:1px;background:var(--border)}
+
+/* Footer */
+.footer{text-align:center;padding:2rem 0 1rem;font-size:.78rem;color:var(--soft);border-top:1px solid var(--border);margin-top:3rem}
+
+@media(max-width:700px){.bento{grid-template-columns:1fr}.gaps-grid{grid-template-columns:1fr}}
 </style>
+<div class=container needs-review>
+<div class=header>
 <h1>Iyana Rankin</h1>
-<p class=sub>Career direction: <b>arts-media/content-creation</b> · Confidence: 62% · <span style="color:#856404">⚠ needs review</span></p>
-<div class=skills><span class=skill-tag>✓ accuracy</span><span class=skill-tag>✓ accurate pricing</span><span class=skill-tag>✓ amazon</span><span class=skill-tag>✓ audio production</span><span class=skill-tag>✓ basic computer skills</span><span class=skill-tag>✓ brand management</span><span class=skill-tag>✓ branding</span><span class=skill-tag>✓ communication</span><span class=skill-tag-implicit>~ teamwork</span><span class=skill-tag-implicit>~ time management</span><span class=skill-tag-implicit>~ attention to detail</span></div>
-<h2>✓ Ready Now — jobs you can do today</h2>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#1</span><span class="badge badge-ready">READY 68%</span><span class=title>Youth Instructor & Program Support Specialist</span><span class=company>super-soccer-stars</span></div>
-<div><a class=apply href="https://apply.workable.com/j/D82C956AFF" target=_blank rel=noopener>Apply →</a></div>
+<div class=meta>
+<span>Direction: <strong>arts-media/content-creation</strong></span>
+<span>Confidence: <strong>62%</strong></span>
+<span>Lane: <strong>rescue</strong></span>
+<span class="tag tag-review">Review suggested</span>
 </div>
-<p class=why>💡 A arts media role that uses your accuracy, accurate pricing, amazon skills.</p>
+<div class=skills-bar>
+<span class=skill>accuracy</span>
+<span class=skill>accurate pricing</span>
+<span class=skill>amazon</span>
+<span class=skill>audio production</span>
+<span class=skill>basic computer skills</span>
+<span class=skill>brand management</span>
+<span class=skill>branding</span>
+<span class=skill>communication</span>
+<span class="skill skill-implicit">teamwork</span>
+<span class="skill skill-implicit">time management</span>
+<span class="skill skill-implicit">attention to detail</span>
 </div>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#2</span><span class="badge badge-ready">READY 64%</span><span class=title>Student Advisor</span><span class=company>thinkacademyus</span></div>
-<div><a class=apply href="https://job-boards.greenhouse.io/thinkacademyus/jobs/7769028003" target=_blank rel=noopener>Apply →</a></div>
 </div>
-<p class=why>💡 A arts media role that uses your accuracy, accurate pricing, amazon skills.</p>
+<div class="section-head"><h2>Recommendations</h2><span class=line></span></div>
+<div class=bento>
+<div class=bento-card>
+<h3>Available Now</h3>
+<div class=job-list>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>Youth Instructor & Program Support Specialist</div><div class=job-company>super-soccer-stars</div></div>
+<div class="job-score score-ready">68%</div>
 </div>
-<h2>🎯 Work Toward — your ideal career path</h2>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#1</span><span class="badge badge-aspire">GOAL 52%</span><span class=title>Mental Health Associate</span><span class=company>Rivermont-Schools</span></div>
-<div><a class=apply href="https://jobs.ashbyhq.com/Rivermont-Schools/ab30f487-c38d-4b35-920a-2050f23752ac" target=_blank rel=noopener>Apply →</a></div>
+<div class=job-why>A arts media role that uses your accuracy, accurate pricing, amazon skills.</div>
+<a class=job-link href="https://apply.workable.com/j/D82C956AFF" target=_blank rel=noopener>View position</a>
 </div>
-<p class=why>💡 A arts media role that uses your accuracy, accurate pricing, amazon skills.</p>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>Student Advisor</div><div class=job-company>thinkacademyus</div></div>
+<div class="job-score score-ready">64%</div>
 </div>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#2</span><span class="badge badge-aspire">GOAL 50%</span><span class=title>Marketing Intern (Graphic Design Focus)</span></div>
-<div><a class=apply href="https://recruiting.paylocity.com/recruiting/jobs/details/3998040" target=_blank rel=noopener>Apply →</a></div>
+<div class=job-why>A arts media role that uses your accuracy, accurate pricing, amazon skills.</div>
+<a class=job-link href="https://job-boards.greenhouse.io/thinkacademyus/jobs/7769028003" target=_blank rel=noopener>View position</a>
 </div>
-<p class=why>💡 A arts media role that uses your accuracy, accurate pricing, amazon skills.</p>
+</div></div>
+<div class=bento-card>
+<h3>Career Goals</h3>
+<div class=job-list>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>Mental Health Associate</div><div class=job-company>Rivermont-Schools</div></div>
+<div class="job-score score-goal">52%</div>
 </div>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#3</span><span class="badge badge-aspire">GOAL 50%</span><span class=title>2024-2025 Sports Photography Intern</span></div>
-<div><a class=apply href="https://recruiting.paylocity.com/recruiting/jobs/details/1291968" target=_blank rel=noopener>Apply →</a></div>
+<div class=job-why>A arts media role that uses your accuracy, accurate pricing, amazon skills.</div>
+<a class=job-link href="https://jobs.ashbyhq.com/Rivermont-Schools/ab30f487-c38d-4b35-920a-2050f23752ac" target=_blank rel=noopener>View position</a>
 </div>
-<p class=why>💡 A arts media role that uses your accuracy, accurate pricing, amazon skills.</p>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>Marketing Intern (Graphic Design Focus)</div></div>
+<div class="job-score score-goal">50%</div>
 </div>
-<h2>📋 Skill Gaps to Close</h2>
-<div class=cols><div class=col><h4>🔴 Core (build now)</h4><ul><li>social-media</li><li>customer-service</li><li>marketing</li><li>organization</li><li>photography</li></ul></div><div class=col><h4>🟢 Stretch (future)</h4><ul><li>adobe-creative-suite</li><li>basic-technology</li><li>behavior-observation</li><li>bilingual-english-mandarin</li><li>camp-activities</li></ul></div></div>
-<p class=sub style="margin-top:2rem;">Generated by SpeakHire Recommender · rescue lane</p>
+<div class=job-why>A arts media role that uses your accuracy, accurate pricing, amazon skills.</div>
+<a class=job-link href="https://recruiting.paylocity.com/recruiting/jobs/details/3998040" target=_blank rel=noopener>View position</a>
+</div>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>2024-2025 Sports Photography Intern</div></div>
+<div class="job-score score-goal">50%</div>
+</div>
+<div class=job-why>A arts media role that uses your accuracy, accurate pricing, amazon skills.</div>
+<a class=job-link href="https://recruiting.paylocity.com/recruiting/jobs/details/1291968" target=_blank rel=noopener>View position</a>
+</div>
+</div></div>
+</div>
+<div class="section-head"><h2>Skill Gaps</h2><span class=line></span></div>
+<div class=gaps-grid>
+<div class="gap-col gap-core"><h4>Core (priority)</h4><ul><li>social-media</li><li>customer-service</li><li>marketing</li><li>organization</li><li>photography</li></ul></div>
+<div class="gap-col gap-stretch"><h4>Stretch (future)</h4><ul><li>adobe-creative-suite</li><li>basic-technology</li><li>behavior-observation</li><li>bilingual-english-mandarin</li><li>camp-activities</li></ul></div>
+</div>
+<div class=footer>SpeakHire Recommender</div>
+</div>

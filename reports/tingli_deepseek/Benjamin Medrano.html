@@ -1,37 +1,115 @@
-<!doctype html><meta charset=utf-8><title>Benjamin Medrano — job matches</title>
+<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
+<title>Benjamin Medrano | SpeakHire</title>
 <style>
-body{font:15px/1.55 system-ui,Segoe UI,Arial;margin:2rem auto;max-width:950px;color:#1a1a1a;padding:0 1rem}
-h1{margin:0 0 .2rem} h2{margin:2rem 0 .6rem;font-size:1.15rem;border-bottom:1px solid #eee;padding-bottom:.3rem}
-h3{font-size:.95rem;margin:1.5rem 0 .3rem;color:#333}
-h4{margin:.3rem 0;font-size:.82rem;text-transform:uppercase;letter-spacing:.03em;color:#666}
-.job{border:1px solid #e3e3e3;border-radius:.6rem;padding:1rem;margin:.7rem 0}
-.jobhead{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
-.rank{color:#999;font-weight:700;margin-right:.4rem}
-.title{font-weight:700} .company{color:#555;margin-left:.5rem}
-.apply{margin-left:.6rem;color:#1558d6;text-decoration:none;font-weight:600;white-space:nowrap}
-.cols{display:flex;gap:2rem;flex-wrap:wrap} .col{flex:1;min-width:200px}
-ul{margin:.2rem 0;padding-left:1.1rem} li{margin:.15rem 0}
-.sub{color:#888;font-size:.85rem}
-.badge{display:inline-block;padding:.15rem .5rem;border-radius:.25rem;font-size:.73rem;font-weight:600;margin-right:.3rem}
-.badge-ready{background:#d4edda;color:#155724}
-.badge-aspire{background:#cce5ff;color:#004085}
-.badge-blocked{background:#f8d7da;color:#721c24}
-.skills{display:flex;flex-wrap:wrap;gap:.3rem;margin:.5rem 0}
-.skill-tag{background:#f0f0f0;padding:.2rem .5rem;border-radius:.25rem;font-size:.8rem}
-.skill-tag-implicit{background:#fff3cd;padding:.2rem .5rem;border-radius:.25rem;font-size:.8rem}
-.skill-tree{background:#f8f9fa;padding:1rem 1.2rem;border-radius:.5rem;font-size:.82rem;line-height:1.65;overflow-x:auto;border-left:3px solid #1558d6;margin:1rem 0}
-.step-list{counter-reset:step}
-.step-list li{counter-increment:step;margin:.5rem 0;list-style:none}
-.step-list li::before{content:counter(step);background:#1558d6;color:#fff;border-radius:50%;width:1.4rem;height:1.4rem;display:inline-flex;align-items:center;justify-content:center;font-size:.75rem;margin-right:.5rem;font-weight:700}
-.why{color:#2a662a;font-size:.85rem;margin:.3rem 0}
-#summary-box{background:#f0f7ff;border:1px solid #cce5ff;border-radius:.6rem;padding:.8rem 1rem;margin:1rem 0}
-#summary-box b{color:#004085}
+:root {
+  --ink: #1a1a2e; --muted: #4a4a6a; --soft: #6b6b8a;
+  --accent: #5b5fef; --accent-glow: #7c7ff8;
+  --surface: #ffffff; --surface-alt: #f5f4fA;
+  --border: #e8e8f0; --border-focus: #d0d0e0;
+  --ready: #2d8a56; --ready-bg: #eaf5ef;
+  --goal: #4a6cf7; --goal-bg: #eef1fe;
+  --gap-core: #c44545; --gap-bridge: #c4820e; --gap-stretch: #3b7a3b;
+  --radius: 10px; --radius-sm: 6px;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font:15px/1.6 "Inter","Segoe UI",system-ui,sans-serif;color:var(--ink);background:var(--surface-alt);min-height:100vh}
+.container{max-width:960px;margin:0 auto;padding:2rem 1.5rem 4rem}
+
+.header{padding:2rem 0 1.5rem;border-bottom:1px solid var(--border);margin-bottom:2rem}
+.header h1{font-size:1.8rem;font-weight:700;letter-spacing:-0.02em;color:var(--ink)}
+.header .meta{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:.4rem;font-size:.88rem;color:var(--muted)}
+.header .meta span{display:flex;align-items:center;gap:.3rem}
+.header .meta .tag{display:inline-block;padding:.15rem .55rem;border-radius:99px;font-size:.76rem;font-weight:600;letter-spacing:.01em}
+.tag-ready{background:var(--ready-bg);color:var(--ready)}
+.tag-goal{background:var(--goal-bg);color:var(--goal)}
+.tag-review{background:#fef3cd;color:#856404}
+.needs-review{border-left:3px solid #e2a300}
+
+/* Skills bar */
+.skills-bar{display:flex;flex-wrap:wrap;gap:.4rem;margin:1rem 0}
+.skill{display:inline-flex;align-items:center;gap:.25rem;padding:.25rem .6rem;border-radius:99px;font-size:.78rem;font-weight:500;background:var(--surface);border:1px solid var(--border);color:var(--ink)}
+.skill-implicit{background:var(--surface-alt);border-style:dashed;color:var(--muted)}
+
+/* Summary card */
+.summary-card{background:linear-gradient(135deg,#f0f1ff 0%,#f5f4fA 100%);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0}
+.summary-card p{color:var(--ink);font-size:.92rem;line-height:1.6}
+.summary-card .careers{font-weight:600;color:var(--accent)}
+
+/* Bento grid */
+.bento{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin:1.5rem 0}
+.bento-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem;transition:box-shadow .2s}
+.bento-card:hover{box-shadow:0 2px 12px rgba(0,0,0,.06)}
+.bento-card h3{font-size:.82rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:.6rem;padding-bottom:.5rem;border-bottom:1px solid var(--border)}
+.bento-card.full{grid-column:1/-1}
+
+/* Job cards */
+.job-list{display:flex;flex-direction:column;gap:.8rem}
+.job-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1rem 1.2rem;transition:box-shadow .15s;position:relative}
+.job-card:hover{box-shadow:0 1px 8px rgba(0,0,0,.05)}
+.job-card .job-top{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
+.job-card .job-title{font-weight:600;font-size:.95rem;color:var(--ink)}
+.job-card .job-company{font-size:.82rem;color:var(--muted);margin-top:.1rem}
+.job-card .job-score{font-size:.78rem;font-weight:700;padding:.15rem .5rem;border-radius:99px;white-space:nowrap}
+.score-ready{background:var(--ready-bg);color:var(--ready)}
+.score-goal{background:var(--goal-bg);color:var(--goal)}
+.job-card .job-why{font-size:.82rem;color:var(--muted);margin-top:.4rem;line-height:1.5}
+.job-card .job-link{font-size:.8rem;color:var(--accent);text-decoration:none;font-weight:600}
+.job-card .job-link:hover{text-decoration:underline}
+
+/* Skill tree */
+.skill-tree{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0;font-family:"JetBrains Mono","SF Mono","Cascadia Code",monospace;font-size:.8rem;line-height:1.7;color:var(--ink);white-space:pre;overflow-x:auto}
+
+/* Steps */
+.steps{counter-reset:step;list-style:none;padding:0}
+.steps li{counter-increment:step;padding:.35rem 0 .35rem 2rem;position:relative;font-size:.88rem;color:var(--ink)}
+.steps li::before{content:counter(step);position:absolute;left:0;top:.3rem;width:1.3rem;height:1.3rem;background:var(--accent);color:#fff;border-radius:50%;font-size:.7rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+
+/* Gaps grid */
+.gaps-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem}
+.gap-col h4{font-size:.76rem;font-weight:600;text-transform:uppercase;letter-spacing:.03em;margin-bottom:.4rem}
+.gap-col ul{list-style:none;padding:0}
+.gap-col li{font-size:.82rem;padding:.2rem 0;border-bottom:1px dotted var(--border)}
+.gap-col li:last-child{border-bottom:none}
+.gap-core h4{color:var(--gap-core)}.gap-bridge h4{color:var(--gap-bridge)}.gap-stretch h4{color:var(--gap-stretch)}
+
+/* Section heading */
+.section-head{display:flex;align-items:center;gap:.6rem;margin:2rem 0 1rem}
+.section-head h2{font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--ink)}
+.section-head .line{flex:1;height:1px;background:var(--border)}
+
+/* Footer */
+.footer{text-align:center;padding:2rem 0 1rem;font-size:.78rem;color:var(--soft);border-top:1px solid var(--border);margin-top:3rem}
+
+@media(max-width:700px){.bento{grid-template-columns:1fr}.gaps-grid{grid-template-columns:1fr}}
 </style>
+<div class=container needs-review>
+<div class=header>
 <h1>Benjamin Medrano</h1>
-<p class=sub>Career direction: <b>technology/it-support</b> · Confidence: 61% · <span style="color:#856404">⚠ needs review</span></p>
-<div class=skills><span class=skill-tag>✓ Customer and Personal Service</span><span class=skill-tag>✓ Troubleshooting</span><span class=skill-tag>✓ Active Listening</span><span class=skill-tag>✓ Administrative</span><span class=skill-tag>✓ Coordination</span><span class=skill-tag>✓ Foreign Language</span><span class=skill-tag>✓ Speaking</span><span class=skill-tag>✓ Writing</span><span class=skill-tag-implicit>~ Problem Solving</span><span class=skill-tag-implicit>~ Multitasking</span><span class=skill-tag-implicit>~ Attention to Detail</span></div>
-<div id=summary-box><b>Ideal careers:</b> Software Engineer, IT Support Specialist, Developer<br><span class=sub>You already have a strong foundation in customer service, troubleshooting, and communication. By adding documentation and help-desk skills, you'll quickly qualify for IT support roles, and with further development in desktop support and programming, you can reach your dream careers in software engineering or IT specialization.</span></div>
-<h2>Skill Progression</h2>
+<div class=meta>
+<span>Direction: <strong>technology/it-support</strong></span>
+<span>Confidence: <strong>61%</strong></span>
+<span>Lane: <strong>rescue</strong></span>
+<span class="tag tag-review">Review suggested</span>
+</div>
+<div class=skills-bar>
+<span class=skill>Customer and Personal Service</span>
+<span class=skill>Troubleshooting</span>
+<span class=skill>Active Listening</span>
+<span class=skill>Administrative</span>
+<span class=skill>Coordination</span>
+<span class=skill>Foreign Language</span>
+<span class=skill>Speaking</span>
+<span class=skill>Writing</span>
+<span class="skill skill-implicit">Problem Solving</span>
+<span class="skill skill-implicit">Multitasking</span>
+<span class="skill skill-implicit">Attention to Detail</span>
+</div>
+</div>
+<div class=summary-card>
+<p><span class=careers>Target careers:</span> Software Engineer, IT Support Specialist, Developer</p>
+<p style="margin-top:.4rem">You already have a strong foundation in customer service, troubleshooting, and communication. By adding documentation and help-desk skills, you'll quickly qualify for IT support roles, and with further development in desktop support and programming, you can reach your dream careers in software engineering or IT specialization.</p>
+</div>
+<div class="section-head"><h2>Skill Progression</h2><span class=line></span></div>
 <pre class=skill-tree>CURRENT SKILLS
 ├── Customer and Personal Service
 ├── Troubleshooting
@@ -62,46 +140,70 @@ DREAM CAREERS
 ├── Software Engineer
 ├── IT Support Specialist
 └── Developer</pre>
-<ol class=step-list><li>Take a free online course on IT documentation (e.g., Google IT Support Certificate on Coursera)</li><li>Practice help-desk scenarios using a free ticketing system like osTicket or Spiceworks</li><li>Learn basic desktop support skills with a CompTIA A+ study guide</li><li>Build a small project using a programming language (e.g., Python or JavaScript) to start developer path</li><li>Explore diagnostic tools like Wireshark or Windows Performance Monitor for end-user support</li></ol>
-<h2>✓ Ready Now — jobs you can do today</h2>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#1</span><span class="badge badge-ready">READY 87%</span><span class=title>IT Support Specialist - Mondays ONLY</span><span class=company>itero-group</span></div>
-<div><a class=apply href="https://job-boards.greenhouse.io/itero-group/jobs/5265095008" target=_blank rel=noopener>Apply →</a></div>
+<ol class=steps>
+<li>Take a free online course on IT documentation (e.g., Google IT Support Certificate on Coursera)</li>
+<li>Practice help-desk scenarios using a free ticketing system like osTicket or Spiceworks</li>
+<li>Learn basic desktop support skills with a CompTIA A+ study guide</li>
+<li>Build a small project using a programming language (e.g., Python or JavaScript) to start developer path</li>
+<li>Explore diagnostic tools like Wireshark or Windows Performance Monitor for end-user support</li>
+</ol>
+<div class="section-head"><h2>Recommendations</h2><span class=line></span></div>
+<div class=bento>
+<div class=bento-card>
+<h3>Available Now</h3>
+<div class=job-list>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>IT Support Specialist - Mondays ONLY</div><div class=job-company>itero-group</div></div>
+<div class="job-score score-ready">87%</div>
 </div>
-<p class=why>💡 This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</p>
-<p class=sub style="color:#1558d6;"><b>🔄 Bridge:</b> Your IT Support Specialist role hones troubleshooting, documentation, and communication skills that are directly transferable to software engineering, where you'll need to debug code, write clear technical specs, and collaborate with teams. Each ticket you resolve builds the analytical thinking and user empathy essential for a developer.</p>
+<div class=job-why>This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</div>
+<div class=job-why style="color:var(--accent)">Bridge: Your IT Support Specialist role hones troubleshooting, documentation, and communication skills that are directly transferable to software engineering, where you'll need to debug code, write clear technical specs, and collaborate with teams. Each ticket you resolve builds the analytical thinking and user empathy essential for a developer.</div>
+<a class=job-link href="https://job-boards.greenhouse.io/itero-group/jobs/5265095008" target=_blank rel=noopener>View position</a>
 </div>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#2</span><span class="badge badge-ready">READY 86%</span><span class=title>IT SUPPORT SPECIALIST</span></div>
-<div><a class=apply href="https://recruiting.paylocity.com/recruiting/jobs/details/4260976" target=_blank rel=noopener>Apply →</a></div>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>IT SUPPORT SPECIALIST</div></div>
+<div class="job-score score-ready">86%</div>
 </div>
-<p class=why>💡 This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</p>
-<p class=sub style="color:#1558d6;"><b>🔄 Bridge:</b> As an IT Support Specialist, you'll sharpen your troubleshooting and active listening skills while gaining hands-on experience with hardware, software, and networks—directly building the technical foundation needed for a Software Engineer role, where you'll apply these problem-solving abilities to code and system design.</p>
+<div class=job-why>This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</div>
+<div class=job-why style="color:var(--accent)">Bridge: As an IT Support Specialist, you'll sharpen your troubleshooting and active listening skills while gaining hands-on experience with hardware, software, and networks—directly building the technical foundation needed for a Software Engineer role, where you'll apply these problem-solving abilities to code and system design.</div>
+<a class=job-link href="https://recruiting.paylocity.com/recruiting/jobs/details/4260976" target=_blank rel=noopener>View position</a>
 </div>
-<h2>🎯 Work Toward — your ideal career path</h2>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#1</span><span class="badge badge-aspire">GOAL 76%</span><span class=title>Tech Support Specialist I - Remote Opportunity!</span><span class=company>kindercare</span></div>
-<div><a class=apply href="https://kindercare.wd5.myworkdayjobs.com/job/Work-From-Home-OR/Tech-Support-Specialist-I---Remote-Opportunity-_JR45339" target=_blank rel=noopener>Apply →</a></div>
+</div></div>
+<div class=bento-card>
+<h3>Career Goals</h3>
+<div class=job-list>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>Tech Support Specialist I - Remote Opportunity!</div><div class=job-company>kindercare</div></div>
+<div class="job-score score-goal">76%</div>
 </div>
-<p class=why>💡 This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</p>
+<div class=job-why>This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</div>
+<a class=job-link href="https://kindercare.wd5.myworkdayjobs.com/job/Work-From-Home-OR/Tech-Support-Specialist-I---Remote-Opportunity-_JR45339" target=_blank rel=noopener>View position</a>
 </div>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#2</span><span class="badge badge-aspire">GOAL 71%</span><span class=title>Information Technology Technician</span><span class=company>fng</span></div>
-<div><a class=apply href="https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607" target=_blank rel=noopener>Apply →</a></div>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>Information Technology Technician</div><div class=job-company>fng</div></div>
+<div class="job-score score-goal">71%</div>
 </div>
-<p class=why>💡 This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</p>
+<div class=job-why>This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</div>
+<a class=job-link href="https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607" target=_blank rel=noopener>View position</a>
 </div>
-<div class=job>
-<div class=jobhead>
-<div><span class=rank>#3</span><span class="badge badge-aspire">GOAL 67%</span><span class=title>STEP-IT Apprentice (Must be a Nisqually Tribal Member)</span></div>
-<div><a class=apply href="https://recruiting.paylocity.com/recruiting/jobs/details/4205447" target=_blank rel=noopener>Apply →</a></div>
+<div class=job-card>
+<div class=job-top>
+<div><div class=job-title>STEP-IT Apprentice (Must be a Nisqually Tribal Member)</div></div>
+<div class="job-score score-goal">67%</div>
 </div>
-<p class=why>💡 This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</p>
+<div class=job-why>This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.</div>
+<a class=job-link href="https://recruiting.paylocity.com/recruiting/jobs/details/4205447" target=_blank rel=noopener>View position</a>
 </div>
-<h2>📋 Skill Gaps to Close</h2>
-<div class=cols><div class=col><h4>🔴 Core (build now)</h4><ul><li>documentation</li><li>help-desk</li></ul></div><div class=col><h4>🟢 Stretch (future)</h4><ul><li>desktop-support</li><li>developer</li><li>diagnostic-tools</li><li>end-user-support</li><li>go-to-voip</li></ul></div></div>
-<p class=sub style="margin-top:2rem;">Generated by SpeakHire Recommender · rescue lane</p>
+</div></div>
+</div>
+<div class="section-head"><h2>Skill Gaps</h2><span class=line></span></div>
+<div class=gaps-grid>
+<div class="gap-col gap-core"><h4>Core (priority)</h4><ul><li>documentation</li><li>help-desk</li></ul></div>
+<div class="gap-col gap-stretch"><h4>Stretch (future)</h4><ul><li>desktop-support</li><li>developer</li><li>diagnostic-tools</li><li>end-user-support</li><li>go-to-voip</li></ul></div>
+</div>
+<div class=footer>SpeakHire Recommender</div>
+</div>

@@ -87,11 +87,11 @@
     "cash",
     "cleanliness",
     "cleanup",
-    "client",
     "clients",
     "communicate",
     "customer focused",
     "customers",
+    "diploma",
     "electronic",
     "excellent customer service",
     "exceptional customer service",
@@ -113,24 +113,13 @@
     "leader",
     "leadership development",
     "management",
-    "microsoft",
     "ministry",
     "motivated",
     "office",
     "operations",
     "orders",
-    "organized",
     "outreach",
-    "passionate",
-    "school",
-    "student",
-    "team",
-    "teamwork",
-    "time management",
-    "training",
-    "volunteer",
-    "work",
-    "worker"
+    "passionate"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -174,22 +163,22 @@
   "inferred": [
     "teamwork",
     "time management",
-    "problem-solving"
+    "problem solving"
   ],
   "implicit_skills": [
     {
       "skill": "teamwork",
-      "reason": "Working as event staff and in customer service roles typically requires collaboration with others.",
+      "reason": "Roles like event staff and ambassador imply collaboration",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Handling multiple responsibilities like cashiering, catering, and event setup suggests effective time management.",
+      "reason": "Handling multiple tasks in fast-paced environments",
       "confidence": "medium"
     },
     {
-      "skill": "problem-solving",
-      "reason": "Dealing with customer orders, inquiries, and event operations implies ability to resolve issues.",
+      "skill": "problem solving",
+      "reason": "Customer service and event support require quick thinking",
       "confidence": "medium"
     }
   ],
@@ -625,7 +614,7 @@
     "education"
   ],
   "subdomain": "youth-support",
-  "subdomain_confidence": 0.75,
+  "subdomain_confidence": 0.85,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
@@ -658,7 +647,7 @@
       "goal_roles": [
         "Youth Ministry Leader"
       ],
-      "confidence": 0.75,
+      "confidence": 0.85,
       "evidence_spans": [
         {
           "section": "VOLUNTEER EXPERIENCE",
@@ -670,8 +659,7 @@
         }
       ],
       "reason_codes": [
-        "explicit volunteer role in youth support",
-        "community outreach focus"
+        "explicit volunteer experience in youth mentoring and community outreach"
       ],
       "review_reasons": []
     },
@@ -762,11 +750,11 @@
         "cash",
         "cleanliness",
         "cleanup",
-        "client",
         "clients",
         "communicate",
         "customer focused",
         "customers",
+        "diploma",
         "electronic",
         "excellent customer service",
         "exceptional customer service",
@@ -788,39 +776,28 @@
         "leader",
         "leadership development",
         "management",
-        "microsoft",
         "ministry",
         "motivated",
         "office",
         "operations",
         "orders",
-        "organized",
         "outreach",
-        "passionate",
-        "school",
-        "student",
-        "team",
-        "teamwork",
-        "time management",
-        "training",
-        "volunteer",
-        "work",
-        "worker"
+        "passionate"
       ],
       "implicit_skills": [
         {
           "skill": "teamwork",
-          "reason": "Working as event staff and in customer service roles typically requires collaboration with others.",
+          "reason": "Roles like event staff and ambassador imply collaboration",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Handling multiple responsibilities like cashiering, catering, and event setup suggests effective time management.",
+          "reason": "Handling multiple tasks in fast-paced environments",
           "confidence": "medium"
         },
         {
-          "skill": "problem-solving",
-          "reason": "Dealing with customer orders, inquiries, and event operations implies ability to resolve issues.",
+          "skill": "problem solving",
+          "reason": "Customer service and event support require quick thinking",
           "confidence": "medium"
         }
       ],

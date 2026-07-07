@@ -5,10 +5,6 @@
   "confidence": 0.95,
   "evidence_spans": [
     {
-      "section": "education",
-      "text": "Bachelor of Science, Software Engineering | Anticipated May 2027"
-    },
-    {
       "section": "experience",
       "text": "Contributed to development and maintenance of SCOOPortal, a web application supporting RIT SCOOP for students and faculty."
     },
@@ -28,11 +24,11 @@
   ],
   "reason_codes": [
     "explicit_goal",
-    "education_major",
-    "relevant_experience"
+    "strong_experience",
+    "education_aligned"
   ],
   "review_reasons": [],
-  "secondary_function": "",
+  "secondary_function": "design",
   "study_domains": [
     "technology"
   ],

@@ -4,84 +4,32 @@
   "confidence": 55,
   "skills": [
     "bilingual",
-    "bilingual english",
-    "bilingual english spanish",
     "canva",
     "communication",
-    "english spanish",
-    "english spanish communication",
-    "google",
     "google suite",
     "languages",
     "leadership",
-    "microsoft",
     "microsoft office",
-    "office",
-    "spanish",
-    "customer service",
-    "event planning",
-    "group instruction",
-    "interpretation",
-    "point of sale",
-    "pos",
-    "pos systems",
-    "small group instruction",
-    "spanish communication",
-    "spanish english",
-    "student support",
-    "teamwork",
-    "time management",
-    "active listening",
-    "instructing",
-    "coordination",
-    "sales and marketing",
-    "foreign language",
-    "administrative",
-    "mathematics",
-    "customer and personal service"
+    "spanish"
   ],
   "verified_skills": [
     "bilingual",
-    "bilingual english",
-    "bilingual english spanish",
     "canva",
     "communication",
-    "english spanish",
-    "english spanish communication",
-    "google",
     "google suite",
     "languages",
     "leadership",
-    "microsoft",
     "microsoft office",
-    "office",
-    "spanish",
-    "customer service",
-    "event planning",
-    "group instruction",
-    "interpretation",
-    "point of sale",
-    "pos",
-    "pos systems",
-    "small group instruction",
-    "spanish communication",
-    "spanish english",
-    "student support",
-    "teamwork",
-    "time management",
-    "active listening",
-    "instructing",
-    "coordination",
-    "sales and marketing",
-    "foreign language",
-    "administrative",
-    "mathematics",
-    "customer and personal service"
+    "spanish"
   ],
   "possible_skills": [],
   "rejected_skills": [
+    "active listening",
+    "administrative",
     "advocate",
     "bachelor",
+    "bilingual english",
+    "bilingual english spanish",
     "can",
     "cash",
     "cash transactions",
@@ -89,22 +37,39 @@
     "cleanliness",
     "cleanliness standards",
     "community events",
+    "coordination",
     "criminal justice",
+    "customer and personal service",
+    "customer service",
     "distribution",
     "documents",
     "donations",
     "efficiency",
     "emails",
+    "english spanish",
+    "english spanish communication",
+    "event planning",
     "fast paced",
     "food",
     "food distribution",
+    "foreign language",
+    "google",
+    "group instruction",
     "high volume",
     "high volume environment",
     "hours",
+    "instructing",
     "instruction",
+    "interpretation",
+    "mathematics",
     "media",
+    "microsoft",
     "multicultural",
+    "office",
     "organized",
+    "point of sale",
+    "pos",
+    "pos systems",
     "prepared food",
     "program",
     "quality",
@@ -113,199 +78,183 @@
     "safety",
     "safety and quality",
     "service",
+    "service orientation",
+    "small group instruction",
+    "spanish communication",
+    "spanish english",
     "speak",
     "sponsors",
     "standards",
+    "student support",
     "systems",
+    "teamwork",
     "transactions",
     "united states",
-    "waitstaff"
+    "waitstaff",
+    "writing"
   ],
   "skill_weights": {},
   "market_relevant": [
     "bilingual",
-    "bilingual english",
-    "bilingual english spanish",
     "canva",
     "communication",
-    "english spanish",
-    "english spanish communication",
-    "google",
     "google suite",
     "languages",
     "leadership",
-    "microsoft",
     "microsoft office",
-    "office",
-    "spanish",
-    "customer service",
-    "event planning",
-    "group instruction",
-    "interpretation",
-    "point of sale",
-    "pos",
-    "pos systems",
-    "small group instruction",
-    "spanish communication",
-    "spanish english",
-    "student support",
-    "teamwork",
-    "time management",
-    "active listening",
-    "instructing",
-    "coordination",
-    "sales and marketing",
-    "foreign language",
-    "administrative",
-    "mathematics",
-    "customer and personal service"
+    "spanish"
   ],
   "inferred": [
-    "public speaking",
-    "multitasking",
-    "cultural competency"
+    "customer service",
+    "event planning",
+    "teamwork"
   ],
   "implicit_skills": [
     {
-      "skill": "public speaking",
-      "reason": "Experience with group instruction and community events implies public speaking ability.",
+      "skill": "customer service",
+      "reason": "Experience with cash transactions and customer service suggests strong customer service skills.",
       "confidence": "medium"
     },
     {
-      "skill": "multitasking",
-      "reason": "Handling high volume environment and cash transactions suggests multitasking skills.",
+      "skill": "event planning",
+      "reason": "Experience with community events and event planning indicates event planning skills.",
       "confidence": "medium"
     },
     {
-      "skill": "cultural competency",
-      "reason": "Bilingual and multicultural experience indicates cultural competency.",
+      "skill": "teamwork",
+      "reason": "Experience in classroom activities and group instruction implies teamwork ability.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
-  "gaps": [],
-  "core_gaps": [],
+  "gaps": [
+    "student-support"
+  ],
+  "core_gaps": [
+    "student-support"
+  ],
   "bridge_gaps": [
-    "cash-handling",
     "classroom-support",
-    "cleanliness",
     "computer-skills",
     "developmentally-appropriate-practices",
     "english-proficiency",
-    "food-preparation",
-    "food-safety",
     "instructional-assistant",
-    "inventory-management"
+    "organization",
+    "planning",
+    "spanish-english",
+    "team-collaboration",
+    "translation"
   ],
   "stretch_gaps": [
+    "active-listening",
     "administrative-support",
+    "assessment-administration",
     "attention-to-detail",
+    "classroom-auxiliary",
+    "data-collection",
     "data-entry",
+    "education-assistance",
     "event-participation",
-    "excel",
-    "multimodal-instruction",
-    "private-lessons",
-    "team-work",
-    "word",
-    "zoom"
+    "excel"
   ],
   "nice_to_have_gaps": [
+    "active-listening",
     "administrative-support",
+    "assessment-administration",
     "attention-to-detail",
-    "cash-handling",
+    "classroom-auxiliary",
     "classroom-support",
-    "cleanliness",
     "computer-skills",
+    "data-collection",
     "data-entry",
-    "developmentally-appropriate-practices",
-    "english-proficiency",
-    "event-participation"
+    "developmentally-appropriate-practices"
   ],
   "verify_gaps": [
-    "public-speaking"
+    "customer-service",
+    "teamwork"
   ],
   "related": [
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
       "skill": "googleclassroom",
       "pmi": 5.53
-    },
-    {
-      "skill": "writing",
-      "pmi": 4.47
-    },
-    {
-      "skill": "privateinstruction",
-      "pmi": 4.37
-    },
-    {
-      "skill": "reading",
-      "pmi": 4.34
-    },
-    {
-      "skill": "studentaffairs",
-      "pmi": 4.33
     },
     {
       "skill": "translation",
       "pmi": 4.26
     },
     {
-      "skill": "teamparticipation",
-      "pmi": 4.26
+      "skill": "behaviordocumentation",
+      "pmi": 3.92
     },
     {
-      "skill": "1on1instruction",
-      "pmi": 4.19
+      "skill": "crisisprotocols",
+      "pmi": 3.88
     },
     {
-      "skill": "behaviormonitoring",
-      "pmi": 4.14
+      "skill": "travelbetweensites",
+      "pmi": 3.81
+    },
+    {
+      "skill": "bcatcredential",
+      "pmi": 3.81
+    },
+    {
+      "skill": "emr",
+      "pmi": 3.59
+    },
+    {
+      "skill": "criticalthinking",
+      "pmi": 3.54
+    },
+    {
+      "skill": "datadocumentation",
+      "pmi": 3.51
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
     }
   ],
   "related_skills": [
     {
-      "skill": "frontdesk",
-      "pmi": 5.93
-    },
-    {
       "skill": "googleclassroom",
       "pmi": 5.53
-    },
-    {
-      "skill": "writing",
-      "pmi": 4.47
-    },
-    {
-      "skill": "privateinstruction",
-      "pmi": 4.37
-    },
-    {
-      "skill": "reading",
-      "pmi": 4.34
-    },
-    {
-      "skill": "studentaffairs",
-      "pmi": 4.33
     },
     {
       "skill": "translation",
       "pmi": 4.26
     },
     {
-      "skill": "teamparticipation",
-      "pmi": 4.26
+      "skill": "behaviordocumentation",
+      "pmi": 3.92
     },
     {
-      "skill": "1on1instruction",
-      "pmi": 4.19
+      "skill": "crisisprotocols",
+      "pmi": 3.88
     },
     {
-      "skill": "behaviormonitoring",
-      "pmi": 4.14
+      "skill": "travelbetweensites",
+      "pmi": 3.81
+    },
+    {
+      "skill": "bcatcredential",
+      "pmi": 3.81
+    },
+    {
+      "skill": "emr",
+      "pmi": 3.59
+    },
+    {
+      "skill": "criticalthinking",
+      "pmi": 3.54
+    },
+    {
+      "skill": "datadocumentation",
+      "pmi": 3.51
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
     }
   ],
   "alternatives": [
@@ -330,7 +279,7 @@
       "pct": 7
     }
   ],
-  "coach_notes": "For a social-service path, focus first on public-speaking. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a social-service path, focus first on student-support. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
       "title": "Youth Success Specialist Intern",
@@ -340,37 +289,59 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.625,
+        "goal_alignment": 0.533,
+        "study_alignment": 0.714,
         "subdomain_alignment": 0.538,
         "experience_alignment": 0.507,
         "attainability": 0.75,
-        "skill_overlap": 0.364,
+        "skill_overlap": 0.273,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Youth success specialist internship is suitable for young adults."
     },
     {
+      "title": "Highly Qualified Paraprofessional",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3405059",
+      "fit": 64,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
+      "job_score_breakdown": {
+        "goal_alignment": 0.4,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.239,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Highly qualified paraprofessional roles are suitable for 16-20 year olds."
+    },
+    {
       "title": "Dance Professional",
       "company": "fred-astaire-dance-studios-3",
       "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 69,
+      "fit": 53,
       "job_type": "goal",
-      "subdomain": "youth-support",
+      "subdomain": "community-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.375,
+        "goal_alignment": 0.267,
+        "study_alignment": 0.429,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.254,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -382,43 +353,21 @@
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
       "fit": 50,
       "job_type": "bridge",
-      "subdomain": "youth-support",
+      "subdomain": "community-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.222,
-        "study_alignment": 0.125,
+        "goal_alignment": 0.2,
+        "study_alignment": 0.143,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "No age restrictions for language assistant roles."
-    },
-    {
-      "title": "Subway Sandwich Artist",
-      "company": "PilotCompany",
-      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.125,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.5,
-        "attainability": 0.75,
-        "skill_overlap": 0.375,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Sandwich making, no alcohol/gambling/etc."
     },
     {
       "title": "Instructional Assistant (Spanish Speaking)",
@@ -426,17 +375,17 @@
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
       "fit": 50,
       "job_type": "bridge",
-      "subdomain": "youth-support",
+      "subdomain": "community-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.125,
+        "goal_alignment": 0.067,
+        "study_alignment": 0.143,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.429,
-        "attainability": 0.85,
-        "skill_overlap": 0.429,
+        "attainability": 0.75,
+        "skill_overlap": 0.286,
         "quality_penalty": 0.0
       },
       "eligible": true,
@@ -452,87 +401,87 @@
       "job_type": "goal",
       "subdomain": "youth-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.625,
+        "goal_alignment": 0.533,
+        "study_alignment": 0.714,
         "subdomain_alignment": 0.538,
         "experience_alignment": 0.507,
         "attainability": 0.75,
-        "skill_overlap": 0.364,
+        "skill_overlap": 0.273,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Youth success specialist internship is suitable for young adults."
     },
     {
+      "title": "Highly Qualified Paraprofessional",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3405059",
+      "fit": 64,
+      "job_type": "goal",
+      "subdomain": "community-support",
+      "function": "social-service",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
+      "job_score_breakdown": {
+        "goal_alignment": 0.4,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.239,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Highly qualified paraprofessional roles are suitable for 16-20 year olds."
+    }
+  ],
+  "aspirational": [
+    {
       "title": "Dance Professional",
       "company": "fred-astaire-dance-studios-3",
       "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 69,
+      "fit": 53,
       "job_type": "goal",
-      "subdomain": "youth-support",
+      "subdomain": "community-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.375,
+        "goal_alignment": 0.267,
+        "study_alignment": 0.429,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.254,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.0,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Dance professional role is suitable for minors/young adults."
-    }
-  ],
-  "aspirational": [
+    },
     {
       "title": "Dual Language Assistant",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
       "fit": 50,
       "job_type": "bridge",
-      "subdomain": "youth-support",
+      "subdomain": "community-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.222,
-        "study_alignment": 0.125,
+        "goal_alignment": 0.2,
+        "study_alignment": 0.143,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "No age restrictions for language assistant roles."
-    },
-    {
-      "title": "Subway Sandwich Artist",
-      "company": "PilotCompany",
-      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000133686697",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
-      "job_score_breakdown": {
-        "goal_alignment": 0.111,
-        "study_alignment": 0.125,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.5,
-        "attainability": 0.75,
-        "skill_overlap": 0.375,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Sandwich making, no alcohol/gambling/etc."
     },
     {
       "title": "Instructional Assistant (Spanish Speaking)",
@@ -540,34 +489,34 @@
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
       "fit": 50,
       "job_type": "bridge",
-      "subdomain": "youth-support",
+      "subdomain": "community-support",
       "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "",
+      "why": "This role builds your bilingual, canva, communication skills and moves you toward becoming a Justice.",
+      "gaps": "student-support",
       "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.125,
+        "goal_alignment": 0.067,
+        "study_alignment": 0.143,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.429,
-        "attainability": 0.85,
-        "skill_overlap": 0.429,
+        "attainability": 0.75,
+        "skill_overlap": 0.286,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Instructional assistant role is suitable for minors/young adults."
     }
   ],
-  "skill_path": "Your bilingual communication and cultural competency are powerful foundations. By building bridge skills like cash-handling and computer skills, you'll unlock paths to justice, culinary arts, or restaurant management—each step brings you closer to a career that aligns with your strengths and passions.",
+  "skill_path": "You already have strong communication, leadership, and bilingual skills—perfect for connecting with diverse people. By building student-support and classroom skills, you'll open doors to careers in justice, culinary arts, or restaurant management where you can make a real impact.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── bilingual (English-Spanish)\n├── communication\n├── Canva\n├── Google Suite\n├── public speaking (implicit)\n├── multitasking (implicit)\n└── cultural competency (implicit)\n    ↓\nBRIDGE SKILLS\n├── cash-handling\n├── classroom-support\n├── cleanliness\n├── computer-skills\n└── developmentally-appropriate-practices\n    ↓\nGOAL SKILLS\n├── administrative-support\n├── attention-to-detail\n├── data-entry\n├── event-participation\n└── Excel\n    ↓\nDREAM CAREERS\n├── Justice\n├── Chef\n└── Restaurant Manager",
+    "tree": "CURRENT SKILLS\n├── bilingual\n├── canva\n├── communication\n├── google suite\n├── languages\n├── leadership\n├── microsoft office\n├── spanish\n├── customer service (implicit)\n├── event planning (implicit)\n└── teamwork (implicit)\n    ↓\nBRIDGE SKILLS\n├── classroom-support\n├── computer-skills\n├── developmentally-appropriate-practices\n├── english-proficiency\n├── instructional-assistant\n└── student-support (core missing)\n    ↓\nGOAL SKILLS\n├── active-listening\n├── administrative-support\n├── assessment-administration\n├── attention-to-detail\n└── classroom-auxiliary\n    ↓\nDREAM CAREERS\n├── Justice\n├── Chef\n└── Restaurant Manager",
     "steps": [
-      "Take a free online Excel course (e.g., Microsoft Learn) to strengthen data-entry and attention-to-detail.",
-      "Volunteer for event coordination at a local nonprofit to practice event-participation and administrative-support.",
-      "Seek a part-time role in a restaurant kitchen or front-of-house to build cash-handling, cleanliness, and multitasking in a culinary setting.",
-      "Enroll in a community college course on restaurant management or culinary arts to bridge toward Chef or Restaurant Manager.",
-      "Use your bilingual skills to assist in a legal aid clinic or community justice organization, gaining attention-to-detail and administrative-support for the Justice path."
+      "Enroll in a student-support training program to build foundational skills for working with students.",
+      "Take a free online course in classroom management and developmentally appropriate practices.",
+      "Practice active listening and attention to detail by volunteering in a classroom or community center.",
+      "Gain administrative support experience by assisting with event planning or office tasks.",
+      "Explore career paths: shadow a social justice advocate, chef, or restaurant manager to see which fits best."
     ],
-    "summary": "Your bilingual communication and cultural competency are powerful foundations. By building bridge skills like cash-handling and computer skills, you'll unlock paths to justice, culinary arts, or restaurant management—each step brings you closer to a career that aligns with your strengths and passions."
+    "summary": "You already have strong communication, leadership, and bilingual skills—perfect for connecting with diverse people. By building student-support and classroom skills, you'll open doors to careers in justice, culinary arts, or restaurant management where you can make a real impact."
   },
   "ideal_careers": [
     "Justice",
@@ -577,22 +526,21 @@
   "student_intent": {
     "goal_domains": [
       "social-service",
-      "legal"
+      "education"
     ],
     "goal_roles": [
       "community advocate",
-      "justice professional"
+      "youth worker"
     ],
     "goal_subdomains": [
-      "youth-support",
-      "community-support"
+      "community-support",
+      "youth-support"
     ],
     "study_domains": [
-      "social-service",
-      "legal"
+      "social-service"
     ],
     "study_subdomains": [
-      "youth-support"
+      "community-support"
     ],
     "study_program": "Bachelor of Arts in Criminal Justice | Expected Graduation: 2029",
     "study_level": "bachelor",
@@ -641,16 +589,16 @@
     "social-service",
     "education"
   ],
-  "subdomain": "youth-support",
-  "subdomain_confidence": 0.7,
+  "subdomain": "community-support",
+  "subdomain_confidence": 0.75,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
     "youth-support",
-    "youth-support",
-    "youth-support",
-    "youth-support",
-    "youth-support"
+    "community-support",
+    "community-support",
+    "community-support",
+    "community-support"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -658,28 +606,27 @@
     "route": {
       "accepted": true,
       "chosen_function": "social-service",
-      "chosen_subdomain": "youth-support",
+      "chosen_subdomain": "community-support",
       "secondary_function": "education",
       "goal_domains": [
         "social-service",
-        "legal"
+        "education"
       ],
       "study_domains": [
-        "social-service",
-        "legal"
+        "social-service"
       ],
       "goal_subdomains": [
-        "youth-support",
-        "community-support"
+        "community-support",
+        "youth-support"
       ],
       "study_subdomains": [
-        "youth-support"
+        "community-support"
       ],
       "goal_roles": [
         "community advocate",
-        "justice professional"
+        "youth worker"
       ],
-      "confidence": 0.7,
+      "confidence": 0.75,
       "evidence_spans": [
         {
           "section": "experience",
@@ -687,13 +634,13 @@
         },
         {
           "section": "experience",
-          "text": "Assisted with classroom activities, small group instruction, and student support."
+          "text": "Researched organizations for donations and scholarships for low-income students."
         }
       ],
       "reason_codes": [
-        "major in criminal justice",
-        "community advocacy experience",
-        "bilingual community advocate headline"
+        "explicit_goal",
+        "education_major",
+        "community_work_experience"
       ],
       "review_reasons": []
     },
@@ -701,84 +648,32 @@
       "accepted": true,
       "scored_skills": [
         "bilingual",
-        "bilingual english",
-        "bilingual english spanish",
         "canva",
         "communication",
-        "english spanish",
-        "english spanish communication",
-        "google",
         "google suite",
         "languages",
         "leadership",
-        "microsoft",
         "microsoft office",
-        "office",
-        "spanish",
-        "customer service",
-        "event planning",
-        "group instruction",
-        "interpretation",
-        "point of sale",
-        "pos",
-        "pos systems",
-        "small group instruction",
-        "spanish communication",
-        "spanish english",
-        "student support",
-        "teamwork",
-        "time management",
-        "active listening",
-        "instructing",
-        "coordination",
-        "sales and marketing",
-        "foreign language",
-        "administrative",
-        "mathematics",
-        "customer and personal service"
+        "spanish"
       ],
       "verified_skills": [
         "bilingual",
-        "bilingual english",
-        "bilingual english spanish",
         "canva",
         "communication",
-        "english spanish",
-        "english spanish communication",
-        "google",
         "google suite",
         "languages",
         "leadership",
-        "microsoft",
         "microsoft office",
-        "office",
-        "spanish",
-        "customer service",
-        "event planning",
-        "group instruction",
-        "interpretation",
-        "point of sale",
-        "pos",
-        "pos systems",
-        "small group instruction",
-        "spanish communication",
-        "spanish english",
-        "student support",
-        "teamwork",
-        "time management",
-        "active listening",
-        "instructing",
-        "coordination",
-        "sales and marketing",
-        "foreign language",
-        "administrative",
-        "mathematics",
-        "customer and personal service"
+        "spanish"
       ],
       "possible_skills": [],
       "rejected_skills": [
+        "active listening",
+        "administrative",
         "advocate",
         "bachelor",
+        "bilingual english",
+        "bilingual english spanish",
         "can",
         "cash",
         "cash transactions",
@@ -786,22 +681,39 @@
         "cleanliness",
         "cleanliness standards",
         "community events",
+        "coordination",
         "criminal justice",
+        "customer and personal service",
+        "customer service",
         "distribution",
         "documents",
         "donations",
         "efficiency",
         "emails",
+        "english spanish",
+        "english spanish communication",
+        "event planning",
         "fast paced",
         "food",
         "food distribution",
+        "foreign language",
+        "google",
+        "group instruction",
         "high volume",
         "high volume environment",
         "hours",
+        "instructing",
         "instruction",
+        "interpretation",
+        "mathematics",
         "media",
+        "microsoft",
         "multicultural",
+        "office",
         "organized",
+        "point of sale",
+        "pos",
+        "pos systems",
         "prepared food",
         "program",
         "quality",
@@ -810,28 +722,35 @@
         "safety",
         "safety and quality",
         "service",
+        "service orientation",
+        "small group instruction",
+        "spanish communication",
+        "spanish english",
         "speak",
         "sponsors",
         "standards",
+        "student support",
         "systems",
+        "teamwork",
         "transactions",
         "united states",
-        "waitstaff"
+        "waitstaff",
+        "writing"
       ],
       "implicit_skills": [
         {
-          "skill": "public speaking",
-          "reason": "Experience with group instruction and community events implies public speaking ability.",
+          "skill": "customer service",
+          "reason": "Experience with cash transactions and customer service suggests strong customer service skills.",
           "confidence": "medium"
         },
         {
-          "skill": "multitasking",
-          "reason": "Handling high volume environment and cash transactions suggests multitasking skills.",
+          "skill": "event planning",
+          "reason": "Experience with community events and event planning indicates event planning skills.",
           "confidence": "medium"
         },
         {
-          "skill": "cultural competency",
-          "reason": "Bilingual and multicultural experience indicates cultural competency.",
+          "skill": "teamwork",
+          "reason": "Experience in classroom activities and group instruction implies teamwork ability.",
           "confidence": "medium"
         }
       ],

@@ -5,16 +5,24 @@
   "confidence": 0.9,
   "evidence_spans": [
     {
+      "section": "experience",
+      "text": "Managed the Flu POD on campus with 520 students and staff vaccinated."
+    },
+    {
+      "section": "experience",
+      "text": "Completed 75 hours of professional training. Assisted patients with Activities of Daily Living including grocery shopping and house cleaning."
+    },
+    {
+      "section": "experience",
+      "text": "Created condensed training materials for case management positions covering Epic and VMware."
+    },
+    {
+      "section": "experience",
+      "text": "Guided patients to examination rooms and gathered background information."
+    },
+    {
       "section": "education",
       "text": "Bachelor of Science in Health Science"
-    },
-    {
-      "section": "experience",
-      "text": "Home Health Aide \u2014 Platinum Home Care"
-    },
-    {
-      "section": "experience",
-      "text": "Intern & Physician Shadowing \u2014 North Manhattan Eye Center"
     }
   ],
   "goal_domains": [
@@ -30,8 +38,8 @@
   ],
   "reason_codes": [
     "explicit_goal",
-    "relevant_experience",
-    "relevant_education"
+    "education_major",
+    "work_experience"
   ],
   "review_reasons": [],
   "secondary_function": "education",

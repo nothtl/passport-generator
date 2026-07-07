@@ -4,35 +4,29 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Mentioned 'customer service excellence' and 'service' multiple times.",
-      "skill": "Customer Service"
+      "reason": "Troubleshooting and technical support imply problem-solving ability.",
+      "skill": "Problem Solving"
     },
     {
       "confidence": "medium",
-      "reason": "Listed 'bilingual', 'spanish', 'english spanish', 'translation'.",
-      "skill": "Bilingual Communication"
+      "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
+      "skill": "Multitasking"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'.",
-      "skill": "Technical Support"
+      "reason": "Customer service, teamwork, and client interaction indicate strong interpersonal skills.",
+      "skill": "Interpersonal Skills"
     }
   ],
   "possible_skills": [],
-  "rejected_skills": [
-    "diploma",
-    "high school",
-    "high school diploma",
-    "high school graduate",
-    "internship"
-  ],
+  "rejected_skills": [],
   "review_reasons": [],
   "scored_skills": [
     "Customer and Personal Service",
     "Troubleshooting",
     "Administrative",
-    "Foreign Language",
     "Coordination",
+    "Foreign Language",
     "Active Listening",
     "Time Management",
     "accessibility",
@@ -90,14 +84,38 @@
     "translations",
     "troubleshooting",
     "user experience",
-    "workspace"
+    "workspace",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "bilingual",
+    "bilingual communication",
+    "communication",
+    "diploma",
+    "high school",
+    "high school diploma",
+    "leadership",
+    "technical",
+    "technical skills"
   ],
   "verified_skills": [
     "Customer and Personal Service",
     "Troubleshooting",
     "Administrative",
-    "Foreign Language",
     "Coordination",
+    "Foreign Language",
     "Active Listening",
     "Time Management",
     "accessibility",
@@ -155,6 +173,30 @@
     "translations",
     "troubleshooting",
     "user experience",
-    "workspace"
+    "workspace",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "bilingual",
+    "bilingual communication",
+    "communication",
+    "diploma",
+    "high school",
+    "high school diploma",
+    "leadership",
+    "technical",
+    "technical skills"
   ]
 }

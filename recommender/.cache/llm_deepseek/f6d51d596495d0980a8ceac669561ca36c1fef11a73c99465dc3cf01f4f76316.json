@@ -11,32 +11,32 @@
     {
       "section": "education",
       "text": "Strengthened communication abilities by presenting end-of-summer projects encompassing sampling, tempo, beat, and album cover design."
-    },
-    {
-      "section": "skills",
-      "text": "Provided guidance and instruction to campers, explaining project requirements,and assisting them with their creative endeavors."
     }
   ],
   "goal_domains": [
-    "arts-media"
+    "arts-media",
+    "sales"
   ],
   "goal_roles": [
     "content creator",
-    "audio producer"
+    "social media manager"
   ],
   "goal_subdomains": [
-    "content-creation"
+    "content-creation",
+    "marketing-creative"
   ],
   "reason_codes": [
-    "explicit_goal",
-    "relevant_experience"
+    "explicit internship in audio production and album cover design",
+    "social media management experience",
+    "strong arts-media classifier signal"
   ],
   "review_reasons": [],
-  "secondary_function": "education",
+  "secondary_function": "sales",
   "study_domains": [
-    "arts-media"
+    "arts-media",
+    "education"
   ],
   "study_subdomains": [
-    "content-creation"
+    "creative-education"
   ]
 }

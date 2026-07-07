@@ -4,18 +4,18 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Working as event staff and in customer service roles typically requires collaboration with others.",
+      "reason": "Roles like event staff and ambassador imply collaboration",
       "skill": "teamwork"
     },
     {
       "confidence": "medium",
-      "reason": "Handling multiple responsibilities like cashiering, catering, and event setup suggests effective time management.",
+      "reason": "Handling multiple tasks in fast-paced environments",
       "skill": "time management"
     },
     {
       "confidence": "medium",
-      "reason": "Dealing with customer orders, inquiries, and event operations implies ability to resolve issues.",
-      "skill": "problem-solving"
+      "reason": "Customer service and event support require quick thinking",
+      "skill": "problem solving"
     }
   ],
   "possible_skills": [],
@@ -27,11 +27,11 @@
     "cash",
     "cleanliness",
     "cleanup",
-    "client",
     "clients",
     "communicate",
     "customer focused",
     "customers",
+    "diploma",
     "electronic",
     "excellent customer service",
     "exceptional customer service",
@@ -53,24 +53,13 @@
     "leader",
     "leadership development",
     "management",
-    "microsoft",
     "ministry",
     "motivated",
     "office",
     "operations",
     "orders",
-    "organized",
     "outreach",
-    "passionate",
-    "school",
-    "student",
-    "team",
-    "teamwork",
-    "time management",
-    "training",
-    "volunteer",
-    "work",
-    "worker"
+    "passionate"
   ],
   "review_reasons": [],
   "scored_skills": [

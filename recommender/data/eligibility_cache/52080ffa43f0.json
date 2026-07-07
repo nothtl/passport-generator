@@ -1,0 +1,18 @@
+{
+  "Intern, Information Security|||palmbeachstate": {
+    "eligible": true,
+    "reason": "Information security intern role suitable for 16-20 year olds."
+  },
+  "Part Time Security Agent|||ijetconnect": {
+    "eligible": true,
+    "reason": "Security agent role likely unarmed and suitable for minors."
+  },
+  "Inside Sales Specialist|||cabp": {
+    "eligible": true,
+    "reason": "Inside sales specialist role does not require age 21+."
+  },
+  "Inside Sales Specialist (On-Site)|||cabp": {
+    "eligible": true,
+    "reason": "Inside sales specialist role does not require age 21+."
+  }
+}

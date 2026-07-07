@@ -1,8 +1,8 @@
 {
   "accepted": true,
   "chosen_function": "social-service",
-  "chosen_subdomain": "youth-support",
-  "confidence": 0.7,
+  "chosen_subdomain": "community-support",
+  "confidence": 0.75,
   "evidence_spans": [
     {
       "section": "experience",
@@ -10,33 +10,32 @@
     },
     {
       "section": "experience",
-      "text": "Assisted with classroom activities, small group instruction, and student support."
+      "text": "Researched organizations for donations and scholarships for low-income students."
     }
   ],
   "goal_domains": [
     "social-service",
-    "legal"
+    "education"
   ],
   "goal_roles": [
     "community advocate",
-    "justice professional"
+    "youth worker"
   ],
   "goal_subdomains": [
-    "youth-support",
-    "community-support"
+    "community-support",
+    "youth-support"
   ],
   "reason_codes": [
-    "major in criminal justice",
-    "community advocacy experience",
-    "bilingual community advocate headline"
+    "explicit_goal",
+    "education_major",
+    "community_work_experience"
   ],
   "review_reasons": [],
   "secondary_function": "education",
   "study_domains": [
-    "social-service",
-    "legal"
+    "social-service"
   ],
   "study_subdomains": [
-    "youth-support"
+    "community-support"
   ]
 }

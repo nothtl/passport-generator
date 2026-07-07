@@ -2,7 +2,7 @@
   "accepted": true,
   "chosen_function": "technology",
   "chosen_subdomain": "it-support",
-  "confidence": 0.85,
+  "confidence": 0.65,
   "evidence_spans": [
     {
       "section": "Professional Experience",
@@ -11,33 +11,27 @@
     {
       "section": "Professional Experience",
       "text": "Troubleshot hardware and software issues, improving user experience."
-    },
-    {
-      "section": "Professional Experience",
-      "text": "Assisted clients with technical problems, delivering clear and effective guidance."
     }
   ],
   "goal_domains": [
     "technology"
   ],
   "goal_roles": [
-    "Software Engineer",
-    "IT Support Specialist",
-    "Developer"
+    "IT Support Specialist"
   ],
   "goal_subdomains": [
-    "it-support",
-    "software"
+    "it-support"
   ],
   "reason_codes": [
     "explicit_goal",
-    "relevant_experience",
-    "skill_match"
+    "work_experience"
   ],
   "review_reasons": [],
   "secondary_function": "healthcare",
   "study_domains": [
-    "education"
+    "technology"
   ],
-  "study_subdomains": []
+  "study_subdomains": [
+    "it-support"
+  ]
 }

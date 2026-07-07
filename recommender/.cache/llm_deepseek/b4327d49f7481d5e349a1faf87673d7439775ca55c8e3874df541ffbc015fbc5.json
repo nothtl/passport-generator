@@ -4,18 +4,18 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Managing multiple activities like care, meals, and games suggests multitasking ability.",
+      "reason": "Instructing and bilingual imply strong communication skills.",
+      "skill": "Communication"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Coordination and time management suggest ability to handle multiple tasks.",
       "skill": "Multitasking"
     },
     {
       "confidence": "medium",
-      "reason": "Involvement in dance, paint, and exhibits indicates creative skills.",
-      "skill": "Creativity"
-    },
-    {
-      "confidence": "medium",
-      "reason": "Roles like sitter and care imply responsibility and reliability.",
-      "skill": "Responsibility"
+      "reason": "Experience with diverse activities like dance, games, and care indicates flexibility.",
+      "skill": "Adaptability"
     }
   ],
   "possible_skills": [],
@@ -35,12 +35,11 @@
   "review_reasons": [],
   "scored_skills": [
     "Instructing",
+    "Customer and Personal Service",
     "Fine Arts",
     "Service Orientation",
     "Monitoring",
     "Coordination",
-    "Food Production",
-    "Customer and Personal Service",
     "Time Management",
     "Active Learning",
     "Foreign Language",
@@ -48,12 +47,11 @@
   ],
   "verified_skills": [
     "Instructing",
+    "Customer and Personal Service",
     "Fine Arts",
     "Service Orientation",
     "Monitoring",
     "Coordination",
-    "Food Production",
-    "Customer and Personal Service",
     "Time Management",
     "Active Learning",
     "Foreign Language",

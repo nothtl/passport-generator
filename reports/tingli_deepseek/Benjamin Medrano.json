@@ -6,8 +6,8 @@
     "Customer and Personal Service",
     "Troubleshooting",
     "Administrative",
-    "Foreign Language",
     "Coordination",
+    "Foreign Language",
     "Active Listening",
     "Time Management",
     "accessibility",
@@ -65,14 +65,38 @@
     "translations",
     "troubleshooting",
     "user experience",
-    "workspace"
+    "workspace",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "bilingual",
+    "bilingual communication",
+    "communication",
+    "diploma",
+    "high school",
+    "high school diploma",
+    "leadership",
+    "technical",
+    "technical skills"
   ],
   "verified_skills": [
     "Customer and Personal Service",
     "Troubleshooting",
     "Administrative",
-    "Foreign Language",
     "Coordination",
+    "Foreign Language",
     "Active Listening",
     "Time Management",
     "accessibility",
@@ -130,23 +154,41 @@
     "translations",
     "troubleshooting",
     "user experience",
-    "workspace"
-  ],
-  "possible_skills": [],
-  "rejected_skills": [
+    "workspace",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "bilingual",
+    "bilingual communication",
+    "communication",
     "diploma",
     "high school",
     "high school diploma",
-    "high school graduate",
-    "internship"
+    "leadership",
+    "technical",
+    "technical skills"
   ],
+  "possible_skills": [],
+  "rejected_skills": [],
   "skill_weights": {},
   "market_relevant": [
     "Customer and Personal Service",
     "Troubleshooting",
     "Administrative",
-    "Foreign Language",
     "Coordination",
+    "Foreign Language",
     "Active Listening",
     "Time Management",
     "accessibility",
@@ -204,27 +246,51 @@
     "translations",
     "troubleshooting",
     "user experience",
-    "workspace"
+    "workspace",
+    "accessibility",
+    "administrative",
+    "administrative tasks",
+    "bilingual",
+    "bilingualcommunication",
+    "clients",
+    "communication",
+    "coordinating",
+    "customer service",
+    "customer service excellence",
+    "delivering",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "bilingual",
+    "bilingual communication",
+    "communication",
+    "diploma",
+    "high school",
+    "high school diploma",
+    "leadership",
+    "technical",
+    "technical skills"
   ],
   "inferred": [
-    "Customer Service",
-    "Bilingual Communication",
-    "Technical Support"
+    "Problem Solving",
+    "Multitasking",
+    "Interpersonal Skills"
   ],
   "implicit_skills": [
     {
-      "skill": "Customer Service",
-      "reason": "Mentioned 'customer service excellence' and 'service' multiple times.",
+      "skill": "Problem Solving",
+      "reason": "Troubleshooting and technical support imply problem-solving ability.",
       "confidence": "medium"
     },
     {
-      "skill": "Bilingual Communication",
-      "reason": "Listed 'bilingual', 'spanish', 'english spanish', 'translation'.",
+      "skill": "Multitasking",
+      "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
       "confidence": "medium"
     },
     {
-      "skill": "Technical Support",
-      "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'.",
+      "skill": "Interpersonal Skills",
+      "reason": "Customer service, teamwork, and client interaction indicate strong interpersonal skills.",
       "confidence": "medium"
     }
   ],
@@ -239,30 +305,32 @@
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
-    "computer-literacy",
     "desktop-support",
     "developer",
     "diagnostic-tools",
     "end-user-support",
     "go-to-voip",
     "hardware-repair",
-    "high-school-diploma",
-    "multitasking",
-    "network"
+    "incident-management",
+    "it-service-desk",
+    "network",
+    "network-printers"
   ],
   "nice_to_have_gaps": [
-    "computer-literacy",
     "desktop-support",
     "developer",
     "diagnostic-tools",
     "end-user-support",
     "go-to-voip",
     "hardware-repair",
-    "high-school-diploma",
-    "multitasking",
-    "network"
+    "incident-management",
+    "it-service-desk",
+    "network",
+    "network-printers"
   ],
-  "verify_gaps": [],
+  "verify_gaps": [
+    "problem-solving"
+  ],
   "related": [],
   "related_skills": [],
   "alternatives": [
@@ -293,15 +361,15 @@
       "title": "IT Support Specialist - Mondays ONLY",
       "company": "itero-group",
       "url": "https://job-boards.greenhouse.io/itero-group/jobs/5265095008",
-      "fit": 82,
+      "fit": 87,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.333,
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.615,
         "experience_alignment": 0.0,
         "attainability": 0.85,
@@ -310,66 +378,44 @@
       },
       "eligible": true,
       "eligibility_reason": "IT support role, no age restrictions.",
-      "bridge": "Your IT Support Specialist role sharpens troubleshooting and documentation skills, which are directly transferable to software engineering by building a foundation in problem-solving and technical communication. Mastering end-user support and ticketing also hones your ability to understand user needs—a critical skill for developing accessible, user-focused software."
+      "bridge": "Your IT Support Specialist role sharpens your troubleshooting and communication skills while building essential documentation and ticketing expertise—directly transferable to software engineering, where clear issue tracking and user-focused solutions are key. This hands-on experience with end-user support also strengthens your coordination and time management, giving you a practical foundation for debugging and collaborating on development projects."
     },
     {
-      "title": "Physical Therapy Technician",
-      "company": "urpt",
-      "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "software",
-      "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.444,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restriction for this role.",
-      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and multitasking skills—all of which are directly transferable to software development and IT support, where clear documentation, teamwork, and troubleshooting are key. This role also builds your customer service and coordination abilities, which will help you excel in understanding user needs and collaborating on tech projects."
-    },
-    {
-      "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "software",
-      "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.471,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.385,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
-    },
-    {
-      "title": "IT SUPPORT SPECIALIST",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
-      "fit": 66,
+      "title": "Associate IT Support Analyst",
+      "company": "wmg",
+      "url": "https://jobs.lever.co/wmg/0eeaf153-af88-453d-8b96-513b65cd8368",
+      "fit": 86,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.111,
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.556,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "IT support analyst, no age restrictions.",
+      "bridge": "As an Associate IT Support Analyst, you'll sharpen your troubleshooting and customer-service skills daily, which are directly transferable to software engineering—where debugging and user empathy are key. Plus, mastering IT service desk tools and hardware builds a solid technical foundation for any developer role."
+    },
+    {
+      "title": "IT SUPPORT SPECIALIST",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "it-support",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "documentation, help-desk",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.605,
         "experience_alignment": 0.0,
         "attainability": 0.85,
@@ -383,15 +429,15 @@
       "title": "Information Technology Technician",
       "company": "fng",
       "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
-      "fit": 64,
+      "fit": 71,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.222,
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.429,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -400,6 +446,28 @@
       },
       "eligible": true,
       "eligibility_reason": "IT technician role, no age restrictions."
+    },
+    {
+      "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
+      "fit": 67,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "documentation, help-desk",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
+        "subdomain_alignment": 0.176,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.385,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
     }
   ],
   "ready_now": [
@@ -407,15 +475,15 @@
       "title": "IT Support Specialist - Mondays ONLY",
       "company": "itero-group",
       "url": "https://job-boards.greenhouse.io/itero-group/jobs/5265095008",
-      "fit": 82,
+      "fit": 87,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.333,
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.615,
         "experience_alignment": 0.0,
         "attainability": 0.85,
@@ -424,68 +492,46 @@
       },
       "eligible": true,
       "eligibility_reason": "IT support role, no age restrictions.",
-      "bridge": "Your IT Support Specialist role sharpens troubleshooting and documentation skills, which are directly transferable to software engineering by building a foundation in problem-solving and technical communication. Mastering end-user support and ticketing also hones your ability to understand user needs—a critical skill for developing accessible, user-focused software."
+      "bridge": "Your IT Support Specialist role sharpens your troubleshooting and communication skills while building essential documentation and ticketing expertise—directly transferable to software engineering, where clear issue tracking and user-focused solutions are key. This hands-on experience with end-user support also strengthens your coordination and time management, giving you a practical foundation for debugging and collaborating on development projects."
     },
     {
-      "title": "Physical Therapy Technician",
-      "company": "urpt",
-      "url": "https://yourfuture.urpt.com/job/5161009007/?gh_jid=5161009007",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "software",
-      "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.444,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "No age restriction for this role.",
-      "bridge": "As a Physical Therapy Technician, you'll sharpen your communication, organization, and multitasking skills—all of which are directly transferable to software development and IT support, where clear documentation, teamwork, and troubleshooting are key. This role also builds your customer service and coordination abilities, which will help you excel in understanding user needs and collaborating on tech projects."
-    }
-  ],
-  "aspirational": [
-    {
-      "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "software",
-      "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.222,
-        "subdomain_alignment": 0.471,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.385,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
-    },
-    {
-      "title": "IT SUPPORT SPECIALIST",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
-      "fit": 66,
+      "title": "Associate IT Support Analyst",
+      "company": "wmg",
+      "url": "https://jobs.lever.co/wmg/0eeaf153-af88-453d-8b96-513b65cd8368",
+      "fit": 86,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.111,
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
+        "subdomain_alignment": 0.533,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.556,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "IT support analyst, no age restrictions.",
+      "bridge": "As an Associate IT Support Analyst, you'll sharpen your troubleshooting and customer-service skills daily, which are directly transferable to software engineering—where debugging and user empathy are key. Plus, mastering IT service desk tools and hardware builds a solid technical foundation for any developer role."
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "IT SUPPORT SPECIALIST",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "it-support",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "documentation, help-desk",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.605,
         "experience_alignment": 0.0,
         "attainability": 0.85,
@@ -499,15 +545,15 @@
       "title": "Information Technology Technician",
       "company": "fng",
       "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
-      "fit": 64,
+      "fit": 71,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
       "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
       "gaps": "documentation, help-desk",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.222,
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
         "subdomain_alignment": 0.429,
         "experience_alignment": 0.0,
         "attainability": 0.75,
@@ -516,19 +562,41 @@
       },
       "eligible": true,
       "eligibility_reason": "IT technician role, no age restrictions."
+    },
+    {
+      "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
+      "fit": 67,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "documentation, help-desk",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.571,
+        "subdomain_alignment": 0.176,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.385,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
     }
   ],
-  "skill_path": "You already have strong customer service, troubleshooting, and administrative skills—perfect for IT support. By building documentation and help-desk expertise, then expanding into computer literacy and developer tools, you'll be well on your way to becoming a Software Engineer or IT Support Specialist.",
+  "skill_path": "You already have a strong foundation in customer service, troubleshooting, and organization. By focusing on documentation and help-desk skills first, you'll quickly become job-ready for IT support, then you can branch into software development as you grow.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Troubleshooting\n├── Administrative\n├── Foreign Language\n├── Coordination\n├── Active Listening\n├── Time Management\n├── Accessibility\n├── Customer Service (implicit)\n├── Bilingual Communication (implicit)\n└── Technical Support (implicit)\n    ↓\nBRIDGE SKILLS\n├── Documentation\n└── Help-desk\n    ↓\nGOAL SKILLS\n├── Computer Literacy\n├── Desktop Support\n├── Developer\n├── Diagnostic Tools\n└── End-User Support\n    ↓\nDREAM CAREERS\n├── Software Engineer\n├── IT Support Specialist\n└── Developer",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Troubleshooting\n├── Administrative\n├── Coordination\n├── Foreign Language\n├── Active Listening\n├── Time Management\n├── accessibility\n├── administrative\n├── administrative tasks\n├── Problem Solving (implicit)\n├── Multitasking (implicit)\n└── Interpersonal Skills (implicit)\n    ↓\nBRIDGE SKILLS\n├── documentation\n└── help-desk\n    ↓\nGOAL SKILLS\n├── desktop-support\n├── developer\n├── diagnostic-tools\n├── end-user-support\n└── go-to-voip\n    ↓\nCAREER PATHS\n├── IT Support Specialist\n├── Software Engineer\n└── Developer",
     "steps": [
-      "Take a free online course on technical documentation (e.g., Google's Technical Writing course).",
-      "Practice help-desk scenarios using a free ticketing system like osTicket or Spiceworks.",
-      "Learn computer literacy basics: operating systems, file management, and networking fundamentals via YouTube or Coursera.",
-      "Explore diagnostic tools like Windows Event Viewer or Linux syslog through hands-on labs.",
-      "Start a beginner programming course in Python or JavaScript on Codecademy or freeCodeCamp."
+      "Take a free online course on IT documentation (e.g., Google IT Support Certificate on Coursera).",
+      "Practice help-desk scenarios using a virtual lab or simulation (e.g., TryHackMe help-desk room).",
+      "Learn desktop support basics: install OS, troubleshoot hardware, use diagnostic tools (e.g., CompTIA A+ study materials).",
+      "Build a small project (e.g., a simple Python script or a personal website) to start developing developer skills.",
+      "Explore end-user support and VoIP tools (e.g., Cisco VoIP tutorials) to round out IT support expertise."
     ],
-    "summary": "You already have strong customer service, troubleshooting, and administrative skills—perfect for IT support. By building documentation and help-desk expertise, then expanding into computer literacy and developer tools, you'll be well on your way to becoming a Software Engineer or IT Support Specialist."
+    "summary": "You already have a strong foundation in customer service, troubleshooting, and organization. By focusing on documentation and help-desk skills first, you'll quickly become job-ready for IT support, then you can branch into software development as you grow."
   },
   "ideal_careers": [
     "Software Engineer",
@@ -540,19 +608,16 @@
       "technology"
     ],
     "goal_roles": [
-      "Software Engineer",
-      "IT Support Specialist",
-      "Developer"
+      "IT Support Specialist"
     ],
     "goal_subdomains": [
-      "it-support",
-      "software"
+      "it-support"
     ],
     "study_domains": [
-      "education"
+      "technology"
     ],
     "study_subdomains": [
-      "classroom-support"
+      "it-support"
     ],
     "study_program": "High School Diploma in Leadership, Bilingual Communication, and",
     "study_level": "high-school",
@@ -598,7 +663,7 @@
     "healthcare"
   ],
   "subdomain": "it-support",
-  "subdomain_confidence": 0.85,
+  "subdomain_confidence": 0.72,
   "subdomain_alternatives": [
     "it-support",
     "engineering"
@@ -606,10 +671,10 @@
   "lane_used": "rescue",
   "job_cluster": [
     "it-support",
-    "software",
-    "software",
     "it-support",
-    "it-support"
+    "it-support",
+    "it-support",
+    "software"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -623,19 +688,18 @@
         "technology"
       ],
       "study_domains": [
-        "education"
+        "technology"
       ],
       "goal_subdomains": [
-        "it-support",
-        "software"
+        "it-support"
       ],
-      "study_subdomains": [],
+      "study_subdomains": [
+        "it-support"
+      ],
       "goal_roles": [
-        "Software Engineer",
-        "IT Support Specialist",
-        "Developer"
+        "IT Support Specialist"
       ],
-      "confidence": 0.85,
+      "confidence": 0.65,
       "evidence_spans": [
         {
           "section": "Professional Experience",
@@ -644,16 +708,11 @@
         {
           "section": "Professional Experience",
           "text": "Troubleshot hardware and software issues, improving user experience."
-        },
-        {
-          "section": "Professional Experience",
-          "text": "Assisted clients with technical problems, delivering clear and effective guidance."
         }
       ],
       "reason_codes": [
         "explicit_goal",
-        "relevant_experience",
-        "skill_match"
+        "work_experience"
       ],
       "review_reasons": []
     },
@@ -663,8 +722,8 @@
         "Customer and Personal Service",
         "Troubleshooting",
         "Administrative",
-        "Foreign Language",
         "Coordination",
+        "Foreign Language",
         "Active Listening",
         "Time Management",
         "accessibility",
@@ -722,14 +781,38 @@
         "translations",
         "troubleshooting",
         "user experience",
-        "workspace"
+        "workspace",
+        "accessibility",
+        "administrative",
+        "administrative tasks",
+        "bilingual",
+        "bilingualcommunication",
+        "clients",
+        "communication",
+        "coordinating",
+        "customer service",
+        "customer service excellence",
+        "delivering",
+        "efficiency",
+        "efficient",
+        "engaging",
+        "english spanish",
+        "bilingual",
+        "bilingual communication",
+        "communication",
+        "diploma",
+        "high school",
+        "high school diploma",
+        "leadership",
+        "technical",
+        "technical skills"
       ],
       "verified_skills": [
         "Customer and Personal Service",
         "Troubleshooting",
         "Administrative",
-        "Foreign Language",
         "Coordination",
+        "Foreign Language",
         "Active Listening",
         "Time Management",
         "accessibility",
@@ -787,30 +870,48 @@
         "translations",
         "troubleshooting",
         "user experience",
-        "workspace"
-      ],
-      "possible_skills": [],
-      "rejected_skills": [
+        "workspace",
+        "accessibility",
+        "administrative",
+        "administrative tasks",
+        "bilingual",
+        "bilingualcommunication",
+        "clients",
+        "communication",
+        "coordinating",
+        "customer service",
+        "customer service excellence",
+        "delivering",
+        "efficiency",
+        "efficient",
+        "engaging",
+        "english spanish",
+        "bilingual",
+        "bilingual communication",
+        "communication",
         "diploma",
         "high school",
         "high school diploma",
-        "high school graduate",
-        "internship"
+        "leadership",
+        "technical",
+        "technical skills"
       ],
+      "possible_skills": [],
+      "rejected_skills": [],
       "implicit_skills": [
         {
-          "skill": "Customer Service",
-          "reason": "Mentioned 'customer service excellence' and 'service' multiple times.",
+          "skill": "Problem Solving",
+          "reason": "Troubleshooting and technical support imply problem-solving ability.",
           "confidence": "medium"
         },
         {
-          "skill": "Bilingual Communication",
-          "reason": "Listed 'bilingual', 'spanish', 'english spanish', 'translation'.",
+          "skill": "Multitasking",
+          "reason": "Coordinating multiple tasks and administrative duties suggest multitasking.",
           "confidence": "medium"
         },
         {
-          "skill": "Technical Support",
-          "reason": "Mentioned 'technical support', 'hardware and software', 'troubleshooting'.",
+          "skill": "Interpersonal Skills",
+          "reason": "Customer service, teamwork, and client interaction indicate strong interpersonal skills.",
           "confidence": "medium"
         }
       ],

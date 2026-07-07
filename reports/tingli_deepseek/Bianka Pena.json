@@ -256,35 +256,35 @@
   "skill_evidence": [],
   "gaps": [
     "organization",
-    "public-health",
+    "relationship-building",
     "teamwork"
   ],
   "core_gaps": [
     "organization",
-    "public-health",
+    "relationship-building",
     "teamwork"
   ],
   "bridge_gaps": [],
   "stretch_gaps": [
     "appointment-scheduling",
-    "bilingual",
     "classical-education",
     "client-navigation",
     "communication",
-    "community-outreach",
+    "community-based-interventions",
     "community-referrals",
+    "crisis-intervention",
     "cultural-sensitivity",
     "customer-service",
     "differentiated-instruction"
   ],
   "nice_to_have_gaps": [
     "appointment-scheduling",
-    "bilingual",
     "classical-education",
     "client-navigation",
     "communication",
-    "community-outreach",
+    "community-based-interventions",
     "community-referrals",
+    "crisis-intervention",
     "cultural-sensitivity",
     "customer-service",
     "differentiated-instruction"
@@ -396,44 +396,45 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a healthcare path, focus first on organization, public-health, teamwork. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a healthcare path, focus first on organization, relationship-building, teamwork. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "NY Children's Health Promotion Intern (Unpaid)",
-      "company": "theirc",
-      "url": "https://theirc.wd1.myworkdayjobs.com/job/New-York-NY-RAI-USA/NY-Children-s-Health-Promotion-Intern--Unpaid-_JR00003920",
-      "fit": 88,
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 80,
       "job_type": "goal",
-      "subdomain": "public-health",
-      "function": "healthcare",
+      "subdomain": "research",
+      "function": "social-service",
       "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
+      "gaps": "organization, relationship-building, teamwork",
       "job_score_breakdown": {
-        "goal_alignment": 0.6,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.846,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.375,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.067,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Internship for children's health promotion, suitable for young adults."
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "bridge": "As a virtual elementary teacher, you'll sharpen your monitoring, instructing, and coordination skills—directly transferable to patient care. Differentiated instruction and parent communication also build the empathy and clear communication essential for nursing."
     },
     {
       "title": "Patient Experience Coordinator (Wentzville)",
       "company": "TVG-MedullaLLC",
       "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
-      "fit": 88,
+      "fit": 79,
       "job_type": "goal",
       "subdomain": "clinical-support",
       "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
+      "gaps": "organization, relationship-building, teamwork",
       "job_score_breakdown": {
-        "goal_alignment": 0.6,
+        "goal_alignment": 0.667,
         "study_alignment": 0.75,
-        "subdomain_alignment": 0.632,
+        "subdomain_alignment": 0.026,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.125,
@@ -443,87 +444,41 @@
       "eligibility_reason": "Patient coordinator, no age restriction."
     },
     {
-      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
-      "company": "accelschools",
-      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
-      "fit": 72,
+      "title": "Mobile Response Peer Support Specialist",
+      "company": "crestwoodcareers",
+      "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003",
+      "fit": 67,
       "job_type": "goal",
-      "subdomain": "research",
-      "function": "education",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
-      "job_score_breakdown": {
-        "goal_alignment": 0.4,
-        "study_alignment": 0.375,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.067,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Virtual teaching role, no age restriction indicated."
-    },
-    {
-      "title": "Care Navigator - CCBHC (Helena, MT)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4232975",
-      "fit": 71,
-      "job_type": "goal",
-      "subdomain": "public-health",
+      "subdomain": "clinical-support",
       "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
+      "gaps": "organization, relationship-building, teamwork",
       "job_score_breakdown": {
-        "goal_alignment": 0.6,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.375,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.182,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Care navigator role does not require 21+."
-    },
-    {
-      "title": "Contractor - Community Health & Civics Worker (Bilingual Dari or Pashto)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3572249",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "public-health",
-      "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
-      "job_score_breakdown": {
-        "goal_alignment": 0.4,
+        "goal_alignment": 0.444,
         "study_alignment": 0.5,
-        "subdomain_alignment": 0.625,
+        "subdomain_alignment": 0.5,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Community health worker, no age restriction."
-    }
-  ],
-  "ready_now": [
+      "eligibility_reason": "Peer support specialist roles typically do not have age restrictions beyond 16."
+    },
     {
       "title": "NY Children's Health Promotion Intern (Unpaid)",
       "company": "theirc",
       "url": "https://theirc.wd1.myworkdayjobs.com/job/New-York-NY-RAI-USA/NY-Children-s-Health-Promotion-Intern--Unpaid-_JR00003920",
-      "fit": 88,
+      "fit": 66,
       "job_type": "goal",
       "subdomain": "public-health",
       "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
+      "gaps": "organization, relationship-building, teamwork",
       "job_score_breakdown": {
-        "goal_alignment": 0.6,
+        "goal_alignment": 0.556,
         "study_alignment": 0.625,
-        "subdomain_alignment": 0.846,
+        "subdomain_alignment": 0.154,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.25,
@@ -533,19 +488,66 @@
       "eligibility_reason": "Internship for children's health promotion, suitable for young adults."
     },
     {
+      "title": "Care Navigator - CCBHC (Helena, MT)",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4232975",
+      "fit": 63,
+      "job_type": "goal",
+      "subdomain": "public-health",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
+      "gaps": "organization, relationship-building, teamwork",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.625,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.182,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Care navigator role does not require 21+."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 80,
+      "job_type": "goal",
+      "subdomain": "research",
+      "function": "social-service",
+      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
+      "gaps": "organization, relationship-building, teamwork",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.375,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.067,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "bridge": "As a virtual elementary teacher, you'll sharpen your monitoring, instructing, and coordination skills—directly transferable to patient care. Differentiated instruction and parent communication also build the empathy and clear communication essential for nursing."
+    },
+    {
       "title": "Patient Experience Coordinator (Wentzville)",
       "company": "TVG-MedullaLLC",
       "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
-      "fit": 88,
+      "fit": 79,
       "job_type": "goal",
       "subdomain": "clinical-support",
       "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
+      "gaps": "organization, relationship-building, teamwork",
       "job_score_breakdown": {
-        "goal_alignment": 0.6,
+        "goal_alignment": 0.667,
         "study_alignment": 0.75,
-        "subdomain_alignment": 0.632,
+        "subdomain_alignment": 0.026,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.125,
@@ -557,41 +559,63 @@
   ],
   "aspirational": [
     {
-      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
-      "company": "accelschools",
-      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
-      "fit": 72,
+      "title": "Mobile Response Peer Support Specialist",
+      "company": "crestwoodcareers",
+      "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003",
+      "fit": 67,
       "job_type": "goal",
-      "subdomain": "research",
-      "function": "education",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
+      "gaps": "organization, relationship-building, teamwork",
       "job_score_breakdown": {
-        "goal_alignment": 0.4,
-        "study_alignment": 0.375,
-        "subdomain_alignment": 1.0,
+        "goal_alignment": 0.444,
+        "study_alignment": 0.5,
+        "subdomain_alignment": 0.5,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.067,
+        "skill_overlap": 0.25,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Virtual teaching role, no age restriction indicated."
+      "eligibility_reason": "Peer support specialist roles typically do not have age restrictions beyond 16."
+    },
+    {
+      "title": "NY Children's Health Promotion Intern (Unpaid)",
+      "company": "theirc",
+      "url": "https://theirc.wd1.myworkdayjobs.com/job/New-York-NY-RAI-USA/NY-Children-s-Health-Promotion-Intern--Unpaid-_JR00003920",
+      "fit": 66,
+      "job_type": "goal",
+      "subdomain": "public-health",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
+      "gaps": "organization, relationship-building, teamwork",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.625,
+        "subdomain_alignment": 0.154,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.25,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Internship for children's health promotion, suitable for young adults."
     },
     {
       "title": "Care Navigator - CCBHC (Helena, MT)",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4232975",
-      "fit": 71,
+      "fit": 63,
       "job_type": "goal",
       "subdomain": "public-health",
       "function": "healthcare",
       "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
+      "gaps": "organization, relationship-building, teamwork",
       "job_score_breakdown": {
-        "goal_alignment": 0.6,
+        "goal_alignment": 0.556,
         "study_alignment": 0.625,
-        "subdomain_alignment": 0.375,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
         "skill_overlap": 0.182,
@@ -599,41 +623,19 @@
       },
       "eligible": true,
       "eligibility_reason": "Care navigator role does not require 21+."
-    },
-    {
-      "title": "Contractor - Community Health & Civics Worker (Bilingual Dari or Pashto)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3572249",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "public-health",
-      "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, public-health, teamwork",
-      "job_score_breakdown": {
-        "goal_alignment": 0.4,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.625,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Community health worker, no age restriction."
     }
   ],
-  "skill_path": "You already have a strong foundation in science, critical thinking, and customer service. By building organization, public health knowledge, and teamwork now, you'll be well on your way to a rewarding healthcare career as a nurse, medical assistant, or other professional.",
+  "skill_path": "You already have a strong foundation in science, critical thinking, and customer service. By building your organizational, teamwork, and communication skills, you'll be well on your way to a rewarding career in healthcare as a nurse or medical assistant.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Administrative\n├── Monitoring\n├── Instructing\n├── Coordination\n├── Science\n├── Biology\n├── Critical Thinking\n├── Writing\n├── Reading Comprehension\n│\n├── Implicit Skills\n│   ├── Empathy\n│   ├── Time Management\n│   └── Basic Computer Skills\n│\n└── BRIDGE SKILLS (develop now)\n    ├── Organization\n    ├── Public Health\n    ├── Teamwork\n    │\n    └── STRETCH SKILLS (future)\n        ├── Appointment Scheduling\n        ├── Bilingual\n        ├── Classical Education\n        ├── Client Navigation\n        ├── Communication\n        │\n        └── CAREER GOALS\n            ├── Medical Assistant\n            ├── Nurse\n            └── Healthcare Professional",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Administrative\n├── Monitoring\n├── Instructing\n├── Coordination\n├── Science\n├── Biology\n├── Critical Thinking\n├── Writing\n└── Reading Comprehension\n│\n├── BRIDGE SKILLS\n│   ├── Organization\n│   ├── Relationship-building\n│   └── Teamwork\n│\n├── GOAL SKILLS\n│   ├── Appointment-scheduling\n│   ├── Classical-education\n│   ├── Client-navigation\n│   ├── Communication\n│   └── Community-based interventions\n│\n└── DREAM CAREER\n    ├── Nurse\n    ├── Medical Assistant\n    └── Healthcare Professional",
     "steps": [
-      "Take a free online course in public health basics (e.g., Coursera's 'Foundations of Public Health').",
-      "Practice organization skills by using a planner or project management app for daily tasks.",
-      "Join a study group or volunteer at a clinic to build teamwork and communication skills.",
-      "Learn appointment scheduling software (e.g., practice with a free demo of a medical scheduling tool).",
-      "Start a basic Spanish language course (Duolingo) to work toward bilingual ability."
+      "Take a free online course on organization and time management (e.g., Coursera's 'Work Smarter, Not Harder').",
+      "Volunteer at a local clinic or hospital to build relationship-building and teamwork skills.",
+      "Enroll in a medical terminology or healthcare communication course to strengthen communication and client-navigation skills.",
+      "Shadow a nurse or medical assistant to learn appointment-scheduling and community-based interventions.",
+      "Pursue a certification or associate degree in nursing or medical assisting to formalize your skills."
     ],
-    "summary": "You already have a strong foundation in science, critical thinking, and customer service. By building organization, public health knowledge, and teamwork now, you'll be well on your way to a rewarding healthcare career as a nurse, medical assistant, or other professional."
+    "summary": "You already have a strong foundation in science, critical thinking, and customer service. By building your organizational, teamwork, and communication skills, you'll be well on your way to a rewarding career in healthcare as a nurse or medical assistant."
   },
   "ideal_careers": [
     "Nurse",
@@ -645,13 +647,11 @@
       "healthcare"
     ],
     "goal_roles": [
-      "Nurse",
-      "Medical Assistant",
-      "Healthcare Professional"
+      "Researcher",
+      "Public Health Professional"
     ],
     "goal_subdomains": [
-      "clinical-support",
-      "public-health"
+      "research"
     ],
     "study_domains": [
       "healthcare"
@@ -700,9 +700,9 @@
   },
   "candidate_functions": [
     "healthcare",
-    "education"
+    "social-service"
   ],
-  "subdomain": "clinical-support",
+  "subdomain": "research",
   "subdomain_confidence": 0.85,
   "subdomain_alternatives": [
     "research",
@@ -710,9 +710,9 @@
   ],
   "lane_used": "rescue",
   "job_cluster": [
-    "public-health",
-    "clinical-support",
     "research",
+    "clinical-support",
+    "clinical-support",
     "public-health",
     "public-health"
   ],
@@ -722,8 +722,8 @@
     "route": {
       "accepted": true,
       "chosen_function": "healthcare",
-      "chosen_subdomain": "clinical-support",
-      "secondary_function": "education",
+      "chosen_subdomain": "research",
+      "secondary_function": "social-service",
       "goal_domains": [
         "healthcare"
       ],
@@ -731,32 +731,30 @@
         "healthcare"
       ],
       "goal_subdomains": [
-        "clinical-support",
-        "public-health"
+        "research"
       ],
       "study_subdomains": [
         "research"
       ],
       "goal_roles": [
-        "Nurse",
-        "Medical Assistant",
-        "Healthcare Professional"
+        "Researcher",
+        "Public Health Professional"
       ],
       "confidence": 0.85,
       "evidence_spans": [
         {
           "section": "skills",
-          "text": "Provided direct resident care in substance use disorder treatment settings."
+          "text": "Conducted HIV-1 research on pathogenesis and host restriction factors."
         },
         {
           "section": "skills",
-          "text": "Conducted HIV-1 research on pathogenesis and host restriction factors."
+          "text": "Contributed to a public health research project on maternal mortality and healthcare access."
         }
       ],
       "reason_codes": [
-        "explicit goal",
-        "relevant experience",
-        "education match"
+        "explicit_goal",
+        "strong_experience",
+        "education_alignment"
       ],
       "review_reasons": []
     },

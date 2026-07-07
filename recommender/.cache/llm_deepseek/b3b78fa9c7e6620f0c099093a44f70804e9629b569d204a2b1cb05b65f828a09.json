@@ -9,7 +9,7 @@
     },
     {
       "confidence": "medium",
-      "reason": "Handling opening/closing procedures and multiple duties suggests time management.",
+      "reason": "Handling multiple duties like opening/closing, deliveries, and orders suggests time management.",
       "skill": "time management"
     },
     {
@@ -23,7 +23,6 @@
     "act",
     "audio",
     "basic computer",
-    "brand",
     "camp activities",
     "closing procedures",
     "computer",
@@ -57,7 +56,6 @@
     "materials",
     "media",
     "merchandise",
-    "microsoft",
     "monitoring",
     "opening and closing",
     "operations",
@@ -95,6 +93,7 @@
     "great communication",
     "marketing strategies",
     "media management",
+    "microsoft",
     "organizational",
     "organized",
     "personal branding",
@@ -124,6 +123,7 @@
     "great communication",
     "marketing strategies",
     "media management",
+    "microsoft",
     "organizational",
     "organized",
     "personal branding",

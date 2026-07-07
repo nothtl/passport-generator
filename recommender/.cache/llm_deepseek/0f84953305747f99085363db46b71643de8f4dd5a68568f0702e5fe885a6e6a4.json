@@ -11,10 +11,6 @@
     {
       "section": "experience",
       "text": "Manages new intern and staff intake and actively mentors and socializes youth participants."
-    },
-    {
-      "section": "experience",
-      "text": "Teacher-run volunteer program matching upper grades with younger students for networking and mentoring."
     }
   ],
   "goal_domains": [
@@ -27,16 +23,15 @@
     "youth-programs"
   ],
   "reason_codes": [
-    "explicit goal",
-    "relevant experience",
-    "education major"
+    "explicit goal in summary",
+    "strong experience in youth mentoring and program management"
   ],
   "review_reasons": [],
-  "secondary_function": "social-service",
+  "secondary_function": "arts-media",
   "study_domains": [
     "education"
   ],
   "study_subdomains": [
-    "youth-programs"
+    "classroom-support"
   ]
 }

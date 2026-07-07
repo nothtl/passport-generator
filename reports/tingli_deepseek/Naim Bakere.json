@@ -21,15 +21,13 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organizational",
     "organizational skills",
     "organization",
     "organizing",
-    "plan",
-    "programming",
+    "teamwork",
     "tech",
     "technical",
-    "teamwork",
+    "programming",
     "translator",
     "video"
   ],
@@ -52,15 +50,13 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organizational",
     "organizational skills",
     "organization",
     "organizing",
-    "plan",
-    "programming",
+    "teamwork",
     "tech",
     "technical",
-    "teamwork",
+    "programming",
     "translator",
     "video"
   ],
@@ -76,6 +72,7 @@
     "business",
     "can",
     "certificate",
+    "communicating",
     "customers",
     "detail",
     "excellence",
@@ -88,6 +85,7 @@
     "motivated",
     "operation",
     "ordering",
+    "plan",
     "prayer",
     "present",
     "projects",
@@ -120,71 +118,65 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organizational",
     "organizational skills",
     "organization",
     "organizing",
-    "plan",
-    "programming",
+    "teamwork",
     "tech",
     "technical",
-    "teamwork",
+    "programming",
     "translator",
     "video"
   ],
   "inferred": [
-    "public speaking",
-    "project management",
-    "cross-cultural communication"
+    "customer service",
+    "inventory management",
+    "bilingual communication"
   ],
   "implicit_skills": [
     {
-      "skill": "public speaking",
-      "reason": "Experience as a translator and communicating with English language learners suggests public speaking ability.",
+      "skill": "customer service",
+      "reason": "Experience with customers and ordering implies customer service skills.",
       "confidence": "medium"
     },
     {
-      "skill": "project management",
-      "reason": "Leadership and organizational skills imply project management capability.",
+      "skill": "inventory management",
+      "reason": "Experience with stock and ordering suggests inventory management.",
       "confidence": "medium"
     },
     {
-      "skill": "cross-cultural communication",
-      "reason": "Multilingual and working with English language learners indicates cross-cultural communication skills.",
+      "skill": "bilingual communication",
+      "reason": "Multilingual skills and translator role indicate bilingual communication ability.",
       "confidence": "medium"
     }
   ],
   "skill_evidence": [],
-  "gaps": [
-    "group-management"
-  ],
-  "core_gaps": [
-    "group-management"
-  ],
+  "gaps": [],
+  "core_gaps": [],
   "bridge_gaps": [],
   "stretch_gaps": [
     "algebra",
-    "attendance",
-    "camp-supervision",
+    "athletic-discipline",
     "catch-programming",
-    "chaperone",
     "childcare",
+    "christian-values",
     "coaching",
-    "dorm-management",
     "education",
-    "emergency-procedures"
+    "emergency-procedures",
+    "food-systems",
+    "football"
   ],
   "nice_to_have_gaps": [
     "algebra",
-    "attendance",
-    "camp-supervision",
+    "athletic-discipline",
     "catch-programming",
-    "chaperone",
     "childcare",
+    "christian-values",
     "coaching",
-    "dorm-management",
     "education",
-    "emergency-procedures"
+    "emergency-procedures",
+    "food-systems",
+    "football"
   ],
   "verify_gaps": [],
   "related": [
@@ -293,44 +285,22 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on group-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "Your profile already shows relevant signals for education. Keep building direct project or internship evidence.",
   "jobs": [
-    {
-      "title": "Algebra Tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/7655321002",
-      "fit": 72,
-      "job_type": "goal",
-      "subdomain": "tutoring",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
-        "attainability": 0.85,
-        "skill_overlap": 0.5,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Tutoring role, no age restriction."
-    },
     {
       "title": "Education Steward - AmeriCorps",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 72,
+      "fit": 88,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.083,
+        "subdomain_alignment": 0.917,
         "experience_alignment": 0.0,
         "attainability": 0.85,
         "skill_overlap": 0.455,
@@ -340,63 +310,19 @@
       "eligibility_reason": "Education steward, suitable for youth."
     },
     {
-      "title": "Program Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4110992",
-      "fit": 60,
-      "job_type": "goal",
-      "subdomain": "youth-programs",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Program Assistant is an administrative role suitable for youth."
-    },
-    {
-      "title": "Assistant Coach - Boys Soccer Camp",
-      "company": "usnh",
-      "url": "https://usnh.wd5.myworkdayjobs.com/job/University-of-New-Hampshire--Main-Campus/Assistant-Coach---Boys-Soccer-Camp_JR8399",
-      "fit": 55,
-      "job_type": "goal",
-      "subdomain": "higher-ed-support",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Assistant coach for boys soccer camp is suitable for minors."
-    },
-    {
       "title": "Y Learning Center Site Lead",
       "company": "ymcadetroit",
       "url": "https://jobs.dayforcehcm.com/ymcadetroit/CANDIDATEPORTAL/jobs/15688",
-      "fit": 54,
+      "fit": 80,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
         "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
+        "subdomain_alignment": 0.833,
         "experience_alignment": 0.095,
         "attainability": 0.75,
         "skill_overlap": 0.143,
@@ -404,23 +330,43 @@
       },
       "eligible": true,
       "eligibility_reason": "Site lead at youth center, no age restriction."
-    }
-  ],
-  "ready_now": [
+    },
+    {
+      "title": "Program Assistant",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4110992",
+      "fit": 68,
+      "job_type": "goal",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.444,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.471,
+        "experience_alignment": 0.095,
+        "attainability": 0.75,
+        "skill_overlap": 0.125,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Program Assistant is an administrative role suitable for youth."
+    },
     {
       "title": "Algebra Tutor",
       "company": "ajtutoring",
       "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/7655321002",
-      "fit": 72,
+      "fit": 67,
       "job_type": "goal",
       "subdomain": "tutoring",
       "function": "education",
       "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.0,
+        "subdomain_alignment": 0.261,
         "experience_alignment": 0.095,
         "attainability": 0.85,
         "skill_overlap": 0.5,
@@ -430,19 +376,43 @@
       "eligibility_reason": "Tutoring role, no age restriction."
     },
     {
-      "title": "Education Steward - AmeriCorps",
+      "title": "Upper School Assistant Football Coach",
       "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 72,
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3914041",
+      "fit": 62,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.538,
+        "experience_alignment": 0.095,
+        "attainability": 0.75,
+        "skill_overlap": 0.143,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Assistant coach, no age restriction."
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Education Steward - AmeriCorps",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
+      "fit": 88,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.083,
+        "subdomain_alignment": 0.917,
         "experience_alignment": 0.0,
         "attainability": 0.85,
         "skill_overlap": 0.455,
@@ -450,6 +420,28 @@
       },
       "eligible": true,
       "eligibility_reason": "Education steward, suitable for youth."
+    },
+    {
+      "title": "Y Learning Center Site Lead",
+      "company": "ymcadetroit",
+      "url": "https://jobs.dayforcehcm.com/ymcadetroit/CANDIDATEPORTAL/jobs/15688",
+      "fit": 80,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.444,
+        "subdomain_alignment": 0.833,
+        "experience_alignment": 0.095,
+        "attainability": 0.75,
+        "skill_overlap": 0.143,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Site lead at youth center, no age restriction."
     }
   ],
   "aspirational": [
@@ -457,67 +449,67 @@
       "title": "Program Assistant",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4110992",
-      "fit": 60,
+      "fit": 68,
       "job_type": "goal",
       "subdomain": "youth-programs",
       "function": "education",
       "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.444,
         "study_alignment": 0.556,
-        "subdomain_alignment": 0.0,
+        "subdomain_alignment": 0.471,
         "experience_alignment": 0.095,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.125,
         "quality_penalty": 0.0
       },
       "eligible": true,
       "eligibility_reason": "Program Assistant is an administrative role suitable for youth."
     },
     {
-      "title": "Assistant Coach - Boys Soccer Camp",
-      "company": "usnh",
-      "url": "https://usnh.wd5.myworkdayjobs.com/job/University-of-New-Hampshire--Main-Campus/Assistant-Coach---Boys-Soccer-Camp_JR8399",
-      "fit": 55,
+      "title": "Algebra Tutor",
+      "company": "ajtutoring",
+      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/7655321002",
+      "fit": 67,
       "job_type": "goal",
-      "subdomain": "higher-ed-support",
+      "subdomain": "tutoring",
       "function": "education",
       "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "gaps": "",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "goal_alignment": 0.444,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.261,
+        "experience_alignment": 0.095,
+        "attainability": 0.85,
+        "skill_overlap": 0.5,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Assistant coach for boys soccer camp is suitable for minors."
+      "eligibility_reason": "Tutoring role, no age restriction."
     },
     {
-      "title": "Y Learning Center Site Lead",
-      "company": "ymcadetroit",
-      "url": "https://jobs.dayforcehcm.com/ymcadetroit/CANDIDATEPORTAL/jobs/15688",
-      "fit": 54,
+      "title": "Upper School Assistant Football Coach",
+      "company": "",
+      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3914041",
+      "fit": 62,
       "job_type": "goal",
       "subdomain": "classroom-support",
       "function": "education",
       "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "gaps": "",
       "job_score_breakdown": {
         "goal_alignment": 0.333,
-        "study_alignment": 0.444,
-        "subdomain_alignment": 0.0,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.538,
         "experience_alignment": 0.095,
         "attainability": 0.75,
         "skill_overlap": 0.143,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Site lead at youth center, no age restriction."
+      "eligibility_reason": "Assistant coach, no age restriction."
     }
   ],
   "skill_path": null,
@@ -531,13 +523,13 @@
       "translator"
     ],
     "goal_subdomains": [
-      "community-education"
+      "classroom-support"
     ],
     "study_domains": [
       "education"
     ],
     "study_subdomains": [
-      "community-education"
+      "classroom-support"
     ],
     "study_program": "Associated with ELLIS:",
     "study_level": "associate",
@@ -586,15 +578,15 @@
     "education",
     "arts-media"
   ],
-  "subdomain": "community-education",
+  "subdomain": "classroom-support",
   "subdomain_confidence": 0.72,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
-    "tutoring",
+    "classroom-support",
     "classroom-support",
     "youth-programs",
-    "higher-ed-support",
+    "tutoring",
     "classroom-support"
   ],
   "needs_review": true,
@@ -603,7 +595,7 @@
     "route": {
       "accepted": true,
       "chosen_function": "education",
-      "chosen_subdomain": "community-education",
+      "chosen_subdomain": "classroom-support",
       "secondary_function": "arts-media",
       "goal_domains": [
         "education"
@@ -612,15 +604,15 @@
         "education"
       ],
       "goal_subdomains": [
-        "community-education"
+        "classroom-support"
       ],
       "study_subdomains": [
-        "community-education"
+        "classroom-support"
       ],
       "goal_roles": [
         "translator"
       ],
-      "confidence": 0.65,
+      "confidence": 0.6,
       "evidence_spans": [
         {
           "section": "summary",
@@ -628,11 +620,11 @@
         },
         {
           "section": "education",
-          "text": "Post Secondary Readiness 2023-2024 • Building a resume , Improving communication skills in terms of language, and concentrating on the audience."
+          "text": "Monroe University, Bronx, NY                                                September 2024- December 2025\nAAS in Business"
         }
       ],
       "reason_codes": [
-        "explicit goal",
+        "explicit goal in summary",
         "education major",
         "multilingual skills"
       ],
@@ -659,15 +651,13 @@
         "modeling",
         "attention to detail",
         "time management",
-        "organizational",
         "organizational skills",
         "organization",
         "organizing",
-        "plan",
-        "programming",
+        "teamwork",
         "tech",
         "technical",
-        "teamwork",
+        "programming",
         "translator",
         "video"
       ],
@@ -690,15 +680,13 @@
         "modeling",
         "attention to detail",
         "time management",
-        "organizational",
         "organizational skills",
         "organization",
         "organizing",
-        "plan",
-        "programming",
+        "teamwork",
         "tech",
         "technical",
-        "teamwork",
+        "programming",
         "translator",
         "video"
       ],
@@ -714,6 +702,7 @@
         "business",
         "can",
         "certificate",
+        "communicating",
         "customers",
         "detail",
         "excellence",
@@ -726,6 +715,7 @@
         "motivated",
         "operation",
         "ordering",
+        "plan",
         "prayer",
         "present",
         "projects",
@@ -740,18 +730,18 @@
       ],
       "implicit_skills": [
         {
-          "skill": "public speaking",
-          "reason": "Experience as a translator and communicating with English language learners suggests public speaking ability.",
+          "skill": "customer service",
+          "reason": "Experience with customers and ordering implies customer service skills.",
           "confidence": "medium"
         },
         {
-          "skill": "project management",
-          "reason": "Leadership and organizational skills imply project management capability.",
+          "skill": "inventory management",
+          "reason": "Experience with stock and ordering suggests inventory management.",
           "confidence": "medium"
         },
         {
-          "skill": "cross-cultural communication",
-          "reason": "Multilingual and working with English language learners indicates cross-cultural communication skills.",
+          "skill": "bilingual communication",
+          "reason": "Multilingual skills and translator role indicate bilingual communication ability.",
           "confidence": "medium"
         }
       ],

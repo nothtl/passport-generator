@@ -194,20 +194,27 @@ def _build_function_pool(best: dict, student_intent: dict, resume_text: str = ""
         for func, _score in sorted(signal.items(), key=lambda item: -item[1]):
             if func not in ordered:
                 ordered.append(func)
-    # Always include ops + support as fallback options for admin-like resumes
-    # (the classifier never predicts these but they're common for project coordinators)
-    for fallback in ["ops", "support", "administrative"]:
-        if fallback not in ordered:
-            ordered.append(fallback)
+    # Only add fallback functions when the original pool is very thin
+    # (the classifier misses ops/support for admin-like resumes)
+    if len(ordered) < 5:
+        for fallback in ["ops", "support", "administrative"]:
+            if fallback not in ordered:
+                ordered.append(fallback)
 
-    # Deterministic pre-filter: eliminate functions with zero keyword support
+    # Deterministic pre-filter: eliminate technology if resume has no tech keywords
+    # Only apply when the classifier is clearly wrong (technology with weak admin resume)
     resume_lower = (resume_text or "").lower()
     _TECH_KEYWORDS = ["software", "developer", "engineer", "engineering", "programming",
                       "python", "java", "react", "aws", "cloud", "devops", "system",
                       "hardware", "firmware", "embedded", "full stack", "frontend",
                       "backend", "machine learning", "data science", "network",
                       "computer", "database", "server", "linux", "automation"]
-    if "technology" in ordered and not any(kw in resume_lower for kw in _TECH_KEYWORDS):
+    _ADMIN_KEYWORDS = ["project coordination", "record management", "scheduling",
+                       "client communication", "administrative", "front desk",
+                       "data entry", "filing", "office", "reception"]
+    has_tech = any(kw in resume_lower for kw in _TECH_KEYWORDS)
+    has_admin = any(kw in resume_lower for kw in _ADMIN_KEYWORDS)
+    if "technology" in ordered and not has_tech and has_admin:
         ordered.remove("technology")
         if "ops" not in ordered:
             ordered.insert(0, "ops")

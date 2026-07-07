@@ -2,15 +2,19 @@
   "accepted": true,
   "chosen_function": "arts-media",
   "chosen_subdomain": "content-creation",
-  "confidence": 0.7,
+  "confidence": 0.65,
   "evidence_spans": [
     {
       "section": "summary",
       "text": "Ideal careers: Content Creator, Photographer, Media Professional"
     },
     {
+      "section": "experience",
+      "text": "Little Pulp Arts Center, Glendale, NY Intern - Helped children learn to paint - Cleaned exhibits - Painted posters"
+    },
+    {
       "section": "skills",
-      "text": "- Graphicdesigning"
+      "text": "HOBBIES & INTERESTS - Playingsoccer - Graphicdesigning - Videogaming"
     }
   ],
   "goal_domains": [
@@ -26,12 +30,13 @@
   ],
   "reason_codes": [
     "explicit goal",
-    "skill match"
+    "experience in arts",
+    "education not strongly aligned"
   ],
   "review_reasons": [],
   "secondary_function": "education",
   "study_domains": [
-    "arts-media"
+    "education"
   ],
   "study_subdomains": []
 }

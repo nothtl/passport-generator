@@ -1,8 +1,8 @@
 {
   "accepted": true,
   "chosen_function": "education",
-  "chosen_subdomain": "community-education",
-  "confidence": 0.65,
+  "chosen_subdomain": "classroom-support",
+  "confidence": 0.6,
   "evidence_spans": [
     {
       "section": "summary",
@@ -10,7 +10,7 @@
     },
     {
       "section": "education",
-      "text": "Post Secondary Readiness 2023-2024 \u2022 Building a resume , Improving communication skills in terms of language, and concentrating on the audience."
+      "text": "Monroe University, Bronx, NY                                                September 2024- December 2025\nAAS in Business"
     }
   ],
   "goal_domains": [
@@ -20,10 +20,10 @@
     "translator"
   ],
   "goal_subdomains": [
-    "community-education"
+    "classroom-support"
   ],
   "reason_codes": [
-    "explicit goal",
+    "explicit goal in summary",
     "education major",
     "multilingual skills"
   ],
@@ -33,6 +33,6 @@
     "education"
   ],
   "study_subdomains": [
-    "community-education"
+    "classroom-support"
   ]
 }

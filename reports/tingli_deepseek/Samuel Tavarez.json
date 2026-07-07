@@ -11,13 +11,14 @@
     "Foreign Language",
     "Instructing",
     "Critical Thinking",
-    "Sales and Marketing",
     "Active Listening",
+    "Sales and Marketing",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
+    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -91,13 +92,14 @@
     "Foreign Language",
     "Instructing",
     "Critical Thinking",
-    "Sales and Marketing",
     "Active Listening",
+    "Sales and Marketing",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
+    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -166,8 +168,7 @@
   "rejected_skills": [
     "act",
     "assignments",
-    "bachelor",
-    "balancing"
+    "bachelor"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -179,13 +180,14 @@
     "Foreign Language",
     "Instructing",
     "Critical Thinking",
-    "Sales and Marketing",
     "Active Listening",
+    "Sales and Marketing",
     "administration",
     "analyses",
     "analysis",
     "analytical",
     "analyzing",
+    "balancing",
     "banking finance",
     "bilingual",
     "brand",
@@ -252,23 +254,23 @@
   ],
   "inferred": [
     "Microsoft Office",
-    "Presentation Skills",
-    "Data Analysis"
+    "Teamwork",
+    "Problem Solving"
   ],
   "implicit_skills": [
     {
       "skill": "Microsoft Office",
-      "reason": "Excel and Google Docs are mentioned, implying proficiency in office software.",
+      "reason": "Excel and Google Docs imply proficiency in office software.",
       "confidence": "medium"
     },
     {
-      "skill": "Presentation Skills",
-      "reason": "Charts, displays, and instructional materials suggest ability to present information.",
+      "skill": "Teamwork",
+      "reason": "Collaborative and group leader indicate teamwork skills.",
       "confidence": "medium"
     },
     {
-      "skill": "Data Analysis",
-      "reason": "Financial analysis, analysis, and analytical skills indicate data analysis capability.",
+      "skill": "Problem Solving",
+      "reason": "Critical thinking and analytical skills imply problem-solving ability.",
       "confidence": "medium"
     }
   ],
@@ -298,9 +300,9 @@
     "bank-reconciliations",
     "basic-accounting",
     "cost-accounting",
+    "data-analysis",
     "data-entry",
-    "dcf",
-    "due-diligence"
+    "dcf"
   ],
   "nice_to_have_gaps": [
     "accounting-principles",
@@ -310,14 +312,16 @@
     "bank-reconciliations",
     "basic-accounting",
     "cost-accounting",
+    "data-analysis",
     "data-entry",
-    "dcf",
-    "due-diligence"
+    "dcf"
   ],
-  "verify_gaps": [
-    "data-analysis"
-  ],
+  "verify_gaps": [],
   "related": [
+    {
+      "skill": "standforlongperiods",
+      "pmi": 4.86
+    },
     {
       "skill": "certifications",
       "pmi": 4.73
@@ -329,6 +333,14 @@
     {
       "skill": "structuredthinking",
       "pmi": 4.44
+    },
+    {
+      "skill": "depositprocessing",
+      "pmi": 4.19
+    },
+    {
+      "skill": "computerskills",
+      "pmi": 4.16
     },
     {
       "skill": "english",
@@ -345,22 +357,14 @@
     {
       "skill": "guestservice",
       "pmi": 3.75
-    },
-    {
-      "skill": "duediligence",
-      "pmi": 3.05
-    },
-    {
-      "skill": "economics",
-      "pmi": 2.89
-    },
-    {
-      "skill": "payroll",
-      "pmi": 2.79
     }
   ],
   "related_skills": [
     {
+      "skill": "standforlongperiods",
+      "pmi": 4.86
+    },
+    {
       "skill": "certifications",
       "pmi": 4.73
     },
@@ -371,6 +375,14 @@
     {
       "skill": "structuredthinking",
       "pmi": 4.44
+    },
+    {
+      "skill": "depositprocessing",
+      "pmi": 4.19
+    },
+    {
+      "skill": "computerskills",
+      "pmi": 4.16
     },
     {
       "skill": "english",
@@ -387,18 +399,6 @@
     {
       "skill": "guestservice",
       "pmi": 3.75
-    },
-    {
-      "skill": "duediligence",
-      "pmi": 3.05
-    },
-    {
-      "skill": "economics",
-      "pmi": 2.89
-    },
-    {
-      "skill": "payroll",
-      "pmi": 2.79
     }
   ],
   "alternatives": [
@@ -451,14 +451,14 @@
       "title": "Finance Analyst, External Manufacturing",
       "company": "AbbVie",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013165696",
-      "fit": 88,
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.364,
@@ -473,14 +473,14 @@
       "title": "Management Trainee - Business and Finance",
       "company": "flatgigs",
       "url": "https://apply.workable.com/j/C6C6B63207",
-      "fit": 78,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.226,
@@ -495,14 +495,14 @@
       "title": "Finance Intern",
       "company": "solarvest",
       "url": "https://apply.workable.com/j/45719D45FC",
-      "fit": 77,
+      "fit": 72,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.273,
@@ -517,14 +517,14 @@
       "title": "Finance and Equity Analyst",
       "company": "carta",
       "url": "https://job-boards.greenhouse.io/carta/jobs/7724718003",
-      "fit": 77,
+      "fit": 72,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.226,
@@ -563,14 +563,14 @@
       "title": "Finance Analyst, External Manufacturing",
       "company": "AbbVie",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013165696",
-      "fit": 88,
+      "fit": 83,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.364,
@@ -587,14 +587,14 @@
       "title": "Management Trainee - Business and Finance",
       "company": "flatgigs",
       "url": "https://apply.workable.com/j/C6C6B63207",
-      "fit": 78,
+      "fit": 73,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.226,
@@ -609,14 +609,14 @@
       "title": "Finance Intern",
       "company": "solarvest",
       "url": "https://apply.workable.com/j/45719D45FC",
-      "fit": 77,
+      "fit": 72,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.273,
@@ -631,14 +631,14 @@
       "title": "Finance and Equity Analyst",
       "company": "carta",
       "url": "https://job-boards.greenhouse.io/carta/jobs/7724718003",
-      "fit": 77,
+      "fit": 72,
       "job_type": "goal",
       "subdomain": "",
       "function": "finance",
       "why": "This role builds your Customer and Personal Service, Mathematics, Administrative skills and moves you toward becoming a Financial Analyst.",
       "gaps": "accounting, budgeting, economics",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
+        "goal_alignment": 0.5,
         "study_alignment": 1.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.226,
@@ -650,17 +650,17 @@
       "eligibility_reason": "Finance and equity analyst, no age restriction."
     }
   ],
-  "skill_path": "You already have a strong foundation in math, communication, and critical thinking. By building your accounting, budgeting, and forecasting skills, you'll be well on your way to becoming a Financial Analyst or Accountant. Keep learning and you'll achieve your dream career!",
+  "skill_path": "You have a strong foundation in customer service, math, and critical thinking—perfect for finance. By building accounting, budgeting, and forecasting skills, you'll be well on your way to becoming a Financial Analyst or Accountant. Keep pushing forward!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Mathematics\n├── Administrative\n├── Coordination\n├── Speaking\n├── Foreign Language\n├── Instructing\n├── Critical Thinking\n├── Sales and Marketing\n├── Active Listening\n├── Microsoft Office (implicit)\n├── Presentation Skills (implicit)\n└── Data Analysis (implicit)\n    ↓\nBRIDGE SKILLS\n├── Accounting\n├── Budgeting\n├── Economics\n├── Financial Reporting\n└── Forecasting\n    ↓\nGOAL SKILLS\n├── Accounting Principles\n├── AI\n├── Attention to Detail\n├── Automation\n└── Bank Reconciliations\n    ↓\nCAREER\n├── Financial Analyst\n├── Accountant\n└── Finance Professional",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Mathematics\n├── Administrative\n├── Coordination\n├── Speaking\n├── Foreign Language\n├── Instructing\n├── Critical Thinking\n├── Active Listening\n├── Sales and Marketing\n├── Microsoft Office\n├── Teamwork\n└── Problem Solving\n    ↓\nBRIDGE SKILLS\n├── Accounting\n├── Budgeting\n├── Economics\n├── Financial Reporting\n└── Forecasting\n    ↓\nGOAL SKILLS\n├── Accounting Principles\n├── AI\n├── Attention to Detail\n├── Automation\n└── Bank Reconciliations\n    ↓\nCAREER\n├── Financial Analyst\n├── Accountant\n└── Finance Professional",
     "steps": [
-      "Enroll in an introductory accounting course (e.g., Coursera's 'Accounting: Principles of Financial Accounting') to build core accounting knowledge.",
-      "Take a budgeting and forecasting workshop (e.g., LinkedIn Learning's 'Budgeting and Forecasting') to strengthen financial planning skills.",
-      "Study economics basics through a free online course (e.g., Khan Academy's Microeconomics) to understand market forces.",
-      "Practice financial reporting by analyzing real company statements and using Excel for data analysis.",
-      "Explore AI and automation in finance via a short course (e.g., 'AI for Finance' on Udemy) to future-proof your skills."
+      "Enroll in an introductory accounting course (e.g., Coursera's 'Financial Accounting Fundamentals') to build core accounting knowledge.",
+      "Take a budgeting and forecasting workshop (e.g., Udemy's 'Budgeting and Forecasting for Business') to master financial planning.",
+      "Study economics basics through a free online resource like Khan Academy's 'Microeconomics' and 'Macroeconomics'.",
+      "Practice financial reporting by creating mock reports using Excel templates and learning from resources like CFI's 'Financial Reporting' course.",
+      "Explore AI and automation in finance by taking a short course like 'AI for Finance' on edX and using tools like QuickBooks for bank reconciliations."
     ],
-    "summary": "You already have a strong foundation in math, communication, and critical thinking. By building your accounting, budgeting, and forecasting skills, you'll be well on your way to becoming a Financial Analyst or Accountant. Keep learning and you'll achieve your dream career!"
+    "summary": "You have a strong foundation in customer service, math, and critical thinking—perfect for finance. By building accounting, budgeting, and forecasting skills, you'll be well on your way to becoming a Financial Analyst or Accountant. Keep pushing forward!"
   },
   "ideal_careers": [
     "Financial Analyst",
@@ -672,17 +672,15 @@
       "finance"
     ],
     "goal_roles": [
-      "investment banker",
-      "financial analyst"
+      "Investment Banking"
     ],
-    "goal_subdomains": [
-      "investment-banking"
-    ],
+    "goal_subdomains": [],
     "study_domains": [
       "finance"
     ],
     "study_subdomains": [
-      "finance"
+      "classroom-support",
+      "higher-ed-support"
     ],
     "study_program": "Bachelor of Business Administration in Finance                                                                                                           Expected May 2028",
     "study_level": "bachelor",
@@ -756,15 +754,10 @@
       "study_domains": [
         "finance"
       ],
-      "goal_subdomains": [
-        "investment-banking"
-      ],
-      "study_subdomains": [
-        "finance"
-      ],
+      "goal_subdomains": [],
+      "study_subdomains": [],
       "goal_roles": [
-        "investment banker",
-        "financial analyst"
+        "Investment Banking"
       ],
       "confidence": 0.85,
       "evidence_spans": [
@@ -774,13 +767,12 @@
         },
         {
           "section": "education",
-          "text": "Bachelor of Business Administration in Finance                                                                                                           Expected May 2028"
+          "text": "Bachelor of Business Administration in Finance"
         }
       ],
       "reason_codes": [
         "explicit career goal",
-        "relevant major",
-        "business case study experience"
+        "relevant major"
       ],
       "review_reasons": []
     },
@@ -795,13 +787,14 @@
         "Foreign Language",
         "Instructing",
         "Critical Thinking",
-        "Sales and Marketing",
         "Active Listening",
+        "Sales and Marketing",
         "administration",
         "analyses",
         "analysis",
         "analytical",
         "analyzing",
+        "balancing",
         "banking finance",
         "bilingual",
         "brand",
@@ -875,13 +868,14 @@
         "Foreign Language",
         "Instructing",
         "Critical Thinking",
-        "Sales and Marketing",
         "Active Listening",
+        "Sales and Marketing",
         "administration",
         "analyses",
         "analysis",
         "analytical",
         "analyzing",
+        "balancing",
         "banking finance",
         "bilingual",
         "brand",
@@ -950,23 +944,22 @@
       "rejected_skills": [
         "act",
         "assignments",
-        "bachelor",
-        "balancing"
+        "bachelor"
       ],
       "implicit_skills": [
         {
           "skill": "Microsoft Office",
-          "reason": "Excel and Google Docs are mentioned, implying proficiency in office software.",
+          "reason": "Excel and Google Docs imply proficiency in office software.",
           "confidence": "medium"
         },
         {
-          "skill": "Presentation Skills",
-          "reason": "Charts, displays, and instructional materials suggest ability to present information.",
+          "skill": "Teamwork",
+          "reason": "Collaborative and group leader indicate teamwork skills.",
           "confidence": "medium"
         },
         {
-          "skill": "Data Analysis",
-          "reason": "Financial analysis, analysis, and analytical skills indicate data analysis capability.",
+          "skill": "Problem Solving",
+          "reason": "Critical thinking and analytical skills imply problem-solving ability.",
           "confidence": "medium"
         }
       ],

@@ -4,18 +4,18 @@
   "implicit_skills": [
     {
       "confidence": "medium",
-      "reason": "Experience as a translator and communicating with English language learners suggests public speaking ability.",
-      "skill": "public speaking"
+      "reason": "Experience with customers and ordering implies customer service skills.",
+      "skill": "customer service"
     },
     {
       "confidence": "medium",
-      "reason": "Leadership and organizational skills imply project management capability.",
-      "skill": "project management"
+      "reason": "Experience with stock and ordering suggests inventory management.",
+      "skill": "inventory management"
     },
     {
       "confidence": "medium",
-      "reason": "Multilingual and working with English language learners indicates cross-cultural communication skills.",
-      "skill": "cross-cultural communication"
+      "reason": "Multilingual skills and translator role indicate bilingual communication ability.",
+      "skill": "bilingual communication"
     }
   ],
   "possible_skills": [],
@@ -30,6 +30,7 @@
     "business",
     "can",
     "certificate",
+    "communicating",
     "customers",
     "detail",
     "excellence",
@@ -42,6 +43,7 @@
     "motivated",
     "operation",
     "ordering",
+    "plan",
     "prayer",
     "present",
     "projects",
@@ -74,15 +76,13 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organizational",
     "organizational skills",
     "organization",
     "organizing",
-    "plan",
-    "programming",
+    "teamwork",
     "tech",
     "technical",
-    "teamwork",
+    "programming",
     "translator",
     "video"
   ],
@@ -105,15 +105,13 @@
     "modeling",
     "attention to detail",
     "time management",
-    "organizational",
     "organizational skills",
     "organization",
     "organizing",
-    "plan",
-    "programming",
+    "teamwork",
     "tech",
     "technical",
-    "teamwork",
+    "programming",
     "translator",
     "video"
   ]

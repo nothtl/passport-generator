@@ -9,13 +9,13 @@
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'community events' and 'organized'",
+      "reason": "Mentioned 'community events' and 'volunteering'",
       "skill": "Event Planning"
     },
     {
       "confidence": "medium",
-      "reason": "Mentioned 'student athlete' and 'team leadership'",
-      "skill": "Mentoring"
+      "reason": "Mentioned 'quick learner' and 'physically active'",
+      "skill": "Adaptability"
     }
   ],
   "possible_skills": [],
@@ -43,6 +43,7 @@
     "non profit",
     "non profit organization",
     "organization",
+    "organized",
     "part",
     "passionate",
     "physically active",
@@ -50,13 +51,11 @@
     "quick learner",
     "schools",
     "social",
-    "social media",
     "spanish",
     "speaking",
     "sports",
     "student athlete",
     "u s citizen",
-    "volunteering",
     "weekends"
   ],
   "review_reasons": [],
@@ -65,35 +64,39 @@
     "Communications and Media",
     "Customer and Personal Service",
     "Social Perceptiveness",
-    "Speaking",
     "Time Management",
     "Active Listening",
+    "Speaking",
+    "Complex Problem Solving",
+    "Sales and Marketing",
     "community engagement",
     "leadership",
     "management",
     "media management",
-    "organized",
     "problem solving",
     "public speaking",
     "social media management",
-    "team leadership"
+    "team leadership",
+    "volunteering"
   ],
   "verified_skills": [
     "Coordination",
     "Communications and Media",
     "Customer and Personal Service",
     "Social Perceptiveness",
-    "Speaking",
     "Time Management",
     "Active Listening",
+    "Speaking",
+    "Complex Problem Solving",
+    "Sales and Marketing",
     "community engagement",
     "leadership",
     "management",
     "media management",
-    "organized",
     "problem solving",
     "public speaking",
     "social media management",
-    "team leadership"
+    "team leadership",
+    "volunteering"
   ]
 }

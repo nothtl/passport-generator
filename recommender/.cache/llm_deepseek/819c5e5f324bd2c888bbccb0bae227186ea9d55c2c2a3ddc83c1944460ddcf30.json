@@ -6,11 +6,7 @@
   "evidence_spans": [
     {
       "section": "summary",
-      "text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate"
-    },
-    {
-      "section": "summary",
-      "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
+      "text": "I am very passionate about helping my community in any way, anytime."
     },
     {
       "section": "summary",
@@ -30,13 +26,12 @@
     "Youth Advocate"
   ],
   "goal_subdomains": [
-    "youth-support",
-    "community-support"
+    "youth-support"
   ],
   "reason_codes": [
     "explicit_goal",
     "volunteer_experience",
-    "nonprofit_leadership"
+    "community_focus"
   ],
   "review_reasons": [],
   "secondary_function": "education",

@@ -10,30 +10,24 @@
     },
     {
       "section": "education",
-      "text": "Bachelor of Business Administration in Finance                                                                                                           Expected May 2028"
+      "text": "Bachelor of Business Administration in Finance"
     }
   ],
   "goal_domains": [
     "finance"
   ],
   "goal_roles": [
-    "investment banker",
-    "financial analyst"
+    "Investment Banking"
   ],
-  "goal_subdomains": [
-    "investment-banking"
-  ],
+  "goal_subdomains": [],
   "reason_codes": [
     "explicit career goal",
-    "relevant major",
-    "business case study experience"
+    "relevant major"
   ],
   "review_reasons": [],
   "secondary_function": "education",
   "study_domains": [
     "finance"
   ],
-  "study_subdomains": [
-    "finance"
-  ]
+  "study_subdomains": []
 }

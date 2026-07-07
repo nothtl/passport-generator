@@ -24,16 +24,15 @@
     "classroom-support"
   ],
   "reason_codes": [
-    "explicit_goal",
-    "relevant_experience",
-    "education_alignment"
+    "explicit_work_experience",
+    "education_major"
   ],
   "review_reasons": [],
   "secondary_function": "social-service",
   "study_domains": [
-    "social-service"
+    "education"
   ],
   "study_subdomains": [
-    "youth-support"
+    "classroom-support"
   ]
 }

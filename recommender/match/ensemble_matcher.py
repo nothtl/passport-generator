@@ -329,12 +329,17 @@ def match_role(
         ("embeddings", s3, 0.35),
     ]
     if has_intent_signal:
+        # Dynamic study weight: when classifier is weak (<30%) and study is strong (>0.5),
+        # boost study weight to overcome classifier uncertainty
+        classifier_max = max(s1.values()) if s1 else 0
+        max_study = max(study_signal.values()) if study_signal else 0
+        study_boost = 0.20 if (classifier_max < 0.30 and max_study > 0.50) else 0.0
         signals = [
             ("aspiration", aspiration_signal or {}, 0.25),
-            ("study", study_signal or {}, 0.15),
-            ("classifier", s1, 0.25),
+            ("study", study_signal or {}, 0.15 + study_boost),
+            ("classifier", s1, 0.25 - study_boost * 0.5),
             ("onet", s2, 0.10),
-            ("embeddings", s3, 0.15),
+            ("embeddings", s3, 0.15 - study_boost * 0.5),
             ("experience", experience_signal or {}, 0.10),
         ]
 

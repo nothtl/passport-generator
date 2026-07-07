@@ -114,17 +114,17 @@
   "implicit_skills": [
     {
       "skill": "customer service",
-      "reason": "Experience as barista and advisor implies customer service skills.",
+      "reason": "Experience as barista and point of contact implies customer service skills.",
       "confidence": "medium"
     },
     {
       "skill": "time management",
-      "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
+      "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
       "confidence": "medium"
     },
     {
       "skill": "attention to detail",
-      "reason": "Archival work and digital archiving require attention to detail.",
+      "reason": "Archival work and organizational development require attention to detail.",
       "confidence": "medium"
     }
   ],
@@ -291,7 +291,7 @@
       "title": "Youth Instructor & Program Support Specialist",
       "company": "super-soccer-stars",
       "url": "https://apply.workable.com/j/D82C956AFF",
-      "fit": 83,
+      "fit": 85,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "education",
@@ -299,7 +299,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.545,
-        "study_alignment": 0.7,
+        "study_alignment": 0.778,
         "subdomain_alignment": 0.294,
         "experience_alignment": 0.25,
         "attainability": 0.75,
@@ -313,7 +313,7 @@
       "title": "Osmosis Health Leadership Initiative (Formerly OMEF)",
       "company": "osmosis",
       "url": "https://job-boards.greenhouse.io/osmosis/jobs/5628745003",
-      "fit": 77,
+      "fit": 78,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
@@ -321,7 +321,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.273,
-        "study_alignment": 0.4,
+        "study_alignment": 0.444,
         "subdomain_alignment": 0.7,
         "experience_alignment": 0.25,
         "attainability": 0.75,
@@ -335,7 +335,7 @@
       "title": "Camp Counselor -DMV",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 64,
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
@@ -343,7 +343,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.455,
-        "study_alignment": 0.6,
+        "study_alignment": 0.667,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.375,
         "attainability": 0.75,
@@ -365,7 +365,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
-        "study_alignment": 0.1,
+        "study_alignment": 0.111,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.125,
         "attainability": 0.65,
@@ -379,7 +379,7 @@
       "title": "2024-2025 Sports Photography Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 53,
+      "fit": 54,
       "job_type": "bridge",
       "subdomain": "photo-video",
       "function": "arts-media",
@@ -387,7 +387,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.182,
-        "study_alignment": 0.3,
+        "study_alignment": 0.333,
         "subdomain_alignment": 0.278,
         "experience_alignment": 0.25,
         "attainability": 0.75,
@@ -403,7 +403,7 @@
       "title": "Youth Instructor & Program Support Specialist",
       "company": "super-soccer-stars",
       "url": "https://apply.workable.com/j/D82C956AFF",
-      "fit": 83,
+      "fit": 85,
       "job_type": "goal",
       "subdomain": "marketing-creative",
       "function": "education",
@@ -411,7 +411,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.545,
-        "study_alignment": 0.7,
+        "study_alignment": 0.778,
         "subdomain_alignment": 0.294,
         "experience_alignment": 0.25,
         "attainability": 0.75,
@@ -425,7 +425,7 @@
       "title": "Osmosis Health Leadership Initiative (Formerly OMEF)",
       "company": "osmosis",
       "url": "https://job-boards.greenhouse.io/osmosis/jobs/5628745003",
-      "fit": 77,
+      "fit": 78,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
@@ -433,7 +433,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.273,
-        "study_alignment": 0.4,
+        "study_alignment": 0.444,
         "subdomain_alignment": 0.7,
         "experience_alignment": 0.25,
         "attainability": 0.75,
@@ -449,7 +449,7 @@
       "title": "Camp Counselor -DMV",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 64,
+      "fit": 65,
       "job_type": "goal",
       "subdomain": "content-creation",
       "function": "education",
@@ -457,7 +457,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.455,
-        "study_alignment": 0.6,
+        "study_alignment": 0.667,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.375,
         "attainability": 0.75,
@@ -479,7 +479,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
-        "study_alignment": 0.1,
+        "study_alignment": 0.111,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.125,
         "attainability": 0.65,
@@ -493,7 +493,7 @@
       "title": "2024-2025 Sports Photography Intern",
       "company": "",
       "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1291968",
-      "fit": 53,
+      "fit": 54,
       "job_type": "bridge",
       "subdomain": "photo-video",
       "function": "arts-media",
@@ -501,7 +501,7 @@
       "gaps": "organization, social-media, coordination",
       "job_score_breakdown": {
         "goal_alignment": 0.182,
-        "study_alignment": 0.3,
+        "study_alignment": 0.333,
         "subdomain_alignment": 0.278,
         "experience_alignment": 0.25,
         "attainability": 0.75,
@@ -522,15 +522,14 @@
     ],
     "goal_roles": [
       "archivist",
-      "museum curator"
+      "museum educator"
     ],
     "goal_subdomains": [
       "content-creation",
       "community-education"
     ],
     "study_domains": [
-      "education",
-      "arts-media"
+      "education"
     ],
     "study_subdomains": [
       "higher-ed-support"
@@ -609,8 +608,7 @@
         "education"
       ],
       "study_domains": [
-        "education",
-        "arts-media"
+        "education"
       ],
       "goal_subdomains": [
         "content-creation",
@@ -621,7 +619,7 @@
       ],
       "goal_roles": [
         "archivist",
-        "museum curator"
+        "museum educator"
       ],
       "confidence": 0.7,
       "evidence_spans": [
@@ -636,7 +634,7 @@
       ],
       "reason_codes": [
         "explicit goal",
-        "relevant experience"
+        "work experience in archives and content creation"
       ],
       "review_reasons": []
     },
@@ -732,17 +730,17 @@
       "implicit_skills": [
         {
           "skill": "customer service",
-          "reason": "Experience as barista and advisor implies customer service skills.",
+          "reason": "Experience as barista and point of contact implies customer service skills.",
           "confidence": "medium"
         },
         {
           "skill": "time management",
-          "reason": "Managing multiple roles (barista, advisor, mentorship) suggests time management.",
+          "reason": "Managing multiple roles (barista, advisor, etc.) suggests time management.",
           "confidence": "medium"
         },
         {
           "skill": "attention to detail",
-          "reason": "Archival work and digital archiving require attention to detail.",
+          "reason": "Archival work and organizational development require attention to detail.",
           "confidence": "medium"
         }
       ],

@@ -2,7 +2,7 @@
   "accepted": true,
   "chosen_function": "social-service",
   "chosen_subdomain": "youth-support",
-  "confidence": 0.75,
+  "confidence": 0.85,
   "evidence_spans": [
     {
       "section": "VOLUNTEER EXPERIENCE",
@@ -23,8 +23,7 @@
     "youth-support"
   ],
   "reason_codes": [
-    "explicit volunteer role in youth support",
-    "community outreach focus"
+    "explicit volunteer experience in youth mentoring and community outreach"
   ],
   "review_reasons": [],
   "secondary_function": "education",

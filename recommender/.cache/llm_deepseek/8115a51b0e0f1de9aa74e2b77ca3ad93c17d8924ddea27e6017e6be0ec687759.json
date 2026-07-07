@@ -5,12 +5,12 @@
   "confidence": 0.85,
   "evidence_spans": [
     {
-      "section": "education",
-      "text": "Bachelor of Fine Arts (B.F.A.), Art (Photography Focus)"
+      "section": "experience",
+      "text": "Photographer & Visual Artist \u2014 New York, NY 2026 \u2013 Present Develop conceptual photography projects exploring identity, emotion, and contemporary social themes"
     },
     {
-      "section": "experience",
-      "text": "Photographer & Visual Artist \u2014 New York, NY"
+      "section": "education",
+      "text": "Bachelor of Fine Arts (B.F.A.), Art (Photography Focus)"
     }
   ],
   "goal_domains": [
@@ -18,16 +18,16 @@
   ],
   "goal_roles": [
     "Photographer",
-    "Model",
-    "Actor"
+    "Content Creator"
   ],
   "goal_subdomains": [
-    "photo-video"
+    "photo-video",
+    "content-creation"
   ],
   "reason_codes": [
-    "explicit_goal",
-    "education_major",
-    "professional_experience"
+    "explicit goal in summary",
+    "strong work experience in photography and modeling",
+    "education in arts with photography focus"
   ],
   "review_reasons": [],
   "secondary_function": "design",

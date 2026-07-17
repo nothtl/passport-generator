@@ -38,6 +38,20 @@ _LIFECYCLE = get_student_lifecycle()
 
 _JUNK_SKILLS = set(_RESUME.junk_skills)
 _DEFAULT_LLM_CACHE_DIR = os.path.join(_PROJECT_DIR, "recommender", ".cache", "llm")
+
+# Job title function-keyword mapping for internship relevance scoring
+_TITLE_KEYWORDS = {
+    "technology": ["software", "engineer", "developer", "data", "systems", "it ", "tech", "programmer", "web", "cloud", "devops", "frontend", "backend", "java", "python", "react", "aws", "ai ", "machine learning", "embedded", "network", "database", "automation"],
+    "healthcare": ["nurse", "medical", "patient", "clinical", "health", "care", "therapy", "therapist", "pharmacy", "physician", "hospital", "cna", "rbt", "behavior", "respite", "oncology"],
+    "education": ["teacher", "tutor", "instructor", "teaching", "education", "school", "classroom", "faculty", "lecturer", "instructional", "academic", "substitute", "curriculum", "youth", "after school", "mentor"],
+    "finance": ["finance", "accounting", "analyst", "accountant", "banking", "investment", "audit", "tax", "payroll", "bookkeeping", "fp&a", "financial", "advisor", "underwriter"],
+    "sales": ["sales", "retail", "representative", "account", "client", "business development", "stylist", "merchandising", "associate"],
+    "arts-media": ["design", "graphic", "photo", "video", "editor", "content", "creative", "media", "marketing", "social media", "illustrator", "photographer", "videographer", "ui ", "ux ", "visual", "brand", "art "],
+    "social-service": ["social", "community", "outreach", "peer", "youth", "counselor", "advocate", "case", "nonprofit", "volunteer", "support specialist"],
+    "ops": ["operations", "logistics", "supply", "warehouse", "inventory", "dispatch", "coordinator"],
+    "support": ["support", "help desk", "service desk", "technician", "customer service", "representative"],
+}
+
 DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
 
 # ── Tuning constants (from config) ──
@@ -1147,6 +1161,9 @@ def analyze(
         if title in seen_titles:
             continue
         bd = job.get("job_score_breakdown", {})
+        _skill_ol = bd.get("skill_overlap_raw", bd.get("skill_overlap", 0))
+        if _skill_ol < 0.05:
+            continue
         entry = _make_entry(job)
         job_func = job.get("function", chosen_function) or chosen_function
 
@@ -1188,22 +1205,30 @@ def analyze(
     xf_ready = sorted(cross_jobs, key=lambda j: -j.get("job_score_breakdown", {}).get("attainability", 0))
     xf_aspire = sorted(cross_jobs, key=lambda j: -j.get("job_score_breakdown", {}).get("goal_alignment", 0))
 
-    # Add 2 cross-function to ready_now
+    # Add 2 cross-function to ready_now, gated by skill overlap
     for job in xf_ready:
         if len(ready_now) >= 5:
             break
         title = job.get("title", "")
         if title in seen_titles:
             continue
+        _bd = job.get("job_score_breakdown", {})
+        _ol = _bd.get("skill_overlap_raw", _bd.get("skill_overlap", 0))
+        if _ol < 0.08:
+            continue
         seen_titles.add(title)
         ready_now.append(_make_entry(job, is_cross=True))
 
-    # Add 2 cross-function to aspirational
+    # Add 2 cross-function to aspirational, gated by skill overlap
     for job in xf_aspire:
         if len(aspirational) >= 5:
             break
         title = job.get("title", "")
         if title in seen_titles:
+            continue
+        _bd = job.get("job_score_breakdown", {})
+        _ol = _bd.get("skill_overlap_raw", _bd.get("skill_overlap", 0))
+        if _ol < 0.08:
             continue
         seen_titles.add(title)
         aspirational.append(_make_entry(job, is_cross=True))
@@ -1301,13 +1326,12 @@ def analyze(
             penalty = FIT_ASPIRE_PENALTY if not j.get("cross_function") else 0
             j["fit"] = max(j["fit"] - penalty, 50)
 
-    # ── Phase 1a/1b: internship recommendations for early-stage students ──
-        # Pull actual intern-level jobs from the ranked pool, filtered by
-        # the job's level field (intern/Intern), not just attainability.
+    # ── Phase 1a/1b: internship recommendations ──
+        # Fix 1: minimum skill overlap gate (≥10% to avoid "Subway Sandwich Artist")
+        # Fix 2: job title function-keyword scoring (relevance check without LLM)
         internships: list[dict] = []
         if _needs_internships:
-            # Filter ranked_jobs to only intern-level entries
-            _intern_pool = [
+            _func_pool = [
                 j for j in ranked_jobs
                 if not j.get("_cross_function")
                 and str(j.get("level", "")).lower() in ("intern", "internship")
@@ -1316,14 +1340,43 @@ def analyze(
                     _SUBSET_FUNCTION_MAP.get(chosen_function.lower(), chosen_function.lower()),
                 )
             ]
-            # If no explicit intern-level jobs found, fall back to top attainable jobs
-            if not _intern_pool:
-                _intern_pool = sorted(
+            # Fallback: broaden to all functions but gate with skill overlap + title relevance
+            if not _func_pool:
+                _func_pool = [
+                    j for j in ranked_jobs
+                    if not j.get("_cross_function")
+                    and str(j.get("level", "")).lower() in ("intern", "internship")
+                ]
+            # Filter: require ≥10% skill overlap OR title matches function keywords
+            _func_kw = _TITLE_KEYWORDS.get(chosen_function, [chosen_function.replace("-", " ")])
+            _student_skill_set = {_norm_skill(s) for s in extracted_skills[:30]}
+            _filtered = []
+            for _j in _func_pool:
+                _title = str(_j.get("title", "")).lower()
+                _raw = _j.get("skills")
+                _job_skills = [s for s in (_raw if isinstance(_raw, list) else []) if isinstance(s, str)]
+                _job_set = {_norm_skill(s) for s in _job_skills}
+                _overlap = len(_student_skill_set & _job_set) / max(1, len(_job_set))
+                _title_match = any(kw.lower() in _title for kw in _func_kw)
+                if _overlap >= 0.10 or _title_match:
+                    _j["_intern_quality"] = _overlap + (0.3 if _title_match else 0)
+                    _filtered.append(_j)
+            _filtered.sort(key=lambda j: -j.get("_intern_quality", 0))
+            # Safety net: if nothing passes, take top attainable intern-level jobs
+            if not _filtered:
+                _filtered = sorted(
+                    [j for j in ranked_jobs if not j.get("_cross_function")
+                     and str(j.get("level", "")).lower() in ("intern", "internship")],
+                    key=lambda j: -j.get("job_score_breakdown", {}).get("attainability", 0)
+                )[:10]
+            # Last resort: any attainable job
+            if not _filtered:
+                _filtered = sorted(
                     [j for j in ranked_jobs if not j.get("_cross_function")],
                     key=lambda j: -j.get("job_score_breakdown", {}).get("attainability", 0)
-                )
+                )[:8]
             _intern_seen = set()
-            for _ij in _intern_pool:
+            for _ij in _filtered:
                 _title = _ij.get("title", "")
                 if _title in _intern_seen:
                     continue

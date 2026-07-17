@@ -168,6 +168,8 @@ def run_student(name: str, resume_text: str, old_result: dict) -> dict:
             if len(internships) >= 5:
                 break
             if j["title"] not in seen_t:
+                if j.get("fit", 0) < 30:  # Fix 3: skip low-quality padding
+                    continue
                 j_copy = dict(j)
                 j_copy["internship"] = True
                 internships.append(j_copy)

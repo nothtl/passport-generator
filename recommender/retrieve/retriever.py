@@ -1,10 +1,11 @@
-"""
-JD retriever — parquet-backed with IDF-weighted skill scoring.
+"""JD retriever — parquet-backed with IDF-weighted skill scoring.
 
 Each extracted skill is weighted by its IDF (inverse document frequency)
 computed from the function's JD corpus. Skills that appear in many JDs
 get low weight; rare, distinctive skills get high weight. This auto-filters
 generic terms like "building", "career", "claims" without any hand-coded rules.
+
+Configuration: recommender/config.yaml → functions, resume, function_keywords.
 """
 
 from __future__ import annotations
@@ -15,47 +16,35 @@ import os
 import re
 from typing import Any
 
+from recommender.config import get_functions, get_resume, get_function_keywords
+
+_CFG = get_functions()
+_RESUME = get_resume()
+_FKW = get_function_keywords()
+
 _CORPUS_DIR = os.path.join(os.path.dirname(__file__), "..", "corpus")
 
-# Functions without dedicated parquets fall back to the closest related one
-_FALLBACK_MAP = {
-    "arts-media": "design",
-    "agriculture": "other",
-    "building-grounds": "other",
-    "personal-care": "other",
-    "protective-service": "security",
-    "science": "technology",
-    "social-service": "education",
-    "administrative": "ops",
-    "food-service": "other",
-    "hospitality": "other",
-    "logistics": "ops",
-    "manufacturing": "ops",
-}
+_FALLBACK_MAP: dict = dict(_CFG.fallback_map)
+_SUBSET_FUNCTION_MAP: dict = dict(_CFG.subset_map)
+_SECONDARY_FUNCTION_LABELS: dict = dict(_CFG.secondary_labels)
+_ONET_ONLY_FUNCTIONS: set = set(_CFG.onet_only)
 
 _cached_df: dict[str, Any] = {}
 _cached_idf: dict[str, dict[str, float]] = {}
 _cached_pmi: dict[str, dict[tuple[str, str], float]] = {}
 
+_FUNCTION_KEYWORDS: dict = dict(_FKW)
+_STREAM_FUNCTIONS: set = set(_FKW.stream_functions)
+
+_UUID_RE = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$")
+_BLOCKED_TITLE_PATTERNS: tuple = tuple(_RESUME.blocked_titles)
+_SENIORITY_PATTERNS: tuple = tuple(_RESUME.seniority_patterns)
+
+
 def _norm_skill(s: str) -> str:
     """Normalize a skill name: lowercase, strip hyphens/spaces/punctuation."""
     return re.sub(r"[- ,/]", "", str(s).lower())
 
-_UUID_RE = re.compile(r"^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$")
-_BLOCKED_TITLE_PATTERNS = (
-    "physician",
-    "doctor",
-    "surgeon",
-    "dvm",
-    "vmd",
-    "licensed practical nurse",
-    "registered nurse",
-    "nurse practitioner",
-    "director",
-    "principal",
-    "manager",
-)
-_SENIORITY_PATTERNS = ("senior",)
 
 def _resolve_func(func_lower: str) -> str:
     """Resolve function to parquet file, using fallback if missing or too small."""
@@ -241,6 +230,7 @@ def filter_job_records(
     goal_subdomains: list[str] | None = None,
     study_subdomains: list[str] | None = None,
     study_level: str = "",
+    prefer_state: str = "",
 ) -> list[dict[str, Any]]:
     goal_domains = goal_domains or []
     study_domains = study_domains or []
@@ -292,6 +282,9 @@ def filter_job_records(
             token in lowered for token in ["cashier", "retail associate", "food service"]
         ):
             job["_quality_penalty"] = max(job["_quality_penalty"], 0.35)
+        # Location match: boost jobs in student's state
+        if prefer_state and prefer_state.lower() in (str(job.get("location", "")).lower() + " " + str(job.get("city", "")).lower()):
+            job["_quality_penalty"] = max(job.get("_quality_penalty", 0) - 0.15, 0)
         filtered.append(job)
 
     return filtered
@@ -358,55 +351,6 @@ def _stream_full_parquet(function_labels: set[str], keyword_filters: list[str], 
     return []
 
 # Map our pipeline functions to subset parquet labels (different vocabularies)
-_ONET_ONLY_FUNCTIONS = {"protective-service"}  # Subset has no physical security jobs — use O*NET fallback exclusively
-
-_SUBSET_FUNCTION_MAP = {
-    # Subset uses different labels — map our vocabulary to theirs
-    "technology": "engineering",
-    "social-service": "education",
-    "arts-media": "design",
-    "agriculture": "other",
-    "building-grounds": "other",
-    "personal-care": "other",
-    "science": "research",
-    "food-service": "other",
-    "administrative": "ops",
-    "logistics": "ops",
-    "manufacturing": "ops",
-    "hospitality": "other",
-    "protective-service": "security",
-    "security": "security",
-}
-
-# Keywords that redirect generic-function jobs to our specific functions
-_FUNCTION_KEYWORDS = {
-    "protective-service": [
-        "security guard", "security officer", "loss prevention",
-        "patrol", "surveillance", "asset protection", "doorperson",
-        "front desk monitor", "store detective",
-    ],
-    "it-support": [
-        "help desk", "technical support", "it support", "desktop support",
-        "network support", "systems administrator", "it technician",
-        "tech support", "support engineer", "support technician",
-    ],
-    "social-service": [
-        "youth", "community", "outreach", "social work", "case management",
-        "peer support", "nonprofit", "non-profit", "advocacy", "counseling",
-        "americorps", "volunteer coordinator",
-    ],
-    "technology": [
-        "software", "developer", "engineer", "data", "systems", "network",
-        "cloud", "devops", "full stack", "frontend", "backend", "python",
-        "java", "react", "aws", "machine learning", "ai", "embedded",
-    ],
-    "arts-media": [
-        "graphic design", "photographer", "videographer", "video editor",
-        "content creator", "social media", "illustrator", "photo",
-        "creative", "visual", "designer",
-    ],
-}
-
 def retrieve_from_subset(
     function: str = "",
     student_skills: list[str] | None = None,
@@ -438,12 +382,11 @@ def retrieve_from_subset(
     # Only for truly thin functions where the subset has no data.
     keyword_filters = _FUNCTION_KEYWORDS.get(function, [])
     full_path = os.path.join(_CORPUS_DIR, "_open_jobs_full.parquet")
-    STREAM_FUNCTIONS = {"protective-service", "social-service", "arts-media", "legal"}
-    if function in STREAM_FUNCTIONS and keyword_filters and os.path.exists(full_path):
+    if function in _STREAM_FUNCTIONS and keyword_filters and os.path.exists(full_path):
         results = _stream_full_parquet(subset_labels, keyword_filters, top_k)
         if len(results) >= top_k:
             return results
-        # Fall through to subset + O*NET fallback
+    # Fall through to subset + O*NET fallback
 
     # Filter by subset labels
     if subset_labels:

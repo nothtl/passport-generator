@@ -3,66 +3,14 @@ from __future__ import annotations
 import re
 from collections import Counter
 
+from recommender.config import get_student_intent
 from recommender.extract.section_parser import parse_resume_sections
 from recommender.match.subdomains import extract_study_level, top_subdomains
 
-_DOMAIN_KEYWORDS = {
-    "education": {
-        "education", "teacher", "teaching", "tutor", "tutoring", "school",
-        "student", "students", "classroom", "learning", "mentor", "mentoring",
-        "youth", "after school", "instruction", "instructor", "teaches",
-    },
-    "healthcare": {
-        "health", "healthcare", "medical", "medicine", "patient", "clinical",
-        "hospital", "nursing", "nurse", "physician", "care", "home health",
-        "case management", "public health", "medical school", "biology",
-    },
-    "technology": {
-        "software", "developer", "engineering", "engineer", "computer", "tech",
-        "programming", "python", "data", "ai", "machine learning", "robotics",
-        "arduino", "coding",
-    },
-    "design": {
-        "design", "graphic", "photoshop", "illustrator", "creative",
-        "visual", "designer", "portfolio",
-    },
-    "social-service": {
-        "community", "outreach", "social work", "counseling", "advocacy",
-        "youth development", "peer support", "volunteer", "service",
-    },
-    "finance": {
-        "finance", "accounting", "financial", "budget", "bookkeeping",
-    },
-    "sales": {
-        "sales", "business development", "customer success", "client",
-    },
-    "protective-service": {
-        "security", "law enforcement", "police", "firefighter", "guard",
-        "safety", "surveillance", "patrol", "protection", "emergency",
-        "security license", "loss prevention", "access control", "military",
-        "first responder", "emt", "paramedic", "corrections",
-    },
-}
-
-# Map degree majors to likely career functions
-_MAJOR_TO_FUNCTION: dict[str, str] = {
-    "psychology": "healthcare", "biology": "healthcare", "neuroscience": "healthcare",
-    "history": "education", "american studies": "education", "political science": "education",
-    "sociology": "social-service", "social work": "social-service",
-    "criminal justice": "social-service", "criminology": "legal",
-    "english": "arts-media", "communications": "arts-media", "journalism": "arts-media",
-    "computer science": "technology", "engineering": "technology",
-    "business": "finance", "accounting": "finance", "economics": "finance",
-    "nursing": "healthcare", "pre-med": "healthcare", "public health": "healthcare",
-    "education": "education", "teaching": "education",
-    "graphic design": "design", "fine arts": "arts-media", "art": "arts-media",
-    "marketing": "marketing",
-}
-
-_ROLE_KEYWORDS = {
-    "teacher", "tutor", "mentor", "nurse", "physician", "engineer",
-    "developer", "designer", "researcher", "assistant", "intern",
-}
+_CFG = get_student_intent()
+_DOMAIN_KEYWORDS: dict[str, set[str]] = {k: set(v) for k, v in _CFG.domain_keywords.items()}
+_MAJOR_TO_FUNCTION: dict[str, str] = dict(_CFG.major_to_function)
+_ROLE_KEYWORDS: set[str] = set(_CFG.role_keywords)
 
 
 def _tokenize(text: str) -> list[str]:
@@ -195,6 +143,9 @@ def build_student_intent_profile(
             if subdomain not in study_subdomains:
                 study_subdomains.append(subdomain)
     study_level = extract_study_level(education_text)
+    # Fallback: check full resume text if education section wasn't parsed
+    if not study_level:
+        study_level = extract_study_level(resume_text)
     has_student_intent = bool(summary_text.strip() or education_text.strip())
     intent_confidence = round(
         max(

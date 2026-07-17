@@ -7,6 +7,8 @@ from collections import Counter
 from pathlib import Path
 from typing import Any, Protocol
 
+from recommender.config import get_llm
+
 
 class LLMProvider(Protocol):
     def complete_json(self, stage: str, system_prompt: str, user_prompt: str, model: str) -> dict[str, Any]:
@@ -58,12 +60,12 @@ class OpenRouterProvider:
     def __init__(
         self,
         api_key: str | None = None,
-        base_url: str = "https://openrouter.ai/api/v1/chat/completions",
+        base_url: str = "",
         referer: str | None = None,
         title: str = "speakhire-recommender",
     ):
         self.api_key = (api_key or load_openrouter_api_key()).strip()
-        self.base_url = base_url
+        self.base_url = base_url or get_llm().openrouter_url
         self.referer = referer or os.getenv("OPENROUTER_HTTP_REFERER", "").strip()
         self.title = title
 
@@ -106,8 +108,8 @@ class DeepSeekProvider:
 
     def __init__(self, api_key: str = "", model: str = "deepseek-chat"):
         self.api_key = (api_key or os.getenv("DEEPSEEK_API_KEY", "")).strip()
-        self.model = model
-        self.base_url = "https://api.deepseek.com/v1/chat/completions"
+        self.model = model or _llm.deepseek_model
+        _llm = get_llm(); self.base_url = _llm.deepseek_url
 
     def complete_json(self, stage: str, system_prompt: str, user_prompt: str, model: str) -> dict[str, Any]:
         if not self.api_key:

@@ -1,11 +1,12 @@
-"""
-3-Signal Ensemble Matcher — No hardcoded patterns, no LLM.
+"""3-Signal Ensemble Matcher - No hardcoded patterns, no LLM.
 
 Signal 1: ML Classifier (TF-IDF + LinearSVC, 73.9% on 2,484 resumes)
 Signal 2: O*NET Task Overlap (18,796 task statements via TF-IDF)
 Signal 3: Sentence Embeddings (all-MiniLM-L6-v2, semantic similarity vs O*NET tasks)
 
 Fusion: weighted voting with confidence thresholding.
+
+Configuration: recommender/config.yaml -> ensemble section.
 """
 from __future__ import annotations
 
@@ -18,6 +19,12 @@ from collections import Counter
 from typing import Any
 
 import numpy as np
+
+from recommender.config import get_ensemble
+
+_CFG = get_ensemble()
+_STOPS: set = set(_CFG.stops)
+_OCC_TO_FUNC_MAP: dict = dict(_CFG.occ_to_func)
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _DATA = os.path.join(_HERE, "..", "data")
@@ -60,100 +67,28 @@ def _load_onet():
     return _onet_index
 
 
-_STOPS = {
-    "the", "a", "an", "is", "are", "was", "were", "be", "been", "being",
-    "have", "has", "had", "do", "does", "did", "will", "would", "could",
-    "should", "may", "might", "can", "shall", "to", "of", "in", "for",
-    "on", "with", "at", "by", "from", "as", "into", "through", "during",
-    "before", "after", "above", "below", "between", "and", "or", "not",
-    "that", "this", "these", "those", "it", "its", "they", "them", "their",
-    "he", "she", "his", "her", "who", "whom", "which", "what", "when",
-    "where", "how", "all", "each", "every", "both", "few", "more",
-    "most", "other", "some", "such", "no", "only", "own", "same", "so",
-    "than", "too", "very", "just", "also", "if", "then", "else", "about",
-    "up", "out", "over", "under", "again", "further", "once", "here",
-    "there", "activities", "may", "work", "use", "using", "equipment",
-    "information", "develop", "prepare", "provide", "materials",
-    "determine", "ensure", "evaluate", "maintain", "programs", "procedures",
-    "perform", "reports", "conduct", "research", "control", "plan", "test",
-    "monitor", "direct", "review", "plans", "tools", "required", "including",
-    "related", "knowledge", "principles", "techniques", "methods", "needs",
-    "appropriate", "necessary", "standards", "results", "processes", "services",
-    "records", "record", "supervise", "inspect", "specifications", "clean",
-    "coordinate", "identify", "quality", "customer",
-}
-
-# Occupation-to-function mapping (ONLY used for aggregation)
+# Occupation-to-function mapping (loaded from config)
 _OCC_TO_FUNC: dict[str, str] = {}
 _func_set: set[str] = set()
 
-
 def _build_occ_to_func():
-    """Build occupation->function mapping from O*NET titles."""
+    """Build occupation->function mapping from config."""
     global _OCC_TO_FUNC, _func_set
     if _OCC_TO_FUNC:
         return
+    _build_from_config()
 
-    # Domain keywords that map to functions
-    mappings = [
-        (r"\bSoftware\b", "technology"), (r"\bDeveloper", "technology"),
-        (r"\bEngineer(?!$)", "technology"), (r"\bComputer\b", "technology"),
-        (r"\bProgrammer", "technology"), (r"\bIT\b", "technology"),
-        (r"\bNetwork", "technology"), (r"\bDatabase", "technology"),
-        (r"\bMarketing\b", "marketing"), (r"\bSales\b", "sales"),
-        (r"\bTeacher", "education"), (r"\bInstructor", "education"),
-        (r"\bEducation", "education"), (r"\bProfessor", "education"),
-        (r"\bSchool\b", "education"), (r"\bLibrarian", "education"),
-        (r"\bNurse", "healthcare"), (r"\bMedical\b", "healthcare"),
-        (r"\bHealth\b", "healthcare"), (r"\bClinical\b", "healthcare"),
-        (r"\bPhysician", "healthcare"), (r"\bTherapist", "healthcare"),
-        (r"\bDental\b", "healthcare"), (r"\bPharmacy", "healthcare"),
-        (r"\bDesigner", "design"), (r"\bDesign\b", "design"),
-        (r"\bGraphic\b", "design"), (r"\bArtist", "design"),
-        (r"\bClerk", "administrative"), (r"\bReceptionist", "administrative"),
-        (r"\bSecretar", "administrative"), (r"\bOffice\b", "administrative"),
-        (r"\bAccountant", "finance"), (r"\bFinancial\b", "finance"),
-        (r"\bAuditor", "finance"), (r"\bBudget", "finance"),
-        (r"\bChef\b", "food-service"), (r"\bCook(?!ing)", "food-service"),
-        (r"\bRestaurant\b", "food-service"), (r"\bKitchen\b", "food-service"),
-        (r"\bFood\b", "food-service"), (r"\bBarista", "food-service"),
-        (r"\bBartender", "food-service"), (r"\bWait", "food-service"),
-        (r"\bConstruction\b", "skilled-trade"), (r"\bElectrician", "skilled-trade"),
-        (r"\bPlumber", "skilled-trade"), (r"\bCarpenter", "skilled-trade"),
-        (r"\bWelder", "skilled-trade"), (r"\bMechanic", "skilled-trade"),
-        (r"\bDriver\b", "logistics"), (r"\bTruck\b", "logistics"),
-        (r"\bWarehouse\b", "logistics"), (r"\bDelivery\b", "logistics"),
-        (r"\bManufacturing\b", "manufacturing"), (r"\bProduction\b", "manufacturing"),
-        (r"\bAssembly\b", "manufacturing"), (r"\bHotel\b", "hospitality"),
-        (r"\bHospitality\b", "hospitality"), (r"\bLodging", "hospitality"),
-        (r"\bLawyer", "legal"), (r"\bAttorney", "legal"),
-        (r"\bParalegal", "legal"), (r"\bLegal\b", "legal"),
-        (r"\bCourt\b", "legal"), (r"\bPolice\b", "protective-service"),
-        (r"\bFirefighter", "protective-service"), (r"\bSecurity\b", "protective-service"),
-        (r"\bGuard\b", "protective-service"), (r"\bWriter", "arts-media"),
-        (r"\bJournalist", "arts-media"), (r"\bEditor\b", "arts-media"),
-        (r"\bActor", "arts-media"), (r"\bMusician", "arts-media"),
-        (r"\bPhotographer", "arts-media"), (r"\bMedia\b", "arts-media"),
-        (r"\bBroadcast", "arts-media"), (r"\bJanitor", "building-grounds"),
-        (r"\bCleaner", "building-grounds"), (r"\bMaid", "building-grounds"),
-        (r"\bLandscap", "building-grounds"), (r"\bHairdresser", "personal-care"),
-        (r"\bCosmetolog", "personal-care"), (r"\bBarber", "personal-care"),
-        (r"\bFarm", "agriculture"), (r"\bAgricultur", "agriculture"),
-        (r"\bScientist", "science"), (r"\bChemist", "science"),
-        (r"\bBiologist", "science"), (r"\bLaboratory\b", "science"),
-        (r"\bSocial Work", "social-service"), (r"\bCounselor", "social-service"),
-        (r"\bManager", "ops"), (r"\bSupervisor", "ops"),
-        (r"\bDirector\b", "ops"), (r"\bOperations\b", "ops"),
-        (r"\bCustomer Service\b", "support"), (r"\bSupport\b", "support"),
-    ]
 
+def _build_from_config():
+    """Build occupation-to-function mapping from config YAML."""
+    global _OCC_TO_FUNC, _func_set
     index = _load_onet()
     for occ in index["occs"]:
         title = occ["title"]
         func = "unmapped"
-        for pat, f in mappings:
-            if re.search(pat, title):
-                func = f
+        for pattern, func_name in _OCC_TO_FUNC_MAP.items():
+            if re.search(pattern, title):
+                func = func_name
                 break
         _OCC_TO_FUNC[title] = func
         _func_set.add(func)
@@ -323,24 +258,25 @@ def match_role(
     except Exception:
         s3 = {}
 
+    DW = _CFG.default_weights
     signals: list[tuple[str, dict[str, float], float]] = [
-        ("classifier", s1, 0.50),
-        ("onet", s2, 0.15),
-        ("embeddings", s3, 0.35),
+        ("classifier", s1, DW.classifier),
+        ("onet", s2, DW.onet),
+        ("embeddings", s3, DW.embeddings),
     ]
     if has_intent_signal:
-        # Dynamic study weight: when classifier is weak (<30%) and study is strong (>0.5),
-        # boost study weight to overcome classifier uncertainty
+        IW = _CFG.intent_weights
+        SB = _CFG.study_boost
         classifier_max = max(s1.values()) if s1 else 0
         max_study = max(study_signal.values()) if study_signal else 0
-        study_boost = 0.20 if (classifier_max < 0.30 and max_study > 0.50) else 0.0
+        study_boost = SB.boost if (classifier_max < SB.classifier_threshold and max_study > SB.study_threshold) else 0.0
         signals = [
-            ("aspiration", aspiration_signal or {}, 0.25),
-            ("study", study_signal or {}, 0.15 + study_boost),
-            ("classifier", s1, 0.25 - study_boost * 0.5),
-            ("onet", s2, 0.10),
-            ("embeddings", s3, 0.15 - study_boost * 0.5),
-            ("experience", experience_signal or {}, 0.10),
+            ("aspiration", aspiration_signal or {}, IW.aspiration),
+            ("study", study_signal or {}, IW.study + study_boost),
+            ("classifier", s1, IW.classifier - study_boost * 0.5),
+            ("onet", s2, IW.onet),
+            ("embeddings", s3, IW.embeddings - study_boost * 0.5),
+            ("experience", experience_signal or {}, IW.experience),
         ]
 
     all_funcs = set()

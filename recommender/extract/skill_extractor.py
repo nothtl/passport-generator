@@ -1,5 +1,4 @@
-"""
-Data-driven skill extraction — JD vocabulary membership with fuzzy matching.
+"""Data-driven skill extraction using JD vocabulary membership with fuzzy matching.
 
 1. Tokenize resume into 1-3 grams
 2. Normalize each n-gram (strip hyphens/spaces)
@@ -7,8 +6,10 @@ Data-driven skill extraction — JD vocabulary membership with fuzzy matching.
 4. Return display-form matches
 
 Both the vocabulary and normalization are purely data-driven.
-The vocabulary is built from all JD parquet files (~67K unique skills).
+The vocabulary is built from all JD parquet files (approx 67000 unique skills).
 No hand-coded rules, no ESCO dependency.
+
+Configuration: recommender/config.yaml -> skill extraction section.
 """
 
 from __future__ import annotations
@@ -18,6 +19,7 @@ import os
 import re
 from typing import TYPE_CHECKING
 
+from recommender.config import get_skill_extraction
 from recommender.extract.section_parser import parse_resume_sections
 
 if TYPE_CHECKING:
@@ -28,66 +30,19 @@ _VOCAB_PATH = os.path.join(_HERE, "..", "data", "skill_vocabulary.json")
 
 _vocab_normalized: set[str] | None = None
 
-_GENERIC_STOP_SKILLS = {
-    "activities",
-    "activity",
-    "admission",
-    "andon",
-    "adult",
-    "assistance",
-    "assisting",
-    "ata",
-    "children",
-    "cleaning",
-    "decisionmaking",
-    "education",
-    "eligibility",
-    "english",
-    "events",
-    "examination",
-    "flu",
-    "gmail",
-    "hospital",
-    "http",
-    "https",
-    "iam",
-    "intern",
-    "inventory",
-    "isa",
-    "kitchen",
-    "learning",
-    "linkedin",
-    "medical",
-    "patient",
-    "patients",
-    "pdf",
-    "phone",
-    "planning",
-    "positions",
-    "preparation",
-    "professionalism",
-    "research",
-    "resume",
-    "resumepdf",
-    "screening",
-    "shopping",
-    "student",
-    "students",
-    "support",
-    "training",
-    "url",
-    "website",
-    "websites",
-    "vaccination",
-    "volunteer",
-    "word",
-}
+_CFG = get_skill_extraction()
+_GENERIC_STOP_SKILLS: set[str] = set(_CFG.stop_skills)
+_IMPLICIT_RULES: dict[str, set[str]] = {k: set(v) for k, v in _CFG.implicit_rules.items()}
 
-_IMPLICIT_RULES = {
-    "python": {"fastapi", "pytorch", "ros2", "yolo", "pandas", "numpy"},
-    "cloud deployment": {"azure functions", "aws lambda", "cloud run"},
-    "caregiving": {"activities of daily living", "home health aide", "patient care"},
-}
+# Synonym normalization: maps common abbreviations/variants to canonical forms.
+_SKILL_SYNONYMS: dict[str, str] = dict(_CFG.synonyms)
+
+# Reverse map: canonical → list of synonyms (for expanding search)
+_SYNONYM_CANONICAL: dict[str, str] = {}
+for _alias, _canonical in _SKILL_SYNONYMS.items():
+    _SYNONYM_CANONICAL[_alias] = _canonical
+    _norm_canon = re.sub(r"[- ]", "", _canonical.lower())
+    _SYNONYM_CANONICAL[_norm_canon] = _canonical
 
 
 def _load_vocab_norm() -> set[str]:
@@ -115,8 +70,18 @@ def _keep_skill(display: str, normed: str) -> bool:
     return True
 
 
+def _apply_synonym(token: str) -> str | None:
+    """Return the canonical form if the token is a known synonym, else None."""
+    normed = re.sub(r"[- ]", "", token.lower())
+    return _SYNONYM_CANONICAL.get(normed)
+
+
 def _tokenize(text: str) -> list[tuple[str, str]]:
-    """Generate 1-3 grams. Returns (display, normalized) pairs."""
+    """Generate 1-3 grams with synonym expansion. Returns (display, normalized) pairs.
+
+    For each n-gram, also emits the synonym-normalized form so that
+    "JS developer" matches the vocabulary entry for "JavaScript".
+    """
     cleaned = re.sub(r"[^a-z\s]", " ", text.lower())
     cleaned = re.sub(r"\s+", " ", cleaned).strip()
     words = cleaned.split()
@@ -126,15 +91,28 @@ def _tokenize(text: str) -> list[tuple[str, str]]:
     def _norm(s):
         return re.sub(r"[- ]", "", s)
 
-    ngrams = []
+    ngrams: list[tuple[str, str]] = []
     for i in range(len(words)):
+        # Original token
         ngrams.append((words[i], _norm(words[i])))
+        # Synonym expansion for single tokens
+        canon = _apply_synonym(words[i])
+        if canon:
+            ngrams.append((canon, _norm(canon)))
+
         if i + 1 < len(words):
             phrase = f"{words[i]} {words[i+1]}"
             ngrams.append((phrase, _norm(phrase)))
+            # Synonym expansion for bigrams
+            canon_bi = _apply_synonym(phrase)
+            if canon_bi:
+                ngrams.append((canon_bi, _norm(canon_bi)))
         if i + 2 < len(words):
             phrase = f"{words[i]} {words[i+1]} {words[i+2]}"
             ngrams.append((phrase, _norm(phrase)))
+            canon_tri = _apply_synonym(phrase)
+            if canon_tri:
+                ngrams.append((canon_tri, _norm(canon_tri)))
     return ngrams
 
 
@@ -158,9 +136,9 @@ def _strip_meta_text(text: str) -> str:
 
 
 def extract_skills_from_text(text: str, function: str | None = None) -> list[str]:
-    """Extract skills: tokenize -> normalize -> check JD vocabulary -> return display forms.
+    """Extract skills: tokenize, normalize, check JD vocabulary, return display forms.
 
-    ~2ms. Normalization bridges "computer vision" <-> "computer-vision".
+    Approximately 2ms. Normalization bridges 'computer vision' to 'computer-vision'.
     Vocabulary from 67K JD skill names. No hand-coded rules.
     """
     if not text:

@@ -5,15 +5,19 @@ Cached per job title. Swaps OpenAI for DeepSeek.
 from __future__ import annotations
 
 import json, logging, os, time, urllib.error, urllib.request
+from recommender.utils import retry
 
+from recommender.config import get_llm, get_eligibility
+_LLM = get_llm()
+_ELIG = get_eligibility()
 logger = logging.getLogger(__name__)
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 CACHE_DIR = os.path.join(HERE, "..", "data", "eligibility_cache")
 DEEPSEEK_KEY = os.getenv("DEEPSEEK_API_KEY", "").strip()
-DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
-MODEL = "deepseek-chat"
-BATCH_SIZE = 40
+DEEPSEEK_URL = _LLM.deepseek_url
+MODEL = _LLM.deepseek_model
+BATCH_SIZE = _ELIG.batch_size
 
 PROMPT = """You screen roles for a youth career-readiness program. Candidates are about 16-20 years old
 (high-schoolers and recent grads). For each numbered item decide if it is ELIGIBLE for them.
@@ -52,6 +56,7 @@ def _save_batch(batch: dict[str, dict]) -> None:
         json.dump(batch, f, indent=2)
 
 
+@retry(max_attempts=3, delay=1.0, backoff=2.0)
 def _call_llm(items: list[tuple[int, str, str]]) -> dict[int, dict]:
     """Call DeepSeek to judge eligibility for a batch of job titles."""
     numbered = "\n".join(f"{i}. {title} @ {company}" for i, title, company in items)

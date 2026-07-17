@@ -7,31 +7,9 @@ from recommender.llm.cache import _jsonable
 from recommender.llm._validation import _as_list, _as_text_list, _clamp_confidence
 
 
-_ALLOWED_DOMAINS = {
-    "technology",
-    "healthcare",
-    "education",
-    "finance",
-    "sales",
-    "food-service",
-    "skilled-trade",
-    "design",
-    "marketing",
-    "ops",
-    "legal",
-    "arts-media",
-    "administrative",
-    "logistics",
-    "hospitality",
-    "manufacturing",
-    "agriculture",
-    "science",
-    "social-service",
-    "personal-care",
-    "protective-service",
-    "building-grounds",
-    "support",
-}
+from recommender.config import get_llm
+_CFG = get_llm()
+_ALLOWED_DOMAINS = set(_CFG.allowed_domains)
 
 
 class RouteIntentJudge:
@@ -64,7 +42,12 @@ class RouteIntentJudge:
             '}\n'
             "Provide at least 2 evidence_spans with exact sentences from the input. "
             "CLASSIFICATION RULES (in priority order):\n"
-            "1. If the student has explicit career goals, prioritize those over past experience.\n"
+            "1. If the student has explicit career goals AND those goals are supported by "
+            "at least some work experience, education/coursework, or relevant skills, "
+            "prioritize the goals. If goals contradict ALL available evidence (no matching "
+            "skills, no relevant coursework, no experience in that domain), keep BOTH the "
+            "goal function AND the evidence-supported function as candidates — do not "
+            "override the classifier just because the student stated a preference.\n"
             "2. If NO explicit goals: use demonstrated professional experience as the primary signal.\n"
             "3. Education/major is secondary — steer but don't override strong professional credentials.\n"
             "4. Part-time student jobs (waiter, retail) are supporting evidence, not primary direction.\n"

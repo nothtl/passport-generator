@@ -1,0 +1,1189 @@
+# SpeakHire Recommender — Central Configuration
+# All previously hardcoded values live here now.
+# Edit this file instead of touching Python source.
+
+# ── Pipeline Tuning ───────────────────────────────────────────────
+pipeline:
+  confidence_boost: 35
+  fit_boost: 25
+  fit_ready_boost: 5
+  fit_aspire_penalty: 5
+  route_low_conf: 30
+  route_top_gap: 12
+  route_intent_min: 0.45
+  evidence_skill_max: 50
+  evidence_junk_ratio: 0.08
+  evidence_market_overlap: 0.30
+  sparse_skill_threshold: 30
+  narrow_pools: ["legal", "engineering", "science", "agriculture", "personal-care"]
+  valid_fallbacks: ["support", "administrative", "education", "social-service"]
+  noise_functions: ["arts-media", "hospitality", "sales", "ops", "support", "finance"]
+  caregiving_functions: ["education", "healthcare", "social-service", "other", "hospitality"]
+  xf_boost: 15
+
+# ── Function Taxonomy ─────────────────────────────────────────────
+functions:
+  all:
+    - technology
+    - healthcare
+    - education
+    - finance
+    - sales
+    - arts-media
+    - design
+    - social-service
+    - ops
+    - support
+    - administrative
+    - legal
+    - engineering
+    - science
+    - food-service
+    - hospitality
+    - protective-service
+    - personal-care
+    - skilled-trades
+    - agriculture
+    - transportation
+    - construction
+    - business
+  fallback_map:
+    arts-media: design
+    agriculture: other
+    building-grounds: other
+    personal-care: other
+    protective-service: security
+    science: technology
+    social-service: education
+    administrative: ops
+    food-service: other
+    hospitality: other
+    logistics: ops
+    manufacturing: ops
+  subset_map:
+    technology: engineering
+    social-service: education
+    arts-media: design
+    agriculture: other
+    building-grounds: other
+    personal-care: other
+    science: research
+    food-service: other
+    administrative: ops
+    logistics: ops
+    manufacturing: ops
+    hospitality: other
+    protective-service: security
+    security: security
+    retail: sales
+    design: design
+    education: education
+    healthcare: healthcare
+    finance: finance
+    ops: ops
+    support: support
+    legal: legal
+  secondary_labels:
+    arts-media: [marketing]
+    social-service: [healthcare, other]
+    food-service: [ops]
+    hospitality: [ops]
+    personal-care: [healthcare]
+    retail: [ops, support]
+    technology: [data, product]
+  onet_only: [protective-service]
+
+# ── Resume Analysis ────────────────────────────────────────────────
+resume:
+  junk_skills:
+    - "and on"
+    - "at a"
+    - can
+    - gmail
+    - home
+    - http
+    - https
+    - "i am"
+    - "is a"
+    - linkedin
+    - local
+    - make
+    - mar
+    - part
+    - pdf
+    - phone
+    - present
+    - "united states"
+  tech_keywords:
+    - software
+    - developer
+    - engineer
+    - engineering
+    - programming
+    - python
+    - java
+    - react
+    - aws
+    - cloud
+    - devops
+    - system
+    - hardware
+    - firmware
+    - embedded
+    - "full stack"
+    - frontend
+    - backend
+    - "machine learning"
+    - "data science"
+    - network
+    - computer
+    - database
+    - server
+    - linux
+    - automation
+  admin_keywords:
+    - "project coordination"
+    - "record management"
+    - scheduling
+    - "client communication"
+    - administrative
+    - "front desk"
+    - "data entry"
+    - filing
+    - office
+    - reception
+  blocked_titles:
+    - physician
+    - doctor
+    - surgeon
+    - dvm
+    - vmd
+    - "licensed practical nurse"
+    - "registered nurse"
+    - "nurse practitioner"
+    - director
+    - principal
+    - manager
+  seniority_patterns: [senior]
+  senior_filter:
+    - manager
+    - director
+    - principal
+    - senior
+    - "lead "
+    - "chief "
+    - attorney
+    - counsel
+    - reporter
+    - editor
+    - "general application"
+    - "account executive"
+    - "vp "
+    - "vice president"
+  tech_blocklist:
+    - "delivery driver"
+    - warehouse
+    - truck
+    - "box truck"
+    - "non-cdl"
+    - cdl
+    - forklift
+    - "amazon delivery"
+    - "package handler"
+
+# ── Skill Extraction ──────────────────────────────────────────────
+skill_extraction:
+  stop_skills:
+    - activities
+    - activity
+    - admission
+    - andon
+    - adult
+    - assistance
+    - assisting
+    - ata
+    - children
+    - cleaning
+    - decisionmaking
+    - education
+    - eligibility
+    - english
+    - events
+    - examination
+    - flu
+    - gmail
+    - hospital
+    - http
+    - https
+    - iam
+    - intern
+    - inventory
+    - isa
+    - kitchen
+    - learning
+    - linkedin
+    - medical
+    - patient
+    - patients
+    - pdf
+    - phone
+    - planning
+    - positions
+    - preparation
+    - professionalism
+    - research
+    - resume
+    - resumepdf
+    - screening
+    - shopping
+    - student
+    - students
+    - support
+    - training
+    - url
+    - website
+    - websites
+    - vaccination
+    - volunteer
+    - word
+  implicit_rules:
+    python: [fastapi, pytorch, ros2, yolo, pandas, numpy]
+    "cloud deployment": ["azure functions", "aws lambda", "cloud run"]
+    caregiving: ["activities of daily living", "home health aide", "patient care"]
+  synonyms:
+    js: javascript
+    ts: typescript
+    py: python
+    rb: ruby
+    golang: go
+    cplusplus: "c++"
+    csharp: "c#"
+    reactjs: react
+    "react.js": react
+    vuejs: vue
+    "vue.js": vue
+    angularjs: angular
+    nodejs: node.js
+    node: node.js
+    nextjs: next.js
+    nuxtjs: nuxt.js
+    expressjs: express
+    fastapi: "fast api"
+    springboot: "spring boot"
+    tailwindcss: "tailwind css"
+    aws: "amazon web services"
+    gcp: "google cloud platform"
+    azurefunctions: "azure functions"
+    cosmosdb: "cosmos db"
+    k8s: kubernetes
+    "ci/cd": "continuous integration"
+    cicd: "continuous integration"
+    ml: "machine learning"
+    dl: "deep learning"
+    ai: "artificial intelligence"
+    nlp: "natural language processing"
+    cv: "computer vision"
+    llm: "large language model"
+    llms: "large language models"
+    genai: "generative ai"
+    etl: "extract transform load"
+    db: database
+    sql: "structured query language"
+    nosql: "no sql"
+    ps: photoshop
+    ai2: illustrator
+    figma: figma
+    pm: "project management"
+    qa: "quality assurance"
+    ux: "user experience"
+    ui: "user interface"
+    crm: "customer relationship management"
+    erp: "enterprise resource planning"
+    seo: "search engine optimization"
+    sem: "search engine marketing"
+    api: "application programming interface"
+    restapi: "rest api"
+    restfulapi: "rest api"
+    saas: "software as a service"
+    paas: "platform as a service"
+    git: "version control"
+    html5: html
+    css3: css
+
+# ── Student Intent ─────────────────────────────────────────────────
+student_intent:
+  domain_keywords:
+    education:
+      - education
+      - teacher
+      - teaching
+      - tutor
+      - tutoring
+      - school
+      - student
+      - students
+      - classroom
+      - learning
+      - mentor
+      - mentoring
+      - youth
+      - "after school"
+      - instruction
+      - instructor
+      - teaches
+    healthcare:
+      - health
+      - healthcare
+      - medical
+      - medicine
+      - patient
+      - clinical
+      - hospital
+      - nursing
+      - nurse
+      - physician
+      - care
+      - "home health"
+      - "case management"
+      - "public health"
+      - "medical school"
+      - biology
+    technology:
+      - software
+      - developer
+      - engineering
+      - engineer
+      - computer
+      - tech
+      - programming
+      - python
+      - data
+      - ai
+      - "machine learning"
+      - robotics
+      - arduino
+      - coding
+    design:
+      - design
+      - graphic
+      - photoshop
+      - illustrator
+      - creative
+      - visual
+      - designer
+      - portfolio
+    social-service:
+      - community
+      - outreach
+      - "social work"
+      - counseling
+      - advocacy
+      - "youth development"
+      - "peer support"
+      - volunteer
+      - service
+    finance:
+      - finance
+      - accounting
+      - financial
+      - budget
+      - bookkeeping
+    sales:
+      - sales
+      - "business development"
+      - "customer success"
+      - client
+    protective-service:
+      - security
+      - "law enforcement"
+      - police
+      - firefighter
+      - guard
+      - safety
+      - surveillance
+      - patrol
+      - protection
+      - emergency
+      - "security license"
+      - "loss prevention"
+      - "access control"
+      - military
+      - "first responder"
+      - emt
+      - paramedic
+      - corrections
+  major_to_function:
+    psychology: healthcare
+    biology: healthcare
+    neuroscience: healthcare
+    history: education
+    "american studies": education
+    "political science": education
+    sociology: social-service
+    "social work": social-service
+    "criminal justice": social-service
+    criminology: legal
+    english: arts-media
+    communications: arts-media
+    journalism: arts-media
+    "computer science": technology
+    engineering: technology
+    business: finance
+    accounting: finance
+    economics: finance
+    nursing: healthcare
+    "pre-med": healthcare
+    "public health": healthcare
+    education: education
+    teaching: education
+    "graphic design": design
+    "fine arts": arts-media
+    art: arts-media
+    marketing: marketing
+  role_keywords:
+    - teacher
+    - tutor
+    - mentor
+    - nurse
+    - physician
+    - engineer
+    - developer
+    - designer
+    - researcher
+    - assistant
+    - intern
+
+# ── Cross-Function Exploration ────────────────────────────────────
+cross_function:
+  skill_hints:
+    bilingual: [healthcare, social-service, education]
+    spanish: [healthcare, social-service, education]
+    childcare: [healthcare, education, social-service]
+    babysitting: [healthcare, education]
+    cpr: [healthcare, education, protective-service]
+    firstaid: [healthcare, protective-service]
+    patientcare: [healthcare]
+    caregiving: [healthcare, social-service]
+    elderlycare: [healthcare]
+    nursing: [healthcare]
+    mentoring: [education, social-service, healthcare]
+    tutoring: [education, social-service]
+    communityoutreach: [social-service, healthcare, education]
+    nonprofit: [social-service, education]
+    youth: [education, social-service]
+    photography: [arts-media]
+    videoediting: [arts-media]
+    contentcreation: [arts-media, sales]
+    socialmedia: [arts-media, sales]
+    graphicdesign: [design, arts-media]
+    adobe: [design, arts-media]
+    photoshop: [design, arts-media]
+  caregiving_signals:
+    children: [childcare, nanny, babysitting, infant, toddler, preschool, daycare]
+    student: [tutor, mentor, aide, assistant, classroom]
+    bilingual: [spanish, translator, interpreter, esl, "dual language"]
+    community: [outreach, volunteer, nonprofit, "social services", peer]
+    family: [caregiver, "home health", companion, respite, hospice]
+    mentor: [youth, counselor, coach, advisor, teen]
+    outreach: [advocate, "support specialist", "case manager", navigator]
+  sitter_keywords:
+    - babysitter
+    - babysitting
+    - nanny
+    - nannies
+    - sitter
+    - "child care provider"
+  care_keywords:
+    - daycare
+    - infant
+    - toddler
+    - preschool
+    - "early childhood"
+    - caregiver
+    - "child care"
+  function_terms:
+    healthcare: [clinical, patient, nursing, medical, care, health]
+    social-service: [counseling, social, community, peer, youth, case]
+    education: [teaching, classroom, curriculum, tutoring, instruct]
+    arts-media: [design, editing, video, photo, media, content, creative]
+    technology: [programming, coding, software, developer, python, java]
+    sales: [sales, retail, customer, merchandising]
+    finance: [accounting, financial, bookkeeping, payroll, audit]
+    ops: [logistics, inventory, warehouse, supply, dispatch]
+    support: [helpdesk, troubleshoot, ticket, support, assist]
+    hospitality: [restaurant, hotel, guest, tourism, culinary]
+    design: [graphic, ui, ux, illustrator, typography, branding]
+
+# ── Function Keyword Filters (for subset retrieval) ──────────────
+function_keywords:
+  protective-service:
+    - "security guard"
+    - "security officer"
+    - "loss prevention"
+    - patrol
+    - surveillance
+    - "asset protection"
+    - doorperson
+    - "front desk monitor"
+    - "store detective"
+  it-support:
+    - "help desk"
+    - "technical support"
+    - "it support"
+    - "desktop support"
+    - "network support"
+    - "systems administrator"
+    - "it technician"
+    - "tech support"
+    - "support engineer"
+    - "support technician"
+  social-service:
+    - youth
+    - community
+    - outreach
+    - "social work"
+    - "case management"
+    - "peer support"
+    - nonprofit
+    - "non-profit"
+    - advocacy
+    - counseling
+    - americorps
+    - "volunteer coordinator"
+  technology:
+    - software
+    - developer
+    - engineer
+    - data
+    - systems
+    - network
+    - cloud
+    - devops
+    - "full stack"
+    - frontend
+    - backend
+    - python
+    - java
+    - react
+    - aws
+    - "machine learning"
+    - ai
+    - embedded
+  arts-media:
+    - "graphic design"
+    - photographer
+    - videographer
+    - "video editor"
+    - "content creator"
+    - "social media"
+    - illustrator
+    - photo
+    - creative
+    - visual
+    - designer
+  stream_functions:
+    - protective-service
+    - social-service
+    - arts-media
+    - legal
+
+# ── Subdomain Taxonomy ────────────────────────────────────────────
+subdomains:
+  aliases:
+    arts-media: design
+  defaults:
+    education: classroom-support
+    healthcare: clinical-support
+    technology: software
+    design: graphic-design
+    social-service: community-support
+  domain_expansions:
+    education: [teacher, tutor, student, school, classroom, youth, mentor]
+    healthcare: [health, medical, patient, clinical, care, hospital]
+    technology: [software, engineer, developer, data, technical]
+    social-service: [community, outreach, peer, youth, "case management"]
+    design: [design, graphic, creative, visual]
+  taxonomy:
+    education:
+      classroom-support:
+        - classroom
+        - "teacher assistant"
+        - "teaching assistant"
+        - lesson
+        - instruction
+        - school
+        - education
+        - "childhood education"
+      youth-programs:
+        - "after school"
+        - "after-school"
+        - "youth program"
+        - "camp counselor"
+        - mentor
+        - mentoring
+        - "student support"
+        - "youth development"
+      tutoring:
+        - tutor
+        - tutoring
+        - "peer tutor"
+        - "academic support"
+      higher-ed-support:
+        - college
+        - university
+        - "student affairs"
+        - campus
+        - "higher education"
+        - admissions
+      community-education:
+        - "community education"
+        - workshop
+        - facilitator
+        - "adult learning"
+        - "community outreach"
+    healthcare:
+      clinical-support:
+        - "medical assistant"
+        - "home health"
+        - "patient care"
+        - clinical
+        - patient
+        - hospital
+        - clinic
+        - intake
+        - caregiver
+      public-health:
+        - "public health"
+        - "community health"
+        - "health education"
+        - wellness
+        - prevention
+        - outreach
+      health-admin:
+        - "health administration"
+        - scheduling
+        - billing
+        - records
+        - "front desk"
+        - reception
+      research:
+        - research
+        - laboratory
+        - lab
+        - "clinical research"
+        - "data collection"
+        - "study coordinator"
+      pre-med-shadowing:
+        - "pre med"
+        - premed
+        - shadowing
+        - "medical school"
+        - physician
+        - doctor
+    technology:
+      it-support:
+        - "technical support"
+        - "it support"
+        - "help desk"
+        - troubleshoot
+        - hardware
+        - "software issues"
+        - "desktop support"
+        - "user support"
+      software:
+        - software
+        - developer
+        - api
+        - backend
+        - frontend
+        - "full stack"
+        - "web app"
+        - react
+        - fastapi
+      systems:
+        - systems
+        - network
+        - infrastructure
+        - cloud
+        - aws
+        - linux
+        - server
+        - devops
+      engineering:
+        - engineer
+        - engineering
+        - mechanical
+        - electrical
+        - cad
+        - embedded
+        - firmware
+      robotics-manufacturing:
+        - robotics
+        - automation
+        - manufacturing
+        - arduino
+        - mechatronics
+        - plc
+        - cnc
+    design:
+      graphic-design:
+        - "graphic design"
+        - illustrator
+        - photoshop
+        - branding
+        - layout
+        - poster
+        - "visual design"
+      photo-video:
+        - photography
+        - videography
+        - "video editing"
+        - lightroom
+        - premiere
+      content-creation:
+        - "content creator"
+        - "social media"
+        - copywriting
+        - ugc
+        - creator
+      creative-education:
+        - "art teacher"
+        - "arts education"
+        - "creative workshop"
+        - "youth arts"
+      marketing-creative:
+        - marketing
+        - campaign
+        - "brand strategy"
+        - "digital marketing"
+        - "social media marketing"
+    social-service:
+      youth-support:
+        - "youth support"
+        - "peer support"
+        - "student support"
+        - "case management"
+        - mentor
+        - counseling
+      community-support:
+        - "community outreach"
+        - advocacy
+        - "social work"
+        - "community support"
+        - outreach
+
+# ── Ensemble Matcher ──────────────────────────────────────────────
+ensemble:
+  default_weights:
+    classifier: 0.50
+    onet: 0.15
+    embeddings: 0.35
+  intent_weights:
+    aspiration: 0.25
+    study: 0.15
+    classifier: 0.25
+    onet: 0.10
+    embeddings: 0.15
+    experience: 0.10
+  study_boost:
+    classifier_threshold: 0.30
+    study_threshold: 0.50
+    boost: 0.20
+  stops:
+    - the
+    - a
+    - an
+    - is
+    - are
+    - was
+    - were
+    - be
+    - been
+    - being
+    - have
+    - has
+    - had
+    - do
+    - does
+    - did
+    - will
+    - would
+    - could
+    - should
+    - may
+    - might
+    - can
+    - shall
+    - to
+    - of
+    - in
+    - for
+    - on
+    - with
+    - at
+    - by
+    - from
+    - as
+    - into
+    - through
+    - during
+    - before
+    - after
+    - above
+    - below
+    - between
+    - and
+    - or
+    - not
+    - that
+    - this
+    - these
+    - those
+    - it
+    - its
+    - they
+    - them
+    - their
+    - he
+    - she
+    - his
+    - her
+    - who
+    - whom
+    - which
+    - what
+    - when
+    - where
+    - how
+    - all
+    - each
+    - every
+    - both
+    - few
+    - more
+    - most
+    - other
+    - some
+    - such
+    - no
+    - only
+    - own
+    - same
+    - so
+    - than
+    - too
+    - very
+    - just
+    - also
+    - if
+    - then
+    - else
+    - about
+    - up
+    - out
+    - over
+    - under
+    - again
+    - further
+    - once
+    - here
+    - there
+    - activities
+    - work
+    - use
+    - using
+    - equipment
+    - information
+    - develop
+    - prepare
+    - provide
+    - materials
+    - determine
+    - ensure
+    - evaluate
+    - maintain
+    - programs
+    - procedures
+    - perform
+    - reports
+    - conduct
+    - research
+    - control
+    - plan
+    - test
+    - monitor
+    - direct
+    - review
+    - plans
+    - tools
+    - required
+    - including
+    - related
+    - knowledge
+    - principles
+    - techniques
+    - methods
+    - needs
+    - appropriate
+    - necessary
+    - standards
+    - results
+    - processes
+    - services
+    - records
+    - record
+    - supervise
+    - inspect
+    - specifications
+    - clean
+    - coordinate
+    - identify
+    - quality
+    - customer
+  occ_to_func:
+    "\\bSoftware\\b": technology
+    "\\bDeveloper": technology
+    "\\bEngineer(?!$)": technology
+    "\\bComputer\\b": technology
+    "\\bProgrammer": technology
+    "\\bIT\\b": technology
+    "\\bNetwork": technology
+    "\\bDatabase": technology
+    "\\bMarketing\\b": marketing
+    "\\bSales\\b": sales
+    "\\bTeacher": education
+    "\\bInstructor": education
+    "\\bEducation": education
+    "\\bProfessor": education
+    "\\bSchool\\b": education
+    "\\bLibrarian": education
+    "\\bNurse": healthcare
+    "\\bMedical\\b": healthcare
+    "\\bHealth\\b": healthcare
+    "\\bClinical\\b": healthcare
+    "\\bPhysician": healthcare
+    "\\bTherapist": healthcare
+    "\\bDental\\b": healthcare
+    "\\bPharmacy": healthcare
+    "\\bDesigner": design
+    "\\bDesign\\b": design
+    "\\bGraphic\\b": design
+    "\\bArtist": design
+    "\\bClerk": administrative
+    "\\bReceptionist": administrative
+    "\\bSecretar": administrative
+    "\\bOffice\\b": administrative
+    "\\bAccountant": finance
+    "\\bFinancial\\b": finance
+    "\\bAuditor": finance
+    "\\bBudget": finance
+    "\\bChef\\b": food-service
+    "\\bCook(?!ing)": food-service
+    "\\bRestaurant\\b": food-service
+    "\\bKitchen\\b": food-service
+    "\\bFood\\b": food-service
+    "\\bBarista": food-service
+    "\\bBartender": food-service
+    "\\bWait": food-service
+    "\\bConstruction\\b": skilled-trade
+    "\\bElectrician": skilled-trade
+    "\\bPlumber": skilled-trade
+    "\\bCarpenter": skilled-trade
+    "\\bWelder": skilled-trade
+    "\\bMechanic": skilled-trade
+    "\\bDriver\\b": logistics
+    "\\bTruck\\b": logistics
+    "\\bWarehouse\\b": logistics
+    "\\bDelivery\\b": logistics
+    "\\bManufacturing\\b": manufacturing
+    "\\bProduction\\b": manufacturing
+    "\\bAssembly\\b": manufacturing
+    "\\bHotel\\b": hospitality
+    "\\bHospitality\\b": hospitality
+    "\\bLodging": hospitality
+    "\\bLawyer": legal
+    "\\bAttorney": legal
+    "\\bParalegal": legal
+    "\\bLegal\\b": legal
+    "\\bCourt\\b": legal
+    "\\bPolice\\b": protective-service
+    "\\bFirefighter": protective-service
+    "\\bSecurity\\b": protective-service
+    "\\bGuard\\b": protective-service
+    "\\bWriter": arts-media
+    "\\bJournalist": arts-media
+    "\\bEditor\\b": arts-media
+    "\\bActor": arts-media
+    "\\bMusician": arts-media
+    "\\bPhotographer": arts-media
+    "\\bMedia\\b": arts-media
+    "\\bBroadcast": arts-media
+    "\\bJanitor": building-grounds
+    "\\bCleaner": building-grounds
+    "\\bMaid": building-grounds
+    "\\bLandscap": building-grounds
+    "\\bHairdresser": personal-care
+    "\\bCosmetolog": personal-care
+    "\\bBarber": personal-care
+    "\\bFarm": agriculture
+    "\\bAgricultur": agriculture
+    "\\bScientist": science
+    "\\bChemist": science
+    "\\bBiologist": science
+    "\\bLaboratory\\b": science
+    "\\bSocial Work": social-service
+    "\\bCounselor": social-service
+    "\\bManager": ops
+    "\\bSupervisor": ops
+    "\\bDirector\\b": ops
+    "\\bOperations\\b": ops
+    "\\bCustomer Service\\b": support
+    "\\bSupport\\b": support
+
+# ── Job Ranking ───────────────────────────────────────────────────
+ranking:
+  weights:
+    skill_overlap: 0.30
+    function_match: 0.20
+    goal_alignment: 0.15
+    study_alignment: 0.10
+    subdomain_alignment: 0.10
+    experience_alignment: 0.05
+    attainability: 0.10
+  adjacent_functions:
+    - [engineering, data]
+    - [engineering, product]
+    - [education, social-service]
+    - [healthcare, social-service]
+    - [design, marketing]
+    - [support, engineering]
+
+# ── LLM Configuration ─────────────────────────────────────────────
+llm:
+  allowed_domains:
+    - technology
+    - healthcare
+    - education
+    - finance
+    - sales
+    - food-service
+    - skilled-trade
+    - design
+    - marketing
+    - ops
+    - legal
+    - arts-media
+    - administrative
+    - logistics
+    - hospitality
+    - manufacturing
+    - agriculture
+    - science
+    - social-service
+    - personal-care
+    - protective-service
+    - building-grounds
+    - support
+  defaults:
+    mode: hybrid
+    provider: openrouter
+    route_model: openrouter/free
+    evidence_model: openrouter/free
+    jobs_model: openrouter/free
+    max_calls: 3
+  openrouter_url: "https://openrouter.ai/api/v1/chat/completions"
+  deepseek_url: "https://api.deepseek.com/v1/chat/completions"
+  deepseek_model: deepseek-chat
+  openrouter_timeout: 45
+  deepseek_timeout: 60
+  eligibility_timeout: 30
+
+# ── Eligibility Screening ─────────────────────────────────────────
+eligibility:
+  batch_size: 40
+  age_range: [16, 20]
+
+# ── Student Lifecycle (NEW — Phase 1b) ────────────────────────────
+student_lifecycle:
+  stages:
+    high_school:
+      label: "High School Student"
+      recommended: internships
+      aspirational: entry_level
+    college_freshman:
+      label: "College Freshman"
+      recommended: internships
+      aspirational: entry_level
+    college_senior:
+      label: "College Senior"
+      recommended: [internships, entry_level]
+      aspirational: mid_level
+  level_filter:
+    intern: [intern, Intern, internship, Internship]
+    entry: [entry, Entry, junior, Junior]
+    mid: [mid, Mid, associate, Associate]
+    senior: [senior, Senior, staff, Staff]
+  study_level_mapping:
+    high-school: high_school
+    certificate: college_freshman
+    associate: college_senior
+    bachelor: college_senior
+    master: college_senior
+    doctoral: college_senior
+
+# ── College Recommendation (NEW — Phase 1c) ───────────────────────
+college:
+  scorecard_api:
+    base_url: "https://api.data.gov/ed/collegescorecard/v1/schools"
+    per_page: 100
+    fields:
+      - id
+      - school.name
+      - school.city
+      - school.state
+      - school.school_url
+      - latest.admissions.admission_rate.overall
+      - latest.cost.attendance.academic_year
+      - latest.cost.tuition.in_state
+      - latest.cost.tuition.out_of_state
+      - latest.earnings.10_yrs_after_entry.median
+      - latest.completion.completion_rate_4yr_150nt
+      - latest.student.size
+      - latest.programs.cip_4_digit
+      - school.degrees_awarded.predominant
+      - school.carnegie_size_setting
+  tiers:
+    reach:
+      admission_pct_max: 0.25
+    match:
+      admission_pct_min: 0.25
+      admission_pct_max: 0.60
+    safety:
+      admission_pct_min: 0.60
+  cip_to_function:
+    "11": technology
+    "14": engineering
+    "26": science
+    "27": science
+    "51": healthcare
+    "13": education
+    "44": social-service
+    "50": arts-media
+    "52": finance
+    "09": arts-media
+    "45": social-service
+    "42": social-service
+    "03": agriculture
+    "04": design
+    "54": history
+    "16": linguistics
+    "23": arts-media
+  ranker:
+    weights:
+      program_fit: 0.35
+      cost_fit: 0.20
+      admission_fit: 0.20
+      outcome_fit: 0.25
+    max_cost: 60000
+    min_earnings: 25000
+    max_earnings: 90000

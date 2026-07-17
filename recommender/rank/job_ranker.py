@@ -1,18 +1,68 @@
 from __future__ import annotations
 
 import math
+import os
 import re
 from collections import Counter
 
 from recommender.match.subdomains import canonical_domain, score_subdomains
+from recommender.config import get_ranking, get_subdomains
+from recommender.retrieve.retriever import _SUBSET_FUNCTION_MAP
 
-_DOMAIN_EXPANSIONS = {
-    "education": ["teacher", "tutor", "student", "school", "classroom", "youth", "mentor"],
-    "healthcare": ["health", "medical", "patient", "clinical", "care", "hospital"],
-    "technology": ["software", "engineer", "developer", "data", "technical"],
-    "social-service": ["community", "outreach", "peer", "youth", "case management"],
-    "design": ["design", "graphic", "creative", "visual"],
-}
+# ── Embedding similarity (cached sentence-transformer) ──────────────
+_CFG_RANK = get_ranking()
+_SUB = get_subdomains()
+_embedder = None
+
+
+def _get_embedder():
+    global _embedder
+    if _embedder is None:
+        if os.getenv("RECOMMENDER_DISABLE_EMBEDDINGS", "").strip() == "1":
+            return None
+        try:
+            from sentence_transformers import SentenceTransformer
+            _embedder = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")
+        except Exception:
+            return None
+    return _embedder
+
+
+_resume_vec_cache: dict[int, object] = {}
+
+
+def _batch_embedding_similarity(job_texts: list[str], resume_text: str) -> list[float]:
+    """Batch-encode all jobs at once for speed. Returns list of [0,1] scores."""
+    embedder = _get_embedder()
+    if embedder is None or not resume_text or not job_texts:
+        return [0.0] * len(job_texts)
+    try:
+        import numpy as np
+        resume_key = hash(resume_text[:500])
+        if resume_key not in _resume_vec_cache:
+            _resume_vec_cache.clear()
+            _resume_vec_cache[resume_key] = embedder.encode(
+                [resume_text[:3000]], convert_to_numpy=True, show_progress_bar=False)[0]
+        resume_vec = _resume_vec_cache[resume_key]
+
+        truncated = [t[:2000] for t in job_texts]
+        job_vecs = embedder.encode(truncated, convert_to_numpy=True, show_progress_bar=False)
+
+        scores = []
+        for job_vec in job_vecs:
+            dot = float(job_vec.dot(resume_vec))
+            norm = float(job_vec.dot(job_vec) ** 0.5 * resume_vec.dot(resume_vec) ** 0.5)
+            if norm == 0:
+                scores.append(0.0)
+            else:
+                sim = dot / norm
+                scores.append(max(0.0, min(1.0, (sim + 0.3) / 1.3)))
+        return scores
+    except Exception:
+        return [0.0] * len(job_texts)
+
+
+_DOMAIN_EXPANSIONS: dict = dict(_SUB.domain_expansions)
 
 
 def _normalize(text: str) -> str:
@@ -58,6 +108,32 @@ def _skill_overlap(job_skills: list[str], extracted_skills: list[str]) -> float:
     extracted_norm = {_normalize(skill) for skill in extracted_skills}
     overlap = len(job_norm & extracted_norm)
     return overlap / max(1, len(job_norm))
+
+
+def _function_match(job_function: str, candidate_function: str) -> float:
+    """Check if job function matches the candidate function, using synonym mapping.
+
+    The parquet uses different labels than our pipeline (e.g., "engineering" vs "technology").
+    We normalize both to the parquet vocabulary before comparing.
+    Returns 1.0 for exact match, 0.5 for adjacent, 0.0 for mismatch.
+    """
+    if not job_function or not candidate_function:
+        return 0.5  # neutral when unknown
+
+    # Normalize both to parquet vocabulary
+    job_norm = _SUBSET_FUNCTION_MAP.get(job_function.lower(), job_function.lower())
+    cand_norm = _SUBSET_FUNCTION_MAP.get(candidate_function.lower(), candidate_function.lower())
+
+    if job_norm == cand_norm:
+        return 1.0
+
+    # Adjacent functions that share career paths
+    _ADJACENT = {frozenset(pair) for pair in _CFG_RANK.adjacent_functions}
+    pair = frozenset({job_norm, cand_norm})
+    if pair in _ADJACENT:
+        return 0.5
+
+    return 0.0
 
 
 def _attainability(job: dict, extracted_skills: list[str]) -> tuple[float, list[str]]:
@@ -144,35 +220,22 @@ def rank_jobs(
             _skill_overlap(job.get("skills", []), experience_skills),
         )
         skill_overlap = _skill_overlap(job.get("skills", []), extracted_skills)
+        function_match = _function_match(job.get("function", ""), chosen_function)
         attainability, attainability_reasons = _attainability(job, extracted_skills)
         quality_penalty = float(job.get("_quality_penalty", 0.0))
 
-        if lane == "rescue":
-            weights = {
-                "goal_alignment": 0.30,
-                "study_alignment": 0.20,
-                "subdomain_alignment": 0.20,
-                "experience_alignment": 0.15,
-                "attainability": 0.10,
-                "skill_overlap": 0.05,
-            }
-        else:
-            weights = {
-                "goal_alignment": 0.30,
-                "study_alignment": 0.20,
-                "subdomain_alignment": 0.20,
-                "experience_alignment": 0.15,
-                "attainability": 0.10,
-                "skill_overlap": 0.05,
-            }
+        # Weights: skill_overlap and function_match are the strongest signals.
+                # goal/study alignment are secondary (they help when skills are sparse).
+        weights = dict(_CFG_RANK.weights)
 
         fit = (
-            weights["goal_alignment"] * goal_alignment
+            weights["skill_overlap"] * skill_overlap
+            + weights["function_match"] * function_match
+            + weights["goal_alignment"] * goal_alignment
             + weights["study_alignment"] * study_alignment
             + weights["subdomain_alignment"] * subdomain_alignment
             + weights["experience_alignment"] * experience_alignment
             + weights["attainability"] * attainability
-            + weights["skill_overlap"] * skill_overlap
             - quality_penalty
         )
         fit = max(0.0, min(1.0, fit))
@@ -183,12 +246,13 @@ def rank_jobs(
         if sub_scores:
             enriched["subdomain"] = max(sub_scores.items(), key=lambda item: item[1])[0]
         enriched["job_score_breakdown"] = {
+            "skill_overlap": round(skill_overlap, 3),
+            "function_match": round(function_match, 3),
             "goal_alignment": round(goal_alignment, 3),
             "study_alignment": round(study_alignment, 3),
             "subdomain_alignment": round(subdomain_alignment, 3),
             "experience_alignment": round(experience_alignment, 3),
             "attainability": round(attainability, 3),
-            "skill_overlap": round(skill_overlap, 3),
             "quality_penalty": round(quality_penalty, 3),
         }
         if attainability_reasons:

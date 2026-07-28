@@ -3,126 +3,10 @@
   "function": "healthcare",
   "confidence": 64,
   "skills": [
-    "Customer and Personal Service",
-    "Administrative",
-    "Monitoring",
-    "Coordination",
-    "Instructing",
-    "Time Management",
-    "Social Perceptiveness",
-    "Science",
-    "Biology",
-    "Critical Thinking",
-    "Writing",
-    "Reading Comprehension",
-    "Service Orientation",
-    "Administration and Management",
-    "advocacy",
-    "analysis",
-    "analytical",
-    "analytical thinking",
-    "behavior",
-    "biology",
-    "campus engagement",
-    "care",
-    "certified",
-    "chemistry",
-    "civic engagement",
-    "client advocacy",
-    "clinical",
-    "clinical care",
-    "clinical experience",
-    "collaborative",
-    "community based",
-    "community health",
-    "community service",
-    "conflict resolution",
-    "counselor",
-    "cpr",
-    "cpr aed",
-    "crisis de escalation",
-    "culture",
-    "data",
-    "data analysis",
-    "data collection",
-    "de escalation",
-    "design",
-    "documentation",
-    "driven",
-    "efficiency",
-    "engagement",
-    "engaging",
-    "epidemiology",
-    "experimental design",
-    "fellowship",
-    "food",
-    "food pantry",
-    "grant applications",
-    "health",
-    "healthcare",
-    "healthcare access",
-    "healthcare system"
+    "aed"
   ],
   "verified_skills": [
-    "Customer and Personal Service",
-    "Administrative",
-    "Monitoring",
-    "Coordination",
-    "Instructing",
-    "Time Management",
-    "Social Perceptiveness",
-    "Science",
-    "Biology",
-    "Critical Thinking",
-    "Writing",
-    "Reading Comprehension",
-    "Service Orientation",
-    "Administration and Management",
-    "advocacy",
-    "analysis",
-    "analytical",
-    "analytical thinking",
-    "behavior",
-    "biology",
-    "campus engagement",
-    "care",
-    "certified",
-    "chemistry",
-    "civic engagement",
-    "client advocacy",
-    "clinical",
-    "clinical care",
-    "clinical experience",
-    "collaborative",
-    "community based",
-    "community health",
-    "community service",
-    "conflict resolution",
-    "counselor",
-    "cpr",
-    "cpr aed",
-    "crisis de escalation",
-    "culture",
-    "data",
-    "data analysis",
-    "data collection",
-    "de escalation",
-    "design",
-    "documentation",
-    "driven",
-    "efficiency",
-    "engagement",
-    "engaging",
-    "epidemiology",
-    "experimental design",
-    "fellowship",
-    "food",
-    "food pantry",
-    "grant applications",
-    "health",
-    "healthcare",
-    "healthcare access",
-    "healthcare system"
+    "aed"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -131,490 +15,749 @@
     "administrative",
     "administrative support",
     "adult programs",
-    "aed",
+    "advocacy",
     "aide",
     "ambassador",
-    "applications",
-    "attendance",
-    "bachelor",
-    "census",
-    "clinical staff",
-    "collection",
-    "daily routines",
-    "distribution",
-    "economic",
-    "effects",
-    "equipment",
-    "escalation",
-    "gaps"
-  ],
-  "skill_weights": {},
-  "market_relevant": [
-    "Customer and Personal Service",
-    "Administrative",
-    "Monitoring",
-    "Coordination",
-    "Instructing",
-    "Time Management",
-    "Social Perceptiveness",
-    "Science",
-    "Biology",
-    "Critical Thinking",
-    "Writing",
-    "Reading Comprehension",
-    "Service Orientation",
-    "Administration and Management",
-    "advocacy",
     "analysis",
     "analytical",
     "analytical thinking",
-    "behavior",
-    "biology",
-    "campus engagement",
-    "care",
-    "certified",
-    "chemistry",
-    "civic engagement",
-    "client advocacy",
-    "clinical",
-    "clinical care",
-    "clinical experience",
-    "collaborative",
-    "community based",
-    "community health",
-    "community service",
-    "conflict resolution",
-    "counselor",
-    "cpr",
-    "cpr aed",
-    "crisis de escalation",
-    "culture",
-    "data",
-    "data analysis",
-    "data collection",
-    "de escalation",
-    "design",
-    "documentation",
-    "driven",
-    "efficiency",
-    "engagement",
-    "engaging",
-    "epidemiology",
-    "experimental design",
-    "fellowship",
-    "food",
-    "food pantry",
-    "grant applications",
-    "health",
-    "healthcare",
-    "healthcare access",
-    "healthcare system"
+    "applications",
+    "attendance",
+    "bachelor"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "aed"
   ],
   "inferred": [
-    "Patient Care",
-    "Teamwork",
-    "Problem Solving"
+    "CPR",
+    "first aid",
+    "emergency response"
   ],
   "implicit_skills": [
     {
-      "skill": "Patient Care",
-      "reason": "Clinical experience and healthcare context imply direct patient interaction.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "AED usage requires CPR knowledge",
+      "skill": "CPR"
     },
     {
-      "skill": "Teamwork",
-      "reason": "Collaborative and coordination skills indicate ability to work in teams.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "AED usage indicates first aid proficiency",
+      "skill": "first aid"
     },
     {
-      "skill": "Problem Solving",
-      "reason": "Critical thinking and analytical skills suggest problem-solving ability.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "AED usage indicates emergency response skills",
+      "skill": "emergency response"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "organization",
-    "relationship-building"
+    "bluebeam",
+    "microsoft-excel",
+    "ms-project",
+    "project-management",
+    "scheduling",
+    "smartsheet"
   ],
   "core_gaps": [
-    "organization",
-    "relationship-building"
+    "bluebeam",
+    "microsoft-excel",
+    "ms-project",
+    "project-management",
+    "scheduling",
+    "smartsheet"
   ],
-  "bridge_gaps": [],
-  "stretch_gaps": [
-    "appointment-scheduling",
-    "classical-education",
-    "client-navigation",
+  "bridge_gaps": [
+    "architectural-design",
+    "autodesk-construction-cloud",
+    "budget-tracking",
+    "cable-tray",
+    "change-orders",
+    "client-communication",
     "communication",
-    "community-based-interventions",
-    "community-referrals",
-    "crisis-intervention",
-    "cultural-sensitivity",
-    "customer-service",
-    "differentiated-instruction"
+    "conduit-and-raceway",
+    "construction-management",
+    "contract-management"
   ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
-    "appointment-scheduling",
-    "classical-education",
-    "client-navigation",
+    "architectural-design",
+    "autodesk-construction-cloud",
+    "budget-tracking",
+    "cable-tray",
+    "change-orders",
+    "client-communication",
     "communication",
-    "community-based-interventions",
-    "community-referrals",
-    "crisis-intervention",
-    "cultural-sensitivity",
-    "customer-service",
-    "differentiated-instruction"
+    "conduit-and-raceway",
+    "construction-management",
+    "contract-management"
   ],
-  "verify_gaps": [
-    "teamwork"
-  ],
+  "verify_gaps": [],
   "related": [
     {
-      "skill": "coagulation",
-      "pmi": 7.74
+      "skill": "idtcommunication",
+      "pmi": 5.25
     },
     {
-      "skill": "hematology",
-      "pmi": 7.22
+      "skill": "patientevaluation",
+      "pmi": 4.98
     },
     {
-      "skill": "bloodtesting",
-      "pmi": 6.98
+      "skill": "chemicaltesting",
+      "pmi": 4.69
     },
     {
-      "skill": "occupationalhealth",
-      "pmi": 6.66
+      "skill": "ivcertification",
+      "pmi": 4.07
     },
     {
-      "skill": "donoreligibility",
-      "pmi": 6.11
+      "skill": "airwaymanagement",
+      "pmi": 4.07
     },
     {
-      "skill": "urinalysis",
-      "pmi": 5.83
+      "skill": "lifeguard",
+      "pmi": 3.85
     },
     {
-      "skill": "clinicalintervention",
-      "pmi": 5.73
+      "skill": "cpt",
+      "pmi": 3.8
     },
     {
-      "skill": "informedconsent",
-      "pmi": 5.56
+      "skill": "outpatienttherapy",
+      "pmi": 3.38
     },
     {
-      "skill": "pos",
-      "pmi": 5.56
+      "skill": "certifications",
+      "pmi": 3.3
     },
     {
-      "skill": "housingfirst",
-      "pmi": 5.51
+      "skill": "groupfitness",
+      "pmi": 3.01
+    },
+    {
+      "skill": "o2",
+      "pmi": 4.08
+    },
+    {
+      "skill": "riskprevention",
+      "pmi": 4.08
+    },
+    {
+      "skill": "emergencyoxygen",
+      "pmi": 3.82
+    },
+    {
+      "skill": "lifeguarding",
+      "pmi": 2.84
+    },
+    {
+      "skill": "cpr",
+      "pmi": 2.83
+    },
+    {
+      "skill": "childabuseprevention",
+      "pmi": 2.74
+    },
+    {
+      "skill": "oxygenadministration",
+      "pmi": 2.69
+    },
+    {
+      "skill": "aquatics",
+      "pmi": 2.64
+    },
+    {
+      "skill": "firstaid",
+      "pmi": 2.44
+    },
+    {
+      "skill": "emergencyprocedures",
+      "pmi": 2.38
     }
   ],
   "related_skills": [
     {
-      "skill": "coagulation",
-      "pmi": 7.74
+      "skill": "idtcommunication",
+      "pmi": 5.25
     },
     {
-      "skill": "hematology",
-      "pmi": 7.22
+      "skill": "patientevaluation",
+      "pmi": 4.98
     },
     {
-      "skill": "bloodtesting",
-      "pmi": 6.98
+      "skill": "chemicaltesting",
+      "pmi": 4.69
     },
     {
-      "skill": "occupationalhealth",
-      "pmi": 6.66
+      "skill": "ivcertification",
+      "pmi": 4.07
     },
     {
-      "skill": "donoreligibility",
-      "pmi": 6.11
+      "skill": "airwaymanagement",
+      "pmi": 4.07
     },
     {
-      "skill": "urinalysis",
-      "pmi": 5.83
+      "skill": "lifeguard",
+      "pmi": 3.85
     },
     {
-      "skill": "clinicalintervention",
-      "pmi": 5.73
+      "skill": "cpt",
+      "pmi": 3.8
     },
     {
-      "skill": "informedconsent",
-      "pmi": 5.56
+      "skill": "outpatienttherapy",
+      "pmi": 3.38
     },
     {
-      "skill": "pos",
-      "pmi": 5.56
+      "skill": "certifications",
+      "pmi": 3.3
     },
     {
-      "skill": "housingfirst",
-      "pmi": 5.51
+      "skill": "groupfitness",
+      "pmi": 3.01
+    },
+    {
+      "skill": "o2",
+      "pmi": 4.08
+    },
+    {
+      "skill": "riskprevention",
+      "pmi": 4.08
+    },
+    {
+      "skill": "emergencyoxygen",
+      "pmi": 3.82
+    },
+    {
+      "skill": "lifeguarding",
+      "pmi": 2.84
+    },
+    {
+      "skill": "cpr",
+      "pmi": 2.83
+    },
+    {
+      "skill": "childabuseprevention",
+      "pmi": 2.74
+    },
+    {
+      "skill": "oxygenadministration",
+      "pmi": 2.69
+    },
+    {
+      "skill": "aquatics",
+      "pmi": 2.64
+    },
+    {
+      "skill": "firstaid",
+      "pmi": 2.44
+    },
+    {
+      "skill": "emergencyprocedures",
+      "pmi": 2.38
     }
   ],
   "alternatives": [
     {
-      "function": "arts-media",
-      "pct": 12
-    },
-    {
       "function": "agriculture",
       "pct": 11
+    },
+    {
+      "function": "arts-media",
+      "pct": 10
     },
     {
       "function": "education",
       "pct": 8
     },
     {
-      "function": "finance",
-      "pct": 6
+      "function": "legal",
+      "pct": 5
     },
     {
-      "function": "personal-care",
+      "function": "finance",
       "pct": 5
     }
   ],
-  "coach_notes": "For a healthcare path, focus first on organization, relationship-building. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a healthcare path, focus first on bluebeam, microsoft-excel, ms-project. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Patient Experience Coordinator (Wentzville)",
-      "company": "TVG-MedullaLLC",
-      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
-      "fit": 79,
-      "job_type": "goal",
+      "title": "Resource Pool - Patient Care Technician (PCT) Variable Shifts",
+      "company": "coffeyvilleregionalmedicalcenter",
+      "url": "https://jobs.crelate.com/portal/coffeyvilleregionalmedicalcenter/job/m9cwb943pmw4pgau8f79hwiuky",
+      "fit": 63,
+      "job_type": "bridge",
       "subdomain": "clinical-support",
       "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.75,
-        "subdomain_alignment": 0.026,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Patient coordinator, no age restriction."
-    },
-    {
-      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
-      "company": "accelschools",
-      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
-      "fit": 79,
-      "job_type": "goal",
-      "subdomain": "research",
-      "function": "education",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.375,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.25,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
-        "attainability": 0.65,
-        "skill_overlap": 0.067,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 11,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
-      "bridge": "As a Virtual Elementary School Teacher, you'll sharpen your coordination and instructing skills by managing diverse learners, while building transferable abilities in parent communication and differentiated instruction—directly applicable to patient education and care plans in nursing. These skills, combined with your existing social perceptiveness and monitoring, create a strong foundation for healthcare roles."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Mobile Response Peer Support Specialist",
-      "company": "crestwoodcareers",
-      "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003",
-      "fit": 67,
-      "job_type": "goal",
+      "title": "Lab - Medical Lab Technician/Medical Technician PRN Days",
+      "company": "coffeyvilleregionalmedicalcenter",
+      "url": "https://jobs.crelate.com/portal/coffeyvilleregionalmedicalcenter/job/7kdz9pn9hze7a1j9dnuehw44ha",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "research",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 13,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Medical lab technician role is suitable for 16-20 year olds with proper training.",
+      "cross_function": false
+    },
+    {
+      "title": "School Clinic Substitute Medical Assistant",
+      "company": "glhstaffing",
+      "url": "https://jobs.crelate.com/portal/glhstaffing/job/gu6mdgi6qzrqmcb4rz4so47gye",
+      "fit": 61,
+      "job_type": "bridge",
       "subdomain": "clinical-support",
       "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.5,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 9,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Peer support specialist roles typically do not have age restrictions beyond 16."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "NY Children's Health Promotion Intern (Unpaid)",
-      "company": "theirc",
-      "url": "https://theirc.wd1.myworkdayjobs.com/job/New-York-NY-RAI-USA/NY-Children-s-Health-Promotion-Intern--Unpaid-_JR00003920",
-      "fit": 66,
-      "job_type": "goal",
-      "subdomain": "public-health",
+      "title": "Clinician, Community Mental Health (ACSW/AMFT)",
+      "company": "bayareacs",
+      "url": "https://bayareacs.hire.trakstar.com/jobs/fk0qc4v/",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
       "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.154,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 12,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Internship for children's health promotion, suitable for young adults."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Care Navigator - CCBHC (Helena, MT)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4232975",
-      "fit": 63,
-      "job_type": "goal",
-      "subdomain": "public-health",
+      "title": "Patient Counsellor (MBBS) - Contractual Role",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/1C1FDB73B5",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
       "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.0,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.182,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 11,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Care navigator role does not require 21+."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Architectural Healthcare Project PM",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/h73dknpjy7getgxy9qu3576d9w",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Assistant Project Manager I",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/6s39kjobanitawiegpx7j9bh5w",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Assistant Project Manager II",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/twqxtro1ocp7fpy4hmecwigymw",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Assistant Project Manager, Mechanical",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/w5pczr51tufcjsw7cw757wyjta",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Assistant Project Manager, Electrical",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/mapodmofb66fxtbfo1z7ea3pso",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "Patient Experience Coordinator (Wentzville)",
-      "company": "TVG-MedullaLLC",
-      "url": "https://jobs.smartrecruiters.com/TVG-MedullaLLC/3743990009898625",
-      "fit": 79,
-      "job_type": "goal",
+      "title": "Resource Pool - Patient Care Technician (PCT) Variable Shifts",
+      "company": "coffeyvilleregionalmedicalcenter",
+      "url": "https://jobs.crelate.com/portal/coffeyvilleregionalmedicalcenter/job/m9cwb943pmw4pgau8f79hwiuky",
+      "fit": 63,
+      "job_type": "bridge",
       "subdomain": "clinical-support",
       "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.75,
-        "subdomain_alignment": 0.026,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Patient coordinator, no age restriction."
-    },
-    {
-      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
-      "company": "accelschools",
-      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
-      "fit": 79,
-      "job_type": "goal",
-      "subdomain": "research",
-      "function": "education",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.375,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.25,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
-        "attainability": 0.65,
-        "skill_overlap": 0.067,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 11,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
-      "bridge": "As a Virtual Elementary School Teacher, you'll sharpen your coordination and instructing skills by managing diverse learners, while building transferable abilities in parent communication and differentiated instruction—directly applicable to patient education and care plans in nursing. These skills, combined with your existing social perceptiveness and monitoring, create a strong foundation for healthcare roles."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Lab - Medical Lab Technician/Medical Technician PRN Days",
+      "company": "coffeyvilleregionalmedicalcenter",
+      "url": "https://jobs.crelate.com/portal/coffeyvilleregionalmedicalcenter/job/7kdz9pn9hze7a1j9dnuehw44ha",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "research",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 13,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Medical lab technician role is suitable for 16-20 year olds with proper training.",
+      "cross_function": false
+    },
+    {
+      "title": "School Clinic Substitute Medical Assistant",
+      "company": "glhstaffing",
+      "url": "https://jobs.crelate.com/portal/glhstaffing/job/gu6mdgi6qzrqmcb4rz4so47gye",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 9,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Clinician, Community Mental Health (ACSW/AMFT)",
+      "company": "bayareacs",
+      "url": "https://bayareacs.hire.trakstar.com/jobs/fk0qc4v/",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 12,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Patient Counsellor (MBBS) - Contractual Role",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/1C1FDB73B5",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 11,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
   "aspirational": [
     {
-      "title": "Mobile Response Peer Support Specialist",
-      "company": "crestwoodcareers",
-      "url": "https://job-boards.greenhouse.io/crestwoodcareers/jobs/7763836003",
-      "fit": 67,
-      "job_type": "goal",
+      "title": "Architectural Healthcare Project PM",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/h73dknpjy7getgxy9qu3576d9w",
+      "fit": 80,
+      "job_type": "",
       "subdomain": "clinical-support",
-      "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.5,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "Peer support specialist roles typically do not have age restrictions beyond 16."
+      "eligibility_reason": "",
+      "cross_function": false
     },
     {
-      "title": "NY Children's Health Promotion Intern (Unpaid)",
-      "company": "theirc",
-      "url": "https://theirc.wd1.myworkdayjobs.com/job/New-York-NY-RAI-USA/NY-Children-s-Health-Promotion-Intern--Unpaid-_JR00003920",
-      "fit": 66,
-      "job_type": "goal",
-      "subdomain": "public-health",
-      "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "title": "Assistant Project Manager I",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/6s39kjobanitawiegpx7j9bh5w",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.154,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "Internship for children's health promotion, suitable for young adults."
+      "eligibility_reason": "",
+      "cross_function": false
     },
     {
-      "title": "Care Navigator - CCBHC (Helena, MT)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4232975",
-      "fit": 63,
-      "job_type": "goal",
-      "subdomain": "public-health",
-      "function": "healthcare",
-      "why": "This role builds your Customer and Personal Service, Administrative, Monitoring skills and moves you toward becoming a Nurse.",
-      "gaps": "organization, relationship-building",
+      "title": "Assistant Project Manager II",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/twqxtro1ocp7fpy4hmecwigymw",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.182,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "Care navigator role does not require 21+."
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Assistant Project Manager, Mechanical",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/w5pczr51tufcjsw7cw757wyjta",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Assistant Project Manager, Electrical",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/mapodmofb66fxtbfo1z7ea3pso",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
     }
   ],
-  "skill_path": "You already have a strong foundation in science, critical thinking, and interpersonal skills. By focusing on organization and relationship-building now, you'll quickly bridge to your dream career in nursing or medical assistance.",
+  "skill_path": "You already have strong emergency response skills. By adding project management and software tools, you'll be well-prepared for a healthcare career like nursing or medical assisting.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Administrative\n├── Monitoring\n├── Coordination\n├── Instructing\n├── Time Management\n├── Social Perceptiveness\n├── Science\n├── Biology\n├── Critical Thinking\n├── Patient Care (implicit)\n├── Teamwork (implicit)\n└── Problem Solving (implicit)\n    ↓\nBRIDGE SKILLS\n├── Organization\n└── Relationship-building\n    ↓\nGOAL SKILLS\n├── Appointment Scheduling\n├── Classical Education\n├── Client Navigation\n├── Communication\n└── Community-based Interventions\n    ↓\nDREAM CAREER\n├── Nurse\n├── Medical Assistant\n└── Healthcare Professional",
+    "tree": "Healthcare Skills\n├── Current Skills\n│   ├── AED\n│   ├── CPR\n│   ├── First Aid\n│   └── Emergency Response\n├── Bridge Skills\n│   ├── Architectural Design\n│   ├── Autodesk Construction Cloud\n│   ├── Budget Tracking\n│   ├── Cable Tray\n│   └── Change Orders\n└── Goal Skills\n    ├── Bluebeam\n    ├── Microsoft Excel\n    ├── MS Project\n    ├── Project Management\n    └── Scheduling\n        └── Career: Nurse, Medical Assistant, Healthcare Professional",
     "steps": [
-      "Take a free online course on medical office organization and scheduling.",
-      "Volunteer at a local clinic to practice relationship-building with patients.",
-      "Enroll in a CNA or medical assistant program to gain hands-on patient care skills.",
-      "Attend a workshop on community health interventions and client navigation.",
-      "Apply for an entry-level healthcare role (e.g., medical receptionist) to build experience."
+      "Start with a free online course in Microsoft Excel to build data management skills.",
+      "Take a project management fundamentals course (e.g., Google Project Management on Coursera).",
+      "Learn Bluebeam through tutorials and practice with free trials.",
+      "Explore scheduling tools like MS Project with guided projects.",
+      "Combine skills by volunteering for a healthcare project that uses these tools."
     ],
-    "summary": "You already have a strong foundation in science, critical thinking, and interpersonal skills. By focusing on organization and relationship-building now, you'll quickly bridge to your dream career in nursing or medical assistance."
+    "summary": "You already have strong emergency response skills. By adding project management and software tools, you'll be well-prepared for a healthcare career like nursing or medical assisting."
   },
   "ideal_careers": [
     "Nurse",
@@ -626,11 +769,11 @@
       "healthcare"
     ],
     "goal_roles": [
-      "Research Scientist",
-      "Public Health Analyst"
+      "Nurse",
+      "Medical Assistant"
     ],
     "goal_subdomains": [
-      "research"
+      "clinical-support"
     ],
     "study_domains": [
       "healthcare"
@@ -640,20 +783,20 @@
     ],
     "study_program": "Bachelor of  Science: Psychology",
     "study_level": "bachelor",
-    "intent_confidence": 0.427,
-    "intent_strength": 0.627,
+    "intent_confidence": 0.598,
+    "intent_strength": 0.798,
     "has_student_intent": true
   },
   "intent_summary": {
-    "headline": "Student at Year Up",
-    "summary_text": "Student at Year Up\nLearn more about college (freshman year), learn more about the necessary skills to be in college, and how to change my mindset to adapt to college.; Learn more about college (freshman year), learn more about the necessary skills to be in college, and how to cha",
-    "study_text": "Bachelor of  Science: Psychology\n05/2026\n05/2026\n**Year Up United** — 2023 – 2025\n---\n*Note: Limited profile activity — no posts, 3 connections.*"
+    "headline": "",
+    "summary_text": "Ideal careers: Nurse, Medical Assistant, Healthcare Professional\n=== Bianka Pena - Resume.pdf ===\nBIANKA NICOLLE PENA MARCELINO\nTemple, PA 19560\n6469721673 - bianka.pena.marcelino@gmail.com\nWEBSITES, PORTFOLIOS, PROFILES\n•\nlinkedin.com/in/bianka-pena-708173232\nPROFESSIONAL SUMMAR",
+    "study_text": "Bachelor of  Science: Psychology\n05/2026\n05/2026\n**Year Up United** — 2023 – 2025\n---\n*Note: Limited profile activity — no posts, 3 connections.*\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026"
   },
   "signal_breakdown": {
     "aspiration": {
-      "healthcare": 43,
-      "arts-media": 10,
-      "education": 10
+      "healthcare": 60,
+      "legal": 9,
+      "education": 7
     },
     "study": {
       "healthcare": 26,
@@ -661,12 +804,12 @@
       "arts-media": 17
     },
     "classifier": {
-      "agriculture": 31,
-      "arts-media": 22,
-      "healthcare": 20
+      "agriculture": 30,
+      "healthcare": 21,
+      "arts-media": 19
     },
     "onet": {
-      "education": 27,
+      "education": 26,
       "healthcare": 18,
       "technology": 17
     },
@@ -681,19 +824,19 @@
     "healthcare",
     "education"
   ],
-  "subdomain": "research",
+  "subdomain": "clinical-support",
   "subdomain_confidence": 0.85,
   "subdomain_alternatives": [
-    "public-health",
-    "clinical-support"
+    "research",
+    "public-health"
   ],
   "lane_used": "rescue",
   "job_cluster": [
     "clinical-support",
     "research",
     "clinical-support",
-    "public-health",
-    "public-health"
+    "clinical-support",
+    "clinical-support"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -701,7 +844,7 @@
     "route": {
       "accepted": true,
       "chosen_function": "healthcare",
-      "chosen_subdomain": "research",
+      "chosen_subdomain": "clinical-support",
       "secondary_function": "education",
       "goal_domains": [
         "healthcare"
@@ -710,155 +853,52 @@
         "healthcare"
       ],
       "goal_subdomains": [
-        "research"
+        "clinical-support"
       ],
       "study_subdomains": [
         "research"
       ],
       "goal_roles": [
-        "Research Scientist",
-        "Public Health Analyst"
+        "Nurse",
+        "Medical Assistant"
       ],
       "confidence": 0.85,
       "evidence_spans": [
         {
-          "section": "skills",
+          "section": "RESEARCH & CLINICAL EXPERIENCE",
           "text": "Provided direct resident care in substance use disorder treatment settings."
         },
         {
-          "section": "skills",
-          "text": "Conducted HIV-1 research on pathogenesis and host restriction factors."
+          "section": "RESEARCH & CLINICAL EXPERIENCE",
+          "text": "Administered medications as a med-certified aide and maintained HIPAA-compliant documentation."
         }
       ],
       "reason_codes": [
-        "strong_work_experience",
-        "education_alignment"
+        "explicit_goal_healthcare",
+        "strong_work_experience_clinical",
+        "education_psychology_biology"
       ],
       "review_reasons": []
     },
     "evidence": {
       "accepted": true,
-      "scored_skills": [
-        "Customer and Personal Service",
-        "Administrative",
-        "Monitoring",
-        "Coordination",
-        "Instructing",
-        "Time Management",
-        "Social Perceptiveness",
-        "Science",
-        "Biology",
-        "Critical Thinking",
-        "Writing",
-        "Reading Comprehension",
-        "Service Orientation",
-        "Administration and Management",
-        "advocacy",
-        "analysis",
-        "analytical",
-        "analytical thinking",
-        "behavior",
-        "biology",
-        "campus engagement",
-        "care",
-        "certified",
-        "chemistry",
-        "civic engagement",
-        "client advocacy",
-        "clinical",
-        "clinical care",
-        "clinical experience",
-        "collaborative",
-        "community based",
-        "community health",
-        "community service",
-        "conflict resolution",
-        "counselor",
-        "cpr",
-        "cpr aed",
-        "crisis de escalation",
-        "culture",
-        "data",
-        "data analysis",
-        "data collection",
-        "de escalation",
-        "design",
-        "documentation",
-        "driven",
-        "efficiency",
-        "engagement",
-        "engaging",
-        "epidemiology",
-        "experimental design",
-        "fellowship",
-        "food",
-        "food pantry",
-        "grant applications",
-        "health",
-        "healthcare",
-        "healthcare access",
-        "healthcare system"
-      ],
-      "verified_skills": [
-        "Customer and Personal Service",
-        "Administrative",
-        "Monitoring",
-        "Coordination",
-        "Instructing",
-        "Time Management",
-        "Social Perceptiveness",
-        "Science",
-        "Biology",
-        "Critical Thinking",
-        "Writing",
-        "Reading Comprehension",
-        "Service Orientation",
-        "Administration and Management",
-        "advocacy",
-        "analysis",
-        "analytical",
-        "analytical thinking",
-        "behavior",
-        "biology",
-        "campus engagement",
-        "care",
-        "certified",
-        "chemistry",
-        "civic engagement",
-        "client advocacy",
-        "clinical",
-        "clinical care",
-        "clinical experience",
-        "collaborative",
-        "community based",
-        "community health",
-        "community service",
-        "conflict resolution",
-        "counselor",
-        "cpr",
-        "cpr aed",
-        "crisis de escalation",
-        "culture",
-        "data",
-        "data analysis",
-        "data collection",
-        "de escalation",
-        "design",
-        "documentation",
-        "driven",
-        "efficiency",
-        "engagement",
-        "engaging",
-        "epidemiology",
-        "experimental design",
-        "fellowship",
-        "food",
-        "food pantry",
-        "grant applications",
-        "health",
-        "healthcare",
-        "healthcare access",
-        "healthcare system"
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "AED usage requires CPR knowledge",
+          "skill": "CPR"
+        },
+        {
+          "confidence": "medium",
+          "reason": "AED usage indicates first aid proficiency",
+          "skill": "first aid"
+        },
+        {
+          "confidence": "medium",
+          "reason": "AED usage indicates emergency response skills",
+          "skill": "emergency response"
+        }
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -867,44 +907,34 @@
         "administrative",
         "administrative support",
         "adult programs",
-        "aed",
+        "advocacy",
         "aide",
         "ambassador",
+        "analysis",
+        "analytical",
+        "analytical thinking",
         "applications",
         "attendance",
-        "bachelor",
-        "census",
-        "clinical staff",
-        "collection",
-        "daily routines",
-        "distribution",
-        "economic",
-        "effects",
-        "equipment",
-        "escalation",
-        "gaps"
+        "bachelor"
       ],
-      "implicit_skills": [
-        {
-          "skill": "Patient Care",
-          "reason": "Clinical experience and healthcare context imply direct patient interaction.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Teamwork",
-          "reason": "Collaborative and coordination skills indicate ability to work in teams.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Problem Solving",
-          "reason": "Critical thinking and analytical skills suggest problem-solving ability.",
-          "confidence": "medium"
-        }
+      "review_reasons": [],
+      "scored_skills": [
+        "aed"
       ],
-      "evidence_items": [],
-      "review_reasons": []
+      "verified_skills": [
+        "aed"
+      ]
     }
   },
+  "classifier_top_function": {
+    "agriculture": 30,
+    "healthcare": 21,
+    "arts-media": 19
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
   "llm_trace": [
     {
       "stage": "route",

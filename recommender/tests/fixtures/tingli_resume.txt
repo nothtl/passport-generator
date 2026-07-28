@@ -1,0 +1,18 @@
+Hu Tingli
+Nanyang Technological University | Renaissance Engineering Programme
+Bachelor of Engineering Science (Computer Science) and Master of Science in Technology Management | 2024-2028
+Technical Skills: Agentic AI & Automation, Agent Harnesses, Computer Vision, Semantic Search and Retrieval, Machine-Learning Evaluation, Full Stack Development, Cloud Infrastructure, Autonomous Systems. 
+
+INTERNSHIP / WORK EXPERIENCE 
+SpeakHire, New York | Tech Associate Intern | May-June 2026
+Spearheaded the design and delivery of an AI-powered outreach and CRM platform. Led the development of an agentic email-generation tool. Integrated Azure Functions and Cosmos DB.
+
+Hoverr | Co-Founder and Chief Technology Officer | 2025-Present
+Co-founded an AI-enabled Fraud, Waste and Abuse claims validation platform for medical insurance firms and led its technical architecture. Deployed within a cloud-based industry sandbox.
+
+That Remote Company | AI/ML Intern | July-September 2025
+Led the AI team in designing a multi-stage computer-vision pipeline. Integrated YOLOv11, SegFormer and ResNet-101 with a FastAPI backend.
+
+PROJECTS
+UAV Computer Vision and Geotagging Platform | SUAS 2025
+Represented NTU at the international Student Unmanned Aerial Systems competition. Integrated YOLOv8, a ZED 2i stereo camera and ROS2 to enable real-time aerial object detection.

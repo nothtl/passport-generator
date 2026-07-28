@@ -1,38 +1,63 @@
 {
   "resume": "=== Benjamin Medrano - Resume.pdf ===\nContact \nmedranobenji2006@gmail.com \n(929) 267-6627 \nBronx, NY 10458 \n\nSkills \nCustomer Service \nIntermediate \nBilingualCommunication \nIntermediate \nTechnical Support \nIntermediate \n\nLanguages \nEnglish \nSpanish \n\nBenjamin Medrano \n\nMOTIVATED HIGH SCHOOL GRADUATE | BILINGUAL \nCUSTOMER SERVICE & IT SUPPORT \n\nProfessional Summary \n\nReliable and engaging high school graduate with proven customer service \nexcellence, bilingual communication abilities, and strong organizational \nskills. Demonstrated ability to work effectively in team environments, \nmanage multiple tasks, and maintain professional standards. Eager to \napply communication and service. \n\nProfessional Experience \n\nIntern – Duro Internship    2022-03 – 2022-09 \nR.A.I.N INC CENTER | Bronx, NY \nProvided technical support and organizational assistance in a professional \ninternship setting. \n\n•  Troubleshot hardware and software issues, improving user \n\nexperience. \n\n•  Assisted clients with technical problems, delivering clear and \n\neffective guidance. \n\n•  Organized office inventory, enhancing workspace efficiency and \n\naccessibility. \n\nStudent Intern    2023-05 – 2023-09 \nCrotona International High School | Bronx, NY \nSupported school activities and provided translation services to facilitate \ncommunication. \n\n•  Assisted with Spanish–English translations for students and teachers. \n•  Led group projects, coordinating responsibilities among peers. \n•  Collaborated effectively with classmates, demonstrating teamwork \n\nexcellence. \n\nIntern – Montefiore Einstein Comprehensive Cancer Center    \n2023-11 – 2024-05 \nMontefiore Einstein Cancer Center | Bronx, NY \nSupported administrative and organizational tasks within a healthcare \nresearch environment. \n\n•  Organized office supplies and inventory, streamlining operations. \n•  Assisted staff with technical troubleshooting and administrative \n\ntasks. \n\n•  Contributed to a productive work environment through efficient \n\norganization. \n\nEducation \n\nHigh School Diploma in Leadership, Bilingual Communication, and \nTechnical Skills \nCrotona International High School \n2021 - 2025-06",
   "function": "technology",
-  "confidence": 61,
+  "confidence": 56,
   "skills": [
     "Customer and Personal Service",
     "Troubleshooting",
-    "Active Listening",
     "Administrative",
-    "Coordination",
     "Foreign Language",
-    "Speaking",
-    "Writing",
+    "Coordination",
+    "Active Listening",
     "Time Management",
     "accessibility",
+    "administrative tasks",
     "bilingual",
+    "bilingualcommunication",
+    "clients",
     "communication",
+    "coordinating",
     "customer service",
     "customer service excellence",
+    "delivering",
+    "diploma",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "excellence",
+    "guidance",
     "hardware",
     "hardware and software",
+    "healthcare",
+    "high school",
+    "high school diploma",
+    "high school graduate",
+    "internship",
     "it support",
     "languages",
     "leadership",
+    "motivated",
     "office",
+    "office supplies",
     "operations",
     "organization",
+    "organizational",
     "organizational skills",
     "organized",
+    "productive",
+    "professional",
+    "professional experience",
     "professional standards",
+    "projects",
+    "reliable",
+    "service",
     "service excellence",
     "software",
     "software issues",
     "spanish",
     "spanish english",
+    "standards",
     "strong organizational skills",
     "teamwork",
     "technical",
@@ -43,56 +68,65 @@
     "translation services",
     "translations",
     "user experience",
-    "workspace",
-    "english spanish",
-    "bilingualcommunication",
-    "clients",
-    "coordinating",
-    "delivering",
-    "efficiency",
-    "efficient",
-    "engaging",
-    "guidance",
-    "motivated",
-    "office supplies",
-    "professional",
-    "professional experience",
-    "projects",
-    "reliable",
-    "service",
-    "standards"
+    "workspace"
   ],
   "verified_skills": [
     "Customer and Personal Service",
     "Troubleshooting",
-    "Active Listening",
     "Administrative",
-    "Coordination",
     "Foreign Language",
-    "Speaking",
-    "Writing",
+    "Coordination",
+    "Active Listening",
     "Time Management",
     "accessibility",
+    "administrative",
+    "administrative tasks",
     "bilingual",
+    "bilingualcommunication",
+    "clients",
     "communication",
+    "coordinating",
     "customer service",
     "customer service excellence",
+    "delivering",
+    "diploma",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "excellence",
+    "guidance",
     "hardware",
     "hardware and software",
+    "healthcare",
+    "high school",
+    "high school diploma",
+    "high school graduate",
+    "internship",
     "it support",
     "languages",
     "leadership",
+    "motivated",
     "office",
+    "office supplies",
     "operations",
     "organization",
+    "organizational",
     "organizational skills",
     "organized",
+    "productive",
+    "professional",
+    "professional experience",
     "professional standards",
+    "projects",
+    "reliable",
+    "service",
     "service excellence",
     "software",
     "software issues",
     "spanish",
     "spanish english",
+    "standards",
     "strong organizational skills",
     "teamwork",
     "technical",
@@ -102,66 +136,69 @@
     "translation",
     "translation services",
     "translations",
+    "troubleshooting",
     "user experience",
-    "workspace",
-    "english spanish",
-    "bilingualcommunication",
-    "clients",
-    "coordinating",
-    "delivering",
-    "efficiency",
-    "efficient",
-    "engaging",
-    "guidance",
-    "motivated",
-    "office supplies",
-    "professional",
-    "professional experience",
-    "projects",
-    "reliable",
-    "service",
-    "standards"
+    "workspace"
   ],
   "possible_skills": [],
-  "rejected_skills": [
-    "diploma",
-    "high school",
-    "high school diploma",
-    "high school graduate",
-    "internship"
-  ],
+  "rejected_skills": [],
   "skill_weights": {},
   "market_relevant": [
     "Customer and Personal Service",
     "Troubleshooting",
-    "Active Listening",
     "Administrative",
-    "Coordination",
     "Foreign Language",
-    "Speaking",
-    "Writing",
+    "Coordination",
+    "Active Listening",
     "Time Management",
     "accessibility",
+    "administrative tasks",
     "bilingual",
+    "bilingualcommunication",
+    "clients",
     "communication",
+    "coordinating",
     "customer service",
     "customer service excellence",
+    "delivering",
+    "diploma",
+    "efficiency",
+    "efficient",
+    "engaging",
+    "english spanish",
+    "excellence",
+    "guidance",
     "hardware",
     "hardware and software",
+    "healthcare",
+    "high school",
+    "high school diploma",
+    "high school graduate",
+    "internship",
     "it support",
     "languages",
     "leadership",
+    "motivated",
     "office",
+    "office supplies",
     "operations",
     "organization",
+    "organizational",
     "organizational skills",
     "organized",
+    "productive",
+    "professional",
+    "professional experience",
     "professional standards",
+    "projects",
+    "reliable",
+    "service",
     "service excellence",
     "software",
     "software issues",
     "spanish",
     "spanish english",
+    "standards",
     "strong organizational skills",
     "teamwork",
     "technical",
@@ -172,86 +209,583 @@
     "translation services",
     "translations",
     "user experience",
-    "workspace",
-    "english spanish",
-    "bilingualcommunication",
-    "clients",
-    "coordinating",
-    "delivering",
-    "efficiency",
-    "efficient",
-    "engaging",
-    "guidance",
-    "motivated",
-    "office supplies",
-    "professional",
-    "professional experience",
-    "projects",
-    "reliable",
-    "service",
-    "standards"
+    "workspace"
   ],
-  "inferred": [
-    "Problem Solving",
-    "Multitasking",
-    "Attention to Detail"
-  ],
-  "implicit_skills": [
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
     {
-      "skill": "Problem Solving",
-      "reason": "Troubleshooting and technical support imply problem-solving ability.",
-      "confidence": "medium"
+      "skill": "accessibility",
+      "source_section": "skills",
+      "matched_text": "accessibility.",
+      "match_type": "vocabulary"
     },
     {
-      "skill": "Multitasking",
-      "reason": "Coordination and handling multiple tasks (administrative, customer service) suggest multitasking.",
-      "confidence": "medium"
+      "skill": "administrative",
+      "source_section": "skills",
+      "matched_text": "Supported administrative and organizational tasks within a healthcare",
+      "match_type": "vocabulary"
     },
     {
-      "skill": "Attention to Detail",
-      "reason": "Organizational skills and administrative tasks require attention to detail.",
-      "confidence": "medium"
+      "skill": "administrative tasks",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "bilingual",
+      "source_section": "skills",
+      "matched_text": "BilingualCommunication",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "bilingualcommunication",
+      "source_section": "skills",
+      "matched_text": "BilingualCommunication",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "clients",
+      "source_section": "skills",
+      "matched_text": "•  Assisted clients with technical problems, delivering clear and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "communication",
+      "source_section": "skills",
+      "matched_text": "BilingualCommunication",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "coordinating",
+      "source_section": "skills",
+      "matched_text": "•  Led group projects, coordinating responsibilities among peers.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "customer service",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "customer service excellence",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "delivering",
+      "source_section": "skills",
+      "matched_text": "•  Assisted clients with technical problems, delivering clear and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "efficiency",
+      "source_section": "skills",
+      "matched_text": "•  Organized office inventory, enhancing workspace efficiency and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "efficient",
+      "source_section": "skills",
+      "matched_text": "•  Contributed to a productive work environment through efficient",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engaging",
+      "source_section": "skills",
+      "matched_text": "Reliable and engaging high school graduate with proven customer service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "english spanish",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "excellence",
+      "source_section": "skills",
+      "matched_text": "excellence, bilingual communication abilities, and strong organizational",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "guidance",
+      "source_section": "skills",
+      "matched_text": "effective guidance.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "hardware",
+      "source_section": "skills",
+      "matched_text": "•  Troubleshot hardware and software issues, improving user",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "hardware and software",
+      "source_section": "skills",
+      "matched_text": "•  Troubleshot hardware and software issues, improving user",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "healthcare",
+      "source_section": "skills",
+      "matched_text": "Supported administrative and organizational tasks within a healthcare",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high school",
+      "source_section": "skills",
+      "matched_text": "MOTIVATED HIGH SCHOOL GRADUATE | BILINGUAL",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high school graduate",
+      "source_section": "skills",
+      "matched_text": "MOTIVATED HIGH SCHOOL GRADUATE | BILINGUAL",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "internship",
+      "source_section": "skills",
+      "matched_text": "Intern – Duro Internship    2022-03 – 2022-09",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "it support",
+      "source_section": "skills",
+      "matched_text": "CUSTOMER SERVICE & IT SUPPORT",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "languages",
+      "source_section": "skills",
+      "matched_text": "Languages",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "motivated",
+      "source_section": "skills",
+      "matched_text": "MOTIVATED HIGH SCHOOL GRADUATE | BILINGUAL",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "office",
+      "source_section": "skills",
+      "matched_text": "•  Organized office inventory, enhancing workspace efficiency and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "office supplies",
+      "source_section": "skills",
+      "matched_text": "•  Organized office supplies and inventory, streamlining operations.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "operations",
+      "source_section": "skills",
+      "matched_text": "•  Organized office supplies and inventory, streamlining operations.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organization",
+      "source_section": "skills",
+      "matched_text": "excellence, bilingual communication abilities, and strong organizational",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organizational",
+      "source_section": "skills",
+      "matched_text": "excellence, bilingual communication abilities, and strong organizational",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organizational skills",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organized",
+      "source_section": "skills",
+      "matched_text": "•  Organized office inventory, enhancing workspace efficiency and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "productive",
+      "source_section": "skills",
+      "matched_text": "•  Contributed to a productive work environment through efficient",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "professional",
+      "source_section": "skills",
+      "matched_text": "Professional Summary",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "professional experience",
+      "source_section": "skills",
+      "matched_text": "Professional Experience",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "professional standards",
+      "source_section": "skills",
+      "matched_text": "manage multiple tasks, and maintain professional standards. Eager to",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "projects",
+      "source_section": "skills",
+      "matched_text": "•  Led group projects, coordinating responsibilities among peers.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "reliable",
+      "source_section": "skills",
+      "matched_text": "Reliable and engaging high school graduate with proven customer service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "service",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "service excellence",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software",
+      "source_section": "skills",
+      "matched_text": "•  Troubleshot hardware and software issues, improving user",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software issues",
+      "source_section": "skills",
+      "matched_text": "•  Troubleshot hardware and software issues, improving user",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "spanish",
+      "source_section": "skills",
+      "matched_text": "Spanish",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "spanish english",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "standards",
+      "source_section": "skills",
+      "matched_text": "manage multiple tasks, and maintain professional standards. Eager to",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "strong organizational skills",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "teamwork",
+      "source_section": "skills",
+      "matched_text": "•  Collaborated effectively with classmates, demonstrating teamwork",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical",
+      "source_section": "skills",
+      "matched_text": "Technical Support",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical support",
+      "source_section": "skills",
+      "matched_text": "Technical Support",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical troubleshooting",
+      "source_section": "skills",
+      "matched_text": "•  Assisted staff with technical troubleshooting and administrative",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "translation",
+      "source_section": "skills",
+      "matched_text": "Supported school activities and provided translation services to facilitate",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "translation services",
+      "source_section": "skills",
+      "matched_text": "Supported school activities and provided translation services to facilitate",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "translations",
+      "source_section": "skills",
+      "matched_text": "•  Assisted with Spanish–English translations for students and teachers.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "troubleshooting",
+      "source_section": "skills",
+      "matched_text": "•  Assisted staff with technical troubleshooting and administrative",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "user experience",
+      "source_section": "skills",
+      "matched_text": "Customer Service",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "workspace",
+      "source_section": "skills",
+      "matched_text": "•  Organized office inventory, enhancing workspace efficiency and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "diploma",
+      "source_section": "education",
+      "matched_text": "High School Diploma in Leadership, Bilingual Communication, and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high school diploma",
+      "source_section": "education",
+      "matched_text": "High School Diploma in Leadership, Bilingual Communication, and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "leadership",
+      "source_section": "education",
+      "matched_text": "High School Diploma in Leadership, Bilingual Communication, and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical skills",
+      "source_section": "education",
+      "matched_text": "Technical Skills",
+      "match_type": "vocabulary"
     }
   ],
-  "skill_evidence": [],
   "gaps": [
-    "documentation",
-    "help-desk"
+    "end-user-support",
+    "windows"
   ],
   "core_gaps": [
-    "documentation",
-    "help-desk"
-  ],
-  "bridge_gaps": [],
-  "stretch_gaps": [
-    "desktop-support",
-    "developer",
-    "diagnostic-tools",
     "end-user-support",
-    "go-to-voip",
-    "hardware-repair",
-    "network",
-    "network-printers",
-    "onboarding",
-    "remote-desktop"
+    "windows"
+  ],
+  "bridge_gaps": [
+    "client-relations",
+    "front-desk",
+    "hardware-support",
+    "hospital-operations",
+    "incident-management",
+    "it-policy-compliance",
+    "it-service-desk",
+    "itsupport",
+    "software-support",
+    "veterinary-operations"
+  ],
+  "stretch_gaps": [
+    "automation",
+    "documentation",
+    "knowledge-sharing",
+    "process-improvement",
+    "tech-ops",
+    "ticket-management"
   ],
   "nice_to_have_gaps": [
-    "desktop-support",
-    "developer",
-    "diagnostic-tools",
-    "end-user-support",
-    "go-to-voip",
-    "hardware-repair",
-    "network",
-    "network-printers",
-    "onboarding",
-    "remote-desktop"
+    "automation",
+    "client-relations",
+    "documentation",
+    "front-desk",
+    "hardware-support",
+    "hospital-operations",
+    "incident-management",
+    "it-policy-compliance",
+    "it-service-desk",
+    "itsupport"
   ],
-  "verify_gaps": [
-    "problem-solving"
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "pos",
+      "pmi": 5.56
+    },
+    {
+      "skill": "responsible",
+      "pmi": 5.32
+    },
+    {
+      "skill": "electrocardiogram",
+      "pmi": 5.0
+    },
+    {
+      "skill": "cantonese",
+      "pmi": 4.95
+    },
+    {
+      "skill": "mandarin",
+      "pmi": 4.95
+    },
+    {
+      "skill": "aclspals",
+      "pmi": 4.86
+    },
+    {
+      "skill": "bt",
+      "pmi": 4.58
+    },
+    {
+      "skill": "compassionate",
+      "pmi": 4.58
+    },
+    {
+      "skill": "chargenurse",
+      "pmi": 4.57
+    },
+    {
+      "skill": "clinicalcompetencies",
+      "pmi": 4.49
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "ged",
+      "pmi": 3.24
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "childcareexperience",
+      "pmi": 3.13
+    },
+    {
+      "skill": "validdriverlicense",
+      "pmi": 3.07
+    },
+    {
+      "skill": "englishlanguage",
+      "pmi": 3.05
+    },
+    {
+      "skill": "planning",
+      "pmi": 3.02
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "english",
+      "pmi": 2.9
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    }
   ],
-  "related": [],
-  "related_skills": [],
+  "related_skills": [
+    {
+      "skill": "pos",
+      "pmi": 5.56
+    },
+    {
+      "skill": "responsible",
+      "pmi": 5.32
+    },
+    {
+      "skill": "electrocardiogram",
+      "pmi": 5.0
+    },
+    {
+      "skill": "cantonese",
+      "pmi": 4.95
+    },
+    {
+      "skill": "mandarin",
+      "pmi": 4.95
+    },
+    {
+      "skill": "aclspals",
+      "pmi": 4.86
+    },
+    {
+      "skill": "bt",
+      "pmi": 4.58
+    },
+    {
+      "skill": "compassionate",
+      "pmi": 4.58
+    },
+    {
+      "skill": "chargenurse",
+      "pmi": 4.57
+    },
+    {
+      "skill": "clinicalcompetencies",
+      "pmi": 4.49
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "ged",
+      "pmi": 3.24
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "childcareexperience",
+      "pmi": 3.13
+    },
+    {
+      "skill": "validdriverlicense",
+      "pmi": 3.07
+    },
+    {
+      "skill": "englishlanguage",
+      "pmi": 3.05
+    },
+    {
+      "skill": "planning",
+      "pmi": 3.02
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "english",
+      "pmi": 2.9
+    },
+    {
+      "skill": "communityoutreach",
+      "pmi": 2.86
+    }
+  ],
   "alternatives": [
     {
       "function": "arts-media",
@@ -274,248 +808,614 @@
       "pct": 6
     }
   ],
-  "coach_notes": "For a technology path, focus first on documentation, help-desk. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a technology path, focus first on end-user-support, windows. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "IT Support Specialist - Mondays ONLY",
-      "company": "itero-group",
-      "url": "https://job-boards.greenhouse.io/itero-group/jobs/5265095008",
-      "fit": 87,
-      "job_type": "goal",
+      "title": "Associate IT Support Analyst",
+      "company": "wmg",
+      "url": "https://jobs.lever.co/wmg/0eeaf153-af88-453d-8b96-513b65cd8368",
+      "fit": 62,
+      "job_type": "bridge",
       "subdomain": "it-support",
       "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.615,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.545,
+        "skill_overlap": 0.362,
+        "skill_overlap_raw": 0.556,
+        "hyper_p_value": null,
+        "hyper_k": 5,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "IT support role, no age restrictions.",
-      "bridge": "Your IT Support Specialist role hones troubleshooting, documentation, and communication skills that are directly transferable to software engineering, where you'll need to debug code, write clear technical specs, and collaborate with teams. Each ticket you resolve builds the analytical thinking and user empathy essential for a developer."
+      "eligibility_reason": "IT support analyst, no age restrictions.",
+      "cross_function": false,
+      "bridge": "As an Associate IT Support Analyst, you'll deepen your troubleshooting and customer-service skills while gaining hands-on experience with hardware, software, and IT service desk operations—all directly transferable to a Software Engineer or Developer role, where understanding system-level issues and user needs is critical."
     },
     {
-      "title": "IT SUPPORT SPECIALIST",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
-      "fit": 86,
-      "job_type": "goal",
+      "title": "IT Support Technician",
+      "company": "pattern",
+      "url": "https://jobs.lever.co/pattern/5ba4e11d-607a-468a-9eab-81d82c1bdaa5",
+      "fit": 62,
+      "job_type": "bridge",
       "subdomain": "it-support",
       "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.605,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.366,
+        "skill_overlap_raw": 0.571,
+        "hyper_p_value": null,
+        "hyper_k": 4,
+        "hyper_K": 0,
+        "hyper_n": 6,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "IT support specialist, no age restrictions.",
-      "bridge": "As an IT Support Specialist, you'll sharpen your troubleshooting and active listening skills while gaining hands-on experience with hardware, software, and networks—directly building the technical foundation needed for a Software Engineer role, where you'll apply these problem-solving abilities to code and system design."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your IT Support Technician role hones troubleshooting, hardware, and software skills that are directly transferable to software engineering, while building customer service and coordination abilities that set you apart as a developer who understands user needs."
     },
     {
-      "title": "Tech Support Specialist I - Remote Opportunity!",
-      "company": "kindercare",
-      "url": "https://kindercare.wd5.myworkdayjobs.com/job/Work-From-Home-OR/Tech-Support-Specialist-I---Remote-Opportunity-_JR45339",
-      "fit": 76,
-      "job_type": "goal",
+      "title": "IT Support Technician - Saturday - Tuesday",
+      "company": "pattern",
+      "url": "https://jobs.lever.co/pattern/cf79225c-7842-4e9f-ae3a-67f1f79b8c45",
+      "fit": 58,
+      "job_type": "bridge",
       "subdomain": "it-support",
       "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.522,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.625,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Tech support specialist, remote, no age restrictions."
-    },
-    {
-      "title": "Information Technology Technician",
-      "company": "fng",
-      "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
-      "fit": 71,
-      "job_type": "goal",
-      "subdomain": "it-support",
-      "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
-      "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.429,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.333,
+        "skill_overlap": 0.183,
+        "skill_overlap_raw": 0.286,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 7,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "IT technician role, no age restrictions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your IT Support Technician role sharpens your troubleshooting and customer service skills while building deep expertise in hardware, software, and policy compliance—all directly transferable to software engineering and development, where debugging and user-focused solutions are key."
     },
     {
-      "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
-      "fit": 67,
+      "title": "Support Engineer",
+      "company": "palantir",
+      "url": "https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131",
+      "fit": 48,
       "job_type": "goal",
-      "subdomain": "software",
+      "subdomain": "it-support",
       "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.176,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.385,
+        "skill_overlap": 0.144,
+        "skill_overlap_raw": 0.222,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Support Engineer, you'll deepen your troubleshooting and process-improvement skills, which are directly transferable to software development. Automating tasks and managing tickets also builds the technical and coordination abilities that will help you transition into a Software Engineer or Developer role."
+    },
+    {
+      "title": "Veterinary Client Service Representative (CSR)",
+      "company": "innovetivepetcare",
+      "url": "https://innovetivepetcare.pinpointhq.com/en/postings/69515c30-5cf5-4cf9-a3d7-eb74eaf399a5",
+      "fit": 48,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.6,
+        "skill_overlap_raw": 0.429,
+        "hyper_p_value": 7.6e-07,
+        "hyper_k": 3,
+        "hyper_K": 33,
+        "hyper_n": 7,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your role as a Veterinary CSR hones communication, troubleshooting, and coordination skills that are directly transferable to IT support and software development, where you'll need to diagnose issues, manage client relations, and organize workflows. This practical experience in a fast-paced healthcare setting will make you a standout candidate for tech roles that value clear communication and problem-solving."
+    },
+    {
+      "title": "Support Engineer - Fresher",
+      "company": "1kosmos",
+      "url": "https://apply.workable.com/j/B7408B385D",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "it-support",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.059,
+        "skill_overlap_raw": 0.083,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 24,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Vakantiewerk woonleefassistent - Wolvega en Heerenveen",
+      "company": "alliade",
+      "url": "https://alliade.recruitee.com/o/vakantiewerk-woonleefassistent-wolvega-en-heerenveen",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.467,
+        "skill_overlap_raw": 0.333,
+        "hyper_p_value": 0.00012021,
+        "hyper_k": 2,
+        "hyper_K": 33,
+        "hyper_n": 6,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " Physical Therapy Aide Position - Twin Falls, Jerome and Gooding Clinics!",
+      "company": "bodybalancephysicaltherapy",
+      "url": "https://jobs.crelate.com/portal/bodybalancephysicaltherapy/job/pqsx7xgjzosdaobakesbphtnky",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00022359,
+        "hyper_k": 2,
+        "hyper_K": 33,
+        "hyper_n": 8,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Behavior Technician",
+      "company": "helpinghandautismservices",
+      "url": "https://jobs.crelate.com/portal/helpinghandautismservices/job/c69t15j94gn8fyawz17sykf5te",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.467,
+        "skill_overlap_raw": 0.333,
+        "hyper_p_value": 1.82e-06,
+        "hyper_k": 3,
+        "hyper_K": 33,
+        "hyper_n": 9,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Behavior Technician (Part time, In Center)",
+      "company": "helpinghandautismservices",
+      "url": "https://jobs.crelate.com/portal/helpinghandautismservices/job/cop8foc6664itx4ssfjarxfkke",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 4.73e-06,
+        "hyper_k": 3,
+        "hyper_K": 33,
+        "hyper_n": 12,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "IT Support Specialist - Mondays ONLY",
-      "company": "itero-group",
-      "url": "https://job-boards.greenhouse.io/itero-group/jobs/5265095008",
-      "fit": 87,
-      "job_type": "goal",
+      "title": "Associate IT Support Analyst",
+      "company": "wmg",
+      "url": "https://jobs.lever.co/wmg/0eeaf153-af88-453d-8b96-513b65cd8368",
+      "fit": 62,
+      "job_type": "bridge",
       "subdomain": "it-support",
       "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.615,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.545,
+        "skill_overlap": 0.362,
+        "skill_overlap_raw": 0.556,
+        "hyper_p_value": null,
+        "hyper_k": 5,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "IT support role, no age restrictions.",
-      "bridge": "Your IT Support Specialist role hones troubleshooting, documentation, and communication skills that are directly transferable to software engineering, where you'll need to debug code, write clear technical specs, and collaborate with teams. Each ticket you resolve builds the analytical thinking and user empathy essential for a developer."
+      "eligibility_reason": "IT support analyst, no age restrictions.",
+      "cross_function": false,
+      "bridge": "As an Associate IT Support Analyst, you'll deepen your troubleshooting and customer-service skills while gaining hands-on experience with hardware, software, and IT service desk operations—all directly transferable to a Software Engineer or Developer role, where understanding system-level issues and user needs is critical."
     },
     {
-      "title": "IT SUPPORT SPECIALIST",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4260976",
-      "fit": 86,
-      "job_type": "goal",
+      "title": "IT Support Technician",
+      "company": "pattern",
+      "url": "https://jobs.lever.co/pattern/5ba4e11d-607a-468a-9eab-81d82c1bdaa5",
+      "fit": 62,
+      "job_type": "bridge",
       "subdomain": "it-support",
       "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.605,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.375,
+        "skill_overlap": 0.366,
+        "skill_overlap_raw": 0.571,
+        "hyper_p_value": null,
+        "hyper_k": 4,
+        "hyper_K": 0,
+        "hyper_n": 6,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "IT support specialist, no age restrictions.",
-      "bridge": "As an IT Support Specialist, you'll sharpen your troubleshooting and active listening skills while gaining hands-on experience with hardware, software, and networks—directly building the technical foundation needed for a Software Engineer role, where you'll apply these problem-solving abilities to code and system design."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your IT Support Technician role hones troubleshooting, hardware, and software skills that are directly transferable to software engineering, while building customer service and coordination abilities that set you apart as a developer who understands user needs."
+    },
+    {
+      "title": "IT Support Technician - Saturday - Tuesday",
+      "company": "pattern",
+      "url": "https://jobs.lever.co/pattern/cf79225c-7842-4e9f-ae3a-67f1f79b8c45",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.183,
+        "skill_overlap_raw": 0.286,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 7,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your IT Support Technician role sharpens your troubleshooting and customer service skills while building deep expertise in hardware, software, and policy compliance—all directly transferable to software engineering and development, where debugging and user-focused solutions are key."
+    },
+    {
+      "title": "Support Engineer",
+      "company": "palantir",
+      "url": "https://jobs.lever.co/palantir/838bce97-415d-4cdc-95ea-904005feb131",
+      "fit": 48,
+      "job_type": "goal",
+      "subdomain": "it-support",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.144,
+        "skill_overlap_raw": 0.222,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Support Engineer, you'll deepen your troubleshooting and process-improvement skills, which are directly transferable to software development. Automating tasks and managing tickets also builds the technical and coordination abilities that will help you transition into a Software Engineer or Developer role."
+    },
+    {
+      "title": "Veterinary Client Service Representative (CSR)",
+      "company": "innovetivepetcare",
+      "url": "https://innovetivepetcare.pinpointhq.com/en/postings/69515c30-5cf5-4cf9-a3d7-eb74eaf399a5",
+      "fit": 48,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.6,
+        "skill_overlap_raw": 0.429,
+        "hyper_p_value": 7.6e-07,
+        "hyper_k": 3,
+        "hyper_K": 33,
+        "hyper_n": 7,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your role as a Veterinary CSR hones communication, troubleshooting, and coordination skills that are directly transferable to IT support and software development, where you'll need to diagnose issues, manage client relations, and organize workflows. This practical experience in a fast-paced healthcare setting will make you a standout candidate for tech roles that value clear communication and problem-solving."
     }
   ],
   "aspirational": [
     {
-      "title": "Tech Support Specialist I - Remote Opportunity!",
-      "company": "kindercare",
-      "url": "https://kindercare.wd5.myworkdayjobs.com/job/Work-From-Home-OR/Tech-Support-Specialist-I---Remote-Opportunity-_JR45339",
-      "fit": 76,
+      "title": "Support Engineer - Fresher",
+      "company": "1kosmos",
+      "url": "https://apply.workable.com/j/B7408B385D",
+      "fit": 50,
       "job_type": "goal",
       "subdomain": "it-support",
       "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.522,
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.059,
+        "skill_overlap_raw": 0.083,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 24,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Vakantiewerk woonleefassistent - Wolvega en Heerenveen",
+      "company": "alliade",
+      "url": "https://alliade.recruitee.com/o/vakantiewerk-woonleefassistent-wolvega-en-heerenveen",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.625,
+        "skill_overlap": 0.467,
+        "skill_overlap_raw": 0.333,
+        "hyper_p_value": 0.00012021,
+        "hyper_k": 2,
+        "hyper_K": 33,
+        "hyper_n": 6,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Tech support specialist, remote, no age restrictions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Information Technology Technician",
-      "company": "fng",
-      "url": "https://jobs.dayforcehcm.com/fng/CANDIDATEPORTAL/jobs/12607",
-      "fit": 71,
-      "job_type": "goal",
+      "title": " Physical Therapy Aide Position - Twin Falls, Jerome and Gooding Clinics!",
+      "company": "bodybalancephysicaltherapy",
+      "url": "https://jobs.crelate.com/portal/bodybalancephysicaltherapy/job/pqsx7xgjzosdaobakesbphtnky",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00022359,
+        "hyper_k": 2,
+        "hyper_K": 33,
+        "hyper_n": 8,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Behavior Technician",
+      "company": "helpinghandautismservices",
+      "url": "https://jobs.crelate.com/portal/helpinghandautismservices/job/c69t15j94gn8fyawz17sykf5te",
+      "fit": 50,
+      "job_type": "bridge",
       "subdomain": "it-support",
-      "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.429,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.333,
+        "skill_overlap": 0.467,
+        "skill_overlap_raw": 0.333,
+        "hyper_p_value": 1.82e-06,
+        "hyper_k": 3,
+        "hyper_K": 33,
+        "hyper_n": 9,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "IT technician role, no age restrictions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "STEP-IT Apprentice (Must be a Nisqually Tribal Member)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4205447",
-      "fit": 67,
-      "job_type": "goal",
-      "subdomain": "software",
-      "function": "engineering",
-      "why": "This role builds your Customer and Personal Service, Troubleshooting, Active Listening skills and moves you toward becoming a Software Engineer.",
-      "gaps": "documentation, help-desk",
+      "title": "Behavior Technician (Part time, In Center)",
+      "company": "helpinghandautismservices",
+      "url": "https://jobs.crelate.com/portal/helpinghandautismservices/job/cop8foc6664itx4ssfjarxfkke",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "it-support",
+      "function": "healthcare",
+      "why": "This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.",
+      "gaps": "end-user-support, windows",
       "job_score_breakdown": {
-        "goal_alignment": 0.571,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.176,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.385,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 4.73e-06,
+        "hyper_k": 3,
+        "hyper_K": 33,
+        "hyper_n": 12,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Apprenticeship programs are typically open to 16-20 year olds."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
-  "skill_path": "You already have a strong foundation in customer service, troubleshooting, and communication. By adding documentation and help-desk skills, you'll quickly qualify for IT support roles, and with further development in desktop support and programming, you can reach your dream careers in software engineering or IT specialization.",
+  "skill_path": "Your strong foundation in customer service, troubleshooting, and bilingual skills makes you an ideal candidate for IT support roles. By building bridge skills in hardware support and incident management, and then adding Windows expertise and automation, you'll be well on your way to becoming an IT Support Specialist or even a Software Engineer!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Troubleshooting\n├── Active Listening\n├── Administrative\n├── Coordination\n├── Foreign Language\n├── Speaking\n├── Writing\n├── Time Management\n├── Accessibility\n├── Problem Solving (implicit)\n├── Multitasking (implicit)\n└── Attention to Detail (implicit)\n    ↓\nBRIDGE SKILLS\n├── Documentation\n└── Help-desk\n    ↓\nGOAL SKILLS\n├── Desktop-support\n├── Developer\n├── Diagnostic-tools\n├── End-user-support\n└── Go-to-VoIP\n    ↓\nDREAM CAREERS\n├── Software Engineer\n├── IT Support Specialist\n└── Developer",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Troubleshooting\n├── Administrative\n├── Foreign Language\n├── Coordination\n├── Active Listening\n├── Time Management\n├── accessibility\n├── administrative tasks\n├── bilingual\n│\n├── BRIDGE SKILLS\n│   ├── client-relations\n│   ├── front-desk\n│   ├── hardware-support\n│   ├── hospital-operations\n│   └── incident-management\n│\n├── GOAL SKILLS\n│   ├── end-user-support\n│   ├── windows\n│   ├── automation\n│   ├── documentation\n│   ├── knowledge-sharing\n│   ├── process-improvement\n│   └── tech-ops\n│\n└── CAREER PATHS\n    ├── IT Support Specialist\n    ├── Software Engineer\n    └── Developer",
     "steps": [
-      "Take a free online course on IT documentation (e.g., Google IT Support Certificate on Coursera)",
-      "Practice help-desk scenarios using a free ticketing system like osTicket or Spiceworks",
-      "Learn basic desktop support skills with a CompTIA A+ study guide",
-      "Build a small project using a programming language (e.g., Python or JavaScript) to start developer path",
-      "Explore diagnostic tools like Wireshark or Windows Performance Monitor for end-user support"
+      "Complete a Windows troubleshooting course (e.g., Microsoft Learn's Windows Fundamentals)",
+      "Practice end-user support scenarios via a help desk simulation or volunteer IT support",
+      "Learn basic automation scripting with PowerShell or Python (e.g., Automate the Boring Stuff)",
+      "Create documentation for a common IT process and share with peers to build knowledge-sharing skills",
+      "Apply for an entry-level IT support role to gain hands-on experience with incident management and tech ops"
     ],
-    "summary": "You already have a strong foundation in customer service, troubleshooting, and communication. By adding documentation and help-desk skills, you'll quickly qualify for IT support roles, and with further development in desktop support and programming, you can reach your dream careers in software engineering or IT specialization."
+    "summary": "Your strong foundation in customer service, troubleshooting, and bilingual skills makes you an ideal candidate for IT support roles. By building bridge skills in hardware support and incident management, and then adding Windows expertise and automation, you'll be well on your way to becoming an IT Support Specialist or even a Software Engineer!"
   },
   "ideal_careers": [
     "Software Engineer",
@@ -527,16 +1427,18 @@
       "technology"
     ],
     "goal_roles": [
-      "IT Support Specialist"
+      "Software Engineer",
+      "IT Support Specialist",
+      "Developer"
     ],
     "goal_subdomains": [
       "it-support"
     ],
     "study_domains": [
-      "technology"
+      "education"
     ],
     "study_subdomains": [
-      "it-support"
+      "classroom-support"
     ],
     "study_program": "High School Diploma in Leadership, Bilingual Communication, and",
     "study_level": "high-school",
@@ -547,7 +1449,7 @@
   "intent_summary": {
     "headline": "",
     "summary_text": "Ideal careers: Software Engineer, IT Support Specialist, Developer\n=== Benjamin Medrano - Resume.pdf ===\nContact\nmedranobenji2006@gmail.com\n(929) 267-6627\nBronx, NY 10458",
-    "study_text": "High School Diploma in Leadership, Bilingual Communication, and\nTechnical Skills\nCrotona International High School\n2021 - 2025-06"
+    "study_text": "High School Diploma in Leadership, Bilingual Communication, and\nTechnical Skills\nCrotona International High School\n2021 - 2025-06\nHigh School Diploma in Leadership, Bilingual Communication, and\nTechnical Skills\nCrotona International High School\n2021 - 2025-06\nHigh School Diploma "
   },
   "signal_breakdown": {
     "aspiration": {
@@ -582,7 +1484,7 @@
     "healthcare"
   ],
   "subdomain": "it-support",
-  "subdomain_confidence": 0.72,
+  "subdomain_confidence": 0.9,
   "subdomain_alternatives": [
     "it-support",
     "engineering"
@@ -593,199 +1495,87 @@
     "it-support",
     "it-support",
     "it-support",
-    "software"
+    "it-support"
   ],
   "needs_review": true,
-  "review_reasons": [],
+  "review_reasons": [
+    "llm_provider_error"
+  ],
   "llm_stage_results": {
     "route": {
       "accepted": true,
       "chosen_function": "technology",
       "chosen_subdomain": "it-support",
-      "secondary_function": "healthcare",
+      "confidence": 0.9,
+      "evidence_spans": [
+        {
+          "section": "Professional Experience",
+          "text": "Troubleshot hardware and software issues, improving user experience."
+        },
+        {
+          "section": "Professional Experience",
+          "text": "Assisted staff with technical troubleshooting and administrative tasks."
+        }
+      ],
       "goal_domains": [
         "technology"
       ],
-      "study_domains": [
-        "technology"
+      "goal_roles": [
+        "Software Engineer",
+        "IT Support Specialist",
+        "Developer"
       ],
       "goal_subdomains": [
         "it-support"
       ],
-      "study_subdomains": [
-        "it-support"
-      ],
-      "goal_roles": [
-        "IT Support Specialist"
-      ],
-      "confidence": 0.65,
-      "evidence_spans": [
-        {
-          "section": "Professional Experience",
-          "text": "Provided technical support and organizational assistance in a professional internship setting."
-        },
-        {
-          "section": "Professional Experience",
-          "text": "Troubleshot hardware and software issues, improving user experience."
-        }
-      ],
       "reason_codes": [
-        "explicit_goal",
-        "work_experience"
+        "explicit_career_goals",
+        "strong_work_experience"
       ],
-      "review_reasons": []
+      "review_reasons": [],
+      "secondary_function": "healthcare",
+      "study_domains": [
+        "education"
+      ],
+      "study_subdomains": []
     },
     "evidence": {
-      "accepted": true,
-      "scored_skills": [
-        "Customer and Personal Service",
-        "Troubleshooting",
-        "Active Listening",
-        "Administrative",
-        "Coordination",
-        "Foreign Language",
-        "Speaking",
-        "Writing",
-        "Time Management",
-        "accessibility",
-        "bilingual",
-        "communication",
-        "customer service",
-        "customer service excellence",
-        "hardware",
-        "hardware and software",
-        "it support",
-        "languages",
-        "leadership",
-        "office",
-        "operations",
-        "organization",
-        "organizational skills",
-        "organized",
-        "professional standards",
-        "service excellence",
-        "software",
-        "software issues",
-        "spanish",
-        "spanish english",
-        "strong organizational skills",
-        "teamwork",
-        "technical",
-        "technical skills",
-        "technical support",
-        "technical troubleshooting",
-        "translation",
-        "translation services",
-        "translations",
-        "user experience",
-        "workspace",
-        "english spanish",
-        "bilingualcommunication",
-        "clients",
-        "coordinating",
-        "delivering",
-        "efficiency",
-        "efficient",
-        "engaging",
-        "guidance",
-        "motivated",
-        "office supplies",
-        "professional",
-        "professional experience",
-        "projects",
-        "reliable",
-        "service",
-        "standards"
-      ],
-      "verified_skills": [
-        "Customer and Personal Service",
-        "Troubleshooting",
-        "Active Listening",
-        "Administrative",
-        "Coordination",
-        "Foreign Language",
-        "Speaking",
-        "Writing",
-        "Time Management",
-        "accessibility",
-        "bilingual",
-        "communication",
-        "customer service",
-        "customer service excellence",
-        "hardware",
-        "hardware and software",
-        "it support",
-        "languages",
-        "leadership",
-        "office",
-        "operations",
-        "organization",
-        "organizational skills",
-        "organized",
-        "professional standards",
-        "service excellence",
-        "software",
-        "software issues",
-        "spanish",
-        "spanish english",
-        "strong organizational skills",
-        "teamwork",
-        "technical",
-        "technical skills",
-        "technical support",
-        "technical troubleshooting",
-        "translation",
-        "translation services",
-        "translations",
-        "user experience",
-        "workspace",
-        "english spanish",
-        "bilingualcommunication",
-        "clients",
-        "coordinating",
-        "delivering",
-        "efficiency",
-        "efficient",
-        "engaging",
-        "guidance",
-        "motivated",
-        "office supplies",
-        "professional",
-        "professional experience",
-        "projects",
-        "reliable",
-        "service",
-        "standards"
-      ],
-      "possible_skills": [],
-      "rejected_skills": [
-        "diploma",
-        "high school",
-        "high school diploma",
-        "high school graduate",
-        "internship"
-      ],
-      "implicit_skills": [
-        {
-          "skill": "Problem Solving",
-          "reason": "Troubleshooting and technical support imply problem-solving ability.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Multitasking",
-          "reason": "Coordination and handling multiple tasks (administrative, customer service) suggest multitasking.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Attention to Detail",
-          "reason": "Organizational skills and administrative tasks require attention to detail.",
-          "confidence": "medium"
-        }
-      ],
-      "evidence_items": [],
-      "review_reasons": []
+      "accepted": false,
+      "error": "HTTP Error 429: Too Many Requests",
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     }
   },
+  "classifier_top_function": {
+    "arts-media": 33,
+    "finance": 14,
+    "healthcare": 11
+  },
+  "cross_functions_explored": [
+    "hospitality",
+    "social-service",
+    "social-service"
+  ],
+  "cross_function_count": 3,
+  "cross_function_jobs": [
+    {
+      "title": "DHBW-Student BWL-Dienstleistungsmanagement (m/w/d) - Logistik- und Supply Chain Management | Ausbildungsbeginn: 06.09.2027",
+      "function": "hospitality",
+      "fit": 18
+    },
+    {
+      "title": "Dual Language Assistant",
+      "function": "social-service",
+      "fit": 26
+    },
+    {
+      "title": "Instructional Assistant Atlanta  (IT Support)",
+      "function": "social-service",
+      "fit": 0
+    }
+  ],
+  "explore_jobs": [],
   "llm_trace": [
     {
       "stage": "route",
@@ -794,8 +1584,10 @@
     },
     {
       "stage": "evidence",
-      "accepted": true,
-      "review_reasons": []
+      "accepted": false,
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     }
   ],
   "normalization_source": "hybrid"

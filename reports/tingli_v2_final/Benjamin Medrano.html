@@ -1,0 +1,655 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Benjamin Medrano — SpeakHire Career Report</title>
+<style>
+/* ===================================================================
+   Apple-style report stylesheet
+   =================================================================== */
+
+/* ── Design tokens ─────────────────────────────────────────────── */
+:root {
+  --bg:            #f5f5f7;
+  --surface:       #ffffff;
+  --text:          #1d1d1f;
+  --text-secondary:#6e6e73;
+  --text-tertiary: #aeaeb2;
+  --accent:        #0071e3;
+  --accent-light:  #e8f2fd;
+  --green:         #34c759;
+  --green-bg:      #e8f8ed;
+  --orange:        #ff9500;
+  --orange-bg:     #fff4e5;
+  --red:           #ff3b30;
+  --red-bg:        #ffeceb;
+  --amber:         #ff9f0a;
+  --amber-bg:      #fff8e5;
+  --border:        #d2d2d7;
+  --border-subtle: #e5e5ea;
+  --radius:        12px;
+  --radius-sm:     8px;
+  --radius-lg:     16px;
+  --shadow:        0 1px 3px rgba(0,0,0,0.04), 0 0 0 0.5px rgba(0,0,0,0.02);
+  --shadow-hover:  0 4px 16px rgba(0,0,0,0.06), 0 0 0 0.5px rgba(0,0,0,0.03);
+  --font:          -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                   "Helvetica Neue", "Segoe UI", sans-serif;
+  --font-mono:     "SF Mono", "JetBrains Mono", "Menlo", "Consolas", monospace;
+}
+
+/* ── Reset & base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font: 400 15px/1.6 var(--font);
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Container ─────────────────────────────────────────────────── */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+/* ── Header ────────────────────────────────────────────────────── */
+.report-header {
+  padding: 0 0 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.report-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
+
+.report-header .meta-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
+
+.report-header .meta-row .stat {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 500;
+}
+
+.report-header .meta-row .stat strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.report-header .meta-row .stat.conf-high strong { color: var(--green); }
+.report-header .meta-row .stat.conf-mid  strong { color: var(--orange); }
+.report-header .meta-row .stat.conf-low  strong { color: var(--red); }
+
+/* Review indicator — subtle amber dot */
+.review-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--amber);
+}
+.review-indicator::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--amber);
+}
+
+/* ── Skills bar ────────────────────────────────────────────────── */
+.skills-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.2rem;
+}
+
+.skill-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+}
+
+.skill-pill.implicit {
+  color: var(--text-tertiary);
+  border-style: dashed;
+}
+
+/* ── Summary card ──────────────────────────────────────────────── */
+.summary-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.summary-card p {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.summary-card .careers {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ── Section headings ──────────────────────────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.5rem 0 1.2rem;
+}
+
+.section-head h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.section-head .rule {
+  flex: 1;
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+/* ── Progression columns (replaces ASCII tree) ─────────────────── */
+.progression {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.progression .tier {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.progression .tier .tier-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.progression .tier .tier-item {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.4;
+  padding: 0.15rem 0;
+}
+
+.progression .tier .tier-item:last-child { border-bottom: none; }
+
+/* Color accents per tier */
+.progression .tier.tier-current  .tier-label { color: var(--text-secondary); }
+.progression .tier.tier-bridge   .tier-label { color: var(--orange); }
+.progression .tier.tier-stretch  .tier-label { color: var(--accent); }
+.progression .tier.tier-dream    .tier-label { color: var(--green); }
+
+/* ── Steps ──────────────────────────────────────────────────────── */
+.steps {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.steps li {
+  counter-increment: step;
+  padding: 0.45rem 0 0.45rem 2.2rem;
+  position: relative;
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Recommendations grid ──────────────────────────────────────── */
+.report-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.stat-card h3 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.stat-card.full { grid-column: 1 / -1; }
+
+/* ── Job cards ──────────────────────────────────────────────────── */
+.job-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.job-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  transition: box-shadow 0.15s ease;
+}
+
+.job-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.job-card .job-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.job-card .job-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.35;
+}
+
+.job-card .job-company {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+
+.job-card .job-score {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+
+.score-ready { background: var(--green-bg); color: var(--green); }
+.score-goal  { background: var(--orange-bg); color: var(--orange); }
+.score-explore { background: var(--accent-light); color: var(--accent); }
+
+.job-card .job-why {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  margin-top: 0.45rem;
+  line-height: 1.5;
+}
+
+.job-card .job-link {
+  display: inline-block;
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.job-card .job-link:hover {
+  text-decoration: underline;
+}
+
+.job-card .job-link::after {
+  content: " →";
+  font-weight: 400;
+}
+
+/* ── Skill gaps ────────────────────────────────────────────────── */
+.gaps-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.gap-col {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+}
+
+.gap-col h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.gap-col .gap-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.gap-col .gap-pill {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 99px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.gap-core    { border-left: 3px solid var(--red);    }
+.gap-core    h4 { color: var(--red);    }
+.gap-core    .gap-pill { background: var(--red-bg);    color: var(--red);    }
+
+.gap-bridge  { border-left: 3px solid var(--orange);  }
+.gap-bridge  h4 { color: var(--orange); }
+.gap-bridge  .gap-pill { background: var(--orange-bg); color: var(--orange); }
+
+.gap-stretch { border-left: 3px solid var(--accent);  }
+.gap-stretch h4 { color: var(--accent);  }
+.gap-stretch .gap-pill { background: var(--accent-light); color: var(--accent); }
+
+/* ── Footer ────────────────────────────────────────────────────── */
+.report-footer {
+  text-align: center;
+  padding: 2.5rem 0 0;
+  margin-top: 3rem;
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ── Print styles ──────────────────────────────────────────────── */
+@media print {
+  body {
+    background: #fff;
+    font-size: 12px;
+    color: #000;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .container { max-width: none; padding: 0.5in; }
+
+  .report-header {
+    border-bottom: 0.5pt solid #ccc;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .section-head .rule { background: #ccc; }
+
+  .stat-card,
+  .job-card,
+  .summary-card,
+  .gap-col,
+  .progression .tier {
+    box-shadow: none;
+    border: 0.5pt solid #ddd;
+    break-inside: avoid;
+  }
+
+  .job-card .job-link::after { content: ""; }
+
+  .report-grid,
+  .gaps-grid,
+  .progression { gap: 0.6rem; }
+
+  .report-footer {
+    border-top: 0.5pt solid #ccc;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .skill-pill,
+  .gap-pill {
+    border: 0.5pt solid #ccc;
+  }
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .report-grid,
+  .gaps-grid,
+  .progression {
+    grid-template-columns: 1fr;
+  }
+
+  .report-header h1 { font-size: 1.6rem; }
+  .report-header .meta-row { gap: 0.8rem; }
+}
+</style>
+<div class="container">
+  <header class="report-header">
+    <h1>Benjamin Medrano</h1>
+    <div class="meta-row">
+      <span class="stat">Direction: <strong>technology/it-support</strong></span>
+      <span class="stat conf-low">Confidence: <strong>56%</strong></span>
+      <span class="stat">Lane: <strong>rescue</strong></span>
+      <span class="review-indicator">Review suggested</span>
+    </div>
+    <div class="skills-bar">
+      <span class="skill-pill">Customer and Personal Service</span>
+      <span class="skill-pill">Troubleshooting</span>
+      <span class="skill-pill">Administrative</span>
+      <span class="skill-pill">Foreign Language</span>
+      <span class="skill-pill">Coordination</span>
+      <span class="skill-pill">Active Listening</span>
+      <span class="skill-pill">Speaking</span>
+      <span class="skill-pill">accessibility</span>
+    </div>
+  </header>
+  <div class="summary-card">
+    <p><span class="careers">Target careers:</span> Software Engineer, IT Support Specialist, Developer</p>
+    <p style="margin-top:0.5rem">You already have strong customer service and troubleshooting skills—perfect for IT support. By learning C# and cloud basics, you'll unlock paths to software engineering and development. Keep building step by step!</p>
+  </div>
+  <div class="section-head"><h2>Skill Progression</h2><span class="rule"></span></div>
+      <div class="progression">
+        <div class="tier tier-current">
+          <div class="tier-label">Current Skills</div>
+          <div class="tier-item">Customer and Personal Service</div>
+          <div class="tier-item">Troubleshooting</div>
+          <div class="tier-item">Administrative</div>
+          <div class="tier-item">Foreign Language</div>
+          <div class="tier-item">Coordination</div>
+          <div class="tier-item">Active Listening</div>
+        </div>
+        <div class="tier tier-bridge">
+          <div class="tier-label">Learn Next</div>
+          <div class="tier-item">c# (core missing)</div>
+          <div class="tier-item">cloud-engineering</div>
+          <div class="tier-item">data-acquisition</div>
+          <div class="tier-item">calibration</div>
+          <div class="tier-item">assembly</div>
+          <div class="tier-item">cmms</div>
+        </div>
+        <div class="tier tier-stretch">
+          <div class="tier-label">Future Skills</div>
+          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>
+        </div>
+        <div class="tier tier-dream">
+          <div class="tier-label">Dream Careers</div>
+          <div class="tier-item">Software Engineer</div>
+          <div class="tier-item">IT Support Specialist</div>
+          <div class="tier-item">Developer</div>
+        </div>
+      </div>
+  <ol class="steps">
+    <li>Take a free C# course on Microsoft Learn to build programming fundamentals.</li>
+    <li>Practice troubleshooting by setting up a home lab with virtual machines.</li>
+    <li>Learn cloud basics with AWS or Azure free tier and earn a foundational certification.</li>
+    <li>Explore data acquisition tools like Python or SQL through online tutorials.</li>
+    <li>Apply for entry-level IT support roles to gain hands-on experience.</li>
+  </ol>
+  <div class="section-head"><h2>Recommendations</h2><span class="rule"></span></div>
+  <div class="report-grid">
+    <div class="stat-card">
+      <h3>Available Now</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Associate Scan Technician</div>
+          <div class="job-company">2k</div>
+          </div>
+          <div class="job-score score-ready">76%</div>
+        </div>
+        <div class="job-why">This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: As an Associate Scan Technician, you'll build calibration and data-acquisition skills that directly translate to software engineering, where precision and data handling are key. Your troubleshooting and teamwork experience will also strengthen your IT support capabilities, making this role a practical stepping stone toward your tech career goals.</div>
+        <a class="job-link" href="https://job-boards.greenhouse.io/2k/jobs/7778405003" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Physical Therapist Unique Opportunity</div>
+          <div class="job-company">lptandbapt</div>
+          </div>
+          <div class="job-score score-ready">61%</div>
+        </div>
+        <div class="job-why">This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: As a Physical Therapist, you're already honing troubleshooting, coordination, and active listening—skills directly applicable to diagnosing tech issues and collaborating with teams in IT or software development. Your clinical diagnostics and interdisciplinary collaboration will translate into debugging complex systems and working cross-functionally, while documentation and treatment planning build the structured thinking needed for coding and project management.</div>
+        <a class="job-link" href="https://careers.jobscore.com/careers/lptandbapt/jobs/physical-therapist-unique-opportunity-aOPDI_Ff9bfl-z07Wlj38_?ref=rss&sid=68" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Nanny / Family Assistant – Westerville, OH</div>
+          <div class="job-company">wellthy-care-network</div>
+          </div>
+          <div class="job-score score-ready">41%</div>
+        </div>
+        <div class="job-why">[Other match] This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.</div>
+        <a class="job-link" href="https://job-boards.greenhouse.io/wellthy-care-network/jobs/7761461003" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <h3>Career Goals</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">.NET Developer</div>
+          <div class="job-company">accepted-ltd</div>
+          </div>
+          <div class="job-score score-goal">65%</div>
+        </div>
+        <div class="job-why">This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: As a .NET Developer, you'll build transferable skills in C#, microservices, and SQL that directly apply to your aspirational roles in software engineering and IT support, while your existing strengths in troubleshooting and coordination will help you excel in designing scalable systems and resolving technical issues.</div>
+        <a class="job-link" href="https://apply.workable.com/j/58A78CCF3C" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Veterinary Client Service Representative (CSR)</div>
+          <div class="job-company">innovetivepetcare</div>
+          </div>
+          <div class="job-score score-goal">51%</div>
+        </div>
+        <div class="job-why">This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: As a Veterinary CSR, you're already building strong communication, troubleshooting, and coordination skills that are directly transferable to IT support and software development. Mastering client relations and hospital operations hones your ability to understand user needs and manage complex systems, which is exactly what you'll do when debugging code or supporting end-users.</div>
+        <a class="job-link" href="https://innovetivepetcare.pinpointhq.com/en/postings/69515c30-5cf5-4cf9-a3d7-eb74eaf399a5" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">IT Service Desk Intern</div>
+          <div class="job-company">66degrees</div>
+          </div>
+          <div class="job-score score-goal">65%</div>
+        </div>
+        <div class="job-why">This role builds your Customer and Personal Service, Troubleshooting, Administrative skills and moves you toward becoming a Software Engineer.</div>
+        <a class="job-link" href="https://job-boards.greenhouse.io/66degrees/jobs/5988396004" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="section-head"><h2>Skill Gaps</h2><span class="rule"></span></div>
+  <div class="gaps-grid">
+    <div class="gap-col gap-core">
+      <h4>Core (priority)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">c#</span>
+      </div>
+    </div>
+    <div class="gap-col gap-stretch">
+      <h4>Stretch (future)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">assembly</span>
+        <span class="gap-pill">calibration</span>
+        <span class="gap-pill">cloud-engineering</span>
+        <span class="gap-pill">cmms</span>
+        <span class="gap-pill">data-acquisition</span>
+        <span class="gap-pill">dc-circuit-troubleshooting</span>
+      </div>
+    </div>
+  </div>
+  <footer class="report-footer">SpeakHire Career Report</footer>
+</div>
+</html>

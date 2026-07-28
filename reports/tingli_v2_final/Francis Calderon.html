@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Francis Calderon — SpeakHire Career Report</title>
+<style>
+/* ===================================================================
+   Apple-style report stylesheet
+   =================================================================== */
+
+/* ── Design tokens ─────────────────────────────────────────────── */
+:root {
+  --bg:            #f5f5f7;
+  --surface:       #ffffff;
+  --text:          #1d1d1f;
+  --text-secondary:#6e6e73;
+  --text-tertiary: #aeaeb2;
+  --accent:        #0071e3;
+  --accent-light:  #e8f2fd;
+  --green:         #34c759;
+  --green-bg:      #e8f8ed;
+  --orange:        #ff9500;
+  --orange-bg:     #fff4e5;
+  --red:           #ff3b30;
+  --red-bg:        #ffeceb;
+  --amber:         #ff9f0a;
+  --amber-bg:      #fff8e5;
+  --border:        #d2d2d7;
+  --border-subtle: #e5e5ea;
+  --radius:        12px;
+  --radius-sm:     8px;
+  --radius-lg:     16px;
+  --shadow:        0 1px 3px rgba(0,0,0,0.04), 0 0 0 0.5px rgba(0,0,0,0.02);
+  --shadow-hover:  0 4px 16px rgba(0,0,0,0.06), 0 0 0 0.5px rgba(0,0,0,0.03);
+  --font:          -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                   "Helvetica Neue", "Segoe UI", sans-serif;
+  --font-mono:     "SF Mono", "JetBrains Mono", "Menlo", "Consolas", monospace;
+}
+
+/* ── Reset & base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font: 400 15px/1.6 var(--font);
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Container ─────────────────────────────────────────────────── */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+/* ── Header ────────────────────────────────────────────────────── */
+.report-header {
+  padding: 0 0 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.report-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
+
+.report-header .meta-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
+
+.report-header .meta-row .stat {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 500;
+}
+
+.report-header .meta-row .stat strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.report-header .meta-row .stat.conf-high strong { color: var(--green); }
+.report-header .meta-row .stat.conf-mid  strong { color: var(--orange); }
+.report-header .meta-row .stat.conf-low  strong { color: var(--red); }
+
+/* Review indicator — subtle amber dot */
+.review-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--amber);
+}
+.review-indicator::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--amber);
+}
+
+/* ── Skills bar ────────────────────────────────────────────────── */
+.skills-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.2rem;
+}
+
+.skill-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+}
+
+.skill-pill.implicit {
+  color: var(--text-tertiary);
+  border-style: dashed;
+}
+
+/* ── Summary card ──────────────────────────────────────────────── */
+.summary-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.summary-card p {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.summary-card .careers {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ── Section headings ──────────────────────────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.5rem 0 1.2rem;
+}
+
+.section-head h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.section-head .rule {
+  flex: 1;
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+/* ── Progression columns (replaces ASCII tree) ─────────────────── */
+.progression {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.progression .tier {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.progression .tier .tier-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.progression .tier .tier-item {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.4;
+  padding: 0.15rem 0;
+}
+
+.progression .tier .tier-item:last-child { border-bottom: none; }
+
+/* Color accents per tier */
+.progression .tier.tier-current  .tier-label { color: var(--text-secondary); }
+.progression .tier.tier-bridge   .tier-label { color: var(--orange); }
+.progression .tier.tier-stretch  .tier-label { color: var(--accent); }
+.progression .tier.tier-dream    .tier-label { color: var(--green); }
+
+/* ── Steps ──────────────────────────────────────────────────────── */
+.steps {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.steps li {
+  counter-increment: step;
+  padding: 0.45rem 0 0.45rem 2.2rem;
+  position: relative;
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Recommendations grid ──────────────────────────────────────── */
+.report-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.stat-card h3 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.stat-card.full { grid-column: 1 / -1; }
+
+/* ── Job cards ──────────────────────────────────────────────────── */
+.job-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.job-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  transition: box-shadow 0.15s ease;
+}
+
+.job-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.job-card .job-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.job-card .job-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.35;
+}
+
+.job-card .job-company {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+
+.job-card .job-score {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+
+.score-ready { background: var(--green-bg); color: var(--green); }
+.score-goal  { background: var(--orange-bg); color: var(--orange); }
+.score-explore { background: var(--accent-light); color: var(--accent); }
+
+.job-card .job-why {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  margin-top: 0.45rem;
+  line-height: 1.5;
+}
+
+.job-card .job-link {
+  display: inline-block;
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.job-card .job-link:hover {
+  text-decoration: underline;
+}
+
+.job-card .job-link::after {
+  content: " →";
+  font-weight: 400;
+}
+
+/* ── Skill gaps ────────────────────────────────────────────────── */
+.gaps-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.gap-col {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+}
+
+.gap-col h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.gap-col .gap-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.gap-col .gap-pill {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 99px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.gap-core    { border-left: 3px solid var(--red);    }
+.gap-core    h4 { color: var(--red);    }
+.gap-core    .gap-pill { background: var(--red-bg);    color: var(--red);    }
+
+.gap-bridge  { border-left: 3px solid var(--orange);  }
+.gap-bridge  h4 { color: var(--orange); }
+.gap-bridge  .gap-pill { background: var(--orange-bg); color: var(--orange); }
+
+.gap-stretch { border-left: 3px solid var(--accent);  }
+.gap-stretch h4 { color: var(--accent);  }
+.gap-stretch .gap-pill { background: var(--accent-light); color: var(--accent); }
+
+/* ── Footer ────────────────────────────────────────────────────── */
+.report-footer {
+  text-align: center;
+  padding: 2.5rem 0 0;
+  margin-top: 3rem;
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ── Print styles ──────────────────────────────────────────────── */
+@media print {
+  body {
+    background: #fff;
+    font-size: 12px;
+    color: #000;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .container { max-width: none; padding: 0.5in; }
+
+  .report-header {
+    border-bottom: 0.5pt solid #ccc;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .section-head .rule { background: #ccc; }
+
+  .stat-card,
+  .job-card,
+  .summary-card,
+  .gap-col,
+  .progression .tier {
+    box-shadow: none;
+    border: 0.5pt solid #ddd;
+    break-inside: avoid;
+  }
+
+  .job-card .job-link::after { content: ""; }
+
+  .report-grid,
+  .gaps-grid,
+  .progression { gap: 0.6rem; }
+
+  .report-footer {
+    border-top: 0.5pt solid #ccc;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .skill-pill,
+  .gap-pill {
+    border: 0.5pt solid #ccc;
+  }
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .report-grid,
+  .gaps-grid,
+  .progression {
+    grid-template-columns: 1fr;
+  }
+
+  .report-header h1 { font-size: 1.6rem; }
+  .report-header .meta-row { gap: 0.8rem; }
+}
+</style>
+<div class="container">
+  <header class="report-header">
+    <h1>Francis Calderon</h1>
+    <div class="meta-row">
+      <span class="stat">Direction: <strong>arts-media/creative-education</strong></span>
+      <span class="stat conf-low">Confidence: <strong>58%</strong></span>
+      <span class="stat">Lane: <strong>rescue</strong></span>
+      <span class="review-indicator">Review suggested</span>
+    </div>
+    <div class="skills-bar">
+      <span class="skill-pill">bilingual</span>
+      <span class="skill-pill">typing skills</span>
+      <span class="skill-pill">paint</span>
+      <span class="skill-pill">dance</span>
+      <span class="skill-pill implicit">public speaking</span>
+      <span class="skill-pill implicit">teamwork</span>
+      <span class="skill-pill implicit">leadership</span>
+    </div>
+  </header>
+  <div class="summary-card">
+    <p><span class="careers">Target careers:</span> Content Creator, Photographer, Media Professional</p>
+    <p style="margin-top:0.5rem">You already have a strong foundation in bilingualism, typing, and creative arts. By building communication, customer support, and empathy skills, you'll unlock the bridge to content creation, photography, and media roles. Start with communication training to accelerate your path!</p>
+  </div>
+  <div class="section-head"><h2>Skill Progression</h2><span class="rule"></span></div>
+      <div class="progression">
+        <div class="tier tier-current">
+          <div class="tier-label">Current Skills</div>
+          <div class="tier-item">bilingual</div>
+          <div class="tier-item">typing skills</div>
+          <div class="tier-item">paint</div>
+          <div class="tier-item">dance</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">public speaking</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">teamwork</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">leadership</div>
+        </div>
+        <div class="tier tier-bridge">
+          <div class="tier-label">Learn Next</div>
+          <div class="tier-item">communication</div>
+          <div class="tier-item">customer-support</div>
+          <div class="tier-item">empathy</div>
+          <div class="tier-item">english</div>
+          <div class="tier-item">troubleshooting</div>
+          <div class="tier-item">campaign-management</div>
+        </div>
+        <div class="tier tier-stretch">
+          <div class="tier-label">Future Skills</div>
+          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>
+        </div>
+        <div class="tier tier-dream">
+          <div class="tier-label">Dream Careers</div>
+          <div class="tier-item">Content Creator</div>
+          <div class="tier-item">Photographer</div>
+          <div class="tier-item">Media Professional</div>
+        </div>
+      </div>
+  <ol class="steps">
+    <li>Enroll in a free online course on effective communication (e.g., Coursera's 'Improving Communication Skills').</li>
+    <li>Practice customer support by volunteering for a local nonprofit's helpline or using a platform like Zendesk's free training.</li>
+    <li>Take an empathy-building workshop or read 'The Art of Empathy' by Karla McLaren.</li>
+    <li>Improve English proficiency with Duolingo or a community college ESL class.</li>
+    <li>Learn troubleshooting basics via Google's IT Support Professional Certificate on Coursera.</li>
+  </ol>
+  <div class="section-head"><h2>Recommendations</h2><span class="rule"></span></div>
+  <div class="report-grid">
+    <div class="stat-card">
+      <h3>Available Now</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Community Intern</div>
+          <div class="job-company">amartha</div>
+          </div>
+          <div class="job-score score-ready">62%</div>
+        </div>
+        <div class="job-why">This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your Community Intern role sharpens communication, content-planning, and social-media skills—directly transferable to creating engaging content and building an audience as a Content Creator or Media Professional. These practical skills, combined with your bilingual and creative talents, will give you a strong foundation for photography storytelling and media production.</div>
+        <a class="job-link" href="https://apply.workable.com/j/8741625AC1" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">LA Galaxy Academy, Academic Tutor (Part-Time)</div>
+          <div class="job-company">aegworldwide</div>
+          </div>
+          <div class="job-score score-ready">58%</div>
+        </div>
+        <div class="job-why">This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your tutoring role sharpens your data analysis and lesson planning skills, which directly translate to structuring content and analyzing audience engagement for media projects. Plus, collaborating with learning coaches builds teamwork and communication abilities essential for creative production.</div>
+        <a class="job-link" href="https://job-boards.greenhouse.io/aegworldwide/jobs/8550124002" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Dutch Beauty Advisor</div>
+          <div class="job-company">atleanworld</div>
+          </div>
+          <div class="job-score score-ready">62%</div>
+        </div>
+        <div class="job-why">This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.</div>
+        <a class="job-link" href="https://apply.workable.com/j/46DD0328AA" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <h3>Career Goals</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Czech Digital Content Review Agent</div>
+          <div class="job-company">atleanworld</div>
+          </div>
+          <div class="job-score score-goal">52%</div>
+        </div>
+        <div class="job-why">This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: As a Czech Digital Content Review Agent, you'll sharpen your eye for detail and policy compliance, which directly translates to creating polished, brand-aligned content as a Content Creator. Plus, your bilingual skills and empathy will help you understand diverse audiences, a key asset for any Media Professional.</div>
+        <a class="job-link" href="https://apply.workable.com/j/C892ED99EF" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">CMMC - Full Time Faculty - Media and Mass Communication</div>
+          <div class="job-company">americanuniversity</div>
+          </div>
+          <div class="job-score score-goal">50%</div>
+        </div>
+        <div class="job-why">This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your faculty role builds advanced editing, public relations, and mass communication theory skills that directly transfer to content creation and media professionalism, while curriculum development sharpens your ability to structure engaging narratives—key for photography storytelling.</div>
+        <a class="job-link" href="https://AmericanUniversity.hire.trakstar.com/jobs/fk0ppeh/" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Dutch Social Media Advisor</div>
+          <div class="job-company">atleanworld</div>
+          </div>
+          <div class="job-score score-goal">52%</div>
+        </div>
+        <div class="job-why">This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.</div>
+        <a class="job-link" href="https://apply.workable.com/j/DB7BAFBB1B" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="section-head"><h2>Skill Gaps</h2><span class="rule"></span></div>
+  <div class="gaps-grid">
+    <div class="gap-col gap-core">
+      <h4>Core (priority)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">communication</span>
+        <span class="gap-pill">customer-support</span>
+        <span class="gap-pill">empathy</span>
+        <span class="gap-pill">english</span>
+        <span class="gap-pill">troubleshooting</span>
+      </div>
+    </div>
+    <div class="gap-col gap-stretch">
+      <h4>Stretch (future)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">campaign-management</span>
+        <span class="gap-pill">chat-support</span>
+        <span class="gap-pill">communication-skills</span>
+        <span class="gap-pill">community-management</span>
+        <span class="gap-pill">content-planning</span>
+        <span class="gap-pill">content-review</span>
+      </div>
+    </div>
+  </div>
+  <footer class="report-footer">SpeakHire Career Report</footer>
+</div>
+</html>

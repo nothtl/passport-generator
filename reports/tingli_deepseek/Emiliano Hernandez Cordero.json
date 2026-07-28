@@ -1,61 +1,29 @@
 {
   "resume": "=== Emiliano Hernandez Cordero - Resume.pdf ===\nEMILIANO HERNANDEZ CORDERO\nStaten Island, NY | (347) 544-3827 | emilianocordero122007@aol.com\n\nEDUCATION\nJohn Jay College of Criminal Justice – CUNY, New York, NY\nBachelor of Arts in Criminal Justice | Expected Graduation: 2029\n\nEXPERIENCE\nMcDonald’s – 600 W 125th St, New York, NY 10027\nCrew Member | Sept 20, 2025 – Dec 22, 2025\n(cid:127) Provided fast-paced customer service in a high-volume environment.\n(cid:127) Operated point-of-sale systems and handled cash transactions accurately.\n(cid:127) Prepared food according to safety, quality, and cleanliness standards.\n(cid:127) Collaborated with team members to maintain efficiency during peak hours.\n\nWe Can’t Breathe – Harlem & Brooklyn, NY | Founder’s Assistant | May 2024 – Aug 2024\n(cid:127) Researched organizations for donations and scholarships for low-income students.\n(cid:127) Created persuasive emails to engage sponsors and coordinated food distribution efforts.\n\nLa Colmena Staten Island Community Job Center – Staten Island, NY | Founder’s Assistant | Jan 2025\n– Apr 2025\n(cid:127) Provided Spanish-English interpretation and supported event planning.\n(cid:127) Organized documents and managed resource distribution at community events.\n\nEVC New Media Arts – New York, NY | Teacher’s Helper | May 2023 – Aug 2023\n(cid:127) Assisted with classroom activities, small group instruction, and student support.\n\nRosie O’Grady’s – New York, NY | Busboy | Jan 2021 – Sept 2021\n(cid:127) Maintained cleanliness, supported waitstaff, and prepared dining areas for service.\n\nEXTRACURRICULARS\nDream Team: Co-Leader, New York, NY\nAlianza Multicultural Group: Member, New York, NY\nSpeak Hire Communication Program: Participant, New York, NY\n\nSKILLS & LANGUAGES\nMicrosoft Office, Google Suite, Canva\nBilingual: English & Spanish\nCommunication, teamwork, leadership",
-  "function": "social-service",
-  "confidence": 55,
+  "function": "food-service",
+  "confidence": 52,
   "skills": [
-    "bilingual",
-    "bilingual english",
-    "bilingual english spanish",
-    "canva",
-    "communication",
-    "english spanish",
-    "english spanish communication",
-    "google",
-    "google suite",
-    "languages",
-    "leadership",
-    "microsoft",
-    "microsoft office",
-    "office",
-    "spanish"
-  ],
-  "verified_skills": [
-    "bilingual",
-    "bilingual english",
-    "bilingual english spanish",
-    "canva",
-    "communication",
-    "english spanish",
-    "english spanish communication",
-    "google",
-    "google suite",
-    "languages",
-    "leadership",
-    "microsoft",
-    "microsoft office",
-    "office",
-    "spanish"
-  ],
-  "possible_skills": [],
-  "rejected_skills": [
-    "Active Listening",
-    "Administrative",
-    "Coordination",
     "Customer and Personal Service",
-    "Foreign Language",
-    "Instructing",
     "Mathematics",
-    "Sales and Marketing",
-    "Service Orientation",
+    "Coordination",
     "Writing",
-    "advocate",
+    "Foreign Language",
+    "Administrative",
+    "Instructing",
+    "Active Listening",
+    "Service Orientation",
     "bachelor",
+    "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
     "can",
+    "canva",
     "cash",
     "cash transactions",
     "classroom activities",
     "cleanliness",
     "cleanliness standards",
+    "communication",
     "community events",
     "criminal justice",
     "customer service",
@@ -64,31 +32,38 @@
     "donations",
     "efficiency",
     "emails",
+    "english spanish",
+    "english spanish communication",
     "event planning",
     "fast paced",
     "food",
     "food distribution",
+    "google",
+    "google suite",
     "group instruction",
     "high volume",
     "high volume environment",
     "hours",
     "instruction",
     "interpretation",
+    "languages",
+    "leader",
+    "leadership",
     "media",
+    "microsoft",
+    "microsoft office",
     "multicultural",
+    "office",
     "organized",
     "point of sale",
-    "pos",
-    "pos systems",
     "prepared food",
     "program",
     "quality",
     "quality and cleanliness",
-    "quality standards",
     "safety",
-    "safety and quality",
     "service",
     "small group instruction",
+    "spanish",
     "spanish communication",
     "spanish english",
     "speak",
@@ -98,440 +73,1231 @@
     "systems",
     "teamwork",
     "transactions",
-    "united states",
     "waitstaff"
   ],
-  "skill_weights": {},
-  "market_relevant": [
+  "verified_skills": [
+    "Customer and Personal Service",
+    "Mathematics",
+    "Coordination",
+    "Writing",
+    "Foreign Language",
+    "Administrative",
+    "Instructing",
+    "Active Listening",
+    "Service Orientation",
+    "bachelor",
     "bilingual",
     "bilingual english",
     "bilingual english spanish",
+    "can",
     "canva",
+    "cash",
+    "cash transactions",
+    "classroom activities",
+    "cleanliness",
+    "cleanliness standards",
     "communication",
+    "community events",
+    "criminal justice",
+    "customer service",
+    "distribution",
+    "documents",
+    "donations",
+    "efficiency",
+    "emails",
     "english spanish",
     "english spanish communication",
+    "event planning",
+    "fast paced",
+    "food",
+    "food distribution",
     "google",
     "google suite",
+    "group instruction",
+    "high volume",
+    "high volume environment",
+    "hours",
+    "instruction",
+    "interpretation",
     "languages",
+    "leader",
     "leadership",
+    "media",
     "microsoft",
     "microsoft office",
+    "multicultural",
     "office",
-    "spanish"
+    "organized",
+    "point of sale",
+    "prepared food",
+    "program",
+    "quality",
+    "quality and cleanliness",
+    "safety",
+    "service",
+    "small group instruction",
+    "spanish",
+    "spanish communication",
+    "spanish english",
+    "speak",
+    "sponsors",
+    "standards",
+    "student support",
+    "systems",
+    "teamwork",
+    "transactions",
+    "waitstaff"
   ],
-  "inferred": [
-    "Customer Service",
-    "Event Planning",
-    "Teamwork"
+  "possible_skills": [],
+  "rejected_skills": [],
+  "skill_weights": {},
+  "market_relevant": [
+    "Customer and Personal Service",
+    "Mathematics",
+    "Coordination",
+    "Writing",
+    "Foreign Language",
+    "Administrative",
+    "Instructing",
+    "Active Listening",
+    "Service Orientation",
+    "bachelor",
+    "bilingual",
+    "bilingual english",
+    "bilingual english spanish",
+    "can",
+    "canva",
+    "cash",
+    "cash transactions",
+    "classroom activities",
+    "cleanliness",
+    "cleanliness standards",
+    "communication",
+    "community events",
+    "criminal justice",
+    "customer service",
+    "distribution",
+    "documents",
+    "donations",
+    "efficiency",
+    "emails",
+    "english spanish",
+    "english spanish communication",
+    "event planning",
+    "fast paced",
+    "food",
+    "food distribution",
+    "google",
+    "google suite",
+    "group instruction",
+    "high volume",
+    "high volume environment",
+    "hours",
+    "instruction",
+    "interpretation",
+    "languages",
+    "leader",
+    "leadership",
+    "media",
+    "microsoft",
+    "microsoft office",
+    "multicultural",
+    "office",
+    "organized",
+    "point of sale",
+    "prepared food",
+    "program",
+    "quality",
+    "quality and cleanliness",
+    "safety",
+    "service",
+    "small group instruction",
+    "spanish",
+    "spanish communication",
+    "spanish english",
+    "speak",
+    "sponsors",
+    "standards",
+    "student support",
+    "systems",
+    "teamwork",
+    "transactions",
+    "waitstaff"
   ],
-  "implicit_skills": [
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
     {
-      "skill": "Customer Service",
-      "reason": "Experience includes customer service and cash transactions.",
-      "confidence": "medium"
+      "skill": "bachelor",
+      "source_section": "education",
+      "matched_text": "Bachelor of Arts in Criminal Justice | Expected Graduation: 2029",
+      "match_type": "vocabulary"
     },
     {
-      "skill": "Event Planning",
-      "reason": "Experience includes community events and event planning.",
-      "confidence": "medium"
+      "skill": "criminal justice",
+      "source_section": "education",
+      "matched_text": "John Jay College of Criminal Justice – CUNY, New York, NY",
+      "match_type": "vocabulary"
     },
     {
-      "skill": "Teamwork",
-      "reason": "Experience includes teamwork and group instruction.",
-      "confidence": "medium"
+      "skill": "bilingual",
+      "source_section": "experience",
+      "matched_text": "Bilingual: English & Spanish",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "bilingual english",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "bilingual english spanish",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "can",
+      "source_section": "experience",
+      "matched_text": "We Can’t Breathe – Harlem & Brooklyn, NY | Founder’s Assistant | May 2024 – Aug 2024",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "canva",
+      "source_section": "experience",
+      "matched_text": "Microsoft Office, Google Suite, Canva",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cash",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Operated point-of-sale systems and handled cash transactions accurately.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cash transactions",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Operated point-of-sale systems and handled cash transactions accurately.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "classroom activities",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Assisted with classroom activities, small group instruction, and student support.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cleanliness",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cleanliness standards",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "communication",
+      "source_section": "experience",
+      "matched_text": "Speak Hire Communication Program: Participant, New York, NY",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "community events",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Organized documents and managed resource distribution at community events.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "customer service",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Provided fast-paced customer service in a high-volume environment.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "distribution",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Created persuasive emails to engage sponsors and coordinated food distribution efforts.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "documents",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Organized documents and managed resource distribution at community events.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "donations",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Researched organizations for donations and scholarships for low-income students.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "efficiency",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Collaborated with team members to maintain efficiency during peak hours.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "emails",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Created persuasive emails to engage sponsors and coordinated food distribution efforts.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "english spanish",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "english spanish communication",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "event planning",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Provided Spanish-English interpretation and supported event planning.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "fast paced",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "food",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "food distribution",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Created persuasive emails to engage sponsors and coordinated food distribution efforts.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "google",
+      "source_section": "experience",
+      "matched_text": "Microsoft Office, Google Suite, Canva",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "google suite",
+      "source_section": "experience",
+      "matched_text": "Microsoft Office, Google Suite, Canva",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "group instruction",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Assisted with classroom activities, small group instruction, and student support.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high volume",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high volume environment",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "hours",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Collaborated with team members to maintain efficiency during peak hours.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "instruction",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Assisted with classroom activities, small group instruction, and student support.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "interpretation",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Provided Spanish-English interpretation and supported event planning.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "languages",
+      "source_section": "experience",
+      "matched_text": "SKILLS & LANGUAGES",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "leader",
+      "source_section": "experience",
+      "matched_text": "Dream Team: Co-Leader, New York, NY",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "leadership",
+      "source_section": "experience",
+      "matched_text": "Communication, teamwork, leadership",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "media",
+      "source_section": "experience",
+      "matched_text": "EVC New Media Arts – New York, NY | Teacher’s Helper | May 2023 – Aug 2023",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "microsoft",
+      "source_section": "experience",
+      "matched_text": "Microsoft Office, Google Suite, Canva",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "microsoft office",
+      "source_section": "experience",
+      "matched_text": "Microsoft Office, Google Suite, Canva",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "multicultural",
+      "source_section": "experience",
+      "matched_text": "Alianza Multicultural Group: Member, New York, NY",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "office",
+      "source_section": "experience",
+      "matched_text": "Microsoft Office, Google Suite, Canva",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organized",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Organized documents and managed resource distribution at community events.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "point of sale",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "prepared food",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "program",
+      "source_section": "experience",
+      "matched_text": "Speak Hire Communication Program: Participant, New York, NY",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "quality",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "quality and cleanliness",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "safety",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "service",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Provided fast-paced customer service in a high-volume environment.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "small group instruction",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Assisted with classroom activities, small group instruction, and student support.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "spanish",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Provided Spanish-English interpretation and supported event planning.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "spanish communication",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "spanish english",
+      "source_section": "experience",
+      "matched_text": "McDonald’s – 600 W 125th St, New York, NY 10027",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "speak",
+      "source_section": "experience",
+      "matched_text": "Speak Hire Communication Program: Participant, New York, NY",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "sponsors",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Created persuasive emails to engage sponsors and coordinated food distribution efforts.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "standards",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "student support",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Assisted with classroom activities, small group instruction, and student support.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "systems",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Operated point-of-sale systems and handled cash transactions accurately.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "teamwork",
+      "source_section": "experience",
+      "matched_text": "Communication, teamwork, leadership",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "transactions",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Operated point-of-sale systems and handled cash transactions accurately.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "waitstaff",
+      "source_section": "experience",
+      "matched_text": "(cid:127) Maintained cleanliness, supported waitstaff, and prepared dining areas for service.",
+      "match_type": "vocabulary"
     }
   ],
-  "skill_evidence": [],
   "gaps": [
-    "student-support"
+    "project-management"
   ],
   "core_gaps": [
-    "student-support"
+    "project-management"
   ],
   "bridge_gaps": [
-    "assessment-administration",
-    "classroom-auxiliary",
-    "classroom-support",
-    "computer-skills",
-    "data-collection",
-    "developmentally-appropriate-practices",
-    "education-assistance",
-    "english-proficiency",
-    "instructional-assistant",
-    "mathematics"
+    "api-design",
+    "aspnet",
+    "azure",
+    "bim",
+    "brownfield",
+    "budgeting",
+    "capital-improvement-planning",
+    "civil-engineering",
+    "client-relationships",
+    "construction"
   ],
-  "stretch_gaps": [
-    "active-listening",
-    "administrative-support",
-    "attention-to-detail",
-    "data-entry",
-    "event-participation",
-    "excel",
-    "group-instruction",
-    "multimodal-instruction",
-    "private-lessons",
-    "public-speaking"
-  ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
-    "active-listening",
-    "administrative-support",
-    "assessment-administration",
-    "attention-to-detail",
-    "classroom-auxiliary",
-    "classroom-support",
-    "computer-skills",
-    "data-collection",
-    "data-entry",
-    "developmentally-appropriate-practices"
+    "api-design",
+    "aspnet",
+    "azure",
+    "bim",
+    "brownfield",
+    "budgeting",
+    "capital-improvement-planning",
+    "civil-engineering",
+    "client-relationships",
+    "construction"
   ],
-  "verify_gaps": [
-    "customer-service",
-    "teamwork"
-  ],
+  "verify_gaps": [],
   "related": [
+    {
+      "skill": "graphicdesign",
+      "pmi": 6.11
+    },
+    {
+      "skill": "reading",
+      "pmi": 4.5
+    },
+    {
+      "skill": "apstyle",
+      "pmi": 4.21
+    },
+    {
+      "skill": "editing",
+      "pmi": 4.03
+    },
+    {
+      "skill": "journalism",
+      "pmi": 3.99
+    },
+    {
+      "skill": "mediamonitoring",
+      "pmi": 3.99
+    },
+    {
+      "skill": "mediarelations",
+      "pmi": 3.81
+    },
+    {
+      "skill": "marketingmaterials",
+      "pmi": 3.71
+    },
+    {
+      "skill": "performancemanagement",
+      "pmi": 3.65
+    },
+    {
+      "skill": "financialmanagement",
+      "pmi": 3.65
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
     {
       "skill": "googleclassroom",
       "pmi": 5.53
+    },
+    {
+      "skill": "readingcomprehension",
+      "pmi": 4.8
+    },
+    {
+      "skill": "literature",
+      "pmi": 4.39
+    },
+    {
+      "skill": "privateinstruction",
+      "pmi": 4.37
+    },
+    {
+      "skill": "studentaffairs",
+      "pmi": 4.33
     },
     {
       "skill": "translation",
       "pmi": 4.26
     },
     {
-      "skill": "behaviordocumentation",
-      "pmi": 3.92
+      "skill": "teamparticipation",
+      "pmi": 4.26
     },
     {
-      "skill": "crisisprotocols",
-      "pmi": 3.88
-    },
-    {
-      "skill": "travelbetweensites",
-      "pmi": 3.81
-    },
-    {
-      "skill": "bcatcredential",
-      "pmi": 3.81
-    },
-    {
-      "skill": "emr",
-      "pmi": 3.59
-    },
-    {
-      "skill": "criticalthinking",
-      "pmi": 3.54
-    },
-    {
-      "skill": "datadocumentation",
-      "pmi": 3.51
-    },
-    {
-      "skill": "inwaterskillsassessment",
-      "pmi": 3.2
+      "skill": "1on1instruction",
+      "pmi": 4.19
     }
   ],
   "related_skills": [
     {
+      "skill": "graphicdesign",
+      "pmi": 6.11
+    },
+    {
+      "skill": "reading",
+      "pmi": 4.5
+    },
+    {
+      "skill": "apstyle",
+      "pmi": 4.21
+    },
+    {
+      "skill": "editing",
+      "pmi": 4.03
+    },
+    {
+      "skill": "journalism",
+      "pmi": 3.99
+    },
+    {
+      "skill": "mediamonitoring",
+      "pmi": 3.99
+    },
+    {
+      "skill": "mediarelations",
+      "pmi": 3.81
+    },
+    {
+      "skill": "marketingmaterials",
+      "pmi": 3.71
+    },
+    {
+      "skill": "performancemanagement",
+      "pmi": 3.65
+    },
+    {
+      "skill": "financialmanagement",
+      "pmi": 3.65
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
       "skill": "googleclassroom",
       "pmi": 5.53
+    },
+    {
+      "skill": "readingcomprehension",
+      "pmi": 4.8
+    },
+    {
+      "skill": "literature",
+      "pmi": 4.39
+    },
+    {
+      "skill": "privateinstruction",
+      "pmi": 4.37
+    },
+    {
+      "skill": "studentaffairs",
+      "pmi": 4.33
     },
     {
       "skill": "translation",
       "pmi": 4.26
     },
     {
-      "skill": "behaviordocumentation",
-      "pmi": 3.92
+      "skill": "teamparticipation",
+      "pmi": 4.26
     },
     {
-      "skill": "crisisprotocols",
-      "pmi": 3.88
-    },
-    {
-      "skill": "travelbetweensites",
-      "pmi": 3.81
-    },
-    {
-      "skill": "bcatcredential",
-      "pmi": 3.81
-    },
-    {
-      "skill": "emr",
-      "pmi": 3.59
-    },
-    {
-      "skill": "criticalthinking",
-      "pmi": 3.54
-    },
-    {
-      "skill": "datadocumentation",
-      "pmi": 3.51
-    },
-    {
-      "skill": "inwaterskillsassessment",
-      "pmi": 3.2
+      "skill": "1on1instruction",
+      "pmi": 4.19
     }
   ],
   "alternatives": [
     {
-      "function": "education",
-      "pct": 15
-    },
-    {
-      "function": "social-service",
-      "pct": 12
+      "function": "arts-media",
+      "pct": 16
     },
     {
       "function": "finance",
-      "pct": 8
+      "pct": 9
     },
     {
-      "function": "legal",
-      "pct": 7
+      "function": "education",
+      "pct": 9
     },
     {
       "function": "skilled-trade",
       "pct": 7
+    },
+    {
+      "function": "social-service",
+      "pct": 6
     }
   ],
-  "coach_notes": "For a social-service path, focus first on student-support. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a food-service path, focus first on project-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Youth Success Specialist Intern",
-      "company": "theirc",
-      "url": "https://theirc.wd1.myworkdayjobs.com/job/Baltimore-MD-USA/Youth-Success-Specialist-Intern_JR00003024",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
-      "job_score_breakdown": {
-        "goal_alignment": 0.625,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.462,
-        "experience_alignment": 0.507,
-        "attainability": 0.75,
-        "skill_overlap": 0.273,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Youth success specialist internship is suitable for young adults."
-    },
-    {
-      "title": "Dance Professional",
-      "company": "fred-astaire-dance-studios-3",
-      "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
-      "job_score_breakdown": {
-        "goal_alignment": 0.375,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.254,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
-    },
-    {
-      "title": "Dual Language Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
-      "fit": 53,
+      "title": "MediClinic AM SPOC",
+      "company": "docsapp",
+      "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0z2je/",
+      "fit": 56,
       "job_type": "bridge",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.125,
-        "study_alignment": 0.5,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.5,
+        "attainability": 1.0,
+        "skill_overlap": 0.563,
+        "skill_overlap_raw": 0.5,
+        "hyper_p_value": 0.00051515,
+        "hyper_k": 2,
+        "hyper_K": 34,
+        "hyper_n": 4,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "MediClinic AM SPOC role is suitable for ages 16-20.",
+      "cross_function": false,
+      "bridge": "Your role as a MediClinic AM SPOC hones communication and stakeholder management, which are directly transferable to managing a restaurant team or navigating the justice system. These skills, combined with your coordination and administrative abilities, build a strong foundation for leadership in any field."
+    },
+    {
+      "title": "Küchenhilfe (m/w/d)",
+      "company": "60secondstonapoli",
+      "url": "https://60secondstonapoli.recruitee.com/o/kuchenhilfe-mwd-3",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.429,
+        "attainability": 0.85,
+        "skill_overlap": 0.6,
+        "skill_overlap_raw": 0.429,
+        "hyper_p_value": 2.64e-05,
+        "hyper_k": 3,
+        "hyper_K": 34,
+        "hyper_n": 7,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Working as a Küchenhilfe hones your teamwork, customer service, and kitchen hygiene skills, which are directly transferable to becoming a Chef or Restaurant Manager. These practical skills, combined with your existing strengths in coordination and instructing, build a solid foundation for leadership in the culinary industry."
+    },
+    {
+      "title": "Peer Support/Teen Talk Line Internship: Fall 2026/Spring 2027",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/7EAFD510EF",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.1,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.25,
+        "attainability": 0.75,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 4.196e-05,
+        "hyper_k": 3,
+        "hyper_K": 34,
+        "hyper_n": 8,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Peer support line, age-appropriate.",
+      "cross_function": false,
+      "bridge": "Your Peer Support internship will sharpen your active listening and communication skills, which are essential for managing a restaurant team and understanding customer needs. The documentation and time-management abilities you'll gain directly translate to running kitchen operations and coordinating staff schedules."
+    },
+    {
+      "title": "Servicekraft / Kellner*in (m/w/d) in Teilzeit",
+      "company": "60secondstonapoli",
+      "url": "https://60secondstonapoli.recruitee.com/o/servicekraft-kellnerin-mwd-in-teilzeit-5",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.375,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 4.196e-05,
+        "hyper_k": 3,
+        "hyper_K": 34,
+        "hyper_n": 8,
+        "hyper_N": 3594,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "No age restrictions for language assistant roles."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Working as a servicekraft builds transferable skills like coordination, active listening, and customer service, which are essential for managing a restaurant or leading a team in the justice field. You'll also strengthen your administrative and foreign language abilities, directly supporting your goal of becoming a chef or restaurant manager."
     },
     {
-      "title": "Highly Qualified Paraprofessional",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3405059",
-      "fit": 50,
+      "title": "Administrative / Clerical / Customer Service",
+      "company": "atlanticstaffingconsultants",
+      "url": "https://jobs.crelate.com/portal/atlanticstaffingconsultants/job/31q983cnms1ehabx6pi5yo8bxr",
+      "fit": 53,
       "job_type": "bridge",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
-      "job_score_breakdown": {
-        "goal_alignment": 0.125,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.239,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Highly qualified paraprofessional roles are suitable for 16-20 year olds."
-    },
-    {
-      "title": "Instructional Assistant (Spanish Speaking)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
       "job_score_breakdown": {
         "goal_alignment": 0.0,
-        "study_alignment": 0.5,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.429,
-        "attainability": 0.75,
-        "skill_overlap": 0.286,
+        "experience_alignment": 0.333,
+        "attainability": 0.85,
+        "skill_overlap": 0.622,
+        "skill_overlap_raw": 0.444,
+        "hyper_p_value": 8.1e-07,
+        "hyper_k": 4,
+        "hyper_K": 34,
+        "hyper_n": 9,
+        "hyper_N": 3594,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Instructional assistant role is suitable for minors/young adults."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your administrative and customer service role hones coordination, organization, and communication—skills essential for managing a kitchen or legal team. These transferable abilities will directly support your future as a chef, restaurant manager, or justice professional."
+    },
+    {
+      "title": ".Net/C# Developer, SaaS Manager",
+      "company": "1password",
+      "url": "https://jobs.ashbyhq.com/1password/c6933be3-80a6-41f0-8e37-e70f72cae134",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Project Manager - Water/Wastewater",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/nwqdhspd6141to9amqasf84pbw",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Bernardo Wills - Design-Build Project Manager",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/pu5fntq4qq8t6kiq3uuwm38bnc",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Plant Manager",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/3fax5qck9ms43qg4tutcg5ufoe",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Senior Project Manager - Remediation",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/owrpmf7xto7mdcbr5t1akzs7ue",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "Youth Success Specialist Intern",
-      "company": "theirc",
-      "url": "https://theirc.wd1.myworkdayjobs.com/job/Baltimore-MD-USA/Youth-Success-Specialist-Intern_JR00003024",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
+      "title": "MediClinic AM SPOC",
+      "company": "docsapp",
+      "url": "https://MediBuddy.hire.trakstar.com/jobs/fk0z2je/",
+      "fit": 56,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.625,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.462,
-        "experience_alignment": 0.507,
-        "attainability": 0.75,
-        "skill_overlap": 0.273,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.5,
+        "attainability": 1.0,
+        "skill_overlap": 0.563,
+        "skill_overlap_raw": 0.5,
+        "hyper_p_value": 0.00051515,
+        "hyper_k": 2,
+        "hyper_K": 34,
+        "hyper_n": 4,
+        "hyper_N": 3594,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Youth success specialist internship is suitable for young adults."
+      "eligibility_reason": "MediClinic AM SPOC role is suitable for ages 16-20.",
+      "cross_function": false,
+      "bridge": "Your role as a MediClinic AM SPOC hones communication and stakeholder management, which are directly transferable to managing a restaurant team or navigating the justice system. These skills, combined with your coordination and administrative abilities, build a strong foundation for leadership in any field."
     },
     {
-      "title": "Dance Professional",
-      "company": "fred-astaire-dance-studios-3",
-      "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 68,
-      "job_type": "goal",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
+      "title": "Küchenhilfe (m/w/d)",
+      "company": "60secondstonapoli",
+      "url": "https://60secondstonapoli.recruitee.com/o/kuchenhilfe-mwd-3",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.375,
-        "study_alignment": 0.5,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.254,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "experience_alignment": 0.429,
+        "attainability": 0.85,
+        "skill_overlap": 0.6,
+        "skill_overlap_raw": 0.429,
+        "hyper_p_value": 2.64e-05,
+        "hyper_k": 3,
+        "hyper_K": 34,
+        "hyper_n": 7,
+        "hyper_N": 3594,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Working as a Küchenhilfe hones your teamwork, customer service, and kitchen hygiene skills, which are directly transferable to becoming a Chef or Restaurant Manager. These practical skills, combined with your existing strengths in coordination and instructing, build a solid foundation for leadership in the culinary industry."
+    },
+    {
+      "title": "Peer Support/Teen Talk Line Internship: Fall 2026/Spring 2027",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/7EAFD510EF",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.1,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.25,
+        "attainability": 0.75,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 4.196e-05,
+        "hyper_k": 3,
+        "hyper_K": 34,
+        "hyper_n": 8,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Peer support line, age-appropriate.",
+      "cross_function": false,
+      "bridge": "Your Peer Support internship will sharpen your active listening and communication skills, which are essential for managing a restaurant team and understanding customer needs. The documentation and time-management abilities you'll gain directly translate to running kitchen operations and coordinating staff schedules."
+    },
+    {
+      "title": "Servicekraft / Kellner*in (m/w/d) in Teilzeit",
+      "company": "60secondstonapoli",
+      "url": "https://60secondstonapoli.recruitee.com/o/servicekraft-kellnerin-mwd-in-teilzeit-5",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.375,
+        "attainability": 0.75,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 4.196e-05,
+        "hyper_k": 3,
+        "hyper_K": 34,
+        "hyper_n": 8,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Working as a servicekraft builds transferable skills like coordination, active listening, and customer service, which are essential for managing a restaurant or leading a team in the justice field. You'll also strengthen your administrative and foreign language abilities, directly supporting your goal of becoming a chef or restaurant manager."
+    },
+    {
+      "title": "Administrative / Clerical / Customer Service",
+      "company": "atlanticstaffingconsultants",
+      "url": "https://jobs.crelate.com/portal/atlanticstaffingconsultants/job/31q983cnms1ehabx6pi5yo8bxr",
+      "fit": 53,
+      "job_type": "bridge",
+      "subdomain": "",
+      "function": "other",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.333,
+        "attainability": 0.85,
+        "skill_overlap": 0.622,
+        "skill_overlap_raw": 0.444,
+        "hyper_p_value": 8.1e-07,
+        "hyper_k": 4,
+        "hyper_K": 34,
+        "hyper_n": 9,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your administrative and customer service role hones coordination, organization, and communication—skills essential for managing a kitchen or legal team. These transferable abilities will directly support your future as a chef, restaurant manager, or justice professional."
     }
   ],
   "aspirational": [
     {
-      "title": "Dual Language Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3968832",
-      "fit": 53,
-      "job_type": "bridge",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
+      "title": ".Net/C# Developer, SaaS Manager",
+      "company": "1password",
+      "url": "https://jobs.ashbyhq.com/1password/c6933be3-80a6-41f0-8e37-e70f72cae134",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.125,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.375,
-        "attainability": 0.75,
-        "skill_overlap": 0.25,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "No age restrictions for language assistant roles."
+      "eligibility_reason": "",
+      "cross_function": false
     },
     {
-      "title": "Highly Qualified Paraprofessional",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3405059",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
+      "title": "Project Manager - Water/Wastewater",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/nwqdhspd6141to9amqasf84pbw",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.125,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.239,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "Highly qualified paraprofessional roles are suitable for 16-20 year olds."
+      "eligibility_reason": "",
+      "cross_function": false
     },
     {
-      "title": "Instructional Assistant (Spanish Speaking)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2223600",
-      "fit": 50,
-      "job_type": "bridge",
-      "subdomain": "community-support",
-      "function": "social-service",
-      "why": "This role builds your bilingual, bilingual english, bilingual english spanish skills and moves you toward becoming a Justice.",
-      "gaps": "student-support",
+      "title": "Bernardo Wills - Design-Build Project Manager",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/pu5fntq4qq8t6kiq3uuwm38bnc",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.0,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.429,
-        "attainability": 0.75,
-        "skill_overlap": 0.286,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "Instructional assistant role is suitable for minors/young adults."
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Plant Manager",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/3fax5qck9ms43qg4tutcg5ufoe",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Senior Project Manager - Remediation",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/owrpmf7xto7mdcbr5t1akzs7ue",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "engineering",
+      "why": "This role builds your Customer and Personal Service, Mathematics, Coordination skills and moves you toward becoming a Justice.",
+      "gaps": "project-management",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
     }
   ],
-  "skill_path": "You already have strong communication and bilingual skills—perfect for connecting with diverse people. By building student support and administrative skills, you'll open doors to careers in justice, culinary arts, or restaurant management. Keep going!",
+  "skill_path": "You have a strong foundation in customer service, administration, and teaching. By adding project management and technical skills like API design and Azure, you can pivot into justice, culinary arts, or restaurant management—your dream careers are within reach!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── bilingual english spanish\n├── canva\n├── communication\n├── google suite\n├── languages\n├── customer service (implied)\n├── event planning (implied)\n└── teamwork (implied)\n    ↓\nBRIDGE SKILLS\n├── assessment-administration\n├── classroom-auxiliary\n├── classroom-support\n├── computer-skills\n├── data-collection\n└── student-support (core missing)\n    ↓\nGOAL SKILLS\n├── active-listening\n├── administrative-support\n├── attention-to-detail\n├── data-entry\n└── event-participation\n    ↓\nDREAM CAREERS\n├── Justice\n├── Chef\n└── Restaurant Manager",
+    "tree": "CURRENT SKILLS\n├── Customer and Personal Service\n├── Mathematics\n├── Coordination\n├── Writing\n├── Foreign Language\n├── Administrative\n├── Instructing\n├── Active Listening\n├── Service Orientation\n└── Bachelor's Degree\n    ↓\nBRIDGE SKILLS\n├── Project Management\n├── API Design\n├── ASP.NET\n├── Azure\n├── BIM\n└── Brownfield\n    ↓\nGOAL SKILLS\n├── Justice: Legal Knowledge, Ethics\n├── Chef: Culinary Techniques, Menu Planning\n└── Restaurant Manager: Operations, Financial Management\n    ↓\nDREAM CAREERS\n├── Justice\n├── Chef\n└── Restaurant Manager",
     "steps": [
-      "Enroll in a free online course on student support fundamentals (e.g., Coursera's 'Student Support in Higher Education').",
-      "Practice assessment administration by volunteering to help with test proctoring or grading at a local school.",
-      "Take a basic computer skills course (e.g., GCFGlobal.org's 'Computer Basics') to strengthen data collection and entry.",
-      "Join a community event planning committee to develop event participation and attention to detail.",
-      "Shadow a restaurant manager or chef to see how administrative support and active listening are used in hospitality."
+      "Take a free online course in Project Management (e.g., Google Project Management on Coursera) to build foundational skills.",
+      "Learn API design basics through a tutorial like 'REST API Design' on freeCodeCamp.",
+      "Explore ASP.NET and Azure via Microsoft Learn's free modules for web development.",
+      "Study BIM fundamentals with an introductory course on LinkedIn Learning or edX.",
+      "Gain practical experience by managing a small project at work or volunteering to lead a team."
     ],
-    "summary": "You already have strong communication and bilingual skills—perfect for connecting with diverse people. By building student support and administrative skills, you'll open doors to careers in justice, culinary arts, or restaurant management. Keep going!"
+    "summary": "You have a strong foundation in customer service, administration, and teaching. By adding project management and technical skills like API design and Azure, you can pivot into justice, culinary arts, or restaurant management—your dream careers are within reach!"
   },
   "ideal_careers": [
     "Justice",
@@ -541,53 +1307,53 @@
   "student_intent": {
     "goal_domains": [
       "social-service",
-      "legal"
+      "food-service"
     ],
     "goal_roles": [
-      "community advocate"
+      "Chef",
+      "Restaurant Manager",
+      "Justice"
     ],
-    "goal_subdomains": [
-      "community-support"
-    ],
+    "goal_subdomains": [],
     "study_domains": [
-      "legal"
+      "social-service"
     ],
     "study_subdomains": [],
     "study_program": "Bachelor of Arts in Criminal Justice | Expected Graduation: 2029",
     "study_level": "bachelor",
-    "intent_confidence": 0.413,
-    "intent_strength": 0.513,
+    "intent_confidence": 0.641,
+    "intent_strength": 0.641,
     "has_student_intent": true
   },
   "intent_summary": {
-    "headline": "Criminal Justice Student | SPEAKHIRE Participant | Bilingual Community Advocate",
-    "summary_text": "Criminal Justice Student | SPEAKHIRE Participant | Bilingual Community Advocate\nIdeal careers: Justice, Chef, Restaurant Manager\n=== Emiliano Hernandez Cordero - Resume.pdf ===\nEMILIANO HERNANDEZ CORDERO\nStaten Island, NY | (347) 544-3827 | emilianocordero122007@aol.com",
+    "headline": "",
+    "summary_text": "Ideal careers: Justice, Chef, Restaurant Manager\n=== Emiliano Hernandez Cordero - Resume.pdf ===\nEMILIANO HERNANDEZ CORDERO\nStaten Island, NY | (347) 544-3827 | emilianocordero122007@aol.com",
     "study_text": "Bachelor of Arts in Criminal Justice | Expected Graduation: 2029\nJohn Jay College of Criminal Justice – CUNY, New York, NY\nBachelor of Arts in Criminal Justice | Expected Graduation: 2029\n**John Jay College of Criminal Justice – CUNY**\nBachelor of Arts in Criminal Justice | Expec"
   },
   "signal_breakdown": {
     "aspiration": {
-      "education": 26,
-      "legal": 25,
-      "social-service": 25
+      "food-service": 64,
+      "finance": 9,
+      "arts-media": 5
     },
     "study": {
-      "arts-media": 41,
+      "arts-media": 40,
       "social-service": 25,
-      "skilled-trade": 24
+      "skilled-trade": 25
     },
     "classifier": {
-      "arts-media": 28,
-      "finance": 15,
+      "arts-media": 27,
+      "finance": 16,
       "education": 9
     },
     "onet": {
-      "education": 29,
-      "healthcare": 13,
-      "technology": 13
+      "education": 27,
+      "technology": 14,
+      "healthcare": 13
     },
     "embeddings": {
       "education": 7,
-      "arts-media": 6,
+      "arts-media": 7,
       "ops": 6
     },
     "experience": {
@@ -597,182 +1363,131 @@
     }
   },
   "candidate_functions": [
-    "social-service",
-    "education"
+    "food-service",
+    "social-service"
   ],
-  "subdomain": "community-support",
-  "subdomain_confidence": 0.75,
+  "subdomain": "",
+  "subdomain_confidence": 0.0,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
-    "youth-support",
-    "community-support",
-    "community-support",
-    "community-support",
-    "community-support"
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "needs_review": true,
-  "review_reasons": [],
+  "review_reasons": [
+    "llm_provider_error"
+  ],
   "llm_stage_results": {
     "route": {
       "accepted": true,
-      "chosen_function": "social-service",
-      "chosen_subdomain": "community-support",
-      "secondary_function": "education",
+      "chosen_function": "food-service",
+      "chosen_subdomain": "",
+      "secondary_function": "social-service",
       "goal_domains": [
         "social-service",
-        "legal"
+        "food-service"
       ],
       "study_domains": [
-        "legal"
+        "social-service"
       ],
-      "goal_subdomains": [
-        "community-support"
-      ],
+      "goal_subdomains": [],
       "study_subdomains": [],
       "goal_roles": [
-        "community advocate"
+        "Chef",
+        "Restaurant Manager",
+        "Justice"
       ],
-      "confidence": 0.75,
+      "confidence": 0.78,
       "evidence_spans": [
         {
           "section": "experience",
-          "text": "Provided Spanish-English interpretation and supported event planning."
+          "text": "(cid:127) Prepared food according to safety, quality, and cleanliness standards."
         },
         {
           "section": "experience",
-          "text": "Researched organizations for donations and scholarships for low-income students."
+          "text": "(cid:127) Researched organizations for donations and scholarships for low-income students."
         }
       ],
       "reason_codes": [
-        "education major in criminal justice",
-        "experience in community support roles",
-        "bilingual community advocate headline"
+        "explicit_goal_food_service",
+        "work_experience_food_service",
+        "explicit_goal_social_service",
+        "work_experience_social_service",
+        "degree_mapping_criminal_justice_social_service"
       ],
       "review_reasons": []
     },
     "evidence": {
-      "accepted": true,
-      "scored_skills": [
-        "bilingual",
-        "bilingual english",
-        "bilingual english spanish",
-        "canva",
-        "communication",
-        "english spanish",
-        "english spanish communication",
-        "google",
-        "google suite",
-        "languages",
-        "leadership",
-        "microsoft",
-        "microsoft office",
-        "office",
-        "spanish"
-      ],
-      "verified_skills": [
-        "bilingual",
-        "bilingual english",
-        "bilingual english spanish",
-        "canva",
-        "communication",
-        "english spanish",
-        "english spanish communication",
-        "google",
-        "google suite",
-        "languages",
-        "leadership",
-        "microsoft",
-        "microsoft office",
-        "office",
-        "spanish"
-      ],
-      "possible_skills": [],
-      "rejected_skills": [
-        "Active Listening",
-        "Administrative",
-        "Coordination",
-        "Customer and Personal Service",
-        "Foreign Language",
-        "Instructing",
-        "Mathematics",
-        "Sales and Marketing",
-        "Service Orientation",
-        "Writing",
-        "advocate",
-        "bachelor",
-        "can",
-        "cash",
-        "cash transactions",
-        "classroom activities",
-        "cleanliness",
-        "cleanliness standards",
-        "community events",
-        "criminal justice",
-        "customer service",
-        "distribution",
-        "documents",
-        "donations",
-        "efficiency",
-        "emails",
-        "event planning",
-        "fast paced",
-        "food",
-        "food distribution",
-        "group instruction",
-        "high volume",
-        "high volume environment",
-        "hours",
-        "instruction",
-        "interpretation",
-        "media",
-        "multicultural",
-        "organized",
-        "point of sale",
-        "pos",
-        "pos systems",
-        "prepared food",
-        "program",
-        "quality",
-        "quality and cleanliness",
-        "quality standards",
-        "safety",
-        "safety and quality",
-        "service",
-        "small group instruction",
-        "spanish communication",
-        "spanish english",
-        "speak",
-        "sponsors",
-        "standards",
-        "student support",
-        "systems",
-        "teamwork",
-        "transactions",
-        "united states",
-        "waitstaff"
-      ],
-      "implicit_skills": [
-        {
-          "skill": "Customer Service",
-          "reason": "Experience includes customer service and cash transactions.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Event Planning",
-          "reason": "Experience includes community events and event planning.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Teamwork",
-          "reason": "Experience includes teamwork and group instruction.",
-          "confidence": "medium"
-        }
-      ],
-      "evidence_items": [],
-      "review_reasons": []
+      "accepted": false,
+      "error": "HTTP Error 429: Too Many Requests",
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     }
   },
+  "classifier_top_function": {
+    "arts-media": 27,
+    "finance": 16,
+    "education": 9
+  },
+  "cross_functions_explored": [
+    "healthcare",
+    "healthcare",
+    "hospitality",
+    "hospitality",
+    "arts-media",
+    "arts-media",
+    "education",
+    "education"
+  ],
+  "cross_function_count": 8,
+  "cross_function_jobs": [
+    {
+      "title": "Phlebotomist-Bilingual (Spanish)",
+      "function": "healthcare",
+      "fit": 24
+    },
+    {
+      "title": "Line Cook",
+      "function": "healthcare",
+      "fit": 0
+    },
+    {
+      "title": "DHBW-Student BWL-Dienstleistungsmanagement (m/w/d) - Logistik- und Supply Chain Management | Ausbildungsbeginn: 06.09.2027",
+      "function": "hospitality",
+      "fit": 26
+    },
+    {
+      "title": "2026 Fall - Events Intern",
+      "function": "hospitality",
+      "fit": 22
+    },
+    {
+      "title": "Entertainment Coordinator ",
+      "function": "arts-media",
+      "fit": 32
+    },
+    {
+      "title": "Unpaid Assistant Wedding Coordinator Intern",
+      "function": "arts-media",
+      "fit": 21
+    },
+    {
+      "title": "Subway Sandwich Artist",
+      "function": "education",
+      "fit": 32
+    },
+    {
+      "title": "Event Coordinator",
+      "function": "education",
+      "fit": 0
+    }
+  ],
+  "explore_jobs": [],
   "llm_trace": [
     {
       "stage": "route",
@@ -781,8 +1496,10 @@
     },
     {
       "stage": "evidence",
-      "accepted": true,
-      "review_reasons": []
+      "accepted": false,
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     }
   ],
   "normalization_source": "hybrid"

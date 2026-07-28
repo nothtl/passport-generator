@@ -1,99 +1,519 @@
-"""Generate clean HTML reports — monochromatic indigo palette, bento grid, no emojis."""
+"""Generate clean HTML reports — Apple design language, typography-forward, print-ready."""
 import json, os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 IN_DIR = os.path.join(HERE, "..", "..", "reports", "tingli_deepseek")
 OUT_DIR = IN_DIR
 
+# ── Apple design tokens ──────────────────────────────────────────────
+
 CSS = """
+/* ===================================================================
+   Apple-style report stylesheet
+   =================================================================== */
+
+/* ── Design tokens ─────────────────────────────────────────────── */
 :root {
-  --ink: #1a1a2e; --muted: #4a4a6a; --soft: #6b6b8a;
-  --accent: #5b5fef; --accent-glow: #7c7ff8;
-  --surface: #ffffff; --surface-alt: #f5f4fA;
-  --border: #e8e8f0; --border-focus: #d0d0e0;
-  --ready: #2d8a56; --ready-bg: #eaf5ef;
-  --goal: #4a6cf7; --goal-bg: #eef1fe;
-  --gap-core: #c44545; --gap-bridge: #c4820e; --gap-stretch: #3b7a3b;
-  --radius: 10px; --radius-sm: 6px;
+  --bg:            #f5f5f7;
+  --surface:       #ffffff;
+  --text:          #1d1d1f;
+  --text-secondary:#6e6e73;
+  --text-tertiary: #aeaeb2;
+  --accent:        #0071e3;
+  --accent-light:  #e8f2fd;
+  --green:         #34c759;
+  --green-bg:      #e8f8ed;
+  --orange:        #ff9500;
+  --orange-bg:     #fff4e5;
+  --red:           #ff3b30;
+  --red-bg:        #ffeceb;
+  --amber:         #ff9f0a;
+  --amber-bg:      #fff8e5;
+  --border:        #d2d2d7;
+  --border-subtle: #e5e5ea;
+  --radius:        12px;
+  --radius-sm:     8px;
+  --radius-lg:     16px;
+  --shadow:        0 1px 3px rgba(0,0,0,0.04), 0 0 0 0.5px rgba(0,0,0,0.02);
+  --shadow-hover:  0 4px 16px rgba(0,0,0,0.06), 0 0 0 0.5px rgba(0,0,0,0.03);
+  --font:          -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                   "Helvetica Neue", "Segoe UI", sans-serif;
+  --font-mono:     "SF Mono", "JetBrains Mono", "Menlo", "Consolas", monospace;
 }
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{font:15px/1.6 "Inter","Segoe UI",system-ui,sans-serif;color:var(--ink);background:var(--surface-alt);min-height:100vh}
-.container{max-width:960px;margin:0 auto;padding:2rem 1.5rem 4rem}
 
-.header{padding:2rem 0 1.5rem;border-bottom:1px solid var(--border);margin-bottom:2rem}
-.header h1{font-size:1.8rem;font-weight:700;letter-spacing:-0.02em;color:var(--ink)}
-.header .meta{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:.4rem;font-size:.88rem;color:var(--muted)}
-.header .meta span{display:flex;align-items:center;gap:.3rem}
-.header .meta .tag{display:inline-block;padding:.15rem .55rem;border-radius:99px;font-size:.76rem;font-weight:600;letter-spacing:.01em}
-.tag-ready{background:var(--ready-bg);color:var(--ready)}
-.tag-goal{background:var(--goal-bg);color:var(--goal)}
-.tag-review{background:#fef3cd;color:#856404}
-.needs-review{border-left:3px solid #e2a300}
+/* ── Reset & base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-/* Skills bar */
-.skills-bar{display:flex;flex-wrap:wrap;gap:.4rem;margin:1rem 0}
-.skill{display:inline-flex;align-items:center;gap:.25rem;padding:.25rem .6rem;border-radius:99px;font-size:.78rem;font-weight:500;background:var(--surface);border:1px solid var(--border);color:var(--ink)}
-.skill-implicit{background:var(--surface-alt);border-style:dashed;color:var(--muted)}
+body {
+  font: 400 15px/1.6 var(--font);
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
-/* Summary card */
-.summary-card{background:linear-gradient(135deg,#f0f1ff 0%,#f5f4fA 100%);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0}
-.summary-card p{color:var(--ink);font-size:.92rem;line-height:1.6}
-.summary-card .careers{font-weight:600;color:var(--accent)}
+/* ── Container ─────────────────────────────────────────────────── */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
 
-/* Bento grid */
-.bento{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin:1.5rem 0}
-.bento-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem;transition:box-shadow .2s}
-.bento-card:hover{box-shadow:0 2px 12px rgba(0,0,0,.06)}
-.bento-card h3{font-size:.82rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:.6rem;padding-bottom:.5rem;border-bottom:1px solid var(--border)}
-.bento-card.full{grid-column:1/-1}
+/* ── Header ────────────────────────────────────────────────────── */
+.report-header {
+  padding: 0 0 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
 
-/* Job cards */
-.job-list{display:flex;flex-direction:column;gap:.8rem}
-.job-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1rem 1.2rem;transition:box-shadow .15s;position:relative}
-.job-card:hover{box-shadow:0 1px 8px rgba(0,0,0,.05)}
-.job-card .job-top{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
-.job-card .job-title{font-weight:600;font-size:.95rem;color:var(--ink)}
-.job-card .job-company{font-size:.82rem;color:var(--muted);margin-top:.1rem}
-.job-card .job-score{font-size:.78rem;font-weight:700;padding:.15rem .5rem;border-radius:99px;white-space:nowrap}
-.score-ready{background:var(--ready-bg);color:var(--ready)}
-.score-goal{background:var(--goal-bg);color:var(--goal)}
-.job-card .job-why{font-size:.82rem;color:var(--muted);margin-top:.4rem;line-height:1.5}
-.job-card .job-link{font-size:.8rem;color:var(--accent);text-decoration:none;font-weight:600}
-.job-card .job-link:hover{text-decoration:underline}
+.report-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
 
-/* Skill tree */
-.skill-tree{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0;font-family:"JetBrains Mono","SF Mono","Cascadia Code",monospace;font-size:.8rem;line-height:1.7;color:var(--ink);white-space:pre;overflow-x:auto}
+.report-header .meta-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
 
-/* Steps */
-.steps{counter-reset:step;list-style:none;padding:0}
-.steps li{counter-increment:step;padding:.35rem 0 .35rem 2rem;position:relative;font-size:.88rem;color:var(--ink)}
-.steps li::before{content:counter(step);position:absolute;left:0;top:.3rem;width:1.3rem;height:1.3rem;background:var(--accent);color:#fff;border-radius:50%;font-size:.7rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+.report-header .meta-row .stat {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 500;
+}
 
-/* Gaps grid */
-.gaps-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem}
-.gap-col h4{font-size:.76rem;font-weight:600;text-transform:uppercase;letter-spacing:.03em;margin-bottom:.4rem}
-.gap-col ul{list-style:none;padding:0}
-.gap-col li{font-size:.82rem;padding:.2rem 0;border-bottom:1px dotted var(--border)}
-.gap-col li:last-child{border-bottom:none}
-.gap-core h4{color:var(--gap-core)}.gap-bridge h4{color:var(--gap-bridge)}.gap-stretch h4{color:var(--gap-stretch)}
+.report-header .meta-row .stat strong {
+  color: var(--text);
+  font-weight: 600;
+}
 
-/* Section heading */
-.section-head{display:flex;align-items:center;gap:.6rem;margin:2rem 0 1rem}
-.section-head h2{font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--ink)}
-.section-head .line{flex:1;height:1px;background:var(--border)}
+.report-header .meta-row .stat.conf-high strong { color: var(--green); }
+.report-header .meta-row .stat.conf-mid  strong { color: var(--orange); }
+.report-header .meta-row .stat.conf-low  strong { color: var(--red); }
 
-/* Footer */
-.footer{text-align:center;padding:2rem 0 1rem;font-size:.78rem;color:var(--soft);border-top:1px solid var(--border);margin-top:3rem}
+/* Review indicator — subtle amber dot */
+.review-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--amber);
+}
+.review-indicator::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--amber);
+}
 
-@media(max-width:700px){.bento{grid-template-columns:1fr}.gaps-grid{grid-template-columns:1fr}}
+/* ── Skills bar ────────────────────────────────────────────────── */
+.skills-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.2rem;
+}
+
+.skill-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+}
+
+.skill-pill.implicit {
+  color: var(--text-tertiary);
+  border-style: dashed;
+}
+
+/* ── Summary card ──────────────────────────────────────────────── */
+.summary-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.summary-card p {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.summary-card .careers {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ── Section headings ──────────────────────────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.5rem 0 1.2rem;
+}
+
+.section-head h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.section-head .rule {
+  flex: 1;
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+/* ── Progression columns (replaces ASCII tree) ─────────────────── */
+.progression {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.progression .tier {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.progression .tier .tier-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.progression .tier .tier-item {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.4;
+  padding: 0.15rem 0;
+}
+
+.progression .tier .tier-item:last-child { border-bottom: none; }
+
+/* Color accents per tier */
+.progression .tier.tier-current  .tier-label { color: var(--text-secondary); }
+.progression .tier.tier-bridge   .tier-label { color: var(--orange); }
+.progression .tier.tier-stretch  .tier-label { color: var(--accent); }
+.progression .tier.tier-dream    .tier-label { color: var(--green); }
+
+/* ── Steps ──────────────────────────────────────────────────────── */
+.steps {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.steps li {
+  counter-increment: step;
+  padding: 0.45rem 0 0.45rem 2.2rem;
+  position: relative;
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Recommendations grid ──────────────────────────────────────── */
+.report-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.stat-card h3 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.stat-card.full { grid-column: 1 / -1; }
+
+/* ── Job cards ──────────────────────────────────────────────────── */
+.job-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.job-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  transition: box-shadow 0.15s ease;
+}
+
+.job-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.job-card .job-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.job-card .job-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.35;
+}
+
+.job-card .job-company {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+
+.job-card .job-score {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+
+.score-ready { background: var(--green-bg); color: var(--green); }
+.score-goal  { background: var(--orange-bg); color: var(--orange); }
+.score-explore { background: var(--accent-light); color: var(--accent); }
+
+.job-card .job-why {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  margin-top: 0.45rem;
+  line-height: 1.5;
+}
+
+.job-card .job-link {
+  display: inline-block;
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.job-card .job-link:hover {
+  text-decoration: underline;
+}
+
+.job-card .job-link::after {
+  content: " →";
+  font-weight: 400;
+}
+
+/* ── Skill gaps ────────────────────────────────────────────────── */
+.gaps-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.gap-col {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+}
+
+.gap-col h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.gap-col .gap-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.gap-col .gap-pill {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 99px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.gap-core    { border-left: 3px solid var(--red);    }
+.gap-core    h4 { color: var(--red);    }
+.gap-core    .gap-pill { background: var(--red-bg);    color: var(--red);    }
+
+.gap-bridge  { border-left: 3px solid var(--orange);  }
+.gap-bridge  h4 { color: var(--orange); }
+.gap-bridge  .gap-pill { background: var(--orange-bg); color: var(--orange); }
+
+.gap-stretch { border-left: 3px solid var(--accent);  }
+.gap-stretch h4 { color: var(--accent);  }
+.gap-stretch .gap-pill { background: var(--accent-light); color: var(--accent); }
+
+/* ── Footer ────────────────────────────────────────────────────── */
+.report-footer {
+  text-align: center;
+  padding: 2.5rem 0 0;
+  margin-top: 3rem;
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ── Print styles ──────────────────────────────────────────────── */
+@media print {
+  body {
+    background: #fff;
+    font-size: 12px;
+    color: #000;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .container { max-width: none; padding: 0.5in; }
+
+  .report-header {
+    border-bottom: 0.5pt solid #ccc;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .section-head .rule { background: #ccc; }
+
+  .stat-card,
+  .job-card,
+  .summary-card,
+  .gap-col,
+  .progression .tier {
+    box-shadow: none;
+    border: 0.5pt solid #ddd;
+    break-inside: avoid;
+  }
+
+  .job-card .job-link::after { content: ""; }
+
+  .report-grid,
+  .gaps-grid,
+  .progression { gap: 0.6rem; }
+
+  .report-footer {
+    border-top: 0.5pt solid #ccc;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .skill-pill,
+  .gap-pill {
+    border: 0.5pt solid #ccc;
+  }
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .report-grid,
+  .gaps-grid,
+  .progression {
+    grid-template-columns: 1fr;
+  }
+
+  .report-header h1 { font-size: 1.6rem; }
+  .report-header .meta-row { gap: 0.8rem; }
+}
 """
 
 
 def _company_name(name):
-    if not name or len(name) < 2: return ""
+    if not name or len(name) < 2:
+        return ""
     import re
-    if re.match(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', name): return ""
+    if re.match(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', name):
+        return ""
     return name
+
+
+def _conf_class(confidence):
+    """Return CSS class for confidence level colouring."""
+    if confidence >= 80:
+        return "conf-high"
+    elif confidence >= 60:
+        return "conf-mid"
+    else:
+        return "conf-low"
 
 
 def _render_job(job, score_class):
@@ -105,18 +525,116 @@ def _render_job(job, score_class):
     bridge = job.get("bridge", "")
     eligible = job.get("eligible", True)
 
-    html = '<div class=job-card>\n'
-    html += '<div class=job-top>\n'
-    html += f'<div><div class=job-title>{title}</div>'
-    if company: html += f'<div class=job-company>{company}</div>'
-    html += '</div>\n'
-    html += f'<div class="job-score {score_class}">{fit}%</div>\n'
-    html += '</div>\n'
-    if why: html += f'<div class=job-why>{why}</div>\n'
-    if bridge: html += f'<div class=job-why style="color:var(--accent)">Bridge: {bridge}</div>\n'
-    if not eligible: html += '<div class=job-why style="color:var(--gap-core)">May not be youth-eligible</div>\n'
-    if url: html += f'<a class=job-link href="{url}" target=_blank rel=noopener>View position</a>\n'
-    html += '</div>\n'
+    html = '      <div class="job-card">\n'
+    html += '        <div class="job-top">\n'
+    html += f'          <div><div class="job-title">{title}</div>\n'
+    if company:
+        html += f'          <div class="job-company">{company}</div>\n'
+    html += '          </div>\n'
+    html += f'          <div class="job-score {score_class}">{fit}%</div>\n'
+    html += '        </div>\n'
+    if why:
+        html += f'        <div class="job-why">{why}</div>\n'
+    if bridge:
+        html += f'        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: {bridge}</div>\n'
+    if not eligible:
+        html += f'        <div class="job-why" style="color:var(--red);">May not be youth-eligible</div>\n'
+    if url:
+        html += f'        <a class="job-link" href="{url}" target="_blank" rel="noopener">View position</a>\n'
+    html += '      </div>\n'
+    return html
+
+
+def _render_progression(data):
+    """Build a clean four-column skill progression instead of ASCII tree."""
+    skills = data.get("verified_skills", [])[:10]
+    implicit = [s.get("skill", "") for s in data.get("implicit_skills", [])]
+    ideal = data.get("ideal_careers", [])[:5]
+
+    # Use the skill tree to extract bridge and stretch skills if available
+    tree_text = ""
+    if data.get("skill_tree") and data["skill_tree"].get("tree"):
+        tree_text = data["skill_tree"]["tree"]
+
+    # Parse bridge/stretch from tree text
+    bridge_skills = []
+    stretch_skills = []
+
+    def _is_header(text):
+        """Filter out ASCII tree section headers like 'GOAL SKILLS', 'DREAM CAREERS'."""
+        upper = text.upper()
+        return any(kw in upper for kw in ("SKILLS", "CAREERS", "CURRENT", "DREAM"))
+
+    current_section = None
+    for line in tree_text.split("\n"):
+        stripped = line.strip()
+        if "BRIDGE" in stripped:
+            current_section = "bridge"
+            continue
+        elif "STRETCH" in stripped:
+            current_section = "stretch"
+            continue
+        elif "DREAM" in stripped:
+            current_section = "dream"
+            continue
+
+        if current_section in ("bridge", "stretch"):
+            # Extract skill name from lines like: │   ├── classroom-management
+            import re
+            m = re.search(r'├──\s+(.+?)$', stripped)
+            if not m:
+                m = re.search(r'└──\s+(.+?)$', stripped)
+            if m:
+                skill = m.group(1).strip()
+                if _is_header(skill):
+                    continue
+                if current_section == "bridge":
+                    bridge_skills.append(skill)
+                else:
+                    stretch_skills.append(skill)
+
+    html = '      <div class="progression">\n'
+
+    # Current skills column
+    html += '        <div class="tier tier-current">\n'
+    html += '          <div class="tier-label">Current Skills</div>\n'
+    for s in skills[:6]:
+        html += f'          <div class="tier-item">{s}</div>\n'
+    for s in implicit[:3]:
+        if s not in skills:
+            html += f'          <div class="tier-item" style="color:var(--text-tertiary)">{s}</div>\n'
+    if not skills:
+        html += '          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">No verified skills</div>\n'
+    html += '        </div>\n'
+
+    # Bridge skills column
+    html += '        <div class="tier tier-bridge">\n'
+    html += '          <div class="tier-label">Learn Next</div>\n'
+    for s in bridge_skills[:6]:
+        html += f'          <div class="tier-item">{s}</div>\n'
+    if not bridge_skills:
+        html += '          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>\n'
+    html += '        </div>\n'
+
+    # Stretch skills column
+    html += '        <div class="tier tier-stretch">\n'
+    html += '          <div class="tier-label">Future Skills</div>\n'
+    for s in stretch_skills[:6]:
+        html += f'          <div class="tier-item">{s}</div>\n'
+    if not stretch_skills:
+        html += '          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>\n'
+    html += '        </div>\n'
+
+    # Dream careers column
+    html += '        <div class="tier tier-dream">\n'
+    html += '          <div class="tier-label">Dream Careers</div>\n'
+    for c in ideal[:5]:
+        html += f'          <div class="tier-item">{c}</div>\n'
+    if not ideal:
+        html += '          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>\n'
+    html += '        </div>\n'
+
+    html += '      </div>\n'
     return html
 
 
@@ -124,102 +642,157 @@ def generate_report(name, data):
     func = data.get("function", "?")
     sub = data.get("subdomain", "")
     skills = data.get("verified_skills", [])[:8]
-    implicit = [s.get("skill","") for s in data.get("implicit_skills", [])]
+    implicit = [s.get("skill", "") for s in data.get("implicit_skills", [])]
     ready = data.get("ready_now", [])
     aspirational = data.get("aspirational", [])
     confidence = data.get("confidence", 0)
     skill_tree = data.get("skill_tree", {})
     ideal = data.get("ideal_careers", [])
     needs_review = data.get("needs_review", False)
+    lane = data.get("lane_used", "?")
 
     func_label = f"{func}/{sub}" if sub else func
-    review_class = " needs-review" if needs_review else ""
+    conf_class = _conf_class(confidence)
 
-    html = '<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">\n'
-    html += f'<title>{name} | SpeakHire</title>\n'
+    html = '<!DOCTYPE html>\n'
+    html += '<html lang="en">\n'
+    html += '<meta charset="utf-8">\n'
+    html += '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+    html += f'<title>{name} — SpeakHire Career Report</title>\n'
     html += f'<style>{CSS}</style>\n'
-    html += f'<div class=container{review_class}>\n'
+    html += '<div class="container">\n'
 
-    # Header
-    html += '<div class=header>\n'
-    html += f'<h1>{name}</h1>\n'
-    html += '<div class=meta>\n'
-    html += f'<span>Direction: <strong>{func_label}</strong></span>\n'
-    html += f'<span>Confidence: <strong>{confidence}%</strong></span>\n'
-    html += f'<span>Lane: <strong>{data.get("lane_used","?")}</strong></span>\n'
-    if needs_review: html += '<span class="tag tag-review">Review suggested</span>\n'
-    html += '</div>\n'
+    # ── Header ──────────────────────────────────────────────────────
+    html += '  <header class="report-header">\n'
+    html += f'    <h1>{name}</h1>\n'
+    html += '    <div class="meta-row">\n'
+    html += f'      <span class="stat">Direction: <strong>{func_label}</strong></span>\n'
+    html += f'      <span class="stat {conf_class}">Confidence: <strong>{confidence}%</strong></span>\n'
+    html += f'      <span class="stat">Lane: <strong>{lane}</strong></span>\n'
+    if needs_review:
+        html += '      <span class="review-indicator">Review suggested</span>\n'
+    html += '    </div>\n'
 
     # Skills
     if skills:
-        html += '<div class=skills-bar>\n'
+        html += '    <div class="skills-bar">\n'
         for s in skills:
-            html += f'<span class=skill>{s}</span>\n'
+            html += f'      <span class="skill-pill">{s}</span>\n'
         for s in implicit[:3]:
             if s not in skills:
-                html += f'<span class="skill skill-implicit">{s}</span>\n'
-        html += '</div>\n'
-    html += '</div>\n'
+                html += f'      <span class="skill-pill implicit">{s}</span>\n'
+        html += '    </div>\n'
 
-    # Summary
+    html += '  </header>\n'
+
+    # ── Summary card ────────────────────────────────────────────────
     if ideal or (skill_tree and skill_tree.get("summary")):
-        html += '<div class=summary-card>\n'
-        if ideal: html += f'<p><span class=careers>Target careers:</span> {", ".join(ideal)}</p>\n'
+        html += '  <div class="summary-card">\n'
+        if ideal:
+            html += f'    <p><span class="careers">Target careers:</span> {", ".join(ideal)}</p>\n'
         if skill_tree and skill_tree.get("summary"):
-            html += f'<p style="margin-top:.4rem">{skill_tree["summary"]}</p>\n'
-        html += '</div>\n'
+            html += f'    <p style="margin-top:0.5rem">{skill_tree["summary"]}</p>\n'
+        html += '  </div>\n'
 
-    # Skill tree
+    # ── Skill progression ──────────────────────────────────────────
+    tree_text = ""
     if skill_tree and skill_tree.get("tree"):
-        html += '<div class="section-head"><h2>Skill Progression</h2><span class=line></span></div>\n'
-        html += f'<pre class=skill-tree>{skill_tree["tree"]}</pre>\n'
-        steps = skill_tree.get("steps", [])
-        if steps:
-            html += '<ol class=steps>\n'
-            for s in steps:
-                html += f'<li>{s}</li>\n'
-            html += '</ol>\n'
+        tree_text = skill_tree["tree"]
 
-    # Jobs bento
+    if tree_text or skills or ideal:
+        html += '  <div class="section-head"><h2>Skill Progression</h2><span class="rule"></span></div>\n'
+        html += _render_progression(data)
+
+        # Steps
+        steps = skill_tree.get("steps", []) if skill_tree else []
+        if steps:
+            html += '  <ol class="steps">\n'
+            for s in steps:
+                html += f'    <li>{s}</li>\n'
+            html += '  </ol>\n'
+
+    # ── Recommendations ────────────────────────────────────────────
     if ready or aspirational:
-        html += '<div class="section-head"><h2>Recommendations</h2><span class=line></span></div>\n'
-        html += '<div class=bento>\n'
+        html += '  <div class="section-head"><h2>Recommendations</h2><span class="rule"></span></div>\n'
+        html += '  <div class="report-grid">\n'
 
         if ready:
-            html += '<div class=bento-card>\n'
-            html += '<h3>Available Now</h3>\n'
-            html += '<div class=job-list>\n'
+            html += '    <div class="stat-card">\n'
+            html += '      <h3>Available Now</h3>\n'
+            html += '      <div class="job-list">\n'
             for job in ready:
                 html += _render_job(job, "score-ready")
-            html += '</div></div>\n'
+            html += '      </div>\n'
+            html += '    </div>\n'
 
         if aspirational:
-            html += '<div class=bento-card>\n'
-            html += '<h3>Career Goals</h3>\n'
-            html += '<div class=job-list>\n'
+            html += '    <div class="stat-card">\n'
+            html += '      <h3>Career Goals</h3>\n'
+            html += '      <div class="job-list">\n'
             for job in aspirational:
                 html += _render_job(job, "score-goal")
-            html += '</div></div>\n'
+            html += '      </div>\n'
+            html += '    </div>\n'
 
-        html += '</div>\n'
+        html += '  </div>\n'
 
-    # Gaps
-    core = data.get("core_gaps", [])[:5]
-    bridge_gaps = data.get("bridge_gaps", [])[:5]
-    stretch = data.get("stretch_gaps", [])[:5]
+        # Cross-function explore tier
+        explore = data.get("explore_jobs", [])
+        if explore:
+            html += '  <div class="section-head"><h2>Also Explore</h2><span class="rule"></span></div>\n'
+            html += '  <p style="font-size:.84rem;color:var(--text-secondary);margin-bottom:1rem">Jobs from other career fields that match your skills</p>\n'
+            html += '  <div class="report-grid">\n'
+            html += '    <div class="stat-card full">\n'
+            html += '      <h3>Cross-Field Matches</h3>\n'
+            html += '      <div class="job-list">\n'
+            for job in explore[:6]:
+                html += _render_job(job, "score-explore")
+            html += '      </div>\n'
+            html += '    </div>\n'
+            html += '  </div>\n'
+
+    # ── Skill gaps ─────────────────────────────────────────────────
+    core = data.get("core_gaps", [])[:6]
+    bridge_gaps = data.get("bridge_gaps", [])[:6]
+    stretch = data.get("stretch_gaps", [])[:6]
+
     if core or bridge_gaps or stretch:
-        html += '<div class="section-head"><h2>Skill Gaps</h2><span class=line></span></div>\n'
-        html += '<div class=gaps-grid>\n'
-        if core:
-            html += '<div class="gap-col gap-core"><h4>Core (priority)</h4><ul>' + ''.join(f'<li>{g}</li>' for g in core) + '</ul></div>\n'
-        if bridge_gaps:
-            html += '<div class="gap-col gap-bridge"><h4>Bridge (developing)</h4><ul>' + ''.join(f'<li>{g}</li>' for g in bridge_gaps) + '</ul></div>\n'
-        if stretch:
-            html += '<div class="gap-col gap-stretch"><h4>Stretch (future)</h4><ul>' + ''.join(f'<li>{g}</li>' for g in stretch) + '</ul></div>\n'
-        html += '</div>\n'
+        html += '  <div class="section-head"><h2>Skill Gaps</h2><span class="rule"></span></div>\n'
+        html += '  <div class="gaps-grid">\n'
 
-    html += '<div class=footer>SpeakHire Recommender</div>\n'
+        if core:
+            html += '    <div class="gap-col gap-core">\n'
+            html += '      <h4>Core (priority)</h4>\n'
+            html += '      <div class="gap-pills">\n'
+            for g in core:
+                html += f'        <span class="gap-pill">{g}</span>\n'
+            html += '      </div>\n'
+            html += '    </div>\n'
+
+        if bridge_gaps:
+            html += '    <div class="gap-col gap-bridge">\n'
+            html += '      <h4>Bridge (developing)</h4>\n'
+            html += '      <div class="gap-pills">\n'
+            for g in bridge_gaps:
+                html += f'        <span class="gap-pill">{g}</span>\n'
+            html += '      </div>\n'
+            html += '    </div>\n'
+
+        if stretch:
+            html += '    <div class="gap-col gap-stretch">\n'
+            html += '      <h4>Stretch (future)</h4>\n'
+            html += '      <div class="gap-pills">\n'
+            for g in stretch:
+                html += f'        <span class="gap-pill">{g}</span>\n'
+            html += '      </div>\n'
+            html += '    </div>\n'
+
+        html += '  </div>\n'
+
+    # ── Footer ──────────────────────────────────────────────────────
+    html += '  <footer class="report-footer">SpeakHire Career Report</footer>\n'
     html += '</div>\n'
+    html += '</html>\n'
     return html
 
 
@@ -227,40 +800,125 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     count = 0
     for fname in sorted(os.listdir(IN_DIR)):
-        if not fname.endswith('.json'): continue
+        if not fname.endswith('.json'):
+            continue
         name = fname.replace('.json', '')
         with open(os.path.join(IN_DIR, fname), encoding='utf-8') as f:
             data = json.load(f)
-        if data.get('error'): continue
+        if data.get('error'):
+            continue
         html = generate_report(name, data)
-        with open(os.path.join(OUT_DIR, f"{name}.html"), 'w', encoding='utf-8') as f:
+        out_path = os.path.join(OUT_DIR, f"{name}.html")
+        with open(out_path, 'w', encoding='utf-8') as f:
             f.write(html)
         count += 1
         print(f"  {name}.html")
 
-    # Index
-    ix = '<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">\n'
-    ix += f'<title>SpeakHire</title>\n<style>body{{font:15px/1.5 Inter,Segoe UI,system-ui;margin:2rem auto;max-width:800px;padding:0 1rem;background:#f5f4fA;color:#1a1a2e}}h1{{font-size:1.6rem;letter-spacing:-.02em}}table{{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.04)}}th{{text-align:left;padding:.6rem .8rem;font-size:.76rem;text-transform:uppercase;letter-spacing:.04em;color:#6b6b8a;border-bottom:1px solid #e8e8f0}}td{{padding:.55rem .8rem;font-size:.9rem;border-bottom:1px solid #f0f0f5}}tr:last-child td{{border-bottom:none}}a{{color:#5b5fef;text-decoration:none;font-weight:500}}a:hover{{text-decoration:underline}}.sub{{color:#6b6b8a;font-size:.82rem}}</style>\n'
-    ix += '<h1>SpeakHire</h1>\n'
-    ix += '<table><thead><tr><th>Student</th><th>Direction</th><th>Conf</th><th>Ready Now</th><th>Career Goal</th></tr></thead><tbody>\n'
+    # ── Index page ──────────────────────────────────────────────────
+    ix_css = """
+    body {
+      font: 400 15px/1.6 -apple-system, BlinkMacSystemFont, "SF Pro Display",
+           "Helvetica Neue", "Segoe UI", sans-serif;
+      margin: 3rem auto;
+      max-width: 860px;
+      padding: 0 1.5rem;
+      background: #f5f5f7;
+      color: #1d1d1f;
+      -webkit-font-smoothing: antialiased;
+    }
+    h1 {
+      font-size: 1.6rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 1.2rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid #e5e5ea;
+    }
+    th {
+      text-align: left;
+      padding: 0.7rem 1rem;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #86868b;
+      background: #fafafa;
+      border-bottom: 1px solid #e5e5ea;
+    }
+    td {
+      padding: 0.6rem 1rem;
+      font-size: 0.9rem;
+      border-bottom: 1px solid #f0f0f2;
+      vertical-align: top;
+    }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafafa; }
+    a {
+      color: #0071e3;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    a:hover { text-decoration: underline; }
+    .sub {
+      color: #86868b;
+      font-size: 0.82rem;
+    }
+    .conf {
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+    .conf-high { color: #34c759; }
+    .conf-mid  { color: #ff9500; }
+    .conf-low  { color: #ff3b30; }
+    @media print { body { background: #fff; } }
+    """
+
+    ix = '<!DOCTYPE html>\n<html lang="en">\n'
+    ix += '<meta charset="utf-8">\n'
+    ix += '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+    ix += '<title>SpeakHire — Career Reports</title>\n'
+    ix += f'<style>{ix_css}</style>\n'
+    ix += '<h1>SpeakHire Career Reports</h1>\n'
+    ix += '<table>\n'
+    ix += '<thead><tr><th>Student</th><th>Direction</th><th>Conf</th><th>Ready Now</th><th>Career Goal</th></tr></thead>\n'
+    ix += '<tbody>\n'
 
     for fname in sorted(os.listdir(IN_DIR)):
-        if not fname.endswith('.json'): continue
+        if not fname.endswith('.json'):
+            continue
         name = fname.replace('.json', '')
         with open(os.path.join(IN_DIR, fname), encoding='utf-8') as f:
             data = json.load(f)
-        if data.get('error'): continue
-        func = f"{data.get('function','?')}/{data.get('subdomain','?')}"
+        if data.get('error'):
+            continue
+        func_label = f"{data.get('function','?')}/{data.get('subdomain','?')}"
         conf = data.get('confidence', 0)
+        conf_class = _conf_class(conf)
         r = data.get('ready_now', [{}])[0]
         a = data.get('aspirational', [{}])[0]
-        ix += f'<tr><td><a href="{name}.html">{name}</a></td><td class=sub>{func}</td><td>{conf}%</td><td>{r.get("title","-")[:40]}</td><td>{a.get("title","-")[:40]}</td></tr>\n'
+        ix += (
+            f'<tr>'
+            f'<td><a href="{name}.html">{name}</a></td>'
+            f'<td class="sub">{func_label}</td>'
+            f'<td class="conf {conf_class}">{conf}%</td>'
+            f'<td>{r.get("title","-")[:45]}</td>'
+            f'<td>{a.get("title","-")[:45]}</td>'
+            f'</tr>\n'
+        )
 
-    ix += '</tbody></table>\n'
-    ix += f'<p class=sub style="margin-top:1rem">{count} students</p>\n'
+    ix += '</tbody>\n</table>\n'
+    ix += f'<p style="margin-top:1.2rem;font-size:0.82rem;color:#86868b;">{count} students</p>\n'
+    ix += '</html>\n'
+
     with open(os.path.join(OUT_DIR, "index.html"), 'w', encoding='utf-8') as f:
         f.write(ix)
-    print(f"\n{count} HTML reports + index.html written to {OUT_DIR}")
+    print(f"\n{count} HTML reports + index written to {OUT_DIR}")
 
 
 if __name__ == "__main__":

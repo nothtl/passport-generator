@@ -1,123 +1,628 @@
 {
   "resume": "=== Mingyu Huo - Resume.pdf ===\nCarl (Mingyu Huo) \n(929) 319-9980 | Mhuo@schools.nyc.gov  \n\nOBJECTIVE:  To obtain a position as a Secondary Mathematics Teacher \n\nEDUCATION:  Queens College, City University of New York, Flushing, NY \nB. A., Mathematics and Mathematics Education | GPA: 3.755 \n     06/2026  \n\nCERTIFICATION: \n     09/2026  \n\nNew York State Initial Certificate, Mathematics, Grades 7-12 \n\nACADEMIC HONORS: \nFall 2022- \nSpring 2026     Dean’s List \n\nTIME 2000 4-Year Scholarship \n\nRELATED EXPERIENCE: \nSpring 2026  \n                             Bayside High School, Flushing, New York \n\nStudent Teacher \n\n•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus  \n•  Create engaging lesson plans, prepare instructional materials, and grade assessments. \n•  Design and implement differentiated instructions to meet the needs of diverse learners. \n• \n\nParticipated in New York State Science of Reading Micro-credential pilot program and applied research-\nbased literacy practices in mathematics instruction. \n\n    Fall 2025 \nInitial Clinical Experience Student Teacher \n                          East-West School of International Studies, Flushing, New York \n\n•  Team-taught selected mathematics lessons in 7th grade. \n•  Assisted cooperating teacher in differentiating instruction and assessing students. \n\nSpring 2025- \n         Present  \nSubstitute Paraprofessional \n                          Flushing International H.S., Flushing, New York \n\n•  Organize events and manage student data, schedules, and assessments. \n•  Facilitate ESL exams for English language learners. \n\nEXPERIENCE:   \nSpring 2023- \n  Spring 2024   Cashier \n\n99 Cent Store, Flushing, New York \n•  Handled cash transactions and guided customers to locate products. \n•  Verified orders of products and maintained organized well-stocked shelves.  \n\nSKILLS:  \n\nGoogle Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra, \nKahoot, Geometry Sketchpad, Smart Notebook; Mandarin & English. \n\nPROFESSIONAL  \nMEMBERSHIP: National Council of Teachers of Mathematics \n\nREFERENCES: Available upon request",
   "function": "education",
-  "confidence": 82,
+  "confidence": 85,
   "skills": [
+    "Instructing",
+    "Active Learning",
+    "Critical Thinking",
+    "Customer and Personal Service",
+    "Mathematics",
+    "Administrative",
+    "Coordination",
+    "English Language",
+    "Sales and Marketing",
     "algebra",
     "assessments",
     "calculus",
     "canva",
-    "clinical",
-    "clinical experience",
-    "data",
-    "design",
-    "desmos",
-    "english language",
-    "english language learners",
-    "esl"
-  ],
-  "verified_skills": [
-    "algebra",
-    "assessments",
-    "calculus",
-    "canva",
-    "clinical",
-    "clinical experience",
-    "data",
-    "design",
-    "desmos",
-    "english language",
-    "english language learners",
-    "esl"
-  ],
-  "possible_skills": [],
-  "rejected_skills": [
     "cash",
     "cash transactions",
     "cashier",
+    "certificate",
+    "clinical",
+    "clinical experience",
+    "credential",
     "customers",
+    "data",
+    "design",
+    "desmos",
+    "engaging",
+    "english language learners",
+    "esl",
+    "exams",
+    "geometry",
+    "google",
+    "google classroom",
+    "google workspace",
+    "grades",
+    "high school",
+    "instruction",
+    "instructional materials",
+    "instructions",
+    "kahoot",
+    "lesson plans",
+    "literacy",
+    "mandarin",
+    "materials",
+    "membership",
+    "microsoft",
+    "microsoft office",
+    "microsoft office suite",
+    "office",
+    "office suite",
     "orders",
+    "organize",
     "organized",
-    "transactions"
+    "paraprofessional",
+    "pilot",
+    "plans",
+    "present",
+    "professional",
+    "program",
+    "references",
+    "schedules",
+    "scholarship",
+    "science",
+    "science of reading",
+    "teacher education",
+    "transactions",
+    "tutor",
+    "workspace"
   ],
-  "skill_weights": {},
-  "market_relevant": [
+  "verified_skills": [
+    "Instructing",
+    "Active Learning",
+    "Critical Thinking",
+    "Customer and Personal Service",
+    "Mathematics",
+    "Administrative",
+    "Coordination",
+    "English Language",
+    "Sales and Marketing",
     "algebra",
     "assessments",
     "calculus",
     "canva",
+    "cash",
+    "cash transactions",
+    "cashier",
+    "certificate",
     "clinical",
     "clinical experience",
+    "credential",
+    "customers",
     "data",
     "design",
     "desmos",
+    "engaging",
     "english language",
     "english language learners",
-    "esl"
+    "esl",
+    "exams",
+    "geometry",
+    "google",
+    "google classroom",
+    "google workspace",
+    "grades",
+    "high school",
+    "instruction",
+    "instructional materials",
+    "instructions",
+    "kahoot",
+    "lesson plans",
+    "literacy",
+    "mandarin",
+    "materials",
+    "mathematics",
+    "membership",
+    "microsoft",
+    "microsoft office",
+    "microsoft office suite",
+    "office",
+    "office suite",
+    "orders",
+    "organize",
+    "organized",
+    "paraprofessional",
+    "pilot",
+    "plans",
+    "present",
+    "professional",
+    "program",
+    "references",
+    "schedules",
+    "scholarship",
+    "science",
+    "science of reading",
+    "teacher education",
+    "transactions",
+    "tutor",
+    "workspace"
   ],
-  "inferred": [
-    "teaching",
-    "classroom management",
-    "bilingual communication"
+  "possible_skills": [],
+  "rejected_skills": [],
+  "skill_weights": {},
+  "market_relevant": [
+    "Instructing",
+    "Active Learning",
+    "Critical Thinking",
+    "Customer and Personal Service",
+    "Mathematics",
+    "Administrative",
+    "Coordination",
+    "English Language",
+    "Sales and Marketing",
+    "algebra",
+    "assessments",
+    "calculus",
+    "canva",
+    "cash",
+    "cash transactions",
+    "cashier",
+    "certificate",
+    "clinical",
+    "clinical experience",
+    "credential",
+    "customers",
+    "data",
+    "design",
+    "desmos",
+    "engaging",
+    "english language learners",
+    "esl",
+    "exams",
+    "geometry",
+    "google",
+    "google classroom",
+    "google workspace",
+    "grades",
+    "high school",
+    "instruction",
+    "instructional materials",
+    "instructions",
+    "kahoot",
+    "lesson plans",
+    "literacy",
+    "mandarin",
+    "materials",
+    "membership",
+    "microsoft",
+    "microsoft office",
+    "microsoft office suite",
+    "office",
+    "office suite",
+    "orders",
+    "organize",
+    "organized",
+    "paraprofessional",
+    "pilot",
+    "plans",
+    "present",
+    "professional",
+    "program",
+    "references",
+    "schedules",
+    "scholarship",
+    "science",
+    "science of reading",
+    "teacher education",
+    "transactions",
+    "tutor",
+    "workspace"
   ],
-  "implicit_skills": [
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
     {
-      "skill": "teaching",
-      "reason": "Experience with lesson plans, instruction, and instructional materials implies teaching ability.",
-      "confidence": "medium"
+      "skill": "mathematics",
+      "source_section": "summary",
+      "matched_text": "OBJECTIVE:  To obtain a position as a Secondary Mathematics Teacher",
+      "match_type": "vocabulary"
     },
     {
-      "skill": "classroom management",
-      "reason": "Experience as a paraprofessional and with lesson plans suggests classroom management skills.",
-      "confidence": "medium"
+      "skill": "teacher education",
+      "source_section": "summary",
+      "matched_text": "=== Mingyu Huo - Resume.pdf ===",
+      "match_type": "vocabulary"
     },
     {
-      "skill": "bilingual communication",
-      "reason": "Knowledge of Mandarin and ESL indicates ability to communicate in multiple languages.",
-      "confidence": "medium"
+      "skill": "algebra",
+      "source_section": "skills",
+      "matched_text": "•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "assessments",
+      "source_section": "skills",
+      "matched_text": "•  Create engaging lesson plans, prepare instructional materials, and grade assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "calculus",
+      "source_section": "skills",
+      "matched_text": "•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "canva",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "certificate",
+      "source_section": "skills",
+      "matched_text": "New York State Initial Certificate, Mathematics, Grades 7-12",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "clinical",
+      "source_section": "skills",
+      "matched_text": "Initial Clinical Experience Student Teacher",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "clinical experience",
+      "source_section": "skills",
+      "matched_text": "Initial Clinical Experience Student Teacher",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "credential",
+      "source_section": "skills",
+      "matched_text": "Participated in New York State Science of Reading Micro-credential pilot program and applied research-",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "data",
+      "source_section": "skills",
+      "matched_text": "•  Organize events and manage student data, schedules, and assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "design",
+      "source_section": "skills",
+      "matched_text": "•  Design and implement differentiated instructions to meet the needs of diverse learners.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "desmos",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engaging",
+      "source_section": "skills",
+      "matched_text": "•  Create engaging lesson plans, prepare instructional materials, and grade assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "english language",
+      "source_section": "skills",
+      "matched_text": "•  Facilitate ESL exams for English language learners.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "english language learners",
+      "source_section": "skills",
+      "matched_text": "•  Facilitate ESL exams for English language learners.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "esl",
+      "source_section": "skills",
+      "matched_text": "•  Facilitate ESL exams for English language learners.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "exams",
+      "source_section": "skills",
+      "matched_text": "•  Facilitate ESL exams for English language learners.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "geometry",
+      "source_section": "skills",
+      "matched_text": "•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "google",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "google classroom",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "google workspace",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "grades",
+      "source_section": "skills",
+      "matched_text": "New York State Initial Certificate, Mathematics, Grades 7-12",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high school",
+      "source_section": "skills",
+      "matched_text": "Bayside High School, Flushing, New York",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "instruction",
+      "source_section": "skills",
+      "matched_text": "•  Create engaging lesson plans, prepare instructional materials, and grade assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "instructional materials",
+      "source_section": "skills",
+      "matched_text": "•  Create engaging lesson plans, prepare instructional materials, and grade assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "instructions",
+      "source_section": "skills",
+      "matched_text": "•  Design and implement differentiated instructions to meet the needs of diverse learners.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "kahoot",
+      "source_section": "skills",
+      "matched_text": "Kahoot, Geometry Sketchpad, Smart Notebook; Mandarin & English.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "lesson plans",
+      "source_section": "skills",
+      "matched_text": "•  Create engaging lesson plans, prepare instructional materials, and grade assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "literacy",
+      "source_section": "skills",
+      "matched_text": "based literacy practices in mathematics instruction.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "mandarin",
+      "source_section": "skills",
+      "matched_text": "Kahoot, Geometry Sketchpad, Smart Notebook; Mandarin & English.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "materials",
+      "source_section": "skills",
+      "matched_text": "•  Create engaging lesson plans, prepare instructional materials, and grade assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "membership",
+      "source_section": "skills",
+      "matched_text": "MEMBERSHIP: National Council of Teachers of Mathematics",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "microsoft",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "microsoft office",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "microsoft office suite",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "office",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "office suite",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organize",
+      "source_section": "skills",
+      "matched_text": "•  Organize events and manage student data, schedules, and assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "paraprofessional",
+      "source_section": "skills",
+      "matched_text": "Substitute Paraprofessional",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "pilot",
+      "source_section": "skills",
+      "matched_text": "Participated in New York State Science of Reading Micro-credential pilot program and applied research-",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "plans",
+      "source_section": "skills",
+      "matched_text": "•  Create engaging lesson plans, prepare instructional materials, and grade assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "present",
+      "source_section": "skills",
+      "matched_text": "Present",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "professional",
+      "source_section": "skills",
+      "matched_text": "Substitute Paraprofessional",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "program",
+      "source_section": "skills",
+      "matched_text": "Participated in New York State Science of Reading Micro-credential pilot program and applied research-",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "references",
+      "source_section": "skills",
+      "matched_text": "REFERENCES: Available upon request",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "schedules",
+      "source_section": "skills",
+      "matched_text": "•  Organize events and manage student data, schedules, and assessments.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "scholarship",
+      "source_section": "skills",
+      "matched_text": "TIME 2000 4-Year Scholarship",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "science",
+      "source_section": "skills",
+      "matched_text": "Participated in New York State Science of Reading Micro-credential pilot program and applied research-",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "science of reading",
+      "source_section": "skills",
+      "matched_text": "Participated in New York State Science of Reading Micro-credential pilot program and applied research-",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "tutor",
+      "source_section": "skills",
+      "matched_text": "•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "workspace",
+      "source_section": "skills",
+      "matched_text": "Google Classroom, Microsoft Office Suite, Google Workspace, Desmos, Canva, GeoGebra,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cash",
+      "source_section": "experience",
+      "matched_text": "Spring 2024   Cashier",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cash transactions",
+      "source_section": "experience",
+      "matched_text": "•  Handled cash transactions and guided customers to locate products.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cashier",
+      "source_section": "experience",
+      "matched_text": "Spring 2024   Cashier",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "customers",
+      "source_section": "experience",
+      "matched_text": "•  Handled cash transactions and guided customers to locate products.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "orders",
+      "source_section": "experience",
+      "matched_text": "•  Verified orders of products and maintained organized well-stocked shelves.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organized",
+      "source_section": "experience",
+      "matched_text": "•  Verified orders of products and maintained organized well-stocked shelves.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "transactions",
+      "source_section": "experience",
+      "matched_text": "•  Handled cash transactions and guided customers to locate products.",
+      "match_type": "vocabulary"
     }
   ],
-  "skill_evidence": [],
   "gaps": [
-    "literacy",
-    "mathematics"
+    "behavior-intervention-plans",
+    "co-teaching",
+    "common-core-standards",
+    "state-standards",
+    "student-support",
+    "team-collaboration"
   ],
   "core_gaps": [
-    "literacy",
-    "mathematics"
+    "behavior-intervention-plans",
+    "co-teaching",
+    "common-core-standards",
+    "state-standards",
+    "student-support",
+    "team-collaboration"
   ],
-  "bridge_gaps": [],
-  "stretch_gaps": [
-    "adult-education",
-    "assessment",
-    "class-assistance",
-    "critical-thinking",
-    "curriculum-support",
-    "differentiated-instruction",
-    "early-elementary",
-    "education-development",
-    "excel",
-    "in-person-and-online-teaching"
+  "bridge_gaps": [
+    "academic-assistance",
+    "behavior-assessment",
+    "behavior-management",
+    "classical-education",
+    "classroom-assistance",
+    "classroom-technology",
+    "clerical-skills",
+    "communication",
+    "communication-skills",
+    "data-driven-instruction"
   ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
-    "adult-education",
-    "assessment",
-    "class-assistance",
-    "critical-thinking",
-    "curriculum-support",
-    "differentiated-instruction",
-    "early-elementary",
-    "education-development",
-    "excel",
-    "in-person-and-online-teaching"
+    "academic-assistance",
+    "behavior-assessment",
+    "behavior-management",
+    "classical-education",
+    "classroom-assistance",
+    "classroom-technology",
+    "clerical-skills",
+    "communication",
+    "communication-skills",
+    "data-driven-instruction"
   ],
-  "verify_gaps": [
-    "classroom-management"
-  ],
+  "verify_gaps": [],
   "related": [
     {
       "skill": "precalculus",
       "pmi": 6.22
+    },
+    {
+      "skill": "socialstudies",
+      "pmi": 5.93
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
     },
     {
       "skill": "veterinarystudent",
@@ -128,32 +633,64 @@
       "pmi": 5.59
     },
     {
+      "skill": "googlesuite",
+      "pmi": 5.53
+    },
+    {
       "skill": "statistics",
       "pmi": 5.41
     },
     {
-      "skill": "geometry",
-      "pmi": 5.32
+      "skill": "mathproficiency",
+      "pmi": 5.38
+    },
+    {
+      "skill": "algebrai",
+      "pmi": 5.34
     },
     {
       "skill": "dvm",
       "pmi": 5.27
     },
     {
-      "skill": "avmaaccredited",
-      "pmi": 5.19
+      "skill": "campusnexus",
+      "pmi": 2.97
     },
     {
-      "skill": "externship",
-      "pmi": 4.92
+      "skill": "3esystem",
+      "pmi": 2.97
     },
     {
-      "skill": "teamcommunication",
-      "pmi": 4.39
+      "skill": "chromeriver",
+      "pmi": 2.85
     },
     {
-      "skill": "mentorship",
-      "pmi": 4.1
+      "skill": "gsuite",
+      "pmi": 2.68
+    },
+    {
+      "skill": "caseware",
+      "pmi": 2.52
+    },
+    {
+      "skill": "digitalbanking",
+      "pmi": 2.31
+    },
+    {
+      "skill": "spanish",
+      "pmi": 2.28
+    },
+    {
+      "skill": "crossselling",
+      "pmi": 2.15
+    },
+    {
+      "skill": "bankingproducts",
+      "pmi": 2.05
+    },
+    {
+      "skill": "banking",
+      "pmi": 2.01
     }
   ],
   "related_skills": [
@@ -162,6 +699,14 @@
       "pmi": 6.22
     },
     {
+      "skill": "socialstudies",
+      "pmi": 5.93
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
       "skill": "veterinarystudent",
       "pmi": 5.78
     },
@@ -170,294 +715,686 @@
       "pmi": 5.59
     },
     {
+      "skill": "googlesuite",
+      "pmi": 5.53
+    },
+    {
       "skill": "statistics",
       "pmi": 5.41
     },
     {
-      "skill": "geometry",
-      "pmi": 5.32
+      "skill": "mathproficiency",
+      "pmi": 5.38
+    },
+    {
+      "skill": "algebrai",
+      "pmi": 5.34
     },
     {
       "skill": "dvm",
       "pmi": 5.27
     },
     {
-      "skill": "avmaaccredited",
-      "pmi": 5.19
+      "skill": "campusnexus",
+      "pmi": 2.97
     },
     {
-      "skill": "externship",
-      "pmi": 4.92
+      "skill": "3esystem",
+      "pmi": 2.97
     },
     {
-      "skill": "teamcommunication",
-      "pmi": 4.39
+      "skill": "chromeriver",
+      "pmi": 2.85
     },
     {
-      "skill": "mentorship",
-      "pmi": 4.1
+      "skill": "gsuite",
+      "pmi": 2.68
+    },
+    {
+      "skill": "caseware",
+      "pmi": 2.52
+    },
+    {
+      "skill": "digitalbanking",
+      "pmi": 2.31
+    },
+    {
+      "skill": "spanish",
+      "pmi": 2.28
+    },
+    {
+      "skill": "crossselling",
+      "pmi": 2.15
+    },
+    {
+      "skill": "bankingproducts",
+      "pmi": 2.05
+    },
+    {
+      "skill": "banking",
+      "pmi": 2.01
     }
   ],
   "alternatives": [
     {
       "function": "arts-media",
-      "pct": 8
-    },
-    {
-      "function": "finance",
       "pct": 6
     },
     {
       "function": "design",
-      "pct": 6
+      "pct": 5
     },
     {
       "function": "technology",
-      "pct": 6
+      "pct": 5
+    },
+    {
+      "function": "finance",
+      "pct": 5
     },
     {
       "function": "sales",
-      "pct": 5
+      "pct": 4
     }
   ],
-  "coach_notes": "For a education path, focus first on literacy, mathematics. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a education path, focus first on behavior-intervention-plans, co-teaching, common-core-standards. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Lower School Instructional Assistant Teacher",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3970871",
-      "fit": 88,
-      "job_type": "goal",
+      "title": "Special Education Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777820003",
+      "fit": 60,
+      "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Instructional assistant roles are suitable for 16-20 year olds."
-    },
-    {
-      "title": "2nd Grade Teacher – Small Charter School",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4147139",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.773,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Teaching role, but may require certification; age not a legal barrier for 16-20."
-    },
-    {
-      "title": "SY2026-2027 - Elementary Teacher Pool (Primary Grades K-2)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3903591",
-      "fit": 75,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.842,
-        "experience_alignment": 0.0,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Teaching roles in elementary schools are suitable for 16-20 year olds as interns or assistants, though lead teacher may require certification."
-    },
-    {
-      "title": "Fall 2026 Adult Education Intern - UNPAID",
-      "company": "theirc",
-      "url": "https://theirc.wd1.myworkdayjobs.com/job/Atlanta-GA-USA/Fall-2026-Adult-Education-Intern---UNPAID_JR00003841",
-      "fit": 71,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.375,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.117,
+        "skill_overlap_raw": 0.083,
+        "hyper_p_value": 0.09619617,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 12,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Adult education internships are open to young adults; unpaid internships are legal for minors with restrictions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Special Education Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777919003",
+      "fit": 59,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.078,
+        "skill_overlap_raw": 0.056,
+        "hyper_p_value": 0.14085326,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 18,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 59,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.093,
+        "skill_overlap_raw": 0.067,
+        "hyper_p_value": 0.11880012,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "cross_function": false
+    },
+    {
+      "title": "Instructional Aide ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7778023003",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00185629,
+        "hyper_k": 2,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Instructional aide, no age restriction.",
+      "cross_function": false
+    },
+    {
+      "title": "Constellation Schools - K-8th Grade Paraprofessional (Cleveland)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7751822003",
+      "fit": 55,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.08081427,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Paraprofessional roles are suitable for 16-20 year olds.",
+      "cross_function": false
+    },
+    {
+      "title": "SPED Instructional Aide",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777893003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.17,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.0651776,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "SPED Instructional Aide ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7778002003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.17,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.0651776,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Texas A&M University - Graduate and Undergraduate: Tenured or Tenure-track, Open Rank and Title ",
+      "company": "myersmcraeexecutivesearch",
+      "url": "https://jobs.crelate.com/portal/myersmcraeexecutivesearch/job/ae7q4mdbupxjyq3shepgqbjser",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "higher-ed-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.108,
+        "skill_overlap_raw": 0.077,
+        "hyper_p_value": 0.10379284,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 13,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
       "title": "ASC Math Tutor",
       "company": "cecilcollege",
       "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/asc-math-tutor-dagKfG92rpv6Mz_kkmE47L?ref=rss&sid=68",
-      "fit": 64,
-      "job_type": "goal",
-      "subdomain": "higher-ed-support",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
       "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.174,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00011354,
+        "hyper_k": 3,
+        "hyper_K": 38,
+        "hyper_n": 12,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Tutoring role, no age restriction."
+      "eligibility_reason": "Tutoring role, no age restriction.",
+      "cross_function": false
+    },
+    {
+      "title": "Science Tutor - Part Time",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/science-tutor-part-time-beSjVa_fDk441HxuHUWtDo?ref=rss&sid=68",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00185629,
+        "hyper_k": 2,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Tutor, no age restriction.",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "Lower School Instructional Assistant Teacher",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3970871",
-      "fit": 88,
-      "job_type": "goal",
+      "title": "Special Education Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777820003",
+      "fit": 60,
+      "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.625,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.117,
+        "skill_overlap_raw": 0.083,
+        "hyper_p_value": 0.09619617,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 12,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Instructional assistant roles are suitable for 16-20 year olds."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "2nd Grade Teacher – Small Charter School",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4147139",
-      "fit": 88,
-      "job_type": "goal",
+      "title": "Special Education Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777919003",
+      "fit": 59,
+      "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
       "job_score_breakdown": {
-        "goal_alignment": 0.667,
-        "study_alignment": 0.625,
-        "subdomain_alignment": 0.773,
+        "goal_alignment": 0.222,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.0,
+        "skill_overlap": 0.078,
+        "skill_overlap_raw": 0.056,
+        "hyper_p_value": 0.14085326,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 18,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Teaching role, but may require certification; age not a legal barrier for 16-20."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 59,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.093,
+        "skill_overlap_raw": 0.067,
+        "hyper_p_value": 0.11880012,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "cross_function": false
+    },
+    {
+      "title": "Instructional Aide ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7778023003",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00185629,
+        "hyper_k": 2,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Instructional aide, no age restriction.",
+      "cross_function": false
+    },
+    {
+      "title": "Constellation Schools - K-8th Grade Paraprofessional (Cleveland)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7751822003",
+      "fit": 55,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.08081427,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Paraprofessional roles are suitable for 16-20 year olds.",
+      "cross_function": false
     }
   ],
   "aspirational": [
     {
-      "title": "SY2026-2027 - Elementary Teacher Pool (Primary Grades K-2)",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3903591",
-      "fit": 75,
-      "job_type": "goal",
+      "title": "SPED Instructional Aide",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777893003",
+      "fit": 50,
+      "job_type": "bridge",
       "subdomain": "classroom-support",
       "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.842,
-        "experience_alignment": 0.0,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Teaching roles in elementary schools are suitable for 16-20 year olds as interns or assistants, though lead teacher may require certification."
-    },
-    {
-      "title": "Fall 2026 Adult Education Intern - UNPAID",
-      "company": "theirc",
-      "url": "https://theirc.wd1.myworkdayjobs.com/job/Atlanta-GA-USA/Fall-2026-Adult-Education-Intern---UNPAID_JR00003841",
-      "fit": 71,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
-      "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.375,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.17,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.0651776,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Adult education internships are open to young adults; unpaid internships are legal for minors with restrictions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "SPED Instructional Aide ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7778002003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.17,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.0651776,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Texas A&M University - Graduate and Undergraduate: Tenured or Tenure-track, Open Rank and Title ",
+      "company": "myersmcraeexecutivesearch",
+      "url": "https://jobs.crelate.com/portal/myersmcraeexecutivesearch/job/ae7q4mdbupxjyq3shepgqbjser",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "higher-ed-support",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.108,
+        "skill_overlap_raw": 0.077,
+        "hyper_p_value": 0.10379284,
+        "hyper_k": 1,
+        "hyper_K": 38,
+        "hyper_n": 13,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
       "title": "ASC Math Tutor",
       "company": "cecilcollege",
       "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/asc-math-tutor-dagKfG92rpv6Mz_kkmE47L?ref=rss&sid=68",
-      "fit": 64,
-      "job_type": "goal",
-      "subdomain": "higher-ed-support",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
       "function": "education",
-      "why": "This role builds your algebra, assessments, calculus skills and moves you toward becoming a Teacher.",
-      "gaps": "literacy, mathematics",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
       "job_score_breakdown": {
-        "goal_alignment": 0.556,
-        "study_alignment": 0.5,
-        "subdomain_alignment": 0.174,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00011354,
+        "hyper_k": 3,
+        "hyper_K": 38,
+        "hyper_n": 12,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Tutoring role, no age restriction."
+      "eligibility_reason": "Tutoring role, no age restriction.",
+      "cross_function": false
+    },
+    {
+      "title": "Science Tutor - Part Time",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/science-tutor-part-time-beSjVa_fDk441HxuHUWtDo?ref=rss&sid=68",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your Instructing, Active Learning, Critical Thinking skills and moves you toward becoming a Teacher.",
+      "gaps": "behavior-intervention-plans, co-teaching, common-core-standards",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00185629,
+        "hyper_k": 2,
+        "hyper_K": 38,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Tutor, no age restriction.",
+      "cross_function": false
     }
   ],
-  "skill_path": "You already have a strong foundation in teaching, classroom management, and bilingual communication. By building literacy and math skills, then expanding into adult education and curriculum support, you'll be well-prepared for roles as a Teacher, Teaching Assistant, or Youth Counselor.",
+  "skill_path": "You already have strong instructional and interpersonal skills—now focus on classroom-specific techniques like behavior plans and standards. With each step, you'll turn your current strengths into a rewarding career in education.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── algebra\n├── assessments\n├── calculus\n├── canva\n├── clinical\n├── clinical experience\n├── data\n├── design\n├── desmos\n├── english language\n├── teaching (implicit)\n├── classroom management (implicit)\n└── bilingual communication (implicit)\n    │\n    ▼\nBRIDGE SKILLS\n├── literacy\n└── mathematics\n    │\n    ▼\nGOAL SKILLS\n├── adult-education\n├── assessment\n├── class-assistance\n├── critical-thinking\n└── curriculum-support\n    │\n    ▼\nCAREER\n├── Teacher\n├── Teaching Assistant\n└── Youth Counselor",
+    "tree": "CURRENT SKILLS\n├── Instructing\n├── Active Learning\n├── Critical Thinking\n├── Customer and Personal Service\n├── Mathematics\n├── Administrative\n├── Coordination\n├── English Language\n├── Sales and Marketing\n└── Algebra\n    ↓\nBRIDGE SKILLS\n├── Academic Assistance\n├── Behavior Assessment\n├── Behavior Management\n├── Classical Education\n└── Classroom Assistance\n    ↓\nGOAL SKILLS\n├── Behavior Intervention Plans\n├── Co-teaching\n├── Common Core Standards\n├── State Standards\n└── Student Support\n    ↓\nCAREER PATH\n├── Teaching Assistant\n├── Teacher\n└── Youth Counselor",
     "steps": [
-      "1. Enroll in a local literacy tutoring program to strengthen foundational reading and writing skills.",
-      "2. Take a basic mathematics refresher course (e.g., Khan Academy's early math through pre-algebra).",
-      "3. Volunteer as a classroom assistant to gain hands-on experience with class-assistance and curriculum-support.",
-      "4. Complete a certification in adult education (e.g., CDA or TESOL) to build adult-education and assessment skills.",
-      "5. Practice critical thinking through case studies or workshops focused on educational scenarios."
+      "Take a workshop on behavior intervention plans (BIPs) to understand foundational support strategies.",
+      "Volunteer as a classroom assistant to gain hands-on experience with co-teaching and student support.",
+      "Study Common Core and state standards through online modules or district training.",
+      "Enroll in a behavior management certification course to strengthen bridge skills.",
+      "Apply for a Teaching Assistant position to build experience toward Teacher or Youth Counselor roles."
     ],
-    "summary": "You already have a strong foundation in teaching, classroom management, and bilingual communication. By building literacy and math skills, then expanding into adult education and curriculum support, you'll be well-prepared for roles as a Teacher, Teaching Assistant, or Youth Counselor."
+    "summary": "You already have strong instructional and interpersonal skills—now focus on classroom-specific techniques like behavior plans and standards. With each step, you'll turn your current strengths into a rewarding career in education."
   },
   "ideal_careers": [
     "Teacher",
@@ -469,33 +1406,31 @@
       "education"
     ],
     "goal_roles": [
-      "Secondary Mathematics Teacher"
+      "assistant",
+      "teacher"
     ],
     "goal_subdomains": [
-      "classroom-support"
+      "classroom-support",
+      "higher-ed-support"
     ],
-    "study_domains": [
-      "education"
-    ],
-    "study_subdomains": [
-      "classroom-support"
-    ],
+    "study_domains": [],
+    "study_subdomains": [],
     "study_program": "",
-    "study_level": "",
-    "intent_confidence": 0.561,
-    "intent_strength": 0.661,
+    "study_level": "certificate",
+    "intent_confidence": 0.827,
+    "intent_strength": 0.927,
     "has_student_intent": true
   },
   "intent_summary": {
     "headline": "",
-    "summary_text": "Gain skills I can use at a future jobGet an internshipMake new friendsGet an internship, \nGet coaches and mentors who can help me with college and career, \nGain skills I can use at a future job, \nLearn about careers, \nLearn about colleges, \nMake new friendsLearn about collegesLea",
+    "summary_text": "Ideal careers: Teacher, Teaching Assistant, Youth Counselor\n=== Mingyu Huo - Resume.pdf ===\nCarl (Mingyu Huo)\n(929) 319-9980 | Mhuo@schools.nyc.gov\nOBJECTIVE:  To obtain a position as a Secondary Mathematics Teacher\nEDUCATION:  Queens College, City University of New York, Flushin",
     "study_text": ""
   },
   "signal_breakdown": {
     "aspiration": {
-      "education": 56,
-      "arts-media": 10,
-      "finance": 6
+      "education": 83,
+      "arts-media": 4,
+      "finance": 3
     },
     "study": {},
     "classifier": {
@@ -520,135 +1455,73 @@
     }
   },
   "candidate_functions": [
-    "education"
+    "ops",
+    "education",
+    "finance"
   ],
   "subdomain": "classroom-support",
-  "subdomain_confidence": 0.95,
+  "subdomain_confidence": 0.72,
   "subdomain_alternatives": [
-    "classroom-support",
-    "youth-programs",
+    "higher-ed-support",
     "tutoring"
   ],
-  "lane_used": "rescue",
+  "lane_used": "fast",
   "job_cluster": [
     "classroom-support",
     "classroom-support",
     "classroom-support",
     "classroom-support",
-    "higher-ed-support"
+    "classroom-support"
   ],
-  "needs_review": false,
-  "review_reasons": [],
+  "needs_review": true,
+  "review_reasons": [
+    "llm_provider_error"
+  ],
   "llm_stage_results": {
-    "route": {
-      "accepted": true,
-      "chosen_function": "education",
-      "chosen_subdomain": "classroom-support",
-      "secondary_function": "",
-      "goal_domains": [
-        "education"
-      ],
-      "study_domains": [
-        "education"
-      ],
-      "goal_subdomains": [
-        "classroom-support"
-      ],
-      "study_subdomains": [
-        "classroom-support"
-      ],
-      "goal_roles": [
-        "Secondary Mathematics Teacher"
-      ],
-      "confidence": 0.95,
-      "evidence_spans": [
-        {
-          "section": "experience",
-          "text": "Student Teacher\n•  Teach Geometry and Foundation of Geometry, and tutor Algebra through Calculus"
-        },
-        {
-          "section": "experience",
-          "text": "Initial Clinical Experience Student Teacher\n•  Team-taught selected mathematics lessons in 7th grade."
-        }
-      ],
-      "reason_codes": [
-        "explicit goal",
-        "education major",
-        "student teaching experience"
-      ],
-      "review_reasons": []
-    },
     "evidence": {
-      "accepted": true,
-      "scored_skills": [
-        "algebra",
-        "assessments",
-        "calculus",
-        "canva",
-        "clinical",
-        "clinical experience",
-        "data",
-        "design",
-        "desmos",
-        "english language",
-        "english language learners",
-        "esl"
-      ],
-      "verified_skills": [
-        "algebra",
-        "assessments",
-        "calculus",
-        "canva",
-        "clinical",
-        "clinical experience",
-        "data",
-        "design",
-        "desmos",
-        "english language",
-        "english language learners",
-        "esl"
-      ],
-      "possible_skills": [],
-      "rejected_skills": [
-        "cash",
-        "cash transactions",
-        "cashier",
-        "customers",
-        "orders",
-        "organized",
-        "transactions"
-      ],
-      "implicit_skills": [
-        {
-          "skill": "teaching",
-          "reason": "Experience with lesson plans, instruction, and instructional materials implies teaching ability.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "classroom management",
-          "reason": "Experience as a paraprofessional and with lesson plans suggests classroom management skills.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "bilingual communication",
-          "reason": "Knowledge of Mandarin and ESL indicates ability to communicate in multiple languages.",
-          "confidence": "medium"
-        }
-      ],
-      "evidence_items": [],
-      "review_reasons": []
+      "accepted": false,
+      "error": "HTTP Error 429: Too Many Requests",
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     }
   },
-  "llm_trace": [
+  "classifier_top_function": {
+    "education": 64,
+    "arts-media": 10,
+    "finance": 5
+  },
+  "cross_functions_explored": [
+    "design",
+    "design",
+    "social-service"
+  ],
+  "cross_function_count": 3,
+  "cross_function_jobs": [
     {
-      "stage": "route",
-      "accepted": true,
-      "review_reasons": []
+      "title": "Assistant Designer",
+      "function": "design",
+      "fit": 10
     },
     {
+      "title": "Content Creator Mentor GEO",
+      "function": "design",
+      "fit": 10
+    },
+    {
+      "title": "Teacher Assistant",
+      "function": "social-service",
+      "fit": 0
+    }
+  ],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
       "stage": "evidence",
-      "accepted": true,
-      "review_reasons": []
+      "accepted": false,
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     }
   ],
   "normalization_source": "hybrid"

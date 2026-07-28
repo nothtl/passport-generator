@@ -1,64 +1,42 @@
 {
   "resume": "=== Naim Bakere - Resume.pdf ===\nNaim Bakere  \nBronx, NY 10460 | 929-422-1124  \n\nObjective  \n\nMotivated and goal-oriented college graduate with an Associate Degree in Business to secure a \n\nposition as a translator where I can utilize my linguistic, organizational skills, attention to detail, \n\nand experience in administrative tasks to contribute effectively to the smooth operation of the \n\norganization..   \n\nEducation  \nEnglish Language Learners and International Academy, Bronx, NY        June 2024  \n\nMonroe University, Bronx, NY                                                September 2024- December 2025  \nAAS in Business  \n\nInternship Experience  \nDusa STEM 2023-2024 ● Learning Coding (. )Learning (Technical Modeling)  \n\n● Developing (Video Programing)  \n\nPost Secondary Readiness 2023-2024 ● Building a resume , Improving communication skills in \n\nterms of language, and concentrating on the audience.  \n● Teamwork and improving writing skill by explaining the purpose of t(Members of seven) \n● Establishing a plan for college  \n\nCCNY STEM Tech 2021-2022 ● Creating Websites  \n\n● Introduction to basic coding skills. 3 day on weekday  \n\nSpeak Hire 2022-2023 ● Practicing time management  \n\n● Learning about business  \n● Increasing my leadership skills  \n\nWork Experience  \nVIM Store 2020-2022 Bronx, N.Y. 10458  \n\n● Training new hires  \n● Organizing store  \n● Communicating with customers  \n● Ordering products for stock  \n\nVolunteer  \nCommunity Mosque, Masjid al-Ummah 2021-Present ● Assist in setting up prayer \n\nmats and in also cleaning up afterwards  \n\nHonors/Awards  \n\nAll-Region Sportsmanship Award  December 2025 \nDean’s List Fall 2025  \nCCNY Stem Tech Completion Certificate 2021-2022 \nSoccer Team- Most Improved Player 2024-2025 \n\nSkills  \n\n● Multilingual: English, French, Tchamba, Kotokolie, & Awe  \n\nSports Teams  \nMonroe Express Soccer Team 2024-2025 \nKidsuper Samba Soccer Team 2021-2024  \nKennedy H.S. Soccer Team 2020-2023  Team Captain \n\n2",
-  "function": "education",
-  "confidence": 61,
+  "function": "arts-media",
+  "confidence": 54,
   "skills": [
-    "analytical",
-    "analytical skills",
-    "engineering",
-    "english language",
-    "english language learners",
-    "french",
-    "multilingual",
-    "soccer",
-    "teams",
+    "attention to detail",
     "basic coding",
     "communication",
     "communication skills",
+    "english language",
+    "french",
+    "goal oriented",
     "leadership",
     "leadership skills",
     "management",
     "modeling",
-    "attention to detail",
-    "time management",
+    "multilingual",
     "organizational skills",
-    "organization",
-    "organizing",
     "teamwork",
-    "tech",
-    "technical",
-    "programming",
-    "translator",
-    "video"
+    "time management",
+    "translator"
   ],
   "verified_skills": [
-    "analytical",
-    "analytical skills",
-    "engineering",
-    "english language",
-    "english language learners",
-    "french",
-    "multilingual",
-    "soccer",
-    "teams",
+    "attention to detail",
     "basic coding",
     "communication",
     "communication skills",
+    "english language",
+    "french",
+    "goal oriented",
     "leadership",
     "leadership skills",
     "management",
     "modeling",
-    "attention to detail",
-    "time management",
+    "multilingual",
     "organizational skills",
-    "organization",
-    "organizing",
     "teamwork",
-    "tech",
-    "technical",
-    "programming",
-    "translator",
-    "video"
+    "time management",
+    "translator"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -67,7 +45,6 @@
     "administrative tasks",
     "assist",
     "associate degree",
-    "attendance",
     "awards",
     "business",
     "can",
@@ -75,134 +52,237 @@
     "communicating",
     "customers",
     "detail",
-    "excellence",
+    "english language learners",
     "express",
-    "goal oriented",
     "internship",
     "internship experience",
-    "math",
     "mats",
     "motivated",
     "operation",
     "ordering",
+    "organization",
+    "organizational",
+    "organizing",
     "plan",
     "prayer",
     "present",
-    "projects",
     "readiness",
     "secure",
+    "soccer",
     "speak",
     "sports",
     "sportsmanship",
     "stem",
     "stock",
-    "united states"
+    "teams",
+    "tech",
+    "technical",
+    "video"
   ],
   "skill_weights": {},
   "market_relevant": [
-    "analytical",
-    "analytical skills",
-    "engineering",
-    "english language",
-    "english language learners",
-    "french",
-    "multilingual",
-    "soccer",
-    "teams",
+    "attention to detail",
     "basic coding",
     "communication",
     "communication skills",
+    "english language",
+    "french",
+    "goal oriented",
     "leadership",
     "leadership skills",
     "management",
     "modeling",
-    "attention to detail",
-    "time management",
+    "multilingual",
     "organizational skills",
-    "organization",
-    "organizing",
     "teamwork",
-    "tech",
-    "technical",
-    "programming",
-    "translator",
-    "video"
+    "time management",
+    "translator"
   ],
   "inferred": [
-    "customer service",
-    "project management",
-    "bilingual communication"
+    "public speaking",
+    "conflict resolution",
+    "research"
   ],
   "implicit_skills": [
     {
-      "skill": "customer service",
-      "reason": "Experience with customers and ordering suggests customer service skills.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Demonstrated through communication and leadership experience",
+      "skill": "public speaking"
     },
     {
-      "skill": "project management",
-      "reason": "Organizing, planning, and leadership imply project management ability.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Inferred from teamwork and leadership roles",
+      "skill": "conflict resolution"
     },
     {
-      "skill": "bilingual communication",
-      "reason": "Multilingual skills and translator role indicate bilingual communication.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Implied by modeling and basic coding indicating analytical abilities",
+      "skill": "research"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "group-management"
+    "cleaning",
+    "customer-service",
+    "safety-regulations"
   ],
   "core_gaps": [
-    "group-management"
+    "cleaning",
+    "customer-service",
+    "safety-regulations"
   ],
-  "bridge_gaps": [],
-  "stretch_gaps": [
-    "algebra",
-    "attendance",
-    "camp-supervision",
-    "catch-programming",
-    "chaperone",
-    "childcare",
-    "coaching",
-    "dorm-management",
-    "education",
-    "emergency-procedures"
+  "bridge_gaps": [
+    "basic-vehicle-operations",
+    "clean-driving-license-optional",
+    "client-service",
+    "coshh",
+    "duty-flexibility",
+    "event-planning",
+    "guest-relations",
+    "health-and-safety",
+    "hospitality",
+    "hygiene"
   ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
-    "algebra",
-    "attendance",
-    "camp-supervision",
-    "catch-programming",
-    "chaperone",
-    "childcare",
-    "coaching",
-    "dorm-management",
-    "education",
-    "emergency-procedures"
+    "basic-vehicle-operations",
+    "clean-driving-license-optional",
+    "client-service",
+    "coshh",
+    "duty-flexibility",
+    "event-planning",
+    "guest-relations",
+    "health-and-safety",
+    "hospitality",
+    "hygiene"
   ],
-  "verify_gaps": [],
+  "verify_gaps": [
+    "public-speaking"
+  ],
   "related": [
     {
-      "skill": "parentmeetings",
-      "pmi": 4.95
+      "skill": "audiovisual",
+      "pmi": 4.87
     },
     {
-      "skill": "caseloadmanagement",
+      "skill": "security",
+      "pmi": 4.87
+    },
+    {
+      "skill": "network",
+      "pmi": 4.87
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.87
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.87
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.87
+    },
+    {
+      "skill": "training",
+      "pmi": 4.46
+    },
+    {
+      "skill": "coordination",
+      "pmi": 3.89
+    },
+    {
+      "skill": "bim",
+      "pmi": 3.69
+    },
+    {
+      "skill": "documentation",
+      "pmi": 3.48
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 3.8
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 3.64
+    },
+    {
+      "skill": "sql",
+      "pmi": 3.5
+    },
+    {
+      "skill": "foodandbeverageservice",
+      "pmi": 3.13
+    },
+    {
+      "skill": "foodservice",
+      "pmi": 3.13
+    },
+    {
+      "skill": "guestservice",
+      "pmi": 2.99
+    },
+    {
+      "skill": "menuknowledge",
+      "pmi": 2.99
+    },
+    {
+      "skill": "computerliterate",
+      "pmi": 2.84
+    },
+    {
+      "skill": "organization",
+      "pmi": 2.82
+    },
+    {
+      "skill": "analyticalskills",
+      "pmi": 2.74
+    },
+    {
+      "skill": "staffmotivation",
+      "pmi": 6.2
+    },
+    {
+      "skill": "hiring",
+      "pmi": 4.61
+    },
+    {
+      "skill": "teambuilding",
+      "pmi": 4.59
+    },
+    {
+      "skill": "storeprofitability",
       "pmi": 4.48
     },
     {
-      "skill": "teamtraining",
-      "pmi": 4.08
+      "skill": "supervision",
+      "pmi": 4.41
+    },
+    {
+      "skill": "mathaptitude",
+      "pmi": 3.75
+    },
+    {
+      "skill": "operationaltasktraining",
+      "pmi": 3.75
+    },
+    {
+      "skill": "servicerecovery",
+      "pmi": 3.75
+    },
+    {
+      "skill": "dotmedicalcard",
+      "pmi": 3.72
+    },
+    {
+      "skill": "stafftraining",
+      "pmi": 3.65
     },
     {
       "skill": "statequalificationcompliance",
       "pmi": 3.75
-    },
-    {
-      "skill": "groupfitness",
-      "pmi": 3.28
     },
     {
       "skill": "inwaterskillsassessment",
@@ -223,28 +303,148 @@
     {
       "skill": "multitasking",
       "pmi": 2.98
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "safetyawareness",
+      "pmi": 2.75
     }
   ],
   "related_skills": [
     {
-      "skill": "parentmeetings",
-      "pmi": 4.95
+      "skill": "audiovisual",
+      "pmi": 4.87
     },
     {
-      "skill": "caseloadmanagement",
+      "skill": "security",
+      "pmi": 4.87
+    },
+    {
+      "skill": "network",
+      "pmi": 4.87
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.87
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.87
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.87
+    },
+    {
+      "skill": "training",
+      "pmi": 4.46
+    },
+    {
+      "skill": "coordination",
+      "pmi": 3.89
+    },
+    {
+      "skill": "bim",
+      "pmi": 3.69
+    },
+    {
+      "skill": "documentation",
+      "pmi": 3.48
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 3.8
+    },
+    {
+      "skill": "writtencommunication",
+      "pmi": 3.64
+    },
+    {
+      "skill": "sql",
+      "pmi": 3.5
+    },
+    {
+      "skill": "foodandbeverageservice",
+      "pmi": 3.13
+    },
+    {
+      "skill": "foodservice",
+      "pmi": 3.13
+    },
+    {
+      "skill": "guestservice",
+      "pmi": 2.99
+    },
+    {
+      "skill": "menuknowledge",
+      "pmi": 2.99
+    },
+    {
+      "skill": "computerliterate",
+      "pmi": 2.84
+    },
+    {
+      "skill": "organization",
+      "pmi": 2.82
+    },
+    {
+      "skill": "analyticalskills",
+      "pmi": 2.74
+    },
+    {
+      "skill": "staffmotivation",
+      "pmi": 6.2
+    },
+    {
+      "skill": "hiring",
+      "pmi": 4.61
+    },
+    {
+      "skill": "teambuilding",
+      "pmi": 4.59
+    },
+    {
+      "skill": "storeprofitability",
       "pmi": 4.48
     },
     {
-      "skill": "teamtraining",
-      "pmi": 4.08
+      "skill": "supervision",
+      "pmi": 4.41
+    },
+    {
+      "skill": "mathaptitude",
+      "pmi": 3.75
+    },
+    {
+      "skill": "operationaltasktraining",
+      "pmi": 3.75
+    },
+    {
+      "skill": "servicerecovery",
+      "pmi": 3.75
+    },
+    {
+      "skill": "dotmedicalcard",
+      "pmi": 3.72
+    },
+    {
+      "skill": "stafftraining",
+      "pmi": 3.65
     },
     {
       "skill": "statequalificationcompliance",
       "pmi": 3.75
-    },
-    {
-      "skill": "groupfitness",
-      "pmi": 3.28
     },
     {
       "skill": "inwaterskillsassessment",
@@ -265,255 +465,631 @@
     {
       "skill": "multitasking",
       "pmi": 2.98
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "safetyawareness",
+      "pmi": 2.75
     }
   ],
   "alternatives": [
     {
-      "function": "education",
-      "pct": 19
+      "function": "finance",
+      "pct": 13
     },
     {
       "function": "technology",
-      "pct": 12
+      "pct": 11
     },
     {
-      "function": "finance",
-      "pct": 10
+      "function": "education",
+      "pct": 9
     },
     {
-      "function": "skilled-trade",
-      "pct": 5
+      "function": "design",
+      "pct": 6
     },
     {
-      "function": "sales",
-      "pct": 5
+      "function": "logistics",
+      "pct": 6
     }
   ],
-  "coach_notes": "For a education path, focus first on group-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a arts-media path, focus first on cleaning, customer-service, safety-regulations. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Algebra Tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/7655321002",
-      "fit": 72,
-      "job_type": "goal",
-      "subdomain": "tutoring",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "House Cleaning Operative - Full Time & Part Time Roles Available",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/F6F17FD1A7",
+      "fit": 49,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
-        "attainability": 0.85,
-        "skill_overlap": 0.5,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Tutoring role, no age restriction."
-    },
-    {
-      "title": "Education Steward - AmeriCorps",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 72,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.083,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.455,
+        "skill_overlap": 0.7,
+        "skill_overlap_raw": 0.5,
+        "hyper_p_value": 0.0,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 6,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Education steward, suitable for youth."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Program Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4110992",
-      "fit": 59,
-      "job_type": "goal",
-      "subdomain": "youth-programs",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "External Trolley Collector",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/1700B28808",
+      "fit": 46,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
-        "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.467,
+        "skill_overlap_raw": 0.333,
+        "hyper_p_value": 6.11e-06,
+        "hyper_k": 2,
+        "hyper_K": 14,
+        "hyper_n": 6,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Program Assistant is an administrative role suitable for youth."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Assistant Coach - Boys Soccer Camp",
-      "company": "usnh",
-      "url": "https://usnh.wd5.myworkdayjobs.com/job/University-of-New-Hampshire--Main-Campus/Assistant-Coach---Boys-Soccer-Camp_JR8399",
-      "fit": 55,
-      "job_type": "goal",
-      "subdomain": "higher-ed-support",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "External Service (Trolley Collector)",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/4DBC3DA7DC",
+      "fit": 45,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.444,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 1e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Assistant coach for boys soccer camp is suitable for minors."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Y Learning Center Site Lead",
-      "company": "ymcadetroit",
-      "url": "https://jobs.dayforcehcm.com/ymcadetroit/CANDIDATEPORTAL/jobs/15688",
-      "fit": 54,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "Mall Cleaner",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/20756B1FC9",
+      "fit": 45,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.444,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.143,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 1e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Site lead at youth center, no age restriction."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "City Host",
+      "company": "Base",
+      "url": "https://jobs.ashbyhq.com/Base/8e30f6f7-8d89-4d3c-83cc-7c6aa6210825",
+      "fit": 44,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.42,
+        "skill_overlap_raw": 0.3,
+        "hyper_p_value": 3e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 10,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "City host role is suitable for ages 16-20.",
+      "cross_function": false
+    },
+    {
+      "title": "Evening Cleaner",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/D82F5C8247",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.45,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 1e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Cleaner",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/C1B9BCF13D",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.382,
+        "skill_overlap_raw": 0.273,
+        "hyper_p_value": 4e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 11,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "External Street & Waste Operative",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/5C9D01F485",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 1.14e-05,
+        "hyper_k": 2,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "LA Kings - Social Production Assistant",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8579705002",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "marketing",
+      "why": "A marketing role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00056357,
+        "hyper_k": 2,
+        "hyper_K": 10,
+        "hyper_n": 8,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Ramp Driver",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/B19A1078A7",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 1.14e-05,
+        "hyper_k": 2,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "Algebra Tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/7655321002",
-      "fit": 72,
-      "job_type": "goal",
-      "subdomain": "tutoring",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "House Cleaning Operative - Full Time & Part Time Roles Available",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/F6F17FD1A7",
+      "fit": 49,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
-        "attainability": 0.85,
-        "skill_overlap": 0.5,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Tutoring role, no age restriction."
-    },
-    {
-      "title": "Education Steward - AmeriCorps",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4186542",
-      "fit": 72,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
-      "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 0.083,
         "experience_alignment": 0.0,
         "attainability": 0.85,
-        "skill_overlap": 0.455,
+        "skill_overlap": 0.7,
+        "skill_overlap_raw": 0.5,
+        "hyper_p_value": 0.0,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 6,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Education steward, suitable for youth."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "External Trolley Collector",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/1700B28808",
+      "fit": 46,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.467,
+        "skill_overlap_raw": 0.333,
+        "hyper_p_value": 6.11e-06,
+        "hyper_k": 2,
+        "hyper_K": 14,
+        "hyper_n": 6,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "External Service (Trolley Collector)",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/4DBC3DA7DC",
+      "fit": 45,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 1e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Mall Cleaner",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/20756B1FC9",
+      "fit": 45,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.525,
+        "skill_overlap_raw": 0.375,
+        "hyper_p_value": 1e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "City Host",
+      "company": "Base",
+      "url": "https://jobs.ashbyhq.com/Base/8e30f6f7-8d89-4d3c-83cc-7c6aa6210825",
+      "fit": 44,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.42,
+        "skill_overlap_raw": 0.3,
+        "hyper_p_value": 3e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 10,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "City host role is suitable for ages 16-20.",
+      "cross_function": false
     }
   ],
   "aspirational": [
     {
-      "title": "Program Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4110992",
-      "fit": 59,
-      "job_type": "goal",
-      "subdomain": "youth-programs",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "Evening Cleaner",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/D82F5C8247",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.444,
-        "study_alignment": 0.556,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.45,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 1e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Program Assistant is an administrative role suitable for youth."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Assistant Coach - Boys Soccer Camp",
-      "company": "usnh",
-      "url": "https://usnh.wd5.myworkdayjobs.com/job/University-of-New-Hampshire--Main-Campus/Assistant-Coach---Boys-Soccer-Camp_JR8399",
-      "fit": 55,
-      "job_type": "goal",
-      "subdomain": "higher-ed-support",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "Cleaner",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/C1B9BCF13D",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.444,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.382,
+        "skill_overlap_raw": 0.273,
+        "hyper_p_value": 4e-08,
+        "hyper_k": 3,
+        "hyper_K": 14,
+        "hyper_n": 11,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Assistant coach for boys soccer camp is suitable for minors."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Y Learning Center Site Lead",
-      "company": "ymcadetroit",
-      "url": "https://jobs.dayforcehcm.com/ymcadetroit/CANDIDATEPORTAL/jobs/15688",
-      "fit": 54,
-      "job_type": "goal",
-      "subdomain": "classroom-support",
-      "function": "education",
-      "why": "A education role that uses your analytical, analytical skills, engineering skills.",
-      "gaps": "group-management",
+      "title": "External Street & Waste Operative",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/5C9D01F485",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
       "job_score_breakdown": {
-        "goal_alignment": 0.333,
-        "study_alignment": 0.444,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.095,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.143,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 1.14e-05,
+        "hyper_k": 2,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Site lead at youth center, no age restriction."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "LA Kings - Social Production Assistant",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8579705002",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "marketing",
+      "why": "A marketing role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00056357,
+        "hyper_k": 2,
+        "hyper_K": 10,
+        "hyper_n": 8,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Ramp Driver",
+      "company": "abm-careers",
+      "url": "https://apply.workable.com/j/B19A1078A7",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "ops",
+      "why": "A ops role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "cleaning, customer-service, safety-regulations",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 1.14e-05,
+        "hyper_k": 2,
+        "hyper_K": 14,
+        "hyper_n": 8,
+        "hyper_N": 21115,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
   "skill_path": null,
@@ -521,177 +1097,111 @@
   "ideal_careers": [],
   "student_intent": {
     "goal_domains": [
-      "education"
+      "finance",
+      "logistics",
+      "arts-media"
     ],
-    "goal_roles": [
-      "translator"
-    ],
-    "goal_subdomains": [
-      "community-education"
-    ],
+    "goal_roles": [],
+    "goal_subdomains": [],
     "study_domains": [
-      "education"
+      "education",
+      "technology",
+      "arts-media"
     ],
     "study_subdomains": [
-      "community-education"
+      "higher-ed-support",
+      "engineering"
     ],
     "study_program": "Associated with ELLIS:",
     "study_level": "associate",
-    "intent_confidence": 0.513,
-    "intent_strength": 0.713,
+    "intent_confidence": 0.444,
+    "intent_strength": 0.544,
     "has_student_intent": true
   },
   "intent_summary": {
-    "headline": "Student at English Language Learners and International Support Preparatory Academy (ELLIS)",
-    "summary_text": "Student at English Language Learners and International Support Preparatory Academy (ELLIS)\nGain skills I can use at a future jobGet an internshipMake new friendsLearn about colleges, \nLearn about careers, \nMake new friends, \nGain skills I can use at a future job, \nGet coaches and",
+    "headline": "",
+    "summary_text": "=== Naim Bakere - Resume.pdf ===\nNaim Bakere\nBronx, NY 10460 | 929-422-1124\nMotivated and goal-oriented college graduate with an Associate Degree in Business to secure a\nposition as a translator where I can utilize my linguistic, organizational skills, attention to detail,\nand ex",
     "study_text": "Associated with ELLIS:\nEnglish Language Learners and International Academy, Bronx, NY        June 2024\nMonroe University, Bronx, NY                                                September 2024- December 2025\nAAS in Business\nInternship Experience\nDusa STEM 2023-2024 ● Learning Co"
   },
   "signal_breakdown": {
     "aspiration": {
-      "education": 51,
-      "arts-media": 10,
-      "finance": 7
+      "finance": 18,
+      "logistics": 18,
+      "arts-media": 16
     },
     "study": {
-      "arts-media": 48,
-      "finance": 32,
-      "technology": 30
+      "arts-media": 44,
+      "finance": 34,
+      "education": 30
     },
     "classifier": {
-      "arts-media": 42,
-      "finance": 10,
-      "skilled-trade": 9
+      "arts-media": 30,
+      "design": 13,
+      "finance": 12
     },
     "onet": {
-      "education": 27,
-      "technology": 19,
-      "healthcare": 13
+      "education": 23,
+      "technology": 17,
+      "healthcare": 15
     },
     "embeddings": {
-      "education": 9,
-      "technology": 7,
-      "ops": 7
+      "education": 8,
+      "ops": 6,
+      "technology": 6
     },
     "experience": {
-      "technology": 36,
-      "social-service": 17,
-      "arts-media": 10
+      "technology": 27,
+      "social-service": 25,
+      "design": 11
     }
   },
   "candidate_functions": [
-    "education",
-    "technology"
+    "ops",
+    "arts-media",
+    "finance"
   ],
-  "subdomain": "community-education",
-  "subdomain_confidence": 0.68,
+  "subdomain": "graphic-design",
+  "subdomain_confidence": 0.3,
   "subdomain_alternatives": [],
   "lane_used": "rescue",
   "job_cluster": [
-    "tutoring",
-    "classroom-support",
-    "youth-programs",
-    "higher-ed-support",
-    "classroom-support"
+    "graphic-design",
+    "graphic-design",
+    "graphic-design",
+    "graphic-design",
+    "graphic-design"
   ],
   "needs_review": true,
-  "review_reasons": [],
+  "review_reasons": [
+    "llm_provider_error"
+  ],
   "llm_stage_results": {
     "route": {
-      "accepted": true,
-      "chosen_function": "education",
-      "chosen_subdomain": "community-education",
-      "secondary_function": "technology",
-      "goal_domains": [
-        "education"
-      ],
-      "study_domains": [
-        "education"
-      ],
-      "goal_subdomains": [
-        "community-education"
-      ],
-      "study_subdomains": [
-        "community-education"
-      ],
-      "goal_roles": [
-        "translator"
-      ],
-      "confidence": 0.6,
-      "evidence_spans": [
-        {
-          "section": "summary",
-          "text": "Motivated and goal-oriented college graduate with an Associate Degree in Business to secure a position as a translator where I can utilize my linguistic, organizational skills, attention to detail, and experience in administrative tasks to contribute effectively to the smooth operation of the organization."
-        },
-        {
-          "section": "education",
-          "text": "Post Secondary Readiness 2023-2024 • Building a resume , Improving communication skills in terms of language, and concentrating on the audience."
-        }
-      ],
-      "reason_codes": [
-        "explicit goal in summary",
-        "education major with no strong work experience in other domains"
-      ],
-      "review_reasons": []
+      "accepted": false,
+      "error": "HTTP Error 429: Too Many Requests",
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     },
     "evidence": {
       "accepted": true,
-      "scored_skills": [
-        "analytical",
-        "analytical skills",
-        "engineering",
-        "english language",
-        "english language learners",
-        "french",
-        "multilingual",
-        "soccer",
-        "teams",
-        "basic coding",
-        "communication",
-        "communication skills",
-        "leadership",
-        "leadership skills",
-        "management",
-        "modeling",
-        "attention to detail",
-        "time management",
-        "organizational skills",
-        "organization",
-        "organizing",
-        "teamwork",
-        "tech",
-        "technical",
-        "programming",
-        "translator",
-        "video"
-      ],
-      "verified_skills": [
-        "analytical",
-        "analytical skills",
-        "engineering",
-        "english language",
-        "english language learners",
-        "french",
-        "multilingual",
-        "soccer",
-        "teams",
-        "basic coding",
-        "communication",
-        "communication skills",
-        "leadership",
-        "leadership skills",
-        "management",
-        "modeling",
-        "attention to detail",
-        "time management",
-        "organizational skills",
-        "organization",
-        "organizing",
-        "teamwork",
-        "tech",
-        "technical",
-        "programming",
-        "translator",
-        "video"
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Demonstrated through communication and leadership experience",
+          "skill": "public speaking"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Inferred from teamwork and leadership roles",
+          "skill": "conflict resolution"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Implied by modeling and basic coding indicating analytical abilities",
+          "skill": "research"
+        }
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -700,7 +1210,6 @@
         "administrative tasks",
         "assist",
         "associate degree",
-        "attendance",
         "awards",
         "business",
         "can",
@@ -708,55 +1217,88 @@
         "communicating",
         "customers",
         "detail",
-        "excellence",
+        "english language learners",
         "express",
-        "goal oriented",
         "internship",
         "internship experience",
-        "math",
         "mats",
         "motivated",
         "operation",
         "ordering",
+        "organization",
+        "organizational",
+        "organizing",
         "plan",
         "prayer",
         "present",
-        "projects",
         "readiness",
         "secure",
+        "soccer",
         "speak",
         "sports",
         "sportsmanship",
         "stem",
         "stock",
-        "united states"
+        "teams",
+        "tech",
+        "technical",
+        "video"
       ],
-      "implicit_skills": [
-        {
-          "skill": "customer service",
-          "reason": "Experience with customers and ordering suggests customer service skills.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "project management",
-          "reason": "Organizing, planning, and leadership imply project management ability.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "bilingual communication",
-          "reason": "Multilingual skills and translator role indicate bilingual communication.",
-          "confidence": "medium"
-        }
+      "review_reasons": [],
+      "scored_skills": [
+        "attention to detail",
+        "basic coding",
+        "communication",
+        "communication skills",
+        "english language",
+        "french",
+        "goal oriented",
+        "leadership",
+        "leadership skills",
+        "management",
+        "modeling",
+        "multilingual",
+        "organizational skills",
+        "teamwork",
+        "time management",
+        "translator"
       ],
-      "evidence_items": [],
-      "review_reasons": []
+      "verified_skills": [
+        "attention to detail",
+        "basic coding",
+        "communication",
+        "communication skills",
+        "english language",
+        "french",
+        "goal oriented",
+        "leadership",
+        "leadership skills",
+        "management",
+        "modeling",
+        "multilingual",
+        "organizational skills",
+        "teamwork",
+        "time management",
+        "translator"
+      ]
     }
   },
+  "classifier_top_function": {
+    "arts-media": 30,
+    "design": 13,
+    "finance": 12
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
   "llm_trace": [
     {
       "stage": "route",
-      "accepted": true,
-      "review_reasons": []
+      "accepted": false,
+      "review_reasons": [
+        "llm_provider_error"
+      ]
     },
     {
       "stage": "evidence",

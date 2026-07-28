@@ -1,0 +1,1052 @@
+{
+  "resume": "=== Naim Bakere - Resume.pdf ===\nNaim Bakere  \nBronx, NY 10460 | 929-422-1124  \n\nObjective  \n\nMotivated and goal-oriented college graduate with an Associate Degree in Business to secure a \n\nposition as a translator where I can utilize my linguistic, organizational skills, attention to detail, \n\nand experience in administrative tasks to contribute effectively to the smooth operation of the \n\norganization..   \n\nEducation  \nEnglish Language Learners and International Academy, Bronx, NY        June 2024  \n\nMonroe University, Bronx, NY                                                September 2024- December 2025  \nAAS in Business  \n\nInternship Experience  \nDusa STEM 2023-2024 ● Learning Coding (. )Learning (Technical Modeling)  \n\n● Developing (Video Programing)  \n\nPost Secondary Readiness 2023-2024 ● Building a resume , Improving communication skills in \n\nterms of language, and concentrating on the audience.  \n● Teamwork and improving writing skill by explaining the purpose of t(Members of seven) \n● Establishing a plan for college  \n\nCCNY STEM Tech 2021-2022 ● Creating Websites  \n\n● Introduction to basic coding skills. 3 day on weekday  \n\nSpeak Hire 2022-2023 ● Practicing time management  \n\n● Learning about business  \n● Increasing my leadership skills  \n\nWork Experience  \nVIM Store 2020-2022 Bronx, N.Y. 10458  \n\n● Training new hires  \n● Organizing store  \n● Communicating with customers  \n● Ordering products for stock  \n\nVolunteer  \nCommunity Mosque, Masjid al-Ummah 2021-Present ● Assist in setting up prayer \n\nmats and in also cleaning up afterwards  \n\nHonors/Awards  \n\nAll-Region Sportsmanship Award  December 2025 \nDean’s List Fall 2025  \nCCNY Stem Tech Completion Certificate 2021-2022 \nSoccer Team- Most Improved Player 2024-2025 \n\nSkills  \n\n● Multilingual: English, French, Tchamba, Kotokolie, & Awe  \n\nSports Teams  \nMonroe Express Soccer Team 2024-2025 \nKidsuper Samba Soccer Team 2021-2024  \nKennedy H.S. Soccer Team 2020-2023  Team Captain \n\n2",
+  "function": "social-service",
+  "confidence": 54,
+  "skills": [
+    "attention to detail",
+    "basic coding",
+    "communication",
+    "communication skills",
+    "english language",
+    "french",
+    "goal oriented",
+    "leadership",
+    "leadership skills",
+    "management",
+    "modeling",
+    "multilingual",
+    "organizational skills",
+    "teamwork",
+    "time management",
+    "translator"
+  ],
+  "verified_skills": [
+    "attention to detail",
+    "basic coding",
+    "communication",
+    "communication skills",
+    "english language",
+    "french",
+    "goal oriented",
+    "leadership",
+    "leadership skills",
+    "management",
+    "modeling",
+    "multilingual",
+    "organizational skills",
+    "teamwork",
+    "time management",
+    "translator"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "academy",
+    "administrative",
+    "administrative tasks",
+    "assist",
+    "associate degree",
+    "awards",
+    "business",
+    "can",
+    "certificate",
+    "communicating",
+    "customers",
+    "detail",
+    "english language learners",
+    "express",
+    "internship",
+    "internship experience",
+    "mats",
+    "motivated",
+    "operation",
+    "ordering",
+    "organization",
+    "organizational",
+    "organizing",
+    "plan",
+    "prayer",
+    "present",
+    "readiness",
+    "secure",
+    "soccer",
+    "speak",
+    "sports",
+    "sportsmanship",
+    "stem",
+    "stock",
+    "teams",
+    "tech",
+    "technical",
+    "video"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "attention to detail",
+    "basic coding",
+    "communication",
+    "communication skills",
+    "english language",
+    "french",
+    "goal oriented",
+    "leadership",
+    "leadership skills",
+    "management",
+    "modeling",
+    "multilingual",
+    "organizational skills",
+    "teamwork",
+    "time management",
+    "translator"
+  ],
+  "inferred": [
+    "public speaking",
+    "conflict resolution",
+    "research"
+  ],
+  "implicit_skills": [
+    {
+      "confidence": "medium",
+      "reason": "Demonstrated through communication and leadership experience",
+      "skill": "public speaking"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Inferred from teamwork and leadership roles",
+      "skill": "conflict resolution"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Implied by modeling and basic coding indicating analytical abilities",
+      "skill": "research"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [],
+  "core_gaps": [],
+  "bridge_gaps": [
+    "adaptability",
+    "behavior-intervention-plans",
+    "biology",
+    "chemistry",
+    "classical-literary-traditions",
+    "co-teaching",
+    "common-core-standards",
+    "composition",
+    "data-analysis",
+    "documentation"
+  ],
+  "stretch_gaps": [
+    "behavioral-support",
+    "case-management",
+    "child-youth-mentoring",
+    "collaboration-with-schools",
+    "community-outreach",
+    "intake",
+    "life-skills",
+    "resiliency"
+  ],
+  "nice_to_have_gaps": [
+    "adaptability",
+    "behavior-intervention-plans",
+    "behavioral-support",
+    "biology",
+    "case-management",
+    "chemistry",
+    "child-youth-mentoring",
+    "classical-literary-traditions",
+    "co-teaching",
+    "collaboration-with-schools"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "statequalificationcompliance",
+      "pmi": 3.75
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "oneononework",
+      "pmi": 3.12
+    },
+    {
+      "skill": "onlineinstruction",
+      "pmi": 3.12
+    },
+    {
+      "skill": "oneononeintervention",
+      "pmi": 3.0
+    },
+    {
+      "skill": "multitasking",
+      "pmi": 2.98
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "safetyawareness",
+      "pmi": 2.75
+    },
+    {
+      "skill": "staffmotivation",
+      "pmi": 6.2
+    },
+    {
+      "skill": "hiring",
+      "pmi": 4.61
+    },
+    {
+      "skill": "teambuilding",
+      "pmi": 4.59
+    },
+    {
+      "skill": "storeprofitability",
+      "pmi": 4.48
+    },
+    {
+      "skill": "supervision",
+      "pmi": 4.41
+    },
+    {
+      "skill": "mathaptitude",
+      "pmi": 3.75
+    },
+    {
+      "skill": "operationaltasktraining",
+      "pmi": 3.75
+    },
+    {
+      "skill": "servicerecovery",
+      "pmi": 3.75
+    },
+    {
+      "skill": "dotmedicalcard",
+      "pmi": 3.72
+    },
+    {
+      "skill": "stafftraining",
+      "pmi": 3.65
+    },
+    {
+      "skill": "audiovisual",
+      "pmi": 4.87
+    },
+    {
+      "skill": "security",
+      "pmi": 4.87
+    },
+    {
+      "skill": "network",
+      "pmi": 4.87
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.87
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.87
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.87
+    },
+    {
+      "skill": "training",
+      "pmi": 4.46
+    },
+    {
+      "skill": "coordination",
+      "pmi": 3.89
+    },
+    {
+      "skill": "bim",
+      "pmi": 3.69
+    },
+    {
+      "skill": "documentation",
+      "pmi": 3.48
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "statequalificationcompliance",
+      "pmi": 3.75
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "oneononework",
+      "pmi": 3.12
+    },
+    {
+      "skill": "onlineinstruction",
+      "pmi": 3.12
+    },
+    {
+      "skill": "oneononeintervention",
+      "pmi": 3.0
+    },
+    {
+      "skill": "multitasking",
+      "pmi": 2.98
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "remoteteaching",
+      "pmi": 2.82
+    },
+    {
+      "skill": "physics",
+      "pmi": 2.82
+    },
+    {
+      "skill": "safetyawareness",
+      "pmi": 2.75
+    },
+    {
+      "skill": "staffmotivation",
+      "pmi": 6.2
+    },
+    {
+      "skill": "hiring",
+      "pmi": 4.61
+    },
+    {
+      "skill": "teambuilding",
+      "pmi": 4.59
+    },
+    {
+      "skill": "storeprofitability",
+      "pmi": 4.48
+    },
+    {
+      "skill": "supervision",
+      "pmi": 4.41
+    },
+    {
+      "skill": "mathaptitude",
+      "pmi": 3.75
+    },
+    {
+      "skill": "operationaltasktraining",
+      "pmi": 3.75
+    },
+    {
+      "skill": "servicerecovery",
+      "pmi": 3.75
+    },
+    {
+      "skill": "dotmedicalcard",
+      "pmi": 3.72
+    },
+    {
+      "skill": "stafftraining",
+      "pmi": 3.65
+    },
+    {
+      "skill": "audiovisual",
+      "pmi": 4.87
+    },
+    {
+      "skill": "security",
+      "pmi": 4.87
+    },
+    {
+      "skill": "network",
+      "pmi": 4.87
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.87
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.87
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.87
+    },
+    {
+      "skill": "training",
+      "pmi": 4.46
+    },
+    {
+      "skill": "coordination",
+      "pmi": 3.89
+    },
+    {
+      "skill": "bim",
+      "pmi": 3.69
+    },
+    {
+      "skill": "documentation",
+      "pmi": 3.48
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "finance",
+      "pct": 13
+    },
+    {
+      "function": "technology",
+      "pct": 11
+    },
+    {
+      "function": "education",
+      "pct": 9
+    },
+    {
+      "function": "design",
+      "pct": 6
+    },
+    {
+      "function": "logistics",
+      "pct": 6
+    }
+  ],
+  "coach_notes": "Your profile already shows relevant signals for social-service. Keep building direct project or internship evidence.",
+  "jobs": [
+    {
+      "title": "JUNIOR OPPORTUNITIES IN KEY BUSINESS FIELDS.",
+      "company": "bluerecruits",
+      "url": "https://jobs.crelate.com/portal/bluerecruits/job/7dgxfayasy36s4j9xg594shuew",
+      "fit": 64,
+      "job_type": "bridge",
+      "subdomain": "community-support",
+      "function": "other",
+      "why": "A other role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.067,
+        "study_alignment": 0.062,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.4,
+        "embedding_similarity": 0.594,
+        "hyre_score": 0.685,
+        "skill_overlap_raw": 0.222,
+        "hyper_p_value": 1.29e-06,
+        "hyper_k": 3,
+        "hyper_K": 10,
+        "hyper_n": 9,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Youth Mentor (Life Skills & Resiliency): Schuylkill County",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/4418E77E28",
+      "fit": 63,
+      "job_type": "goal",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "A education role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.4,
+        "study_alignment": 0.25,
+        "subdomain_alignment": 0.214,
+        "experience_alignment": 0.133,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.439,
+        "hyre_score": 0.485,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 11,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth mentor role is suitable for minors.",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual High School English Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780130003",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.127,
+        "embedding_similarity": 0.544,
+        "hyre_score": 0.652,
+        "skill_overlap_raw": 0.091,
+        "hyper_p_value": 0.02640039,
+        "hyper_k": 1,
+        "hyper_K": 11,
+        "hyper_n": 11,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching role, no age restriction",
+      "cross_function": false
+    },
+    {
+      "title": "Lab - Medical Lab Technician/Medical Technician PRN Days",
+      "company": "coffeyvilleregionalmedicalcenter",
+      "url": "https://jobs.crelate.com/portal/coffeyvilleregionalmedicalcenter/job/7kdz9pn9hze7a1j9dnuehw44ha",
+      "fit": 51,
+      "job_type": "bridge",
+      "subdomain": "research",
+      "function": "healthcare",
+      "why": "A healthcare role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.067,
+        "study_alignment": 0.25,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.133,
+        "attainability": 0.65,
+        "skill_overlap": 0.323,
+        "embedding_similarity": 0.405,
+        "hyre_score": 0.578,
+        "skill_overlap_raw": 0.231,
+        "hyper_p_value": 2.5e-07,
+        "hyper_k": 3,
+        "hyper_K": 12,
+        "hyper_n": 13,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Medical lab technician role is suitable for 16-20 year olds with proper training.",
+      "cross_function": false
+    },
+    {
+      "title": "Special Education Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777820003",
+      "fit": 51,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.233,
+        "embedding_similarity": 0.499,
+        "hyre_score": 0.626,
+        "skill_overlap_raw": 0.167,
+        "hyper_p_value": 0.00034874,
+        "hyper_k": 2,
+        "hyper_K": 11,
+        "hyper_n": 12,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " Physical Therapy Aide Position - Twin Falls, Jerome and Gooding Clinics!",
+      "company": "bodybalancephysicaltherapy",
+      "url": "https://jobs.crelate.com/portal/bodybalancephysicaltherapy/job/pqsx7xgjzosdaobakesbphtnky",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "A healthcare role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.2,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.067,
+        "attainability": 0.75,
+        "skill_overlap": 0.175,
+        "embedding_similarity": 0.457,
+        "hyre_score": 0.546,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.00836487,
+        "hyper_k": 1,
+        "hyper_K": 12,
+        "hyper_n": 8,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "JUNIOR OPPORTUNITIES IN KEY BUSINESS FIELDS.",
+      "company": "bluerecruits",
+      "url": "https://jobs.crelate.com/portal/bluerecruits/job/7dgxfayasy36s4j9xg594shuew",
+      "fit": 64,
+      "job_type": "bridge",
+      "subdomain": "community-support",
+      "function": "other",
+      "why": "A other role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.067,
+        "study_alignment": 0.062,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.4,
+        "embedding_similarity": 0.594,
+        "hyre_score": 0.685,
+        "skill_overlap_raw": 0.222,
+        "hyper_p_value": 1.29e-06,
+        "hyper_k": 3,
+        "hyper_K": 10,
+        "hyper_n": 9,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Youth Mentor (Life Skills & Resiliency): Schuylkill County",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/4418E77E28",
+      "fit": 63,
+      "job_type": "goal",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "A education role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.4,
+        "study_alignment": 0.25,
+        "subdomain_alignment": 0.214,
+        "experience_alignment": 0.133,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.439,
+        "hyre_score": 0.485,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 11,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Youth mentor role is suitable for minors.",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual High School English Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780130003",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.127,
+        "embedding_similarity": 0.544,
+        "hyre_score": 0.652,
+        "skill_overlap_raw": 0.091,
+        "hyper_p_value": 0.02640039,
+        "hyper_k": 1,
+        "hyper_K": 11,
+        "hyper_n": 11,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching role, no age restriction",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Lab - Medical Lab Technician/Medical Technician PRN Days",
+      "company": "coffeyvilleregionalmedicalcenter",
+      "url": "https://jobs.crelate.com/portal/coffeyvilleregionalmedicalcenter/job/7kdz9pn9hze7a1j9dnuehw44ha",
+      "fit": 51,
+      "job_type": "bridge",
+      "subdomain": "research",
+      "function": "healthcare",
+      "why": "A healthcare role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.067,
+        "study_alignment": 0.25,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.133,
+        "attainability": 0.65,
+        "skill_overlap": 0.323,
+        "embedding_similarity": 0.405,
+        "hyre_score": 0.578,
+        "skill_overlap_raw": 0.231,
+        "hyper_p_value": 2.5e-07,
+        "hyper_k": 3,
+        "hyper_K": 12,
+        "hyper_n": 13,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Medical lab technician role is suitable for 16-20 year olds with proper training.",
+      "cross_function": false
+    },
+    {
+      "title": "Special Education Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777820003",
+      "fit": 51,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.133,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.233,
+        "embedding_similarity": 0.499,
+        "hyre_score": 0.626,
+        "skill_overlap_raw": 0.167,
+        "hyper_p_value": 0.00034874,
+        "hyper_k": 2,
+        "hyper_K": 11,
+        "hyper_n": 12,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " Physical Therapy Aide Position - Twin Falls, Jerome and Gooding Clinics!",
+      "company": "bodybalancephysicaltherapy",
+      "url": "https://jobs.crelate.com/portal/bodybalancephysicaltherapy/job/pqsx7xgjzosdaobakesbphtnky",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "A healthcare role that uses your attention to detail, basic coding, communication skills.",
+      "gaps": "",
+      "job_score_breakdown": {
+        "goal_alignment": 0.2,
+        "study_alignment": 0.125,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.067,
+        "attainability": 0.75,
+        "skill_overlap": 0.175,
+        "embedding_similarity": 0.457,
+        "hyre_score": 0.546,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.00836487,
+        "hyper_k": 1,
+        "hyper_K": 12,
+        "hyper_n": 8,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "skill_path": null,
+  "skill_tree": null,
+  "ideal_careers": [],
+  "student_intent": {
+    "goal_domains": [
+      "social-service",
+      "education"
+    ],
+    "goal_roles": [
+      "community coordinator",
+      "youth advocate"
+    ],
+    "goal_subdomains": [
+      "community-support"
+    ],
+    "study_domains": [
+      "education",
+      "technology",
+      "arts-media"
+    ],
+    "study_subdomains": [
+      "business"
+    ],
+    "study_program": "Associated with ELLIS:",
+    "study_level": "associate",
+    "intent_confidence": 0.444,
+    "intent_strength": 0.544,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "=== Naim Bakere - Resume.pdf ===\nNaim Bakere\nBronx, NY 10460 | 929-422-1124\nMotivated and goal-oriented college graduate with an Associate Degree in Business to secure a\nposition as a translator where I can utilize my linguistic, organizational skills, attention to detail,\nand ex",
+    "study_text": "Associated with ELLIS:\nEnglish Language Learners and International Academy, Bronx, NY        June 2024\nMonroe University, Bronx, NY                                                September 2024- December 2025\nAAS in Business\nInternship Experience\nDusa STEM 2023-2024 ● Learning Co"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "finance": 18,
+      "logistics": 18,
+      "arts-media": 16
+    },
+    "study": {
+      "arts-media": 44,
+      "finance": 34,
+      "education": 30
+    },
+    "classifier": {
+      "arts-media": 30,
+      "design": 13,
+      "finance": 12
+    },
+    "onet": {
+      "education": 23,
+      "technology": 17,
+      "healthcare": 15
+    },
+    "embeddings": {
+      "education": 8,
+      "ops": 6,
+      "technology": 6
+    },
+    "experience": {
+      "technology": 27,
+      "social-service": 25,
+      "design": 11
+    }
+  },
+  "candidate_functions": [
+    "social-service",
+    "education",
+    "ops",
+    "arts-media"
+  ],
+  "subdomain": "community-support",
+  "subdomain_confidence": 0.65,
+  "subdomain_alternatives": [],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "community-support",
+    "youth-programs",
+    "classroom-support",
+    "research",
+    "classroom-support"
+  ],
+  "needs_review": false,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "social-service",
+      "chosen_subdomain": "community-support",
+      "confidence": 0.65,
+      "evidence_spans": [
+        {
+          "section": "experience",
+          "text": "VIM Store 2020-2022 Bronx, N.Y. 10458\n● Communicating with customers\n● Ordering products for stock"
+        },
+        {
+          "section": "leadership",
+          "text": "Community Mosque, Masjid al-Ummah 2021-Present ● Assist in setting up prayer\nmats and in also cleaning up afterwards"
+        }
+      ],
+      "goal_domains": [
+        "social-service",
+        "education"
+      ],
+      "goal_roles": [
+        "community coordinator",
+        "youth advocate"
+      ],
+      "goal_subdomains": [
+        "community-support"
+      ],
+      "reason_codes": [
+        "multilingual skills",
+        "community involvement",
+        "retail experience"
+      ],
+      "review_reasons": [],
+      "secondary_function": "education",
+      "study_domains": [],
+      "study_subdomains": [
+        "business"
+      ]
+    },
+    "evidence": {
+      "accepted": true,
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Demonstrated through communication and leadership experience",
+          "skill": "public speaking"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Inferred from teamwork and leadership roles",
+          "skill": "conflict resolution"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Implied by modeling and basic coding indicating analytical abilities",
+          "skill": "research"
+        }
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "academy",
+        "administrative",
+        "administrative tasks",
+        "assist",
+        "associate degree",
+        "awards",
+        "business",
+        "can",
+        "certificate",
+        "communicating",
+        "customers",
+        "detail",
+        "english language learners",
+        "express",
+        "internship",
+        "internship experience",
+        "mats",
+        "motivated",
+        "operation",
+        "ordering",
+        "organization",
+        "organizational",
+        "organizing",
+        "plan",
+        "prayer",
+        "present",
+        "readiness",
+        "secure",
+        "soccer",
+        "speak",
+        "sports",
+        "sportsmanship",
+        "stem",
+        "stock",
+        "teams",
+        "tech",
+        "technical",
+        "video"
+      ],
+      "review_reasons": [],
+      "scored_skills": [
+        "attention to detail",
+        "basic coding",
+        "communication",
+        "communication skills",
+        "english language",
+        "french",
+        "goal oriented",
+        "leadership",
+        "leadership skills",
+        "management",
+        "modeling",
+        "multilingual",
+        "organizational skills",
+        "teamwork",
+        "time management",
+        "translator"
+      ],
+      "verified_skills": [
+        "attention to detail",
+        "basic coding",
+        "communication",
+        "communication skills",
+        "english language",
+        "french",
+        "goal oriented",
+        "leadership",
+        "leadership skills",
+        "management",
+        "modeling",
+        "multilingual",
+        "organizational skills",
+        "teamwork",
+        "time management",
+        "translator"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "arts-media": 30,
+    "design": 13,
+    "finance": 12
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

@@ -1,0 +1,700 @@
+{
+  "resume": "=== Devin Rhodie - Resume.pdf ===\nDevin Rhodie \n\n516-402-0127  •  dkr1418@rit.edu  •  www.linkedin.com/in/devin-rhodie-858bb5267 \n\nOBJECTIVE \n\nSoftware Engineering student seeking a full-time co-op/internship in software \ndevelopment or systems design for Spring/Summer 2026.   \n\nEDUCATION  Rochester Institute of Technology, Golisano College of Computing and Information Sciences \n\nBachelor of  Science, Software Engineering Major  \n·  GPA: 3.0 | Awarded Dean’s List (Spring 2025)| ENGAGE Scholarship (Merit-Based)  \n·  Relevant Coursework: Software Design for computing systems, Web engineering, \nHuman-centered requirements and design, Software process and project management, \nSoftware testing, Intro to software engineering, Engineering of software subsystems, \nCybersecurity, Database systems, Computer systems concepts \n\n           Anticipated  May 2027 \n\nSKILLS \n\nTechnical Skills:  \nProgramming Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, SQL, API development \nand Integration, object-oriented design  \nOperating Systems: Windows, Linux(Ubuntu), macOS \n\nPROJECT  Musical Instrument Digital Interface (MIDI) App    \nEXPERIENCE  ·  Created a cross device application handling MIDI protocols for real time music playback.  \n\nJan 2025 - Apr 2025 \n\n·  Designed C++ software to control MIDI playback with Play, Pause, Stop, and Next functions. \n·  Implemented dual-mode input system supporting both terminal commands and physical \nbuttons \n·  Integrated LED feedback and event-driven state handling for real-time playback control. \nOct 2024 - Nov 2024 \nCOMIX GUI application \n·  Built a GUI-based comic book management app with tools for searching, adding, and editing \ncomics. \n·  Implemented import/export functionality using  CSV/JSON/XML and persistent data storage. \n·  Collaborated in a team to combine different subsystem designs into a functional application. \n\nEXPERIENCE  RIT SCOOP \n\nRemote \nAug 2025- Dec 2025 \n\nSoftware Engineer Intern \n· Contributed to the development and maintenance of SCOOPortal, a web application \nsupporting the RIT SCOOP program for students and faculty. \n· Refactored complex React modal components to improve usability, state handling, and error \nmanagement across multiple user roles. \n· Led UI debranding efforts, updating styles, labels, and more for new platform requirements. \n· Implemented and enhanced confirmation modals to prevent accidental data loss and improve \nuser feedback during form submission workflows. \nUpperLine Code \nSoftware Engineer Intern \n·  Created a web application using HTML and JavaScript to display local recycling centers.  \n·  Collaborated with a partner, focusing on frontend development. \n·  Designed a user-friendly interface and integrated location based search functionality. \n·  Presented the project to a cohort of peers, explaining the development process and features. \n\nRemote  \n July 2023 - Aug 2023",
+  "function": "technology",
+  "confidence": 95,
+  "skills": [
+    "api",
+    "api development",
+    "css",
+    "csv",
+    "data storage",
+    "development process"
+  ],
+  "verified_skills": [
+    "api",
+    "api development",
+    "css",
+    "csv",
+    "data storage",
+    "development process"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "book management",
+    "centers",
+    "code",
+    "combine",
+    "control",
+    "data",
+    "design",
+    "development",
+    "digital"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "api",
+    "api development",
+    "css",
+    "csv",
+    "data storage",
+    "development process"
+  ],
+  "inferred": [
+    "Java",
+    "JavaScript",
+    "Python"
+  ],
+  "implicit_skills": [
+    {
+      "confidence": "medium",
+      "reason": "Inferred from listed programming languages in the broader skill set",
+      "skill": "Java"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Inferred from listed programming languages in the broader skill set",
+      "skill": "JavaScript"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Inferred from listed programming languages in the broader skill set",
+      "skill": "Python"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "ai-training",
+    "ai-evaluation",
+    "operational-excellence",
+    "quality-assurance"
+  ],
+  "core_gaps": [
+    "ai-training",
+    "ai-evaluation",
+    "operational-excellence",
+    "quality-assurance"
+  ],
+  "bridge_gaps": [
+    "ai-reasoning",
+    "ai-scenarios",
+    "ai-standards",
+    "ai-testing",
+    "automation",
+    "aws",
+    "azure",
+    "ci/cd",
+    "cloud-architecture",
+    "cloud-computing"
+  ],
+  "stretch_gaps": [],
+  "nice_to_have_gaps": [
+    "ai-reasoning",
+    "ai-scenarios",
+    "ai-standards",
+    "ai-testing",
+    "automation",
+    "aws",
+    "azure",
+    "ci/cd",
+    "cloud-architecture",
+    "cloud-computing"
+  ],
+  "verify_gaps": [
+    "python"
+  ],
+  "related": [
+    {
+      "skill": "webdevelopment",
+      "pmi": 4.75
+    },
+    {
+      "skill": "html",
+      "pmi": 4.63
+    },
+    {
+      "skill": "usability",
+      "pmi": 4.06
+    },
+    {
+      "skill": "responsivedesign",
+      "pmi": 3.8
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.65
+    },
+    {
+      "skill": "webdesign",
+      "pmi": 3.18
+    },
+    {
+      "skill": "figma",
+      "pmi": 2.03
+    },
+    {
+      "skill": "layout",
+      "pmi": 1.36
+    },
+    {
+      "skill": "adobecreativesuite",
+      "pmi": 1.12
+    },
+    {
+      "skill": "communication",
+      "pmi": 0.57
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "webdevelopment",
+      "pmi": 4.75
+    },
+    {
+      "skill": "html",
+      "pmi": 4.63
+    },
+    {
+      "skill": "usability",
+      "pmi": 4.06
+    },
+    {
+      "skill": "responsivedesign",
+      "pmi": 3.8
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.65
+    },
+    {
+      "skill": "webdesign",
+      "pmi": 3.18
+    },
+    {
+      "skill": "figma",
+      "pmi": 2.03
+    },
+    {
+      "skill": "layout",
+      "pmi": 1.36
+    },
+    {
+      "skill": "adobecreativesuite",
+      "pmi": 1.12
+    },
+    {
+      "skill": "communication",
+      "pmi": 0.57
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "design",
+      "pct": 5
+    },
+    {
+      "function": "arts-media",
+      "pct": 4
+    },
+    {
+      "function": "education",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "For a technology path, focus first on ai-training, ai-evaluation, operational-excellence. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Embedded Developer 0 ",
+      "company": "accenturefederalservices",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4555415006?gh_jid=4555415006",
+      "fit": 75,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.714,
+        "subdomain_alignment": 0.577,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.56,
+        "hyre_score": 0.593,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 8,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Embedded developer role is eligible.",
+      "cross_function": false,
+      "bridge": "As an Embedded Developer, you'll deepen your skills in Python, C++, and cloud-engineering, which are directly transferable to software engineering roles. This hands-on experience with low-level programming and testing will also strengthen your problem-solving abilities, making you a stronger candidate for IT support positions."
+    },
+    {
+      "title": "Junior Design Engineer, Americas",
+      "company": "Ashby",
+      "url": "https://jobs.ashbyhq.com/Ashby/0f538da6-1e06-43f0-86cb-de8007814284",
+      "fit": 71,
+      "job_type": "bridge",
+      "subdomain": "software",
+      "function": "design",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.59,
+        "hyre_score": 0.736,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 8,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Engineering roles are suitable for 16-20 year olds; no age restrictions apply.",
+      "cross_function": false,
+      "bridge": "As a Junior Design Engineer, you'll build transferable skills like UI/UX and collaboration with engineers, which directly strengthen your software engineering foundation. These skills bridge your existing API and development expertise to your aspirational role by enhancing your ability to design user-friendly systems and work effectively in cross-functional teams."
+    },
+    {
+      "title": "Engineering Fellowship",
+      "company": "10alabs",
+      "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
+      "fit": 75,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.714,
+        "subdomain_alignment": 0.444,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.56,
+        "hyre_score": 0.593,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 17,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " AI Platform Engineer",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1554138f-15dc-4225-93cc-44b64f2540ed",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false,
+      "bridge": "As an AI Platform Engineer, you'll deepen your Python and cloud computing skills (AWS, GCP, Azure), which are directly transferable to Software Engineering roles, while your work with distributed systems and TensorFlow builds the scalable system design expertise valued in IT Support and broader engineering careers."
+    },
+    {
+      "title": "Junior Design Engineer, Canada",
+      "company": "Ashby",
+      "url": "https://jobs.ashbyhq.com/Ashby/fe121451-d328-43c9-a1ac-89e19b973a95",
+      "fit": 60,
+      "job_type": "bridge",
+      "subdomain": "software",
+      "function": "design",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.549,
+        "hyre_score": 0.708,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Junior Design Engineer, you'll build transferable skills like collaboration-with-engineering and design-implementation, which directly apply to software engineering roles by strengthening your ability to work cross-functionally and translate designs into code. Additionally, your frontend and UI/UX experience will enhance your problem-solving and user-focused mindset, valuable for IT support and engineering careers."
+    },
+    {
+      "title": "Process Engineering Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/197210fb-4c11-4dee-a36a-2ab5ac4f8879",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Embedded Developer 0 ",
+      "company": "accenturefederalservices",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4555415006?gh_jid=4555415006",
+      "fit": 75,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.714,
+        "subdomain_alignment": 0.577,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.56,
+        "hyre_score": 0.593,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 8,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Embedded developer role is eligible.",
+      "cross_function": false,
+      "bridge": "As an Embedded Developer, you'll deepen your skills in Python, C++, and cloud-engineering, which are directly transferable to software engineering roles. This hands-on experience with low-level programming and testing will also strengthen your problem-solving abilities, making you a stronger candidate for IT support positions."
+    },
+    {
+      "title": "Junior Design Engineer, Americas",
+      "company": "Ashby",
+      "url": "https://jobs.ashbyhq.com/Ashby/0f538da6-1e06-43f0-86cb-de8007814284",
+      "fit": 71,
+      "job_type": "bridge",
+      "subdomain": "software",
+      "function": "design",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.59,
+        "hyre_score": 0.736,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 8,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Engineering roles are suitable for 16-20 year olds; no age restrictions apply.",
+      "cross_function": false,
+      "bridge": "As a Junior Design Engineer, you'll build transferable skills like UI/UX and collaboration with engineers, which directly strengthen your software engineering foundation. These skills bridge your existing API and development expertise to your aspirational role by enhancing your ability to design user-friendly systems and work effectively in cross-functional teams."
+    },
+    {
+      "title": "Engineering Fellowship",
+      "company": "10alabs",
+      "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
+      "fit": 75,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.714,
+        "subdomain_alignment": 0.444,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.56,
+        "hyre_score": 0.593,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 17,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": " AI Platform Engineer",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1554138f-15dc-4225-93cc-44b64f2540ed",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false,
+      "bridge": "As an AI Platform Engineer, you'll deepen your Python and cloud computing skills (AWS, GCP, Azure), which are directly transferable to Software Engineering roles, while your work with distributed systems and TensorFlow builds the scalable system design expertise valued in IT Support and broader engineering careers."
+    },
+    {
+      "title": "Junior Design Engineer, Canada",
+      "company": "Ashby",
+      "url": "https://jobs.ashbyhq.com/Ashby/fe121451-d328-43c9-a1ac-89e19b973a95",
+      "fit": 60,
+      "job_type": "bridge",
+      "subdomain": "software",
+      "function": "design",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.549,
+        "hyre_score": 0.708,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Junior Design Engineer, you'll build transferable skills like collaboration-with-engineering and design-implementation, which directly apply to software engineering roles by strengthening your ability to work cross-functionally and translate designs into code. Additionally, your frontend and UI/UX experience will enhance your problem-solving and user-focused mindset, valuable for IT support and engineering careers."
+    },
+    {
+      "title": "Process Engineering Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/197210fb-4c11-4dee-a36a-2ab5ac4f8879",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "skill_path": "You already have a solid foundation in development and APIs. By bridging into AI and automation, then mastering evaluation and quality assurance, you'll be well-equipped for roles in engineering, software development, or IT support. Keep building and stay curious!",
+  "skill_tree": {
+    "tree": "CURRENT SKILLS\n├── api\n├── api development\n├── css\n├── csv\n├── data storage\n├── development process\n├── Java (implicit)\n├── JavaScript (implicit)\n└── Python (implicit)\n    ↓\nBRIDGE SKILLS\n├── ai-reasoning\n├── ai-scenarios\n├── ai-standards\n├── ai-testing\n└── automation\n    ↓\nGOAL SKILLS\n├── ai-training\n├── ai-evaluation\n├── operational-excellence\n└── quality-assurance\n    ↓\nCAREER PATHS\n├── Engineering\n├── Software Engineer\n└── IT Support Specialist",
+    "steps": [
+      "Strengthen Python with a project that uses APIs and CSV data, then explore automation scripts.",
+      "Take an online course on AI fundamentals (e.g., Coursera's AI For Everyone) to build ai-reasoning and ai-scenarios.",
+      "Practice AI evaluation by testing simple models using open-source tools like TensorFlow or PyTorch.",
+      "Learn quality assurance basics through a QA certification or course, focusing on operational excellence.",
+      "Build a portfolio project that combines automation, AI evaluation, and QA to showcase to employers."
+    ],
+    "summary": "You already have a solid foundation in development and APIs. By bridging into AI and automation, then mastering evaluation and quality assurance, you'll be well-equipped for roles in engineering, software development, or IT support. Keep building and stay curious!"
+  },
+  "ideal_careers": [
+    "Engineering",
+    "Software Engineer",
+    "IT Support Specialist"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "technology"
+    ],
+    "goal_roles": [
+      "engineer",
+      "intern"
+    ],
+    "goal_subdomains": [
+      "software",
+      "engineering"
+    ],
+    "study_domains": [
+      "technology"
+    ],
+    "study_subdomains": [
+      "engineering",
+      "software"
+    ],
+    "study_program": "Bachelor of Science, Software Engineering | Anticipated May 2027",
+    "study_level": "bachelor",
+    "intent_confidence": 1.098,
+    "intent_strength": 1.0,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Engineering, Software Engineer, IT Support Specialist\n=== Devin Rhodie - Resume.pdf ===\nDevin Rhodie\n516-402-0127  •  dkr1418@rit.edu  •  www.linkedin.com/in/devin-rhodie-858bb5267\nSoftware Engineering student seeking a full-time co-op/internship in software\ndevelo",
+    "study_text": "Bachelor of Science, Software Engineering | Anticipated May 2027\n**Rochester Institute of Technology** — Golisano College of Computing and Information Sciences\nBachelor of Science, Software Engineering | Anticipated May 2027\nGPA: 3.0 | Dean's List (Spring 2025) | ENGAGE Scholarsh"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "technology": 78,
+      "design": 8,
+      "education": 5
+    },
+    "study": {
+      "technology": 110,
+      "logistics": 3,
+      "finance": 2
+    },
+    "classifier": {
+      "technology": 76,
+      "arts-media": 7,
+      "design": 3
+    },
+    "onet": {
+      "technology": 29,
+      "education": 13,
+      "healthcare": 13
+    },
+    "embeddings": {
+      "technology": 8,
+      "design": 8,
+      "arts-media": 6
+    },
+    "experience": {}
+  },
+  "candidate_functions": [
+    "technology",
+    "design",
+    "arts-media"
+  ],
+  "subdomain": "software",
+  "subdomain_confidence": 0.72,
+  "subdomain_alternatives": [
+    "engineering",
+    "systems",
+    "it-support"
+  ],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "software",
+    "software",
+    "software",
+    "software",
+    "software"
+  ],
+  "needs_review": false,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "evidence": {
+      "accepted": true,
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Inferred from listed programming languages in the broader skill set",
+          "skill": "Java"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Inferred from listed programming languages in the broader skill set",
+          "skill": "JavaScript"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Inferred from listed programming languages in the broader skill set",
+          "skill": "Python"
+        }
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "book management",
+        "centers",
+        "code",
+        "combine",
+        "control",
+        "data",
+        "design",
+        "development",
+        "digital"
+      ],
+      "review_reasons": [],
+      "scored_skills": [
+        "api",
+        "api development",
+        "css",
+        "csv",
+        "data storage",
+        "development process"
+      ],
+      "verified_skills": [
+        "api",
+        "api development",
+        "css",
+        "csv",
+        "data storage",
+        "development process"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "technology": 76,
+    "arts-media": 7,
+    "design": 3
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

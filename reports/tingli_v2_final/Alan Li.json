@@ -1,0 +1,1133 @@
+{
+  "resume": "=== Alan Li - Resume.pdf ===\n“Alan Li  \n Brooklyn, New York •  347-318-6012    \n\n     Alanli2070@gmail.com • h@ps://www.linkedin.com/in/alan-li-765556344/   \n\nEDUCATION  \n\nUNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK  \nBachelor of Science, Business Administra=on  \nMarkeUng  \nGPA 3.3/4.00  \n\nEXPERIENCE  \n\nBig C Wholesale Inc.  \nOﬃce Assistant   \n• \n\nJune 2028  \n\nQueens, New York  \nJune 2023 - Present  \n\n• \n• \n• \n• \n\n• \n\nProvides general administraUve and clerical support to ensure smooth daily operaUons within an oﬃce \nenvironment.  \nOrganizing both physical and electronic ﬁles, ensuring informaUon is easily accessible  \nKeeping track of inventory and replenishing supplies as needed  \nSorUng, distribuUng, and preparing outgoing mail and packages  \nAssisUng with tasks like entering informaUon into databases and preparing reports.   \n\n  University at Buﬀalo – work study  \n  Garage Assistant   \n\nBuﬀalo, New York  \nNovember 2024 – May 2025  \n\nTook out trash from cans in all dorm buildings to help keep the area clean.  \n\n• \n•  Worked closely with staff members as a team to get tasks done  \n• \n• \n\nTalked with students and staﬀ to answer quesUons and provide friendly help.  \nHelped ﬁnish daily tasks by working together with the team.  \n\n  Kyoto restaurant  \n  Hostess   \n\nBuﬀalo, New York  \nAugust 2024 – November 2024  \n\nAs a hostess, I greeted and seated at least 100+ guests with a warm smile and helped reduce guest wait \nUmes by improving the seaUng structure  \nSolve guest concerns quickly, leading to good feedback and repeat visits  \n\n• \n•  Working smoothly with my team to run the service eﬃciently  \n• \n\nTrained new hostesses and improved team eﬃciency  \n\nTECHNICAL SKILLS  \n\nMS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity, \nCommunicaUon, Interpersonal, and CriUcal thinking  \n\n  \n \n  \n  \n  \n  \n  \n  \n  \n\fACTIVITIES  \n\nMarkeUng Club, Chinese Student AssociaUon, Hong Kong Student AssociaUon, Biking, Reading books, \nBasketball, Volleyball, Badminton, Bowling, Weightlihing, Investment, Parent-Child Rela0onship Associa0on, \nChinese, English, and Fuzhounese.",
+  "function": "finance",
+  "confidence": 73,
+  "skills": [
+    "Administrative",
+    "Customer and Personal Service",
+    "Coordination",
+    "Instructing",
+    "Time Management",
+    "Critical Thinking",
+    "Sales and Marketing",
+    "Computers and Electronics",
+    "bachelor",
+    "basketball",
+    "business",
+    "canva",
+    "chinese",
+    "clerical",
+    "clerical support",
+    "css",
+    "databases",
+    "electronic",
+    "excel",
+    "feedback",
+    "friendly",
+    "html",
+    "html css",
+    "instagram",
+    "interpersonal",
+    "investment",
+    "javascript",
+    "mail",
+    "mail and packages",
+    "ms o",
+    "organizing",
+    "outgoing",
+    "physical",
+    "powerpoint",
+    "present",
+    "replenishing supplies",
+    "reports",
+    "restaurant",
+    "science",
+    "service",
+    "structure",
+    "technical",
+    "technical skills",
+    "trash",
+    "volleyball",
+    "wait",
+    "wholesale",
+    "work study"
+  ],
+  "verified_skills": [
+    "Administrative",
+    "Customer and Personal Service",
+    "Coordination",
+    "Instructing",
+    "Time Management",
+    "Critical Thinking",
+    "Sales and Marketing",
+    "Computers and Electronics",
+    "bachelor",
+    "basketball",
+    "business",
+    "canva",
+    "chinese",
+    "clerical",
+    "clerical support",
+    "css",
+    "databases",
+    "electronic",
+    "excel",
+    "feedback",
+    "friendly",
+    "html",
+    "html css",
+    "instagram",
+    "interpersonal",
+    "investment",
+    "javascript",
+    "mail",
+    "mail and packages",
+    "ms o",
+    "organizing",
+    "outgoing",
+    "physical",
+    "powerpoint",
+    "present",
+    "replenishing supplies",
+    "reports",
+    "restaurant",
+    "science",
+    "service",
+    "structure",
+    "technical",
+    "technical skills",
+    "trash",
+    "volleyball",
+    "wait",
+    "wholesale",
+    "work study"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [],
+  "skill_weights": {},
+  "market_relevant": [
+    "Administrative",
+    "Customer and Personal Service",
+    "Coordination",
+    "Instructing",
+    "Time Management",
+    "Critical Thinking",
+    "Sales and Marketing",
+    "Computers and Electronics",
+    "bachelor",
+    "basketball",
+    "business",
+    "canva",
+    "chinese",
+    "clerical",
+    "clerical support",
+    "css",
+    "databases",
+    "electronic",
+    "excel",
+    "feedback",
+    "friendly",
+    "html",
+    "html css",
+    "instagram",
+    "interpersonal",
+    "investment",
+    "javascript",
+    "mail",
+    "mail and packages",
+    "ms o",
+    "organizing",
+    "outgoing",
+    "physical",
+    "powerpoint",
+    "present",
+    "replenishing supplies",
+    "reports",
+    "restaurant",
+    "science",
+    "service",
+    "structure",
+    "technical",
+    "technical skills",
+    "trash",
+    "volleyball",
+    "wait",
+    "wholesale",
+    "work study"
+  ],
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
+    {
+      "skill": "bachelor",
+      "source_section": "education",
+      "matched_text": "Bachelor of Science, Business Administra=on",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "business",
+      "source_section": "education",
+      "matched_text": "Bachelor of Science, Business Administra=on",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "science",
+      "source_section": "education",
+      "matched_text": "Bachelor of Science, Business Administra=on",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "canva",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "clerical",
+      "source_section": "experience",
+      "matched_text": "Provides general administraUve and clerical support to ensure smooth daily operaUons within an oﬃce",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "clerical support",
+      "source_section": "experience",
+      "matched_text": "Provides general administraUve and clerical support to ensure smooth daily operaUons within an oﬃce",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "css",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "databases",
+      "source_section": "experience",
+      "matched_text": "AssisUng with tasks like entering informaUon into databases and preparing reports.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "electronic",
+      "source_section": "experience",
+      "matched_text": "Organizing both physical and electronic ﬁles, ensuring informaUon is easily accessible",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "excel",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "feedback",
+      "source_section": "experience",
+      "matched_text": "Solve guest concerns quickly, leading to good feedback and repeat visits",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "friendly",
+      "source_section": "experience",
+      "matched_text": "Talked with students and staﬀ to answer quesUons and provide friendly help.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "html",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "html css",
+      "source_section": "experience",
+      "matched_text": "Big C Wholesale Inc.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "instagram",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "interpersonal",
+      "source_section": "experience",
+      "matched_text": "CommunicaUon, Interpersonal, and CriUcal thinking",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "javascript",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "mail",
+      "source_section": "experience",
+      "matched_text": "SorUng, distribuUng, and preparing outgoing mail and packages",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "mail and packages",
+      "source_section": "experience",
+      "matched_text": "SorUng, distribuUng, and preparing outgoing mail and packages",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "ms o",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organizing",
+      "source_section": "experience",
+      "matched_text": "Organizing both physical and electronic ﬁles, ensuring informaUon is easily accessible",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "outgoing",
+      "source_section": "experience",
+      "matched_text": "SorUng, distribuUng, and preparing outgoing mail and packages",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "physical",
+      "source_section": "experience",
+      "matched_text": "Organizing both physical and electronic ﬁles, ensuring informaUon is easily accessible",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "powerpoint",
+      "source_section": "experience",
+      "matched_text": "MS Oﬃce, Excel, PowerPoint, Word, Instagram, Canva, HTML/CSS, JavaScript, Time managing, CreaUvity,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "present",
+      "source_section": "experience",
+      "matched_text": "June 2023 - Present",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "replenishing supplies",
+      "source_section": "experience",
+      "matched_text": "Keeping track of inventory and replenishing supplies as needed",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "reports",
+      "source_section": "experience",
+      "matched_text": "AssisUng with tasks like entering informaUon into databases and preparing reports.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "restaurant",
+      "source_section": "experience",
+      "matched_text": "Kyoto restaurant",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "service",
+      "source_section": "experience",
+      "matched_text": "•  Working smoothly with my team to run the service eﬃciently",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "structure",
+      "source_section": "experience",
+      "matched_text": "Umes by improving the seaUng structure",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical",
+      "source_section": "experience",
+      "matched_text": "TECHNICAL SKILLS",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "technical skills",
+      "source_section": "experience",
+      "matched_text": "TECHNICAL SKILLS",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "trash",
+      "source_section": "experience",
+      "matched_text": "Took out trash from cans in all dorm buildings to help keep the area clean.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "wait",
+      "source_section": "experience",
+      "matched_text": "As a hostess, I greeted and seated at least 100+ guests with a warm smile and helped reduce guest wait",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "wholesale",
+      "source_section": "experience",
+      "matched_text": "Big C Wholesale Inc.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "work study",
+      "source_section": "experience",
+      "matched_text": "University at Buﬀalo – work study",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "basketball",
+      "source_section": "leadership",
+      "matched_text": "Basketball, Volleyball, Badminton, Bowling, Weightlihing, Investment, Parent-Child Rela0onship Associa0on,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "chinese",
+      "source_section": "leadership",
+      "matched_text": "MarkeUng Club, Chinese Student AssociaUon, Hong Kong Student AssociaUon, Biking, Reading books,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "investment",
+      "source_section": "leadership",
+      "matched_text": "Basketball, Volleyball, Badminton, Bowling, Weightlihing, Investment, Parent-Child Rela0onship Associa0on,",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "volleyball",
+      "source_section": "leadership",
+      "matched_text": "Basketball, Volleyball, Badminton, Bowling, Weightlihing, Investment, Parent-Child Rela0onship Associa0on,",
+      "match_type": "vocabulary"
+    }
+  ],
+  "gaps": [
+    "budgeting",
+    "fp&a"
+  ],
+  "core_gaps": [
+    "budgeting",
+    "fp&a"
+  ],
+  "bridge_gaps": [
+    "accounting",
+    "accounts-payable",
+    "annual-report",
+    "audit-support",
+    "board-materials",
+    "budget-analysis",
+    "builder-models",
+    "capital-markets",
+    "collaboration",
+    "communication"
+  ],
+  "stretch_gaps": [],
+  "nice_to_have_gaps": [
+    "accounting",
+    "accounts-payable",
+    "annual-report",
+    "audit-support",
+    "board-materials",
+    "budget-analysis",
+    "builder-models",
+    "capital-markets",
+    "collaboration",
+    "communication"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "series63",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series65",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series66",
+      "pmi": 4.5
+    },
+    {
+      "skill": "series7",
+      "pmi": 4.27
+    },
+    {
+      "skill": "accountmanagement",
+      "pmi": 3.52
+    },
+    {
+      "skill": "capitalstructure",
+      "pmi": 3.39
+    },
+    {
+      "skill": "bloomberg",
+      "pmi": 3.32
+    },
+    {
+      "skill": "capitalraising",
+      "pmi": 3.21
+    },
+    {
+      "skill": "datev",
+      "pmi": 2.78
+    },
+    {
+      "skill": "financialservices",
+      "pmi": 2.75
+    },
+    {
+      "skill": "socialstudies",
+      "pmi": 5.93
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "python",
+      "pmi": 5.43
+    },
+    {
+      "skill": "microsoftoffice365",
+      "pmi": 5.36
+    },
+    {
+      "skill": "onetoonesupport",
+      "pmi": 5.24
+    },
+    {
+      "skill": "stem",
+      "pmi": 5.24
+    },
+    {
+      "skill": "word",
+      "pmi": 4.78
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "outlook",
+      "pmi": 4.49
+    },
+    {
+      "skill": "windows",
+      "pmi": 4.49
+    },
+    {
+      "skill": "webdevelopment",
+      "pmi": 4.75
+    },
+    {
+      "skill": "dataentry",
+      "pmi": 4.36
+    },
+    {
+      "skill": "audiovisual",
+      "pmi": 4.18
+    },
+    {
+      "skill": "security",
+      "pmi": 4.18
+    },
+    {
+      "skill": "network",
+      "pmi": 4.18
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.18
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.18
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.18
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "series63",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series65",
+      "pmi": 4.74
+    },
+    {
+      "skill": "series66",
+      "pmi": 4.5
+    },
+    {
+      "skill": "series7",
+      "pmi": 4.27
+    },
+    {
+      "skill": "accountmanagement",
+      "pmi": 3.52
+    },
+    {
+      "skill": "capitalstructure",
+      "pmi": 3.39
+    },
+    {
+      "skill": "bloomberg",
+      "pmi": 3.32
+    },
+    {
+      "skill": "capitalraising",
+      "pmi": 3.21
+    },
+    {
+      "skill": "datev",
+      "pmi": 2.78
+    },
+    {
+      "skill": "financialservices",
+      "pmi": 2.75
+    },
+    {
+      "skill": "socialstudies",
+      "pmi": 5.93
+    },
+    {
+      "skill": "frontdesk",
+      "pmi": 5.93
+    },
+    {
+      "skill": "python",
+      "pmi": 5.43
+    },
+    {
+      "skill": "microsoftoffice365",
+      "pmi": 5.36
+    },
+    {
+      "skill": "onetoonesupport",
+      "pmi": 5.24
+    },
+    {
+      "skill": "stem",
+      "pmi": 5.24
+    },
+    {
+      "skill": "word",
+      "pmi": 4.78
+    },
+    {
+      "skill": "verbalcommunication",
+      "pmi": 4.53
+    },
+    {
+      "skill": "outlook",
+      "pmi": 4.49
+    },
+    {
+      "skill": "windows",
+      "pmi": 4.49
+    },
+    {
+      "skill": "webdevelopment",
+      "pmi": 4.75
+    },
+    {
+      "skill": "dataentry",
+      "pmi": 4.36
+    },
+    {
+      "skill": "audiovisual",
+      "pmi": 4.18
+    },
+    {
+      "skill": "security",
+      "pmi": 4.18
+    },
+    {
+      "skill": "network",
+      "pmi": 4.18
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.18
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.18
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.18
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 16
+    },
+    {
+      "function": "arts-media",
+      "pct": 7
+    },
+    {
+      "function": "technology",
+      "pct": 6
+    },
+    {
+      "function": "ops",
+      "pct": 4
+    },
+    {
+      "function": "sales",
+      "pct": 3
+    }
+  ],
+  "coach_notes": "For a finance path, focus first on budgeting, fp&a. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "FP&A Analyst",
+      "company": "aloyoga",
+      "url": "https://boards.greenhouse.io/aloyoga/jobs/5978039004?gh_jid=5978039004",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.2,
+        "attainability": 0.75,
+        "skill_overlap": 0.28,
+        "embedding_similarity": 0.49,
+        "hyre_score": 0.534,
+        "skill_overlap_raw": 0.2,
+        "hyper_p_value": 0.00148655,
+        "hyper_k": 2,
+        "hyper_K": 13,
+        "hyper_n": 10,
+        "hyper_N": 2144,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "FP&A analyst roles typically do not have age restrictions beyond minimum employment age.",
+      "cross_function": false
+    },
+    {
+      "title": "Teacher Assistant",
+      "company": "ambercharterschools",
+      "url": "https://job-boards.greenhouse.io/ambercharterschools/jobs/7563164003",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.111,
+        "attainability": 0.75,
+        "skill_overlap": 0.156,
+        "embedding_similarity": 0.571,
+        "hyre_score": 0.719,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": 0.04287837,
+        "hyper_k": 1,
+        "hyper_K": 22,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teacher assistant, no age restrictions.",
+      "cross_function": false,
+      "bridge": "As a Teacher Assistant, you're already building transferable skills like data-driven instruction and assessment, which directly apply to financial analysis and reporting. Your experience with differentiation and IEPs hones your ability to tailor strategies to individual needs—a key skill in client-focused finance roles."
+    },
+    {
+      "title": "Staff Accountant",
+      "company": "cfos3",
+      "url": "https://jobs.crelate.com/portal/cfos3/job/1g1h9q8jcsszx6nyus5h6iyoqc",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.3,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.135,
+        "attainability": 0.75,
+        "skill_overlap": 0.165,
+        "embedding_similarity": 0.511,
+        "hyre_score": 0.599,
+        "skill_overlap_raw": 0.118,
+        "hyper_p_value": 0.0043862,
+        "hyper_k": 2,
+        "hyper_K": 13,
+        "hyper_n": 17,
+        "hyper_N": 2144,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Finance Intern - Remote (Singapore)",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1bcee212-d385-4a4b-9552-5dc51bbc8a71",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Science Tutor - Part Time",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/science-tutor-part-time-beSjVa_fDk441HxuHUWtDo?ref=rss&sid=68",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.125,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "embedding_similarity": 0.442,
+        "hyre_score": 0.507,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00061866,
+        "hyper_k": 2,
+        "hyper_K": 22,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Tutor, no age restriction.",
+      "cross_function": false,
+      "bridge": "Your role as a Science Tutor sharpens your communication, problem-solving, and interpersonal skills—directly transferable to finance roles like client advising or analysis—while your organizational and IT skills build the precision needed for financial modeling and data management."
+    },
+    {
+      "title": "Finance Director - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/b2e06b42-2039-42c2-a9fb-fb0afd08b90e",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "FP&A Analyst",
+      "company": "aloyoga",
+      "url": "https://boards.greenhouse.io/aloyoga/jobs/5978039004?gh_jid=5978039004",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.2,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.2,
+        "attainability": 0.75,
+        "skill_overlap": 0.28,
+        "embedding_similarity": 0.49,
+        "hyre_score": 0.534,
+        "skill_overlap_raw": 0.2,
+        "hyper_p_value": 0.00148655,
+        "hyper_k": 2,
+        "hyper_K": 13,
+        "hyper_n": 10,
+        "hyper_N": 2144,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "FP&A analyst roles typically do not have age restrictions beyond minimum employment age.",
+      "cross_function": false
+    },
+    {
+      "title": "Teacher Assistant",
+      "company": "ambercharterschools",
+      "url": "https://job-boards.greenhouse.io/ambercharterschools/jobs/7563164003",
+      "fit": 61,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.111,
+        "attainability": 0.75,
+        "skill_overlap": 0.156,
+        "embedding_similarity": 0.571,
+        "hyre_score": 0.719,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": 0.04287837,
+        "hyper_k": 1,
+        "hyper_K": 22,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teacher assistant, no age restrictions.",
+      "cross_function": false,
+      "bridge": "As a Teacher Assistant, you're already building transferable skills like data-driven instruction and assessment, which directly apply to financial analysis and reporting. Your experience with differentiation and IEPs hones your ability to tailor strategies to individual needs—a key skill in client-focused finance roles."
+    },
+    {
+      "title": "Staff Accountant",
+      "company": "cfos3",
+      "url": "https://jobs.crelate.com/portal/cfos3/job/1g1h9q8jcsszx6nyus5h6iyoqc",
+      "fit": 76,
+      "job_type": "goal",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 1.0,
+        "study_alignment": 0.3,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.135,
+        "attainability": 0.75,
+        "skill_overlap": 0.165,
+        "embedding_similarity": 0.511,
+        "hyre_score": 0.599,
+        "skill_overlap_raw": 0.118,
+        "hyper_p_value": 0.0043862,
+        "hyper_k": 2,
+        "hyper_K": 13,
+        "hyper_n": 17,
+        "hyper_N": 2144,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Finance Intern - Remote (Singapore)",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1bcee212-d385-4a4b-9552-5dc51bbc8a71",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Science Tutor - Part Time",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/science-tutor-part-time-beSjVa_fDk441HxuHUWtDo?ref=rss&sid=68",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.1,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.125,
+        "attainability": 0.75,
+        "skill_overlap": 0.35,
+        "embedding_similarity": 0.442,
+        "hyre_score": 0.507,
+        "skill_overlap_raw": 0.25,
+        "hyper_p_value": 0.00061866,
+        "hyper_k": 2,
+        "hyper_K": 22,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Tutor, no age restriction.",
+      "cross_function": false,
+      "bridge": "Your role as a Science Tutor sharpens your communication, problem-solving, and interpersonal skills—directly transferable to finance roles like client advising or analysis—while your organizational and IT skills build the precision needed for financial modeling and data management."
+    },
+    {
+      "title": "Finance Director - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/b2e06b42-2039-42c2-a9fb-fb0afd08b90e",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "",
+      "function": "finance",
+      "why": "This role builds your Administrative, Customer and Personal Service, Coordination skills and moves you toward becoming a Finance.",
+      "gaps": "budgeting, fp&a",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "skill_path": "You already have a strong foundation in administrative and analytical skills. By focusing on budgeting and FP&A, you'll quickly bridge into finance roles. Keep building on your accounting and reporting experience, and you'll be well on your way to a successful finance career!",
+  "skill_tree": {
+    "tree": "Finance Career Path\n├── Current Skills\n│   ├── Administrative\n│   ├── Customer & Personal Service\n│   ├── Coordination\n│   ├── Instructing\n│   ├── Time Management\n│   ├── Critical Thinking\n│   ├── Sales & Marketing\n│   ├── Computers & Electronics\n│   ├── Bachelor's Degree\n│   └── Basketball\n│\n├── Bridge Skills (Developing)\n│   ├── Accounting\n│   ├── Accounts Payable\n│   ├── Annual Report\n│   ├── Audit Support\n│   └── Board Materials\n│\n├── Core Missing Skills (Needed Now)\n│   ├── Budgeting\n│   └── FP&A\n│\n└── Dream Career: Finance\n    └── Stretch Skills (Future)\n        └── [To be defined]",
+    "steps": [
+      "Enroll in a budgeting course on Coursera or LinkedIn Learning to master financial planning.",
+      "Practice FP&A by building a simple financial model using Excel for a mock company.",
+      "Take an online accounting fundamentals course to strengthen your accounting skills.",
+      "Volunteer to assist with annual report preparation or audit support in your current role.",
+      "Network with finance professionals to learn about board materials and real-world applications."
+    ],
+    "summary": "You already have a strong foundation in administrative and analytical skills. By focusing on budgeting and FP&A, you'll quickly bridge into finance roles. Keep building on your accounting and reporting experience, and you'll be well on your way to a successful finance career!"
+  },
+  "ideal_careers": [
+    "Finance"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "finance"
+    ],
+    "goal_roles": [],
+    "goal_subdomains": [],
+    "study_domains": [
+      "finance",
+      "education"
+    ],
+    "study_subdomains": [
+      "higher-ed-support",
+      "classroom-support"
+    ],
+    "study_program": "Bachelor of Science, Business Administra=on",
+    "study_level": "bachelor",
+    "intent_confidence": 0.725,
+    "intent_strength": 0.875,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Finance\n=== Alan Li - Resume.pdf ===\n“Alan Li\nBrooklyn, New York •  347-318-6012\nAlanli2070@gmail.com • h@ps://www.linkedin.com/in/alan-li-765556344/",
+    "study_text": "Bachelor of Science, Business Administra=on\nUNIVERSITY AT BUFFALO, THE STATE UNIVERSITY OF NEW YORK\nBachelor of Science, Business Administra=on\nMarkeUng\nGPA 3.3/4.00\n**University at Buffalo School of Management, SUNY** — Business Administration, Finance · 2024 – 2028\n---\nUNIVERSI"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "finance": 72,
+      "arts-media": 6,
+      "technology": 4
+    },
+    "study": {
+      "finance": 73,
+      "education": 30,
+      "sales": 5
+    },
+    "classifier": {
+      "finance": 32,
+      "arts-media": 15,
+      "education": 15
+    },
+    "onet": {
+      "education": 24,
+      "healthcare": 15,
+      "technology": 15
+    },
+    "embeddings": {
+      "ops": 6,
+      "food-service": 6,
+      "building-grounds": 6
+    },
+    "experience": {
+      "education": 44,
+      "finance": 17,
+      "social-service": 12
+    }
+  },
+  "candidate_functions": [
+    "finance",
+    "education",
+    "arts-media"
+  ],
+  "subdomain": "",
+  "subdomain_confidence": 0.0,
+  "subdomain_alternatives": [],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "",
+    "classroom-support",
+    "",
+    "",
+    "tutoring"
+  ],
+  "needs_review": true,
+  "review_reasons": [
+    "llm_provider_error"
+  ],
+  "llm_stage_results": {
+    "evidence": {
+      "accepted": false,
+      "error": "the JSON object must be str, bytes or bytearray, not NoneType",
+      "review_reasons": [
+        "llm_provider_error"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "finance": 32,
+    "arts-media": 15,
+    "education": 15
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "evidence",
+      "accepted": false,
+      "review_reasons": [
+        "llm_provider_error"
+      ]
+    }
+  ],
+  "normalization_source": "hybrid"
+}

@@ -1,198 +1,221 @@
 {
   "resume": "=== aylin_calderon_resume.pdf ===\nAylin Calderon\n\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com\n\nEDUCATION\n\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n\nWork Experience\nLittle Pulp Arts Center, Glendale, NY\n\nIntern\n\n- Helped children learn to paint\n- Cleaned exhibits\n- Painted posters\n\nBabysitter & Pet Sitter:\n-cooked meals\n-played games with the children\n-Supervised children\n-fed and took care of their cat\n\nEXTRACURRICULAR ACTIVITIES\nFlushing International High School Dance lessons\n\nSKILLS\n\n- Goodteamplayer\n- Abilitytomultitaskandcompleteprojectsontime\n- Abilitytolearnquickly\n-    Bilingual:SpanishandEnglish\n- Typingskills\n\nHOBBIES & INTERESTS\n\n- Playingsoccer\n- Graphicdesigning\n- Videogaming\n\nSpring 2022\n\nSummer 2020",
   "function": "arts-media",
-  "confidence": 61,
+  "confidence": 58,
   "skills": [
-    "Instructing",
-    "Customer and Personal Service",
-    "Fine Arts",
-    "Service Orientation",
-    "Coordination",
-    "Time Management",
-    "Active Learning",
-    "Foreign Language",
     "bilingual",
-    "typingskills"
+    "typing skills",
+    "paint",
+    "dance"
   ],
   "verified_skills": [
-    "Instructing",
-    "Customer and Personal Service",
-    "Fine Arts",
-    "Service Orientation",
-    "Coordination",
-    "Time Management",
-    "Active Learning",
-    "Foreign Language",
     "bilingual",
-    "typingskills"
+    "typing skills",
+    "paint",
+    "dance"
   ],
   "possible_skills": [],
   "rejected_skills": [
     "care",
     "cat",
-    "dance",
     "exhibits",
     "extracurricular activities",
     "games",
     "high school",
     "meals",
-    "paint",
     "sitter"
   ],
   "skill_weights": {},
   "market_relevant": [
-    "Instructing",
-    "Customer and Personal Service",
-    "Fine Arts",
-    "Service Orientation",
-    "Coordination",
-    "Time Management",
-    "Active Learning",
-    "Foreign Language",
     "bilingual",
-    "typingskills"
+    "typing skills",
+    "paint",
+    "dance"
   ],
   "inferred": [
-    "Multitasking",
-    "Responsibility",
-    "Creativity"
+    "public speaking",
+    "teamwork",
+    "leadership"
   ],
   "implicit_skills": [
     {
-      "skill": "Multitasking",
-      "reason": "Managing multiple activities like care, meals, and extracurriculars suggests multitasking ability.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Experience with exhibits likely involved presenting information.",
+      "skill": "public speaking"
     },
     {
-      "skill": "Responsibility",
-      "reason": "Roles like sitter and care imply responsibility for others.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Participation in games suggests collaboration.",
+      "skill": "teamwork"
     },
     {
-      "skill": "Creativity",
-      "reason": "Activities like dance, paint, and games indicate creative skills.",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Involvement in extracurricular activities often requires leading or coordinating.",
+      "skill": "leadership"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "logistics",
-    "classroom-management",
-    "communication"
+    "adobe-creative-suite",
+    "canva",
+    "community-management",
+    "content-creation",
+    "illustrator",
+    "photoshop",
+    "social-media",
+    "typography"
   ],
   "core_gaps": [
-    "logistics",
-    "classroom-management",
-    "communication"
+    "adobe-creative-suite",
+    "canva",
+    "community-management",
+    "content-creation",
+    "illustrator",
+    "photoshop",
+    "social-media",
+    "typography"
   ],
-  "bridge_gaps": [],
+  "bridge_gaps": [
+    "adobe",
+    "brand-identity",
+    "brand-storytelling",
+    "capcut",
+    "color-theory",
+    "digital-design",
+    "editorial-calendar",
+    "fb-analytics",
+    "graphic-design",
+    "indesign"
+  ],
   "stretch_gaps": [
-    "active-listening",
-    "band-or-ensemble-support",
-    "basic-skills",
-    "bulletin-board-design",
-    "camp-activities",
-    "camp-counselor",
-    "camp-operations",
-    "check-in-check-out",
-    "child-safety",
-    "classroom-support"
+    "content-coordination",
+    "cross-functional-cacmmunication",
+    "demand-generation",
+    "event-planning",
+    "internal-communication",
+    "logistics",
+    "on-site-event-execution",
+    "vendor-management"
   ],
   "nice_to_have_gaps": [
-    "active-listening",
-    "band-or-ensemble-support",
-    "basic-skills",
-    "bulletin-board-design",
-    "camp-activities",
-    "camp-counselor",
-    "camp-operations",
-    "check-in-check-out",
-    "child-safety",
-    "classroom-support"
+    "adobe",
+    "brand-identity",
+    "brand-storytelling",
+    "capcut",
+    "color-theory",
+    "content-coordination",
+    "cross-functional-cacmmunication",
+    "demand-generation",
+    "digital-design",
+    "editorial-calendar"
   ],
   "verify_gaps": [],
   "related": [
     {
-      "skill": "audiovisual",
-      "pmi": 4.18
+      "skill": "translation",
+      "pmi": 4.26
     },
     {
-      "skill": "security",
-      "pmi": 4.18
+      "skill": "spanish",
+      "pmi": 3.85
     },
     {
-      "skill": "network",
-      "pmi": 4.18
+      "skill": "english",
+      "pmi": 2.46
     },
     {
-      "skill": "wifi",
-      "pmi": 4.18
+      "skill": "behavioralsupport",
+      "pmi": 2.22
     },
     {
-      "skill": "telecom",
-      "pmi": 4.18
+      "skill": "paraprofessional",
+      "pmi": 2.1
     },
     {
-      "skill": "ict",
-      "pmi": 4.18
+      "skill": "classroomsupport",
+      "pmi": 1.43
     },
     {
-      "skill": "modeling",
-      "pmi": 3.89
+      "skill": "customerservice",
+      "pmi": 1.41
     },
     {
-      "skill": "bluebeam",
-      "pmi": 3.08
+      "skill": "dataentry",
+      "pmi": 1.41
     },
     {
-      "skill": "documentation",
-      "pmi": 3.04
+      "skill": "studentsupport",
+      "pmi": 1.32
     },
     {
-      "skill": "bim",
-      "pmi": 3.0
+      "skill": "timemanagement",
+      "pmi": 1.3
+    },
+    {
+      "skill": "payroll",
+      "pmi": 2.79
+    },
+    {
+      "skill": "problemsolving",
+      "pmi": 2.27
+    },
+    {
+      "skill": "compliance",
+      "pmi": 1.54
     }
   ],
   "related_skills": [
     {
-      "skill": "audiovisual",
-      "pmi": 4.18
+      "skill": "translation",
+      "pmi": 4.26
     },
     {
-      "skill": "security",
-      "pmi": 4.18
+      "skill": "spanish",
+      "pmi": 3.85
     },
     {
-      "skill": "network",
-      "pmi": 4.18
+      "skill": "english",
+      "pmi": 2.46
     },
     {
-      "skill": "wifi",
-      "pmi": 4.18
+      "skill": "behavioralsupport",
+      "pmi": 2.22
     },
     {
-      "skill": "telecom",
-      "pmi": 4.18
+      "skill": "paraprofessional",
+      "pmi": 2.1
     },
     {
-      "skill": "ict",
-      "pmi": 4.18
+      "skill": "classroomsupport",
+      "pmi": 1.43
     },
     {
-      "skill": "modeling",
-      "pmi": 3.89
+      "skill": "customerservice",
+      "pmi": 1.41
     },
     {
-      "skill": "bluebeam",
-      "pmi": 3.08
+      "skill": "dataentry",
+      "pmi": 1.41
     },
     {
-      "skill": "documentation",
-      "pmi": 3.04
+      "skill": "studentsupport",
+      "pmi": 1.32
     },
     {
-      "skill": "bim",
-      "pmi": 3.0
+      "skill": "timemanagement",
+      "pmi": 1.3
+    },
+    {
+      "skill": "payroll",
+      "pmi": 2.79
+    },
+    {
+      "skill": "problemsolving",
+      "pmi": 2.27
+    },
+    {
+      "skill": "compliance",
+      "pmi": 1.54
     }
   ],
   "alternatives": [
@@ -209,256 +232,622 @@
       "pct": 6
     },
     {
-      "function": "technology",
+      "function": "design",
       "pct": 6
     },
     {
-      "function": "skilled-trade",
-      "pct": 5
+      "function": "technology",
+      "pct": 6
     }
   ],
-  "coach_notes": "For a arts-media path, focus first on logistics, classroom-management, communication. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a arts-media path, focus first on adobe-creative-suite, canva, community-management. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Music Teacher Intern",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4187915",
-      "fit": 82,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "title": "Stage - Social Media Expert Assistant (H/F)",
+      "company": "datawords",
+      "url": "https://datawords.hire.trakstar.com/jobs/fk0zv7a/",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.636,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.65,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.067,
+        "skill_overlap_raw": 0.048,
+        "hyper_p_value": 0.01000476,
+        "hyper_k": 1,
+        "hyper_K": 1,
+        "hyper_n": 21,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Social media assistant role is suitable for minors/young adults.",
+      "cross_function": false,
+      "bridge": "This role will sharpen your content-creation and planning skills, which are directly transferable to producing engaging media as a Content Creator or Photographer. Mastering community management and KPI reporting also builds the strategic insight needed to thrive as a Media Professional."
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/08A3D77389",
+      "fit": 52,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "design",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
         "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 8,
+        "hyper_N": 1043,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Music teacher intern role is suitable for 16-20 year olds.",
-      "bridge": "As a Music Teacher Intern, you'll build transferable skills like lesson-planning, communication, and coordination—directly applicable to scripting, scheduling shoots, and collaborating with clients as a Content Creator or Media Professional."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Graphic Designer, you'll build transferable skills in Adobe Creative Suite, typography, and layout—directly applicable to creating polished content and photography portfolios for your aspirational roles."
     },
     {
-      "title": "Teacher Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1961384",
-      "fit": 62,
-      "job_type": "goal",
+      "title": "Graphic Designer KZ",
+      "company": "academyofdigitalindustries",
+      "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
+      "fit": 52,
+      "job_type": "bridge",
       "subdomain": "graphic-design",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "function": "design",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.364,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions.",
+      "cross_function": false,
+      "bridge": "As a Graphic Designer, you'll build design software proficiency and brand identity skills that are directly transferable to content creation and photography, while your layout and digital design expertise will give you a strong foundation for media production."
+    },
+    {
+      "title": "Social Media Intern at BabyMD",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/86F3B8412E",
+      "fit": 52,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 13,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Social Media Intern at BabyMD, you'll build content-creation, video-editing, and brand-storytelling skills that directly transfer to your dream of being a Content Creator or Media Professional, while also strengthening your community-management and Adobe/Capcut expertise—all essential for photography and media roles."
+    },
+    {
+      "title": "Event and Content Coordinator",
+      "company": "guidebook",
+      "url": "https://careers.jobscore.com/careers/guidebook/jobs/event-and-content-coordinator-cYA6TpUl1k_OUJ300p5Kn2?ref=rss&sid=68",
+      "fit": 46,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.5,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.235,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 8,
+        "hyper_N": 2099,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Teacher assistant role, no age restriction.",
-      "bridge": "As a Teacher Assistant, you're honing active listening and critical thinking, which are essential for understanding audience needs in content creation. Your monitoring and learning strategies will help you adapt quickly to new media tools, while your existing skills in instructing and fine arts directly translate to crafting engaging visual stories."
+      "eligibility_reason": "Event and content coordination is suitable for minors/young adults.",
+      "cross_function": false,
+      "bridge": "As an Event and Content Coordinator, you'll build transferable skills in cross-functional communication and demand-generation that directly support your goal of becoming a Content Creator—these will help you collaborate with teams and understand audience needs. Additionally, your experience in content coordination and logistics will sharpen your project management and storytelling abilities, essential for a career in media or photography."
     },
     {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 51,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
-      "job_score_breakdown": {
-        "goal_alignment": 0.455,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.3,
-        "attainability": 0.75,
-        "skill_overlap": 0.083,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
-    },
-    {
-      "title": "Amazing Athletes Afterschool Community Service Instructor",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/BF1B41F39B",
+      "title": "CMMC - Full Time Faculty - Media and Mass Communication",
+      "company": "americanuniversity",
+      "url": "https://AmericanUniversity.hire.trakstar.com/jobs/fk0ppeh/",
       "fit": 50,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
+      "job_type": "bridge",
+      "subdomain": "content-creation",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.455,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.082,
+        "skill_overlap_raw": 0.059,
+        "hyper_p_value": 0.00748731,
+        "hyper_k": 1,
+        "hyper_K": 2,
+        "hyper_n": 17,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Community service instructor, no age restrictions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Substitute Summer Camp Counselor, Southern California ",
-      "company": "GalileoLearning",
-      "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000118696597",
+      "title": "LA Galaxy Academy, Academic Tutor (Part-Time)",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8550124002",
       "fit": 50,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
+      "job_type": "bridge",
+      "subdomain": "tutoring",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.273,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.4,
+        "experience_alignment": 0.111,
         "attainability": 0.75,
         "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 9,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Summer camp counselor role is suitable for 16-20 year olds."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " 1st Grade Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777498003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " Bilingual Part-Time Technology Trainer- Travel required",
+      "company": "consortium",
+      "url": "https://jobs.crelate.com/portal/consortium/job/3o9josybuc8c4ojmdxu6a1b3yo",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "1st/2nd Grade Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7778058003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "Music Teacher Intern",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/4187915",
-      "fit": 82,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "title": "Stage - Social Media Expert Assistant (H/F)",
+      "company": "datawords",
+      "url": "https://datawords.hire.trakstar.com/jobs/fk0zv7a/",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.636,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
-        "experience_alignment": 0.1,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.067,
+        "skill_overlap_raw": 0.048,
+        "hyper_p_value": 0.01000476,
+        "hyper_k": 1,
+        "hyper_K": 1,
+        "hyper_n": 21,
+        "hyper_N": 2099,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Music teacher intern role is suitable for 16-20 year olds.",
-      "bridge": "As a Music Teacher Intern, you'll build transferable skills like lesson-planning, communication, and coordination—directly applicable to scripting, scheduling shoots, and collaborating with clients as a Content Creator or Media Professional."
+      "eligibility_reason": "Social media assistant role is suitable for minors/young adults.",
+      "cross_function": false,
+      "bridge": "This role will sharpen your content-creation and planning skills, which are directly transferable to producing engaging media as a Content Creator or Photographer. Mastering community management and KPI reporting also builds the strategic insight needed to thrive as a Media Professional."
     },
     {
-      "title": "Teacher Assistant",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/1961384",
-      "fit": 62,
-      "job_type": "goal",
+      "title": "Graphic Designer",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/08A3D77389",
+      "fit": 52,
+      "job_type": "bridge",
       "subdomain": "graphic-design",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "function": "design",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.364,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.5,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.235,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 8,
+        "hyper_N": 1043,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Teacher assistant role, no age restriction.",
-      "bridge": "As a Teacher Assistant, you're honing active listening and critical thinking, which are essential for understanding audience needs in content creation. Your monitoring and learning strategies will help you adapt quickly to new media tools, while your existing skills in instructing and fine arts directly translate to crafting engaging visual stories."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Graphic Designer, you'll build transferable skills in Adobe Creative Suite, typography, and layout—directly applicable to creating polished content and photography portfolios for your aspirational roles."
+    },
+    {
+      "title": "Graphic Designer KZ",
+      "company": "academyofdigitalindustries",
+      "url": "https://academyofdigitalindustries.recruitee.com/o/graphic-designer-kz",
+      "fit": 52,
+      "job_type": "bridge",
+      "subdomain": "graphic-design",
+      "function": "design",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Graphic design, no age restrictions.",
+      "cross_function": false,
+      "bridge": "As a Graphic Designer, you'll build design software proficiency and brand identity skills that are directly transferable to content creation and photography, while your layout and digital design expertise will give you a strong foundation for media production."
+    },
+    {
+      "title": "Social Media Intern at BabyMD",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/86F3B8412E",
+      "fit": 52,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 13,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Social Media Intern at BabyMD, you'll build content-creation, video-editing, and brand-storytelling skills that directly transfer to your dream of being a Content Creator or Media Professional, while also strengthening your community-management and Adobe/Capcut expertise—all essential for photography and media roles."
+    },
+    {
+      "title": "Event and Content Coordinator",
+      "company": "guidebook",
+      "url": "https://careers.jobscore.com/careers/guidebook/jobs/event-and-content-coordinator-cYA6TpUl1k_OUJ300p5Kn2?ref=rss&sid=68",
+      "fit": 46,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 8,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Event and content coordination is suitable for minors/young adults.",
+      "cross_function": false,
+      "bridge": "As an Event and Content Coordinator, you'll build transferable skills in cross-functional communication and demand-generation that directly support your goal of becoming a Content Creator—these will help you collaborate with teams and understand audience needs. Additionally, your experience in content coordination and logistics will sharpen your project management and storytelling abilities, essential for a career in media or photography."
     }
   ],
   "aspirational": [
     {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 51,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
+      "title": "CMMC - Full Time Faculty - Media and Mass Communication",
+      "company": "americanuniversity",
+      "url": "https://AmericanUniversity.hire.trakstar.com/jobs/fk0ppeh/",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.455,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.3,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.083,
+        "skill_overlap": 0.082,
+        "skill_overlap_raw": 0.059,
+        "hyper_p_value": 0.00748731,
+        "hyper_k": 1,
+        "hyper_K": 2,
+        "hyper_n": 17,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     },
     {
-      "title": "Amazing Athletes Afterschool Community Service Instructor",
-      "company": "amazing-athletes-2",
-      "url": "https://apply.workable.com/j/BF1B41F39B",
+      "title": "LA Galaxy Academy, Academic Tutor (Part-Time)",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8550124002",
       "fit": 50,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
+      "job_type": "bridge",
+      "subdomain": "tutoring",
       "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
       "job_score_breakdown": {
-        "goal_alignment": 0.455,
+        "goal_alignment": 0.0,
         "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
-        "experience_alignment": 0.2,
-        "attainability": 0.65,
-        "skill_overlap": 0.0,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Community service instructor, no age restrictions."
-    },
-    {
-      "title": "Substitute Summer Camp Counselor, Southern California ",
-      "company": "GalileoLearning",
-      "url": "https://jobs.smartrecruiters.com/GalileoLearning/744000118696597",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "graphic-design",
-      "function": "education",
-      "why": "This role builds your Instructing, Customer and Personal Service, Fine Arts skills and moves you toward becoming a Content Creator.",
-      "gaps": "logistics, classroom-management, communication",
-      "job_score_breakdown": {
-        "goal_alignment": 0.273,
-        "study_alignment": 0.0,
-        "subdomain_alignment": 0.0,
-        "experience_alignment": 0.4,
+        "experience_alignment": 0.111,
         "attainability": 0.75,
         "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 9,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Summer camp counselor role is suitable for 16-20 year olds."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " 1st Grade Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777498003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": " Bilingual Part-Time Technology Trainer- Travel required",
+      "company": "consortium",
+      "url": "https://jobs.crelate.com/portal/consortium/job/3o9josybuc8c4ojmdxu6a1b3yo",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "1st/2nd Grade Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7778058003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "content-creation",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "adobe-creative-suite, canva, community-management",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
-  "skill_path": "You already have a strong foundation in instruction, creativity, and coordination. By focusing on logistics, classroom management, and communication, you'll bridge the gap to your dream careers in content creation, photography, and media. Keep building those bridge skills—you're closer than you think!",
+  "skill_path": "You already have a strong creative and communication foundation. By building digital design and content skills step by step, you'll be ready to launch your career as a Content Creator, Photographer, or Media Professional.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Instructing\n├── Customer and Personal Service\n├── Fine Arts\n├── Service Orientation\n├── Coordination\n├── Time Management\n├── Active Learning\n├── Foreign Language\n├── Bilingual\n├── Typing Skills\n├── Multitasking (implicit)\n├── Responsibility (implicit)\n└── Creativity (implicit)\n    ↓\nBRIDGE SKILLS\n├── Logistics\n├── Classroom Management\n└── Communication\n    ↓\nGOAL SKILLS\n├── Active Listening\n├── Band or Ensemble Support\n├── Basic Skills\n├── Bulletin Board Design\n└── Camp Activities\n    ↓\nDREAM CAREERS\n├── Content Creator\n├── Photographer\n└── Media Professional",
+    "tree": "Current Skills\n├── bilingual\n├── typing skills\n├── paint\n├── dance\n├── public speaking\n├── teamwork\n└── leadership\n    ↓\nBridge Skills\n├── adobe\n├── brand-identity\n├── brand-storytelling\n├── capcut\n└── color-theory\n    ↓\nGoal Skills\n├── adobe-creative-suite\n├── canva\n├── community-management\n├── content-creation\n├── illustrator\n├── content-coordination\n├── cross-functional-communication\n├── demand-generation\n├── event-planning\n└── internal-communication\n    ↓\nDream Careers\n├── Content Creator\n├── Photographer\n└── Media Professional",
     "steps": [
-      "Enroll in a free online course on logistics and project management (e.g., Coursera's 'Supply Chain Management').",
-      "Practice classroom management by volunteering as a teaching assistant or camp counselor.",
-      "Take a communication workshop or join Toastmasters to improve public speaking and interpersonal skills.",
-      "Develop active listening by attending networking events and practicing reflective listening exercises.",
-      "Build a portfolio by creating sample bulletin boards, camp activity plans, and multimedia content for social media."
+      "Start with free Adobe Creative Suite tutorials on YouTube to build foundational skills.",
+      "Take a Canva design course on Coursera to quickly create social media graphics.",
+      "Practice content creation by starting a blog or YouTube channel about your hobbies.",
+      "Learn community management by engaging in online forums or volunteering for a local group.",
+      "Develop brand storytelling by analyzing your favorite brands' content strategies."
     ],
-    "summary": "You already have a strong foundation in instruction, creativity, and coordination. By focusing on logistics, classroom management, and communication, you'll bridge the gap to your dream careers in content creation, photography, and media. Keep building those bridge skills—you're closer than you think!"
+    "summary": "You already have a strong creative and communication foundation. By building digital design and content skills step by step, you'll be ready to launch your career as a Content Creator, Photographer, or Media Professional."
   },
   "ideal_careers": [
     "Content Creator",
@@ -467,39 +856,38 @@
   ],
   "student_intent": {
     "goal_domains": [
-      "arts-media",
-      "education"
+      "arts-media"
     ],
     "goal_roles": [
-      "graphic designer",
-      "art teacher"
+      "Content Creator",
+      "Photographer"
     ],
     "goal_subdomains": [
-      "graphic-design",
-      "creative-education"
+      "content-creation"
     ],
     "study_domains": [
+      "finance",
       "arts-media"
     ],
     "study_subdomains": [
       "graphic-design"
     ],
     "study_program": "- TheFlushingInternationalHighSchool,Queens,NY",
-    "study_level": "",
-    "intent_confidence": 0.283,
-    "intent_strength": 0.483,
+    "study_level": "high-school",
+    "intent_confidence": 0.317,
+    "intent_strength": 0.517,
     "has_student_intent": true
   },
   "intent_summary": {
     "headline": "",
-    "summary_text": "Gain skills I can use at a future jobGet coaches and mentors who can help me with college and career, \nGain skills I can use at a future job, \nLearn about collegesLearn about colleges; Gain skills I can use at a future jobGet coaches and mentors who can help me with college and c",
-    "study_text": "- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023"
+    "summary_text": "Ideal careers: Content Creator, Photographer, Media Professional\n=== aylin_calderon_resume.pdf ===\nAylin Calderon\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com",
+    "study_text": "- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n- TheFlushingInternationalHi"
   },
   "signal_breakdown": {
     "aspiration": {
-      "arts-media": 24,
-      "finance": 12,
-      "personal-care": 10
+      "arts-media": 32,
+      "design": 13,
+      "finance": 10
     },
     "study": {
       "finance": 28,
@@ -531,16 +919,18 @@
     "arts-media",
     "education"
   ],
-  "subdomain": "graphic-design",
-  "subdomain_confidence": 1.0,
-  "subdomain_alternatives": [],
+  "subdomain": "content-creation",
+  "subdomain_confidence": 0.78,
+  "subdomain_alternatives": [
+    "graphic-design"
+  ],
   "lane_used": "rescue",
   "job_cluster": [
+    "content-creation",
     "graphic-design",
     "graphic-design",
-    "graphic-design",
-    "graphic-design",
-    "graphic-design"
+    "content-creation",
+    "content-creation"
   ],
   "needs_review": true,
   "review_reasons": [],
@@ -548,104 +938,124 @@
     "route": {
       "accepted": true,
       "chosen_function": "arts-media",
-      "chosen_subdomain": "graphic-design",
+      "chosen_subdomain": "content-creation",
       "secondary_function": "education",
       "goal_domains": [
-        "arts-media",
-        "education"
-      ],
-      "study_domains": [
         "arts-media"
       ],
+      "study_domains": [],
       "goal_subdomains": [
-        "graphic-design",
-        "creative-education"
+        "content-creation"
       ],
-      "study_subdomains": [
-        "graphic-design"
-      ],
+      "study_subdomains": [],
       "goal_roles": [
-        "graphic designer",
-        "art teacher"
+        "Content Creator",
+        "Photographer"
       ],
-      "confidence": 0.65,
+      "confidence": 0.78,
       "evidence_spans": [
         {
           "section": "experience",
-          "text": "Little Pulp Arts Center, Glendale, NY Intern - Helped children learn to paint - Cleaned exhibits - Painted posters"
+          "text": "Helped children learn to paint"
         },
         {
-          "section": "skills",
-          "text": "HOBBIES & INTERESTS - Playing soccer - Graphic designing - Videogaming"
+          "section": "summary_text",
+          "text": "Ideal careers: Content Creator, Photographer, Media Professional"
         }
       ],
       "reason_codes": [
-        "explicit interest in graphic design",
-        "arts internship experience",
-        "education-related experience with children"
+        "explicit_goal_supported_by_experience",
+        "arts_media_evidence"
       ],
       "review_reasons": []
     },
     "evidence": {
       "accepted": true,
-      "scored_skills": [
-        "Instructing",
-        "Customer and Personal Service",
-        "Fine Arts",
-        "Service Orientation",
-        "Coordination",
-        "Time Management",
-        "Active Learning",
-        "Foreign Language",
-        "bilingual",
-        "typingskills"
-      ],
-      "verified_skills": [
-        "Instructing",
-        "Customer and Personal Service",
-        "Fine Arts",
-        "Service Orientation",
-        "Coordination",
-        "Time Management",
-        "Active Learning",
-        "Foreign Language",
-        "bilingual",
-        "typingskills"
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Experience with exhibits likely involved presenting information.",
+          "skill": "public speaking"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Participation in games suggests collaboration.",
+          "skill": "teamwork"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Involvement in extracurricular activities often requires leading or coordinating.",
+          "skill": "leadership"
+        }
       ],
       "possible_skills": [],
       "rejected_skills": [
         "care",
         "cat",
-        "dance",
         "exhibits",
         "extracurricular activities",
         "games",
         "high school",
         "meals",
-        "paint",
         "sitter"
       ],
-      "implicit_skills": [
-        {
-          "skill": "Multitasking",
-          "reason": "Managing multiple activities like care, meals, and extracurriculars suggests multitasking ability.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Responsibility",
-          "reason": "Roles like sitter and care imply responsibility for others.",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Creativity",
-          "reason": "Activities like dance, paint, and games indicate creative skills.",
-          "confidence": "medium"
-        }
+      "review_reasons": [],
+      "scored_skills": [
+        "bilingual",
+        "typing skills",
+        "paint",
+        "dance"
       ],
-      "evidence_items": [],
-      "review_reasons": []
+      "verified_skills": [
+        "bilingual",
+        "typing skills",
+        "paint",
+        "dance"
+      ]
     }
   },
+  "classifier_top_function": {
+    "arts-media": 35,
+    "finance": 12,
+    "education": 11
+  },
+  "cross_functions_explored": [
+    "healthcare",
+    "social-service",
+    "social-service",
+    "hospitality",
+    "hospitality"
+  ],
+  "cross_function_count": 5,
+  "cross_function_jobs": [
+    {
+      "title": "Substitute Group Exercise Instructor",
+      "function": "healthcare",
+      "fit": 13
+    },
+    {
+      "title": "Professional Dance Performer and Dance Instructor we will train you",
+      "function": "social-service",
+      "fit": 15
+    },
+    {
+      "title": "Are you interested in a career in Dance. FULL TIME only",
+      "function": "social-service",
+      "fit": 14
+    },
+    {
+      "title": "Member Experience Specialist",
+      "function": "hospitality",
+      "fit": 11
+    },
+    {
+      "title": "Theatre Technician",
+      "function": "hospitality",
+      "fit": 10
+    }
+  ],
+  "explore_jobs": [],
   "llm_trace": [
     {
       "stage": "route",

@@ -7,128 +7,28 @@
     "api development",
     "css",
     "csv",
-    "data",
     "data storage",
-    "design",
-    "development",
-    "development process",
-    "python",
-    "java",
-    "javascript",
-    "html",
-    "html css",
-    "json",
-    "linux",
-    "linux ubuntu",
-    "macos",
-    "operating systems",
-    "operating systems windows",
-    "programming",
-    "programming languages",
-    "project management",
-    "project management software",
-    "cybersecurity",
-    "database",
-    "database systems",
-    "frontend",
-    "frontend development",
-    "gui",
-    "object oriented",
-    "object oriented design",
-    "quality control analysis",
-    "complex problem solving",
-    "critical thinking",
-    "active listening",
-    "writing",
-    "coordination",
-    "programming",
-    "computers and electronics"
+    "development process"
   ],
   "verified_skills": [
     "api",
     "api development",
     "css",
     "csv",
-    "data",
     "data storage",
-    "design",
-    "development",
-    "development process",
-    "python",
-    "java",
-    "javascript",
-    "html",
-    "html css",
-    "json",
-    "linux",
-    "linux ubuntu",
-    "macos",
-    "operating systems",
-    "operating systems windows",
-    "programming",
-    "programming languages",
-    "project management",
-    "project management software",
-    "cybersecurity",
-    "database",
-    "database systems",
-    "frontend",
-    "frontend development",
-    "gui",
-    "object oriented",
-    "object oriented design",
-    "quality control analysis",
-    "complex problem solving",
-    "critical thinking",
-    "active listening",
-    "writing",
-    "coordination",
-    "programming",
-    "computers and electronics"
+    "development process"
   ],
   "possible_skills": [],
   "rejected_skills": [
-    "bachelor",
     "book management",
     "centers",
     "code",
     "combine",
-    "computer",
-    "computer systems",
-    "computing",
     "control",
-    "controls",
-    "coursework",
-    "design software",
-    "development process",
-    "digital",
-    "display",
-    "driven",
-    "engineer",
-    "engineering",
-    "event driven",
-    "export",
-    "feedback",
-    "friendly",
-    "full time",
-    "import export",
-    "integration",
-    "internship",
-    "labels",
-    "languages",
-    "local",
-    "maintenance",
-    "management",
-    "music",
-    "next",
-    "oct",
-    "physical",
-    "platform",
-    "program",
-    "project",
-    "project management software",
-    "projects",
-    "protocols"
+    "data",
+    "design",
+    "development",
+    "digital"
   ],
   "skill_weights": {},
   "market_relevant": [
@@ -136,106 +36,156 @@
     "api development",
     "css",
     "csv",
-    "data",
     "data storage",
-    "design",
-    "development",
-    "development process",
-    "python",
-    "java",
-    "javascript",
-    "html",
-    "html css",
-    "json",
-    "linux",
-    "linux ubuntu",
-    "macos",
-    "operating systems",
-    "operating systems windows",
-    "programming",
-    "programming languages",
-    "project management",
-    "project management software",
-    "cybersecurity",
-    "database",
-    "database systems",
-    "frontend",
-    "frontend development",
-    "gui",
-    "object oriented",
-    "object oriented design",
-    "quality control analysis",
-    "complex problem solving",
-    "critical thinking",
-    "active listening",
-    "writing",
-    "coordination",
-    "programming",
-    "computers and electronics"
+    "development process"
   ],
   "inferred": [
-    "teamwork",
-    "problem solving",
-    "attention to detail"
+    "Java",
+    "JavaScript",
+    "Python"
   ],
   "implicit_skills": [
     {
-      "skill": "teamwork",
-      "reason": "Coordination and collaboration implied by internship and project experience",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Inferred from listed programming languages in the broader skill set",
+      "skill": "Java"
     },
     {
-      "skill": "problem solving",
-      "reason": "Critical thinking and complex problem solving are listed as skills",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Inferred from listed programming languages in the broader skill set",
+      "skill": "JavaScript"
     },
     {
-      "skill": "attention to detail",
-      "reason": "Quality control analysis and data management suggest detail orientation",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Inferred from listed programming languages in the broader skill set",
+      "skill": "Python"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "sql",
-    "csharp",
-    "dotnet",
-    "react"
+    "ai-training",
+    "ai-evaluation",
+    "operational-excellence",
+    "quality-assurance"
   ],
   "core_gaps": [
-    "sql",
-    "csharp",
-    "dotnet",
-    "react"
+    "ai-training",
+    "ai-evaluation",
+    "operational-excellence",
+    "quality-assurance"
   ],
-  "bridge_gaps": [],
-  "stretch_gaps": [
-    "angular",
-    "back-end",
-    "c++",
-    "docker",
-    "fastapi",
-    "front-end",
-    "full-stack",
-    "js",
-    "kubernetes",
-    "php"
+  "bridge_gaps": [
+    "ai-reasoning",
+    "ai-scenarios",
+    "ai-standards",
+    "ai-testing",
+    "automation",
+    "aws",
+    "azure",
+    "ci/cd",
+    "cloud-architecture",
+    "cloud-computing"
   ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
-    "angular",
-    "back-end",
-    "c++",
-    "docker",
-    "fastapi",
-    "front-end",
-    "full-stack",
-    "js",
-    "kubernetes",
-    "php"
+    "ai-reasoning",
+    "ai-scenarios",
+    "ai-standards",
+    "ai-testing",
+    "automation",
+    "aws",
+    "azure",
+    "ci/cd",
+    "cloud-architecture",
+    "cloud-computing"
   ],
-  "verify_gaps": [],
-  "related": [],
-  "related_skills": [],
+  "verify_gaps": [
+    "python"
+  ],
+  "related": [
+    {
+      "skill": "webdevelopment",
+      "pmi": 4.75
+    },
+    {
+      "skill": "html",
+      "pmi": 4.63
+    },
+    {
+      "skill": "usability",
+      "pmi": 4.06
+    },
+    {
+      "skill": "responsivedesign",
+      "pmi": 3.8
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.65
+    },
+    {
+      "skill": "webdesign",
+      "pmi": 3.18
+    },
+    {
+      "skill": "figma",
+      "pmi": 2.03
+    },
+    {
+      "skill": "layout",
+      "pmi": 1.36
+    },
+    {
+      "skill": "adobecreativesuite",
+      "pmi": 1.12
+    },
+    {
+      "skill": "communication",
+      "pmi": 0.57
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "webdevelopment",
+      "pmi": 4.75
+    },
+    {
+      "skill": "html",
+      "pmi": 4.63
+    },
+    {
+      "skill": "usability",
+      "pmi": 4.06
+    },
+    {
+      "skill": "responsivedesign",
+      "pmi": 3.8
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.65
+    },
+    {
+      "skill": "webdesign",
+      "pmi": 3.18
+    },
+    {
+      "skill": "figma",
+      "pmi": 2.03
+    },
+    {
+      "skill": "layout",
+      "pmi": 1.36
+    },
+    {
+      "skill": "adobecreativesuite",
+      "pmi": 1.12
+    },
+    {
+      "skill": "communication",
+      "pmi": 0.57
+    }
+  ],
   "alternatives": [
     {
       "function": "design",
@@ -243,255 +193,501 @@
     },
     {
       "function": "arts-media",
-      "pct": 5
+      "pct": 4
     },
     {
       "function": "education",
       "pct": 4
     }
   ],
-  "coach_notes": "For a technology path, focus first on sql, csharp, dotnet. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a technology path, focus first on ai-training, ai-evaluation, operational-excellence. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Associate Software Development Engineer",
-      "company": "boeing",
-      "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Associate-Software-Development-Engineer_JR2026515830-1",
-      "fit": 88,
+      "title": "Junior AV Software Developer of Modules, Drivers, and Plugins",
+      "company": "controlconceptsinc",
+      "url": "https://careers.jobscore.com/careers/controlconceptsinc/jobs/junior-av-software-developer-of-modules-drivers-and-plugins-cxIpwKYUDnalv3jWt9Gb4q?ref=rss&sid=68",
+      "fit": 68,
       "job_type": "goal",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
       "job_score_breakdown": {
-        "goal_alignment": 0.857,
-        "study_alignment": 0.857,
-        "subdomain_alignment": 0.474,
-        "experience_alignment": 0.381,
+        "goal_alignment": 0.286,
+        "study_alignment": 0.429,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Software development roles are suitable for 16-20 year olds.",
-      "bridge": "As an Associate Software Development Engineer, you'll deepen your object-oriented design and full-stack skills (C#, .NET, Java, SQL, Docker) which are directly transferable to Software Engineering roles, while also building the systematic problem-solving and technical communication needed for IT Support Specialist positions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your Junior AV Software Developer role sharpens C#, Python, and OOP skills that are core to software engineering, while your work with TCP/IP and web technologies builds the networking and API expertise essential for IT support. Each project you complete adds transferable skills that bring your dream career closer."
     },
     {
-      "title": "Web Developer",
-      "company": "trexsolutions",
-      "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8566159002",
-      "fit": 88,
-      "job_type": "goal",
-      "subdomain": "systems",
-      "function": "engineering",
-      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
-      "job_score_breakdown": {
-        "goal_alignment": 0.857,
-        "study_alignment": 0.857,
-        "subdomain_alignment": 0.333,
-        "experience_alignment": 0.381,
-        "attainability": 0.75,
-        "skill_overlap": 0.333,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Web developer role, no age restrictions.",
-      "bridge": "As a Web Developer, you'll deepen your expertise in API development and data storage, while gaining hands-on experience with languages like Python and Java—directly transferable to Software Engineering roles. These skills also strengthen your IT Support capabilities by enhancing your understanding of system integration and troubleshooting."
-    },
-    {
-      "title": "Software Engineer",
-      "company": "leidos",
-      "url": "https://leidos.wd5.myworkdayjobs.com/job/Reston-VA/Software-Engineer_R-00186022",
-      "fit": 80,
+      "title": "Embedded Software Engineer ",
+      "company": "10beauty",
+      "url": "https://job-boards.greenhouse.io/10beauty/jobs/5138228007",
+      "fit": 63,
       "job_type": "goal",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
       "job_score_breakdown": {
-        "goal_alignment": 0.714,
-        "study_alignment": 0.714,
-        "subdomain_alignment": 0.439,
-        "experience_alignment": 0.405,
-        "attainability": 0.65,
-        "skill_overlap": 0.182,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Software engineer roles are suitable for young adults."
-    },
-    {
-      "title": "Software Engineer, New Grad",
-      "company": "ixllearning",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8574194002",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "software",
-      "function": "engineering",
-      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
-      "job_score_breakdown": {
-        "goal_alignment": 0.714,
-        "study_alignment": 0.714,
-        "subdomain_alignment": 0.52,
-        "experience_alignment": 0.286,
-        "attainability": 0.65,
-        "skill_overlap": 0.286,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "New grad software engineer roles are suitable for recent grads."
-    },
-    {
-      "title": "UI Developer",
-      "company": "redhorsecorp",
-      "url": "https://jobs.lever.co/redhorsecorp/43bb7d3e-9b76-4929-93f3-ec38e31fb170",
-      "fit": 80,
-      "job_type": "goal",
-      "subdomain": "software",
-      "function": "engineering",
-      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
-      "job_score_breakdown": {
-        "goal_alignment": 0.429,
-        "study_alignment": 0.571,
+        "goal_alignment": 0.286,
+        "study_alignment": 0.429,
         "subdomain_alignment": 0.667,
-        "experience_alignment": 0.444,
-        "attainability": 0.85,
-        "skill_overlap": 0.556,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 8,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "UI Developer role does not involve age-restricted activities."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As an Embedded Software Engineer, you'll deepen your C/C++ and Linux skills, which are foundational for software engineering, while also gaining experience with hardware interfacing and RTOS—transferable to IT support roles where understanding system-level interactions is key."
+    },
+    {
+      "title": "Newcastle Technology Degree Apprenticeship 2027: Software Engineering Specialism",
+      "company": "accenture",
+      "url": "https://accenture.pinpointhq.com/en/postings/96ab8f41-1fa3-41aa-9fc1-008d07604b94",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.286,
+        "study_alignment": 0.429,
+        "subdomain_alignment": 0.571,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 8,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your Newcastle apprenticeship will deepen your existing API and development skills while adding Java, Python, and cloud expertise—directly transferable to any Software Engineer role. Mastering DevOps and security now gives you a practical edge for IT Support or broader engineering careers."
+    },
+    {
+      "title": "Embedded Software Engineering Intern - Fall",
+      "company": "AtomicSemi",
+      "url": "https://jobs.ashbyhq.com/AtomicSemi/de448098-ffc6-4b99-b341-d6a5874f390f",
+      "fit": 61,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.286,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.7,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your embedded systems internship will sharpen your low-level programming in C/C++ and Linux, skills that directly transfer to software engineering roles, while your experience with RTOS and microcontrollers builds the system-level thinking and debugging discipline essential for IT support. These technical foundations make you a stronger, more versatile engineer."
+    },
+    {
+      "title": "SaaS Support Engineer Internship",
+      "company": "3e",
+      "url": "https://apply.workable.com/j/A54691B31D",
+      "fit": 60,
+      "job_type": "bridge",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.046,
+        "skill_overlap_raw": 0.05,
+        "hyper_p_value": null,
+        "hyper_k": 1,
+        "hyper_K": 0,
+        "hyper_n": 20,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your SaaS Support Engineer Internship sharpens analytical skills and communication, which are crucial for debugging and collaborating in software engineering. The customer-orientation and proactive attitude you'll develop are directly transferable to understanding user needs and iterating on solutions as a Software Engineer."
+    },
+    {
+      "title": " AI Platform Engineer",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1554138f-15dc-4225-93cc-44b64f2540ed",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Process Engineering Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/197210fb-4c11-4dee-a36a-2ab5ac4f8879",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Machine Learning Operations Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/2f0ea6ed-0a85-40af-9058-8638df6e3b6a",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Senior Infrastructure Optimization Specialist - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/35dd2a12-e2e4-44d6-ab52-80744726e117",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "AI Specialist - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/3c053f18-838a-4e58-8b06-46228c57dc54",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "Associate Software Development Engineer",
-      "company": "boeing",
-      "url": "https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Associate-Software-Development-Engineer_JR2026515830-1",
-      "fit": 88,
+      "title": "Junior AV Software Developer of Modules, Drivers, and Plugins",
+      "company": "controlconceptsinc",
+      "url": "https://careers.jobscore.com/careers/controlconceptsinc/jobs/junior-av-software-developer-of-modules-drivers-and-plugins-cxIpwKYUDnalv3jWt9Gb4q?ref=rss&sid=68",
+      "fit": 68,
       "job_type": "goal",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
       "job_score_breakdown": {
-        "goal_alignment": 0.857,
-        "study_alignment": 0.857,
-        "subdomain_alignment": 0.474,
-        "experience_alignment": 0.381,
+        "goal_alignment": 0.286,
+        "study_alignment": 0.429,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.2,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Software development roles are suitable for 16-20 year olds.",
-      "bridge": "As an Associate Software Development Engineer, you'll deepen your object-oriented design and full-stack skills (C#, .NET, Java, SQL, Docker) which are directly transferable to Software Engineering roles, while also building the systematic problem-solving and technical communication needed for IT Support Specialist positions."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your Junior AV Software Developer role sharpens C#, Python, and OOP skills that are core to software engineering, while your work with TCP/IP and web technologies builds the networking and API expertise essential for IT support. Each project you complete adds transferable skills that bring your dream career closer."
     },
     {
-      "title": "Web Developer",
-      "company": "trexsolutions",
-      "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8566159002",
-      "fit": 88,
+      "title": "Embedded Software Engineer ",
+      "company": "10beauty",
+      "url": "https://job-boards.greenhouse.io/10beauty/jobs/5138228007",
+      "fit": 63,
       "job_type": "goal",
-      "subdomain": "systems",
+      "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
       "job_score_breakdown": {
-        "goal_alignment": 0.857,
-        "study_alignment": 0.857,
-        "subdomain_alignment": 0.333,
-        "experience_alignment": 0.381,
+        "goal_alignment": 0.286,
+        "study_alignment": 0.429,
+        "subdomain_alignment": 0.667,
+        "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.333,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 8,
+        "hyper_N": 0,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Web developer role, no age restrictions.",
-      "bridge": "As a Web Developer, you'll deepen your expertise in API development and data storage, while gaining hands-on experience with languages like Python and Java—directly transferable to Software Engineering roles. These skills also strengthen your IT Support capabilities by enhancing your understanding of system integration and troubleshooting."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As an Embedded Software Engineer, you'll deepen your C/C++ and Linux skills, which are foundational for software engineering, while also gaining experience with hardware interfacing and RTOS—transferable to IT support roles where understanding system-level interactions is key."
+    },
+    {
+      "title": "Newcastle Technology Degree Apprenticeship 2027: Software Engineering Specialism",
+      "company": "accenture",
+      "url": "https://accenture.pinpointhq.com/en/postings/96ab8f41-1fa3-41aa-9fc1-008d07604b94",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.286,
+        "study_alignment": 0.429,
+        "subdomain_alignment": 0.571,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 8,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your Newcastle apprenticeship will deepen your existing API and development skills while adding Java, Python, and cloud expertise—directly transferable to any Software Engineer role. Mastering DevOps and security now gives you a practical edge for IT Support or broader engineering careers."
+    },
+    {
+      "title": "Embedded Software Engineering Intern - Fall",
+      "company": "AtomicSemi",
+      "url": "https://jobs.ashbyhq.com/AtomicSemi/de448098-ffc6-4b99-b341-d6a5874f390f",
+      "fit": 61,
+      "job_type": "goal",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.286,
+        "study_alignment": 0.286,
+        "subdomain_alignment": 0.7,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your embedded systems internship will sharpen your low-level programming in C/C++ and Linux, skills that directly transfer to software engineering roles, while your experience with RTOS and microcontrollers builds the system-level thinking and debugging discipline essential for IT support. These technical foundations make you a stronger, more versatile engineer."
+    },
+    {
+      "title": "SaaS Support Engineer Internship",
+      "company": "3e",
+      "url": "https://apply.workable.com/j/A54691B31D",
+      "fit": 60,
+      "job_type": "bridge",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "goal_alignment": 0.143,
+        "study_alignment": 0.143,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.046,
+        "skill_overlap_raw": 0.05,
+        "hyper_p_value": null,
+        "hyper_k": 1,
+        "hyper_K": 0,
+        "hyper_n": 20,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your SaaS Support Engineer Internship sharpens analytical skills and communication, which are crucial for debugging and collaborating in software engineering. The customer-orientation and proactive attitude you'll develop are directly transferable to understanding user needs and iterating on solutions as a Software Engineer."
     }
   ],
   "aspirational": [
     {
-      "title": "Software Engineer",
-      "company": "leidos",
-      "url": "https://leidos.wd5.myworkdayjobs.com/job/Reston-VA/Software-Engineer_R-00186022",
+      "title": " AI Platform Engineer",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1554138f-15dc-4225-93cc-44b64f2540ed",
       "fit": 80,
-      "job_type": "goal",
+      "job_type": "",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
       "job_score_breakdown": {
-        "goal_alignment": 0.714,
-        "study_alignment": 0.714,
-        "subdomain_alignment": 0.439,
-        "experience_alignment": 0.405,
-        "attainability": 0.65,
-        "skill_overlap": 0.182,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "Software engineer roles are suitable for young adults."
+      "eligibility_reason": "",
+      "cross_function": false
     },
     {
-      "title": "Software Engineer, New Grad",
-      "company": "ixllearning",
-      "url": "https://www.ixl.com/company/jobs?gh_jid=8574194002",
+      "title": "Process Engineering Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/197210fb-4c11-4dee-a36a-2ab5ac4f8879",
       "fit": 80,
-      "job_type": "goal",
+      "job_type": "",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
       "job_score_breakdown": {
-        "goal_alignment": 0.714,
-        "study_alignment": 0.714,
-        "subdomain_alignment": 0.52,
-        "experience_alignment": 0.286,
-        "attainability": 0.65,
-        "skill_overlap": 0.286,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "New grad software engineer roles are suitable for recent grads."
+      "eligibility_reason": "",
+      "cross_function": false
     },
     {
-      "title": "UI Developer",
-      "company": "redhorsecorp",
-      "url": "https://jobs.lever.co/redhorsecorp/43bb7d3e-9b76-4929-93f3-ec38e31fb170",
+      "title": "Machine Learning Operations Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/2f0ea6ed-0a85-40af-9058-8638df6e3b6a",
       "fit": 80,
-      "job_type": "goal",
+      "job_type": "",
       "subdomain": "software",
       "function": "engineering",
       "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
-      "gaps": "sql, csharp, dotnet",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
       "job_score_breakdown": {
-        "goal_alignment": 0.429,
-        "study_alignment": 0.571,
-        "subdomain_alignment": 0.667,
-        "experience_alignment": 0.444,
-        "attainability": 0.85,
-        "skill_overlap": 0.556,
-        "quality_penalty": 0.0
+        "source": "mid_level"
       },
       "eligible": true,
-      "eligibility_reason": "UI Developer role does not involve age-restricted activities."
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Senior Infrastructure Optimization Specialist - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/35dd2a12-e2e4-44d6-ab52-80744726e117",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "AI Specialist - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/3c053f18-838a-4e58-8b06-46228c57dc54",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "software",
+      "function": "engineering",
+      "why": "This role builds your api, api development, css skills and moves you toward becoming a Engineering.",
+      "gaps": "ai-training, ai-evaluation, operational-excellence",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
     }
   ],
-  "skill_path": "You already have a strong foundation in Python and data handling. By adding SQL, C#, .NET, and React, you'll unlock roles in software engineering and IT support. Keep building projects to solidify these skills!",
+  "skill_path": "You already have a solid foundation in APIs and development. By bridging into AI and automation, you'll unlock roles in engineering and IT support. Keep building, and your dream career is within reach!",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── api\n├── api development\n├── css\n├── csv\n├── data\n├── data storage\n├── design\n├── development\n├── development process\n├── python\n├── teamwork (implicit)\n├── problem solving (implicit)\n└── attention to detail (implicit)\n│\n├── BRIDGE SKILLS\n│   ├── sql\n│   ├── csharp\n│   ├── dotnet\n│   └── react\n│\n├── GOAL SKILLS\n│   ├── angular\n│   ├── back-end\n│   ├── c++\n│   ├── docker\n│   └── fastapi\n│\n└── CAREER\n    ├── Engineering\n    ├── Software Engineer\n    └── IT Support Specialist",
+    "tree": "CURRENT SKILLS\n├── api\n├── api development\n├── css\n├── csv\n├── data storage\n├── development process\n├── Java (implicit)\n├── JavaScript (implicit)\n└── Python (implicit)\n    ↓\nBRIDGE SKILLS\n├── ai-reasoning\n├── ai-scenarios\n├── ai-standards\n├── ai-testing\n└── automation\n    ↓\nGOAL SKILLS\n├── ai-training\n├── ai-evaluation\n├── operational-excellence\n└── quality-assurance\n    ↓\nCAREER PATHS\n├── Engineering\n├── Software Engineer\n└── IT Support Specialist",
     "steps": [
-      "Take a free SQL course on Khan Academy to learn database querying.",
-      "Build a small project using Python and SQL to integrate data storage.",
-      "Learn C# basics with Microsoft Learn's C# for Beginners path.",
-      "Create a simple web app using React by following the official tutorial.",
-      "Explore .NET by building a REST API with C# and connecting it to a React frontend."
+      "1. Take a free online Python course (e.g., Codecademy) to solidify your implicit Python skills.",
+      "2. Learn automation basics by completing an 'Automation with Python' tutorial on YouTube.",
+      "3. Explore AI concepts by taking an 'Introduction to AI' course on Coursera, focusing on training and evaluation.",
+      "4. Practice quality assurance by contributing to an open-source project on GitHub, writing test cases.",
+      "5. Build a portfolio project that combines API development, automation, and AI evaluation, then apply for internships."
     ],
-    "summary": "You already have a strong foundation in Python and data handling. By adding SQL, C#, .NET, and React, you'll unlock roles in software engineering and IT support. Keep building projects to solidify these skills!"
+    "summary": "You already have a solid foundation in APIs and development. By bridging into AI and automation, you'll unlock roles in engineering and IT support. Keep building, and your dream career is within reach!"
   },
   "ideal_careers": [
     "Engineering",
@@ -503,74 +699,75 @@
       "technology"
     ],
     "goal_roles": [
-      "software engineer"
+      "engineer",
+      "intern"
     ],
     "goal_subdomains": [
-      "software"
+      "software",
+      "engineering"
     ],
     "study_domains": [
       "technology"
     ],
     "study_subdomains": [
+      "engineering",
       "software"
     ],
     "study_program": "Bachelor of Science, Software Engineering | Anticipated May 2027",
     "study_level": "bachelor",
-    "intent_confidence": 1.063,
+    "intent_confidence": 1.098,
     "intent_strength": 1.0,
     "has_student_intent": true
   },
   "intent_summary": {
-    "headline": "Software Engineering Student at Rochester Institute of Technology | Dean's List",
-    "summary_text": "Software Engineering Student at Rochester Institute of Technology | Dean's List\nGain skills I can use at a future jobGain skills I can use at a future job, \nLearn about careersLearn about careers\n\nGet an Internship; Gain skills I can use at a future jobGain skills I can use at a ",
+    "headline": "",
+    "summary_text": "Ideal careers: Engineering, Software Engineer, IT Support Specialist\n=== Devin Rhodie - Resume.pdf ===\nDevin Rhodie\n516-402-0127  •  dkr1418@rit.edu  •  www.linkedin.com/in/devin-rhodie-858bb5267\nSoftware Engineering student seeking a full-time co-op/internship in software\ndevelo",
     "study_text": "Bachelor of Science, Software Engineering | Anticipated May 2027\n**Rochester Institute of Technology** — Golisano College of Computing and Information Sciences\nBachelor of Science, Software Engineering | Anticipated May 2027\nGPA: 3.0 | Dean's List (Spring 2025) | ENGAGE Scholarsh"
   },
   "signal_breakdown": {
     "aspiration": {
-      "technology": 76,
-      "design": 7,
-      "education": 6
+      "technology": 78,
+      "design": 8,
+      "education": 5
     },
     "study": {
-      "technology": 106,
-      "design": 9,
-      "arts-media": 2
+      "technology": 110,
+      "logistics": 3,
+      "finance": 2
     },
     "classifier": {
-      "technology": 77,
+      "technology": 76,
       "arts-media": 7,
       "design": 3
     },
     "onet": {
-      "technology": 28,
-      "education": 14,
+      "technology": 29,
+      "education": 13,
       "healthcare": 13
     },
     "embeddings": {
-      "technology": 9,
+      "technology": 8,
       "design": 8,
       "arts-media": 6
     },
-    "experience": {
-      "technology": 62,
-      "arts-media": 10,
-      "education": 7
-    }
+    "experience": {}
   },
   "candidate_functions": [
     "technology",
-    "design"
+    "design",
+    "arts-media"
   ],
   "subdomain": "software",
-  "subdomain_confidence": 0.95,
+  "subdomain_confidence": 0.72,
   "subdomain_alternatives": [
-    "software",
-    "systems"
+    "engineering",
+    "systems",
+    "it-support"
   ],
   "lane_used": "rescue",
   "job_cluster": [
     "software",
-    "systems",
+    "software",
     "software",
     "software",
     "software"
@@ -578,201 +775,67 @@
   "needs_review": false,
   "review_reasons": [],
   "llm_stage_results": {
-    "route": {
-      "accepted": true,
-      "chosen_function": "technology",
-      "chosen_subdomain": "software",
-      "secondary_function": "design",
-      "goal_domains": [
-        "technology"
-      ],
-      "study_domains": [
-        "technology"
-      ],
-      "goal_subdomains": [
-        "software"
-      ],
-      "study_subdomains": [
-        "software"
-      ],
-      "goal_roles": [
-        "software engineer"
-      ],
-      "confidence": 0.95,
-      "evidence_spans": [
-        {
-          "section": "experience",
-          "text": "Contributed to development and maintenance of SCOOPortal, a web application supporting RIT SCOOP for students and faculty."
-        },
-        {
-          "section": "experience",
-          "text": "Created a web application using HTML and JavaScript to display local recycling centers."
-        }
-      ],
-      "reason_codes": [
-        "explicit_goal",
-        "strong_experience",
-        "education_alignment"
-      ],
-      "review_reasons": []
-    },
     "evidence": {
       "accepted": true,
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Inferred from listed programming languages in the broader skill set",
+          "skill": "Java"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Inferred from listed programming languages in the broader skill set",
+          "skill": "JavaScript"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Inferred from listed programming languages in the broader skill set",
+          "skill": "Python"
+        }
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "book management",
+        "centers",
+        "code",
+        "combine",
+        "control",
+        "data",
+        "design",
+        "development",
+        "digital"
+      ],
+      "review_reasons": [],
       "scored_skills": [
         "api",
         "api development",
         "css",
         "csv",
-        "data",
         "data storage",
-        "design",
-        "development",
-        "development process",
-        "python",
-        "java",
-        "javascript",
-        "html",
-        "html css",
-        "json",
-        "linux",
-        "linux ubuntu",
-        "macos",
-        "operating systems",
-        "operating systems windows",
-        "programming",
-        "programming languages",
-        "project management",
-        "project management software",
-        "cybersecurity",
-        "database",
-        "database systems",
-        "frontend",
-        "frontend development",
-        "gui",
-        "object oriented",
-        "object oriented design",
-        "quality control analysis",
-        "complex problem solving",
-        "critical thinking",
-        "active listening",
-        "writing",
-        "coordination",
-        "programming",
-        "computers and electronics"
+        "development process"
       ],
       "verified_skills": [
         "api",
         "api development",
         "css",
         "csv",
-        "data",
         "data storage",
-        "design",
-        "development",
-        "development process",
-        "python",
-        "java",
-        "javascript",
-        "html",
-        "html css",
-        "json",
-        "linux",
-        "linux ubuntu",
-        "macos",
-        "operating systems",
-        "operating systems windows",
-        "programming",
-        "programming languages",
-        "project management",
-        "project management software",
-        "cybersecurity",
-        "database",
-        "database systems",
-        "frontend",
-        "frontend development",
-        "gui",
-        "object oriented",
-        "object oriented design",
-        "quality control analysis",
-        "complex problem solving",
-        "critical thinking",
-        "active listening",
-        "writing",
-        "coordination",
-        "programming",
-        "computers and electronics"
-      ],
-      "possible_skills": [],
-      "rejected_skills": [
-        "bachelor",
-        "book management",
-        "centers",
-        "code",
-        "combine",
-        "computer",
-        "computer systems",
-        "computing",
-        "control",
-        "controls",
-        "coursework",
-        "design software",
-        "development process",
-        "digital",
-        "display",
-        "driven",
-        "engineer",
-        "engineering",
-        "event driven",
-        "export",
-        "feedback",
-        "friendly",
-        "full time",
-        "import export",
-        "integration",
-        "internship",
-        "labels",
-        "languages",
-        "local",
-        "maintenance",
-        "management",
-        "music",
-        "next",
-        "oct",
-        "physical",
-        "platform",
-        "program",
-        "project",
-        "project management software",
-        "projects",
-        "protocols"
-      ],
-      "implicit_skills": [
-        {
-          "skill": "teamwork",
-          "reason": "Coordination and collaboration implied by internship and project experience",
-          "confidence": "medium"
-        },
-        {
-          "skill": "problem solving",
-          "reason": "Critical thinking and complex problem solving are listed as skills",
-          "confidence": "medium"
-        },
-        {
-          "skill": "attention to detail",
-          "reason": "Quality control analysis and data management suggest detail orientation",
-          "confidence": "medium"
-        }
-      ],
-      "evidence_items": [],
-      "review_reasons": []
+        "development process"
+      ]
     }
   },
+  "classifier_top_function": {
+    "technology": 76,
+    "arts-media": 7,
+    "design": 3
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
   "llm_trace": [
-    {
-      "stage": "route",
-      "accepted": true,
-      "review_reasons": []
-    },
     {
       "stage": "evidence",
       "accepted": true,

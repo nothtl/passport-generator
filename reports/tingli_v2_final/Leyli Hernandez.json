@@ -1,0 +1,937 @@
+{
+  "resume": "=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED \nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142 \n\nLEYLI  HERNANDEZ \n\nABOUT ME \n\nMy name is Leyli Hernandez, 17 years old. I’ve grown up and lived in Queens and am very \npassionate about helping my community in any way, anytime. I am constantly assisting in \nany event which has allowed me to be very engaging towards others whenever I get the \nopportunity. I love to stay physically active and always have something to do. I am always \ndown to try new things and expand my horizons. \n\nVOLUNTEERING  HISTORY \n\n● \n\n● \n\nI spend most of the weekends or afterschool hours volunteering with Elmhurst \nCommunity Partnership(ECP) which is a non-profit organization that provides free \nsports clubs, social groups, community assistance, community events and other \nactivities. \nI am also the Co-Chair of the Executive Board of another non-profit company I work \nwith called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and \nColleges to help students work on their leadership skills, career paths, and connects \nthese students with professionals based on their career interests. I am also chair to \nthe Media committee, and work with planning our monthly events to help them run \nsmoother. \n\n \n \n \n \n \n \n \n\fSKILLS \n\nTeam Leadership (Experienced), Community Engagement (Experienced), Problem Solving \n(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public \nSpeaking (Experienced). \n\nEDUCATION \n\nHIGH SCHOOL \n\n40-11 28th St, Astoria, NY 11101  \n\nCurrently a Junior Student-Athlete at Academy of American Studies High \nSchool as I am part of the Varsity Girls Flag Football team  \n\nLANGUAGES \n\nEnglish (Native), Spanish (Highly proficient).",
+  "function": "social-service",
+  "confidence": 61,
+  "skills": [
+    "community engagement",
+    "leadership",
+    "problem solving",
+    "public speaking",
+    "social media management",
+    "quick learner",
+    "organized",
+    "speaking",
+    "spanish",
+    "media management"
+  ],
+  "verified_skills": [
+    "community engagement",
+    "leadership",
+    "problem solving",
+    "public speaking",
+    "social media management",
+    "quick learner",
+    "organized",
+    "speaking",
+    "spanish",
+    "media management"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "academy",
+    "afterschool",
+    "as i",
+    "career paths",
+    "community events",
+    "ecp",
+    "flag football",
+    "football",
+    "groups",
+    "high school",
+    "history",
+    "hours",
+    "junior",
+    "languages",
+    "management",
+    "media",
+    "name",
+    "non profit",
+    "non profit organization",
+    "organization",
+    "organized",
+    "part",
+    "passionate",
+    "physically active",
+    "professionals",
+    "social",
+    "social media",
+    "student athlete",
+    "u s citizen",
+    "volunteering",
+    "weekends"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "community engagement",
+    "leadership",
+    "problem solving",
+    "public speaking",
+    "social media management",
+    "quick learner",
+    "organized",
+    "speaking",
+    "spanish",
+    "media management"
+  ],
+  "inferred": [
+    "team leadership",
+    "language proficiency",
+    "organizational skills"
+  ],
+  "implicit_skills": [
+    {
+      "confidence": "medium",
+      "reason": "Student athlete role implies experience leading or collaborating in teams",
+      "skill": "team leadership"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Native Spanish indicates strong speaking and comprehension abilities",
+      "skill": "language proficiency"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Explicit mention of being organized suggests structured task management",
+      "skill": "organizational skills"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "classroom-management",
+    "family-communication",
+    "organization"
+  ],
+  "core_gaps": [
+    "classroom-management",
+    "family-communication",
+    "organization"
+  ],
+  "bridge_gaps": [
+    "customer-communication",
+    "learning-strategies",
+    "progress-tracking",
+    "strong-english-communication",
+    "student-guidance"
+  ],
+  "stretch_gaps": [
+    "active-listening",
+    "bachelor-s-degree-in-education",
+    "behavior-improvement-plans",
+    "classroom-technology",
+    "co-teaching",
+    "collaboration",
+    "community-outreach",
+    "crisis-prevention",
+    "culture-and-student-support",
+    "customer-service"
+  ],
+  "nice_to_have_gaps": [
+    "active-listening",
+    "bachelor-s-degree-in-education",
+    "behavior-improvement-plans",
+    "classroom-technology",
+    "co-teaching",
+    "collaboration",
+    "community-outreach",
+    "crisis-prevention",
+    "culture-and-student-support",
+    "customer-communication"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "bilingual",
+      "pmi": 3.85
+    },
+    {
+      "skill": "privatelessons",
+      "pmi": 3.4
+    },
+    {
+      "skill": "budgeting",
+      "pmi": 3.33
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "mentorship",
+      "pmi": 2.92
+    },
+    {
+      "skill": "english",
+      "pmi": 2.9
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
+    },
+    {
+      "skill": "hospitality",
+      "pmi": 2.69
+    },
+    {
+      "skill": "youthministry",
+      "pmi": 2.69
+    },
+    {
+      "skill": "training",
+      "pmi": 4.46
+    },
+    {
+      "skill": "facebookadministration",
+      "pmi": 4.26
+    },
+    {
+      "skill": "contentpublishing",
+      "pmi": 4.26
+    },
+    {
+      "skill": "wordpressadministration",
+      "pmi": 4.04
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.45
+    },
+    {
+      "skill": "positiveattitude",
+      "pmi": 3.13
+    },
+    {
+      "skill": "englishcommunication",
+      "pmi": 2.71
+    },
+    {
+      "skill": "contentcreation",
+      "pmi": 2.56
+    },
+    {
+      "skill": "videoediting",
+      "pmi": 1.84
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "bilingual",
+      "pmi": 3.85
+    },
+    {
+      "skill": "privatelessons",
+      "pmi": 3.4
+    },
+    {
+      "skill": "budgeting",
+      "pmi": 3.33
+    },
+    {
+      "skill": "inwaterskillsassessment",
+      "pmi": 3.2
+    },
+    {
+      "skill": "teamdevelopment",
+      "pmi": 2.98
+    },
+    {
+      "skill": "mentorship",
+      "pmi": 2.92
+    },
+    {
+      "skill": "english",
+      "pmi": 2.9
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
+    },
+    {
+      "skill": "hospitality",
+      "pmi": 2.69
+    },
+    {
+      "skill": "youthministry",
+      "pmi": 2.69
+    },
+    {
+      "skill": "training",
+      "pmi": 4.46
+    },
+    {
+      "skill": "facebookadministration",
+      "pmi": 4.26
+    },
+    {
+      "skill": "contentpublishing",
+      "pmi": 4.26
+    },
+    {
+      "skill": "wordpressadministration",
+      "pmi": 4.04
+    },
+    {
+      "skill": "wordpress",
+      "pmi": 3.45
+    },
+    {
+      "skill": "positiveattitude",
+      "pmi": 3.13
+    },
+    {
+      "skill": "englishcommunication",
+      "pmi": 2.71
+    },
+    {
+      "skill": "contentcreation",
+      "pmi": 2.56
+    },
+    {
+      "skill": "videoediting",
+      "pmi": 1.84
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 22
+    },
+    {
+      "function": "social-service",
+      "pct": 9
+    },
+    {
+      "function": "legal",
+      "pct": 5
+    },
+    {
+      "function": "sales",
+      "pct": 4
+    },
+    {
+      "function": "finance",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "For a social-service path, focus first on classroom-management, family-communication, organization. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Young Adult Peer Supporter (Teen Talk Lines)",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/12C122FC51",
+      "fit": 74,
+      "job_type": "goal",
+      "subdomain": "public-health",
+      "function": "healthcare",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.175,
+        "embedding_similarity": 0.561,
+        "hyre_score": 0.543,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.00419012,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 8,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your role as a Young Adult Peer Supporter builds transferable skills like empathic communication, active listening, and crisis prevention, which are directly applicable to social work and youth advocacy. These skills, combined with your existing leadership and community engagement, create a strong foundation for your aspirational career."
+    },
+    {
+      "title": "4th Grade Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7783163003",
+      "fit": 66,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.484,
+        "hyre_score": 0.611,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 12,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching roles are suitable for 16-20 year olds with appropriate qualifications.",
+      "cross_function": false,
+      "bridge": "As a 4th Grade Teacher, you'll strengthen your leadership, problem-solving, and public speaking skills through classroom management and family communication, while building new transferable skills in data tracking and technology integration that are directly applicable to social work, community organizing, and youth advocacy."
+    },
+    {
+      "title": "Intervention Specialist",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7620535003",
+      "fit": 66,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.534,
+        "hyre_score": 0.678,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Instructional Aide",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7766236003",
+      "fit": 56,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.477,
+        "hyre_score": 0.629,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Instructional aide, no age restriction.",
+      "cross_function": false,
+      "bridge": "As an Instructional Aide, you'll sharpen your organization and classroom management skills, which directly translate to case management and group facilitation in social work. Your experience with data entry and customer service will also build the documentation and client rapport skills essential for community organizing and youth advocacy."
+    },
+    {
+      "title": "President",
+      "company": "acct",
+      "url": "https://jobs.crelate.com/portal/acct/job/tqiaiqgz4h7e8r49sqbno9zqzo",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "embedding_similarity": 0.449,
+        "hyre_score": 0.494,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.01659026,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 10,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "President is a leadership role with no age restriction.",
+      "cross_function": false,
+      "bridge": "As President, you're honing leadership, strategic planning, and stakeholder engagement—skills directly transferable to advocating for youth and mobilizing communities. These experiences will empower you to drive systemic change as a Social Worker or Community Organizer."
+    },
+    {
+      "title": "Academic Mentor",
+      "company": "allendigital",
+      "url": "https://allendigital.hire.trakstar.com/jobs/fk0p9bz/",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.459,
+        "hyre_score": 0.563,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 6,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Young Adult Peer Supporter (Teen Talk Lines)",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/12C122FC51",
+      "fit": 74,
+      "job_type": "goal",
+      "subdomain": "public-health",
+      "function": "healthcare",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.222,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.175,
+        "embedding_similarity": 0.561,
+        "hyre_score": 0.543,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.00419012,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 8,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your role as a Young Adult Peer Supporter builds transferable skills like empathic communication, active listening, and crisis prevention, which are directly applicable to social work and youth advocacy. These skills, combined with your existing leadership and community engagement, create a strong foundation for your aspirational career."
+    },
+    {
+      "title": "4th Grade Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7783163003",
+      "fit": 66,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.484,
+        "hyre_score": 0.611,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 12,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching roles are suitable for 16-20 year olds with appropriate qualifications.",
+      "cross_function": false,
+      "bridge": "As a 4th Grade Teacher, you'll strengthen your leadership, problem-solving, and public speaking skills through classroom management and family communication, while building new transferable skills in data tracking and technology integration that are directly applicable to social work, community organizing, and youth advocacy."
+    },
+    {
+      "title": "Intervention Specialist",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7620535003",
+      "fit": 66,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.556,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.534,
+        "hyre_score": 0.678,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Instructional Aide",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7766236003",
+      "fit": 56,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.477,
+        "hyre_score": 0.629,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Instructional aide, no age restriction.",
+      "cross_function": false,
+      "bridge": "As an Instructional Aide, you'll sharpen your organization and classroom management skills, which directly translate to case management and group facilitation in social work. Your experience with data entry and customer service will also build the documentation and client rapport skills essential for community organizing and youth advocacy."
+    },
+    {
+      "title": "President",
+      "company": "acct",
+      "url": "https://jobs.crelate.com/portal/acct/job/tqiaiqgz4h7e8r49sqbno9zqzo",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "youth-support",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.333,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "embedding_similarity": 0.449,
+        "hyre_score": 0.494,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.01659026,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 10,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "President is a leadership role with no age restriction.",
+      "cross_function": false,
+      "bridge": "As President, you're honing leadership, strategic planning, and stakeholder engagement—skills directly transferable to advocating for youth and mobilizing communities. These experiences will empower you to drive systemic change as a Social Worker or Community Organizer."
+    },
+    {
+      "title": "Academic Mentor",
+      "company": "allendigital",
+      "url": "https://allendigital.hire.trakstar.com/jobs/fk0p9bz/",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "classroom-management, family-communication, organization",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.459,
+        "hyre_score": 0.563,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 6,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "skill_path": "You already have strong community and leadership skills. By building bridge skills like student guidance and then mastering classroom management and active listening, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate. Keep going—you're closer than you think!",
+  "skill_tree": {
+    "tree": "CURRENT SKILLS\n├── community engagement\n├── leadership\n├── problem solving\n├── public speaking\n├── social media management\n├── quick learner\n├── organized\n├── speaking\n├── spanish\n└── media management\n│\n├── BRIDGE SKILLS\n│   ├── customer-communication\n│   ├── learning-strategies\n│   ├── progress-tracking\n│   ├── strong-english-communication\n│   └── student-guidance\n│\n├── GOAL SKILLS\n│   ├── classroom-management\n│   ├── family-communication\n│   ├── organization\n│   ├── active-listening\n│   ├── bachelor-s-degree-in-education\n│   ├── behavior-improvement-plans\n│   ├── classroom-technology\n│   └── co-teaching\n│\n└── DREAM CAREERS\n    ├── Social Worker\n    ├── Community Organizer\n    └── Youth Advocate",
+    "steps": [
+      "Enroll in a free online course on classroom management (e.g., Coursera's 'Classroom Management Essentials').",
+      "Practice family communication by volunteering to lead parent-teacher meetings at a local youth center.",
+      "Take a workshop on active listening (e.g., through Toastmasters or a community college).",
+      "Start a part-time role as a teaching assistant to gain co-teaching and behavior improvement plan experience.",
+      "Apply to a bachelor's degree program in education or social work to meet degree requirements."
+    ],
+    "summary": "You already have strong community and leadership skills. By building bridge skills like student guidance and then mastering classroom management and active listening, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate. Keep going—you're closer than you think!"
+  },
+  "ideal_careers": [
+    "Social Worker",
+    "Community Organizer",
+    "Youth Advocate"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "social-service"
+    ],
+    "goal_roles": [
+      "Social Worker",
+      "Community Organizer",
+      "Youth Advocate"
+    ],
+    "goal_subdomains": [
+      "youth-support"
+    ],
+    "study_domains": [
+      "education"
+    ],
+    "study_subdomains": [
+      "classroom-support"
+    ],
+    "study_program": "HIGH SCHOOL",
+    "study_level": "high-school",
+    "intent_confidence": 0.791,
+    "intent_strength": 0.991,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate\n=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED\nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142\nLEYLI  HERNANDEZ\nABOUT ME\nMy name is Leyli Hernandez, ",
+    "study_text": "HIGH SCHOOL\n40-11 28th St, Astoria, NY 11101\nCurrently a Junior Student-Athlete at Academy of American Studies High\nSchool as I am part of the Varsity Girls Flag Football team\nLANGUAGES\nEnglish (Native), Spanish (Highly proficient).\nHIGH SCHOOL\n40-11 28th St, Astoria, NY 11101\nCu"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "social-service": 31,
+      "education": 20,
+      "arts-media": 15
+    },
+    "study": {
+      "education": 79,
+      "arts-media": 57,
+      "logistics": 10
+    },
+    "classifier": {
+      "arts-media": 50,
+      "sales": 7,
+      "finance": 6
+    },
+    "onet": {
+      "education": 37,
+      "healthcare": 17,
+      "technology": 11
+    },
+    "embeddings": {
+      "education": 8,
+      "technology": 7,
+      "ops": 6
+    },
+    "experience": {}
+  },
+  "candidate_functions": [
+    "social-service",
+    "education",
+    "arts-media"
+  ],
+  "subdomain": "youth-support",
+  "subdomain_confidence": 1.0,
+  "subdomain_alternatives": [],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "public-health",
+    "classroom-support",
+    "classroom-support",
+    "classroom-support",
+    "youth-support"
+  ],
+  "needs_review": false,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "social-service",
+      "chosen_subdomain": "youth-support",
+      "confidence": 0.85,
+      "evidence_spans": [
+        {
+          "section": "summary",
+          "text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate"
+        },
+        {
+          "section": "summary",
+          "text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst Community Partnership(ECP) which is a non-profit organization that provides free sports clubs, social groups, community assistance, community events and other activities."
+        }
+      ],
+      "goal_domains": [
+        "social-service"
+      ],
+      "goal_roles": [
+        "Social Worker",
+        "Community Organizer",
+        "Youth Advocate"
+      ],
+      "goal_subdomains": [
+        "youth-support"
+      ],
+      "reason_codes": [
+        "explicit_goal",
+        "volunteer_experience"
+      ],
+      "review_reasons": [],
+      "secondary_function": "education",
+      "study_domains": [],
+      "study_subdomains": []
+    },
+    "evidence": {
+      "accepted": true,
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Student athlete role implies experience leading or collaborating in teams",
+          "skill": "team leadership"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Native Spanish indicates strong speaking and comprehension abilities",
+          "skill": "language proficiency"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Explicit mention of being organized suggests structured task management",
+          "skill": "organizational skills"
+        }
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "academy",
+        "afterschool",
+        "as i",
+        "career paths",
+        "community events",
+        "ecp",
+        "flag football",
+        "football",
+        "groups",
+        "high school",
+        "history",
+        "hours",
+        "junior",
+        "languages",
+        "management",
+        "media",
+        "name",
+        "non profit",
+        "non profit organization",
+        "organization",
+        "organized",
+        "part",
+        "passionate",
+        "physically active",
+        "professionals",
+        "social",
+        "social media",
+        "student athlete",
+        "u s citizen",
+        "volunteering",
+        "weekends"
+      ],
+      "review_reasons": [],
+      "scored_skills": [
+        "community engagement",
+        "leadership",
+        "problem solving",
+        "public speaking",
+        "social media management",
+        "quick learner",
+        "organized",
+        "speaking",
+        "spanish",
+        "media management"
+      ],
+      "verified_skills": [
+        "community engagement",
+        "leadership",
+        "problem solving",
+        "public speaking",
+        "social media management",
+        "quick learner",
+        "organized",
+        "speaking",
+        "spanish",
+        "media management"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "arts-media": 50,
+    "sales": 7,
+    "finance": 6
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

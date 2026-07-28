@@ -1,0 +1,888 @@
+{
+  "resume": "Hu Tingli\nNanyang Technological University | Renaissance Engineering Programme\nBachelor of Engineering Science (Computer Science) and Master of Science in Technology Management | 2024-2028\nTechnical Skills: Agentic AI & Automation, Agent Harnesses, Computer Vision, Semantic Search and Retrieval, Machine-Learning Evaluation, Full Stack Development, Cloud Infrastructure, Autonomous Systems. \n\nINTERNSHIP / WORK EXPERIENCE \nSpeakHire, New York | Tech Associate Intern | May-June 2026\nSpearheaded the design and delivery of an AI-powered outreach and CRM platform. Led the development of an agentic email-generation tool. Integrated Azure Functions and Cosmos DB.\n\nHoverr | Co-Founder and Chief Technology Officer | 2025-Present\nCo-founded an AI-enabled Fraud, Waste and Abuse claims validation platform for medical insurance firms and led its technical architecture. Deployed within a cloud-based industry sandbox.\n\nThat Remote Company | AI/ML Intern | July-September 2025\nLed the AI team in designing a multi-stage computer-vision pipeline. Integrated YOLOv11, SegFormer and ResNet-101 with a FastAPI backend.\n\nPROJECTS\nUAV Computer Vision and Geotagging Platform | SUAS 2025\nRepresented NTU at the international Student Unmanned Aerial Systems competition. Integrated YOLOv8, a ZED 2i stereo camera and ROS2 to enable real-time aerial object detection.",
+  "function": "technology",
+  "confidence": 84,
+  "skills": [
+    "agentic ai",
+    "ai automation",
+    "ai ml",
+    "architecture",
+    "automation",
+    "autonomous systems",
+    "azure",
+    "azure functions",
+    "backend",
+    "cloud",
+    "cloud infrastructure",
+    "computer vision",
+    "cosmos db",
+    "crm",
+    "fastapi",
+    "full stack",
+    "full stack development",
+    "machine learning",
+    "object detection",
+    "pipeline",
+    "real time",
+    "retrieval",
+    "ros",
+    "semantic search",
+    "stereo",
+    "technology management",
+    "uav"
+  ],
+  "verified_skills": [
+    "agentic ai",
+    "ai automation",
+    "ai ml",
+    "architecture",
+    "automation",
+    "autonomous systems",
+    "azure",
+    "azure functions",
+    "backend",
+    "cloud",
+    "cloud infrastructure",
+    "computer vision",
+    "cosmos db",
+    "crm",
+    "fastapi",
+    "full stack",
+    "full stack development",
+    "machine learning",
+    "object detection",
+    "pipeline",
+    "real time",
+    "retrieval",
+    "ros",
+    "semantic search",
+    "stereo",
+    "technology management",
+    "uav"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "bachelor",
+    "claims",
+    "computer",
+    "computer science",
+    "delivery",
+    "design",
+    "development",
+    "email",
+    "engineering",
+    "evaluation",
+    "fraud",
+    "harnesses",
+    "infrastructure",
+    "insurance",
+    "internship",
+    "management",
+    "master",
+    "medical insurance",
+    "outreach",
+    "platform",
+    "present",
+    "projects",
+    "sandbox",
+    "science",
+    "stack",
+    "stage",
+    "systems",
+    "tech",
+    "technical",
+    "technical skills",
+    "technology",
+    "validation",
+    "vision"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "agentic ai",
+    "ai automation",
+    "ai ml",
+    "architecture",
+    "automation",
+    "autonomous systems",
+    "azure",
+    "azure functions",
+    "backend",
+    "cloud",
+    "cloud infrastructure",
+    "computer vision",
+    "cosmos db",
+    "crm",
+    "fastapi",
+    "full stack",
+    "full stack development",
+    "machine learning",
+    "object detection",
+    "pipeline",
+    "real time",
+    "retrieval",
+    "ros",
+    "semantic search",
+    "stereo",
+    "technology management",
+    "uav"
+  ],
+  "inferred": [
+    "Python",
+    "Docker",
+    "Git"
+  ],
+  "implicit_skills": [
+    {
+      "confidence": "medium",
+      "reason": "Implied by FastAPI, machine learning, and Azure Functions development.",
+      "skill": "Python"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Likely used for containerizing microservices and cloud deployments.",
+      "skill": "Docker"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Standard version control implied by software development and project work.",
+      "skill": "Git"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "ai-evaluation",
+    "ai-training",
+    "ci/cd",
+    "devops",
+    "model-deployment"
+  ],
+  "core_gaps": [
+    "ai-evaluation",
+    "ai-training",
+    "ci/cd",
+    "devops",
+    "model-deployment"
+  ],
+  "bridge_gaps": [
+    "ai",
+    "aws",
+    "cloud-computing",
+    "cloud-platforms",
+    "content-review",
+    "data-feedback-loop",
+    "data-quality",
+    "deployment-automation",
+    "distributed-systems",
+    "feedback-and-review"
+  ],
+  "stretch_gaps": [],
+  "nice_to_have_gaps": [
+    "ai",
+    "aws",
+    "cloud-computing",
+    "cloud-platforms",
+    "content-review",
+    "data-feedback-loop",
+    "data-quality",
+    "deployment-automation",
+    "distributed-systems",
+    "feedback-and-review"
+  ],
+  "verify_gaps": [
+    "python"
+  ],
+  "related": [
+    {
+      "skill": "bluebeam",
+      "pmi": 3.55
+    },
+    {
+      "skill": "rhino",
+      "pmi": 3.55
+    },
+    {
+      "skill": "enscape",
+      "pmi": 3.26
+    },
+    {
+      "skill": "presentation",
+      "pmi": 2.77
+    },
+    {
+      "skill": "revit",
+      "pmi": 2.48
+    },
+    {
+      "skill": "collaboration",
+      "pmi": 1.69
+    },
+    {
+      "skill": "adobecreativesuite",
+      "pmi": 1.02
+    },
+    {
+      "skill": "communication",
+      "pmi": 0.75
+    },
+    {
+      "skill": "notarypublic",
+      "pmi": 4.45
+    },
+    {
+      "skill": "calendarmanagement",
+      "pmi": 2.39
+    },
+    {
+      "skill": "reporting",
+      "pmi": 2.13
+    },
+    {
+      "skill": "microsoftoffice",
+      "pmi": 1.99
+    },
+    {
+      "skill": "training",
+      "pmi": 1.9
+    },
+    {
+      "skill": "dataentry",
+      "pmi": 1.47
+    },
+    {
+      "skill": "problemsolving",
+      "pmi": 1.18
+    },
+    {
+      "skill": "organization",
+      "pmi": 0.94
+    },
+    {
+      "skill": "inventorymanagement",
+      "pmi": 0.79
+    },
+    {
+      "skill": "timemanagement",
+      "pmi": 0.77
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "bluebeam",
+      "pmi": 3.55
+    },
+    {
+      "skill": "rhino",
+      "pmi": 3.55
+    },
+    {
+      "skill": "enscape",
+      "pmi": 3.26
+    },
+    {
+      "skill": "presentation",
+      "pmi": 2.77
+    },
+    {
+      "skill": "revit",
+      "pmi": 2.48
+    },
+    {
+      "skill": "collaboration",
+      "pmi": 1.69
+    },
+    {
+      "skill": "adobecreativesuite",
+      "pmi": 1.02
+    },
+    {
+      "skill": "communication",
+      "pmi": 0.75
+    },
+    {
+      "skill": "notarypublic",
+      "pmi": 4.45
+    },
+    {
+      "skill": "calendarmanagement",
+      "pmi": 2.39
+    },
+    {
+      "skill": "reporting",
+      "pmi": 2.13
+    },
+    {
+      "skill": "microsoftoffice",
+      "pmi": 1.99
+    },
+    {
+      "skill": "training",
+      "pmi": 1.9
+    },
+    {
+      "skill": "dataentry",
+      "pmi": 1.47
+    },
+    {
+      "skill": "problemsolving",
+      "pmi": 1.18
+    },
+    {
+      "skill": "organization",
+      "pmi": 0.94
+    },
+    {
+      "skill": "inventorymanagement",
+      "pmi": 0.79
+    },
+    {
+      "skill": "timemanagement",
+      "pmi": 0.77
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "arts-media",
+      "pct": 6
+    },
+    {
+      "function": "agriculture",
+      "pct": 6
+    },
+    {
+      "function": "education",
+      "pct": 6
+    },
+    {
+      "function": "healthcare",
+      "pct": 4
+    },
+    {
+      "function": "design",
+      "pct": 4
+    }
+  ],
+  "coach_notes": "For a technology path, focus first on ai-evaluation, ai-training, ci/cd. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Junior Data Engineer (Databricks)",
+      "company": "addepto",
+      "url": "https://addepto.recruitee.com/o/junior-data-engineer-databricks-1",
+      "fit": 73,
+      "job_type": "goal",
+      "subdomain": "engineering",
+      "function": "data",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "goal_alignment": 0.429,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.727,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.078,
+        "embedding_similarity": 0.648,
+        "hyre_score": 0.708,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": null,
+        "hyper_k": 1,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "No age restrictions for data engineering roles.",
+      "cross_function": false,
+      "bridge": "As a Junior Data Engineer, you'll sharpen your Azure and big-data skills, which are directly transferable to AI engineering and software architecture. Mastering data pipelines and Spark will build the scalable systems expertise needed for a CTO or founder role."
+    },
+    {
+      "title": "Engineering Fellowship",
+      "company": "10alabs",
+      "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
+      "fit": 72,
+      "job_type": "goal",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.444,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.09,
+        "embedding_similarity": 0.649,
+        "hyre_score": 0.671,
+        "skill_overlap_raw": 0.118,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 17,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Software Engineer, Systems",
+      "company": "Braintrust",
+      "url": "https://jobs.ashbyhq.com/Braintrust/8b9cfa26-627f-442c-a358-783b0e4ef930",
+      "fit": 72,
+      "job_type": "goal",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.625,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.631,
+        "hyre_score": 0.65,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Software engineering role is eligible.",
+      "cross_function": false
+    },
+    {
+      "title": " AI Platform Engineer",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1554138f-15dc-4225-93cc-44b64f2540ed",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false,
+      "bridge": "As an AI Platform Engineer, you'll deepen your Python, cloud computing, and distributed systems expertise, which are essential for scaling AI solutions as a CTO or Founder. These transferable skills—especially in architecture and automation—directly prepare you to lead technical teams and build robust software systems."
+    },
+    {
+      "title": "DevOps Lead - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/1318bb44-d731-4b83-bf7a-90914097db8d",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Process Engineering Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/197210fb-4c11-4dee-a36a-2ab5ac4f8879",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Junior Data Engineer (Databricks)",
+      "company": "addepto",
+      "url": "https://addepto.recruitee.com/o/junior-data-engineer-databricks-1",
+      "fit": 73,
+      "job_type": "goal",
+      "subdomain": "engineering",
+      "function": "data",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "goal_alignment": 0.429,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.727,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.078,
+        "embedding_similarity": 0.648,
+        "hyre_score": 0.708,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": null,
+        "hyper_k": 1,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "No age restrictions for data engineering roles.",
+      "cross_function": false,
+      "bridge": "As a Junior Data Engineer, you'll sharpen your Azure and big-data skills, which are directly transferable to AI engineering and software architecture. Mastering data pipelines and Spark will build the scalable systems expertise needed for a CTO or founder role."
+    },
+    {
+      "title": "Engineering Fellowship",
+      "company": "10alabs",
+      "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009",
+      "fit": 72,
+      "job_type": "goal",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.444,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.09,
+        "embedding_similarity": 0.649,
+        "hyre_score": 0.671,
+        "skill_overlap_raw": 0.118,
+        "hyper_p_value": null,
+        "hyper_k": 2,
+        "hyper_K": 0,
+        "hyper_n": 17,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Software Engineer, Systems",
+      "company": "Braintrust",
+      "url": "https://jobs.ashbyhq.com/Braintrust/8b9cfa26-627f-442c-a358-783b0e4ef930",
+      "fit": 72,
+      "job_type": "goal",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "goal_alignment": 0.571,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.625,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.631,
+        "hyre_score": 0.65,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": null,
+        "hyper_k": 0,
+        "hyper_K": 0,
+        "hyper_n": 9,
+        "hyper_N": 0,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Software engineering role is eligible.",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": " AI Platform Engineer",
+      "company": "0g",
+      "url": "https://jobs.ashbyhq.com/0g/1554138f-15dc-4225-93cc-44b64f2540ed",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false,
+      "bridge": "As an AI Platform Engineer, you'll deepen your Python, cloud computing, and distributed systems expertise, which are essential for scaling AI solutions as a CTO or Founder. These transferable skills—especially in architecture and automation—directly prepare you to lead technical teams and build robust software systems."
+    },
+    {
+      "title": "DevOps Lead - AI Trainer - Freelance - 8-20hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/1318bb44-d731-4b83-bf7a-90914097db8d",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    },
+    {
+      "title": "Process Engineering Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote",
+      "company": "10xteam",
+      "url": "https://jobs.ashbyhq.com/10xteam/197210fb-4c11-4dee-a36a-2ab5ac4f8879",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "engineering",
+      "function": "engineering",
+      "why": "This role builds your agentic ai, ai automation, ai ml skills and moves you toward becoming a Software Engineer.",
+      "gaps": "ai-evaluation, ai-training, ci/cd",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "skill_path": "You already have a strong foundation in AI, automation, and cloud. By adding CI/CD, DevOps, and model deployment skills, you'll be ready to lead AI projects as a Software Engineer, AI Engineer, or even a CTO. Keep building and you'll turn your dream career into reality!",
+  "skill_tree": {
+    "tree": "CURRENT SKILLS\n├── agentic ai\n├── ai automation\n├── ai ml\n├── architecture\n├── automation\n├── autonomous systems\n├── azure\n├── azure functions\n├── backend\n├── cloud\n├── Python (implicit)\n├── Docker (implicit)\n└── Git (implicit)\n    ↓\nBRIDGE SKILLS\n├── ai\n├── aws\n├── cloud-computing\n├── cloud-platforms\n└── content-review\n    ↓\nGOAL SKILLS\n├── ai-evaluation\n├── ai-training\n├── ci/cd\n├── devops\n└── model-deployment\n    ↓\nCAREER PATHS\n├── Software Engineer\n├── AI Engineer\n├── Tech Lead\n├── CTO\n└── Founder",
+    "steps": [
+      "1. Master CI/CD pipelines using Azure DevOps or GitHub Actions (build on your Azure and Git skills).",
+      "2. Learn model deployment with Azure ML or AWS SageMaker (bridge your cloud and AI knowledge).",
+      "3. Deepen AI evaluation and training techniques (take a course on AI model testing and fine-tuning).",
+      "4. Strengthen DevOps practices: containerization (Docker), orchestration (Kubernetes), and infrastructure as code (Terraform).",
+      "5. Build a full-stack AI project: deploy an agentic AI model with CI/CD, monitoring, and scaling."
+    ],
+    "summary": "You already have a strong foundation in AI, automation, and cloud. By adding CI/CD, DevOps, and model deployment skills, you'll be ready to lead AI projects as a Software Engineer, AI Engineer, or even a CTO. Keep building and you'll turn your dream career into reality!"
+  },
+  "ideal_careers": [
+    "Software Engineer",
+    "AI Engineer",
+    "Tech Lead",
+    "CTO",
+    "Founder"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "technology"
+    ],
+    "goal_roles": [
+      "engineer",
+      "intern"
+    ],
+    "goal_subdomains": [
+      "software",
+      "systems"
+    ],
+    "study_domains": [],
+    "study_subdomains": [],
+    "study_program": "",
+    "study_level": "master",
+    "intent_confidence": 0.703,
+    "intent_strength": 0.803,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Software Engineer, AI Engineer, Tech Lead, CTO, Founder\nHu Tingli\nNanyang Technological University | Renaissance Engineering Programme\nBachelor of Engineering Science (Computer Science) and Master of Science in Technology Management | 2024-2028\nTechnical Skills: Ag",
+    "study_text": ""
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "technology": 70,
+      "education": 5,
+      "arts-media": 5
+    },
+    "study": {},
+    "classifier": {
+      "technology": 61,
+      "agriculture": 9,
+      "arts-media": 9
+    },
+    "onet": {
+      "technology": 27,
+      "education": 16,
+      "healthcare": 13
+    },
+    "embeddings": {
+      "technology": 9,
+      "healthcare": 7,
+      "education": 7
+    },
+    "experience": {}
+  },
+  "candidate_functions": [
+    "technology",
+    "arts-media",
+    "agriculture"
+  ],
+  "subdomain": "engineering",
+  "subdomain_confidence": 0.579,
+  "subdomain_alternatives": [
+    "software",
+    "systems",
+    "robotics-manufacturing"
+  ],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "engineering",
+    "engineering",
+    "engineering",
+    "engineering",
+    "engineering"
+  ],
+  "needs_review": false,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "evidence": {
+      "accepted": true,
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Implied by FastAPI, machine learning, and Azure Functions development.",
+          "skill": "Python"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Likely used for containerizing microservices and cloud deployments.",
+          "skill": "Docker"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Standard version control implied by software development and project work.",
+          "skill": "Git"
+        }
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "bachelor",
+        "claims",
+        "computer",
+        "computer science",
+        "delivery",
+        "design",
+        "development",
+        "email",
+        "engineering",
+        "evaluation",
+        "fraud",
+        "harnesses",
+        "infrastructure",
+        "insurance",
+        "internship",
+        "management",
+        "master",
+        "medical insurance",
+        "outreach",
+        "platform",
+        "present",
+        "projects",
+        "sandbox",
+        "science",
+        "stack",
+        "stage",
+        "systems",
+        "tech",
+        "technical",
+        "technical skills",
+        "technology",
+        "validation",
+        "vision"
+      ],
+      "review_reasons": [],
+      "scored_skills": [
+        "agentic ai",
+        "ai automation",
+        "ai ml",
+        "architecture",
+        "automation",
+        "autonomous systems",
+        "azure",
+        "azure functions",
+        "backend",
+        "cloud",
+        "cloud infrastructure",
+        "computer vision",
+        "cosmos db",
+        "crm",
+        "fastapi",
+        "full stack",
+        "full stack development",
+        "machine learning",
+        "object detection",
+        "pipeline",
+        "real time",
+        "retrieval",
+        "ros",
+        "semantic search",
+        "stereo",
+        "technology management",
+        "uav"
+      ],
+      "verified_skills": [
+        "agentic ai",
+        "ai automation",
+        "ai ml",
+        "architecture",
+        "automation",
+        "autonomous systems",
+        "azure",
+        "azure functions",
+        "backend",
+        "cloud",
+        "cloud infrastructure",
+        "computer vision",
+        "cosmos db",
+        "crm",
+        "fastapi",
+        "full stack",
+        "full stack development",
+        "machine learning",
+        "object detection",
+        "pipeline",
+        "real time",
+        "retrieval",
+        "ros",
+        "semantic search",
+        "stereo",
+        "technology management",
+        "uav"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "technology": 61,
+    "agriculture": 9,
+    "arts-media": 9
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

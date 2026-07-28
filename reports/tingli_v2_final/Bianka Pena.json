@@ -1,0 +1,815 @@
+{
+  "resume": "=== Bianka Pena - Resume.pdf ===\nBIANKA NICOLLE PENA MARCELINO\n\nTemple, PA 19560\n\n6469721673 - bianka.pena.marcelino@gmail.com\n\nWEBSITES, PORTFOLIOS, PROFILES\n\n•\n\nlinkedin.com/in/bianka-pena-708173232\n\nPROFESSIONAL SUMMARY\n\nDedicated Psychology and Biology student with a passion for understanding the complexities\n\nof  human behavior, health, and the factors that influence lives. Extensive experience in HIV\n\nresearch, clinical care, and public health has fostered a strong commitment to making a\n\nmeaningful impact in underserved communities. Eager to further develop research skills and\n\ncontribute to advancements in epidemiology, focusing on addressing health disparities and\n\npromoting wellness. Proactive learner driven by a desire to translate academic knowledge into\n\npractical solutions that enhance community health outcomes.\n\nSKILLS\n\n•\n\n•\n\n•\n\n•\n\nClient advocacy\n\nRelationship building\n\nStrategic planning\n\nTime management\n\n•\n\n•\n\n•\n\n•\n\nTeamwork\n\nConflict resolution\n\nReport writing\n\nAnalytical thinking\n\nRESEARCH & CLINICAL EXPERIENCE\n05/2025 to 05/2026\nCounselor Aide\n\nHelio Health – Syracuse, NY\n\n•\n•\n\n•\n•\n•\n\nProvided direct resident care in substance use disorder treatment settings.\n\nAdministered medications as a med-certified aide and maintained HIPAA-compliant\n\ndocumentation.\n\nMonitored resident behavior and medication effects, reporting concerns to clinical staff.\n\nSupported daily routines, crisis de-escalation, and recovery goals across varied shifts.\n\nHere are six original resume statements that reflect high-value responsibilities for the\n\nCounselor's Aide role at Helio Health, filling gaps in the existing work history while\n\nmaintaining the user's writing style:\n\n09/2024 to 05/2026\n\nPeer Academic Leader (PAL)\n\nLe Moyne College – Syracuse, NY\n\n•\n•\n•\n•\n•\n\n•\n\nFacilitated structured study halls supporting undergraduate academic success.\n\nCoached students on time management, study strategies, and accountability.\n\nMonitored attendance and engagement while maintaining supportive peer relationships.\n\nMentored students and connected them with campus academic resources.\n\nDeveloped and implemented engaging academic workshops to enhance student study\n\nskills.\n\nCoordinated with faculty to align tutoring sessions with course objectives and\n\nrequirements.\n\n\f06/2024 to 05/2026\n\nResearch Student\n\nLe Moyne College – Syracuse, NY\n\n•\n•\n•\n•\n•\n\n•\n\nConducted HIV-1 research on pathogenesis and host restriction factors.\n\nPerformed cell culture (THP-1), DNA extraction, SDS-PAGE, and Western blotting.\n\nTrained and mentored new lab members in research techniques and lab protocols.\n\nAssisted with experimental design, data analysis, and research presentations.\n\nAssisted in laboratory maintenance, ensuring equipment and supplies were properly\n\norganized.\n\nCollaborated with team members to refine research protocols and improve efficiency.\n\n06/2023 to 08/2023\n\nSummer Research Intern\n\nUASD – Santo Domingo, Dominican Republic\n\n•\n\n•\n•\n•\n•\n•\n\nContributed to a public health research project on maternal mortality and healthcare\n\naccess.\n\nAssisted with data collection, organization, and review of  maternal health indicators.\n\nAnalyzed social, economic, and healthcare system factors affecting maternal outcomes.\n\nSupported research discussions and summarized key findings.\n\nAssisted in the preparation of  research proposals and grant applications for funding.\n\nConducted literature reviews to identify relevant studies and inform research\n\nmethodologies.\n\nBachelor of  Science: Psychology\n\nLe Moyne - Syracuse, NY\n\nBachelor of  Arts: Biology\n\nLe Moyne - Syracuse, NY\n\nEDUCATION\n\n05/2026 \n\n05/2026 \n\nCERTIFICATIONS\n\n•\n•\n\nImproving Global Health: Focusing on Quality and Safety\n\nCPR / AED\n\nCOMMUNITY SERVICE & VOLUNTEER WORK\n\n•\n\n•\n\n•\n•\n\nWescott Community Center, Syracuse, NY, 2023-09, 2025-08, Supported Older Adult\n\nprograms through recreational activities and social engagement., Assisted with food\n\npantry operations, meal distribution, and one-on-one administrative support for\n\ncommunity members.\n\nAmbassador Volunteer, New York, NY, 2019-10, 2021-06, Designed and led a community\n\nfood bank initiative addressing food insecurity., Participated in civic engagement, Census\n\noutreach, and collaborative community-based mentorship projects.\n\nActive member of  the Psychology, Spanish, and Chemistry Club\n\nSelected as an Ignite Fellowship recipient for three consecutive summers, 2023-2025.\n\nCAMPUS ENGAGEMENT\n\nLANGUAGES\n\nSpanish\n\nFull Professional\n\nEnglish\n\nFull Professional",
+  "function": "healthcare",
+  "confidence": 64,
+  "skills": [
+    "aed"
+  ],
+  "verified_skills": [
+    "aed"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "access",
+    "accountability",
+    "administrative",
+    "administrative support",
+    "adult programs",
+    "advocacy",
+    "aide",
+    "ambassador",
+    "analysis",
+    "analytical",
+    "analytical thinking",
+    "applications",
+    "attendance",
+    "bachelor"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "aed"
+  ],
+  "inferred": [
+    "CPR",
+    "first aid",
+    "emergency response"
+  ],
+  "implicit_skills": [
+    {
+      "confidence": "medium",
+      "reason": "AED usage requires CPR knowledge",
+      "skill": "CPR"
+    },
+    {
+      "confidence": "medium",
+      "reason": "AED usage indicates first aid proficiency",
+      "skill": "first aid"
+    },
+    {
+      "confidence": "medium",
+      "reason": "AED usage indicates emergency response skills",
+      "skill": "emergency response"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "bluebeam",
+    "microsoft-excel",
+    "ms-project",
+    "project-management",
+    "scheduling",
+    "smartsheet"
+  ],
+  "core_gaps": [
+    "bluebeam",
+    "microsoft-excel",
+    "ms-project",
+    "project-management",
+    "scheduling",
+    "smartsheet"
+  ],
+  "bridge_gaps": [
+    "architectural-design",
+    "autodesk-construction-cloud",
+    "budget-tracking",
+    "cable-tray",
+    "change-orders",
+    "client-communication",
+    "communication",
+    "conduit-and-raceway",
+    "construction-management",
+    "contract-management"
+  ],
+  "stretch_gaps": [],
+  "nice_to_have_gaps": [
+    "architectural-design",
+    "autodesk-construction-cloud",
+    "budget-tracking",
+    "cable-tray",
+    "change-orders",
+    "client-communication",
+    "communication",
+    "conduit-and-raceway",
+    "construction-management",
+    "contract-management"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "idtcommunication",
+      "pmi": 5.25
+    },
+    {
+      "skill": "patientevaluation",
+      "pmi": 4.98
+    },
+    {
+      "skill": "chemicaltesting",
+      "pmi": 4.69
+    },
+    {
+      "skill": "ivcertification",
+      "pmi": 4.07
+    },
+    {
+      "skill": "airwaymanagement",
+      "pmi": 4.07
+    },
+    {
+      "skill": "lifeguard",
+      "pmi": 3.85
+    },
+    {
+      "skill": "cpt",
+      "pmi": 3.8
+    },
+    {
+      "skill": "outpatienttherapy",
+      "pmi": 3.38
+    },
+    {
+      "skill": "certifications",
+      "pmi": 3.3
+    },
+    {
+      "skill": "groupfitness",
+      "pmi": 3.01
+    },
+    {
+      "skill": "o2",
+      "pmi": 4.08
+    },
+    {
+      "skill": "riskprevention",
+      "pmi": 4.08
+    },
+    {
+      "skill": "emergencyoxygen",
+      "pmi": 3.82
+    },
+    {
+      "skill": "lifeguarding",
+      "pmi": 2.84
+    },
+    {
+      "skill": "cpr",
+      "pmi": 2.83
+    },
+    {
+      "skill": "childabuseprevention",
+      "pmi": 2.74
+    },
+    {
+      "skill": "oxygenadministration",
+      "pmi": 2.69
+    },
+    {
+      "skill": "aquatics",
+      "pmi": 2.64
+    },
+    {
+      "skill": "firstaid",
+      "pmi": 2.44
+    },
+    {
+      "skill": "emergencyprocedures",
+      "pmi": 2.38
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "idtcommunication",
+      "pmi": 5.25
+    },
+    {
+      "skill": "patientevaluation",
+      "pmi": 4.98
+    },
+    {
+      "skill": "chemicaltesting",
+      "pmi": 4.69
+    },
+    {
+      "skill": "ivcertification",
+      "pmi": 4.07
+    },
+    {
+      "skill": "airwaymanagement",
+      "pmi": 4.07
+    },
+    {
+      "skill": "lifeguard",
+      "pmi": 3.85
+    },
+    {
+      "skill": "cpt",
+      "pmi": 3.8
+    },
+    {
+      "skill": "outpatienttherapy",
+      "pmi": 3.38
+    },
+    {
+      "skill": "certifications",
+      "pmi": 3.3
+    },
+    {
+      "skill": "groupfitness",
+      "pmi": 3.01
+    },
+    {
+      "skill": "o2",
+      "pmi": 4.08
+    },
+    {
+      "skill": "riskprevention",
+      "pmi": 4.08
+    },
+    {
+      "skill": "emergencyoxygen",
+      "pmi": 3.82
+    },
+    {
+      "skill": "lifeguarding",
+      "pmi": 2.84
+    },
+    {
+      "skill": "cpr",
+      "pmi": 2.83
+    },
+    {
+      "skill": "childabuseprevention",
+      "pmi": 2.74
+    },
+    {
+      "skill": "oxygenadministration",
+      "pmi": 2.69
+    },
+    {
+      "skill": "aquatics",
+      "pmi": 2.64
+    },
+    {
+      "skill": "firstaid",
+      "pmi": 2.44
+    },
+    {
+      "skill": "emergencyprocedures",
+      "pmi": 2.38
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "agriculture",
+      "pct": 11
+    },
+    {
+      "function": "arts-media",
+      "pct": 10
+    },
+    {
+      "function": "education",
+      "pct": 8
+    },
+    {
+      "function": "legal",
+      "pct": 5
+    },
+    {
+      "function": "finance",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "For a healthcare path, focus first on bluebeam, microsoft-excel, ms-project. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Resident Medical Officer",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/90924B344B",
+      "fit": 84,
+      "job_type": "goal",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.778,
+        "study_alignment": 0.875,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.524,
+        "hyre_score": 0.565,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 12,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Academic Mentor",
+      "company": "allendigital",
+      "url": "https://allendigital.hire.trakstar.com/jobs/fk0p9bz/",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.523,
+        "hyre_score": 0.596,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 6,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As an Academic Mentor, you're building strong communication, guidance, and organization skills that are directly transferable to healthcare—patient education, care coordination, and tracking treatment progress all rely on these same abilities. This role is a practical foundation for mastering the interpersonal and administrative skills essential for nursing or medical assisting."
+    },
+    {
+      "title": "Certified Nurse Aide (CNA)",
+      "company": "esoconsultants",
+      "url": "https://jobs.crelate.com/portal/esoconsultants/job/3fyoj9f4j696xok4ei8o3unf5c",
+      "fit": 81,
+      "job_type": "goal",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.778,
+        "study_alignment": 0.75,
+        "subdomain_alignment": 0.846,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.416,
+        "hyre_score": 0.618,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 9,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Architectural Healthcare Project PM",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/h73dknpjy7getgxy9qu3576d9w",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false,
+      "bridge": "As an Architectural Healthcare Project PM, you'll build transferable skills in stakeholder management and client communication, directly applicable to coordinating patient care as a nurse or medical assistant. Your experience with healthcare projects and OSHPD/HCAI regulations will give you a practical understanding of healthcare systems, accelerating your transition into direct patient care roles."
+    },
+    {
+      "title": "Bilingual Intervention Specialist (Spanish)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777808003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "education",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.506,
+        "hyre_score": 0.579,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Educational support role, no age restriction.",
+      "cross_function": false,
+      "bridge": "As a Bilingual Intervention Specialist, you're already using diagnostic assessments and behavior plans—skills that directly transfer to patient evaluation and care coordination in healthcare. Your experience with IEPs and co-teaching builds strong communication and teamwork abilities, essential for collaborating with medical teams and educating patients."
+    },
+    {
+      "title": "Assistant Project Manager I",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/6s39kjobanitawiegpx7j9bh5w",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Resident Medical Officer",
+      "company": "2070health",
+      "url": "https://apply.workable.com/j/90924B344B",
+      "fit": 84,
+      "job_type": "goal",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.778,
+        "study_alignment": 0.875,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.524,
+        "hyre_score": 0.565,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 12,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Academic Mentor",
+      "company": "allendigital",
+      "url": "https://allendigital.hire.trakstar.com/jobs/fk0p9bz/",
+      "fit": 54,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.523,
+        "hyre_score": 0.596,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 6,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As an Academic Mentor, you're building strong communication, guidance, and organization skills that are directly transferable to healthcare—patient education, care coordination, and tracking treatment progress all rely on these same abilities. This role is a practical foundation for mastering the interpersonal and administrative skills essential for nursing or medical assisting."
+    },
+    {
+      "title": "Certified Nurse Aide (CNA)",
+      "company": "esoconsultants",
+      "url": "https://jobs.crelate.com/portal/esoconsultants/job/3fyoj9f4j696xok4ei8o3unf5c",
+      "fit": 81,
+      "job_type": "goal",
+      "subdomain": "clinical-support",
+      "function": "healthcare",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.778,
+        "study_alignment": 0.75,
+        "subdomain_alignment": 0.846,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.416,
+        "hyre_score": 0.618,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 9,
+        "hyper_N": 11438,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Architectural Healthcare Project PM",
+      "company": "EnginuityAdvantage",
+      "url": "https://jobs.crelate.com/portal/enginuityadvantage/job/h73dknpjy7getgxy9qu3576d9w",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false,
+      "bridge": "As an Architectural Healthcare Project PM, you'll build transferable skills in stakeholder management and client communication, directly applicable to coordinating patient care as a nurse or medical assistant. Your experience with healthcare projects and OSHPD/HCAI regulations will give you a practical understanding of healthcare systems, accelerating your transition into direct patient care roles."
+    },
+    {
+      "title": "Bilingual Intervention Specialist (Spanish)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777808003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "clinical-support",
+      "function": "education",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.506,
+        "hyre_score": 0.579,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Educational support role, no age restriction.",
+      "cross_function": false,
+      "bridge": "As a Bilingual Intervention Specialist, you're already using diagnostic assessments and behavior plans—skills that directly transfer to patient evaluation and care coordination in healthcare. Your experience with IEPs and co-teaching builds strong communication and teamwork abilities, essential for collaborating with medical teams and educating patients."
+    },
+    {
+      "title": "Assistant Project Manager I",
+      "company": "advastar",
+      "url": "https://jobs.crelate.com/portal/advastar/job/6s39kjobanitawiegpx7j9bh5w",
+      "fit": 80,
+      "job_type": "",
+      "subdomain": "clinical-support",
+      "function": "engineering",
+      "why": "This role builds your aed skills and moves you toward becoming a Nurse.",
+      "gaps": "bluebeam, microsoft-excel, ms-project",
+      "job_score_breakdown": {
+        "source": "mid_level"
+      },
+      "eligible": true,
+      "eligibility_reason": "",
+      "cross_function": false
+    }
+  ],
+  "skill_path": "You already have strong emergency response skills (AED, CPR, first aid) which are a fantastic foundation for healthcare. By building your project management and software skills (Excel, MS Project, Bluebeam), you'll be well-equipped to transition into nursing, medical assisting, or other healthcare roles.",
+  "skill_tree": {
+    "tree": "Healthcare Professional\n├── Nurse\n│   ├── Stretch Skills: (none listed)\n│   ├── Bridge Skills: architectural-design, autodesk-construction-cloud, budget-tracking, cable-tray, change-orders\n│   │   └── Core Missing Skills: bluebeam, microsoft-excel, ms-project, project-management, scheduling\n│   │       └── Current Skills: aed, CPR, first aid, emergency response\n├── Medical Assistant\n│   ├── Stretch Skills: (none listed)\n│   ├── Bridge Skills: architectural-design, autodesk-construction-cloud, budget-tracking, cable-tray, change-orders\n│   │   └── Core Missing Skills: bluebeam, microsoft-excel, ms-project, project-management, scheduling\n│   │       └── Current Skills: aed, CPR, first aid, emergency response\n└── Healthcare Professional (general)\n    ├── Stretch Skills: (none listed)\n    ├── Bridge Skills: architectural-design, autodesk-construction-cloud, budget-tracking, cable-tray, change-orders\n    │   └── Core Missing Skills: bluebeam, microsoft-excel, ms-project, project-management, scheduling\n    │       └── Current Skills: aed, CPR, first aid, emergency response",
+    "steps": [
+      "Start with Microsoft Excel basics via free LinkedIn Learning or GCFGlobal tutorials.",
+      "Learn project management fundamentals through Google's Project Management Certificate on Coursera.",
+      "Practice scheduling with MS Project by following Microsoft's official training modules.",
+      "Explore Bluebeam for healthcare facility documentation using their free trial and tutorials.",
+      "Apply these skills in a volunteer role at a clinic or hospital to build real-world experience."
+    ],
+    "summary": "You already have strong emergency response skills (AED, CPR, first aid) which are a fantastic foundation for healthcare. By building your project management and software skills (Excel, MS Project, Bluebeam), you'll be well-equipped to transition into nursing, medical assisting, or other healthcare roles."
+  },
+  "ideal_careers": [
+    "Nurse",
+    "Medical Assistant",
+    "Healthcare Professional"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "healthcare"
+    ],
+    "goal_roles": [
+      "Nurse",
+      "Medical Assistant"
+    ],
+    "goal_subdomains": [
+      "clinical-support"
+    ],
+    "study_domains": [
+      "healthcare"
+    ],
+    "study_subdomains": [
+      "research"
+    ],
+    "study_program": "Bachelor of  Science: Psychology",
+    "study_level": "bachelor",
+    "intent_confidence": 0.598,
+    "intent_strength": 0.798,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Nurse, Medical Assistant, Healthcare Professional\n=== Bianka Pena - Resume.pdf ===\nBIANKA NICOLLE PENA MARCELINO\nTemple, PA 19560\n6469721673 - bianka.pena.marcelino@gmail.com\nWEBSITES, PORTFOLIOS, PROFILES\n•\nlinkedin.com/in/bianka-pena-708173232\nPROFESSIONAL SUMMAR",
+    "study_text": "Bachelor of  Science: Psychology\n05/2026\n05/2026\n**Year Up United** — 2023 – 2025\n---\n*Note: Limited profile activity — no posts, 3 connections.*\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026\n05/2026"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "healthcare": 60,
+      "legal": 9,
+      "education": 7
+    },
+    "study": {
+      "healthcare": 26,
+      "personal-care": 18,
+      "arts-media": 17
+    },
+    "classifier": {
+      "agriculture": 30,
+      "healthcare": 21,
+      "arts-media": 19
+    },
+    "onet": {
+      "education": 26,
+      "healthcare": 18,
+      "technology": 17
+    },
+    "embeddings": {
+      "education": 8,
+      "healthcare": 7,
+      "social-service": 7
+    },
+    "experience": {}
+  },
+  "candidate_functions": [
+    "healthcare",
+    "education",
+    "arts-media",
+    "finance"
+  ],
+  "subdomain": "clinical-support",
+  "subdomain_confidence": 0.86,
+  "subdomain_alternatives": [
+    "research",
+    "public-health"
+  ],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "clinical-support",
+    "youth-programs",
+    "clinical-support",
+    "clinical-support",
+    "clinical-support"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "healthcare",
+      "chosen_subdomain": "clinical-support",
+      "secondary_function": "education",
+      "goal_domains": [
+        "healthcare"
+      ],
+      "study_domains": [
+        "healthcare"
+      ],
+      "goal_subdomains": [
+        "clinical-support"
+      ],
+      "study_subdomains": [
+        "research"
+      ],
+      "goal_roles": [
+        "Nurse",
+        "Medical Assistant"
+      ],
+      "confidence": 0.86,
+      "evidence_spans": [
+        {
+          "section": "skills",
+          "text": "Provided direct resident care in substance use disorder treatment settings."
+        },
+        {
+          "section": "skills",
+          "text": "Administered medications as a med-certified aide and maintained HIPAA-compliant documentation."
+        }
+      ],
+      "reason_codes": [
+        "explicit_goal_supported_by_experience",
+        "strong_work_experience_in_healthcare",
+        "education_experience_as_secondary"
+      ],
+      "review_reasons": []
+    },
+    "evidence": {
+      "accepted": true,
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "AED usage requires CPR knowledge",
+          "skill": "CPR"
+        },
+        {
+          "confidence": "medium",
+          "reason": "AED usage indicates first aid proficiency",
+          "skill": "first aid"
+        },
+        {
+          "confidence": "medium",
+          "reason": "AED usage indicates emergency response skills",
+          "skill": "emergency response"
+        }
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "access",
+        "accountability",
+        "administrative",
+        "administrative support",
+        "adult programs",
+        "advocacy",
+        "aide",
+        "ambassador",
+        "analysis",
+        "analytical",
+        "analytical thinking",
+        "applications",
+        "attendance",
+        "bachelor"
+      ],
+      "review_reasons": [],
+      "scored_skills": [
+        "aed"
+      ],
+      "verified_skills": [
+        "aed"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "agriculture": 30,
+    "healthcare": 21,
+    "arts-media": 19
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

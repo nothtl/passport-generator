@@ -1,52 +1,30 @@
 {
   "resume": "=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED \nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142 \n\nLEYLI  HERNANDEZ \n\nABOUT ME \n\nMy name is Leyli Hernandez, 17 years old. I’ve grown up and lived in Queens and am very \npassionate about helping my community in any way, anytime. I am constantly assisting in \nany event which has allowed me to be very engaging towards others whenever I get the \nopportunity. I love to stay physically active and always have something to do. I am always \ndown to try new things and expand my horizons. \n\nVOLUNTEERING  HISTORY \n\n● \n\n● \n\nI spend most of the weekends or afterschool hours volunteering with Elmhurst \nCommunity Partnership(ECP) which is a non-profit organization that provides free \nsports clubs, social groups, community assistance, community events and other \nactivities. \nI am also the Co-Chair of the Executive Board of another non-profit company I work \nwith called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and \nColleges to help students work on their leadership skills, career paths, and connects \nthese students with professionals based on their career interests. I am also chair to \nthe Media committee, and work with planning our monthly events to help them run \nsmoother. \n\n \n \n \n \n \n \n \n\fSKILLS \n\nTeam Leadership (Experienced), Community Engagement (Experienced), Problem Solving \n(Experienced), Social Media Management (Experienced), Quick Learner, Organized, Public \nSpeaking (Experienced). \n\nEDUCATION \n\nHIGH SCHOOL \n\n40-11 28th St, Astoria, NY 11101  \n\nCurrently a Junior Student-Athlete at Academy of American Studies High \nSchool as I am part of the Varsity Girls Flag Football team  \n\nLANGUAGES \n\nEnglish (Native), Spanish (Highly proficient).",
   "function": "social-service",
-  "confidence": 65,
+  "confidence": 61,
   "skills": [
-    "Coordination",
-    "Communications and Media",
-    "Customer and Personal Service",
-    "Social Perceptiveness",
-    "Speaking",
-    "Active Listening",
-    "Time Management",
-    "Critical Thinking",
-    "Management of Personnel Resources",
-    "Sales and Marketing",
     "community engagement",
-    "engagement",
     "leadership",
-    "management",
-    "media management",
-    "organized",
     "problem solving",
     "public speaking",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "quick learner",
+    "organized",
+    "speaking",
+    "spanish",
+    "media management"
   ],
   "verified_skills": [
-    "Coordination",
-    "Communications and Media",
-    "Customer and Personal Service",
-    "Social Perceptiveness",
-    "Speaking",
-    "Active Listening",
-    "Time Management",
-    "Critical Thinking",
-    "Management of Personnel Resources",
-    "Sales and Marketing",
     "community engagement",
-    "engagement",
     "leadership",
-    "management",
-    "media management",
-    "organized",
     "problem solving",
     "public speaking",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "quick learner",
+    "organized",
+    "speaking",
+    "spanish",
+    "media management"
   ],
   "possible_skills": [],
   "rejected_skills": [
@@ -56,7 +34,6 @@
     "career paths",
     "community events",
     "ecp",
-    "engaging",
     "flag football",
     "football",
     "groups",
@@ -65,131 +42,98 @@
     "hours",
     "junior",
     "languages",
-    "learner",
+    "management",
     "media",
     "name",
-    "native spanish",
     "non profit",
     "non profit organization",
     "organization",
+    "organized",
     "part",
     "passionate",
     "physically active",
     "professionals",
-    "quick learner",
-    "schools",
     "social",
-    "spanish",
-    "speaking",
-    "sports",
+    "social media",
     "student athlete",
     "u s citizen",
+    "volunteering",
     "weekends"
   ],
   "skill_weights": {},
   "market_relevant": [
-    "Coordination",
-    "Communications and Media",
-    "Customer and Personal Service",
-    "Social Perceptiveness",
-    "Speaking",
-    "Active Listening",
-    "Time Management",
-    "Critical Thinking",
-    "Management of Personnel Resources",
-    "Sales and Marketing",
     "community engagement",
-    "engagement",
     "leadership",
-    "management",
-    "media management",
-    "organized",
     "problem solving",
     "public speaking",
     "social media management",
-    "team leadership",
-    "volunteering"
+    "quick learner",
+    "organized",
+    "speaking",
+    "spanish",
+    "media management"
   ],
   "inferred": [
-    "Bilingual (Spanish)",
-    "Event Planning",
-    "Team Collaboration"
+    "team leadership",
+    "language proficiency",
+    "organizational skills"
   ],
   "implicit_skills": [
     {
-      "skill": "Bilingual (Spanish)",
-      "reason": "Mentioned 'native spanish' and 'spanish' in education context",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Student athlete role implies experience leading or collaborating in teams",
+      "skill": "team leadership"
     },
     {
-      "skill": "Event Planning",
-      "reason": "Mentioned 'community events' and 'organized'",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Native Spanish indicates strong speaking and comprehension abilities",
+      "skill": "language proficiency"
     },
     {
-      "skill": "Team Collaboration",
-      "reason": "Mentioned 'team leadership' and 'groups'",
-      "confidence": "medium"
+      "confidence": "medium",
+      "reason": "Explicit mention of being organized suggests structured task management",
+      "skill": "organizational skills"
     }
   ],
   "skill_evidence": [],
   "gaps": [
-    "communication",
-    "customer-service",
-    "education",
-    "history",
-    "organization"
+    "active-listening",
+    "communication"
   ],
   "core_gaps": [
-    "communication",
-    "customer-service",
-    "education",
-    "history",
-    "organization"
+    "active-listening",
+    "communication"
   ],
   "bridge_gaps": [
-    "archaeology",
-    "gardens",
-    "interpretation",
-    "tour-management"
-  ],
-  "stretch_gaps": [
-    "camp-operations",
-    "classroom-support",
+    "classical-education",
     "coaching",
-    "english",
-    "event-participation",
-    "event-support",
-    "facilitation",
-    "group-instruction",
-    "logistics",
-    "microsoft-office"
+    "community-outreach",
+    "crisis-prevention",
+    "customer-communication",
+    "differentiated-instruction",
+    "digital-tools",
+    "documentation",
+    "documenting",
+    "education"
   ],
+  "stretch_gaps": [],
   "nice_to_have_gaps": [
-    "archaeology",
-    "camp-operations",
-    "classroom-support",
+    "classical-education",
     "coaching",
-    "english",
-    "event-participation",
-    "event-support",
-    "facilitation",
-    "gardens",
-    "group-instruction"
+    "community-outreach",
+    "crisis-prevention",
+    "customer-communication",
+    "differentiated-instruction",
+    "digital-tools",
+    "documentation",
+    "documenting",
+    "education"
   ],
   "verify_gaps": [],
   "related": [
     {
-      "skill": "verbalcommunication",
-      "pmi": 4.53
-    },
-    {
-      "skill": "writtencommunication",
-      "pmi": 4.39
-    },
-    {
-      "skill": "microsoftoffice",
-      "pmi": 3.54
+      "skill": "bilingual",
+      "pmi": 3.85
     },
     {
       "skill": "privatelessons",
@@ -204,34 +148,34 @@
       "pmi": 3.2
     },
     {
-      "skill": "confidentiality",
-      "pmi": 3.11
-    },
-    {
-      "skill": "planning",
-      "pmi": 3.02
-    },
-    {
       "skill": "teamdevelopment",
       "pmi": 2.98
     },
     {
-      "skill": "safetyprotocols",
-      "pmi": 2.94
+      "skill": "mentorship",
+      "pmi": 2.92
+    },
+    {
+      "skill": "english",
+      "pmi": 2.9
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
+    },
+    {
+      "skill": "hospitality",
+      "pmi": 2.69
+    },
+    {
+      "skill": "youthministry",
+      "pmi": 2.69
     }
   ],
   "related_skills": [
     {
-      "skill": "verbalcommunication",
-      "pmi": 4.53
-    },
-    {
-      "skill": "writtencommunication",
-      "pmi": 4.39
-    },
-    {
-      "skill": "microsoftoffice",
-      "pmi": 3.54
+      "skill": "bilingual",
+      "pmi": 3.85
     },
     {
       "skill": "privatelessons",
@@ -246,20 +190,28 @@
       "pmi": 3.2
     },
     {
-      "skill": "confidentiality",
-      "pmi": 3.11
-    },
-    {
-      "skill": "planning",
-      "pmi": 3.02
-    },
-    {
       "skill": "teamdevelopment",
       "pmi": 2.98
     },
     {
-      "skill": "safetyprotocols",
-      "pmi": 2.94
+      "skill": "mentorship",
+      "pmi": 2.92
+    },
+    {
+      "skill": "english",
+      "pmi": 2.9
+    },
+    {
+      "skill": "flexibility",
+      "pmi": 2.8
+    },
+    {
+      "skill": "hospitality",
+      "pmi": 2.69
+    },
+    {
+      "skill": "youthministry",
+      "pmi": 2.69
     }
   ],
   "alternatives": [
@@ -284,244 +236,614 @@
       "pct": 4
     }
   ],
-  "coach_notes": "For a social-service path, focus first on communication, customer-service, education. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "coach_notes": "For a social-service path, focus first on active-listening, communication. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
   "jobs": [
     {
-      "title": "Instructional Aide (Pre-Employment Transition Services) - Jonesboro",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2742946",
-      "fit": 88,
-      "job_type": "goal",
+      "title": "Young Adult Peer Supporter (Teen Talk Lines)",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/12C122FC51",
+      "fit": 58,
+      "job_type": "bridge",
       "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
+      "function": "healthcare",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
       "job_score_breakdown": {
-        "goal_alignment": 0.438,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.4,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Role is an instructional aide, no age restrictions beyond typical employment."
-    },
-    {
-      "title": "English and History tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
-      "fit": 83,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
-      "job_score_breakdown": {
-        "goal_alignment": 0.312,
-        "study_alignment": 0.556,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.175,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.00419012,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 8,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Tutor, no age restriction."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Young Adult Peer Supporter, you'll deepen your empathic-communication and active-listening skills, which are essential for Social Work and Youth Advocacy, while your crisis-prevention and mentoring experience directly translate to community organizing. This role builds the practical, people-centered foundation you need to transition into your aspirational career."
     },
     {
-      "title": "Dance Professional",
-      "company": "fred-astaire-dance-studios-3",
-      "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
+      "title": "Academic Mentor",
+      "company": "allendigital",
+      "url": "https://allendigital.hire.trakstar.com/jobs/fk0p9bz/",
+      "fit": 55,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.222,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 6,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As an Academic Mentor, you're already honing student-guidance, progress-tracking, and customer-communication—skills that directly translate to case management and advocacy in social work. Your experience with learning strategies and organization will help you design community programs and track client progress, while your strong communication and leadership from community engagement will amplify your impact as a Youth Advocate."
+    },
+    {
+      "title": "Peer Support/Teen Talk Line Internship: Fall 2026/Spring 2027",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/7EAFD510EF",
+      "fit": 55,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 6,
+        "hyper_n": 8,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Peer support line, age-appropriate.",
+      "cross_function": false,
+      "bridge": "This internship sharpens your active-listening, empathy, and documentation skills—directly transferable to social work and youth advocacy. Mastering these will deepen your community engagement and leadership, making you a more effective advocate."
+    },
+    {
+      "title": "Regional Owner - Montgomery County",
+      "company": "brixrecruitingpartners",
+      "url": "https://jobs.crelate.com/portal/brixrecruitingpartners/job/6yqybspunaw6fgar844519wm4o",
+      "fit": 44,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.4,
+        "skill_overlap_raw": 0.286,
+        "hyper_p_value": 4.861e-05,
+        "hyper_k": 2,
+        "hyper_K": 6,
+        "hyper_n": 7,
+        "hyper_N": 3594,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Regional Owner, you're already building transferable skills like project management, coaching, and relationship-building that are essential for social work and community organizing. These experiences will directly prepare you to advocate for youth and manage community initiatives effectively."
     },
     {
-      "title": "Cultural Site Interpreter",
-      "company": "thetrustees",
-      "url": "https://apply.workable.com/j/13E441BC84",
-      "fit": 50,
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 44,
       "job_type": "bridge",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
       "job_score_breakdown": {
-        "goal_alignment": 0.125,
+        "goal_alignment": 0.0,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 15,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Cultural site interpreter role is suitable for minors/young adults."
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "cross_function": false,
+      "bridge": "As a virtual elementary teacher, you'll build transferable skills in parent communication, differentiated instruction, and problem-solving—directly applicable to social work and youth advocacy. These experiences strengthen your ability to engage diverse stakeholders, adapt support to individual needs, and lead community initiatives."
     },
     {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
+      "title": "Student Ambassador",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/student-ambassador-aj271bWg1cT5RY164W9z1l?ref=rss&sid=68",
       "fit": 50,
-      "job_type": "goal",
+      "job_type": "bridge",
       "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
       "job_score_breakdown": {
-        "goal_alignment": 0.562,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 1.0,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.083,
-        "quality_penalty": 0.45
+        "skill_overlap": 0.2,
+        "skill_overlap_raw": 0.143,
+        "hyper_p_value": 0.01163745,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 7,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "​​Educador/a – Jardí Botànic de Cap Roig ",
+      "company": "anthesisgroup",
+      "url": "https://anthesisgroup.pinpointhq.com/en/postings/3e54a241-7dd1-4984-82e2-92fd9acb7158",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.28,
+        "skill_overlap_raw": 0.2,
+        "hyper_p_value": 0.00770073,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 5,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Bilingual 1st Grade Teacher (Spanish) ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777819003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.01535058,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching roles do not have age restrictions beyond typical employment laws; 16-20 year olds can be teachers or assistants.",
+      "cross_function": false
+    },
+    {
+      "title": "Science Tutor - Part Time",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/science-tutor-part-time-beSjVa_fDk441HxuHUWtDo?ref=rss&sid=68",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.175,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.01229673,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Tutor, no age restriction.",
+      "cross_function": false
+    },
+    {
+      "title": "Spanish Teacher (Part-Time)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7765031003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.01535058,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
     }
   ],
   "ready_now": [
     {
-      "title": "Instructional Aide (Pre-Employment Transition Services) - Jonesboro",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/2742946",
-      "fit": 88,
-      "job_type": "goal",
+      "title": "Young Adult Peer Supporter (Teen Talk Lines)",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/12C122FC51",
+      "fit": 58,
+      "job_type": "bridge",
       "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
+      "function": "healthcare",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
       "job_score_breakdown": {
-        "goal_alignment": 0.438,
-        "study_alignment": 0.556,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.85,
-        "skill_overlap": 0.4,
-        "quality_penalty": 0.0
-      },
-      "eligible": true,
-      "eligibility_reason": "Role is an instructional aide, no age restrictions beyond typical employment."
-    },
-    {
-      "title": "English and History tutor",
-      "company": "ajtutoring",
-      "url": "https://job-boards.greenhouse.io/ajtutoring/jobs/8302021002",
-      "fit": 83,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
-      "job_score_breakdown": {
-        "goal_alignment": 0.312,
-        "study_alignment": 0.556,
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
         "subdomain_alignment": 1.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.1,
+        "skill_overlap": 0.175,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.00419012,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 8,
+        "hyper_N": 11438,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Tutor, no age restriction."
-    }
-  ],
-  "aspirational": [
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Young Adult Peer Supporter, you'll deepen your empathic-communication and active-listening skills, which are essential for Social Work and Youth Advocacy, while your crisis-prevention and mentoring experience directly translate to community organizing. This role builds the practical, people-centered foundation you need to transition into your aspirational career."
+    },
     {
-      "title": "Dance Professional",
-      "company": "fred-astaire-dance-studios-3",
-      "url": "https://apply.workable.com/j/A8270D9145",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
+      "title": "Academic Mentor",
+      "company": "allendigital",
+      "url": "https://allendigital.hire.trakstar.com/jobs/fk0p9bz/",
+      "fit": 55,
+      "job_type": "bridge",
+      "subdomain": "youth-programs",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
       "job_score_breakdown": {
-        "goal_alignment": 0.25,
-        "study_alignment": 0.222,
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 6,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As an Academic Mentor, you're already honing student-guidance, progress-tracking, and customer-communication—skills that directly translate to case management and advocacy in social work. Your experience with learning strategies and organization will help you design community programs and track client progress, while your strong communication and leadership from community engagement will amplify your impact as a Youth Advocate."
+    },
+    {
+      "title": "Peer Support/Teen Talk Line Internship: Fall 2026/Spring 2027",
+      "company": "access-services-3",
+      "url": "https://apply.workable.com/j/7EAFD510EF",
+      "fit": 55,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.111,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 1.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 6,
+        "hyper_n": 8,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Peer support line, age-appropriate.",
+      "cross_function": false,
+      "bridge": "This internship sharpens your active-listening, empathy, and documentation skills—directly transferable to social work and youth advocacy. Mastering these will deepen your community engagement and leadership, making you a more effective advocate."
+    },
+    {
+      "title": "Regional Owner - Montgomery County",
+      "company": "brixrecruitingpartners",
+      "url": "https://jobs.crelate.com/portal/brixrecruitingpartners/job/6yqybspunaw6fgar844519wm4o",
+      "fit": 44,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.25,
+        "skill_overlap": 0.4,
+        "skill_overlap_raw": 0.286,
+        "hyper_p_value": 4.861e-05,
+        "hyper_k": 2,
+        "hyper_K": 6,
+        "hyper_n": 7,
+        "hyper_N": 3594,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Dance professional role is suitable for minors/young adults."
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "As a Regional Owner, you're already building transferable skills like project management, coaching, and relationship-building that are essential for social work and community organizing. These experiences will directly prepare you to advocate for youth and manage community initiatives effectively."
     },
     {
-      "title": "Cultural Site Interpreter",
-      "company": "thetrustees",
-      "url": "https://apply.workable.com/j/13E441BC84",
-      "fit": 50,
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 44,
       "job_type": "bridge",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
       "job_score_breakdown": {
-        "goal_alignment": 0.125,
+        "goal_alignment": 0.0,
         "study_alignment": 0.333,
         "subdomain_alignment": 0.0,
         "experience_alignment": 0.0,
         "attainability": 0.75,
-        "skill_overlap": 0.125,
+        "skill_overlap": 0.0,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 7,
+        "hyper_n": 15,
+        "hyper_N": 4533,
         "quality_penalty": 0.0
       },
       "eligible": true,
-      "eligibility_reason": "Cultural site interpreter role is suitable for minors/young adults."
-    },
-    {
-      "title": "Camp Counselor -DMV",
-      "company": "",
-      "url": "https://recruiting.paylocity.com/recruiting/jobs/details/3997617",
-      "fit": 50,
-      "job_type": "goal",
-      "subdomain": "youth-support",
-      "function": "social-service",
-      "why": "This role builds your Coordination, Communications and Media, Customer and Personal Service skills and moves you toward becoming a Social Worker.",
-      "gaps": "communication, customer-service, education",
-      "job_score_breakdown": {
-        "goal_alignment": 0.562,
-        "study_alignment": 0.667,
-        "subdomain_alignment": 1.0,
-        "experience_alignment": 0.0,
-        "attainability": 0.75,
-        "skill_overlap": 0.083,
-        "quality_penalty": 0.45
-      },
-      "eligible": true,
-      "eligibility_reason": "Camp counselor, no age restriction."
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "cross_function": false,
+      "bridge": "As a virtual elementary teacher, you'll build transferable skills in parent communication, differentiated instruction, and problem-solving—directly applicable to social work and youth advocacy. These experiences strengthen your ability to engage diverse stakeholders, adapt support to individual needs, and lead community initiatives."
     }
   ],
-  "skill_path": "You already have a powerful set of skills in coordination, communication, and social perceptiveness. By building bridge skills like interpretation and event planning, and then targeting specific goal skills like education and history, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate.",
+  "aspirational": [
+    {
+      "title": "Student Ambassador",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/student-ambassador-aj271bWg1cT5RY164W9z1l?ref=rss&sid=68",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "other",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.2,
+        "skill_overlap_raw": 0.143,
+        "hyper_p_value": 0.01163745,
+        "hyper_k": 1,
+        "hyper_K": 6,
+        "hyper_n": 7,
+        "hyper_N": 3594,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "​​Educador/a – Jardí Botànic de Cap Roig ",
+      "company": "anthesisgroup",
+      "url": "https://anthesisgroup.pinpointhq.com/en/postings/3e54a241-7dd1-4984-82e2-92fd9acb7158",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.28,
+        "skill_overlap_raw": 0.2,
+        "hyper_p_value": 0.00770073,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 5,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    },
+    {
+      "title": "Bilingual 1st Grade Teacher (Spanish) ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777819003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.01535058,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching roles do not have age restrictions beyond typical employment laws; 16-20 year olds can be teachers or assistants.",
+      "cross_function": false
+    },
+    {
+      "title": "Science Tutor - Part Time",
+      "company": "cecilcollege",
+      "url": "https://careers.jobscore.com/careers/cecilcollege/jobs/science-tutor-part-time-beSjVa_fDk441HxuHUWtDo?ref=rss&sid=68",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.175,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.01229673,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Tutor, no age restriction.",
+      "cross_function": false
+    },
+    {
+      "title": "Spanish Teacher (Part-Time)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7765031003",
+      "fit": 50,
+      "job_type": "bridge",
+      "subdomain": "youth-support",
+      "function": "education",
+      "why": "This role builds your community engagement, leadership, problem solving skills and moves you toward becoming a Social Worker.",
+      "gaps": "active-listening, communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.111,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.14,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.01535058,
+        "hyper_k": 1,
+        "hyper_K": 7,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false
+    }
+  ],
+  "skill_path": "You already have a strong foundation in community engagement, leadership, and bilingual skills. By developing active listening and communication through targeted training and hands-on experience, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate.",
   "skill_tree": {
-    "tree": "CURRENT SKILLS\n├── Coordination\n├── Communications and Media\n├── Customer and Personal Service\n├── Social Perceptiveness\n├── Speaking\n├── Active Listening\n├── Time Management\n├── Critical Thinking\n├── Management of Personnel Resources\n├── Sales and Marketing\n├── Bilingual (Spanish)\n├── Event Planning\n└── Team Collaboration\n    ↓\nBRIDGE SKILLS\n├── Archaeology\n├── Gardens\n├── Interpretation\n└── Tour Management\n    ↓\nGOAL SKILLS\n├── Communication\n├── Customer Service\n├── Education\n├── History\n├── Organization\n├── Camp Operations\n├── Classroom Support\n├── Coaching\n├── English\n└── Event Participation\n    ↓\nCAREER\n├── Social Worker\n├── Community Organizer\n└── Youth Advocate",
+    "tree": "CURRENT SKILLS\n├── community engagement\n├── leadership\n├── problem solving\n├── public speaking\n├── social media management\n├── quick learner\n├── organized\n├── speaking\n├── spanish\n├── media management\n├── team leadership (implicit)\n├── language proficiency (implicit)\n└── organizational skills (implicit)\n    ↓\nBRIDGE SKILLS\n├── classical-education\n├── coaching\n├── community-outreach\n├── crisis-prevention\n├── customer-communication\n├── active-listening (core missing)\n└── communication (core missing)\n    ↓\nGOAL SKILLS\n├── Social Work: empathy, case management, counseling\n├── Community Organizing: coalition building, advocacy, grant writing\n└── Youth Advocacy: youth development, mentoring, policy knowledge\n    ↓\nDREAM CAREERS\n├── Social Worker\n├── Community Organizer\n└── Youth Advocate",
     "steps": [
-      "Take a free online course in communication or public speaking to strengthen your already strong foundation.",
-      "Volunteer at a local community garden or museum to develop interpretation and event planning skills.",
-      "Enroll in a history or education class at a community college to build knowledge for youth advocacy.",
-      "Seek a part-time role in camp operations or classroom support to gain hands-on experience with youth.",
-      "Network with social workers and community organizers to learn about their career paths and find mentorship."
+      "Take a free online course on active listening and communication (e.g., Coursera's 'Improving Communication Skills').",
+      "Volunteer with a local crisis hotline to practice crisis prevention and active listening.",
+      "Enroll in a community college class on social work or community organizing to build classical education.",
+      "Seek a mentorship or coaching opportunity with an experienced social worker or community organizer.",
+      "Apply for an entry-level position or internship at a nonprofit focusing on youth advocacy or community outreach."
     ],
-    "summary": "You already have a powerful set of skills in coordination, communication, and social perceptiveness. By building bridge skills like interpretation and event planning, and then targeting specific goal skills like education and history, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate."
+    "summary": "You already have a strong foundation in community engagement, leadership, and bilingual skills. By developing active listening and communication through targeted training and hands-on experience, you'll be well on your way to becoming a Social Worker, Community Organizer, or Youth Advocate."
   },
   "ideal_careers": [
     "Social Worker",
@@ -530,8 +852,7 @@
   ],
   "student_intent": {
     "goal_domains": [
-      "social-service",
-      "education"
+      "social-service"
     ],
     "goal_roles": [
       "Social Worker",
@@ -539,8 +860,7 @@
       "Youth Advocate"
     ],
     "goal_subdomains": [
-      "youth-support",
-      "community-support"
+      "youth-support"
     ],
     "study_domains": [
       "education"
@@ -550,14 +870,14 @@
     ],
     "study_program": "HIGH SCHOOL",
     "study_level": "high-school",
-    "intent_confidence": 0.787,
-    "intent_strength": 0.987,
+    "intent_confidence": 0.791,
+    "intent_strength": 0.991,
     "has_student_intent": true
   },
   "intent_summary": {
     "headline": "",
     "summary_text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate\n=== Leyli Hernandez - Resume.pdf ===\nMAY 24, 2009 • U.S. CITIZEN • 99-22 42ND AVE, BASEMENT, CORONA, UNITED\nSTATES, 11368 • leyyhdzzz@gmail.com • (347)453-8142\nLEYLI  HERNANDEZ\nABOUT ME\nMy name is Leyli Hernandez, ",
-    "study_text": "HIGH SCHOOL\n40-11 28th St, Astoria, NY 11101\nCurrently a Junior Student-Athlete at Academy of American Studies High\nSchool as I am part of the Varsity Girls Flag Football team\nLANGUAGES\nEnglish (Native), Spanish (Highly proficient)."
+    "study_text": "HIGH SCHOOL\n40-11 28th St, Astoria, NY 11101\nCurrently a Junior Student-Athlete at Academy of American Studies High\nSchool as I am part of the Varsity Girls Flag Football team\nLANGUAGES\nEnglish (Native), Spanish (Highly proficient).\nHIGH SCHOOL\n40-11 28th St, Astoria, NY 11101\nCu"
   },
   "signal_breakdown": {
     "aspiration": {
@@ -567,7 +887,7 @@
     },
     "study": {
       "education": 79,
-      "arts-media": 56,
+      "arts-media": 57,
       "logistics": 10
     },
     "classifier": {
@@ -597,105 +917,68 @@
   "lane_used": "rescue",
   "job_cluster": [
     "youth-support",
+    "youth-programs",
     "youth-support",
     "youth-support",
-    "youth-support",
-    "youth-support"
+    "classroom-support"
   ],
-  "needs_review": true,
+  "needs_review": false,
   "review_reasons": [],
   "llm_stage_results": {
     "route": {
       "accepted": true,
       "chosen_function": "social-service",
       "chosen_subdomain": "youth-support",
-      "secondary_function": "education",
+      "confidence": 0.85,
+      "evidence_spans": [
+        {
+          "section": "summary",
+          "text": "Ideal careers: Social Worker, Community Organizer, Youth Advocate"
+        },
+        {
+          "section": "summary",
+          "text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst Community Partnership(ECP) which is a non-profit organization that provides free sports clubs, social groups, community assistance, community events and other activities."
+        }
+      ],
       "goal_domains": [
-        "social-service",
-        "education"
+        "social-service"
       ],
-      "study_domains": [
-        "education"
-      ],
-      "goal_subdomains": [
-        "youth-support",
-        "community-support"
-      ],
-      "study_subdomains": [],
       "goal_roles": [
         "Social Worker",
         "Community Organizer",
         "Youth Advocate"
       ],
-      "confidence": 0.85,
-      "evidence_spans": [
-        {
-          "section": "summary",
-          "text": "I am constantly assisting in any event which has allowed me to be very engaging towards others whenever I get the opportunity."
-        },
-        {
-          "section": "summary",
-          "text": "I spend most of the weekends or afterschool hours volunteering with Elmhurst Community Partnership(ECP) which is a non-profit organization that provides free sports clubs, social groups, community assistance, community events and other activities."
-        },
-        {
-          "section": "summary",
-          "text": "I am also the Co-Chair of the Executive Board of another non-profit company I work with called SPEAKHIRE. SPEAKHIRE works with Middle Schools, High Schools, and Colleges to help students work on their leadership skills, career paths, and connects these students with professionals based on their career interests."
-        }
+      "goal_subdomains": [
+        "youth-support"
       ],
       "reason_codes": [
         "explicit_goal",
-        "volunteer_experience",
-        "community_focus"
+        "volunteer_experience"
       ],
-      "review_reasons": []
+      "review_reasons": [],
+      "secondary_function": "education",
+      "study_domains": [],
+      "study_subdomains": []
     },
     "evidence": {
       "accepted": true,
-      "scored_skills": [
-        "Coordination",
-        "Communications and Media",
-        "Customer and Personal Service",
-        "Social Perceptiveness",
-        "Speaking",
-        "Active Listening",
-        "Time Management",
-        "Critical Thinking",
-        "Management of Personnel Resources",
-        "Sales and Marketing",
-        "community engagement",
-        "engagement",
-        "leadership",
-        "management",
-        "media management",
-        "organized",
-        "problem solving",
-        "public speaking",
-        "social media management",
-        "team leadership",
-        "volunteering"
-      ],
-      "verified_skills": [
-        "Coordination",
-        "Communications and Media",
-        "Customer and Personal Service",
-        "Social Perceptiveness",
-        "Speaking",
-        "Active Listening",
-        "Time Management",
-        "Critical Thinking",
-        "Management of Personnel Resources",
-        "Sales and Marketing",
-        "community engagement",
-        "engagement",
-        "leadership",
-        "management",
-        "media management",
-        "organized",
-        "problem solving",
-        "public speaking",
-        "social media management",
-        "team leadership",
-        "volunteering"
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Student athlete role implies experience leading or collaborating in teams",
+          "skill": "team leadership"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Native Spanish indicates strong speaking and comprehension abilities",
+          "skill": "language proficiency"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Explicit mention of being organized suggests structured task management",
+          "skill": "organizational skills"
+        }
       ],
       "possible_skills": [],
       "rejected_skills": [
@@ -705,7 +988,6 @@
         "career paths",
         "community events",
         "ecp",
-        "engaging",
         "flag football",
         "football",
         "groups",
@@ -714,48 +996,74 @@
         "hours",
         "junior",
         "languages",
-        "learner",
+        "management",
         "media",
         "name",
-        "native spanish",
         "non profit",
         "non profit organization",
         "organization",
+        "organized",
         "part",
         "passionate",
         "physically active",
         "professionals",
-        "quick learner",
-        "schools",
         "social",
-        "spanish",
-        "speaking",
-        "sports",
+        "social media",
         "student athlete",
         "u s citizen",
+        "volunteering",
         "weekends"
       ],
-      "implicit_skills": [
-        {
-          "skill": "Bilingual (Spanish)",
-          "reason": "Mentioned 'native spanish' and 'spanish' in education context",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Event Planning",
-          "reason": "Mentioned 'community events' and 'organized'",
-          "confidence": "medium"
-        },
-        {
-          "skill": "Team Collaboration",
-          "reason": "Mentioned 'team leadership' and 'groups'",
-          "confidence": "medium"
-        }
+      "review_reasons": [],
+      "scored_skills": [
+        "community engagement",
+        "leadership",
+        "problem solving",
+        "public speaking",
+        "social media management",
+        "quick learner",
+        "organized",
+        "speaking",
+        "spanish",
+        "media management"
       ],
-      "evidence_items": [],
-      "review_reasons": []
+      "verified_skills": [
+        "community engagement",
+        "leadership",
+        "problem solving",
+        "public speaking",
+        "social media management",
+        "quick learner",
+        "organized",
+        "speaking",
+        "spanish",
+        "media management"
+      ]
     }
   },
+  "classifier_top_function": {
+    "arts-media": 50,
+    "sales": 7,
+    "finance": 6
+  },
+  "cross_functions_explored": [
+    "healthcare",
+    "healthcare"
+  ],
+  "cross_function_count": 2,
+  "cross_function_jobs": [
+    {
+      "title": "Peer Support Specialist",
+      "function": "healthcare",
+      "fit": 23
+    },
+    {
+      "title": "Spanish Bilingual Virtual Medical Assistant",
+      "function": "healthcare",
+      "fit": 12
+    }
+  ],
+  "explore_jobs": [],
   "llm_trace": [
     {
       "stage": "route",

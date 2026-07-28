@@ -143,11 +143,53 @@ def _download_open_jobs_rows() -> list[dict]:
     ]
     target_levels = ["intern", "entry", "junior", ""]
 
-    # Already have it locally?
+    # Already have it locally? Check remote headers to avoid 22GB re-download.
     local_path = os.path.join(_SCRIPT_DIR, "_open_jobs_full.parquet")
+    meta_path = local_path + ".meta"
     if os.path.exists(local_path) and os.path.getsize(local_path) > 10_000_000:
-        print(f"Using local copy: {local_path} ({os.path.getsize(local_path)/1e9:.1f} GB)")
-        return _filter_parquet_file(local_path, target_functions, target_levels)
+        local_size = os.path.getsize(local_path)
+        stale = False
+        try:
+            import urllib.request, json
+            head_req = urllib.request.Request(source, method="HEAD")
+            head_req.add_header("User-Agent", "Mozilla/5.0")
+            with urllib.request.urlopen(head_req, timeout=15) as hr:
+                remote_size = int(hr.headers.get("Content-Length", 0))
+                remote_modified = hr.headers.get("Last-Modified", "")
+                remote_etag = hr.headers.get("ETag", "")
+
+            # Compare against stored metadata from last download
+            prev_meta = {}
+            if os.path.exists(meta_path):
+                try:
+                    with open(meta_path) as mf:
+                        prev_meta = json.load(mf)
+                except Exception:
+                    pass
+
+            same_size = remote_size > 0 and remote_size == prev_meta.get("size")
+            same_modified = remote_modified and remote_modified == prev_meta.get("last_modified")
+            same_etag = remote_etag and remote_etag == prev_meta.get("etag")
+
+            if same_size and (same_modified or same_etag):
+                print(f"Local copy is up to date "
+                      f"(modified={remote_modified}, size={remote_size/1e9:.1f} GB)")
+                return _filter_parquet_file(local_path, target_functions, target_levels)
+            elif remote_size > 0 or remote_modified:
+                reason = []
+                if not same_size and remote_size > 0:
+                    reason.append(f"size {prev_meta.get('size',0)/1e9:.1f}→{remote_size/1e9:.1f}GB")
+                if not same_modified and remote_modified:
+                    reason.append(f"modified {remote_modified}")
+                print(f"Remote file changed ({', '.join(reason)}), re-downloading...")
+                os.remove(local_path)
+                stale = True
+            else:
+                print(f"Using local copy ({local_size/1e9:.1f} GB) — could not verify remote")
+                return _filter_parquet_file(local_path, target_functions, target_levels)
+        except Exception:
+            print(f"HEAD request failed — using local copy ({local_size/1e9:.1f} GB)")
+            return _filter_parquet_file(local_path, target_functions, target_levels)
 
     if not source.startswith(("http://", "https://")):
         return _filter_parquet_file(source, target_functions, target_levels)
@@ -194,9 +236,24 @@ def _download_open_jobs_rows() -> list[dict]:
         # Process the local file
         rows = _filter_parquet_file(local_path, target_functions, target_levels)
 
-        # Delete the raw file to free space
-        os.remove(local_path)
-        print(f"Deleted {local_path} ({downloaded/1e9:.1f} GB freed)")
+        # Save metadata for future freshness checks
+        try:
+            import json
+            meta = {
+                "size": downloaded,
+                "last_modified": resp.headers.get("Last-Modified", ""),
+                "etag": resp.headers.get("ETag", ""),
+                "downloaded_at": _time.strftime("%Y-%m-%dT%H:%M:%SZ", _time.gmtime()),
+            }
+            with open(meta_path, "w") as mf:
+                json.dump(meta, mf)
+            print(f"Saved metadata: modified={meta['last_modified']}, size={downloaded/1e9:.1f} GB")
+        except Exception:
+            pass
+
+        # Keep the full parquet — _stream_full_parquet needs it for
+        # cross-function exploration and keyword search.
+        print(f"Kept {local_path} for streaming search ({downloaded/1e9:.1f} GB)")
 
         return rows
 

@@ -1,0 +1,1324 @@
+{
+  "resume": "=== Cristal Davidson - Resume.pdf ===\n          Cristal C. Davidson \n\nNewark, NJ | (973) 289-2752 | cristal,davidson88@gmail,com  \n\nEDUCATION \n\nFranklin & Marshall College, Lancaster, PA.                                                               (Graduated 2025)  \nHistory and American Studies Joint-Major & Africana Studies Minor \n\n  American History High School, Newark, NJ \n  Graduated Salutatorian                                                                                                   (Graduated 2021) \n\nRELEVANT  EXPERIENCE \n\n  Historic Preservation Trust of Lancaster County           (Lancaster, PA. September 2024 – May 2025)  \n  Archives Intern \n\n●  Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to \n\nimprove accessibility.  \n\n●  Cataloged physical archival materials to improve organization and cleanliness in the office. \n●  Developed social media content to promote the Trust’s initiatives.  \n\n  Mi Gente Latina Club                                              (Lancaster, PA. September 2024 – December 2024) \n  Director of Social Engagement  \n\n●  Coordinated with more than ten on-campus clubs and community organizations to execute social \n\nevents. \n\n●  Served as the primary point of contact for club members and community partners.  \n\n  Mi Gente Latina Club                                                             (Lancaster, PA. January 2024 – May 2024) \n  Senior Advisor  \n\n●  Liaised with senior club members, alumni, and the executive board to improve communication and \n\ncoordination within the club. \n\n●  Organized and executed events that improved senior engagement and club participation. \n●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with \n\nalumni. \n\n  Franklin and Marshall College                                                              (Lancaster, PA. November 2023)        \n  Department of History Student Search Committee \n\n●  Participated in the hiring process by asking questions and engaging with candidates to assess \n\ntheir fit for the department. \n\n●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching \n\nabilities, effectiveness, and presentation skills in a classroom setting.  \n\n  SKILLS \n\n▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+  "function": "education",
+  "confidence": 57,
+  "skills": [
+    "accessibility",
+    "advisor",
+    "archival",
+    "archives",
+    "candidates",
+    "classroom setting",
+    "cleanliness",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "content",
+    "coordination",
+    "distribution",
+    "engagement",
+    "engaging",
+    "evaluation",
+    "feedback",
+    "fit",
+    "high school",
+    "history",
+    "management",
+    "materials",
+    "media",
+    "media content",
+    "merchandise",
+    "office",
+    "organization",
+    "organizational",
+    "organized",
+    "participation",
+    "pastperfect",
+    "physical",
+    "point of contact",
+    "presentation",
+    "presentation skills",
+    "project",
+    "project management",
+    "purchasing",
+    "seniors",
+    "sheets",
+    "social",
+    "social engagement",
+    "social media",
+    "social media content",
+    "software",
+    "structured",
+    "structured feedback",
+    "surveys",
+    "teaching",
+    "team collaboration",
+    "trust",
+    "trust s"
+  ],
+  "verified_skills": [
+    "accessibility",
+    "advisor",
+    "archival",
+    "archives",
+    "candidates",
+    "classroom setting",
+    "cleanliness",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "content",
+    "coordination",
+    "distribution",
+    "engagement",
+    "engaging",
+    "evaluation",
+    "feedback",
+    "fit",
+    "high school",
+    "history",
+    "management",
+    "materials",
+    "media",
+    "media content",
+    "merchandise",
+    "office",
+    "organization",
+    "organizational",
+    "organized",
+    "participation",
+    "pastperfect",
+    "physical",
+    "point of contact",
+    "presentation",
+    "presentation skills",
+    "project",
+    "project management",
+    "purchasing",
+    "seniors",
+    "sheets",
+    "social",
+    "social engagement",
+    "social media",
+    "social media content",
+    "software",
+    "structured",
+    "structured feedback",
+    "surveys",
+    "teaching",
+    "team collaboration",
+    "trust",
+    "trust s"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [],
+  "skill_weights": {},
+  "market_relevant": [
+    "accessibility",
+    "advisor",
+    "archival",
+    "archives",
+    "candidates",
+    "classroom setting",
+    "cleanliness",
+    "collaboration",
+    "communication",
+    "conflict resolution",
+    "content",
+    "coordination",
+    "distribution",
+    "engagement",
+    "engaging",
+    "evaluation",
+    "feedback",
+    "fit",
+    "high school",
+    "history",
+    "management",
+    "materials",
+    "media",
+    "media content",
+    "merchandise",
+    "office",
+    "organization",
+    "organizational",
+    "organized",
+    "participation",
+    "pastperfect",
+    "physical",
+    "point of contact",
+    "presentation",
+    "presentation skills",
+    "project",
+    "project management",
+    "purchasing",
+    "seniors",
+    "sheets",
+    "social",
+    "social engagement",
+    "social media",
+    "social media content",
+    "software",
+    "structured",
+    "structured feedback",
+    "surveys",
+    "teaching",
+    "team collaboration",
+    "trust",
+    "trust s"
+  ],
+  "inferred": [],
+  "implicit_skills": [],
+  "skill_evidence": [
+    {
+      "skill": "accessibility",
+      "source_section": "education",
+      "matched_text": "improve accessibility.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "advisor",
+      "source_section": "education",
+      "matched_text": "Senior Advisor",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "archival",
+      "source_section": "education",
+      "matched_text": "●  Cataloged physical archival materials to improve organization and cleanliness in the office.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "archives",
+      "source_section": "education",
+      "matched_text": "Archives Intern",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "candidates",
+      "source_section": "education",
+      "matched_text": "●  Participated in the hiring process by asking questions and engaging with candidates to assess",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "classroom setting",
+      "source_section": "education",
+      "matched_text": "abilities, effectiveness, and presentation skills in a classroom setting.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "cleanliness",
+      "source_section": "education",
+      "matched_text": "●  Cataloged physical archival materials to improve organization and cleanliness in the office.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "collaboration",
+      "source_section": "education",
+      "matched_text": "●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "communication",
+      "source_section": "education",
+      "matched_text": "●  Liaised with senior club members, alumni, and the executive board to improve communication and",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "content",
+      "source_section": "education",
+      "matched_text": "●  Developed social media content to promote the Trust’s initiatives.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "coordination",
+      "source_section": "education",
+      "matched_text": "coordination within the club.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "distribution",
+      "source_section": "education",
+      "matched_text": "●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engagement",
+      "source_section": "education",
+      "matched_text": "Director of Social Engagement",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "engaging",
+      "source_section": "education",
+      "matched_text": "●  Participated in the hiring process by asking questions and engaging with candidates to assess",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "evaluation",
+      "source_section": "education",
+      "matched_text": "●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "feedback",
+      "source_section": "education",
+      "matched_text": "●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "fit",
+      "source_section": "education",
+      "matched_text": "their fit for the department.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "high school",
+      "source_section": "education",
+      "matched_text": "American History High School, Newark, NJ",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "history",
+      "source_section": "education",
+      "matched_text": "History and American Studies Joint-Major & Africana Studies Minor",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "materials",
+      "source_section": "education",
+      "matched_text": "●  Cataloged physical archival materials to improve organization and cleanliness in the office.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "media",
+      "source_section": "education",
+      "matched_text": "●  Developed social media content to promote the Trust’s initiatives.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "media content",
+      "source_section": "education",
+      "matched_text": "●  Developed social media content to promote the Trust’s initiatives.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "merchandise",
+      "source_section": "education",
+      "matched_text": "●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "office",
+      "source_section": "education",
+      "matched_text": "●  Cataloged physical archival materials to improve organization and cleanliness in the office.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organization",
+      "source_section": "education",
+      "matched_text": "●  Cataloged physical archival materials to improve organization and cleanliness in the office.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organized",
+      "source_section": "education",
+      "matched_text": "●  Organized and executed events that improved senior engagement and club participation.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "participation",
+      "source_section": "education",
+      "matched_text": "●  Organized and executed events that improved senior engagement and club participation.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "pastperfect",
+      "source_section": "education",
+      "matched_text": "●  Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "physical",
+      "source_section": "education",
+      "matched_text": "●  Cataloged physical archival materials to improve organization and cleanliness in the office.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "point of contact",
+      "source_section": "education",
+      "matched_text": "●  Served as the primary point of contact for club members and community partners.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "presentation",
+      "source_section": "education",
+      "matched_text": "abilities, effectiveness, and presentation skills in a classroom setting.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "presentation skills",
+      "source_section": "education",
+      "matched_text": "abilities, effectiveness, and presentation skills in a classroom setting.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "purchasing",
+      "source_section": "education",
+      "matched_text": "●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "seniors",
+      "source_section": "education",
+      "matched_text": "●  Coordinated the purchasing and distribution of merchandise for 24 seniors in collaboration with",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "sheets",
+      "source_section": "education",
+      "matched_text": "●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "social",
+      "source_section": "education",
+      "matched_text": "●  Developed social media content to promote the Trust’s initiatives.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "social engagement",
+      "source_section": "education",
+      "matched_text": "Director of Social Engagement",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "social media",
+      "source_section": "education",
+      "matched_text": "●  Developed social media content to promote the Trust’s initiatives.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "social media content",
+      "source_section": "education",
+      "matched_text": "●  Developed social media content to promote the Trust’s initiatives.",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "software",
+      "source_section": "education",
+      "matched_text": "●  Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "structured",
+      "source_section": "education",
+      "matched_text": "●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "structured feedback",
+      "source_section": "education",
+      "matched_text": "●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "surveys",
+      "source_section": "education",
+      "matched_text": "●  Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "teaching",
+      "source_section": "education",
+      "matched_text": "●  Completed detailed evaluation sheets, providing structured feedback on candidates' teaching",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "trust",
+      "source_section": "education",
+      "matched_text": "Historic Preservation Trust of Lancaster County           (Lancaster, PA. September 2024 – May 2025)",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "trust s",
+      "source_section": "education",
+      "matched_text": "Franklin & Marshall College, Lancaster, PA.                                                               (Graduated 2025)",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "conflict resolution",
+      "source_section": "skills",
+      "matched_text": "▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "management",
+      "source_section": "skills",
+      "matched_text": "▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "organizational",
+      "source_section": "skills",
+      "matched_text": "▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "project",
+      "source_section": "skills",
+      "matched_text": "▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "project management",
+      "source_section": "skills",
+      "matched_text": "▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+      "match_type": "vocabulary"
+    },
+    {
+      "skill": "team collaboration",
+      "source_section": "skills",
+      "matched_text": "▪Communication  ▪Conflict Resolution ▪Team Collaboration ▪Organizational and Project Management",
+      "match_type": "vocabulary"
+    }
+  ],
+  "gaps": [
+    "classroom-management",
+    "differentiated-instruction",
+    "family-communication",
+    "lesson-planning",
+    "technology-in-classroom"
+  ],
+  "core_gaps": [
+    "classroom-management",
+    "differentiated-instruction",
+    "family-communication",
+    "lesson-planning",
+    "technology-in-classroom"
+  ],
+  "bridge_gaps": [
+    "curriculum-implementation",
+    "elementary-education",
+    "science-education"
+  ],
+  "stretch_gaps": [
+    "cbla-background-check",
+    "classical-education",
+    "data-tracking-progress",
+    "digital-tools",
+    "education",
+    "grammar-stage",
+    "memory-and-repetition",
+    "narration",
+    "non-instructional-activities",
+    "ohio-teacher-license"
+  ],
+  "nice_to_have_gaps": [
+    "cbla-background-check",
+    "classical-education",
+    "curriculum-implementation",
+    "data-tracking-progress",
+    "digital-tools",
+    "education",
+    "elementary-education",
+    "grammar-stage",
+    "memory-and-repetition",
+    "narration"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "contentcreation",
+      "pmi": 5.21
+    },
+    {
+      "skill": "datadrivendecisionmaking",
+      "pmi": 4.22
+    },
+    {
+      "skill": "facilitation",
+      "pmi": 3.67
+    },
+    {
+      "skill": "classicaleducation",
+      "pmi": 3.66
+    },
+    {
+      "skill": "writing",
+      "pmi": 3.48
+    },
+    {
+      "skill": "academicresearch",
+      "pmi": 3.38
+    },
+    {
+      "skill": "equityandinclusion",
+      "pmi": 3.38
+    },
+    {
+      "skill": "undergraduateeducation",
+      "pmi": 3.38
+    },
+    {
+      "skill": "foodpreparation",
+      "pmi": 3.32
+    },
+    {
+      "skill": "eventplanning",
+      "pmi": 3.23
+    },
+    {
+      "skill": "ff&e",
+      "pmi": 4.46
+    },
+    {
+      "skill": "audiovisual",
+      "pmi": 4.18
+    },
+    {
+      "skill": "security",
+      "pmi": 4.18
+    },
+    {
+      "skill": "network",
+      "pmi": 4.18
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.18
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.18
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.18
+    },
+    {
+      "skill": "adobeexpress",
+      "pmi": 4.18
+    },
+    {
+      "skill": "enscape",
+      "pmi": 4.06
+    },
+    {
+      "skill": "color",
+      "pmi": 4.06
+    },
+    {
+      "skill": "videoproduction",
+      "pmi": 4.34
+    },
+    {
+      "skill": "video",
+      "pmi": 4.34
+    },
+    {
+      "skill": "operations",
+      "pmi": 4.25
+    },
+    {
+      "skill": "marketingmaterials",
+      "pmi": 4.18
+    },
+    {
+      "skill": "budgetmanagement",
+      "pmi": 3.87
+    },
+    {
+      "skill": "digitalinclusion",
+      "pmi": 3.72
+    },
+    {
+      "skill": "broadbandexpansion",
+      "pmi": 3.72
+    },
+    {
+      "skill": "storytelling",
+      "pmi": 3.69
+    },
+    {
+      "skill": "volunteermanagement",
+      "pmi": 3.68
+    },
+    {
+      "skill": "graphicdesign",
+      "pmi": 3.64
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "contentcreation",
+      "pmi": 5.21
+    },
+    {
+      "skill": "datadrivendecisionmaking",
+      "pmi": 4.22
+    },
+    {
+      "skill": "facilitation",
+      "pmi": 3.67
+    },
+    {
+      "skill": "classicaleducation",
+      "pmi": 3.66
+    },
+    {
+      "skill": "writing",
+      "pmi": 3.48
+    },
+    {
+      "skill": "academicresearch",
+      "pmi": 3.38
+    },
+    {
+      "skill": "equityandinclusion",
+      "pmi": 3.38
+    },
+    {
+      "skill": "undergraduateeducation",
+      "pmi": 3.38
+    },
+    {
+      "skill": "foodpreparation",
+      "pmi": 3.32
+    },
+    {
+      "skill": "eventplanning",
+      "pmi": 3.23
+    },
+    {
+      "skill": "ff&e",
+      "pmi": 4.46
+    },
+    {
+      "skill": "audiovisual",
+      "pmi": 4.18
+    },
+    {
+      "skill": "security",
+      "pmi": 4.18
+    },
+    {
+      "skill": "network",
+      "pmi": 4.18
+    },
+    {
+      "skill": "wifi",
+      "pmi": 4.18
+    },
+    {
+      "skill": "telecom",
+      "pmi": 4.18
+    },
+    {
+      "skill": "ict",
+      "pmi": 4.18
+    },
+    {
+      "skill": "adobeexpress",
+      "pmi": 4.18
+    },
+    {
+      "skill": "enscape",
+      "pmi": 4.06
+    },
+    {
+      "skill": "color",
+      "pmi": 4.06
+    },
+    {
+      "skill": "videoproduction",
+      "pmi": 4.34
+    },
+    {
+      "skill": "video",
+      "pmi": 4.34
+    },
+    {
+      "skill": "operations",
+      "pmi": 4.25
+    },
+    {
+      "skill": "marketingmaterials",
+      "pmi": 4.18
+    },
+    {
+      "skill": "budgetmanagement",
+      "pmi": 3.87
+    },
+    {
+      "skill": "digitalinclusion",
+      "pmi": 3.72
+    },
+    {
+      "skill": "broadbandexpansion",
+      "pmi": 3.72
+    },
+    {
+      "skill": "storytelling",
+      "pmi": 3.69
+    },
+    {
+      "skill": "volunteermanagement",
+      "pmi": 3.68
+    },
+    {
+      "skill": "graphicdesign",
+      "pmi": 3.64
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 20
+    },
+    {
+      "function": "personal-care",
+      "pct": 7
+    },
+    {
+      "function": "technology",
+      "pct": 7
+    },
+    {
+      "function": "finance",
+      "pct": 6
+    },
+    {
+      "function": "design",
+      "pct": 5
+    }
+  ],
+  "coach_notes": "For a education path, focus first on classroom-management, differentiated-instruction, family-communication. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Afterschool Science Instructor",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/ABC3AE5442",
+      "fit": 71,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.7,
+        "embedding_similarity": 0.444,
+        "hyre_score": 0.597,
+        "skill_overlap_raw": 0.5,
+        "hyper_p_value": 4e-08,
+        "hyper_k": 4,
+        "hyper_K": 24,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching role suitable for young adults.",
+      "cross_function": false
+    },
+    {
+      "title": "P.E. / STEM Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777901003",
+      "fit": 70,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.156,
+        "embedding_similarity": 0.467,
+        "hyre_score": 0.632,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": 0.04669414,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching P.E./STEM is suitable for minors/young adults.",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 70,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.093,
+        "embedding_similarity": 0.486,
+        "hyre_score": 0.565,
+        "skill_overlap_raw": 0.067,
+        "hyper_p_value": 0.07665483,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "cross_function": false
+    },
+    {
+      "title": "K-5th Grade Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7766226003",
+      "fit": 60,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.175,
+        "embedding_similarity": 0.441,
+        "hyre_score": 0.619,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.04161097,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching K-5th grade is suitable for 16-20 year olds.",
+      "cross_function": false
+    },
+    {
+      "title": "Constellation Schools - Art Teacher (Elyria)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7767458003",
+      "fit": 59,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.14,
+        "embedding_similarity": 0.436,
+        "hyre_score": 0.605,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.05175146,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching art is suitable for minors/young adults.",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual CTE - IT Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7698379003",
+      "fit": 59,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.156,
+        "embedding_similarity": 0.414,
+        "hyre_score": 0.559,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": 0.04669414,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching role, no age restriction.",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Afterschool Science Instructor",
+      "company": "amazing-athletes-2",
+      "url": "https://apply.workable.com/j/ABC3AE5442",
+      "fit": 71,
+      "job_type": "bridge",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.222,
+        "study_alignment": 0.333,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.85,
+        "skill_overlap": 0.7,
+        "embedding_similarity": 0.444,
+        "hyre_score": 0.597,
+        "skill_overlap_raw": 0.5,
+        "hyper_p_value": 4e-08,
+        "hyper_k": 4,
+        "hyper_K": 24,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching role suitable for young adults.",
+      "cross_function": false
+    },
+    {
+      "title": "P.E. / STEM Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7777901003",
+      "fit": 70,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.156,
+        "embedding_similarity": 0.467,
+        "hyre_score": 0.632,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": 0.04669414,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching P.E./STEM is suitable for minors/young adults.",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual Elementary School Teacher (2026-2027 School Year)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7780125003",
+      "fit": 70,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.093,
+        "embedding_similarity": 0.486,
+        "hyre_score": 0.565,
+        "skill_overlap_raw": 0.067,
+        "hyper_p_value": 0.07665483,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 15,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Virtual teaching role, no age restriction indicated.",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "K-5th Grade Teacher",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7766226003",
+      "fit": 60,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.175,
+        "embedding_similarity": 0.441,
+        "hyre_score": 0.619,
+        "skill_overlap_raw": 0.125,
+        "hyper_p_value": 0.04161097,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 8,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching K-5th grade is suitable for 16-20 year olds.",
+      "cross_function": false
+    },
+    {
+      "title": "Constellation Schools - Art Teacher (Elyria)",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7767458003",
+      "fit": 59,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.65,
+        "skill_overlap": 0.14,
+        "embedding_similarity": 0.436,
+        "hyre_score": 0.605,
+        "skill_overlap_raw": 0.1,
+        "hyper_p_value": 0.05175146,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 10,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching art is suitable for minors/young adults.",
+      "cross_function": false
+    },
+    {
+      "title": "Virtual CTE - IT Teacher ",
+      "company": "accelschools",
+      "url": "https://job-boards.greenhouse.io/accelschools/jobs/7698379003",
+      "fit": 59,
+      "job_type": "goal",
+      "subdomain": "classroom-support",
+      "function": "education",
+      "why": "A education role that uses your accessibility, advisor, archival skills.",
+      "gaps": "classroom-management, differentiated-instruction, family-communication",
+      "job_score_breakdown": {
+        "goal_alignment": 0.556,
+        "study_alignment": 0.667,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.156,
+        "embedding_similarity": 0.414,
+        "hyre_score": 0.559,
+        "skill_overlap_raw": 0.111,
+        "hyper_p_value": 0.04669414,
+        "hyper_k": 1,
+        "hyper_K": 24,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Teaching role, no age restriction.",
+      "cross_function": false
+    }
+  ],
+  "skill_path": null,
+  "skill_tree": null,
+  "ideal_careers": [],
+  "student_intent": {
+    "goal_domains": [
+      "education"
+    ],
+    "goal_roles": [
+      "Archives Intern"
+    ],
+    "goal_subdomains": [
+      "higher-ed-support"
+    ],
+    "study_domains": [
+      "education"
+    ],
+    "study_subdomains": [
+      "higher-ed-support"
+    ],
+    "study_program": "bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work.",
+    "study_level": "bachelor",
+    "intent_confidence": 1.046,
+    "intent_strength": 1.0,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "=== Cristal Davidson - Resume.pdf ===\nCristal C. Davidson\nNewark, NJ | (973) 289-2752 | cristal,davidson88@gmail,com",
+    "study_text": "bachelors in History and American Studies. I am now exploring careers in museums, libraries, or archival work.\nFranklin & Marshall College, Lancaster, PA.                                                               (Graduated 2025)\nHistory and American Studies Joint-Major & Afr"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "arts-media": 19,
+      "finance": 15,
+      "design": 14
+    },
+    "study": {
+      "education": 105,
+      "arts-media": 46,
+      "social-service": 14
+    },
+    "classifier": {
+      "arts-media": 42,
+      "personal-care": 21,
+      "agriculture": 9
+    },
+    "onet": {
+      "education": 29,
+      "healthcare": 16,
+      "technology": 14
+    },
+    "embeddings": {
+      "education": 7,
+      "ops": 7,
+      "technology": 6
+    },
+    "experience": {}
+  },
+  "candidate_functions": [
+    "education",
+    "arts-media",
+    "personal-care"
+  ],
+  "subdomain": "higher-ed-support",
+  "subdomain_confidence": 0.9,
+  "subdomain_alternatives": [],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "classroom-support",
+    "classroom-support",
+    "classroom-support",
+    "classroom-support",
+    "classroom-support"
+  ],
+  "needs_review": true,
+  "review_reasons": [
+    "llm_provider_error"
+  ],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "education",
+      "chosen_subdomain": "higher-ed-support",
+      "confidence": 0.9,
+      "evidence_spans": [
+        {
+          "section": "study_text",
+          "text": "I am now exploring careers in museums, libraries, or archival work."
+        },
+        {
+          "section": "experience",
+          "text": "Transfered surveys of historical properties in Lancaster County onto the PastPerfect software to improve accessibility."
+        }
+      ],
+      "goal_domains": [
+        "education"
+      ],
+      "goal_roles": [
+        "Archives Intern"
+      ],
+      "goal_subdomains": [
+        "higher-ed-support"
+      ],
+      "reason_codes": [
+        "explicit_career_goal",
+        "strong_work_experience",
+        "education_alignment"
+      ],
+      "review_reasons": [],
+      "secondary_function": "",
+      "study_domains": [
+        "education"
+      ],
+      "study_subdomains": [
+        "higher-ed-support"
+      ]
+    },
+    "evidence": {
+      "accepted": false,
+      "error": "Expecting value: line 353 column 1 (char 1936)",
+      "review_reasons": [
+        "llm_provider_error"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "arts-media": 42,
+    "personal-care": 21,
+    "agriculture": 9
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": false,
+      "review_reasons": [
+        "llm_provider_error"
+      ]
+    }
+  ],
+  "normalization_source": "hybrid"
+}

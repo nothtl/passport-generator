@@ -1,163 +1,673 @@
-<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
-<title>Alex Aquino | SpeakHire</title>
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Alex Aquino — SpeakHire Career Report</title>
 <style>
+/* ===================================================================
+   Apple-style report stylesheet
+   =================================================================== */
+
+/* ── Design tokens ─────────────────────────────────────────────── */
 :root {
-  --ink: #1a1a2e; --muted: #4a4a6a; --soft: #6b6b8a;
-  --accent: #5b5fef; --accent-glow: #7c7ff8;
-  --surface: #ffffff; --surface-alt: #f5f4fA;
-  --border: #e8e8f0; --border-focus: #d0d0e0;
-  --ready: #2d8a56; --ready-bg: #eaf5ef;
-  --goal: #4a6cf7; --goal-bg: #eef1fe;
-  --gap-core: #c44545; --gap-bridge: #c4820e; --gap-stretch: #3b7a3b;
-  --radius: 10px; --radius-sm: 6px;
+  --bg:            #f5f5f7;
+  --surface:       #ffffff;
+  --text:          #1d1d1f;
+  --text-secondary:#6e6e73;
+  --text-tertiary: #aeaeb2;
+  --accent:        #0071e3;
+  --accent-light:  #e8f2fd;
+  --green:         #34c759;
+  --green-bg:      #e8f8ed;
+  --orange:        #ff9500;
+  --orange-bg:     #fff4e5;
+  --red:           #ff3b30;
+  --red-bg:        #ffeceb;
+  --amber:         #ff9f0a;
+  --amber-bg:      #fff8e5;
+  --border:        #d2d2d7;
+  --border-subtle: #e5e5ea;
+  --radius:        12px;
+  --radius-sm:     8px;
+  --radius-lg:     16px;
+  --shadow:        0 1px 3px rgba(0,0,0,0.04), 0 0 0 0.5px rgba(0,0,0,0.02);
+  --shadow-hover:  0 4px 16px rgba(0,0,0,0.06), 0 0 0 0.5px rgba(0,0,0,0.03);
+  --font:          -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                   "Helvetica Neue", "Segoe UI", sans-serif;
+  --font-mono:     "SF Mono", "JetBrains Mono", "Menlo", "Consolas", monospace;
 }
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{font:15px/1.6 "Inter","Segoe UI",system-ui,sans-serif;color:var(--ink);background:var(--surface-alt);min-height:100vh}
-.container{max-width:960px;margin:0 auto;padding:2rem 1.5rem 4rem}
 
-.header{padding:2rem 0 1.5rem;border-bottom:1px solid var(--border);margin-bottom:2rem}
-.header h1{font-size:1.8rem;font-weight:700;letter-spacing:-0.02em;color:var(--ink)}
-.header .meta{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:.4rem;font-size:.88rem;color:var(--muted)}
-.header .meta span{display:flex;align-items:center;gap:.3rem}
-.header .meta .tag{display:inline-block;padding:.15rem .55rem;border-radius:99px;font-size:.76rem;font-weight:600;letter-spacing:.01em}
-.tag-ready{background:var(--ready-bg);color:var(--ready)}
-.tag-goal{background:var(--goal-bg);color:var(--goal)}
-.tag-review{background:#fef3cd;color:#856404}
-.needs-review{border-left:3px solid #e2a300}
+/* ── Reset & base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-/* Skills bar */
-.skills-bar{display:flex;flex-wrap:wrap;gap:.4rem;margin:1rem 0}
-.skill{display:inline-flex;align-items:center;gap:.25rem;padding:.25rem .6rem;border-radius:99px;font-size:.78rem;font-weight:500;background:var(--surface);border:1px solid var(--border);color:var(--ink)}
-.skill-implicit{background:var(--surface-alt);border-style:dashed;color:var(--muted)}
+body {
+  font: 400 15px/1.6 var(--font);
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
-/* Summary card */
-.summary-card{background:linear-gradient(135deg,#f0f1ff 0%,#f5f4fA 100%);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0}
-.summary-card p{color:var(--ink);font-size:.92rem;line-height:1.6}
-.summary-card .careers{font-weight:600;color:var(--accent)}
+/* ── Container ─────────────────────────────────────────────────── */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
 
-/* Bento grid */
-.bento{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin:1.5rem 0}
-.bento-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem;transition:box-shadow .2s}
-.bento-card:hover{box-shadow:0 2px 12px rgba(0,0,0,.06)}
-.bento-card h3{font-size:.82rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:.6rem;padding-bottom:.5rem;border-bottom:1px solid var(--border)}
-.bento-card.full{grid-column:1/-1}
+/* ── Header ────────────────────────────────────────────────────── */
+.report-header {
+  padding: 0 0 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
 
-/* Job cards */
-.job-list{display:flex;flex-direction:column;gap:.8rem}
-.job-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1rem 1.2rem;transition:box-shadow .15s;position:relative}
-.job-card:hover{box-shadow:0 1px 8px rgba(0,0,0,.05)}
-.job-card .job-top{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
-.job-card .job-title{font-weight:600;font-size:.95rem;color:var(--ink)}
-.job-card .job-company{font-size:.82rem;color:var(--muted);margin-top:.1rem}
-.job-card .job-score{font-size:.78rem;font-weight:700;padding:.15rem .5rem;border-radius:99px;white-space:nowrap}
-.score-ready{background:var(--ready-bg);color:var(--ready)}
-.score-goal{background:var(--goal-bg);color:var(--goal)}
-.job-card .job-why{font-size:.82rem;color:var(--muted);margin-top:.4rem;line-height:1.5}
-.job-card .job-link{font-size:.8rem;color:var(--accent);text-decoration:none;font-weight:600}
-.job-card .job-link:hover{text-decoration:underline}
+.report-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
 
-/* Skill tree */
-.skill-tree{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0;font-family:"JetBrains Mono","SF Mono","Cascadia Code",monospace;font-size:.8rem;line-height:1.7;color:var(--ink);white-space:pre;overflow-x:auto}
+.report-header .meta-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
 
-/* Steps */
-.steps{counter-reset:step;list-style:none;padding:0}
-.steps li{counter-increment:step;padding:.35rem 0 .35rem 2rem;position:relative;font-size:.88rem;color:var(--ink)}
-.steps li::before{content:counter(step);position:absolute;left:0;top:.3rem;width:1.3rem;height:1.3rem;background:var(--accent);color:#fff;border-radius:50%;font-size:.7rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+.report-header .meta-row .stat {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 500;
+}
 
-/* Gaps grid */
-.gaps-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem}
-.gap-col h4{font-size:.76rem;font-weight:600;text-transform:uppercase;letter-spacing:.03em;margin-bottom:.4rem}
-.gap-col ul{list-style:none;padding:0}
-.gap-col li{font-size:.82rem;padding:.2rem 0;border-bottom:1px dotted var(--border)}
-.gap-col li:last-child{border-bottom:none}
-.gap-core h4{color:var(--gap-core)}.gap-bridge h4{color:var(--gap-bridge)}.gap-stretch h4{color:var(--gap-stretch)}
+.report-header .meta-row .stat strong {
+  color: var(--text);
+  font-weight: 600;
+}
 
-/* Section heading */
-.section-head{display:flex;align-items:center;gap:.6rem;margin:2rem 0 1rem}
-.section-head h2{font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--ink)}
-.section-head .line{flex:1;height:1px;background:var(--border)}
+.report-header .meta-row .stat.conf-high strong { color: var(--green); }
+.report-header .meta-row .stat.conf-mid  strong { color: var(--orange); }
+.report-header .meta-row .stat.conf-low  strong { color: var(--red); }
 
-/* Footer */
-.footer{text-align:center;padding:2rem 0 1rem;font-size:.78rem;color:var(--soft);border-top:1px solid var(--border);margin-top:3rem}
+/* Review indicator — subtle amber dot */
+.review-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--amber);
+}
+.review-indicator::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--amber);
+}
 
-@media(max-width:700px){.bento{grid-template-columns:1fr}.gaps-grid{grid-template-columns:1fr}}
+/* ── Skills bar ────────────────────────────────────────────────── */
+.skills-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.2rem;
+}
+
+.skill-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+}
+
+.skill-pill.implicit {
+  color: var(--text-tertiary);
+  border-style: dashed;
+}
+
+/* ── Summary card ──────────────────────────────────────────────── */
+.summary-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.summary-card p {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.summary-card .careers {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ── Section headings ──────────────────────────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.5rem 0 1.2rem;
+}
+
+.section-head h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.section-head .rule {
+  flex: 1;
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+/* ── Progression columns (replaces ASCII tree) ─────────────────── */
+.progression {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.progression .tier {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.progression .tier .tier-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.progression .tier .tier-item {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.4;
+  padding: 0.15rem 0;
+}
+
+.progression .tier .tier-item:last-child { border-bottom: none; }
+
+/* Color accents per tier */
+.progression .tier.tier-current  .tier-label { color: var(--text-secondary); }
+.progression .tier.tier-bridge   .tier-label { color: var(--orange); }
+.progression .tier.tier-stretch  .tier-label { color: var(--accent); }
+.progression .tier.tier-dream    .tier-label { color: var(--green); }
+
+/* ── Steps ──────────────────────────────────────────────────────── */
+.steps {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.steps li {
+  counter-increment: step;
+  padding: 0.45rem 0 0.45rem 2.2rem;
+  position: relative;
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Recommendations grid ──────────────────────────────────────── */
+.report-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.stat-card h3 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.stat-card.full { grid-column: 1 / -1; }
+
+/* ── Job cards ──────────────────────────────────────────────────── */
+.job-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.job-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  transition: box-shadow 0.15s ease;
+}
+
+.job-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.job-card .job-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.job-card .job-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.35;
+}
+
+.job-card .job-company {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+
+.job-card .job-score {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+
+.score-ready { background: var(--green-bg); color: var(--green); }
+.score-goal  { background: var(--orange-bg); color: var(--orange); }
+
+.job-card .job-why {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  margin-top: 0.45rem;
+  line-height: 1.5;
+}
+
+.job-card .job-link {
+  display: inline-block;
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.job-card .job-link:hover {
+  text-decoration: underline;
+}
+
+.job-card .job-link::after {
+  content: " →";
+  font-weight: 400;
+}
+
+/* ── Skill gaps ────────────────────────────────────────────────── */
+.gaps-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.gap-col {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+}
+
+.gap-col h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.gap-col .gap-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.gap-col .gap-pill {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 99px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.gap-core    { border-left: 3px solid var(--red);    }
+.gap-core    h4 { color: var(--red);    }
+.gap-core    .gap-pill { background: var(--red-bg);    color: var(--red);    }
+
+.gap-bridge  { border-left: 3px solid var(--orange);  }
+.gap-bridge  h4 { color: var(--orange); }
+.gap-bridge  .gap-pill { background: var(--orange-bg); color: var(--orange); }
+
+.gap-stretch { border-left: 3px solid var(--accent);  }
+.gap-stretch h4 { color: var(--accent);  }
+.gap-stretch .gap-pill { background: var(--accent-light); color: var(--accent); }
+
+/* ── Footer ────────────────────────────────────────────────────── */
+.report-footer {
+  text-align: center;
+  padding: 2.5rem 0 0;
+  margin-top: 3rem;
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ── Print styles ──────────────────────────────────────────────── */
+@media print {
+  body {
+    background: #fff;
+    font-size: 12px;
+    color: #000;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .container { max-width: none; padding: 0.5in; }
+
+  .report-header {
+    border-bottom: 0.5pt solid #ccc;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .section-head .rule { background: #ccc; }
+
+  .stat-card,
+  .job-card,
+  .summary-card,
+  .gap-col,
+  .progression .tier {
+    box-shadow: none;
+    border: 0.5pt solid #ddd;
+    break-inside: avoid;
+  }
+
+  .job-card .job-link::after { content: ""; }
+
+  .report-grid,
+  .gaps-grid,
+  .progression { gap: 0.6rem; }
+
+  .report-footer {
+    border-top: 0.5pt solid #ccc;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .skill-pill,
+  .gap-pill {
+    border: 0.5pt solid #ccc;
+  }
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .report-grid,
+  .gaps-grid,
+  .progression {
+    grid-template-columns: 1fr;
+  }
+
+  .report-header h1 { font-size: 1.6rem; }
+  .report-header .meta-row { gap: 0.8rem; }
+}
 </style>
-<div class=container needs-review>
-<div class=header>
-<h1>Alex Aquino</h1>
-<div class=meta>
-<span>Direction: <strong>technology/engineering</strong></span>
-<span>Confidence: <strong>72%</strong></span>
-<span>Lane: <strong>rescue</strong></span>
-<span class="tag tag-review">Review suggested</span>
+<div class="container">
+  <header class="report-header">
+    <h1>Alex Aquino</h1>
+    <div class="meta-row">
+      <span class="stat">Direction: <strong>technology/engineering</strong></span>
+      <span class="stat conf-mid">Confidence: <strong>64%</strong></span>
+      <span class="stat">Lane: <strong>rescue</strong></span>
+      <span class="review-indicator">Review suggested</span>
+    </div>
+    <div class="skills-bar">
+      <span class="skill-pill">academic assistance</span>
+      <span class="skill-pill">accessibility</span>
+      <span class="skill-pill">accuracy</span>
+      <span class="skill-pill">accurate documentation</span>
+      <span class="skill-pill">adaptability</span>
+      <span class="skill-pill">additive manufacturing</span>
+      <span class="skill-pill">administrative</span>
+      <span class="skill-pill">administrative support</span>
+    </div>
+  </header>
+  <div class="section-head"><h2>Skill Progression</h2><span class="rule"></span></div>
+      <div class="progression">
+        <div class="tier tier-current">
+          <div class="tier-label">Current Skills</div>
+          <div class="tier-item">academic assistance</div>
+          <div class="tier-item">accessibility</div>
+          <div class="tier-item">accuracy</div>
+          <div class="tier-item">accurate documentation</div>
+          <div class="tier-item">adaptability</div>
+          <div class="tier-item">additive manufacturing</div>
+        </div>
+        <div class="tier tier-bridge">
+          <div class="tier-label">Learn Next</div>
+          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>
+        </div>
+        <div class="tier tier-stretch">
+          <div class="tier-label">Future Skills</div>
+          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>
+        </div>
+        <div class="tier tier-dream">
+          <div class="tier-label">Dream Careers</div>
+          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>
+        </div>
+      </div>
+  <div class="section-head"><h2>Recommendations</h2><span class="rule"></span></div>
+  <div class="report-grid">
+    <div class="stat-card">
+      <h3>Available Now</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Project Engineer</div>
+          <div class="job-company">TalentSphere</div>
+          </div>
+          <div class="job-score score-ready">64%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.crelate.com/portal/talentsphere/job/6hr3o85fs8ge9uinqyr3wjq75r" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Forward Deployed Software Engineer, Internship - US Government</div>
+          <div class="job-company">palantir</div>
+          </div>
+          <div class="job-score score-ready">61%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Structural Staff Engineer</div>
+          <div class="job-company">EnginuityAdvantage</div>
+          </div>
+          <div class="job-score score-ready">61%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.crelate.com/portal/enginuityadvantage/job/stcuiat4ork51zfakxbeiem6mh" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial</div>
+          <div class="job-company">palantir</div>
+          </div>
+          <div class="job-score score-ready">59%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Quality Assurance Engineering Specialist I</div>
+          <div class="job-company">penumbrainc</div>
+          </div>
+          <div class="job-score score-ready">57%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.lever.co/penumbrainc/aff4d036-13f5-46fc-8532-b1303af868c2" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <h3>Career Goals</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Forward Deployed Software Engineer, New Grad - Intel, US Government</div>
+          <div class="job-company">palantir</div>
+          </div>
+          <div class="job-score score-goal">50%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Newcastle Technology Degree Apprenticeship 2027: Data Analyst Specialism</div>
+          <div class="job-company">accenture</div>
+          </div>
+          <div class="job-score score-goal">50%</div>
+        </div>
+        <div class="job-why">A data role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://accenture.pinpointhq.com/en/postings/bb5d6990-8ae6-4886-9051-76fb6e6532b2" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">IT Intern - Temp</div>
+          <div class="job-company">penumbrainc</div>
+          </div>
+          <div class="job-score score-goal">50%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.lever.co/penumbrainc/b1221c2c-2293-4048-87b2-4828593e76df" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Emerging Architect </div>
+          <div class="job-company">EnginuityAdvantage</div>
+          </div>
+          <div class="job-score score-goal">50%</div>
+        </div>
+        <div class="job-why">A engineering role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.crelate.com/portal/enginuityadvantage/job/kxgjh9uxg7a1ewzk8s9erzjxpw" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Investment Grade Credit Analyst (Data & AI)</div>
+          <div class="job-company">9fin</div>
+          </div>
+          <div class="job-score score-goal">50%</div>
+        </div>
+        <div class="job-why">A data role that uses your academic assistance, accessibility, accuracy skills.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/9fin/f46a928b-10bf-4de5-b445-c878c87ef597" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="section-head"><h2>Skill Gaps</h2><span class="rule"></span></div>
+  <div class="gaps-grid">
+    <div class="gap-col gap-core">
+      <h4>Core (priority)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">problem-solving</span>
+        <span class="gap-pill">software-engineering</span>
+      </div>
+    </div>
+    <div class="gap-col gap-bridge">
+      <h4>Bridge (developing)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">ai</span>
+        <span class="gap-pill">architecture</span>
+        <span class="gap-pill">autocad</span>
+        <span class="gap-pill">civil-engineering</span>
+        <span class="gap-pill">construction-documents</span>
+        <span class="gap-pill">construction-management</span>
+      </div>
+    </div>
+  </div>
+  <footer class="report-footer">SpeakHire Career Report</footer>
 </div>
-<div class=skills-bar>
-<span class=skill>academic assistance</span>
-<span class=skill>accessibility</span>
-<span class=skill>accuracy</span>
-<span class=skill>accurate documentation</span>
-<span class=skill>adaptability</span>
-<span class=skill>additive manufacturing</span>
-<span class=skill>administrative</span>
-<span class=skill>administrative support</span>
-</div>
-</div>
-<div class="section-head"><h2>Recommendations</h2><span class=line></span></div>
-<div class=bento>
-<div class=bento-card>
-<h3>Available Now</h3>
-<div class=job-list>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Entry Level Construction Technician</div></div>
-<div class="job-score score-ready">88%</div>
-</div>
-<div class=job-why>A technology role that uses your academic assistance, accessibility, accuracy skills.</div>
-<a class=job-link href="https://recruiting.paylocity.com/recruiting/jobs/details/4177571" target=_blank rel=noopener>View position</a>
-</div>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Plumbing Apprentice</div><div class=job-company>sila</div></div>
-<div class="job-score score-ready">86%</div>
-</div>
-<div class=job-why>A technology role that uses your academic assistance, accessibility, accuracy skills.</div>
-<a class=job-link href="https://jobs.lever.co/sila/354fbc33-956d-45cc-99ac-9aa8d58b4102" target=_blank rel=noopener>View position</a>
-</div>
-</div></div>
-<div class=bento-card>
-<h3>Career Goals</h3>
-<div class=job-list>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Assistant Safety Coordinator</div><div class=job-company>holderconstruction</div></div>
-<div class="job-score score-goal">61%</div>
-</div>
-<div class=job-why>A technology role that uses your academic assistance, accessibility, accuracy skills.</div>
-<a class=job-link href="https://job-boards.greenhouse.io/holderconstruction/jobs/4182689009" target=_blank rel=noopener>View position</a>
-</div>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Welder/Fabricator- 2nd Shift</div></div>
-<div class="job-score score-goal">61%</div>
-</div>
-<div class=job-why>A technology role that uses your academic assistance, accessibility, accuracy skills.</div>
-<a class=job-link href="https://recruiting.paylocity.com/recruiting/jobs/details/4024610" target=_blank rel=noopener>View position</a>
-</div>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Purchasing Intern</div><div class=job-company>BoschGroup</div></div>
-<div class="job-score score-goal">60%</div>
-</div>
-<div class=job-why>A technology role that uses your academic assistance, accessibility, accuracy skills.</div>
-<a class=job-link href="https://jobs.smartrecruiters.com/BoschGroup/744000129558629" target=_blank rel=noopener>View position</a>
-</div>
-</div></div>
-</div>
-<div class="section-head"><h2>Skill Gaps</h2><span class=line></span></div>
-<div class=gaps-grid>
-<div class="gap-col gap-core"><h4>Core (priority)</h4><ul><li>microsoft-office</li><li>time-management</li></ul></div>
-<div class="gap-col gap-bridge"><h4>Bridge (developing)</h4><ul><li>advanced-excel</li><li>auditing</li><li>blueprints</li><li>confined-space</li><li>construction-management</li></ul></div>
-<div class="gap-col gap-stretch"><h4>Stretch (future)</h4><ul><li>concrete</li><li>customer-service</li><li>delivery-driving</li><li>drywall</li><li>electrical</li></ul></div>
-</div>
-<div class=footer>SpeakHire Recommender</div>
-</div>
+</html>

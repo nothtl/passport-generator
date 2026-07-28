@@ -211,7 +211,7 @@ def main():
     report_files = sorted(OLD_REPORTS.glob("*.json"))
     # Take half the students
     half = len(report_files) // 2
-    selected = report_files[half:]  # Second half
+    selected = report_files  # All students
 
     print(f"Running pipeline on {len(selected)}/{len(report_files)} students...")
     print(f"Output: {NEW_REPORTS}")

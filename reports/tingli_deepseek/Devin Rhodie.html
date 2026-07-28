@@ -1,210 +1,701 @@
-<!doctype html><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1">
-<title>Devin Rhodie | SpeakHire</title>
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Devin Rhodie — SpeakHire Career Report</title>
 <style>
+/* ===================================================================
+   Apple-style report stylesheet
+   =================================================================== */
+
+/* ── Design tokens ─────────────────────────────────────────────── */
 :root {
-  --ink: #1a1a2e; --muted: #4a4a6a; --soft: #6b6b8a;
-  --accent: #5b5fef; --accent-glow: #7c7ff8;
-  --surface: #ffffff; --surface-alt: #f5f4fA;
-  --border: #e8e8f0; --border-focus: #d0d0e0;
-  --ready: #2d8a56; --ready-bg: #eaf5ef;
-  --goal: #4a6cf7; --goal-bg: #eef1fe;
-  --gap-core: #c44545; --gap-bridge: #c4820e; --gap-stretch: #3b7a3b;
-  --radius: 10px; --radius-sm: 6px;
+  --bg:            #f5f5f7;
+  --surface:       #ffffff;
+  --text:          #1d1d1f;
+  --text-secondary:#6e6e73;
+  --text-tertiary: #aeaeb2;
+  --accent:        #0071e3;
+  --accent-light:  #e8f2fd;
+  --green:         #34c759;
+  --green-bg:      #e8f8ed;
+  --orange:        #ff9500;
+  --orange-bg:     #fff4e5;
+  --red:           #ff3b30;
+  --red-bg:        #ffeceb;
+  --amber:         #ff9f0a;
+  --amber-bg:      #fff8e5;
+  --border:        #d2d2d7;
+  --border-subtle: #e5e5ea;
+  --radius:        12px;
+  --radius-sm:     8px;
+  --radius-lg:     16px;
+  --shadow:        0 1px 3px rgba(0,0,0,0.04), 0 0 0 0.5px rgba(0,0,0,0.02);
+  --shadow-hover:  0 4px 16px rgba(0,0,0,0.06), 0 0 0 0.5px rgba(0,0,0,0.03);
+  --font:          -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                   "Helvetica Neue", "Segoe UI", sans-serif;
+  --font-mono:     "SF Mono", "JetBrains Mono", "Menlo", "Consolas", monospace;
 }
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-body{font:15px/1.6 "Inter","Segoe UI",system-ui,sans-serif;color:var(--ink);background:var(--surface-alt);min-height:100vh}
-.container{max-width:960px;margin:0 auto;padding:2rem 1.5rem 4rem}
 
-.header{padding:2rem 0 1.5rem;border-bottom:1px solid var(--border);margin-bottom:2rem}
-.header h1{font-size:1.8rem;font-weight:700;letter-spacing:-0.02em;color:var(--ink)}
-.header .meta{display:flex;gap:1.5rem;flex-wrap:wrap;margin-top:.4rem;font-size:.88rem;color:var(--muted)}
-.header .meta span{display:flex;align-items:center;gap:.3rem}
-.header .meta .tag{display:inline-block;padding:.15rem .55rem;border-radius:99px;font-size:.76rem;font-weight:600;letter-spacing:.01em}
-.tag-ready{background:var(--ready-bg);color:var(--ready)}
-.tag-goal{background:var(--goal-bg);color:var(--goal)}
-.tag-review{background:#fef3cd;color:#856404}
-.needs-review{border-left:3px solid #e2a300}
+/* ── Reset & base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-/* Skills bar */
-.skills-bar{display:flex;flex-wrap:wrap;gap:.4rem;margin:1rem 0}
-.skill{display:inline-flex;align-items:center;gap:.25rem;padding:.25rem .6rem;border-radius:99px;font-size:.78rem;font-weight:500;background:var(--surface);border:1px solid var(--border);color:var(--ink)}
-.skill-implicit{background:var(--surface-alt);border-style:dashed;color:var(--muted)}
+body {
+  font: 400 15px/1.6 var(--font);
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
-/* Summary card */
-.summary-card{background:linear-gradient(135deg,#f0f1ff 0%,#f5f4fA 100%);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0}
-.summary-card p{color:var(--ink);font-size:.92rem;line-height:1.6}
-.summary-card .careers{font-weight:600;color:var(--accent)}
+/* ── Container ─────────────────────────────────────────────────── */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
 
-/* Bento grid */
-.bento{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin:1.5rem 0}
-.bento-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem;transition:box-shadow .2s}
-.bento-card:hover{box-shadow:0 2px 12px rgba(0,0,0,.06)}
-.bento-card h3{font-size:.82rem;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);margin-bottom:.6rem;padding-bottom:.5rem;border-bottom:1px solid var(--border)}
-.bento-card.full{grid-column:1/-1}
+/* ── Header ────────────────────────────────────────────────────── */
+.report-header {
+  padding: 0 0 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
 
-/* Job cards */
-.job-list{display:flex;flex-direction:column;gap:.8rem}
-.job-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1rem 1.2rem;transition:box-shadow .15s;position:relative}
-.job-card:hover{box-shadow:0 1px 8px rgba(0,0,0,.05)}
-.job-card .job-top{display:flex;justify-content:space-between;align-items:flex-start;gap:1rem}
-.job-card .job-title{font-weight:600;font-size:.95rem;color:var(--ink)}
-.job-card .job-company{font-size:.82rem;color:var(--muted);margin-top:.1rem}
-.job-card .job-score{font-size:.78rem;font-weight:700;padding:.15rem .5rem;border-radius:99px;white-space:nowrap}
-.score-ready{background:var(--ready-bg);color:var(--ready)}
-.score-goal{background:var(--goal-bg);color:var(--goal)}
-.job-card .job-why{font-size:.82rem;color:var(--muted);margin-top:.4rem;line-height:1.5}
-.job-card .job-link{font-size:.8rem;color:var(--accent);text-decoration:none;font-weight:600}
-.job-card .job-link:hover{text-decoration:underline}
+.report-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
 
-/* Skill tree */
-.skill-tree{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:1.2rem 1.4rem;margin:1.2rem 0;font-family:"JetBrains Mono","SF Mono","Cascadia Code",monospace;font-size:.8rem;line-height:1.7;color:var(--ink);white-space:pre;overflow-x:auto}
+.report-header .meta-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
 
-/* Steps */
-.steps{counter-reset:step;list-style:none;padding:0}
-.steps li{counter-increment:step;padding:.35rem 0 .35rem 2rem;position:relative;font-size:.88rem;color:var(--ink)}
-.steps li::before{content:counter(step);position:absolute;left:0;top:.3rem;width:1.3rem;height:1.3rem;background:var(--accent);color:#fff;border-radius:50%;font-size:.7rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+.report-header .meta-row .stat {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 500;
+}
 
-/* Gaps grid */
-.gaps-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem}
-.gap-col h4{font-size:.76rem;font-weight:600;text-transform:uppercase;letter-spacing:.03em;margin-bottom:.4rem}
-.gap-col ul{list-style:none;padding:0}
-.gap-col li{font-size:.82rem;padding:.2rem 0;border-bottom:1px dotted var(--border)}
-.gap-col li:last-child{border-bottom:none}
-.gap-core h4{color:var(--gap-core)}.gap-bridge h4{color:var(--gap-bridge)}.gap-stretch h4{color:var(--gap-stretch)}
+.report-header .meta-row .stat strong {
+  color: var(--text);
+  font-weight: 600;
+}
 
-/* Section heading */
-.section-head{display:flex;align-items:center;gap:.6rem;margin:2rem 0 1rem}
-.section-head h2{font-size:1.1rem;font-weight:700;letter-spacing:-0.01em;color:var(--ink)}
-.section-head .line{flex:1;height:1px;background:var(--border)}
+.report-header .meta-row .stat.conf-high strong { color: var(--green); }
+.report-header .meta-row .stat.conf-mid  strong { color: var(--orange); }
+.report-header .meta-row .stat.conf-low  strong { color: var(--red); }
 
-/* Footer */
-.footer{text-align:center;padding:2rem 0 1rem;font-size:.78rem;color:var(--soft);border-top:1px solid var(--border);margin-top:3rem}
+/* Review indicator — subtle amber dot */
+.review-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--amber);
+}
+.review-indicator::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--amber);
+}
 
-@media(max-width:700px){.bento{grid-template-columns:1fr}.gaps-grid{grid-template-columns:1fr}}
+/* ── Skills bar ────────────────────────────────────────────────── */
+.skills-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.2rem;
+}
+
+.skill-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+}
+
+.skill-pill.implicit {
+  color: var(--text-tertiary);
+  border-style: dashed;
+}
+
+/* ── Summary card ──────────────────────────────────────────────── */
+.summary-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.summary-card p {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.summary-card .careers {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ── Section headings ──────────────────────────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.5rem 0 1.2rem;
+}
+
+.section-head h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.section-head .rule {
+  flex: 1;
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+/* ── Progression columns (replaces ASCII tree) ─────────────────── */
+.progression {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.progression .tier {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.progression .tier .tier-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.progression .tier .tier-item {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.4;
+  padding: 0.15rem 0;
+}
+
+.progression .tier .tier-item:last-child { border-bottom: none; }
+
+/* Color accents per tier */
+.progression .tier.tier-current  .tier-label { color: var(--text-secondary); }
+.progression .tier.tier-bridge   .tier-label { color: var(--orange); }
+.progression .tier.tier-stretch  .tier-label { color: var(--accent); }
+.progression .tier.tier-dream    .tier-label { color: var(--green); }
+
+/* ── Steps ──────────────────────────────────────────────────────── */
+.steps {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.steps li {
+  counter-increment: step;
+  padding: 0.45rem 0 0.45rem 2.2rem;
+  position: relative;
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Recommendations grid ──────────────────────────────────────── */
+.report-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.stat-card h3 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.stat-card.full { grid-column: 1 / -1; }
+
+/* ── Job cards ──────────────────────────────────────────────────── */
+.job-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.job-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  transition: box-shadow 0.15s ease;
+}
+
+.job-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.job-card .job-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.job-card .job-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.35;
+}
+
+.job-card .job-company {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+
+.job-card .job-score {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+
+.score-ready { background: var(--green-bg); color: var(--green); }
+.score-goal  { background: var(--orange-bg); color: var(--orange); }
+
+.job-card .job-why {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  margin-top: 0.45rem;
+  line-height: 1.5;
+}
+
+.job-card .job-link {
+  display: inline-block;
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.job-card .job-link:hover {
+  text-decoration: underline;
+}
+
+.job-card .job-link::after {
+  content: " →";
+  font-weight: 400;
+}
+
+/* ── Skill gaps ────────────────────────────────────────────────── */
+.gaps-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.gap-col {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+}
+
+.gap-col h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.gap-col .gap-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.gap-col .gap-pill {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 99px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.gap-core    { border-left: 3px solid var(--red);    }
+.gap-core    h4 { color: var(--red);    }
+.gap-core    .gap-pill { background: var(--red-bg);    color: var(--red);    }
+
+.gap-bridge  { border-left: 3px solid var(--orange);  }
+.gap-bridge  h4 { color: var(--orange); }
+.gap-bridge  .gap-pill { background: var(--orange-bg); color: var(--orange); }
+
+.gap-stretch { border-left: 3px solid var(--accent);  }
+.gap-stretch h4 { color: var(--accent);  }
+.gap-stretch .gap-pill { background: var(--accent-light); color: var(--accent); }
+
+/* ── Footer ────────────────────────────────────────────────────── */
+.report-footer {
+  text-align: center;
+  padding: 2.5rem 0 0;
+  margin-top: 3rem;
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ── Print styles ──────────────────────────────────────────────── */
+@media print {
+  body {
+    background: #fff;
+    font-size: 12px;
+    color: #000;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .container { max-width: none; padding: 0.5in; }
+
+  .report-header {
+    border-bottom: 0.5pt solid #ccc;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .section-head .rule { background: #ccc; }
+
+  .stat-card,
+  .job-card,
+  .summary-card,
+  .gap-col,
+  .progression .tier {
+    box-shadow: none;
+    border: 0.5pt solid #ddd;
+    break-inside: avoid;
+  }
+
+  .job-card .job-link::after { content: ""; }
+
+  .report-grid,
+  .gaps-grid,
+  .progression { gap: 0.6rem; }
+
+  .report-footer {
+    border-top: 0.5pt solid #ccc;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .skill-pill,
+  .gap-pill {
+    border: 0.5pt solid #ccc;
+  }
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .report-grid,
+  .gaps-grid,
+  .progression {
+    grid-template-columns: 1fr;
+  }
+
+  .report-header h1 { font-size: 1.6rem; }
+  .report-header .meta-row { gap: 0.8rem; }
+}
 </style>
-<div class=container>
-<div class=header>
-<h1>Devin Rhodie</h1>
-<div class=meta>
-<span>Direction: <strong>technology/software</strong></span>
-<span>Confidence: <strong>95%</strong></span>
-<span>Lane: <strong>rescue</strong></span>
+<div class="container">
+  <header class="report-header">
+    <h1>Devin Rhodie</h1>
+    <div class="meta-row">
+      <span class="stat">Direction: <strong>technology/software</strong></span>
+      <span class="stat conf-high">Confidence: <strong>95%</strong></span>
+      <span class="stat">Lane: <strong>rescue</strong></span>
+    </div>
+    <div class="skills-bar">
+      <span class="skill-pill">api</span>
+      <span class="skill-pill">api development</span>
+      <span class="skill-pill">css</span>
+      <span class="skill-pill">csv</span>
+      <span class="skill-pill">data storage</span>
+      <span class="skill-pill">development process</span>
+      <span class="skill-pill implicit">Java</span>
+      <span class="skill-pill implicit">JavaScript</span>
+      <span class="skill-pill implicit">Python</span>
+    </div>
+  </header>
+  <div class="summary-card">
+    <p><span class="careers">Target careers:</span> Engineering, Software Engineer, IT Support Specialist</p>
+    <p style="margin-top:0.5rem">You already have a solid foundation in APIs and development. By bridging into AI and automation, you'll unlock roles in engineering and IT support. Keep building, and your dream career is within reach!</p>
+  </div>
+  <div class="section-head"><h2>Skill Progression</h2><span class="rule"></span></div>
+      <div class="progression">
+        <div class="tier tier-current">
+          <div class="tier-label">Current Skills</div>
+          <div class="tier-item">api</div>
+          <div class="tier-item">api development</div>
+          <div class="tier-item">css</div>
+          <div class="tier-item">csv</div>
+          <div class="tier-item">data storage</div>
+          <div class="tier-item">development process</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">Java</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">JavaScript</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">Python</div>
+        </div>
+        <div class="tier tier-bridge">
+          <div class="tier-label">Learn Next</div>
+          <div class="tier-item">ai-reasoning</div>
+          <div class="tier-item">ai-scenarios</div>
+          <div class="tier-item">ai-standards</div>
+          <div class="tier-item">ai-testing</div>
+          <div class="tier-item">automation</div>
+          <div class="tier-item">ai-training</div>
+        </div>
+        <div class="tier tier-stretch">
+          <div class="tier-label">Future Skills</div>
+          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>
+        </div>
+        <div class="tier tier-dream">
+          <div class="tier-label">Dream Careers</div>
+          <div class="tier-item">Engineering</div>
+          <div class="tier-item">Software Engineer</div>
+          <div class="tier-item">IT Support Specialist</div>
+        </div>
+      </div>
+  <ol class="steps">
+    <li>1. Take a free online Python course (e.g., Codecademy) to solidify your implicit Python skills.</li>
+    <li>2. Learn automation basics by completing an 'Automation with Python' tutorial on YouTube.</li>
+    <li>3. Explore AI concepts by taking an 'Introduction to AI' course on Coursera, focusing on training and evaluation.</li>
+    <li>4. Practice quality assurance by contributing to an open-source project on GitHub, writing test cases.</li>
+    <li>5. Build a portfolio project that combines API development, automation, and AI evaluation, then apply for internships.</li>
+  </ol>
+  <div class="section-head"><h2>Recommendations</h2><span class="rule"></span></div>
+  <div class="report-grid">
+    <div class="stat-card">
+      <h3>Available Now</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Junior AV Software Developer of Modules, Drivers, and Plugins</div>
+          <div class="job-company">controlconceptsinc</div>
+          </div>
+          <div class="job-score score-ready">68%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your Junior AV Software Developer role sharpens C#, Python, and OOP skills that are core to software engineering, while your work with TCP/IP and web technologies builds the networking and API expertise essential for IT support. Each project you complete adds transferable skills that bring your dream career closer.</div>
+        <a class="job-link" href="https://careers.jobscore.com/careers/controlconceptsinc/jobs/junior-av-software-developer-of-modules-drivers-and-plugins-cxIpwKYUDnalv3jWt9Gb4q?ref=rss&sid=68" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Embedded Software Engineer </div>
+          <div class="job-company">10beauty</div>
+          </div>
+          <div class="job-score score-ready">63%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: As an Embedded Software Engineer, you'll deepen your C/C++ and Linux skills, which are foundational for software engineering, while also gaining experience with hardware interfacing and RTOS—transferable to IT support roles where understanding system-level interactions is key.</div>
+        <a class="job-link" href="https://job-boards.greenhouse.io/10beauty/jobs/5138228007" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Newcastle Technology Degree Apprenticeship 2027: Software Engineering Specialism</div>
+          <div class="job-company">accenture</div>
+          </div>
+          <div class="job-score score-ready">62%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your Newcastle apprenticeship will deepen your existing API and development skills while adding Java, Python, and cloud expertise—directly transferable to any Software Engineer role. Mastering DevOps and security now gives you a practical edge for IT Support or broader engineering careers.</div>
+        <a class="job-link" href="https://accenture.pinpointhq.com/en/postings/96ab8f41-1fa3-41aa-9fc1-008d07604b94" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Embedded Software Engineering Intern - Fall</div>
+          <div class="job-company">AtomicSemi</div>
+          </div>
+          <div class="job-score score-ready">61%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your embedded systems internship will sharpen your low-level programming in C/C++ and Linux, skills that directly transfer to software engineering roles, while your experience with RTOS and microcontrollers builds the system-level thinking and debugging discipline essential for IT support. These technical foundations make you a stronger, more versatile engineer.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/AtomicSemi/de448098-ffc6-4b99-b341-d6a5874f390f" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">SaaS Support Engineer Internship</div>
+          <div class="job-company">3e</div>
+          </div>
+          <div class="job-score score-ready">60%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your SaaS Support Engineer Internship sharpens analytical skills and communication, which are crucial for debugging and collaborating in software engineering. The customer-orientation and proactive attitude you'll develop are directly transferable to understanding user needs and iterating on solutions as a Software Engineer.</div>
+        <a class="job-link" href="https://apply.workable.com/j/A54691B31D" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <h3>Career Goals</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title"> AI Platform Engineer</div>
+          <div class="job-company">0g</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/0g/1554138f-15dc-4225-93cc-44b64f2540ed" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Process Engineering Consultant - AI Trainer - Freelance - 8-20 hrs/week - Remote</div>
+          <div class="job-company">10xteam</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/10xteam/197210fb-4c11-4dee-a36a-2ab5ac4f8879" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Machine Learning Operations Engineer - AI Trainer - Freelance - 8-20hrs/week - Remote</div>
+          <div class="job-company">10xteam</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/10xteam/2f0ea6ed-0a85-40af-9058-8638df6e3b6a" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Senior Infrastructure Optimization Specialist - AI Trainer - Freelance - 8-20 hrs/week - Remote</div>
+          <div class="job-company">10xteam</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/10xteam/35dd2a12-e2e4-44d6-ab52-80744726e117" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">AI Specialist - AI Trainer - Freelance - 8-20hrs/week - Remote</div>
+          <div class="job-company">10xteam</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/10xteam/3c053f18-838a-4e58-8b06-46228c57dc54" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="section-head"><h2>Skill Gaps</h2><span class="rule"></span></div>
+  <div class="gaps-grid">
+    <div class="gap-col gap-core">
+      <h4>Core (priority)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">ai-training</span>
+        <span class="gap-pill">ai-evaluation</span>
+        <span class="gap-pill">operational-excellence</span>
+        <span class="gap-pill">quality-assurance</span>
+      </div>
+    </div>
+    <div class="gap-col gap-bridge">
+      <h4>Bridge (developing)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">ai-reasoning</span>
+        <span class="gap-pill">ai-scenarios</span>
+        <span class="gap-pill">ai-standards</span>
+        <span class="gap-pill">ai-testing</span>
+        <span class="gap-pill">automation</span>
+        <span class="gap-pill">aws</span>
+      </div>
+    </div>
+  </div>
+  <footer class="report-footer">SpeakHire Career Report</footer>
 </div>
-<div class=skills-bar>
-<span class=skill>api</span>
-<span class=skill>api development</span>
-<span class=skill>css</span>
-<span class=skill>csv</span>
-<span class=skill>data</span>
-<span class=skill>data storage</span>
-<span class=skill>design</span>
-<span class=skill>development</span>
-<span class="skill skill-implicit">teamwork</span>
-<span class="skill skill-implicit">problem solving</span>
-<span class="skill skill-implicit">attention to detail</span>
-</div>
-</div>
-<div class=summary-card>
-<p><span class=careers>Target careers:</span> Engineering, Software Engineer, IT Support Specialist</p>
-<p style="margin-top:.4rem">You already have a strong foundation in Python and data handling. By adding SQL, C#, .NET, and React, you'll unlock roles in software engineering and IT support. Keep building projects to solidify these skills!</p>
-</div>
-<div class="section-head"><h2>Skill Progression</h2><span class=line></span></div>
-<pre class=skill-tree>CURRENT SKILLS
-├── api
-├── api development
-├── css
-├── csv
-├── data
-├── data storage
-├── design
-├── development
-├── development process
-├── python
-├── teamwork (implicit)
-├── problem solving (implicit)
-└── attention to detail (implicit)
-│
-├── BRIDGE SKILLS
-│   ├── sql
-│   ├── csharp
-│   ├── dotnet
-│   └── react
-│
-├── GOAL SKILLS
-│   ├── angular
-│   ├── back-end
-│   ├── c++
-│   ├── docker
-│   └── fastapi
-│
-└── CAREER
-    ├── Engineering
-    ├── Software Engineer
-    └── IT Support Specialist</pre>
-<ol class=steps>
-<li>Take a free SQL course on Khan Academy to learn database querying.</li>
-<li>Build a small project using Python and SQL to integrate data storage.</li>
-<li>Learn C# basics with Microsoft Learn's C# for Beginners path.</li>
-<li>Create a simple web app using React by following the official tutorial.</li>
-<li>Explore .NET by building a REST API with C# and connecting it to a React frontend.</li>
-</ol>
-<div class="section-head"><h2>Recommendations</h2><span class=line></span></div>
-<div class=bento>
-<div class=bento-card>
-<h3>Available Now</h3>
-<div class=job-list>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Associate Software Development Engineer</div><div class=job-company>boeing</div></div>
-<div class="job-score score-ready">88%</div>
-</div>
-<div class=job-why>This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
-<div class=job-why style="color:var(--accent)">Bridge: As an Associate Software Development Engineer, you'll deepen your object-oriented design and full-stack skills (C#, .NET, Java, SQL, Docker) which are directly transferable to Software Engineering roles, while also building the systematic problem-solving and technical communication needed for IT Support Specialist positions.</div>
-<a class=job-link href="https://boeing.wd1.myworkdayjobs.com/job/USA---Hazelwood-MO/Associate-Software-Development-Engineer_JR2026515830-1" target=_blank rel=noopener>View position</a>
-</div>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Web Developer</div><div class=job-company>trexsolutions</div></div>
-<div class="job-score score-ready">88%</div>
-</div>
-<div class=job-why>This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
-<div class=job-why style="color:var(--accent)">Bridge: As a Web Developer, you'll deepen your expertise in API development and data storage, while gaining hands-on experience with languages like Python and Java—directly transferable to Software Engineering roles. These skills also strengthen your IT Support capabilities by enhancing your understanding of system integration and troubleshooting.</div>
-<a class=job-link href="https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8566159002" target=_blank rel=noopener>View position</a>
-</div>
-</div></div>
-<div class=bento-card>
-<h3>Career Goals</h3>
-<div class=job-list>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Software Engineer</div><div class=job-company>leidos</div></div>
-<div class="job-score score-goal">80%</div>
-</div>
-<div class=job-why>This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
-<a class=job-link href="https://leidos.wd5.myworkdayjobs.com/job/Reston-VA/Software-Engineer_R-00186022" target=_blank rel=noopener>View position</a>
-</div>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>Software Engineer, New Grad</div><div class=job-company>ixllearning</div></div>
-<div class="job-score score-goal">80%</div>
-</div>
-<div class=job-why>This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
-<a class=job-link href="https://www.ixl.com/company/jobs?gh_jid=8574194002" target=_blank rel=noopener>View position</a>
-</div>
-<div class=job-card>
-<div class=job-top>
-<div><div class=job-title>UI Developer</div><div class=job-company>redhorsecorp</div></div>
-<div class="job-score score-goal">80%</div>
-</div>
-<div class=job-why>This role builds your api, api development, css skills and moves you toward becoming a Engineering.</div>
-<a class=job-link href="https://jobs.lever.co/redhorsecorp/43bb7d3e-9b76-4929-93f3-ec38e31fb170" target=_blank rel=noopener>View position</a>
-</div>
-</div></div>
-</div>
-<div class="section-head"><h2>Skill Gaps</h2><span class=line></span></div>
-<div class=gaps-grid>
-<div class="gap-col gap-core"><h4>Core (priority)</h4><ul><li>sql</li><li>csharp</li><li>dotnet</li><li>react</li></ul></div>
-<div class="gap-col gap-stretch"><h4>Stretch (future)</h4><ul><li>angular</li><li>back-end</li><li>c++</li><li>docker</li><li>fastapi</li></ul></div>
-</div>
-<div class=footer>SpeakHire Recommender</div>
-</div>
+</html>

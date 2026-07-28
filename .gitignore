@@ -3,3 +3,19 @@ jd_exports/*.csv
 reports/tingli_reports/*.json
 api
 recommender_shared_data.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache directories
+recommender/.cache/
+recommender/data/college_cache/
+recommender/data/eligibility_cache/
+
+# Embedded deps
+recommender/eval/rjdb/
+
+# Zip artifacts
+*.zip

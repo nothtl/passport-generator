@@ -1,0 +1,819 @@
+{
+  "resume": "=== aylin_calderon_resume.pdf ===\nAylin Calderon\n\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com\n\nEDUCATION\n\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n\nWork Experience\nLittle Pulp Arts Center, Glendale, NY\n\nIntern\n\n- Helped children learn to paint\n- Cleaned exhibits\n- Painted posters\n\nBabysitter & Pet Sitter:\n-cooked meals\n-played games with the children\n-Supervised children\n-fed and took care of their cat\n\nEXTRACURRICULAR ACTIVITIES\nFlushing International High School Dance lessons\n\nSKILLS\n\n- Goodteamplayer\n- Abilitytomultitaskandcompleteprojectsontime\n- Abilitytolearnquickly\n-    Bilingual:SpanishandEnglish\n- Typingskills\n\nHOBBIES & INTERESTS\n\n- Playingsoccer\n- Graphicdesigning\n- Videogaming\n\nSpring 2022\n\nSummer 2020",
+  "function": "arts-media",
+  "confidence": 58,
+  "skills": [
+    "bilingual",
+    "typing skills",
+    "paint",
+    "dance"
+  ],
+  "verified_skills": [
+    "bilingual",
+    "typing skills",
+    "paint",
+    "dance"
+  ],
+  "possible_skills": [],
+  "rejected_skills": [
+    "care",
+    "cat",
+    "exhibits",
+    "extracurricular activities",
+    "games",
+    "high school",
+    "meals",
+    "sitter"
+  ],
+  "skill_weights": {},
+  "market_relevant": [
+    "bilingual",
+    "typing skills",
+    "paint",
+    "dance"
+  ],
+  "inferred": [
+    "public speaking",
+    "teamwork",
+    "leadership"
+  ],
+  "implicit_skills": [
+    {
+      "confidence": "medium",
+      "reason": "Experience with exhibits likely involved presenting information.",
+      "skill": "public speaking"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Participation in games suggests collaboration.",
+      "skill": "teamwork"
+    },
+    {
+      "confidence": "medium",
+      "reason": "Involvement in extracurricular activities often requires leading or coordinating.",
+      "skill": "leadership"
+    }
+  ],
+  "skill_evidence": [],
+  "gaps": [
+    "communication",
+    "customer-support",
+    "empathy",
+    "english",
+    "troubleshooting"
+  ],
+  "core_gaps": [
+    "communication",
+    "customer-support",
+    "empathy",
+    "english",
+    "troubleshooting"
+  ],
+  "bridge_gaps": [],
+  "stretch_gaps": [
+    "campaign-management",
+    "chat-support",
+    "communication-skills",
+    "community-management",
+    "content-planning",
+    "content-review",
+    "customer-service",
+    "czech",
+    "data-analysis",
+    "dutch"
+  ],
+  "nice_to_have_gaps": [
+    "campaign-management",
+    "chat-support",
+    "communication-skills",
+    "community-management",
+    "content-planning",
+    "content-review",
+    "customer-service",
+    "czech",
+    "data-analysis",
+    "dutch"
+  ],
+  "verify_gaps": [],
+  "related": [
+    {
+      "skill": "translation",
+      "pmi": 4.26
+    },
+    {
+      "skill": "spanish",
+      "pmi": 3.85
+    },
+    {
+      "skill": "english",
+      "pmi": 2.46
+    },
+    {
+      "skill": "behavioralsupport",
+      "pmi": 2.22
+    },
+    {
+      "skill": "paraprofessional",
+      "pmi": 2.1
+    },
+    {
+      "skill": "classroomsupport",
+      "pmi": 1.43
+    },
+    {
+      "skill": "customerservice",
+      "pmi": 1.41
+    },
+    {
+      "skill": "dataentry",
+      "pmi": 1.41
+    },
+    {
+      "skill": "studentsupport",
+      "pmi": 1.32
+    },
+    {
+      "skill": "timemanagement",
+      "pmi": 1.3
+    },
+    {
+      "skill": "payroll",
+      "pmi": 2.79
+    },
+    {
+      "skill": "problemsolving",
+      "pmi": 2.27
+    },
+    {
+      "skill": "compliance",
+      "pmi": 1.54
+    }
+  ],
+  "related_skills": [
+    {
+      "skill": "translation",
+      "pmi": 4.26
+    },
+    {
+      "skill": "spanish",
+      "pmi": 3.85
+    },
+    {
+      "skill": "english",
+      "pmi": 2.46
+    },
+    {
+      "skill": "behavioralsupport",
+      "pmi": 2.22
+    },
+    {
+      "skill": "paraprofessional",
+      "pmi": 2.1
+    },
+    {
+      "skill": "classroomsupport",
+      "pmi": 1.43
+    },
+    {
+      "skill": "customerservice",
+      "pmi": 1.41
+    },
+    {
+      "skill": "dataentry",
+      "pmi": 1.41
+    },
+    {
+      "skill": "studentsupport",
+      "pmi": 1.32
+    },
+    {
+      "skill": "timemanagement",
+      "pmi": 1.3
+    },
+    {
+      "skill": "payroll",
+      "pmi": 2.79
+    },
+    {
+      "skill": "problemsolving",
+      "pmi": 2.27
+    },
+    {
+      "skill": "compliance",
+      "pmi": 1.54
+    }
+  ],
+  "alternatives": [
+    {
+      "function": "education",
+      "pct": 13
+    },
+    {
+      "function": "finance",
+      "pct": 11
+    },
+    {
+      "function": "healthcare",
+      "pct": 6
+    },
+    {
+      "function": "design",
+      "pct": 6
+    },
+    {
+      "function": "technology",
+      "pct": 6
+    }
+  ],
+  "coach_notes": "For a arts-media path, focus first on communication, customer-support, empathy. Build direct evidence for those skills through coursework, projects, internships, or volunteer work.",
+  "jobs": [
+    {
+      "title": "Community Intern",
+      "company": "amartha",
+      "url": "https://apply.workable.com/j/8741625AC1",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.516,
+        "hyre_score": 0.58,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Community internship, no age restrictions.",
+      "cross_function": false,
+      "bridge": "Your Community Intern role sharpens communication, content-planning, and social-media skills—directly transferable to creating engaging content and building an audience as a Content Creator or Media Professional. These practical skills, combined with your bilingual and creative talents, will give you a strong foundation for photography storytelling and media production."
+    },
+    {
+      "title": "LA Galaxy Academy, Academic Tutor (Part-Time)",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8550124002",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.111,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.623,
+        "hyre_score": 0.659,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your tutoring role sharpens your data analysis and lesson planning skills, which directly translate to structuring content and analyzing audience engagement for media projects. Plus, collaborating with learning coaches builds teamwork and communication abilities essential for creative production."
+    },
+    {
+      "title": "Dutch Beauty Advisor",
+      "company": "atleanworld",
+      "url": "https://apply.workable.com/j/46DD0328AA",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.475,
+        "hyre_score": 0.586,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 7,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Beauty advisor, no age restrictions.",
+      "cross_function": false
+    },
+    {
+      "title": "Czech Digital Content Review Agent",
+      "company": "atleanworld",
+      "url": "https://apply.workable.com/j/C892ED99EF",
+      "fit": 52,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "design",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.2,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.483,
+        "hyre_score": 0.539,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 7,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Digital content review, likely suitable for minors.",
+      "cross_function": false,
+      "bridge": "As a Czech Digital Content Review Agent, you'll sharpen your eye for detail and policy compliance, which directly translates to creating polished, brand-aligned content as a Content Creator. Plus, your bilingual skills and empathy will help you understand diverse audiences, a key asset for any Media Professional."
+    },
+    {
+      "title": "CMMC - Full Time Faculty - Media and Mass Communication",
+      "company": "americanuniversity",
+      "url": "https://AmericanUniversity.hire.trakstar.com/jobs/fk0ppeh/",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.25,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.082,
+        "embedding_similarity": 0.419,
+        "hyre_score": 0.454,
+        "skill_overlap_raw": 0.059,
+        "hyper_p_value": 0.00748731,
+        "hyper_k": 1,
+        "hyper_K": 2,
+        "hyper_n": 17,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your faculty role builds advanced editing, public relations, and mass communication theory skills that directly transfer to content creation and media professionalism, while curriculum development sharpens your ability to structure engaging narratives—key for photography storytelling."
+    },
+    {
+      "title": "Dutch Social Media Advisor",
+      "company": "atleanworld",
+      "url": "https://apply.workable.com/j/DB7BAFBB1B",
+      "fit": 52,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.463,
+        "hyre_score": 0.571,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Social media advisor, no age restrictions.",
+      "cross_function": false
+    }
+  ],
+  "ready_now": [
+    {
+      "title": "Community Intern",
+      "company": "amartha",
+      "url": "https://apply.workable.com/j/8741625AC1",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.516,
+        "hyre_score": 0.58,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Community internship, no age restrictions.",
+      "cross_function": false,
+      "bridge": "Your Community Intern role sharpens communication, content-planning, and social-media skills—directly transferable to creating engaging content and building an audience as a Content Creator or Media Professional. These practical skills, combined with your bilingual and creative talents, will give you a strong foundation for photography storytelling and media production."
+    },
+    {
+      "title": "LA Galaxy Academy, Academic Tutor (Part-Time)",
+      "company": "aegworldwide",
+      "url": "https://job-boards.greenhouse.io/aegworldwide/jobs/8550124002",
+      "fit": 58,
+      "job_type": "bridge",
+      "subdomain": "tutoring",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.0,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.111,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.623,
+        "hyre_score": 0.659,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 2,
+        "hyper_n": 9,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your tutoring role sharpens your data analysis and lesson planning skills, which directly translate to structuring content and analyzing audience engagement for media projects. Plus, collaborating with learning coaches builds teamwork and communication abilities essential for creative production."
+    },
+    {
+      "title": "Dutch Beauty Advisor",
+      "company": "atleanworld",
+      "url": "https://apply.workable.com/j/46DD0328AA",
+      "fit": 62,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.475,
+        "hyre_score": 0.586,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 7,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Beauty advisor, no age restrictions.",
+      "cross_function": false
+    }
+  ],
+  "aspirational": [
+    {
+      "title": "Czech Digital Content Review Agent",
+      "company": "atleanworld",
+      "url": "https://apply.workable.com/j/C892ED99EF",
+      "fit": 52,
+      "job_type": "goal",
+      "subdomain": "content-creation",
+      "function": "design",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.2,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.483,
+        "hyre_score": 0.539,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 7,
+        "hyper_N": 1043,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Digital content review, likely suitable for minors.",
+      "cross_function": false,
+      "bridge": "As a Czech Digital Content Review Agent, you'll sharpen your eye for detail and policy compliance, which directly translates to creating polished, brand-aligned content as a Content Creator. Plus, your bilingual skills and empathy will help you understand diverse audiences, a key asset for any Media Professional."
+    },
+    {
+      "title": "CMMC - Full Time Faculty - Media and Mass Communication",
+      "company": "americanuniversity",
+      "url": "https://AmericanUniversity.hire.trakstar.com/jobs/fk0ppeh/",
+      "fit": 50,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "education",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.25,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.0,
+        "attainability": 0.75,
+        "skill_overlap": 0.082,
+        "embedding_similarity": 0.419,
+        "hyre_score": 0.454,
+        "skill_overlap_raw": 0.059,
+        "hyper_p_value": 0.00748731,
+        "hyper_k": 1,
+        "hyper_K": 2,
+        "hyper_n": 17,
+        "hyper_N": 4533,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "could not screen",
+      "cross_function": false,
+      "bridge": "Your faculty role builds advanced editing, public relations, and mass communication theory skills that directly transfer to content creation and media professionalism, while curriculum development sharpens your ability to structure engaging narratives—key for photography storytelling."
+    },
+    {
+      "title": "Dutch Social Media Advisor",
+      "company": "atleanworld",
+      "url": "https://apply.workable.com/j/DB7BAFBB1B",
+      "fit": 52,
+      "job_type": "goal",
+      "subdomain": "creative-education",
+      "function": "marketing",
+      "why": "This role builds your bilingual, typing skills, paint skills and moves you toward becoming a Content Creator.",
+      "gaps": "communication, customer-support, empathy",
+      "job_score_breakdown": {
+        "goal_alignment": 0.5,
+        "study_alignment": 0.0,
+        "subdomain_alignment": 0.0,
+        "experience_alignment": 0.1,
+        "attainability": 0.75,
+        "skill_overlap": 0.0,
+        "embedding_similarity": 0.463,
+        "hyre_score": 0.571,
+        "skill_overlap_raw": 0.0,
+        "hyper_p_value": 1.0,
+        "hyper_k": 0,
+        "hyper_K": 1,
+        "hyper_n": 10,
+        "hyper_N": 2099,
+        "quality_penalty": 0.0
+      },
+      "eligible": true,
+      "eligibility_reason": "Social media advisor, no age restrictions.",
+      "cross_function": false
+    }
+  ],
+  "skill_path": "You already have a strong foundation in bilingualism, typing, and creative arts. By building communication, customer support, and empathy skills, you'll unlock the bridge to content creation, photography, and media roles. Start with communication training to accelerate your path!",
+  "skill_tree": {
+    "tree": "CURRENT SKILLS\n├── bilingual\n├── typing skills\n├── paint\n├── dance\n├── public speaking (implicit)\n├── teamwork (implicit)\n└── leadership (implicit)\n    ↓\nBRIDGE SKILLS\n├── communication\n├── customer-support\n├── empathy\n├── english\n└── troubleshooting\n    ↓\nGOAL SKILLS\n├── campaign-management\n├── chat-support\n├── communication-skills\n├── community-management\n└── content-planning\n    ↓\nDREAM CAREERS\n├── Content Creator\n├── Photographer\n└── Media Professional",
+    "steps": [
+      "Enroll in a free online course on effective communication (e.g., Coursera's 'Improving Communication Skills').",
+      "Practice customer support by volunteering for a local nonprofit's helpline or using a platform like Zendesk's free training.",
+      "Take an empathy-building workshop or read 'The Art of Empathy' by Karla McLaren.",
+      "Improve English proficiency with Duolingo or a community college ESL class.",
+      "Learn troubleshooting basics via Google's IT Support Professional Certificate on Coursera."
+    ],
+    "summary": "You already have a strong foundation in bilingualism, typing, and creative arts. By building communication, customer support, and empathy skills, you'll unlock the bridge to content creation, photography, and media roles. Start with communication training to accelerate your path!"
+  },
+  "ideal_careers": [
+    "Content Creator",
+    "Photographer",
+    "Media Professional"
+  ],
+  "student_intent": {
+    "goal_domains": [
+      "arts-media"
+    ],
+    "goal_roles": [
+      "Content Creator",
+      "Photographer",
+      "Media Professional"
+    ],
+    "goal_subdomains": [
+      "creative-education"
+    ],
+    "study_domains": [
+      "finance",
+      "arts-media"
+    ],
+    "study_subdomains": [
+      "graphic-design"
+    ],
+    "study_program": "- TheFlushingInternationalHighSchool,Queens,NY",
+    "study_level": "high-school",
+    "intent_confidence": 0.317,
+    "intent_strength": 0.517,
+    "has_student_intent": true
+  },
+  "intent_summary": {
+    "headline": "",
+    "summary_text": "Ideal careers: Content Creator, Photographer, Media Professional\n=== aylin_calderon_resume.pdf ===\nAylin Calderon\n25-29 College Point Blvd. Queens, NY 11354\n347-771-0470\ncalderonaylin700@gmail.com",
+    "study_text": "- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n- TheFlushingInternationalHighSchool,Queens,NY\n- Expecteddateofgraduation: June2023\n- TheFlushingInternationalHi"
+  },
+  "signal_breakdown": {
+    "aspiration": {
+      "arts-media": 32,
+      "design": 13,
+      "finance": 10
+    },
+    "study": {
+      "finance": 28,
+      "arts-media": 22,
+      "ops": 7
+    },
+    "classifier": {
+      "arts-media": 35,
+      "finance": 12,
+      "education": 11
+    },
+    "onet": {
+      "education": 44,
+      "healthcare": 19,
+      "ops": 7
+    },
+    "embeddings": {
+      "education": 9,
+      "technology": 8,
+      "ops": 6
+    },
+    "experience": {
+      "education": 32,
+      "healthcare": 27,
+      "arts-media": 17
+    }
+  },
+  "candidate_functions": [
+    "arts-media",
+    "education",
+    "finance"
+  ],
+  "subdomain": "creative-education",
+  "subdomain_confidence": 0.85,
+  "subdomain_alternatives": [
+    "graphic-design"
+  ],
+  "lane_used": "rescue",
+  "job_cluster": [
+    "creative-education",
+    "tutoring",
+    "creative-education",
+    "content-creation",
+    "creative-education"
+  ],
+  "needs_review": true,
+  "review_reasons": [],
+  "llm_stage_results": {
+    "route": {
+      "accepted": true,
+      "chosen_function": "arts-media",
+      "chosen_subdomain": "creative-education",
+      "confidence": 0.85,
+      "evidence_spans": [
+        {
+          "section": "experience",
+          "text": "Helped children learn to paint"
+        },
+        {
+          "section": "summary_text",
+          "text": "Ideal careers: Content Creator, Photographer, Media Professional"
+        }
+      ],
+      "goal_domains": [
+        "arts-media"
+      ],
+      "goal_roles": [
+        "Content Creator",
+        "Photographer",
+        "Media Professional"
+      ],
+      "goal_subdomains": [
+        "creative-education"
+      ],
+      "reason_codes": [
+        "explicit_goal_supported_by_experience",
+        "arts_media_work_experience",
+        "creative_education_subdomain_match"
+      ],
+      "review_reasons": [],
+      "secondary_function": "education",
+      "study_domains": [],
+      "study_subdomains": []
+    },
+    "evidence": {
+      "accepted": true,
+      "evidence_items": [],
+      "implicit_skills": [
+        {
+          "confidence": "medium",
+          "reason": "Experience with exhibits likely involved presenting information.",
+          "skill": "public speaking"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Participation in games suggests collaboration.",
+          "skill": "teamwork"
+        },
+        {
+          "confidence": "medium",
+          "reason": "Involvement in extracurricular activities often requires leading or coordinating.",
+          "skill": "leadership"
+        }
+      ],
+      "possible_skills": [],
+      "rejected_skills": [
+        "care",
+        "cat",
+        "exhibits",
+        "extracurricular activities",
+        "games",
+        "high school",
+        "meals",
+        "sitter"
+      ],
+      "review_reasons": [],
+      "scored_skills": [
+        "bilingual",
+        "typing skills",
+        "paint",
+        "dance"
+      ],
+      "verified_skills": [
+        "bilingual",
+        "typing skills",
+        "paint",
+        "dance"
+      ]
+    }
+  },
+  "classifier_top_function": {
+    "arts-media": 35,
+    "finance": 12,
+    "education": 11
+  },
+  "cross_functions_explored": [],
+  "cross_function_count": 0,
+  "cross_function_jobs": [],
+  "explore_jobs": [],
+  "llm_trace": [
+    {
+      "stage": "route",
+      "accepted": true,
+      "review_reasons": []
+    },
+    {
+      "stage": "evidence",
+      "accepted": true,
+      "review_reasons": []
+    }
+  ],
+  "normalization_source": "hybrid"
+}

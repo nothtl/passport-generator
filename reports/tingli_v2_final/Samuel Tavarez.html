@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Samuel Tavarez — SpeakHire Career Report</title>
+<style>
+/* ===================================================================
+   Apple-style report stylesheet
+   =================================================================== */
+
+/* ── Design tokens ─────────────────────────────────────────────── */
+:root {
+  --bg:            #f5f5f7;
+  --surface:       #ffffff;
+  --text:          #1d1d1f;
+  --text-secondary:#6e6e73;
+  --text-tertiary: #aeaeb2;
+  --accent:        #0071e3;
+  --accent-light:  #e8f2fd;
+  --green:         #34c759;
+  --green-bg:      #e8f8ed;
+  --orange:        #ff9500;
+  --orange-bg:     #fff4e5;
+  --red:           #ff3b30;
+  --red-bg:        #ffeceb;
+  --amber:         #ff9f0a;
+  --amber-bg:      #fff8e5;
+  --border:        #d2d2d7;
+  --border-subtle: #e5e5ea;
+  --radius:        12px;
+  --radius-sm:     8px;
+  --radius-lg:     16px;
+  --shadow:        0 1px 3px rgba(0,0,0,0.04), 0 0 0 0.5px rgba(0,0,0,0.02);
+  --shadow-hover:  0 4px 16px rgba(0,0,0,0.06), 0 0 0 0.5px rgba(0,0,0,0.03);
+  --font:          -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                   "Helvetica Neue", "Segoe UI", sans-serif;
+  --font-mono:     "SF Mono", "JetBrains Mono", "Menlo", "Consolas", monospace;
+}
+
+/* ── Reset & base ──────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font: 400 15px/1.6 var(--font);
+  color: var(--text);
+  background: var(--bg);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Container ─────────────────────────────────────────────────── */
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+/* ── Header ────────────────────────────────────────────────────── */
+.report-header {
+  padding: 0 0 2rem;
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.report-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
+
+.report-header .meta-row {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
+
+.report-header .meta-row .stat {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-weight: 500;
+}
+
+.report-header .meta-row .stat strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.report-header .meta-row .stat.conf-high strong { color: var(--green); }
+.report-header .meta-row .stat.conf-mid  strong { color: var(--orange); }
+.report-header .meta-row .stat.conf-low  strong { color: var(--red); }
+
+/* Review indicator — subtle amber dot */
+.review-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--amber);
+}
+.review-indicator::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--amber);
+}
+
+/* ── Skills bar ────────────────────────────────────────────────── */
+.skills-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.2rem;
+}
+
+.skill-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.7rem;
+  border-radius: 99px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+}
+
+.skill-pill.implicit {
+  color: var(--text-tertiary);
+  border-style: dashed;
+}
+
+/* ── Summary card ──────────────────────────────────────────────── */
+.summary-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 1.4rem 1.6rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.summary-card p {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+.summary-card .careers {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* ── Section headings ──────────────────────────────────────────── */
+.section-head {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 2.5rem 0 1.2rem;
+}
+
+.section-head h2 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.section-head .rule {
+  flex: 1;
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+/* ── Progression columns (replaces ASCII tree) ─────────────────── */
+.progression {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.progression .tier {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.progression .tier .tier-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.progression .tier .tier-item {
+  font-size: 0.82rem;
+  color: var(--text);
+  line-height: 1.4;
+  padding: 0.15rem 0;
+}
+
+.progression .tier .tier-item:last-child { border-bottom: none; }
+
+/* Color accents per tier */
+.progression .tier.tier-current  .tier-label { color: var(--text-secondary); }
+.progression .tier.tier-bridge   .tier-label { color: var(--orange); }
+.progression .tier.tier-stretch  .tier-label { color: var(--accent); }
+.progression .tier.tier-dream    .tier-label { color: var(--green); }
+
+/* ── Steps ──────────────────────────────────────────────────────── */
+.steps {
+  counter-reset: step;
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.steps li {
+  counter-increment: step;
+  padding: 0.45rem 0 0.45rem 2.2rem;
+  position: relative;
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.55;
+}
+
+.steps li::before {
+  content: counter(step);
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 50%;
+  font-size: 0.7rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* ── Recommendations grid ──────────────────────────────────────── */
+.report-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.stat-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  padding: 1.4rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  box-shadow: var(--shadow-hover);
+}
+
+.stat-card h3 {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-tertiary);
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.stat-card.full { grid-column: 1 / -1; }
+
+/* ── Job cards ──────────────────────────────────────────────────── */
+.job-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.job-card {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1rem 1.2rem;
+  transition: box-shadow 0.15s ease;
+}
+
+.job-card:hover {
+  box-shadow: var(--shadow);
+}
+
+.job-card .job-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.job-card .job-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--text);
+  line-height: 1.35;
+}
+
+.job-card .job-company {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  margin-top: 0.15rem;
+}
+
+.job-card .job-score {
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 99px;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
+}
+
+.score-ready { background: var(--green-bg); color: var(--green); }
+.score-goal  { background: var(--orange-bg); color: var(--orange); }
+.score-explore { background: var(--accent-light); color: var(--accent); }
+
+.job-card .job-why {
+  font-size: 0.84rem;
+  color: var(--text-secondary);
+  margin-top: 0.45rem;
+  line-height: 1.5;
+}
+
+.job-card .job-link {
+  display: inline-block;
+  font-size: 0.82rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.job-card .job-link:hover {
+  text-decoration: underline;
+}
+
+.job-card .job-link::after {
+  content: " →";
+  font-weight: 400;
+}
+
+/* ── Skill gaps ────────────────────────────────────────────────── */
+.gaps-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1.2rem 0;
+}
+
+.gap-col {
+  background: var(--surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius);
+  padding: 1.2rem;
+}
+
+.gap-col h4 {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.8rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.gap-col .gap-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.gap-col .gap-pill {
+  font-size: 0.78rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 99px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.gap-core    { border-left: 3px solid var(--red);    }
+.gap-core    h4 { color: var(--red);    }
+.gap-core    .gap-pill { background: var(--red-bg);    color: var(--red);    }
+
+.gap-bridge  { border-left: 3px solid var(--orange);  }
+.gap-bridge  h4 { color: var(--orange); }
+.gap-bridge  .gap-pill { background: var(--orange-bg); color: var(--orange); }
+
+.gap-stretch { border-left: 3px solid var(--accent);  }
+.gap-stretch h4 { color: var(--accent);  }
+.gap-stretch .gap-pill { background: var(--accent-light); color: var(--accent); }
+
+/* ── Footer ────────────────────────────────────────────────────── */
+.report-footer {
+  text-align: center;
+  padding: 2.5rem 0 0;
+  margin-top: 3rem;
+  font-size: 0.78rem;
+  color: var(--text-tertiary);
+  border-top: 1px solid var(--border-subtle);
+}
+
+/* ── Print styles ──────────────────────────────────────────────── */
+@media print {
+  body {
+    background: #fff;
+    font-size: 12px;
+    color: #000;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .container { max-width: none; padding: 0.5in; }
+
+  .report-header {
+    border-bottom: 0.5pt solid #ccc;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem;
+  }
+
+  .section-head .rule { background: #ccc; }
+
+  .stat-card,
+  .job-card,
+  .summary-card,
+  .gap-col,
+  .progression .tier {
+    box-shadow: none;
+    border: 0.5pt solid #ddd;
+    break-inside: avoid;
+  }
+
+  .job-card .job-link::after { content: ""; }
+
+  .report-grid,
+  .gaps-grid,
+  .progression { gap: 0.6rem; }
+
+  .report-footer {
+    border-top: 0.5pt solid #ccc;
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .skill-pill,
+  .gap-pill {
+    border: 0.5pt solid #ccc;
+  }
+}
+
+/* ── Responsive ────────────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .report-grid,
+  .gaps-grid,
+  .progression {
+    grid-template-columns: 1fr;
+  }
+
+  .report-header h1 { font-size: 1.6rem; }
+  .report-header .meta-row { gap: 0.8rem; }
+}
+</style>
+<div class="container">
+  <header class="report-header">
+    <h1>Samuel Tavarez</h1>
+    <div class="meta-row">
+      <span class="stat">Direction: <strong>finance</strong></span>
+      <span class="stat conf-high">Confidence: <strong>82%</strong></span>
+      <span class="stat">Lane: <strong>rescue</strong></span>
+    </div>
+    <div class="skills-bar">
+      <span class="skill-pill">administration</span>
+      <span class="skill-pill">analyses</span>
+      <span class="skill-pill">analysis</span>
+      <span class="skill-pill">analytical</span>
+      <span class="skill-pill">balancing</span>
+      <span class="skill-pill">bilingual</span>
+      <span class="skill-pill">business administration</span>
+      <span class="skill-pill">business analysis</span>
+      <span class="skill-pill implicit">project management</span>
+      <span class="skill-pill implicit">data analysis</span>
+      <span class="skill-pill implicit">marketing</span>
+    </div>
+  </header>
+  <div class="summary-card">
+    <p><span class="careers">Target careers:</span> Financial Analyst, Accountant, Finance Professional</p>
+    <p style="margin-top:0.5rem">You already have a strong foundation in business analysis and administration. By focusing on accounting, financial reporting, and risk assessment, you'll bridge the gap to your dream career as a Financial Analyst or Accountant. Keep building step by step!</p>
+  </div>
+  <div class="section-head"><h2>Skill Progression</h2><span class="rule"></span></div>
+      <div class="progression">
+        <div class="tier tier-current">
+          <div class="tier-label">Current Skills</div>
+          <div class="tier-item">administration</div>
+          <div class="tier-item">analyses</div>
+          <div class="tier-item">analysis</div>
+          <div class="tier-item">analytical</div>
+          <div class="tier-item">balancing</div>
+          <div class="tier-item">bilingual</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">project management</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">data analysis</div>
+          <div class="tier-item" style="color:var(--text-tertiary)">marketing</div>
+        </div>
+        <div class="tier tier-bridge">
+          <div class="tier-label">Learn Next</div>
+          <div class="tier-item">audit</div>
+          <div class="tier-item">auditing</div>
+          <div class="tier-item">audits</div>
+          <div class="tier-item">bookkeeping</div>
+          <div class="tier-item">budgeting</div>
+          <div class="tier-item">accounting</div>
+        </div>
+        <div class="tier tier-stretch">
+          <div class="tier-label">Future Skills</div>
+          <div class="tier-item" style="color:var(--text-tertiary);font-style:italic">—</div>
+        </div>
+        <div class="tier tier-dream">
+          <div class="tier-label">Dream Careers</div>
+          <div class="tier-item">Financial Analyst</div>
+          <div class="tier-item">Accountant</div>
+          <div class="tier-item">Finance Professional</div>
+        </div>
+      </div>
+  <ol class="steps">
+    <li>Enroll in an online accounting fundamentals course (e.g., Coursera's 'Accounting: Principles of Financial Accounting') to build core accounting knowledge.</li>
+    <li>Take a free course on financial reporting (e.g., edX's 'Financial Reporting and Analysis') to understand how to prepare and analyze financial statements.</li>
+    <li>Learn risk assessment basics through a short course like 'Risk Management for Finance' on LinkedIn Learning.</li>
+    <li>Practice bookkeeping and budgeting using software like QuickBooks or Excel templates to solidify bridge skills.</li>
+    <li>Explore AI training in finance via a workshop or online module (e.g., 'AI for Finance' on Udemy) to future-proof your skill set.</li>
+  </ol>
+  <div class="section-head"><h2>Recommendations</h2><span class="rule"></span></div>
+  <div class="report-grid">
+    <div class="stat-card">
+      <h3>Available Now</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Finance Intern</div>
+          <div class="job-company">Etched</div>
+          </div>
+          <div class="job-score score-ready">78%</div>
+        </div>
+        <div class="job-why">This role builds your administration, analyses, analysis skills and moves you toward becoming a Financial Analyst.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/Etched/a0a1671e-15d4-474c-8227-97fe16ade553" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Occasional Babysitter</div>
+          <div class="job-company">helpr</div>
+          </div>
+          <div class="job-score score-ready">43%</div>
+        </div>
+        <div class="job-why">[Other match] This role builds your administration, analyses, analysis skills and moves you toward becoming a Financial Analyst.</div>
+        <a class="job-link" href="https://helpr.pinpointhq.com/en/postings/3bc104f9-e878-49c2-885a-acf1a35ad83d" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Creative Marketing Designer - Storyby</div>
+          <div class="job-company">SKELAR</div>
+          </div>
+          <div class="job-score score-ready">53%</div>
+        </div>
+        <div class="job-why">[Design match] This role builds your administration, analyses, analysis skills and moves you toward becoming a Financial Analyst.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/SKELAR/bb0a5666-a917-4cfb-b635-6a22fa5366f4" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Nanny / Family Assistant – Westerville, OH</div>
+          <div class="job-company">wellthy-care-network</div>
+          </div>
+          <div class="job-score score-ready">43%</div>
+        </div>
+        <div class="job-why">[Other match] This role builds your administration, analyses, analysis skills and moves you toward becoming a Financial Analyst.</div>
+        <a class="job-link" href="https://job-boards.greenhouse.io/wellthy-care-network/jobs/7761461003" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <h3>Career Goals</h3>
+      <div class="job-list">
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Senior Accountant / Auditor – AI Trainer - Freelance - 8-20 hrs/week - Remote</div>
+          <div class="job-company">10xteam</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your administration, analyses, analysis skills and moves you toward becoming a Financial Analyst.</div>
+        <div class="job-why" style="color:var(--accent);font-weight:500;">Bridge: Your role as an AI Trainer in accounting sharpens your financial analysis and regulatory compliance skills, which are directly transferable to a Financial Analyst position. By developing expertise in scenario development and documentation review, you're building the analytical rigor and attention to detail that top finance roles demand.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/10xteam/03a08507-26a9-49e1-bfaf-97914c85d7f6" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Accountant (Associate) - AI Trainer - Freelance - 8-20hrs/week - Remote</div>
+          <div class="job-company">10xteam</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your administration, analyses, analysis skills and moves you toward becoming a Financial Analyst.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/10xteam/24572aaa-7703-4cee-ac6b-54cf863dbe12" target="_blank" rel="noopener">View position</a>
+      </div>
+      <div class="job-card">
+        <div class="job-top">
+          <div><div class="job-title">Investment Banking Analyst - AI Trainer - Freelance - 8-20hrs/week - Remote</div>
+          <div class="job-company">10xteam</div>
+          </div>
+          <div class="job-score score-goal">80%</div>
+        </div>
+        <div class="job-why">This role builds your administration, analyses, analysis skills and moves you toward becoming a Financial Analyst.</div>
+        <a class="job-link" href="https://jobs.ashbyhq.com/10xteam/9b93337e-fd31-4466-b8c4-82e19534d9e2" target="_blank" rel="noopener">View position</a>
+      </div>
+      </div>
+    </div>
+  </div>
+  <div class="section-head"><h2>Skill Gaps</h2><span class="rule"></span></div>
+  <div class="gaps-grid">
+    <div class="gap-col gap-core">
+      <h4>Core (priority)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">accounting</span>
+        <span class="gap-pill">risk-assessment</span>
+        <span class="gap-pill">ai-training</span>
+        <span class="gap-pill">compliance</span>
+        <span class="gap-pill">financial-reporting</span>
+        <span class="gap-pill">ifrs</span>
+      </div>
+    </div>
+    <div class="gap-col gap-bridge">
+      <h4>Bridge (developing)</h4>
+      <div class="gap-pills">
+        <span class="gap-pill">audit</span>
+        <span class="gap-pill">auditing</span>
+        <span class="gap-pill">audits</span>
+        <span class="gap-pill">bookkeeping</span>
+        <span class="gap-pill">budgeting</span>
+        <span class="gap-pill">capital-markets</span>
+      </div>
+    </div>
+  </div>
+  <footer class="report-footer">SpeakHire Career Report</footer>
+</div>
+</html>
